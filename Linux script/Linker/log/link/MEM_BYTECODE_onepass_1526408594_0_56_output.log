@@ -1,0 +1,492 @@
+Wed May 16 01:48:40 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 01:48:40 UTC 2018: Starting
+Wed May 16 01:48:41 UTC 2018: Found element on the queue
+Wed May 16 01:48:41 UTC 2018: Updating status
+Wed May 16 01:48:41 UTC 2018: Working
+Wed May 16 01:48:41 UTC 2018: Create project parser
+Wed May 16 01:48:45 UTC 2018: Create slicer
+Wed May 16 01:48:47 UTC 2018: Create call graph
+Wed May 16 01:48:52 UTC 2018: Create point analysis
+Wed May 16 01:48:52 UTC 2018: Create call graph done
+Wed May 16 01:48:52 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.bridge.CrossOriginProxyTest
+Wed May 16 01:48:52 UTC 2018: Setting lastTestMethodIndex: 55852
+Wed May 16 01:48:52 UTC 2018: Starting linking
+Wed May 16 01:48:52 UTC 2018: No link for: org.kaazing.gateway.bridge.CrossOriginProxyTest-testCrossOriginProxyRequest
+Wed May 16 01:48:52 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.bridge.CrossOriginProxyTest
+Wed May 16 01:48:53 UTC 2018: Found element on the queue
+Wed May 16 01:48:53 UTC 2018: Updating status
+Wed May 16 01:48:53 UTC 2018: Working
+Wed May 16 01:48:53 UTC 2018: Create project parser
+Wed May 16 01:48:57 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.transport.ws.FrameProcessorTest
+Wed May 16 01:48:57 UTC 2018: Setting lastTestMethodIndex: 55854
+Wed May 16 01:48:57 UTC 2018: Starting linking
+Wed May 16 01:48:57 UTC 2018: No link for: org.kaazing.gateway.client.transport.ws.FrameProcessorTest-testException
+Wed May 16 01:48:57 UTC 2018: No link for: org.kaazing.gateway.client.transport.ws.FrameProcessorTest-testCommandFrames
+Wed May 16 01:48:58 UTC 2018: No link for: org.kaazing.gateway.client.transport.ws.FrameProcessorTest-testBinaryLargeFrames
+Wed May 16 01:48:58 UTC 2018: No link for: org.kaazing.gateway.client.transport.ws.FrameProcessorTest-testTextMultipleFrames
+Wed May 16 01:48:59 UTC 2018: No link for: org.kaazing.gateway.client.transport.ws.FrameProcessorTest-testException2
+Wed May 16 01:48:59 UTC 2018: No link for: org.kaazing.gateway.client.transport.ws.FrameProcessorTest-testBinaryFrames
+Wed May 16 01:48:59 UTC 2018: No link for: org.kaazing.gateway.client.transport.ws.FrameProcessorTest-testTextFrame
+Wed May 16 01:49:00 UTC 2018: No link for: org.kaazing.gateway.client.transport.ws.FrameProcessorTest-testTextLargeFrames
+Wed May 16 01:49:00 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.transport.ws.FrameProcessorTest
+Wed May 16 01:49:01 UTC 2018: Found element on the queue
+Wed May 16 01:49:01 UTC 2018: Updating status
+Wed May 16 01:49:01 UTC 2018: Working
+Wed May 16 01:49:03 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.transport.IoBufferUtilTest
+Wed May 16 01:49:03 UTC 2018: Setting lastTestMethodIndex: 55857
+Wed May 16 01:49:03 UTC 2018: Starting linking
+Wed May 16 01:49:03 UTC 2018: Code found org.kaazing.gateway.client.transport.IoBufferUtil-canAccomodate with org.kaazing.gateway.client.transport.IoBufferUtilTest-testIoBufferUtilCanAccomodate
+Wed May 16 01:49:03 UTC 2018: No link for: org.kaazing.gateway.client.transport.IoBufferUtilTest-testIoBufferUtilExpandRetainSize
+Wed May 16 01:49:04 UTC 2018: No link for: org.kaazing.gateway.client.transport.IoBufferUtilTest-testIoBufferUtilExpand
+Wed May 16 01:49:04 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.transport.IoBufferUtilTest
+Wed May 16 01:49:04 UTC 2018: Found element on the queue
+Wed May 16 01:49:04 UTC 2018: Updating status
+Wed May 16 01:49:04 UTC 2018: Working
+Wed May 16 01:49:04 UTC 2018: Create project parser
+Wed May 16 01:49:11 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.Base64UtilTest
+Wed May 16 01:49:11 UTC 2018: Setting lastTestMethodIndex: 55860
+Wed May 16 01:49:11 UTC 2018: Starting linking
+Wed May 16 01:49:11 UTC 2018: Code found org.kaazing.gateway.client.util.Base64Util-encode with org.kaazing.gateway.client.impl.Base64UtilTest-testEncodeDecode2
+Wed May 16 01:49:12 UTC 2018: Code found org.kaazing.gateway.client.util.Base64Util-encode with org.kaazing.gateway.client.impl.Base64UtilTest-testEncodeDecode
+Wed May 16 01:49:12 UTC 2018: No link for: org.kaazing.gateway.client.impl.Base64UtilTest-mapped
+Wed May 16 01:49:12 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.Base64UtilTest
+Wed May 16 01:49:13 UTC 2018: Found element on the queue
+Wed May 16 01:49:13 UTC 2018: Updating status
+Wed May 16 01:49:13 UTC 2018: Working
+Wed May 16 01:49:15 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest
+Wed May 16 01:49:15 UTC 2018: Setting lastTestMethodIndex: 55863
+Wed May 16 01:49:15 UTC 2018: Starting linking
+Wed May 16 01:49:15 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testWseFallback
+Wed May 16 01:49:15 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testWssFallback
+Wed May 16 01:49:16 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testJavaWseSsl
+Wed May 16 01:49:16 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testJavaWseFailed
+Wed May 16 01:49:16 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testInvalidScheme
+Wed May 16 01:49:17 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testWsFallback
+Wed May 16 01:49:17 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testJavaWs
+Wed May 16 01:49:17 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testJavaWsFailed
+Wed May 16 01:49:17 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testJavaWse
+Wed May 16 01:49:18 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest-testJavaWss
+Wed May 16 01:49:18 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.ws.WebSocketCompositeHandlerTest
+Wed May 16 01:49:19 UTC 2018: Found element on the queue
+Wed May 16 01:49:19 UTC 2018: Updating status
+Wed May 16 01:49:19 UTC 2018: Working
+Wed May 16 01:49:21 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.ws.WebSocketSelectedHandlerTest
+Wed May 16 01:49:21 UTC 2018: Setting lastTestMethodIndex: 55865
+Wed May 16 01:49:21 UTC 2018: Starting linking
+Wed May 16 01:49:21 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketSelectedHandlerTest-testProcessConnect
+Wed May 16 01:49:21 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketSelectedHandlerTest-testMessageReceived
+Wed May 16 01:49:21 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketSelectedHandlerTest-testProcessConnectionClosed
+Wed May 16 01:49:22 UTC 2018: No link for: org.kaazing.gateway.client.impl.ws.WebSocketSelectedHandlerTest-testProcessConnectionFailed
+Wed May 16 01:49:22 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.ws.WebSocketSelectedHandlerTest
+Wed May 16 01:49:23 UTC 2018: Found element on the queue
+Wed May 16 01:49:23 UTC 2018: Updating status
+Wed May 16 01:49:23 UTC 2018: Working
+Wed May 16 01:49:25 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.ByteBufferTest
+Wed May 16 01:49:25 UTC 2018: Setting lastTestMethodIndex: 55867
+Wed May 16 01:49:25 UTC 2018: Starting linking
+Wed May 16 01:49:25 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPrefixStringsInUTF16
+Wed May 16 01:49:25 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-put with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutException
+Wed May 16 01:49:26 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedInt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutUnsignedIntException
+Wed May 16 01:49:26 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putLongAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutLongAtException2
+Wed May 16 01:49:26 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-allocate with org.kaazing.gateway.client.impl.ByteBufferTest-testByteBufferAllocate
+Wed May 16 01:49:27 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getShortAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetShortAtException4
+Wed May 16 01:49:27 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getUnsignedShortAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetUnsignedShortAtException4
+Wed May 16 01:49:27 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putShortAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutShortAtException2
+Wed May 16 01:49:27 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getInt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetIntException3
+Wed May 16 01:49:28 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getIntAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetIntAtException4
+Wed May 16 01:49:28 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsigned with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutUnsignedException
+Wed May 16 01:49:28 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getUnsignedInt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetUnsignedIntException3
+Wed May 16 01:49:29 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetVarious
+Wed May 16 01:49:29 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getUnsignedShort with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetUnsignedShortException3
+Wed May 16 01:49:29 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedShortAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutUnsignedShortAtException2
+Wed May 16 01:49:29 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedIntAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutUnsignedIntAtException2
+Wed May 16 01:49:30 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getShort with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetShortException3
+Wed May 16 01:49:30 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getLongAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetLongAtException4
+Wed May 16 01:49:30 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putShort with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutShortException
+Wed May 16 01:49:30 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putIntAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutIntAtException2
+Wed May 16 01:49:31 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getUnsignedIntAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetUnsignedIntAtException4
+Wed May 16 01:49:31 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getLong with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetLongException3
+Wed May 16 01:49:31 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetSegment
+Wed May 16 01:49:32 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetBytes
+Wed May 16 01:49:32 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPut
+Wed May 16 01:49:32 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutAtException2
+Wed May 16 01:49:32 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedAt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutUnsignedAtException2
+Wed May 16 01:49:33 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedShort with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutUnsignedShortException
+Wed May 16 01:49:33 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putInt with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutIntException
+Wed May 16 01:49:33 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putLong with org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetPutLongException
+Wed May 16 01:49:34 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetLong
+Wed May 16 01:49:34 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetStringsInUTF8
+Wed May 16 01:49:34 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetShort
+Wed May 16 01:49:34 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetUnsigned
+Wed May 16 01:49:35 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testHexDump
+Wed May 16 01:49:35 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetUnsignedInt
+Wed May 16 01:49:35 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetMediumInt
+Wed May 16 01:49:36 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetInt
+Wed May 16 01:49:36 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetShorts
+Wed May 16 01:49:36 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetStringsInASCII
+Wed May 16 01:49:36 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetByteArray
+Wed May 16 01:49:37 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetUnsignedShort
+Wed May 16 01:49:37 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetGetMediumIntException3
+Wed May 16 01:49:37 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testBuffers
+Wed May 16 01:49:38 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testGetAndSetMediumInt2
+Wed May 16 01:49:38 UTC 2018: No link for: org.kaazing.gateway.client.impl.ByteBufferTest-testByteBuffer
+Wed May 16 01:49:38 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.ByteBufferTest
+Wed May 16 01:49:39 UTC 2018: Found element on the queue
+Wed May 16 01:49:39 UTC 2018: Updating status
+Wed May 16 01:49:39 UTC 2018: Working
+Wed May 16 01:49:41 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.wseb.WebSocketEmulatedHandlerTest
+Wed May 16 01:49:41 UTC 2018: Setting lastTestMethodIndex: 55872
+Wed May 16 01:49:41 UTC 2018: Starting linking
+Wed May 16 01:49:41 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.WebSocketEmulatedHandlerTest-testProcessFailed
+Wed May 16 01:49:41 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.WebSocketEmulatedHandlerTest-testProcessOpen
+Wed May 16 01:49:42 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.wseb.WebSocketEmulatedHandlerTest
+Wed May 16 01:49:42 UTC 2018: Found element on the queue
+Wed May 16 01:49:42 UTC 2018: Updating status
+Wed May 16 01:49:42 UTC 2018: Working
+Wed May 16 01:49:44 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.wseb.CreateHandlerTest
+Wed May 16 01:49:44 UTC 2018: Setting lastTestMethodIndex: 55874
+Wed May 16 01:49:44 UTC 2018: Starting linking
+Wed May 16 01:49:44 UTC 2018: Code found org.kaazing.gateway.client.impl.wseb.CreateHandlerImpl-processOpen with org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testProcessOpenWithProtocol
+Wed May 16 01:49:45 UTC 2018: Code found org.kaazing.gateway.client.impl.wseb.CreateHandlerImpl-processOpen with org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testProcessOpen
+Wed May 16 01:49:45 UTC 2018: Code found org.kaazing.gateway.client.impl.wseb.CreateHandlerImpl-processOpen with org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testProcessOpenWithMultipleProtocols
+Wed May 16 01:49:45 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testRequestClosed
+Wed May 16 01:49:46 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testRequestProgressed
+Wed May 16 01:49:46 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testRequestAborted
+Wed May 16 01:49:46 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testErrorOccured
+Wed May 16 01:49:46 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testRequestLoaded
+Wed May 16 01:49:47 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.CreateHandlerTest-testRequestReady
+Wed May 16 01:49:47 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.wseb.CreateHandlerTest
+Wed May 16 01:49:47 UTC 2018: Found element on the queue
+Wed May 16 01:49:47 UTC 2018: Updating status
+Wed May 16 01:49:47 UTC 2018: Working
+Wed May 16 01:49:50 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.wseb.UpstreamHandlerTest
+Wed May 16 01:49:50 UTC 2018: Setting lastTestMethodIndex: 55877
+Wed May 16 01:49:50 UTC 2018: Starting linking
+Wed May 16 01:49:50 UTC 2018: Code found org.kaazing.gateway.client.impl.wseb.UpstreamHandlerImpl-processClose with org.kaazing.gateway.client.impl.wseb.UpstreamHandlerTest-testprocessClose
+Wed May 16 01:49:50 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.UpstreamHandlerTest-testSendTextMessage
+Wed May 16 01:49:50 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.UpstreamHandlerTest-testSendBinaryMessage
+Wed May 16 01:49:51 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.UpstreamHandlerTest-testErrorOccured
+Wed May 16 01:49:51 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.UpstreamHandlerTest-testProcessConnect
+Wed May 16 01:49:51 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.UpstreamHandlerTest-testRequestLoaded
+Wed May 16 01:49:52 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.wseb.UpstreamHandlerTest
+Wed May 16 01:49:52 UTC 2018: Found element on the queue
+Wed May 16 01:49:52 UTC 2018: Updating status
+Wed May 16 01:49:52 UTC 2018: Working
+Wed May 16 01:49:54 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest
+Wed May 16 01:49:54 UTC 2018: Setting lastTestMethodIndex: 55879
+Wed May 16 01:49:54 UTC 2018: Starting linking
+Wed May 16 01:49:55 UTC 2018: Code found org.kaazing.gateway.client.impl.wseb.DownstreamHandlerImpl-processConnect with org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest-testProcessConnect
+Wed May 16 01:49:55 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest-testRequestAborted
+Wed May 16 01:49:55 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest-testRequestReady
+Wed May 16 01:49:55 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest-testRequestLoaded
+Wed May 16 01:49:56 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest-testRequestProgressed
+Wed May 16 01:49:56 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest-testDownStreamFailedOnIdleTimeout
+Wed May 16 01:49:56 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest-testRequestClosed
+Wed May 16 01:49:57 UTC 2018: No link for: org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest-testErrorOccured
+Wed May 16 01:49:57 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.wseb.DownstreamHandlerTest
+Wed May 16 01:49:57 UTC 2018: Found element on the queue
+Wed May 16 01:49:57 UTC 2018: Updating status
+Wed May 16 01:49:57 UTC 2018: Working
+Wed May 16 01:50:00 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest
+Wed May 16 01:50:00 UTC 2018: Setting lastTestMethodIndex: 55882
+Wed May 16 01:50:00 UTC 2018: Starting linking
+Wed May 16 01:50:00 UTC 2018: Code found org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandler-processConnect with org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest-testProcessConnect
+Wed May 16 01:50:00 UTC 2018: Code found org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandler-processBinaryMessage with org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest-testProcessBinaryMessage
+Wed May 16 01:50:00 UTC 2018: Code found org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandler-processAuthorize with org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest-testProcessAuthorize
+Wed May 16 01:50:01 UTC 2018: Code found org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandler-processTextMessage with org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest-testProcessTextMessage
+Wed May 16 01:50:01 UTC 2018: No link for: org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest-testWaitBalancerMessage
+Wed May 16 01:50:01 UTC 2018: No link for: org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest-testProcessBalancerMessage
+Wed May 16 01:50:01 UTC 2018: No link for: org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest-testProcessBalancerRedirectMessage
+Wed May 16 01:50:02 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.wsn.WebSocketNativeBalancingHandlerTest
+Wed May 16 01:50:02 UTC 2018: Found element on the queue
+Wed May 16 01:50:02 UTC 2018: Updating status
+Wed May 16 01:50:02 UTC 2018: Working
+Wed May 16 01:50:05 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest
+Wed May 16 01:50:05 UTC 2018: Setting lastTestMethodIndex: 55884
+Wed May 16 01:50:05 UTC 2018: Starting linking
+Wed May 16 01:50:05 UTC 2018: Code found org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandler-processConnect with org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest-testProcessConnect
+Wed May 16 01:50:05 UTC 2018: Code found org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandler-processAuthorize with org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest-testProcessAuthorize
+Wed May 16 01:50:05 UTC 2018: Code found org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandler-processBinaryMessage with org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest-testProcessBinaryMessage
+Wed May 16 01:50:05 UTC 2018: Code found org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandler-processTextMessage with org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest-testProcessTextMessage
+Wed May 16 01:50:06 UTC 2018: No link for: org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest-testExtendedHandshakeFailed
+Wed May 16 01:50:06 UTC 2018: No link for: org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest-testExtendedHandshakeWith401
+Wed May 16 01:50:06 UTC 2018: No link for: org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest-testExtendedHandshakeSuccess
+Wed May 16 01:50:07 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.wsn.WebSocketNativeHandshakeHandlerTest
+Wed May 16 01:50:07 UTC 2018: Found element on the queue
+Wed May 16 01:50:07 UTC 2018: Updating status
+Wed May 16 01:50:07 UTC 2018: Working
+Wed May 16 01:50:09 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.wsn.WebSocketNativeAuthenticationHandlerTest
+Wed May 16 01:50:09 UTC 2018: Setting lastTestMethodIndex: 55886
+Wed May 16 01:50:09 UTC 2018: Starting linking
+Wed May 16 01:50:09 UTC 2018: Code found org.kaazing.gateway.client.impl.WebSocketHandlerAdapter-processConnect with org.kaazing.gateway.client.impl.wsn.WebSocketNativeAuthenticationHandlerTest-testProcessConnect
+Wed May 16 01:50:09 UTC 2018: Code found org.kaazing.gateway.client.impl.WebSocketHandlerAdapter-processTextMessage with org.kaazing.gateway.client.impl.wsn.WebSocketNativeAuthenticationHandlerTest-testProcessTextMessage
+Wed May 16 01:50:10 UTC 2018: Code found org.kaazing.gateway.client.impl.WebSocketHandlerAdapter-processBinaryMessage with org.kaazing.gateway.client.impl.wsn.WebSocketNativeAuthenticationHandlerTest-testProcessBinaryMessage
+Wed May 16 01:50:10 UTC 2018: No link for: org.kaazing.gateway.client.impl.wsn.WebSocketNativeAuthenticationHandlerTest-testProcessAuthorizeWithChallengeHandler
+Wed May 16 01:50:11 UTC 2018: No link for: org.kaazing.gateway.client.impl.wsn.WebSocketNativeAuthenticationHandlerTest-testProcessAuthorizeWithoutChallengeHandler
+Wed May 16 01:50:11 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.wsn.WebSocketNativeAuthenticationHandlerTest
+Wed May 16 01:50:11 UTC 2018: Found element on the queue
+Wed May 16 01:50:11 UTC 2018: Updating status
+Wed May 16 01:50:11 UTC 2018: Working
+Wed May 16 01:50:14 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandlerTest
+Wed May 16 01:50:14 UTC 2018: Setting lastTestMethodIndex: 55889
+Wed May 16 01:50:14 UTC 2018: Starting linking
+Wed May 16 01:50:14 UTC 2018: Code found org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandler-isHTTPResponse with org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandlerTest-testIsHttpResponseSmall
+Wed May 16 01:50:14 UTC 2018: Code found org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandler-getLines with org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandlerTest-testGetLines
+Wed May 16 01:50:14 UTC 2018: Code found org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandler-isHTTPResponse with org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandlerTest-testIsHttpResponse
+Wed May 16 01:50:15 UTC 2018: No link for: org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandlerTest-testProcessConnect
+Wed May 16 01:50:15 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.http.HttpRequestAuthenticationHandlerTest
+Wed May 16 01:50:15 UTC 2018: Found element on the queue
+Wed May 16 01:50:15 UTC 2018: Updating status
+Wed May 16 01:50:15 UTC 2018: Working
+Wed May 16 01:50:18 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.impl.util.StringUtilsTest
+Wed May 16 01:50:18 UTC 2018: Setting lastTestMethodIndex: 55891
+Wed May 16 01:50:18 UTC 2018: Starting linking
+Wed May 16 01:50:18 UTC 2018: No link for: org.kaazing.gateway.client.impl.util.StringUtilsTest-testStripCRLF
+Wed May 16 01:50:18 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.impl.util.StringUtilsTest
+Wed May 16 01:50:19 UTC 2018: Found element on the queue
+Wed May 16 01:50:19 UTC 2018: Updating status
+Wed May 16 01:50:19 UTC 2018: Working
+Wed May 16 01:50:21 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.util.Base64UtilTest
+Wed May 16 01:50:21 UTC 2018: Setting lastTestMethodIndex: 55893
+Wed May 16 01:50:21 UTC 2018: Starting linking
+Wed May 16 01:50:21 UTC 2018: Code found org.kaazing.gateway.client.util.Base64Util-encode with org.kaazing.gateway.client.util.Base64UtilTest-testEncodeDecode2
+Wed May 16 01:50:21 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:21 UTC 2018: Code found org.kaazing.gateway.client.util.Base64Util-encode with org.kaazing.gateway.client.util.Base64UtilTest-testEncodeDecode
+Wed May 16 01:50:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:22 UTC 2018: No link for: org.kaazing.gateway.client.util.Base64UtilTest-mapped
+Wed May 16 01:50:22 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.util.Base64UtilTest
+Wed May 16 01:50:22 UTC 2018: Found element on the queue
+Wed May 16 01:50:22 UTC 2018: Updating status
+Wed May 16 01:50:22 UTC 2018: Working
+Wed May 16 01:50:25 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.util.ByteBufferTest
+Wed May 16 01:50:25 UTC 2018: Setting lastTestMethodIndex: 55895
+Wed May 16 01:50:25 UTC 2018: Starting linking
+Wed May 16 01:50:25 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getUnsignedIntAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetUnsignedIntAtException4
+Wed May 16 01:50:25 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:25 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedShort with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutUnsignedShortException
+Wed May 16 01:50:25 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:25 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getLongAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetLongAtException4
+Wed May 16 01:50:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:26 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putIntAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutIntAtException2
+Wed May 16 01:50:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:26 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putShort with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutShortException
+Wed May 16 01:50:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:26 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getLong with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetLongException3
+Wed May 16 01:50:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:26 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putShortAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutShortAtException2
+Wed May 16 01:50:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:27 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetSegment
+Wed May 16 01:50:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:27 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putInt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutIntException
+Wed May 16 01:50:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:27 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getShort with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetShortException3
+Wed May 16 01:50:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:27 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetBytes
+Wed May 16 01:50:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:28 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPut
+Wed May 16 01:50:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:28 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-put with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutException
+Wed May 16 01:50:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:28 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutAtException2
+Wed May 16 01:50:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:29 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutUnsignedAtException2
+Wed May 16 01:50:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:29 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putLongAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutLongAtException2
+Wed May 16 01:50:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:29 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-allocate with org.kaazing.gateway.client.util.ByteBufferTest-testByteBufferAllocate
+Wed May 16 01:50:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:29 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getShortAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetShortAtException4
+Wed May 16 01:50:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:30 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putLong with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutLongException
+Wed May 16 01:50:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:30 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPrefixStringsInUTF16
+Wed May 16 01:50:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:30 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedInt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutUnsignedIntException
+Wed May 16 01:50:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:30 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getUnsignedShortAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetUnsignedShortAtException4
+Wed May 16 01:50:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:31 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getInt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetIntException3
+Wed May 16 01:50:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:31 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-compact with org.kaazing.gateway.client.util.ByteBufferTest-testCompact
+Wed May 16 01:50:31 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getIntAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetIntAtException4
+Wed May 16 01:50:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:31 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getUnsignedInt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetUnsignedIntException3
+Wed May 16 01:50:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:32 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-get with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetVarious
+Wed May 16 01:50:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:32 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-getUnsignedShort with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetUnsignedShortException3
+Wed May 16 01:50:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:32 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedShortAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutUnsignedShortAtException2
+Wed May 16 01:50:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:33 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsignedIntAt with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutUnsignedIntAtException2
+Wed May 16 01:50:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:33 UTC 2018: Code found org.kaazing.gateway.client.util.WrappedByteBuffer-putUnsigned with org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetPutUnsignedException
+Wed May 16 01:50:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:50:33 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetUnsignedShort
+Wed May 16 01:50:33 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testBuffers
+Wed May 16 01:50:34 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetGetMediumIntException3
+Wed May 16 01:50:34 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testByteBuffer
+Wed May 16 01:50:34 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetMediumInt2
+Wed May 16 01:50:35 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetByteArray
+Wed May 16 01:50:35 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetLong
+Wed May 16 01:50:35 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetShort
+Wed May 16 01:50:35 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testHexDump
+Wed May 16 01:50:36 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetUnsigned
+Wed May 16 01:50:36 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetMediumInt
+Wed May 16 01:50:36 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetStringsInUTF8
+Wed May 16 01:50:36 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetUnsignedInt
+Wed May 16 01:50:37 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetStringsInASCII
+Wed May 16 01:50:37 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetInt
+Wed May 16 01:50:37 UTC 2018: No link for: org.kaazing.gateway.client.util.ByteBufferTest-testGetAndSetShorts
+Wed May 16 01:50:38 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.util.ByteBufferTest
+Wed May 16 01:50:38 UTC 2018: Found element on the queue
+Wed May 16 01:50:38 UTC 2018: Updating status
+Wed May 16 01:50:38 UTC 2018: Working
+Wed May 16 01:50:40 UTC 2018: Start kaazing__java.clien test class org.kaazing.gateway.client.util.StringUtilsTest
+Wed May 16 01:50:40 UTC 2018: Setting lastTestMethodIndex: 55900
+Wed May 16 01:50:40 UTC 2018: Starting linking
+Wed May 16 01:50:40 UTC 2018: No link for: org.kaazing.gateway.client.util.StringUtilsTest-testStripCRLF
+Wed May 16 01:50:41 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.gateway.client.util.StringUtilsTest
+Wed May 16 01:50:41 UTC 2018: Found element on the queue
+Wed May 16 01:50:41 UTC 2018: Updating status
+Wed May 16 01:50:41 UTC 2018: Working
+Wed May 16 01:50:44 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.impl.auth.DispatchChallengeHandlerTest
+Wed May 16 01:50:44 UTC 2018: Setting lastTestMethodIndex: 55903
+Wed May 16 01:50:44 UTC 2018: Starting linking
+Wed May 16 01:50:44 UTC 2018: Code found org.kaazing.net.impl.auth.DefaultDispatchChallengeHandler-lookup with org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testLookupByChallengeExactMatch
+Wed May 16 01:50:44 UTC 2018: Code found org.kaazing.net.impl.auth.DefaultDispatchChallengeHandler-lookup with org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testLookupByChallengeNodeAboveWildcardMatch
+Wed May 16 01:50:44 UTC 2018: Code found org.kaazing.net.impl.auth.DefaultDispatchChallengeHandler-lookup with org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testLookupByChallengeCloseWildcardMatch
+Wed May 16 01:50:44 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-shouldFindChallengerHandlerRegisteredWithNoSchemeWildcardSubDomainAndPath
+Wed May 16 01:50:45 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testCorrectlyHandleWildcardSubdomain
+Wed May 16 01:50:45 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-shouldFindChallengerHandlerRegisteredWithNoSchemeAndAWildcardSubdomain
+Wed May 16 01:50:45 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testSubdomainIsSignificant
+Wed May 16 01:50:46 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testFullUriTokenization
+Wed May 16 01:50:46 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testLookup
+Wed May 16 01:50:46 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-shouldFindChallengerHandlerRegisteredWithNoSchemeExplicitPortAndPath
+Wed May 16 01:50:46 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testTokenWildcardZeroLengthMatches
+Wed May 16 01:50:47 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testCorrectlyHandleTrailingSlashAfterHostName
+Wed May 16 01:50:47 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testMissingHost
+Wed May 16 01:50:47 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testBadUriInput
+Wed May 16 01:50:48 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-shouldFindChallengerHandlerRegisteredWithNoSchemeNoPortOrPath
+Wed May 16 01:50:48 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testFailedLookup
+Wed May 16 01:50:48 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testKaazingCreateEmulatedUriTokenization
+Wed May 16 01:50:49 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testWildcardUriTokenization
+Wed May 16 01:50:49 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-rulesForWildcardedHostAndPathMatching
+Wed May 16 01:50:49 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testUriTokenizationOfEmptyStrings
+Wed May 16 01:50:49 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testCorrectlyHandleUnspecifiedAuthInfo
+Wed May 16 01:50:50 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-shouldNotFindChallengerHandlerDueToNonMatchingHost
+Wed May 16 01:50:50 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-shouldFindChallengerHandlerRegisteredWithSimpleWildCardHost
+Wed May 16 01:50:50 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testCorrectlyHandleUnspecifiedPort
+Wed May 16 01:50:50 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-rulesForWildcardedUserInfoMatching
+Wed May 16 01:50:51 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-rulesForWildcardedHostAndPortMatching
+Wed May 16 01:50:51 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testCorrectlyHandleUnspecifiedPathInfo
+Wed May 16 01:50:51 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-rulesForSingleWildcardMatching
+Wed May 16 01:50:52 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testKaazingCreateEmulatedUriWithNonDefaultPortTokenization
+Wed May 16 01:50:52 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-shouldFindChallengerHandlerRegisteredWithNoSchemeWildcardPortAndPath
+Wed May 16 01:50:52 UTC 2018: No link for: org.kaazing.net.impl.auth.DispatchChallengeHandlerTest-testPureWildcardRegistration
+Wed May 16 01:50:52 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.impl.auth.DispatchChallengeHandlerTest
+Wed May 16 01:50:53 UTC 2018: Found element on the queue
+Wed May 16 01:50:53 UTC 2018: Updating status
+Wed May 16 01:50:53 UTC 2018: Working
+Wed May 16 01:50:55 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.impl.auth.NodeTest
+Wed May 16 01:50:55 UTC 2018: Setting lastTestMethodIndex: 55907
+Wed May 16 01:50:55 UTC 2018: Starting linking
+Wed May 16 01:50:55 UTC 2018: Code found org.kaazing.net.impl.auth.DefaultDispatchChallengeHandler$Node-isWildcard with org.kaazing.net.impl.auth.NodeTest-testIsWildcard
+Wed May 16 01:50:56 UTC 2018: Code found org.kaazing.net.impl.auth.DefaultDispatchChallengeHandler$Node-hasChildren with org.kaazing.net.impl.auth.NodeTest-testHasChildren
+Wed May 16 01:50:56 UTC 2018: Code found org.kaazing.net.impl.auth.DefaultDispatchChallengeHandler$Node-getParent with org.kaazing.net.impl.auth.NodeTest-testGetParent
+Wed May 16 01:50:56 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testCannotCreateANullNamedNode
+Wed May 16 01:50:57 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testMakeChild
+Wed May 16 01:50:57 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testHasWildcardDefined
+Wed May 16 01:50:57 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testWildcard
+Wed May 16 01:50:58 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testCannotFindChildWithWrongName
+Wed May 16 01:50:58 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testSetValue
+Wed May 16 01:50:58 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testCannotCreateAnEmptyNamedNode
+Wed May 16 01:50:58 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testAccessRootNode
+Wed May 16 01:50:59 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testGetWildcard
+Wed May 16 01:50:59 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testFullyQualifiedName
+Wed May 16 01:50:59 UTC 2018: No link for: org.kaazing.net.impl.auth.NodeTest-testSetValueOnRootNodeIllegal
+Wed May 16 01:50:59 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.impl.auth.NodeTest
+Wed May 16 01:51:00 UTC 2018: Found element on the queue
+Wed May 16 01:51:00 UTC 2018: Updating status
+Wed May 16 01:51:00 UTC 2018: Working
+Wed May 16 01:51:02 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.auth.TestExamples
+Wed May 16 01:51:02 UTC 2018: Setting lastTestMethodIndex: 55911
+Wed May 16 01:51:02 UTC 2018: Starting linking
+Wed May 16 01:51:02 UTC 2018: No code found org.kaazing.net.auth.DispatchChallengeHandler-register with org.kaazing.net.auth.TestExamples-EXAMPLE_clientWantsToRegisterMultipleLocationSpecificChallengeHandlersDeclaratively
+Wed May 16 01:51:03 UTC 2018: No code found org.kaazing.net.auth.DispatchChallengeHandler-register with org.kaazing.net.auth.TestExamples-EXAMPLE_clientWantsToRegisterOneLocationSpecificChallengeHandler
+Wed May 16 01:51:03 UTC 2018: No code found org.kaazing.net.auth.DispatchChallengeHandler-register with org.kaazing.net.auth.TestExamples-EXAMPLE_clientWantsToRegisterOneLocationSpecificChallengeHandlerDeclaratively
+Wed May 16 01:51:03 UTC 2018: No link for: org.kaazing.net.auth.TestExamples-EXAMPLE_clientWantsToUseOneGlobalChallengeHandlerDeclaratively
+Wed May 16 01:51:03 UTC 2018: No link for: org.kaazing.net.auth.TestExamples-EXAMPLE_clientWantsToUseOneGlobalChallengeHandler
+Wed May 16 01:51:04 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.auth.TestExamples
+Wed May 16 01:51:04 UTC 2018: Found element on the queue
+Wed May 16 01:51:04 UTC 2018: Updating status
+Wed May 16 01:51:04 UTC 2018: Working
+Wed May 16 01:51:07 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.auth.BasicChallengeHandlerTest
+Wed May 16 01:51:07 UTC 2018: Setting lastTestMethodIndex: 55913
+Wed May 16 01:51:07 UTC 2018: Starting linking
+Wed May 16 01:51:07 UTC 2018: No code found org.kaazing.net.auth.DispatchChallengeHandler-register with org.kaazing.net.auth.BasicChallengeHandlerTest-shouldAlwaysHandleABasicRequestIfBasicChallengeHandlerIsRegistered
+Wed May 16 01:51:07 UTC 2018: No code found org.kaazing.net.auth.DispatchChallengeHandler-register with org.kaazing.net.auth.BasicChallengeHandlerTest-shouldOnlyHandleRealmSpecificRequestsWithRealmSpecificRegisteredHandler
+Wed May 16 01:51:07 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.auth.BasicChallengeHandlerTest
+Wed May 16 01:51:08 UTC 2018: Found element on the queue
+Wed May 16 01:51:08 UTC 2018: Updating status
+Wed May 16 01:51:08 UTC 2018: Working
+Wed May 16 01:51:10 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.auth.ChallengeHandlersTest
+Wed May 16 01:51:10 UTC 2018: Setting lastTestMethodIndex: 55915
+Wed May 16 01:51:10 UTC 2018: Starting linking
+Wed May 16 01:51:10 UTC 2018: No link for: org.kaazing.net.auth.ChallengeHandlersTest-testChallengeHandlerFactoryClassLoading
+Wed May 16 01:51:10 UTC 2018: No link for: org.kaazing.net.auth.ChallengeHandlersTest-testChallengeHandlerFactoryLoading
+Wed May 16 01:51:10 UTC 2018: No link for: org.kaazing.net.auth.ChallengeHandlersTest-testFindByClassObject
+Wed May 16 01:51:11 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.auth.ChallengeHandlersTest
+Wed May 16 01:51:11 UTC 2018: Found element on the queue
+Wed May 16 01:51:11 UTC 2018: Updating status
+Wed May 16 01:51:11 UTC 2018: Working
+Wed May 16 01:51:14 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.auth.ChallengeHandlerTest
+Wed May 16 01:51:14 UTC 2018: Setting lastTestMethodIndex: 55916
+Wed May 16 01:51:14 UTC 2018: Starting linking
+Wed May 16 01:51:14 UTC 2018: No code found org.kaazing.net.auth.DispatchChallengeHandler-register with org.kaazing.net.auth.ChallengeHandlerTest-clientShouldBeAbleToRegisterAndUseABasicChallengeHandler
+Wed May 16 01:51:14 UTC 2018: No link for: org.kaazing.net.auth.ChallengeHandlerTest-shouldCorrectlyRetrieveAnEstablishedDefaultChallengeHandler
+Wed May 16 01:51:14 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.auth.ChallengeHandlerTest
+Wed May 16 01:51:15 UTC 2018: Found element on the queue
+Wed May 16 01:51:15 UTC 2018: Updating status
+Wed May 16 01:51:15 UTC 2018: Working
+Wed May 16 01:51:17 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.auth.ChallengeRequestTest
+Wed May 16 01:51:17 UTC 2018: Setting lastTestMethodIndex: 55919
+Wed May 16 01:51:17 UTC 2018: Starting linking
+Wed May 16 01:51:17 UTC 2018: No link for: org.kaazing.net.auth.ChallengeRequestTest-testNullChallenge
+Wed May 16 01:51:17 UTC 2018: No link for: org.kaazing.net.auth.ChallengeRequestTest-testBasicChallenge
+Wed May 16 01:51:18 UTC 2018: No link for: org.kaazing.net.auth.ChallengeRequestTest-testNullLocation
+Wed May 16 01:51:18 UTC 2018: No link for: org.kaazing.net.auth.ChallengeRequestTest-testRealmParameter
+Wed May 16 01:51:18 UTC 2018: No link for: org.kaazing.net.auth.ChallengeRequestTest-testEmptyChallenge
+Wed May 16 01:51:19 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.auth.ChallengeRequestTest
+Wed May 16 01:51:19 UTC 2018: Found element on the queue
+Wed May 16 01:51:19 UTC 2018: Updating status
+Wed May 16 01:51:19 UTC 2018: Working
+Wed May 16 01:51:21 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.auth.ChallengeResponseTest
+Wed May 16 01:51:21 UTC 2018: Setting lastTestMethodIndex: 55921
+Wed May 16 01:51:21 UTC 2018: Starting linking
+Wed May 16 01:51:21 UTC 2018: No link for: org.kaazing.net.auth.ChallengeResponseTest-testConstruction
+Wed May 16 01:51:22 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.auth.ChallengeResponseTest
+Wed May 16 01:51:22 UTC 2018: Found element on the queue
+Wed May 16 01:51:22 UTC 2018: Updating status
+Wed May 16 01:51:22 UTC 2018: Working
+Wed May 16 01:51:24 UTC 2018: Start kaazing__java.clien test class org.kaazing.net.http.HttpRedirectPolicyTest
+Wed May 16 01:51:25 UTC 2018: Setting lastTestMethodIndex: 55923
+Wed May 16 01:51:25 UTC 2018: Starting linking
+Wed May 16 01:51:25 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testAlways
+Wed May 16 01:51:25 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSameDomainWithIdenticalAuthority
+Wed May 16 01:51:25 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSameDomain
+Wed May 16 01:51:25 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSubDomainSameAuthority
+Wed May 16 01:51:26 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testPeerDomainSameHostname
+Wed May 16 01:51:26 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSameOrigin
+Wed May 16 01:51:26 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testNever
+Wed May 16 01:51:27 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testPeerDomainNegative
+Wed May 16 01:51:27 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSameOriginWithDifferentHost
+Wed May 16 01:51:27 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testChildDomain
+Wed May 16 01:51:27 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSubDomain
+Wed May 16 01:51:28 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSameDomainWithDifferentHosts
+Wed May 16 01:51:28 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testPeerDomainSameAuthority
+Wed May 16 01:51:28 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSameOriginWithDifferentPorts
+Wed May 16 01:51:29 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testPeerDomain
+Wed May 16 01:51:29 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSubDomainNegative
+Wed May 16 01:51:29 UTC 2018: No link for: org.kaazing.net.http.HttpRedirectPolicyTest-testSubDomainSameHostname
+Wed May 16 01:51:30 UTC 2018: Linking done for kaazing__java.clien test class org.kaazing.net.http.HttpRedirectPolicyTest

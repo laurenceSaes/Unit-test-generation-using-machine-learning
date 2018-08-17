@@ -1,0 +1,57 @@
+Tue May 15 15:33:12 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 15:33:12 UTC 2018: Starting
+Tue May 15 15:33:13 UTC 2018: Found element on the queue
+Tue May 15 15:33:13 UTC 2018: Updating status
+Tue May 15 15:33:13 UTC 2018: Working
+Tue May 15 15:33:13 UTC 2018: Create project parser
+Tue May 15 15:33:19 UTC 2018: Create slicer
+Tue May 15 15:33:21 UTC 2018: Create call graph
+Tue May 15 15:33:23 UTC 2018: Create point analysis
+Tue May 15 15:33:23 UTC 2018: Create call graph done
+Tue May 15 15:33:23 UTC 2018: Start draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.EscherConverterTest
+Tue May 15 15:33:23 UTC 2018: Setting lastTestMethodIndex: 36650
+Tue May 15 15:33:23 UTC 2018: Starting linking
+Tue May 15 15:33:23 UTC 2018: Linking done for draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.EscherConverterTest
+Tue May 15 15:33:23 UTC 2018: Found element on the queue
+Tue May 15 15:33:23 UTC 2018: Updating status
+Tue May 15 15:33:23 UTC 2018: Working
+Tue May 15 15:33:26 UTC 2018: Start draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.SBGN2EscherTest
+Tue May 15 15:33:26 UTC 2018: Setting lastTestMethodIndex: 36651
+Tue May 15 15:33:26 UTC 2018: Starting linking
+Tue May 15 15:33:26 UTC 2018: Code found edu.ucsd.sbrg.escher.converter.SBGN2Escher-createReaction with edu.ucsd.sbrg.escher.SBGN2EscherTest-createReactionCallsCountMatches
+Tue May 15 15:33:26 UTC 2018: No link for: edu.ucsd.sbrg.escher.SBGN2EscherTest-nodesShouldBeEqualTest
+Tue May 15 15:33:26 UTC 2018: No link for: edu.ucsd.sbrg.escher.SBGN2EscherTest-failsOnNonExistentFileTest
+Tue May 15 15:33:26 UTC 2018: No link for: edu.ucsd.sbrg.escher.SBGN2EscherTest-failsOnInvalidSbgnFile
+Tue May 15 15:33:26 UTC 2018: No link for: edu.ucsd.sbrg.escher.SBGN2EscherTest-addCanvasCalled
+Tue May 15 15:33:26 UTC 2018: Linking done for draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.SBGN2EscherTest
+Tue May 15 15:33:27 UTC 2018: Found element on the queue
+Tue May 15 15:33:27 UTC 2018: Updating status
+Tue May 15 15:33:27 UTC 2018: Working
+Tue May 15 15:33:29 UTC 2018: Start draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.SBML2EscherTest
+Tue May 15 15:33:29 UTC 2018: Setting lastTestMethodIndex: 36653
+Tue May 15 15:33:29 UTC 2018: Starting linking
+Tue May 15 15:33:29 UTC 2018: No link for: edu.ucsd.sbrg.escher.SBML2EscherTest-failsOnInvalidSbgnFile
+Tue May 15 15:33:29 UTC 2018: No link for: edu.ucsd.sbrg.escher.SBML2EscherTest-failsOnNonExistentFileTest
+Tue May 15 15:33:29 UTC 2018: Linking done for draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.SBML2EscherTest
+Tue May 15 15:33:30 UTC 2018: Found element on the queue
+Tue May 15 15:33:30 UTC 2018: Updating status
+Tue May 15 15:33:30 UTC 2018: Working
+Tue May 15 15:33:32 UTC 2018: Start draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.model.NodeTest
+Tue May 15 15:33:32 UTC 2018: Setting lastTestMethodIndex: 36654
+Tue May 15 15:33:32 UTC 2018: Starting linking
+Tue May 15 15:33:32 UTC 2018: Code found edu.ucsd.sbrg.escher.model.Node-setBiggId with edu.ucsd.sbrg.escher.model.NodeTest-testSetBiggId
+Tue May 15 15:33:33 UTC 2018: Linking done for draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.model.NodeTest
+Tue May 15 15:33:33 UTC 2018: Found element on the queue
+Tue May 15 15:33:33 UTC 2018: Updating status
+Tue May 15 15:33:33 UTC 2018: Working
+Tue May 15 15:33:35 UTC 2018: Start draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.ValidationTest
+Tue May 15 15:33:35 UTC 2018: Setting lastTestMethodIndex: 36656
+Tue May 15 15:33:35 UTC 2018: Starting linking
+Tue May 15 15:33:35 UTC 2018: No link for: edu.ucsd.sbrg.escher.ValidationTest-escherValidationTest
+Tue May 15 15:33:36 UTC 2018: No link for: edu.ucsd.sbrg.escher.ValidationTest-failsOnInvalidJsonSchemaFile
+Tue May 15 15:33:36 UTC 2018: No link for: edu.ucsd.sbrg.escher.ValidationTest-sbgnValidationTest
+Tue May 15 15:33:36 UTC 2018: No link for: edu.ucsd.sbrg.escher.ValidationTest-failsOnInvalidSbgnDocument
+Tue May 15 15:33:36 UTC 2018: No link for: edu.ucsd.sbrg.escher.ValidationTest-validatesSbmlDocument
+Tue May 15 15:33:36 UTC 2018: No link for: edu.ucsd.sbrg.escher.ValidationTest-canValidateJsonSchemaFile
+Tue May 15 15:33:36 UTC 2018: No link for: edu.ucsd.sbrg.escher.ValidationTest-failsOnInvalidSbmlDocument
+Tue May 15 15:33:36 UTC 2018: Linking done for draeger-lab__EscherConverter test class edu.ucsd.sbrg.escher.ValidationTest

@@ -1,0 +1,434 @@
+Wed May 16 01:53:42 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 01:53:42 UTC 2018: Starting
+Wed May 16 01:53:43 UTC 2018: Found element on the queue
+Wed May 16 01:53:43 UTC 2018: Updating status
+Wed May 16 01:53:43 UTC 2018: Working
+Wed May 16 01:53:43 UTC 2018: Create project parser
+Wed May 16 01:53:47 UTC 2018: Create slicer
+Wed May 16 01:53:48 UTC 2018: Create call graph
+Wed May 16 01:53:51 UTC 2018: Create point analysis
+Wed May 16 01:53:51 UTC 2018: Create call graph done
+Wed May 16 01:53:51 UTC 2018: Start karasatishkumar__easylocate test class com.techiekernel.easylocate.AppTest
+Wed May 16 01:53:51 UTC 2018: Setting lastTestMethodIndex: 56005
+Wed May 16 01:53:51 UTC 2018: Starting linking
+Wed May 16 01:53:51 UTC 2018: Linking done for karasatishkumar__easylocate test class com.techiekernel.easylocate.AppTest
+Wed May 16 01:53:52 UTC 2018: Found element on the queue
+Wed May 16 01:53:52 UTC 2018: Updating status
+Wed May 16 01:53:52 UTC 2018: Working
+Wed May 16 01:53:52 UTC 2018: Create project parser
+Wed May 16 01:53:58 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.token.TestDefaultTokenServicesWithInMemory
+Wed May 16 01:53:58 UTC 2018: Setting lastTestMethodIndex: 56008
+Wed May 16 01:53:58 UTC 2018: Starting linking
+Wed May 16 01:53:58 UTC 2018: No link for: org.springframework.security.oauth2.provider.token.TestDefaultTokenServicesWithInMemory-testExpiredToken
+Wed May 16 01:53:58 UTC 2018: No link for: org.springframework.security.oauth2.provider.token.TestDefaultTokenServicesWithInMemory-testExpiredRefreshToken
+Wed May 16 01:53:58 UTC 2018: No link for: org.springframework.security.oauth2.provider.token.TestDefaultTokenServicesWithInMemory-testExpiredRefreshTokenIsRenewedWithNewAccessToken
+Wed May 16 01:53:59 UTC 2018: No link for: org.springframework.security.oauth2.provider.token.TestDefaultTokenServicesWithInMemory-testDifferentRefreshTokenMaintainsState
+Wed May 16 01:53:59 UTC 2018: No link for: org.springframework.security.oauth2.provider.token.TestDefaultTokenServicesWithInMemory-testNoRefreshTokenIfNotAuthorized
+Wed May 16 01:53:59 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.token.TestDefaultTokenServicesWithInMemory
+Wed May 16 01:54:00 UTC 2018: Found element on the queue
+Wed May 16 01:54:00 UTC 2018: Updating status
+Wed May 16 01:54:00 UTC 2018: Working
+Wed May 16 01:54:02 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.token.TestInMemoryTokenStore
+Wed May 16 01:54:02 UTC 2018: Setting lastTestMethodIndex: 56011
+Wed May 16 01:54:02 UTC 2018: Starting linking
+Wed May 16 01:54:02 UTC 2018: No link for: org.springframework.security.oauth2.provider.token.TestInMemoryTokenStore-testTokenCountConsistentWithExpiryQueue
+Wed May 16 01:54:03 UTC 2018: No link for: org.springframework.security.oauth2.provider.token.TestInMemoryTokenStore-testTokenCountConsistency
+Wed May 16 01:54:03 UTC 2018: No link for: org.springframework.security.oauth2.provider.token.TestInMemoryTokenStore-testAutoFlush
+Wed May 16 01:54:03 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.token.TestInMemoryTokenStore
+Wed May 16 01:54:04 UTC 2018: Found element on the queue
+Wed May 16 01:54:04 UTC 2018: Updating status
+Wed May 16 01:54:04 UTC 2018: Working
+Wed May 16 01:54:06 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.authentication.TestOAuth2AuthenticationManager
+Wed May 16 01:54:06 UTC 2018: Setting lastTestMethodIndex: 56015
+Wed May 16 01:54:06 UTC 2018: Starting linking
+Wed May 16 01:54:06 UTC 2018: No link for: org.springframework.security.oauth2.provider.authentication.TestOAuth2AuthenticationManager-testDetailsAdded
+Wed May 16 01:54:07 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.authentication.TestOAuth2AuthenticationManager
+Wed May 16 01:54:07 UTC 2018: Found element on the queue
+Wed May 16 01:54:07 UTC 2018: Updating status
+Wed May 16 01:54:07 UTC 2018: Working
+Wed May 16 01:54:10 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.authentication.TestOAuth2AuthenticationProcessingFilter
+Wed May 16 01:54:10 UTC 2018: Setting lastTestMethodIndex: 56017
+Wed May 16 01:54:10 UTC 2018: Starting linking
+Wed May 16 01:54:10 UTC 2018: No link for: org.springframework.security.oauth2.provider.authentication.TestOAuth2AuthenticationProcessingFilter-testDetailsAdded
+Wed May 16 01:54:10 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.authentication.TestOAuth2AuthenticationProcessingFilter
+Wed May 16 01:54:10 UTC 2018: Found element on the queue
+Wed May 16 01:54:10 UTC 2018: Updating status
+Wed May 16 01:54:10 UTC 2018: Working
+Wed May 16 01:54:13 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestExactMatchRedirectResolver
+Wed May 16 01:54:13 UTC 2018: Setting lastTestMethodIndex: 56020
+Wed May 16 01:54:13 UTC 2018: Starting linking
+Wed May 16 01:54:13 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestExactMatchRedirectResolver-testRedirectWithNoRegisteredValue
+Wed May 16 01:54:13 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestExactMatchRedirectResolver-testRedirectWithNoRequestedValue
+Wed May 16 01:54:14 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestExactMatchRedirectResolver-testRedirectNotMatching
+Wed May 16 01:54:14 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestExactMatchRedirectResolver
+Wed May 16 01:54:14 UTC 2018: Found element on the queue
+Wed May 16 01:54:14 UTC 2018: Updating status
+Wed May 16 01:54:15 UTC 2018: Working
+Wed May 16 01:54:17 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestAuthorizationRequestHolder
+Wed May 16 01:54:17 UTC 2018: Setting lastTestMethodIndex: 56022
+Wed May 16 01:54:17 UTC 2018: Starting linking
+Wed May 16 01:54:17 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestAuthorizationRequestHolder-test
+Wed May 16 01:54:17 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestAuthorizationRequestHolder
+Wed May 16 01:54:18 UTC 2018: Found element on the queue
+Wed May 16 01:54:18 UTC 2018: Updating status
+Wed May 16 01:54:18 UTC 2018: Working
+Wed May 16 01:54:20 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestAuthorizationCodeTokenGranter
+Wed May 16 01:54:20 UTC 2018: Setting lastTestMethodIndex: 56025
+Wed May 16 01:54:20 UTC 2018: Starting linking
+Wed May 16 01:54:20 UTC 2018: Code found org.springframework.security.oauth2.provider.token.AbstractTokenGranter-grant with org.springframework.security.oauth2.provider.code.TestAuthorizationCodeTokenGranter-testAuthorizationCodeGrant
+Wed May 16 01:54:21 UTC 2018: Code found org.springframework.security.oauth2.provider.token.AbstractTokenGranter-grant with org.springframework.security.oauth2.provider.code.TestAuthorizationCodeTokenGranter-testAuthorizationCodeGrantWithNoClientAuthorities
+Wed May 16 01:54:21 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestAuthorizationCodeTokenGranter-testAuthorizationRedirectMismatch
+Wed May 16 01:54:21 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestAuthorizationCodeTokenGranter-testAuthorizationParametersPreserved
+Wed May 16 01:54:22 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestAuthorizationCodeTokenGranter-testAuthorizationRequestPreserved
+Wed May 16 01:54:22 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestAuthorizationCodeTokenGranter
+Wed May 16 01:54:22 UTC 2018: Found element on the queue
+Wed May 16 01:54:22 UTC 2018: Updating status
+Wed May 16 01:54:22 UTC 2018: Working
+Wed May 16 01:54:25 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver
+Wed May 16 01:54:25 UTC 2018: Setting lastTestMethodIndex: 56028
+Wed May 16 01:54:25 UTC 2018: Starting linking
+Wed May 16 01:54:25 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver-testNoGrantType
+Wed May 16 01:54:25 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver-testWrongCustomGrantType
+Wed May 16 01:54:26 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver-testRedirectNotMatching
+Wed May 16 01:54:26 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver-testRedirectWithNoRequestedValue
+Wed May 16 01:54:26 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver-testWrongGrantType
+Wed May 16 01:54:26 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver-testRedirectWithNoRequestedValueAndMultipleRegistered
+Wed May 16 01:54:27 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver-testRedirectWithNoRegisteredValue
+Wed May 16 01:54:27 UTC 2018: No link for: org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver-testRedirectMatchesRegisteredValue
+Wed May 16 01:54:27 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestDefaultRedirectResolver
+Wed May 16 01:54:28 UTC 2018: Found element on the queue
+Wed May 16 01:54:28 UTC 2018: Updating status
+Wed May 16 01:54:28 UTC 2018: Working
+Wed May 16 01:54:30 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestInMemoryAuthorizationCodeServices
+Wed May 16 01:54:30 UTC 2018: Setting lastTestMethodIndex: 56031
+Wed May 16 01:54:30 UTC 2018: Starting linking
+Wed May 16 01:54:30 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.code.TestInMemoryAuthorizationCodeServices
+Wed May 16 01:54:31 UTC 2018: Found element on the queue
+Wed May 16 01:54:31 UTC 2018: Updating status
+Wed May 16 01:54:31 UTC 2018: Working
+Wed May 16 01:54:33 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.vote.TestScopeVoter
+Wed May 16 01:54:33 UTC 2018: Setting lastTestMethodIndex: 56034
+Wed May 16 01:54:33 UTC 2018: Starting linking
+Wed May 16 01:54:33 UTC 2018: No link for: org.springframework.security.oauth2.provider.vote.TestScopeVoter-testAccessGrantedIfScopesPresentWithPrefix
+Wed May 16 01:54:34 UTC 2018: No link for: org.springframework.security.oauth2.provider.vote.TestScopeVoter-testAbstainIfNotOAuth2
+Wed May 16 01:54:34 UTC 2018: No link for: org.springframework.security.oauth2.provider.vote.TestScopeVoter-testDenyIfOAuth2AndExplictlyDenied
+Wed May 16 01:54:34 UTC 2018: No link for: org.springframework.security.oauth2.provider.vote.TestScopeVoter-testExceptionThrownIfWrongScopesPresent
+Wed May 16 01:54:35 UTC 2018: No link for: org.springframework.security.oauth2.provider.vote.TestScopeVoter-testAccessGrantedIfScopesPresent
+Wed May 16 01:54:35 UTC 2018: No link for: org.springframework.security.oauth2.provider.vote.TestScopeVoter-testAccessDeniedIfWrongScopesPresent
+Wed May 16 01:54:35 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.vote.TestScopeVoter
+Wed May 16 01:54:36 UTC 2018: Found element on the queue
+Wed May 16 01:54:36 UTC 2018: Updating status
+Wed May 16 01:54:36 UTC 2018: Working
+Wed May 16 01:54:38 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.TestBaseClientDetails
+Wed May 16 01:54:38 UTC 2018: Setting lastTestMethodIndex: 56037
+Wed May 16 01:54:38 UTC 2018: Starting linking
+Wed May 16 01:54:38 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestBaseClientDetails-testJsonSerialize
+Wed May 16 01:54:39 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestBaseClientDetails-testBaseClientDetailsConvenienceConstructor
+Wed May 16 01:54:39 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestBaseClientDetails-testBaseClientDetailsDefaultConstructor
+Wed May 16 01:54:39 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestBaseClientDetails-testJsonDeserializeWithArraysAsStrings
+Wed May 16 01:54:40 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestBaseClientDetails-testJsonDeserialize
+Wed May 16 01:54:40 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestBaseClientDetails-testJsonSerializeAdditionalInformation
+Wed May 16 01:54:40 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.TestBaseClientDetails
+Wed May 16 01:54:41 UTC 2018: Found element on the queue
+Wed May 16 01:54:41 UTC 2018: Updating status
+Wed May 16 01:54:41 UTC 2018: Working
+Wed May 16 01:54:43 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequest
+Wed May 16 01:54:43 UTC 2018: Setting lastTestMethodIndex: 56040
+Wed May 16 01:54:43 UTC 2018: Starting linking
+Wed May 16 01:54:43 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequest-testScopeSortedOrder
+Wed May 16 01:54:43 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequest-testApproval
+Wed May 16 01:54:44 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequest-testScopeSetInParameters
+Wed May 16 01:54:44 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequest-testRedirectUriDefaultsToMap
+Wed May 16 01:54:44 UTC 2018: No link for: org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequest-testScopeWithSpace
+Wed May 16 01:54:45 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequest
+Wed May 16 01:54:45 UTC 2018: Found element on the queue
+Wed May 16 01:54:45 UTC 2018: Updating status
+Wed May 16 01:54:45 UTC 2018: Working
+Wed May 16 01:54:48 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods
+Wed May 16 01:54:48 UTC 2018: Setting lastTestMethodIndex: 56042
+Wed May 16 01:54:48 UTC 2018: Starting linking
+Wed May 16 01:54:48 UTC 2018: Code found org.springframework.security.oauth2.provider.expression.OAuth2SecurityExpressionMethods-sufficientScope with org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testInsufficientScope
+Wed May 16 01:54:48 UTC 2018: Code found org.springframework.security.oauth2.provider.expression.OAuth2SecurityExpressionMethods-sufficientScope with org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testSufficientScopeWithNoPreviousScopeDecision
+Wed May 16 01:54:48 UTC 2018: Code found org.springframework.security.oauth2.provider.expression.OAuth2SecurityExpressionMethods-sufficientScope with org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testSufficientScope
+Wed May 16 01:54:49 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testNonOauthClient
+Wed May 16 01:54:49 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testClientOnly
+Wed May 16 01:54:49 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testScopes
+Wed May 16 01:54:50 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testOauthClient
+Wed May 16 01:54:50 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testScopesFalse
+Wed May 16 01:54:50 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testOAuthUser
+Wed May 16 01:54:50 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods-testScopesWithException
+Wed May 16 01:54:51 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.expression.TestOAuth2SecurityExpressionMethods
+Wed May 16 01:54:51 UTC 2018: Found element on the queue
+Wed May 16 01:54:51 UTC 2018: Updating status
+Wed May 16 01:54:51 UTC 2018: Working
+Wed May 16 01:54:54 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.expression.TestOAuth2MethodSecurityExpressionHandler
+Wed May 16 01:54:54 UTC 2018: Setting lastTestMethodIndex: 56046
+Wed May 16 01:54:54 UTC 2018: Starting linking
+Wed May 16 01:54:54 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2MethodSecurityExpressionHandler-testOauthClient
+Wed May 16 01:54:54 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2MethodSecurityExpressionHandler-testStandardSecurityRoot
+Wed May 16 01:54:54 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2MethodSecurityExpressionHandler-testScopes
+Wed May 16 01:54:55 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2MethodSecurityExpressionHandler-testReEvaluationWithDifferentRoot
+Wed May 16 01:54:55 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2MethodSecurityExpressionHandler-testNonOauthClient
+Wed May 16 01:54:55 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.expression.TestOAuth2MethodSecurityExpressionHandler
+Wed May 16 01:54:56 UTC 2018: Found element on the queue
+Wed May 16 01:54:56 UTC 2018: Updating status
+Wed May 16 01:54:56 UTC 2018: Working
+Wed May 16 01:54:58 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.expression.TestOAuth2WebSecurityExpressionHandler
+Wed May 16 01:54:58 UTC 2018: Setting lastTestMethodIndex: 56050
+Wed May 16 01:54:58 UTC 2018: Starting linking
+Wed May 16 01:54:58 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2WebSecurityExpressionHandler-testStandardSecurityRoot
+Wed May 16 01:54:59 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2WebSecurityExpressionHandler-testNonOauthClient
+Wed May 16 01:54:59 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2WebSecurityExpressionHandler-testScopes
+Wed May 16 01:54:59 UTC 2018: No link for: org.springframework.security.oauth2.provider.expression.TestOAuth2WebSecurityExpressionHandler-testOauthClient
+Wed May 16 01:54:59 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.expression.TestOAuth2WebSecurityExpressionHandler
+Wed May 16 01:55:00 UTC 2018: Found element on the queue
+Wed May 16 01:55:00 UTC 2018: Updating status
+Wed May 16 01:55:00 UTC 2018: Working
+Wed May 16 01:55:03 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.error.TestOAuth2AccessDeniedHandler
+Wed May 16 01:55:03 UTC 2018: Setting lastTestMethodIndex: 56052
+Wed May 16 01:55:03 UTC 2018: Starting linking
+Wed May 16 01:55:03 UTC 2018: Code found org.springframework.security.oauth2.provider.error.OAuth2AccessDeniedHandler-handle with org.springframework.security.oauth2.provider.error.TestOAuth2AccessDeniedHandler-testHandleWithJson
+Wed May 16 01:55:03 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.error.TestOAuth2AccessDeniedHandler
+Wed May 16 01:55:04 UTC 2018: Found element on the queue
+Wed May 16 01:55:04 UTC 2018: Updating status
+Wed May 16 01:55:04 UTC 2018: Working
+Wed May 16 01:55:07 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint
+Wed May 16 01:55:07 UTC 2018: Setting lastTestMethodIndex: 56055
+Wed May 16 01:55:07 UTC 2018: Starting linking
+Wed May 16 01:55:07 UTC 2018: Code found org.springframework.security.oauth2.provider.error.OAuth2AuthenticationEntryPoint-commence with org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint-testCommenceWithHtmlAccept
+Wed May 16 01:55:08 UTC 2018: Code found org.springframework.security.oauth2.provider.error.OAuth2AuthenticationEntryPoint-commence with org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint-testCommenceWithJson
+Wed May 16 01:55:08 UTC 2018: Code found org.springframework.security.oauth2.provider.error.OAuth2AuthenticationEntryPoint-commence with org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint-testCommenceWithOAuth2Exception
+Wed May 16 01:55:08 UTC 2018: Code found org.springframework.security.oauth2.provider.error.OAuth2AuthenticationEntryPoint-commence with org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint-testCommenceWithEmptyAccept
+Wed May 16 01:55:09 UTC 2018: Code found org.springframework.security.oauth2.provider.error.OAuth2AuthenticationEntryPoint-commence with org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint-testCommenceWithHtmlAndJsonAccept
+Wed May 16 01:55:09 UTC 2018: Code found org.springframework.security.oauth2.provider.error.OAuth2AuthenticationEntryPoint-commence with org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint-testCommenceWithXml
+Wed May 16 01:55:09 UTC 2018: No link for: org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint-testTypeName
+Wed May 16 01:55:10 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.error.TestOAuth2AuthenticationEntryPoint
+Wed May 16 01:55:10 UTC 2018: Found element on the queue
+Wed May 16 01:55:10 UTC 2018: Updating status
+Wed May 16 01:55:10 UTC 2018: Working
+Wed May 16 01:55:13 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequestManager
+Wed May 16 01:55:13 UTC 2018: Setting lastTestMethodIndex: 56057
+Wed May 16 01:55:13 UTC 2018: Starting linking
+Wed May 16 01:55:13 UTC 2018: Code found org.springframework.security.oauth2.provider.DefaultAuthorizationRequestManager-createAuthorizationRequest with org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequestManager-testCreateAuthorizationRequest
+Wed May 16 01:55:13 UTC 2018: Code found org.springframework.security.oauth2.provider.DefaultAuthorizationRequestManager-createAuthorizationRequest with org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequestManager-testCreateAuthorizationRequestWithDefaultScopes
+Wed May 16 01:55:14 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.TestDefaultAuthorizationRequestManager
+Wed May 16 01:55:14 UTC 2018: Found element on the queue
+Wed May 16 01:55:14 UTC 2018: Updating status
+Wed May 16 01:55:14 UTC 2018: Working
+Wed May 16 01:55:17 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.password.TestResourceOwnerPasswordTokenGranter
+Wed May 16 01:55:17 UTC 2018: Setting lastTestMethodIndex: 56058
+Wed May 16 01:55:17 UTC 2018: Starting linking
+Wed May 16 01:55:17 UTC 2018: No link for: org.springframework.security.oauth2.provider.password.TestResourceOwnerPasswordTokenGranter-testAccountLocked
+Wed May 16 01:55:17 UTC 2018: No link for: org.springframework.security.oauth2.provider.password.TestResourceOwnerPasswordTokenGranter-testSunnyDay
+Wed May 16 01:55:17 UTC 2018: No link for: org.springframework.security.oauth2.provider.password.TestResourceOwnerPasswordTokenGranter-testBadCredentials
+Wed May 16 01:55:18 UTC 2018: No link for: org.springframework.security.oauth2.provider.password.TestResourceOwnerPasswordTokenGranter-testUnauthenticated
+Wed May 16 01:55:18 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.password.TestResourceOwnerPasswordTokenGranter
+Wed May 16 01:55:18 UTC 2018: Found element on the queue
+Wed May 16 01:55:18 UTC 2018: Updating status
+Wed May 16 01:55:18 UTC 2018: Working
+Wed May 16 01:55:21 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.approval.TestDefaultUserApprovalHandler
+Wed May 16 01:55:21 UTC 2018: Setting lastTestMethodIndex: 56062
+Wed May 16 01:55:21 UTC 2018: Starting linking
+Wed May 16 01:55:21 UTC 2018: No link for: org.springframework.security.oauth2.provider.approval.TestDefaultUserApprovalHandler-testBasicApproval
+Wed May 16 01:55:21 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.approval.TestDefaultUserApprovalHandler
+Wed May 16 01:55:22 UTC 2018: Found element on the queue
+Wed May 16 01:55:22 UTC 2018: Updating status
+Wed May 16 01:55:22 UTC 2018: Working
+Wed May 16 01:55:24 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.approval.TestTokenServicesUserApprovalHandler
+Wed May 16 01:55:24 UTC 2018: Setting lastTestMethodIndex: 56063
+Wed May 16 01:55:24 UTC 2018: Starting linking
+Wed May 16 01:55:24 UTC 2018: No link for: org.springframework.security.oauth2.provider.approval.TestTokenServicesUserApprovalHandler-testMandatoryProperties
+Wed May 16 01:55:24 UTC 2018: No link for: org.springframework.security.oauth2.provider.approval.TestTokenServicesUserApprovalHandler-testBasicApproval
+Wed May 16 01:55:25 UTC 2018: No link for: org.springframework.security.oauth2.provider.approval.TestTokenServicesUserApprovalHandler-testMemorizedApproval
+Wed May 16 01:55:25 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.approval.TestTokenServicesUserApprovalHandler
+Wed May 16 01:55:26 UTC 2018: Found element on the queue
+Wed May 16 01:55:26 UTC 2018: Updating status
+Wed May 16 01:55:26 UTC 2018: Working
+Wed May 16 01:55:28 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.endpoint.TestTokenEndpoint
+Wed May 16 01:55:28 UTC 2018: Setting lastTestMethodIndex: 56066
+Wed May 16 01:55:28 UTC 2018: Starting linking
+Wed May 16 01:55:28 UTC 2018: Code found org.springframework.security.oauth2.provider.endpoint.TokenEndpoint-getAccessToken with org.springframework.security.oauth2.provider.endpoint.TestTokenEndpoint-testGetAccessTokenWithNoClientId
+Wed May 16 01:55:28 UTC 2018: Code found org.springframework.security.oauth2.provider.endpoint.TokenEndpoint-getAccessToken with org.springframework.security.oauth2.provider.endpoint.TestTokenEndpoint-testGetAccessTokenWithScope
+Wed May 16 01:55:29 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.endpoint.TestTokenEndpoint
+Wed May 16 01:55:29 UTC 2018: Found element on the queue
+Wed May 16 01:55:29 UTC 2018: Updating status
+Wed May 16 01:55:29 UTC 2018: Working
+Wed May 16 01:55:32 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.endpoint.TestWhitelabelApprovalEndpoint
+Wed May 16 01:55:32 UTC 2018: Setting lastTestMethodIndex: 56068
+Wed May 16 01:55:32 UTC 2018: Starting linking
+Wed May 16 01:55:32 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestWhitelabelApprovalEndpoint-testErrorPage
+Wed May 16 01:55:32 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestWhitelabelApprovalEndpoint-testApprovalPage
+Wed May 16 01:55:33 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.endpoint.TestWhitelabelApprovalEndpoint
+Wed May 16 01:55:34 UTC 2018: Found element on the queue
+Wed May 16 01:55:34 UTC 2018: Updating status
+Wed May 16 01:55:34 UTC 2018: Working
+Wed May 16 01:55:36 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint
+Wed May 16 01:55:36 UTC 2018: Setting lastTestMethodIndex: 56071
+Wed May 16 01:55:36 UTC 2018: Starting linking
+Wed May 16 01:55:36 UTC 2018: Code found org.springframework.security.oauth2.provider.endpoint.AuthorizationEndpoint-approveOrDeny with org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testApproveOrDeny
+Wed May 16 01:55:37 UTC 2018: Code found org.springframework.security.oauth2.provider.endpoint.AuthorizationEndpoint-approveOrDeny with org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testApproveOrDenyWithAuthorizationRequestWithoutRedirectUri
+Wed May 16 01:55:37 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testAuthorizationCodeError
+Wed May 16 01:55:37 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testAuthorizationCodeWithMultipleResponseTypes
+Wed May 16 01:55:38 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testImplicitPreApprovedButInvalid
+Wed May 16 01:55:38 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testStartAuthorizationCodeFlowForClientCredentialsFails
+Wed May 16 01:55:38 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testMandatoryProperties
+Wed May 16 01:55:39 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testImplicitUnapproved
+Wed May 16 01:55:39 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testAuthorizationCodeWithFragment
+Wed May 16 01:55:39 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testRedirectUriOptionalForAuthorization
+Wed May 16 01:55:40 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testStartAuthorizationCodeFlow
+Wed May 16 01:55:40 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testImplicitPreApproved
+Wed May 16 01:55:40 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testImplicitError
+Wed May 16 01:55:41 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testApprovalDenied
+Wed May 16 01:55:41 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testDirectApproval
+Wed May 16 01:55:41 UTC 2018: No link for: org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint-testAuthorizeWithNoRedirectUri
+Wed May 16 01:55:41 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.provider.endpoint.TestAuthorizationEndpoint
+Wed May 16 01:55:42 UTC 2018: Found element on the queue
+Wed May 16 01:55:42 UTC 2018: Updating status
+Wed May 16 01:55:42 UTC 2018: Working
+Wed May 16 01:55:44 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.common.TestJsonSerialization
+Wed May 16 01:55:44 UTC 2018: Setting lastTestMethodIndex: 56077
+Wed May 16 01:55:44 UTC 2018: Starting linking
+Wed May 16 01:55:44 UTC 2018: No link for: org.springframework.security.oauth2.common.TestJsonSerialization-testDefaultDeserialization
+Wed May 16 01:55:45 UTC 2018: No link for: org.springframework.security.oauth2.common.TestJsonSerialization-testDefaultSerialization
+Wed May 16 01:55:45 UTC 2018: No link for: org.springframework.security.oauth2.common.TestJsonSerialization-testExceptionDeserialization
+Wed May 16 01:55:45 UTC 2018: No link for: org.springframework.security.oauth2.common.TestJsonSerialization-testRefreshSerialization
+Wed May 16 01:55:46 UTC 2018: No link for: org.springframework.security.oauth2.common.TestJsonSerialization-testExceptionSerialization
+Wed May 16 01:55:46 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.common.TestJsonSerialization
+Wed May 16 01:55:46 UTC 2018: Found element on the queue
+Wed May 16 01:55:46 UTC 2018: Updating status
+Wed May 16 01:55:46 UTC 2018: Working
+Wed May 16 01:55:49 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.common.TestDefaultOAuth2SerializationService
+Wed May 16 01:55:49 UTC 2018: Setting lastTestMethodIndex: 56080
+Wed May 16 01:55:49 UTC 2018: Starting linking
+Wed May 16 01:55:49 UTC 2018: No link for: org.springframework.security.oauth2.common.TestDefaultOAuth2SerializationService-testDefaultDeserialization
+Wed May 16 01:55:49 UTC 2018: No link for: org.springframework.security.oauth2.common.TestDefaultOAuth2SerializationService-testExceptionDeserialization
+Wed May 16 01:55:50 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.common.TestDefaultOAuth2SerializationService
+Wed May 16 01:55:50 UTC 2018: Found element on the queue
+Wed May 16 01:55:50 UTC 2018: Updating status
+Wed May 16 01:55:50 UTC 2018: Working
+Wed May 16 01:55:53 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer
+Wed May 16 01:55:53 UTC 2018: Setting lastTestMethodIndex: 56082
+Wed May 16 01:55:53 UTC 2018: Starting linking
+Wed May 16 01:55:53 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringInvalidRequest
+Wed May 16 01:55:53 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringInvalidToken
+Wed May 16 01:55:53 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringAccessDenied
+Wed May 16 01:55:54 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringOAuth2Exception
+Wed May 16 01:55:54 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringInvalidClient
+Wed May 16 01:55:54 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringUnsupportedGrantType
+Wed May 16 01:55:55 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringInvalidGrant
+Wed May 16 01:55:55 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringRedirectUriMismatch
+Wed May 16 01:55:55 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringWithAdditionalDetails
+Wed May 16 01:55:56 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringUnauthorizedClient
+Wed May 16 01:55:56 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer-writeValueAsStringInvalidScope
+Wed May 16 01:55:56 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionSerializer
+Wed May 16 01:55:57 UTC 2018: Found element on the queue
+Wed May 16 01:55:57 UTC 2018: Updating status
+Wed May 16 01:55:57 UTC 2018: Working
+Wed May 16 01:55:59 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer
+Wed May 16 01:55:59 UTC 2018: Setting lastTestMethodIndex: 56086
+Wed May 16 01:55:59 UTC 2018: Starting linking
+Wed May 16 01:55:59 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueWithAdditionalDetails
+Wed May 16 01:55:59 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueInvalidClient
+Wed May 16 01:56:00 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueRedirectUriMismatch
+Wed May 16 01:56:00 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueUnauthorizedClient
+Wed May 16 01:56:00 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueAccessDenied
+Wed May 16 01:56:01 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueUndefinedException
+Wed May 16 01:56:01 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueInvalidRequest
+Wed May 16 01:56:01 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueInvalidScope
+Wed May 16 01:56:01 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueUnsupportedGrantType
+Wed May 16 01:56:02 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueInvalidToken
+Wed May 16 01:56:02 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueWithObjects
+Wed May 16 01:56:02 UTC 2018: No link for: org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer-readValueInvalidGrant
+Wed May 16 01:56:02 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.common.exception.TestOAuth2ExceptionDeserializer
+Wed May 16 01:56:03 UTC 2018: Found element on the queue
+Wed May 16 01:56:03 UTC 2018: Updating status
+Wed May 16 01:56:03 UTC 2018: Working
+Wed May 16 01:56:05 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeAccessTokenProvider
+Wed May 16 01:56:05 UTC 2018: Setting lastTestMethodIndex: 56089
+Wed May 16 01:56:05 UTC 2018: Starting linking
+Wed May 16 01:56:05 UTC 2018: No link for: org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeAccessTokenProvider-testGetAccessToken
+Wed May 16 01:56:06 UTC 2018: No link for: org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeAccessTokenProvider-testGetAccessTokenRequest
+Wed May 16 01:56:06 UTC 2018: No link for: org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeAccessTokenProvider-testRedirectNotSpecified
+Wed May 16 01:56:06 UTC 2018: No link for: org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeAccessTokenProvider-testRedirectToAuthorizationEndpoint
+Wed May 16 01:56:06 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeAccessTokenProvider
+Wed May 16 01:56:07 UTC 2018: Found element on the queue
+Wed May 16 01:56:07 UTC 2018: Updating status
+Wed May 16 01:56:07 UTC 2018: Working
+Wed May 16 01:56:09 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeResourceDetails
+Wed May 16 01:56:09 UTC 2018: Setting lastTestMethodIndex: 56090
+Wed May 16 01:56:09 UTC 2018: Starting linking
+Wed May 16 01:56:09 UTC 2018: No link for: org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeResourceDetails-testGetDefaultRedirectUri
+Wed May 16 01:56:10 UTC 2018: No link for: org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeResourceDetails-testGetOverrideRedirectUri
+Wed May 16 01:56:10 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.client.token.grant.code.TestAuthorizationCodeResourceDetails
+Wed May 16 01:56:10 UTC 2018: Found element on the queue
+Wed May 16 01:56:10 UTC 2018: Updating status
+Wed May 16 01:56:11 UTC 2018: Working
+Wed May 16 01:56:13 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.client.token.grant.implicit.TestImplicitAccessTokenProvider
+Wed May 16 01:56:13 UTC 2018: Setting lastTestMethodIndex: 56093
+Wed May 16 01:56:13 UTC 2018: Starting linking
+Wed May 16 01:56:13 UTC 2018: No link for: org.springframework.security.oauth2.client.token.grant.implicit.TestImplicitAccessTokenProvider-testRedirectNotSpecified
+Wed May 16 01:56:13 UTC 2018: No link for: org.springframework.security.oauth2.client.token.grant.implicit.TestImplicitAccessTokenProvider-testGetAccessTokenRequest
+Wed May 16 01:56:14 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.client.token.grant.implicit.TestImplicitAccessTokenProvider
+Wed May 16 01:56:14 UTC 2018: Found element on the queue
+Wed May 16 01:56:14 UTC 2018: Updating status
+Wed May 16 01:56:14 UTC 2018: Working
+Wed May 16 01:56:17 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain
+Wed May 16 01:56:17 UTC 2018: Setting lastTestMethodIndex: 56096
+Wed May 16 01:56:17 UTC 2018: Starting linking
+Wed May 16 01:56:17 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testSunnyDayWIthExpiredTokenAndValidRefreshToken
+Wed May 16 01:56:17 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testRequiresAuthenticationButRedirected
+Wed May 16 01:56:17 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testSunnyDayWithExpiredToken
+Wed May 16 01:56:18 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testSunnyDay
+Wed May 16 01:56:18 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testSunnyDayWithTokenServicesSave
+Wed May 16 01:56:18 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testMissingSecurityContext
+Wed May 16 01:56:19 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testSunnyDayWithExpiredTokenAndTokenServices
+Wed May 16 01:56:19 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testAnonymousUser
+Wed May 16 01:56:19 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testSunnyDayWIthExpiredTokenAndExpiredRefreshToken
+Wed May 16 01:56:20 UTC 2018: No link for: org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain-testSunnyDayWithTokenServicesGet
+Wed May 16 01:56:20 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.client.token.TestAccessTokenProviderChain
+Wed May 16 01:56:20 UTC 2018: Found element on the queue
+Wed May 16 01:56:20 UTC 2018: Updating status
+Wed May 16 01:56:20 UTC 2018: Working
+Wed May 16 01:56:23 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.client.TestOAuth2RestTemplate
+Wed May 16 01:56:23 UTC 2018: Setting lastTestMethodIndex: 56099
+Wed May 16 01:56:23 UTC 2018: Starting linking
+Wed May 16 01:56:23 UTC 2018: Code found org.springframework.security.oauth2.client.OAuth2RestTemplate-appendQueryParameter with org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testAppendQueryParameterWithNoExistingParameters
+Wed May 16 01:56:23 UTC 2018: Code found org.springframework.security.oauth2.client.OAuth2RestTemplate-appendQueryParameter with org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testAppendQueryParameter
+Wed May 16 01:56:24 UTC 2018: No link for: org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testDoubleEncodingOfParameterValue
+Wed May 16 01:56:24 UTC 2018: No link for: org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testFragmentUri
+Wed May 16 01:56:24 UTC 2018: No link for: org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testRetryAccessDeniedException
+Wed May 16 01:56:24 UTC 2018: No link for: org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testNewTokenAcquiredIfExpired
+Wed May 16 01:56:25 UTC 2018: No link for: org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testDoubleEncodingOfAccessTokenValue
+Wed May 16 01:56:25 UTC 2018: No link for: org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testTokenIsResetIfInvalid
+Wed May 16 01:56:25 UTC 2018: No link for: org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testNonEncodingOfUriTemplate
+Wed May 16 01:56:26 UTC 2018: No link for: org.springframework.security.oauth2.client.TestOAuth2RestTemplate-testNoRetryAccessDeniedExceptionForNoExistingToken
+Wed May 16 01:56:26 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.client.TestOAuth2RestTemplate
+Wed May 16 01:56:27 UTC 2018: Found element on the queue
+Wed May 16 01:56:27 UTC 2018: Updating status
+Wed May 16 01:56:27 UTC 2018: Working
+Wed May 16 01:56:29 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.client.filter.TestOAuth2ClientContextFilter
+Wed May 16 01:56:29 UTC 2018: Setting lastTestMethodIndex: 56103
+Wed May 16 01:56:29 UTC 2018: Starting linking
+Wed May 16 01:56:29 UTC 2018: No link for: org.springframework.security.oauth2.client.filter.TestOAuth2ClientContextFilter-testCurrentUriWithLegalSpaces
+Wed May 16 01:56:29 UTC 2018: No link for: org.springframework.security.oauth2.client.filter.TestOAuth2ClientContextFilter-testCurrentUriRemovingCodeInSecond
+Wed May 16 01:56:30 UTC 2018: No link for: org.springframework.security.oauth2.client.filter.TestOAuth2ClientContextFilter-testCurrentUriWithNoQuery
+Wed May 16 01:56:30 UTC 2018: No link for: org.springframework.security.oauth2.client.filter.TestOAuth2ClientContextFilter-testCurrentUriRemovingCode
+Wed May 16 01:56:30 UTC 2018: No link for: org.springframework.security.oauth2.client.filter.TestOAuth2ClientContextFilter-testVanillaCurrentUri
+Wed May 16 01:56:30 UTC 2018: No link for: org.springframework.security.oauth2.client.filter.TestOAuth2ClientContextFilter-testCurrentUriWithIllegalSpaces
+Wed May 16 01:56:31 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.client.filter.TestOAuth2ClientContextFilter
+Wed May 16 01:56:31 UTC 2018: Found element on the queue
+Wed May 16 01:56:31 UTC 2018: Updating status
+Wed May 16 01:56:31 UTC 2018: Working
+Wed May 16 01:56:34 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.client.filter.TestOAuth2ClientAuthenticationProcessingFilter
+Wed May 16 01:56:34 UTC 2018: Setting lastTestMethodIndex: 56106
+Wed May 16 01:56:34 UTC 2018: Starting linking
+Wed May 16 01:56:34 UTC 2018: Code found org.springframework.security.oauth2.client.filter.OAuth2ClientAuthenticationProcessingFilter-unsuccessfulAuthentication with org.springframework.security.oauth2.client.filter.TestOAuth2ClientAuthenticationProcessingFilter-testUnsuccessfulAuthentication
+Wed May 16 01:56:34 UTC 2018: No link for: org.springframework.security.oauth2.client.filter.TestOAuth2ClientAuthenticationProcessingFilter-testAuthentication
+Wed May 16 01:56:34 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.client.filter.TestOAuth2ClientAuthenticationProcessingFilter
+Wed May 16 01:56:35 UTC 2018: Found element on the queue
+Wed May 16 01:56:35 UTC 2018: Updating status
+Wed May 16 01:56:35 UTC 2018: Working
+Wed May 16 01:56:37 UTC 2018: Start karasatishkumar__easylocate test class org.springframework.security.oauth2.client.http.TestOAuth2ErrorHandler
+Wed May 16 01:56:37 UTC 2018: Setting lastTestMethodIndex: 56109
+Wed May 16 01:56:37 UTC 2018: Starting linking
+Wed May 16 01:56:37 UTC 2018: Linking done for karasatishkumar__easylocate test class org.springframework.security.oauth2.client.http.TestOAuth2ErrorHandler

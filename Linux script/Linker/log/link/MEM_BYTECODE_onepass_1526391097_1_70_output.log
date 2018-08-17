@@ -1,0 +1,29 @@
+Tue May 15 17:03:07 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 17:03:07 UTC 2018: Starting
+Tue May 15 17:03:08 UTC 2018: Found element on the queue
+Tue May 15 17:03:08 UTC 2018: Updating status
+Tue May 15 17:03:08 UTC 2018: Working
+Tue May 15 17:03:08 UTC 2018: Create project parser
+Tue May 15 17:03:13 UTC 2018: Create slicer
+Tue May 15 17:03:15 UTC 2018: Create call graph
+Tue May 15 17:03:17 UTC 2018: Create point analysis
+Tue May 15 17:03:17 UTC 2018: Create call graph done
+Tue May 15 17:03:17 UTC 2018: Start Fastjur__SEM-Projec test class net.liquidpineapple.pang.logger.LoggerTest
+Tue May 15 17:03:17 UTC 2018: Setting lastTestMethodIndex: 39356
+Tue May 15 17:03:17 UTC 2018: Starting linking
+Tue May 15 17:03:17 UTC 2018: Code found net.liquidpineapple.pang.logger.Logger-setLevel with net.liquidpineapple.pang.logger.LoggerTest-testSetLevel
+Tue May 15 17:03:17 UTC 2018: Code found net.liquidpineapple.pang.logger.Logger-warning with net.liquidpineapple.pang.logger.LoggerTest-testWarning
+Tue May 15 17:03:17 UTC 2018: Code found net.liquidpineapple.pang.logger.Logger-error with net.liquidpineapple.pang.logger.LoggerTest-testError
+Tue May 15 17:03:18 UTC 2018: Code found net.liquidpineapple.pang.logger.Logger-error with net.liquidpineapple.pang.logger.LoggerTest-testError1
+Tue May 15 17:03:18 UTC 2018: Code found net.liquidpineapple.pang.logger.Logger-info with net.liquidpineapple.pang.logger.LoggerTest-testInfo
+Tue May 15 17:03:18 UTC 2018: Linking done for Fastjur__SEM-Projec test class net.liquidpineapple.pang.logger.LoggerTest
+Tue May 15 17:03:18 UTC 2018: Found element on the queue
+Tue May 15 17:03:18 UTC 2018: Updating status
+Tue May 15 17:03:18 UTC 2018: Working
+Tue May 15 17:03:21 UTC 2018: Start Fastjur__SEM-Projec test class net.liquidpineapple.pang.objects.LifeSystemTest
+Tue May 15 17:03:21 UTC 2018: Setting lastTestMethodIndex: 39358
+Tue May 15 17:03:21 UTC 2018: Starting linking
+Tue May 15 17:03:21 UTC 2018: No link for: net.liquidpineapple.pang.objects.LifeSystemTest-gainliveat3
+Tue May 15 17:03:21 UTC 2018: No link for: net.liquidpineapple.pang.objects.LifeSystemTest-loseliveat3Andthengain
+Tue May 15 17:03:21 UTC 2018: No link for: net.liquidpineapple.pang.objects.LifeSystemTest-loseliveAndReset
+Tue May 15 17:03:21 UTC 2018: Linking done for Fastjur__SEM-Projec test class net.liquidpineapple.pang.objects.LifeSystemTest

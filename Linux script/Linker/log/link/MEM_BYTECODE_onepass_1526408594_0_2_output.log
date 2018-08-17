@@ -1,0 +1,887 @@
+Tue May 15 18:25:25 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 18:25:25 UTC 2018: Starting
+Tue May 15 18:25:26 UTC 2018: Found element on the queue
+Tue May 15 18:25:26 UTC 2018: Updating status
+Tue May 15 18:25:26 UTC 2018: Working
+Tue May 15 18:25:26 UTC 2018: Create project parser
+Tue May 15 18:25:33 UTC 2018: Create slicer
+Tue May 15 18:25:35 UTC 2018: Create call graph
+Tue May 15 18:25:44 UTC 2018: Create point analysis
+Tue May 15 18:25:44 UTC 2018: Create call graph done
+Tue May 15 18:25:44 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.mail.TestEmailAlerter
+Tue May 15 18:25:44 UTC 2018: Setting lastTestMethodIndex: 41660
+Tue May 15 18:25:44 UTC 2018: Starting linking
+Tue May 15 18:25:44 UTC 2018: No link for: com.gazbert.bxbot.core.mail.TestEmailAlerter-testEmailAlerterSendsMailSuccessfullyUsingMockTransport
+Tue May 15 18:25:45 UTC 2018: No link for: com.gazbert.bxbot.core.mail.TestEmailAlerter-testEmailAlerterInitialisedSuccessfullyWhenAlertsDisabledAndNoSmtpConfigSupplied
+Tue May 15 18:25:45 UTC 2018: No link for: com.gazbert.bxbot.core.mail.TestEmailAlerter-testEmailAlerterInitialisedSuccessfully
+Tue May 15 18:25:45 UTC 2018: No link for: com.gazbert.bxbot.core.mail.TestEmailAlerter-testEmailAlerterInitialisationFailsWhenAlertsEnabledButNoSmtpConfigSupplied
+Tue May 15 18:25:45 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.mail.TestEmailAlerter
+Tue May 15 18:25:46 UTC 2018: Found element on the queue
+Tue May 15 18:25:46 UTC 2018: Updating status
+Tue May 15 18:25:46 UTC 2018: Working
+Tue May 15 18:25:49 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.engine.TestTradingEngine
+Tue May 15 18:25:49 UTC 2018: Setting lastTestMethodIndex: 41663
+Tue May 15 18:25:49 UTC 2018: Starting linking
+Tue May 15 18:25:49 UTC 2018: Code found com.gazbert.bxbot.core.engine.TradingEngine-shutdown with com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineExecutesTradeCyclesAndCanBeShutdownSuccessfully
+Tue May 15 18:25:49 UTC 2018: Code found com.gazbert.bxbot.core.engine.TradingEngine-start with com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineCannotBeStartedMoreThanOnce
+Tue May 15 18:25:49 UTC 2018: No link for: com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineShutsDownWhenEmergencyStopBalanceIfBreached
+Tue May 15 18:25:49 UTC 2018: No link for: com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineShutsDownWhenItReceivesUnexpectedExceptionFromTradingStrategy
+Tue May 15 18:25:50 UTC 2018: No link for: com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineDoesNotPerformEmergencyStopCheckWhenEmergencyStopBalanceIsZero
+Tue May 15 18:25:50 UTC 2018: No link for: com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineInitialisesSuccessfully
+Tue May 15 18:25:50 UTC 2018: No link for: com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineShutsDownWhenItReceivesStrategyExceptionFromTradingStrategy
+Tue May 15 18:25:50 UTC 2018: No link for: com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineShutsDownWhenItReceivesUnexpectedExceptionFromExchangeAdapter
+Tue May 15 18:25:50 UTC 2018: No link for: com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineExecutesNextTradeCyclesAfterReceivingExchangeNetworkException
+Tue May 15 18:25:51 UTC 2018: No link for: com.gazbert.bxbot.core.engine.TestTradingEngine-testEngineShutsDownWhenItReceivesTradingApiExceptionFromExchangeAdapter
+Tue May 15 18:25:51 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.engine.TestTradingEngine
+Tue May 15 18:25:52 UTC 2018: Found element on the queue
+Tue May 15 18:25:52 UTC 2018: Updating status
+Tue May 15 18:25:52 UTC 2018: Working
+Tue May 15 18:25:55 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.config.exchange.TestAuthenticationConfigImpl
+Tue May 15 18:25:55 UTC 2018: Setting lastTestMethodIndex: 41667
+Tue May 15 18:25:55 UTC 2018: Starting linking
+Tue May 15 18:25:55 UTC 2018: No link for: com.gazbert.bxbot.core.config.exchange.TestAuthenticationConfigImpl-testAddingAndFetchingAuthenticationConfig
+Tue May 15 18:25:55 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.config.exchange.TestAuthenticationConfigImpl
+Tue May 15 18:25:56 UTC 2018: Found element on the queue
+Tue May 15 18:25:56 UTC 2018: Updating status
+Tue May 15 18:25:56 UTC 2018: Working
+Tue May 15 18:25:59 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.config.exchange.TestExchangeConfigImpl
+Tue May 15 18:25:59 UTC 2018: Setting lastTestMethodIndex: 41670
+Tue May 15 18:25:59 UTC 2018: Starting linking
+Tue May 15 18:25:59 UTC 2018: No link for: com.gazbert.bxbot.core.config.exchange.TestExchangeConfigImpl-testSettersWorkAsExpected
+Tue May 15 18:25:59 UTC 2018: No link for: com.gazbert.bxbot.core.config.exchange.TestExchangeConfigImpl-testInitialisationWorksAsExpected
+Tue May 15 18:26:00 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.config.exchange.TestExchangeConfigImpl
+Tue May 15 18:26:00 UTC 2018: Found element on the queue
+Tue May 15 18:26:00 UTC 2018: Updating status
+Tue May 15 18:26:00 UTC 2018: Working
+Tue May 15 18:26:04 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.config.exchange.TestOptionalConfigImpl
+Tue May 15 18:26:04 UTC 2018: Setting lastTestMethodIndex: 41673
+Tue May 15 18:26:04 UTC 2018: Starting linking
+Tue May 15 18:26:04 UTC 2018: No link for: com.gazbert.bxbot.core.config.exchange.TestOptionalConfigImpl-testAddingAndFetchingOptionalConfigItems
+Tue May 15 18:26:04 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.config.exchange.TestOptionalConfigImpl
+Tue May 15 18:26:05 UTC 2018: Found element on the queue
+Tue May 15 18:26:05 UTC 2018: Updating status
+Tue May 15 18:26:05 UTC 2018: Working
+Tue May 15 18:26:09 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.config.exchange.TestNetworkConfigImpl
+Tue May 15 18:26:09 UTC 2018: Setting lastTestMethodIndex: 41677
+Tue May 15 18:26:09 UTC 2018: Starting linking
+Tue May 15 18:26:09 UTC 2018: No link for: com.gazbert.bxbot.core.config.exchange.TestNetworkConfigImpl-testInitialisationWorksAsExpected
+Tue May 15 18:26:09 UTC 2018: No link for: com.gazbert.bxbot.core.config.exchange.TestNetworkConfigImpl-testSettersWorkAsExpected
+Tue May 15 18:26:10 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.config.exchange.TestNetworkConfigImpl
+Tue May 15 18:26:10 UTC 2018: Found element on the queue
+Tue May 15 18:26:10 UTC 2018: Updating status
+Tue May 15 18:26:10 UTC 2018: Working
+Tue May 15 18:26:14 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.config.market.TestMarketImpl
+Tue May 15 18:26:14 UTC 2018: Setting lastTestMethodIndex: 41681
+Tue May 15 18:26:14 UTC 2018: Starting linking
+Tue May 15 18:26:14 UTC 2018: No link for: com.gazbert.bxbot.core.config.market.TestMarketImpl-testSettersWorkAsExpected
+Tue May 15 18:26:14 UTC 2018: No link for: com.gazbert.bxbot.core.config.market.TestMarketImpl-testMarketIsInitialisedAsExpected
+Tue May 15 18:26:14 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.config.market.TestMarketImpl
+Tue May 15 18:26:15 UTC 2018: Found element on the queue
+Tue May 15 18:26:15 UTC 2018: Updating status
+Tue May 15 18:26:15 UTC 2018: Working
+Tue May 15 18:26:18 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.config.strategy.TestStrategyConfigItems
+Tue May 15 18:26:18 UTC 2018: Setting lastTestMethodIndex: 41686
+Tue May 15 18:26:18 UTC 2018: Starting linking
+Tue May 15 18:26:18 UTC 2018: No link for: com.gazbert.bxbot.core.config.strategy.TestStrategyConfigItems-testAddingAndFetchingConfigItems
+Tue May 15 18:26:18 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.config.strategy.TestStrategyConfigItems
+Tue May 15 18:26:19 UTC 2018: Found element on the queue
+Tue May 15 18:26:19 UTC 2018: Updating status
+Tue May 15 18:26:19 UTC 2018: Working
+Tue May 15 18:26:22 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.util.TestTradingStrategyCreation
+Tue May 15 18:26:22 UTC 2018: Setting lastTestMethodIndex: 41689
+Tue May 15 18:26:22 UTC 2018: Starting linking
+Tue May 15 18:26:22 UTC 2018: No link for: com.gazbert.bxbot.core.util.TestTradingStrategyCreation-testCreatingTradingStrategyImplThatDoesNotExistThrowsException
+Tue May 15 18:26:23 UTC 2018: No link for: com.gazbert.bxbot.core.util.TestTradingStrategyCreation-testCreationOfValidTradingStrategyImpl
+Tue May 15 18:26:23 UTC 2018: No link for: com.gazbert.bxbot.core.util.TestTradingStrategyCreation-testCreatingTradingStrategyImplThatDoesNotImplementTradingStrategyThrowsException
+Tue May 15 18:26:23 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.util.TestTradingStrategyCreation
+Tue May 15 18:26:24 UTC 2018: Found element on the queue
+Tue May 15 18:26:24 UTC 2018: Updating status
+Tue May 15 18:26:24 UTC 2018: Working
+Tue May 15 18:26:28 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.core.util.TestExchangeAdapterCreation
+Tue May 15 18:26:28 UTC 2018: Setting lastTestMethodIndex: 41693
+Tue May 15 18:26:28 UTC 2018: Starting linking
+Tue May 15 18:26:28 UTC 2018: No link for: com.gazbert.bxbot.core.util.TestExchangeAdapterCreation-testCreatingExchangeAdapterThatDoesNotExistThrowsException
+Tue May 15 18:26:28 UTC 2018: No link for: com.gazbert.bxbot.core.util.TestExchangeAdapterCreation-testCreatingValidExchangeAdapter
+Tue May 15 18:26:28 UTC 2018: No link for: com.gazbert.bxbot.core.util.TestExchangeAdapterCreation-testCreatingExchangeAdapterThatDoesNotImplementTradingApiThrowsException
+Tue May 15 18:26:28 UTC 2018: No link for: com.gazbert.bxbot.core.util.TestExchangeAdapterCreation-testCreatingExchangeAdapterThatDoesNotImplementExchangeAdapterThrowsException
+Tue May 15 18:26:29 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.core.util.TestExchangeAdapterCreation
+Tue May 15 18:26:29 UTC 2018: Found element on the queue
+Tue May 15 18:26:29 UTC 2018: Updating status
+Tue May 15 18:26:29 UTC 2018: Working
+Tue May 15 18:26:29 UTC 2018: Create project parser
+Tue May 15 18:26:33 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.emailalerts.TestSmtpConfig
+Tue May 15 18:26:33 UTC 2018: Setting lastTestMethodIndex: 41698
+Tue May 15 18:26:33 UTC 2018: Starting linking
+Tue May 15 18:26:33 UTC 2018: No link for: com.gazbert.bxbot.domain.emailalerts.TestSmtpConfig-testInitialisationWorksAsExpected
+Tue May 15 18:26:33 UTC 2018: No link for: com.gazbert.bxbot.domain.emailalerts.TestSmtpConfig-testSettersWorkAsExpected
+Tue May 15 18:26:34 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.emailalerts.TestSmtpConfig
+Tue May 15 18:26:34 UTC 2018: Found element on the queue
+Tue May 15 18:26:34 UTC 2018: Updating status
+Tue May 15 18:26:34 UTC 2018: Working
+Tue May 15 18:26:38 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.emailalerts.TestEmailAlertsConfig
+Tue May 15 18:26:38 UTC 2018: Setting lastTestMethodIndex: 41701
+Tue May 15 18:26:38 UTC 2018: Starting linking
+Tue May 15 18:26:38 UTC 2018: No link for: com.gazbert.bxbot.domain.emailalerts.TestEmailAlertsConfig-testInitialisationWorksAsExpected
+Tue May 15 18:26:38 UTC 2018: No link for: com.gazbert.bxbot.domain.emailalerts.TestEmailAlertsConfig-testSettersWorkAsExpected
+Tue May 15 18:26:38 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.emailalerts.TestEmailAlertsConfig
+Tue May 15 18:26:39 UTC 2018: Found element on the queue
+Tue May 15 18:26:39 UTC 2018: Updating status
+Tue May 15 18:26:39 UTC 2018: Working
+Tue May 15 18:26:42 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.exchange.TestOptionalConfig
+Tue May 15 18:26:42 UTC 2018: Setting lastTestMethodIndex: 41704
+Tue May 15 18:26:42 UTC 2018: Starting linking
+Tue May 15 18:26:42 UTC 2018: No link for: com.gazbert.bxbot.domain.exchange.TestOptionalConfig-testAddingAndFetchingOptionalConfigItems
+Tue May 15 18:26:42 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.exchange.TestOptionalConfig
+Tue May 15 18:26:43 UTC 2018: Found element on the queue
+Tue May 15 18:26:43 UTC 2018: Updating status
+Tue May 15 18:26:43 UTC 2018: Working
+Tue May 15 18:26:46 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.exchange.TestAuthenticationConfig
+Tue May 15 18:26:46 UTC 2018: Setting lastTestMethodIndex: 41709
+Tue May 15 18:26:46 UTC 2018: Starting linking
+Tue May 15 18:26:46 UTC 2018: No link for: com.gazbert.bxbot.domain.exchange.TestAuthenticationConfig-testAddingAndFetchingAuthenticationConfig
+Tue May 15 18:26:46 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.exchange.TestAuthenticationConfig
+Tue May 15 18:26:47 UTC 2018: Found element on the queue
+Tue May 15 18:26:47 UTC 2018: Updating status
+Tue May 15 18:26:47 UTC 2018: Working
+Tue May 15 18:26:51 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.exchange.TestExchangeConfig
+Tue May 15 18:26:51 UTC 2018: Setting lastTestMethodIndex: 41713
+Tue May 15 18:26:51 UTC 2018: Starting linking
+Tue May 15 18:26:51 UTC 2018: No link for: com.gazbert.bxbot.domain.exchange.TestExchangeConfig-testInitialisationWorksAsExpected
+Tue May 15 18:26:51 UTC 2018: No link for: com.gazbert.bxbot.domain.exchange.TestExchangeConfig-testSettersWorkAsExpected
+Tue May 15 18:26:51 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.exchange.TestExchangeConfig
+Tue May 15 18:26:52 UTC 2018: Found element on the queue
+Tue May 15 18:26:52 UTC 2018: Updating status
+Tue May 15 18:26:52 UTC 2018: Working
+Tue May 15 18:26:55 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.exchange.TestNetworkConfig
+Tue May 15 18:26:55 UTC 2018: Setting lastTestMethodIndex: 41717
+Tue May 15 18:26:55 UTC 2018: Starting linking
+Tue May 15 18:26:55 UTC 2018: No link for: com.gazbert.bxbot.domain.exchange.TestNetworkConfig-testInitialisationWorksAsExpected
+Tue May 15 18:26:56 UTC 2018: No link for: com.gazbert.bxbot.domain.exchange.TestNetworkConfig-testSettersWorkAsExpected
+Tue May 15 18:26:56 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.exchange.TestNetworkConfig
+Tue May 15 18:26:57 UTC 2018: Found element on the queue
+Tue May 15 18:26:57 UTC 2018: Updating status
+Tue May 15 18:26:57 UTC 2018: Working
+Tue May 15 18:27:00 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.bot.TestBotStatus
+Tue May 15 18:27:00 UTC 2018: Setting lastTestMethodIndex: 41720
+Tue May 15 18:27:00 UTC 2018: Starting linking
+Tue May 15 18:27:00 UTC 2018: No link for: com.gazbert.bxbot.domain.bot.TestBotStatus-testSettersWorkAsExpected
+Tue May 15 18:27:00 UTC 2018: No link for: com.gazbert.bxbot.domain.bot.TestBotStatus-testInitialisationWorksAsExpected
+Tue May 15 18:27:00 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.bot.TestBotStatus
+Tue May 15 18:27:01 UTC 2018: Found element on the queue
+Tue May 15 18:27:01 UTC 2018: Updating status
+Tue May 15 18:27:01 UTC 2018: Working
+Tue May 15 18:27:05 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.market.TestMarketConfig
+Tue May 15 18:27:05 UTC 2018: Setting lastTestMethodIndex: 41725
+Tue May 15 18:27:05 UTC 2018: Starting linking
+Tue May 15 18:27:05 UTC 2018: No link for: com.gazbert.bxbot.domain.market.TestMarketConfig-testInitialisationWorksAsExpected
+Tue May 15 18:27:05 UTC 2018: No link for: com.gazbert.bxbot.domain.market.TestMarketConfig-testCloningWorksAsExpected
+Tue May 15 18:27:06 UTC 2018: No link for: com.gazbert.bxbot.domain.market.TestMarketConfig-testSettersWorkAsExpected
+Tue May 15 18:27:06 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.market.TestMarketConfig
+Tue May 15 18:27:07 UTC 2018: Found element on the queue
+Tue May 15 18:27:07 UTC 2018: Updating status
+Tue May 15 18:27:07 UTC 2018: Working
+Tue May 15 18:27:10 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.engine.TestEngineConfig
+Tue May 15 18:27:10 UTC 2018: Setting lastTestMethodIndex: 41728
+Tue May 15 18:27:10 UTC 2018: Starting linking
+Tue May 15 18:27:10 UTC 2018: No link for: com.gazbert.bxbot.domain.engine.TestEngineConfig-testInitialisationWorksAsExpected
+Tue May 15 18:27:11 UTC 2018: No link for: com.gazbert.bxbot.domain.engine.TestEngineConfig-testSettersWorkAsExpected
+Tue May 15 18:27:11 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.engine.TestEngineConfig
+Tue May 15 18:27:12 UTC 2018: Found element on the queue
+Tue May 15 18:27:12 UTC 2018: Updating status
+Tue May 15 18:27:12 UTC 2018: Working
+Tue May 15 18:27:15 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.strategy.TestStrategyConfig
+Tue May 15 18:27:15 UTC 2018: Setting lastTestMethodIndex: 41732
+Tue May 15 18:27:15 UTC 2018: Starting linking
+Tue May 15 18:27:15 UTC 2018: No link for: com.gazbert.bxbot.domain.strategy.TestStrategyConfig-testInitialisationWorksAsExpected
+Tue May 15 18:27:15 UTC 2018: No link for: com.gazbert.bxbot.domain.strategy.TestStrategyConfig-testSettersWorkAsExpected
+Tue May 15 18:27:15 UTC 2018: No link for: com.gazbert.bxbot.domain.strategy.TestStrategyConfig-testCloningWorksAsExpected
+Tue May 15 18:27:16 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.strategy.TestStrategyConfig
+Tue May 15 18:27:17 UTC 2018: Found element on the queue
+Tue May 15 18:27:17 UTC 2018: Updating status
+Tue May 15 18:27:17 UTC 2018: Working
+Tue May 15 18:27:20 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.domain.strategy.TestStrategyConfigItems
+Tue May 15 18:27:20 UTC 2018: Setting lastTestMethodIndex: 41736
+Tue May 15 18:27:20 UTC 2018: Starting linking
+Tue May 15 18:27:20 UTC 2018: No link for: com.gazbert.bxbot.domain.strategy.TestStrategyConfigItems-testAddingAndFetchingConfigItems
+Tue May 15 18:27:20 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.domain.strategy.TestStrategyConfigItems
+Tue May 15 18:27:21 UTC 2018: Found element on the queue
+Tue May 15 18:27:21 UTC 2018: Updating status
+Tue May 15 18:27:21 UTC 2018: Working
+Tue May 15 18:27:21 UTC 2018: Create project parser
+Tue May 15 18:27:29 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter
+Tue May 15 18:27:29 UTC 2018: Setting lastTestMethodIndex: 41742
+Tue May 15 18:27:29 UTC 2018: Starting linking
+Tue May 15 18:27:29 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitstampExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testCreateOrderToBuyIsSuccessful
+Tue May 15 18:27:29 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitstampExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testCancelOrderHandlesExchangeNetworkException
+Tue May 15 18:27:29 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitstampExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testCancelOrderHandlesUnexpectedException
+Tue May 15 18:27:30 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitstampExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testCancelOrderIsSuccessful
+Tue May 15 18:27:30 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitstampExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testCreateOrderToSellIsSuccessful
+Tue May 15 18:27:30 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitstampExchangeAdapter-init with com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testExchangeAdapterInitialisesSuccessfully
+Tue May 15 18:27:30 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitstampExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testCreateOrderHandlesExchangeNetworkException
+Tue May 15 18:27:30 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitstampExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testCreateOrderHandlesUnexpectedException
+Tue May 15 18:27:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingTickerSuccessfully
+Tue May 15 18:27:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testSendingPublicRequestToExchangeHandlesTradingApiException
+Tue May 15 18:27:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingBalanceInfoHandlesExchangeNetworkException
+Tue May 15 18:27:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingExchangeBuyingFeeHandlesUnexpectedException
+Tue May 15 18:27:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testExchangeAdapterThrowsExceptionIfClientIdConfigIsMissing
+Tue May 15 18:27:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingMarketOrdersHandlesUnexpectedException
+Tue May 15 18:27:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingMarketOrdersHandlesExchangeNetworkException
+Tue May 15 18:27:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingExchangeSellingFeeHandlesUnexpectedException
+Tue May 15 18:27:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingLatestMarketPriceHandlesUnexpectedException
+Tue May 15 18:27:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingYourOpenOrdersHandlesUnexpectedException
+Tue May 15 18:27:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingExchangeSellingFeeSuccessfully
+Tue May 15 18:27:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingExchangeBuyingFeeHandlesTimeoutException
+Tue May 15 18:27:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:27:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingMarketOrdersSuccessfully
+Tue May 15 18:27:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingTickerHandlesUnexpectedException
+Tue May 15 18:27:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesTradingApiException
+Tue May 15 18:27:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingYourOpenOrdersHandlesExchangeNetworkException
+Tue May 15 18:27:34 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeNetworkException
+Tue May 15 18:27:34 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testExchangeAdapterThrowsExceptionIfSecretConfigIsMissing
+Tue May 15 18:27:34 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingYourOpenOrdersSuccessfully
+Tue May 15 18:27:34 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingLatestMarketPriceSuccessfully
+Tue May 15 18:27:34 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingTickerHandlesExchangeNetworkException
+Tue May 15 18:27:34 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testExchangeAdapterThrowsExceptionIfTimeoutConfigIsMissing
+Tue May 15 18:27:35 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingExchangeBuyingFeeSuccessfully
+Tue May 15 18:27:35 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingBalanceInfoSuccessfully
+Tue May 15 18:27:35 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testExchangeAdapterThrowsExceptionIfPublicKeyConfigIsMissing
+Tue May 15 18:27:35 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingImplNameIsAsExpected
+Tue May 15 18:27:35 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingExchangeSellingFeeHandlesTimeoutException
+Tue May 15 18:27:35 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testSendingPublicRequestToExchangeSuccessfully
+Tue May 15 18:27:35 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testSendingPublicRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:27:36 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testSendingAuthenticatedRequestToExchangeSuccessfully
+Tue May 15 18:27:36 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter-testGettingBalanceInfoHandlesUnexpectedException
+Tue May 15 18:27:36 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestBitstampExchangeAdapter
+Tue May 15 18:27:37 UTC 2018: Found element on the queue
+Tue May 15 18:27:37 UTC 2018: Updating status
+Tue May 15 18:27:37 UTC 2018: Working
+Tue May 15 18:27:40 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter
+Tue May 15 18:27:40 UTC 2018: Setting lastTestMethodIndex: 41750
+Tue May 15 18:27:40 UTC 2018: Starting linking
+Tue May 15 18:27:40 UTC 2018: Code found com.gazbert.bxbot.exchanges.GdaxExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testCancelOrderIsSuccessful
+Tue May 15 18:27:40 UTC 2018: Code found com.gazbert.bxbot.exchanges.GdaxExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testCreateOrderToSellIsSuccessful
+Tue May 15 18:27:40 UTC 2018: Code found com.gazbert.bxbot.exchanges.GdaxExchangeAdapter-init with com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testExchangeAdapterInitialisesSuccessfully
+Tue May 15 18:27:41 UTC 2018: Code found com.gazbert.bxbot.exchanges.GdaxExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testCreateOrderHandlesExchangeNetworkException
+Tue May 15 18:27:41 UTC 2018: Code found com.gazbert.bxbot.exchanges.GdaxExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testCancelOrderHandlesUnexpectedException
+Tue May 15 18:27:41 UTC 2018: Code found com.gazbert.bxbot.exchanges.GdaxExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testCreateOrderToBuyIsSuccessful
+Tue May 15 18:27:41 UTC 2018: Code found com.gazbert.bxbot.exchanges.GdaxExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testCreateOrderHandlesUnexpectedException
+Tue May 15 18:27:41 UTC 2018: Code found com.gazbert.bxbot.exchanges.GdaxExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testCancelOrderHandlesExchangeNetworkException
+Tue May 15 18:27:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingTickerHandlesExchangeNetworkException
+Tue May 15 18:27:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testExchangeAdapterThrowsExceptionIfSellFeeIsMissing
+Tue May 15 18:27:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:27:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingTickerSuccessfully
+Tue May 15 18:27:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingBalanceInfoHandlesExchangeNetworkException
+Tue May 15 18:27:43 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingTickerHandlesUnexpectedException
+Tue May 15 18:27:43 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesTradingApiException
+Tue May 15 18:27:43 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingExchangeBuyingFeeIsAsExpected
+Tue May 15 18:27:43 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testExchangeAdapterThrowsExceptionIfPublicKeyConfigIsMissing
+Tue May 15 18:27:44 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingMarketOrdersHandlesExchangeNetworkException
+Tue May 15 18:27:44 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testExchangeAdapterThrowsExceptionIfSecretConfigIsMissing
+Tue May 15 18:27:44 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingBalanceInfoHandlesUnexpectedException
+Tue May 15 18:27:44 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingImplNameIsAsExpected
+Tue May 15 18:27:44 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testExchangeAdapterThrowsExceptionIfTimeoutConfigIsMissing
+Tue May 15 18:27:45 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingExchangeSellingFeeIsAsExpected
+Tue May 15 18:27:45 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testExchangeAdapterThrowsExceptionIfPassphraseConfigIsMissing
+Tue May 15 18:27:45 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingMarketOrders
+Tue May 15 18:27:45 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testSendingPublicRequestToExchangeHandlesTradingApiException
+Tue May 15 18:27:45 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingLatestMarketPriceSuccessfully
+Tue May 15 18:27:45 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingLatestMarketPriceHandlesUnexpectedException
+Tue May 15 18:27:46 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingMarketOrdersHandlesUnexpectedException
+Tue May 15 18:27:46 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testExchangeAdapterThrowsExceptionIfBuyFeeIsMissing
+Tue May 15 18:27:46 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingYourOpenOrdersSuccessfully
+Tue May 15 18:27:46 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testSendingPublicRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:27:46 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testSendingAuthenticatedRequestToExchangeSuccessfully
+Tue May 15 18:27:46 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingYourOpenOrdersHandlesUnexpectedException
+Tue May 15 18:27:46 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingBalanceInfoSuccessfully
+Tue May 15 18:27:46 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testSendingPublicRequestToExchangeSuccessfully
+Tue May 15 18:27:47 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingYourOpenOrdersHandlesExchangeNetworkException
+Tue May 15 18:27:47 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeNetworkException
+Tue May 15 18:27:47 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestGdaxExchangeAdapter
+Tue May 15 18:27:48 UTC 2018: Found element on the queue
+Tue May 15 18:27:48 UTC 2018: Updating status
+Tue May 15 18:27:48 UTC 2018: Working
+Tue May 15 18:27:51 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestTickerImpl
+Tue May 15 18:27:51 UTC 2018: Setting lastTestMethodIndex: 41757
+Tue May 15 18:27:51 UTC 2018: Starting linking
+Tue May 15 18:27:51 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestTickerImpl-testTickerIsInitialisedAsExpected
+Tue May 15 18:27:51 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestTickerImpl-testSettersWorkAsExpected
+Tue May 15 18:27:51 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestTickerImpl
+Tue May 15 18:27:52 UTC 2018: Found element on the queue
+Tue May 15 18:27:52 UTC 2018: Updating status
+Tue May 15 18:27:52 UTC 2018: Working
+Tue May 15 18:27:56 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestMarketOrderImpl
+Tue May 15 18:27:56 UTC 2018: Setting lastTestMethodIndex: 41761
+Tue May 15 18:27:56 UTC 2018: Starting linking
+Tue May 15 18:27:56 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestMarketOrderImpl-testSettersWorkAsExpected
+Tue May 15 18:27:56 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestMarketOrderImpl-testMarketOrderIsInitialisedAsExpected
+Tue May 15 18:27:56 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestMarketOrderImpl
+Tue May 15 18:27:57 UTC 2018: Found element on the queue
+Tue May 15 18:27:57 UTC 2018: Updating status
+Tue May 15 18:27:57 UTC 2018: Working
+Tue May 15 18:28:00 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestMarketOrderBookImpl
+Tue May 15 18:28:00 UTC 2018: Setting lastTestMethodIndex: 41765
+Tue May 15 18:28:00 UTC 2018: Starting linking
+Tue May 15 18:28:00 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestMarketOrderBookImpl-testMarketOrderBookIsInitialisedAsExpected
+Tue May 15 18:28:01 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestMarketOrderBookImpl-testSettersWorkAsExpected
+Tue May 15 18:28:01 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestMarketOrderBookImpl
+Tue May 15 18:28:02 UTC 2018: Found element on the queue
+Tue May 15 18:28:02 UTC 2018: Updating status
+Tue May 15 18:28:02 UTC 2018: Working
+Tue May 15 18:28:05 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestBalanceInfoImpl
+Tue May 15 18:28:05 UTC 2018: Setting lastTestMethodIndex: 41769
+Tue May 15 18:28:05 UTC 2018: Starting linking
+Tue May 15 18:28:05 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestBalanceInfoImpl-testBalanceInfoIsInitialisedAsExpected
+Tue May 15 18:28:05 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestBalanceInfoImpl-testSettersWorkAsExpected
+Tue May 15 18:28:05 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestBalanceInfoImpl
+Tue May 15 18:28:06 UTC 2018: Found element on the queue
+Tue May 15 18:28:06 UTC 2018: Updating status
+Tue May 15 18:28:06 UTC 2018: Working
+Tue May 15 18:28:10 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestOpenOrderImpl
+Tue May 15 18:28:10 UTC 2018: Setting lastTestMethodIndex: 41772
+Tue May 15 18:28:10 UTC 2018: Starting linking
+Tue May 15 18:28:10 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestOpenOrderImpl-testOpenOrderIsInitialisedAsExpected
+Tue May 15 18:28:10 UTC 2018: No link for: com.gazbert.bxbot.exchanges.trading.api.impl.TestOpenOrderImpl-testSettersWorkAsExpected
+Tue May 15 18:28:10 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.trading.api.impl.TestOpenOrderImpl
+Tue May 15 18:28:11 UTC 2018: Found element on the queue
+Tue May 15 18:28:11 UTC 2018: Updating status
+Tue May 15 18:28:11 UTC 2018: Working
+Tue May 15 18:28:15 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter
+Tue May 15 18:28:15 UTC 2018: Setting lastTestMethodIndex: 41776
+Tue May 15 18:28:15 UTC 2018: Starting linking
+Tue May 15 18:28:15 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCancelOrderIsSuccessful
+Tue May 15 18:28:15 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCancelOrderHandlesExchangeNetworkException
+Tue May 15 18:28:15 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCreateOrderHandlesUnexpectedException
+Tue May 15 18:28:15 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCreateOrderToBuyIsSuccessful
+Tue May 15 18:28:16 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-init with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testExchangeAdapterInitialisesSuccessfully
+Tue May 15 18:28:16 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCancelOrderHandlesUnexpectedException
+Tue May 15 18:28:16 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCreateOrderToSellIsSuccessful
+Tue May 15 18:28:16 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCreateOrderExchangeErrorResponse
+Tue May 15 18:28:16 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCancelOrderExchangeErrorResponse
+Tue May 15 18:28:17 UTC 2018: Code found com.gazbert.bxbot.exchanges.OkCoinExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testCreateOrderHandlesExchangeNetworkException
+Tue May 15 18:28:17 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testSendingPublicRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:28:17 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:28:17 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingMarketOrdersHandlesExchangeNetworkException
+Tue May 15 18:28:17 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testSendingAuthenticatedRequestToExchangeSuccessfully
+Tue May 15 18:28:18 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingTickerHandlesExchangeNetworkException
+Tue May 15 18:28:18 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingYourOpenOrdersHandlesUnexpectedException
+Tue May 15 18:28:18 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingTickerSuccessfully
+Tue May 15 18:28:18 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testSendingPublicRequestToExchangeHandlesTradingApiException
+Tue May 15 18:28:18 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testExchangeAdapterThrowsExceptionIfBuyFeeIsMissing
+Tue May 15 18:28:19 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingLatestMarketPriceHandlesUnexpectedException
+Tue May 15 18:28:19 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingExchangeSellingFeeIsAsExpected
+Tue May 15 18:28:19 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testExchangeAdapterThrowsExceptionIfTimeoutConfigIsMissing
+Tue May 15 18:28:19 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingMarketOrdersHandlesUnexpectedException
+Tue May 15 18:28:19 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testExchangeAdapterThrowsExceptionIfSellFeeIsMissing
+Tue May 15 18:28:20 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingYourOpenOrdersSuccessfully
+Tue May 15 18:28:20 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingLatestMarketPriceSuccessfully
+Tue May 15 18:28:20 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingBalanceInfoSuccessfully
+Tue May 15 18:28:20 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingYourOpenOrdersExchangeErrorResponse
+Tue May 15 18:28:20 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeNetworkException
+Tue May 15 18:28:20 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingYourOpenOrdersHandlesExchangeNetworkException
+Tue May 15 18:28:21 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingBalanceInfoExchangeErrorResponse
+Tue May 15 18:28:21 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesTradingApiException
+Tue May 15 18:28:21 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testSendingPublicRequestToExchangeSuccessfully
+Tue May 15 18:28:21 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingTickerHandlesUnexpectedException
+Tue May 15 18:28:21 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingBalanceInfoHandlesUnexpectedException
+Tue May 15 18:28:22 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingExchangeBuyingFeeIsAsExpected
+Tue May 15 18:28:22 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testExchangeAdapterThrowsExceptionIfPublicKeyConfigIsMissing
+Tue May 15 18:28:22 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingMarketOrders
+Tue May 15 18:28:22 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingBalanceInfoHandlesExchangeNetworkException
+Tue May 15 18:28:22 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testGettingImplNameIsAsExpected
+Tue May 15 18:28:23 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter-testExchangeAdapterThrowsExceptionIfSecretConfigIsMissing
+Tue May 15 18:28:23 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestOkcoinExchangeAdapter
+Tue May 15 18:28:24 UTC 2018: Found element on the queue
+Tue May 15 18:28:24 UTC 2018: Updating status
+Tue May 15 18:28:24 UTC 2018: Working
+Tue May 15 18:28:27 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter
+Tue May 15 18:28:27 UTC 2018: Setting lastTestMethodIndex: 41785
+Tue May 15 18:28:27 UTC 2018: Starting linking
+Tue May 15 18:28:27 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitfinexExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testCreateOrderHandlesExchangeNetworkException
+Tue May 15 18:28:27 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitfinexExchangeAdapter-init with com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testExchangeAdapterInitialisesSuccessfully
+Tue May 15 18:28:28 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitfinexExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testCreateOrderHandlesUnexpectedException
+Tue May 15 18:28:28 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitfinexExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testCreateOrderToBuyIsSuccessful
+Tue May 15 18:28:28 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitfinexExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testCancelOrderHandlesExchangeNetworkException
+Tue May 15 18:28:28 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitfinexExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testCreateOrderToSellIsSuccessful
+Tue May 15 18:28:28 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitfinexExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testCancelOrderIsSuccessful
+Tue May 15 18:28:28 UTC 2018: Code found com.gazbert.bxbot.exchanges.BitfinexExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testCancelOrderHandlesUnexpectedException
+Tue May 15 18:28:29 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingBalanceInfoHandlesUnexpectedException
+Tue May 15 18:28:29 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingImplNameIsAsExpected
+Tue May 15 18:28:29 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingExchangeSellingFeeSuccessfully
+Tue May 15 18:28:29 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testExchangeAdapterThrowsExceptionIfTimeoutConfigIsMissing
+Tue May 15 18:28:29 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingMarketOrdersHandlesUnexpectedException
+Tue May 15 18:28:30 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingExchangeSellingFeeHandlesTimeoutException
+Tue May 15 18:28:30 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingExchangeBuyingFeeSuccessfully
+Tue May 15 18:28:30 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testSendingPublicRequestToExchangeHandlesTradingApiException
+Tue May 15 18:28:30 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingMarketOrdersSuccessfully
+Tue May 15 18:28:30 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingYourOpenOrdersSuccessfully
+Tue May 15 18:28:30 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testSendingPublicRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:28:30 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingLatestMarketPriceHandlesUnexpectedException
+Tue May 15 18:28:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingLatestMarketPriceSuccessfully
+Tue May 15 18:28:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingExchangeBuyingFeeHandlesUnexpectedException
+Tue May 15 18:28:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testSendingPublicRequestToExchangeSuccessfully
+Tue May 15 18:28:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testSendingAuthenticatedRequestToExchangeSuccessfully
+Tue May 15 18:28:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingYourOpenOrdersHandlesUnexpectedException
+Tue May 15 18:28:31 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingBalanceInfoSuccessfully
+Tue May 15 18:28:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeNetworkException
+Tue May 15 18:28:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingYourOpenOrdersHandlesExchangeNetworkException
+Tue May 15 18:28:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:28:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingTickerHandlesExchangeNetworkException
+Tue May 15 18:28:32 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testExchangeAdapterThrowsExceptionIfSecretConfigIsMissing
+Tue May 15 18:28:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingBalanceInfoHandlesExchangeNetworkException
+Tue May 15 18:28:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingTickerHandlesUnexpectedException
+Tue May 15 18:28:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingTickerSuccessfully
+Tue May 15 18:28:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testExchangeAdapterThrowsExceptionIfPublicKeyConfigIsMissing
+Tue May 15 18:28:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesTradingApiException
+Tue May 15 18:28:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingMarketOrdersHandlesExchangeNetworkException
+Tue May 15 18:28:33 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingExchangeBuyingFeeHandlesTimeoutException
+Tue May 15 18:28:34 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter-testGettingExchangeSellingFeeHandlesUnexpectedException
+Tue May 15 18:28:34 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestBitfinexExchangeAdapter
+Tue May 15 18:28:34 UTC 2018: Found element on the queue
+Tue May 15 18:28:34 UTC 2018: Updating status
+Tue May 15 18:28:34 UTC 2018: Working
+Tue May 15 18:28:38 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter
+Tue May 15 18:28:38 UTC 2018: Setting lastTestMethodIndex: 41793
+Tue May 15 18:28:38 UTC 2018: Starting linking
+Tue May 15 18:28:38 UTC 2018: Code found com.gazbert.bxbot.exchanges.GeminiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testCreateOrderToSellIsSuccessful
+Tue May 15 18:28:38 UTC 2018: Code found com.gazbert.bxbot.exchanges.GeminiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testCreateOrderHandlesUnexpectedException
+Tue May 15 18:28:38 UTC 2018: Code found com.gazbert.bxbot.exchanges.GeminiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testCreateOrderHandlesExchangeNetworkException
+Tue May 15 18:28:39 UTC 2018: Code found com.gazbert.bxbot.exchanges.GeminiExchangeAdapter-init with com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testExchangeAdapterInitialisesSuccessfully
+Tue May 15 18:28:39 UTC 2018: Code found com.gazbert.bxbot.exchanges.GeminiExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testCancelOrderHandlesUnexpectedException
+Tue May 15 18:28:39 UTC 2018: Code found com.gazbert.bxbot.exchanges.GeminiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testCreateOrderToBuyIsSuccessful
+Tue May 15 18:28:39 UTC 2018: Code found com.gazbert.bxbot.exchanges.GeminiExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testCancelOrderIsSuccessful
+Tue May 15 18:28:39 UTC 2018: Code found com.gazbert.bxbot.exchanges.GeminiExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testCancelOrderHandlesExchangeNetworkException
+Tue May 15 18:28:39 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingExchangeBuyingFeeIsAsExpected
+Tue May 15 18:28:40 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testExchangeAdapterThrowsExceptionIfPublicKeyConfigIsMissing
+Tue May 15 18:28:40 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingMarketOrdersSuccessfully
+Tue May 15 18:28:40 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesTradingApiException
+Tue May 15 18:28:40 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeNetworkException
+Tue May 15 18:28:40 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingYourOpenOrdersHandlesExchangeNetworkException
+Tue May 15 18:28:40 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testSendingPublicRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:28:40 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingImplNameIsAsExpected
+Tue May 15 18:28:41 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingBalanceInfoHandlesExchangeNetworkException
+Tue May 15 18:28:41 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testExchangeAdapterThrowsExceptionIfSecretConfigIsMissing
+Tue May 15 18:28:41 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testSendingAuthenticatedRequestToExchangeSuccessfully
+Tue May 15 18:28:41 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingBalanceInfoHandlesUnexpectedException
+Tue May 15 18:28:41 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingYourOpenOrdersHandlesUnexpectedException
+Tue May 15 18:28:41 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingMarketOrdersHandlesExchangeNetworkException
+Tue May 15 18:28:41 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testSendingPublicRequestToExchangeSuccessfully
+Tue May 15 18:28:41 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingYourOpenOrdersSuccessfully
+Tue May 15 18:28:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingLatestMarketPriceSuccessfully
+Tue May 15 18:28:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingBalanceInfoSuccessfully
+Tue May 15 18:28:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:28:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testSendingPublicRequestToExchangeHandlesTradingApiException
+Tue May 15 18:28:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingLatestMarketPriceHandlesUnexpectedException
+Tue May 15 18:28:42 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingExchangeSellingFeeIsAsExpected
+Tue May 15 18:28:43 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testExchangeAdapterThrowsExceptionIfTimeoutConfigIsMissing
+Tue May 15 18:28:43 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter-testGettingMarketOrdersHandlesUnexpectedException
+Tue May 15 18:28:43 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestGeminiExchangeAdapter
+Tue May 15 18:28:44 UTC 2018: Found element on the queue
+Tue May 15 18:28:44 UTC 2018: Updating status
+Tue May 15 18:28:44 UTC 2018: Working
+Tue May 15 18:28:47 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter
+Tue May 15 18:28:47 UTC 2018: Setting lastTestMethodIndex: 41799
+Tue May 15 18:28:47 UTC 2018: Starting linking
+Tue May 15 18:28:48 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCancelOrderExchangeErrorResponse
+Tue May 15 18:28:48 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCreateOrderExchangeErrorResponse
+Tue May 15 18:28:48 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-init with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testExchangeAdapterInitialisesSuccessfully
+Tue May 15 18:28:48 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCreateOrderToBuyIsSuccessful
+Tue May 15 18:28:48 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCreateOrderHandlesUnexpectedException
+Tue May 15 18:28:48 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCancelOrderHandlesExchangeNetworkException
+Tue May 15 18:28:48 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCreateOrderHandlesExchangeNetworkException
+Tue May 15 18:28:49 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCancelOrderIsSuccessful
+Tue May 15 18:28:49 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCreateOrderToSellIsSuccessful
+Tue May 15 18:28:49 UTC 2018: Code found com.gazbert.bxbot.exchanges.KrakenExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testCancelOrderHandlesUnexpectedException
+Tue May 15 18:28:49 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingYourOpenOrdersHandlesExchangeNetworkException
+Tue May 15 18:28:49 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeErrorResponse
+Tue May 15 18:28:49 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeNetworkException
+Tue May 15 18:28:49 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingExchangeBuyingFeeIsAsExpected
+Tue May 15 18:28:50 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testExchangeAdapterThrowsExceptionIfPublicKeyConfigIsMissing
+Tue May 15 18:28:50 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesTradingApiException
+Tue May 15 18:28:50 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingTickerHandlesExchangeErrorResponse
+Tue May 15 18:28:50 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingMarketOrdersSuccessfully
+Tue May 15 18:28:50 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingYourOpenOrdersExchangeErrorResponse
+Tue May 15 18:28:50 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingTickerHandlesExchangeNetworkException
+Tue May 15 18:28:50 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingLatestMarketPriceSuccessfully
+Tue May 15 18:28:51 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingYourOpenOrdersSuccessfully
+Tue May 15 18:28:51 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testExchangeAdapterThrowsExceptionIfSecretConfigIsMissing
+Tue May 15 18:28:51 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testExchangeAdapterThrowsExceptionIfTimeoutConfigIsMissing
+Tue May 15 18:28:51 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingExchangeSellingFeeIsAsExpected
+Tue May 15 18:28:51 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingBalanceInfoSuccessfully
+Tue May 15 18:28:51 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingBalanceInfoHandlesUnexpectedException
+Tue May 15 18:28:52 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testSendingPublicRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:28:52 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingMarketOrdersHandlesErrorResponse
+Tue May 15 18:28:52 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testSendingPublicRequestToExchangeSuccessfully
+Tue May 15 18:28:52 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testSendingAuthenticatedRequestToExchangeSuccessfully
+Tue May 15 18:28:52 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingMarketOrdersHandlesUnexpectedException
+Tue May 15 18:28:52 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingLatestMarketPriceHandlesUnexpectedException
+Tue May 15 18:28:52 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingYourOpenOrdersHandlesUnexpectedException
+Tue May 15 18:28:53 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingBalanceInfoHandlesExchangeErrorResponse
+Tue May 15 18:28:53 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingTickerSuccessfully
+Tue May 15 18:28:53 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testSendingPublicRequestToExchangeHandlesTradingApiException
+Tue May 15 18:28:53 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingBalanceInfoHandlesExchangeNetworkException
+Tue May 15 18:28:53 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingImplNameIsAsExpected
+Tue May 15 18:28:53 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:28:53 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingMarketOrdersHandlesExchangeNetworkException
+Tue May 15 18:28:53 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter-testGettingTickerHandlesUnexpectedException
+Tue May 15 18:28:54 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestKrakenExchangeAdapter
+Tue May 15 18:28:54 UTC 2018: Found element on the queue
+Tue May 15 18:28:54 UTC 2018: Updating status
+Tue May 15 18:28:54 UTC 2018: Working
+Tue May 15 18:28:57 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter
+Tue May 15 18:28:57 UTC 2018: Setting lastTestMethodIndex: 41804
+Tue May 15 18:28:57 UTC 2018: Starting linking
+Tue May 15 18:28:57 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCreateOrderHandlesExchangeNetworkException
+Tue May 15 18:28:57 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCreateOrderExchangeErrorResponse
+Tue May 15 18:28:58 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCreateOrderToSellIsSuccessful
+Tue May 15 18:28:58 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCancelOrderHandlesUnexpectedException
+Tue May 15 18:28:58 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCancelOrderIsSuccessful
+Tue May 15 18:28:58 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCancelOrderHandlesExchangeNetworkException
+Tue May 15 18:28:58 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCancelOrderExchangeErrorResponse
+Tue May 15 18:28:59 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCreateOrderToBuyIsSuccessful
+Tue May 15 18:28:59 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-init with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testExchangeAdapterInitialisesSuccessfully
+Tue May 15 18:28:59 UTC 2018: Code found com.gazbert.bxbot.exchanges.HuobiExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testCreateOrderHandlesUnexpectedException
+Tue May 15 18:28:59 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingBalanceInfoSuccessfully
+Tue May 15 18:28:59 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testSendingPublicRequestToExchangeSuccessfully
+Tue May 15 18:28:59 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testExchangeAdapterThrowsExceptionIfAccountInfoMarketConfigIsMissing
+Tue May 15 18:29:00 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingLatestMarketPriceSuccessfully
+Tue May 15 18:29:00 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingExchangeBuyingFeeIsAsExpected
+Tue May 15 18:29:00 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testExchangeAdapterThrowsExceptionIfPublicKeyConfigIsMissing
+Tue May 15 18:29:00 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingMarketOrdersForInvalidMarket
+Tue May 15 18:29:00 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testExchangeAdapterThrowsExceptionIfBuyFeeIsMissing
+Tue May 15 18:29:01 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingExchangeSellingFeeIsAsExpected
+Tue May 15 18:29:01 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testExchangeAdapterThrowsExceptionIfSecretConfigIsMissing
+Tue May 15 18:29:01 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingImplNameIsAsExpected
+Tue May 15 18:29:01 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testExchangeAdapterThrowsExceptionIfTimeoutConfigIsMissing
+Tue May 15 18:29:01 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingYourOpenOrdersSuccessfully
+Tue May 15 18:29:01 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingMarketOrdersHandlesExchangeNetworkException
+Tue May 15 18:29:02 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingBalanceInfoExchangeErrorResponse
+Tue May 15 18:29:02 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesTradingApiException
+Tue May 15 18:29:02 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingYourOpenOrdersExchangeErrorResponse
+Tue May 15 18:29:02 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:29:02 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingBalanceInfoHandlesExchangeNetworkException
+Tue May 15 18:29:03 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingMarketOrdersHandlesUnexpectedException
+Tue May 15 18:29:03 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingLatestMarketPriceForInvalidMarket
+Tue May 15 18:29:03 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingLatestMarketPriceHandlesUnexpectedException
+Tue May 15 18:29:03 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testExchangeAdapterThrowsExceptionIfSellFeeIsMissing
+Tue May 15 18:29:04 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testSendingPublicRequestToExchangeHandlesTradingApiException
+Tue May 15 18:29:04 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingYourOpenOrdersHandlesUnexpectedException
+Tue May 15 18:29:04 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingYourOpenOrdersHandlesExchangeNetworkException
+Tue May 15 18:29:04 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingMarketOrders
+Tue May 15 18:29:04 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeNetworkException
+Tue May 15 18:29:04 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testGettingBalanceInfoHandlesUnexpectedException
+Tue May 15 18:29:05 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testSendingPublicRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:29:05 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter-testSendingAuthenticatedRequestToExchangeSuccessfully
+Tue May 15 18:29:05 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestHuobiExchangeAdapter
+Tue May 15 18:29:06 UTC 2018: Found element on the queue
+Tue May 15 18:29:06 UTC 2018: Updating status
+Tue May 15 18:29:06 UTC 2018: Working
+Tue May 15 18:29:09 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter
+Tue May 15 18:29:09 UTC 2018: Setting lastTestMethodIndex: 41813
+Tue May 15 18:29:09 UTC 2018: Starting linking
+Tue May 15 18:29:09 UTC 2018: Code found com.gazbert.bxbot.exchanges.ItBitExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testCreateOrderToSellIsSuccessful
+Tue May 15 18:29:09 UTC 2018: Code found com.gazbert.bxbot.exchanges.ItBitExchangeAdapter-init with com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testExchangeAdapterInitialisesSuccessfully
+Tue May 15 18:29:10 UTC 2018: Code found com.gazbert.bxbot.exchanges.ItBitExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testCancelOrderHandlesExchangeNetworkException
+Tue May 15 18:29:10 UTC 2018: Code found com.gazbert.bxbot.exchanges.ItBitExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testCreateOrderToBuyIsSuccessful
+Tue May 15 18:29:10 UTC 2018: Code found com.gazbert.bxbot.exchanges.ItBitExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testCreateOrderHandlesUnexpectedException
+Tue May 15 18:29:10 UTC 2018: Code found com.gazbert.bxbot.exchanges.ItBitExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testCancelOrderIsSuccessful
+Tue May 15 18:29:10 UTC 2018: Code found com.gazbert.bxbot.exchanges.ItBitExchangeAdapter-createOrder with com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testCreateOrderHandlesExchangeNetworkException
+Tue May 15 18:29:10 UTC 2018: Code found com.gazbert.bxbot.exchanges.ItBitExchangeAdapter-cancelOrder with com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testCancelOrderHandlesUnexpectedException
+Tue May 15 18:29:11 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingLatestMarketPriceHandlesExchangeNetworkException
+Tue May 15 18:29:11 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingExchangeBuyingFeeIsAsExpected
+Tue May 15 18:29:11 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingTickerHandlesUnexpectedException
+Tue May 15 18:29:11 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testExchangeAdapterThrowsExceptionIfClientKeyConfigIsMissing
+Tue May 15 18:29:11 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingMarketOrdersSuccessfully
+Tue May 15 18:29:11 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingLatestMarketPriceSuccessfully
+Tue May 15 18:29:12 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesTradingApiException
+Tue May 15 18:29:12 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testExchangeAdapterThrowsExceptionIfBuyFeeIsMissing
+Tue May 15 18:29:12 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testExchangeAdapterThrowsExceptionIfClientSecretConfigIsMissing
+Tue May 15 18:29:12 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingYourOpenOrdersSuccessfully
+Tue May 15 18:29:12 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testExchangeAdapterThrowsExceptionIfUserIdConfigIsMissing
+Tue May 15 18:29:12 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testExchangeAdapterThrowsExceptionIfSellFeeIsMissing
+Tue May 15 18:29:13 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingBalanceInfoSuccessfully
+Tue May 15 18:29:13 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingBalanceInfoHandlesUnexpectedException
+Tue May 15 18:29:13 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingTickerHandlesExchangeNetworkException
+Tue May 15 18:29:13 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingExchangeSellingFeeIsAsExpected
+Tue May 15 18:29:13 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testExchangeAdapterThrowsExceptionIfTimeoutConfigIsMissing
+Tue May 15 18:29:14 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testSendingPublicRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:29:14 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testSendingPublicRequestToExchangeSuccessfully
+Tue May 15 18:29:14 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingYourOpenOrdersHandlesExchangeNetworkException
+Tue May 15 18:29:14 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingMarketOrdersHandlesUnexpectedException
+Tue May 15 18:29:15 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingTickerSuccessfully
+Tue May 15 18:29:15 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testSendingPublicRequestToExchangeHandlesTradingApiException
+Tue May 15 18:29:15 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingBalanceInfoHandlesExchangeNetworkException
+Tue May 15 18:29:15 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingMarketOrdersHandlesExchangeNetworkException
+Tue May 15 18:29:15 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingYourOpenOrdersHandlesUnexpectedException
+Tue May 15 18:29:15 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testSendingAuthenticatedRequestToExchangeSuccessfully
+Tue May 15 18:29:16 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingLatestMarketPriceHandlesUnexpectedException
+Tue May 15 18:29:16 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testGettingImplNameIsAsExpected
+Tue May 15 18:29:16 UTC 2018: No link for: com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter-testSendingAuthenticatedRequestToExchangeHandlesExchangeNetworkException
+Tue May 15 18:29:16 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.exchanges.TestItBitExchangeAdapter
+Tue May 15 18:29:17 UTC 2018: Found element on the queue
+Tue May 15 18:29:17 UTC 2018: Updating status
+Tue May 15 18:29:17 UTC 2018: Working
+Tue May 15 18:29:17 UTC 2018: Create project parser
+Tue May 15 18:29:21 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.repository.TestEmailAlertsConfigRepository
+Tue May 15 18:29:21 UTC 2018: Setting lastTestMethodIndex: 41821
+Tue May 15 18:29:21 UTC 2018: Starting linking
+Tue May 15 18:29:21 UTC 2018: Code found com.gazbert.bxbot.repository.impl.EmailAlertsConfigRepositoryXmlDatastore-get with com.gazbert.bxbot.repository.TestEmailAlertsConfigRepository-whenGetCalledThenExpectEmailAlertsConfigToBeReturned
+Tue May 15 18:29:21 UTC 2018: Code found com.gazbert.bxbot.repository.impl.EmailAlertsConfigRepositoryXmlDatastore-save with com.gazbert.bxbot.repository.TestEmailAlertsConfigRepository-whenSaveCalledThenExpectRepositoryToSaveItAndReturnSavedEmailAlertsConfig
+Tue May 15 18:29:22 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.repository.TestEmailAlertsConfigRepository
+Tue May 15 18:29:23 UTC 2018: Found element on the queue
+Tue May 15 18:29:23 UTC 2018: Updating status
+Tue May 15 18:29:23 UTC 2018: Working
+Tue May 15 18:29:26 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.repository.TestMarketConfigRepository
+Tue May 15 18:29:26 UTC 2018: Setting lastTestMethodIndex: 41825
+Tue May 15 18:29:26 UTC 2018: Starting linking
+Tue May 15 18:29:26 UTC 2018: Code found com.gazbert.bxbot.repository.impl.MarketConfigRepositoryXmlDatastore-findAll with com.gazbert.bxbot.repository.TestMarketConfigRepository-whenFindAllCalledThenExpectServiceToReturnAllMarketConfigs
+Tue May 15 18:29:26 UTC 2018: Code found com.gazbert.bxbot.repository.impl.MarketConfigRepositoryXmlDatastore-save with com.gazbert.bxbot.repository.TestMarketConfigRepository-whenSaveCalledWithUnknownIdThenReturnEmptyMarketConfig
+Tue May 15 18:29:26 UTC 2018: Code found com.gazbert.bxbot.repository.impl.MarketConfigRepositoryXmlDatastore-delete with com.gazbert.bxbot.repository.TestMarketConfigRepository-whenDeleteCalledWithUnknownIdThenReturnEmptyMarket
+Tue May 15 18:29:26 UTC 2018: Code found com.gazbert.bxbot.repository.impl.MarketConfigRepositoryXmlDatastore-findById with com.gazbert.bxbot.repository.TestMarketConfigRepository-whenFindByIdCalledWithKnownIdThenReturnMatchingMarketConfig
+Tue May 15 18:29:26 UTC 2018: Code found com.gazbert.bxbot.repository.impl.MarketConfigRepositoryXmlDatastore-save with com.gazbert.bxbot.repository.TestMarketConfigRepository-whenSaveCalledWithKnownIdThenReturnUpdatedMarketConfig
+Tue May 15 18:29:26 UTC 2018: Code found com.gazbert.bxbot.repository.impl.MarketConfigRepositoryXmlDatastore-delete with com.gazbert.bxbot.repository.TestMarketConfigRepository-whenDeleteCalledWithKnownIdThenReturnMatchingMarketConfig
+Tue May 15 18:29:27 UTC 2018: Code found com.gazbert.bxbot.repository.impl.MarketConfigRepositoryXmlDatastore-findById with com.gazbert.bxbot.repository.TestMarketConfigRepository-whenFindByIdCalledWithUnknownIdThenReturnNullMarketConfig
+Tue May 15 18:29:27 UTC 2018: No link for: com.gazbert.bxbot.repository.TestMarketConfigRepository-whenSaveCalledWithEmptyIdThenExpectCreatedMarketConfigToBeReturned
+Tue May 15 18:29:27 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.repository.TestMarketConfigRepository
+Tue May 15 18:29:28 UTC 2018: Found element on the queue
+Tue May 15 18:29:28 UTC 2018: Updating status
+Tue May 15 18:29:28 UTC 2018: Working
+Tue May 15 18:29:31 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.repository.TestExchangeConfigRepository
+Tue May 15 18:29:32 UTC 2018: Setting lastTestMethodIndex: 41829
+Tue May 15 18:29:32 UTC 2018: Starting linking
+Tue May 15 18:29:32 UTC 2018: Code found com.gazbert.bxbot.repository.impl.ExchangeConfigRepositoryXmlDatastore-save with com.gazbert.bxbot.repository.TestExchangeConfigRepository-whenSaveCalledThenExpectRepositoryToSaveItAndReturnSavedExchangeConfig
+Tue May 15 18:29:32 UTC 2018: Code found com.gazbert.bxbot.repository.impl.ExchangeConfigRepositoryXmlDatastore-get with com.gazbert.bxbot.repository.TestExchangeConfigRepository-whenGetCalledThenReturnExchangeConfig
+Tue May 15 18:29:32 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.repository.TestExchangeConfigRepository
+Tue May 15 18:29:33 UTC 2018: Found element on the queue
+Tue May 15 18:29:33 UTC 2018: Updating status
+Tue May 15 18:29:33 UTC 2018: Working
+Tue May 15 18:29:36 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.repository.TestEngineConfigRepository
+Tue May 15 18:29:37 UTC 2018: Setting lastTestMethodIndex: 41834
+Tue May 15 18:29:37 UTC 2018: Starting linking
+Tue May 15 18:29:37 UTC 2018: Code found com.gazbert.bxbot.repository.impl.EngineConfigRepositoryXmlDatastore-save with com.gazbert.bxbot.repository.TestEngineConfigRepository-whenSaveCalledThenExpectRepositoryToSaveItAndReturnSavedEngineConfig
+Tue May 15 18:29:37 UTC 2018: Code found com.gazbert.bxbot.repository.impl.EngineConfigRepositoryXmlDatastore-get with com.gazbert.bxbot.repository.TestEngineConfigRepository-whenGetCalledThenExpectEngineConfigToBeReturned
+Tue May 15 18:29:37 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.repository.TestEngineConfigRepository
+Tue May 15 18:29:38 UTC 2018: Found element on the queue
+Tue May 15 18:29:38 UTC 2018: Updating status
+Tue May 15 18:29:38 UTC 2018: Working
+Tue May 15 18:29:41 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.repository.TestStrategyConfigRepository
+Tue May 15 18:29:41 UTC 2018: Setting lastTestMethodIndex: 41837
+Tue May 15 18:29:41 UTC 2018: Starting linking
+Tue May 15 18:29:41 UTC 2018: Code found com.gazbert.bxbot.repository.impl.StrategyConfigRepositoryXmlDatastore-delete with com.gazbert.bxbot.repository.TestStrategyConfigRepository-whenDeleteCalledWithKnownIdThenReturnDeletedStrategyConfig
+Tue May 15 18:29:41 UTC 2018: Code found com.gazbert.bxbot.repository.impl.StrategyConfigRepositoryXmlDatastore-save with com.gazbert.bxbot.repository.TestStrategyConfigRepository-whenSaveCalledWithUnknownIdThenReturnEmptyStrategyConfig
+Tue May 15 18:29:41 UTC 2018: Code found com.gazbert.bxbot.repository.impl.StrategyConfigRepositoryXmlDatastore-findById with com.gazbert.bxbot.repository.TestStrategyConfigRepository-whenFindByIdCalledWithUnknownIdThenReturnNullStrategyConfig
+Tue May 15 18:29:42 UTC 2018: Code found com.gazbert.bxbot.repository.impl.StrategyConfigRepositoryXmlDatastore-findById with com.gazbert.bxbot.repository.TestStrategyConfigRepository-whenFindByIdCalledWithKnownIdThenReturnMatchingStrategyConfig
+Tue May 15 18:29:42 UTC 2018: Code found com.gazbert.bxbot.repository.impl.StrategyConfigRepositoryXmlDatastore-delete with com.gazbert.bxbot.repository.TestStrategyConfigRepository-whenDeleteCalledWithUnknownIdThenReturnEmptyStrategyConfig
+Tue May 15 18:29:42 UTC 2018: Code found com.gazbert.bxbot.repository.impl.StrategyConfigRepositoryXmlDatastore-findAll with com.gazbert.bxbot.repository.TestStrategyConfigRepository-whenFindAllCalledThenExpectServiceToReturnAllStrategyConfigs
+Tue May 15 18:29:42 UTC 2018: Code found com.gazbert.bxbot.repository.impl.StrategyConfigRepositoryXmlDatastore-save with com.gazbert.bxbot.repository.TestStrategyConfigRepository-whenSaveCalledWithKnownIdThenReturnUpdatedStrategyConfig
+Tue May 15 18:29:42 UTC 2018: No link for: com.gazbert.bxbot.repository.TestStrategyConfigRepository-whenSaveCalledWithEmptyIdThenExpectCreatedStrategyConfigToBeReturned
+Tue May 15 18:29:43 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.repository.TestStrategyConfigRepository
+Tue May 15 18:29:44 UTC 2018: Found element on the queue
+Tue May 15 18:29:44 UTC 2018: Updating status
+Tue May 15 18:29:44 UTC 2018: Working
+Tue May 15 18:29:44 UTC 2018: Create project parser
+Tue May 15 18:29:47 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestEmailAlertsConfigController
+Tue May 15 18:29:47 UTC 2018: Setting lastTestMethodIndex: 41843
+Tue May 15 18:29:47 UTC 2018: Starting linking
+Tue May 15 18:29:47 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEmailAlertsConfigController-testGetEmailAlertsConfig
+Tue May 15 18:29:47 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEmailAlertsConfigController-testUpdateEmailAlertsConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:29:48 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEmailAlertsConfigController-testUpdateEmailAlertsConfig
+Tue May 15 18:29:48 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEmailAlertsConfigController-testUpdateEmailAlertsConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:29:48 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEmailAlertsConfigController-testGetEmailAlertsConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:29:48 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEmailAlertsConfigController-testGetEmailAlertsConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:29:49 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestEmailAlertsConfigController
+Tue May 15 18:29:50 UTC 2018: Found element on the queue
+Tue May 15 18:29:50 UTC 2018: Updating status
+Tue May 15 18:29:50 UTC 2018: Working
+Tue May 15 18:29:53 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestEngineConfigController
+Tue May 15 18:29:53 UTC 2018: Setting lastTestMethodIndex: 41847
+Tue May 15 18:29:53 UTC 2018: Starting linking
+Tue May 15 18:29:53 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEngineConfigController-testGetEngineConfigWhenUnauthorizedWithBadCredentials
+Tue May 15 18:29:53 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEngineConfigController-testGetEngineConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:29:53 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEngineConfigController-testUpdateEngineConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:29:53 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEngineConfigController-testUpdateEngineConfig
+Tue May 15 18:29:53 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEngineConfigController-testGetEngineConfig
+Tue May 15 18:29:54 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestEngineConfigController-testUpdateEngineConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:29:54 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestEngineConfigController
+Tue May 15 18:29:55 UTC 2018: Found element on the queue
+Tue May 15 18:29:55 UTC 2018: Updating status
+Tue May 15 18:29:55 UTC 2018: Working
+Tue May 15 18:29:59 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController
+Tue May 15 18:29:59 UTC 2018: Setting lastTestMethodIndex: 41851
+Tue May 15 18:29:59 UTC 2018: Starting linking
+Tue May 15 18:29:59 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testUpdateStrategyConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:29:59 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testGetStrategyConfig
+Tue May 15 18:29:59 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testUpdateStrategyConfigWhenIdNotRecognized
+Tue May 15 18:29:59 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testDeleteStrategyConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:00 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testDeleteStrategyConfigWhenIdNotRecognized
+Tue May 15 18:30:00 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testCreateStrategyConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:00 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testGetStrategyConfigByIdWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:00 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testGetAllStrategyConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:00 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testGetAllStrategyConfig
+Tue May 15 18:30:01 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testDeleteStrategyConfig
+Tue May 15 18:30:01 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testUpdateStrategyConfig
+Tue May 15 18:30:01 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testDeleteStrategyConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:01 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testGetAllStrategyConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:01 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testUpdateStrategyConfigWhenIdIsMissing
+Tue May 15 18:30:02 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testGetStrategyConfigByIdWhenNotRecognized
+Tue May 15 18:30:02 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testUpdateStrategyConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:02 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testCreateStrategyConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:02 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testGetStrategyConfigByIdWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:02 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController-testCreateStrategyConfig
+Tue May 15 18:30:02 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestStrategyConfigController
+Tue May 15 18:30:04 UTC 2018: Found element on the queue
+Tue May 15 18:30:04 UTC 2018: Updating status
+Tue May 15 18:30:04 UTC 2018: Working
+Tue May 15 18:30:07 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController
+Tue May 15 18:30:07 UTC 2018: Setting lastTestMethodIndex: 41857
+Tue May 15 18:30:07 UTC 2018: Starting linking
+Tue May 15 18:30:07 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testGetAllMarketConfig
+Tue May 15 18:30:07 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testUpdateMarketConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:07 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testGetAllMarketConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:08 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testGetMarketConfig
+Tue May 15 18:30:08 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testUpdateMarketConfigWhenIdIsMissing
+Tue May 15 18:30:08 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testUpdateMarketConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:08 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testGetMarketConfigByIdWhenNotRecognized
+Tue May 15 18:30:09 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testCreateMarketConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:09 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testGetMarketConfigByIdWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:09 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testDeleteMarketConfig
+Tue May 15 18:30:09 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testCreateMarketConfigWhenStrategyIdMissing
+Tue May 15 18:30:10 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testUpdateMarketConfig
+Tue May 15 18:30:10 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testDeleteMarketConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:10 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testDeleteMarketConfigWhenIdNotRecognized
+Tue May 15 18:30:10 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testCreateMarketConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:10 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testCreateMarketConfigWhenMarketIdIsMissing
+Tue May 15 18:30:10 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testGetMarketConfigByIdWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:10 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testUpdateMarketConfigWhenIdNotRecognized
+Tue May 15 18:30:11 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testDeleteMarketConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:11 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testGetAllMarketConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:11 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController-testCreateMarketConfig
+Tue May 15 18:30:11 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestMarketConfigController
+Tue May 15 18:30:12 UTC 2018: Found element on the queue
+Tue May 15 18:30:12 UTC 2018: Updating status
+Tue May 15 18:30:12 UTC 2018: Working
+Tue May 15 18:30:15 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestExchangeConfigController
+Tue May 15 18:30:15 UTC 2018: Setting lastTestMethodIndex: 41863
+Tue May 15 18:30:15 UTC 2018: Starting linking
+Tue May 15 18:30:15 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestExchangeConfigController-testGetExchangeConfig
+Tue May 15 18:30:15 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestExchangeConfigController-testGetExchangeConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:15 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestExchangeConfigController-testUpdateExchangeConfig
+Tue May 15 18:30:16 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestExchangeConfigController-testUpdateExchangeConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:16 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestExchangeConfigController-testGetExchangeConfigWhenUnauthorizedWithInvalidCredentials
+Tue May 15 18:30:16 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.config.TestExchangeConfigController-testUpdateExchangeConfigWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:16 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.config.TestExchangeConfigController
+Tue May 15 18:30:17 UTC 2018: Found element on the queue
+Tue May 15 18:30:17 UTC 2018: Updating status
+Tue May 15 18:30:17 UTC 2018: Working
+Tue May 15 18:30:21 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.runtime.TestBotStatusController
+Tue May 15 18:30:21 UTC 2018: Setting lastTestMethodIndex: 41866
+Tue May 15 18:30:21 UTC 2018: Starting linking
+Tue May 15 18:30:21 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.runtime.TestBotStatusController-testGetBotStatusWhenUnauthorizedWithBadCredentials
+Tue May 15 18:30:21 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.runtime.TestBotStatusController-testGetBotStatusWhenUnauthorizedWithMissingCredentials
+Tue May 15 18:30:21 UTC 2018: No link for: com.gazbert.bxbot.rest.api.v1.runtime.TestBotStatusController-testGetBotStatus
+Tue May 15 18:30:21 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.rest.api.v1.runtime.TestBotStatusController
+Tue May 15 18:30:22 UTC 2018: Found element on the queue
+Tue May 15 18:30:22 UTC 2018: Updating status
+Tue May 15 18:30:22 UTC 2018: Working
+Tue May 15 18:30:22 UTC 2018: Create project parser
+Tue May 15 18:30:26 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.strategies.TestExampleScalpingStrategy
+Tue May 15 18:30:26 UTC 2018: Setting lastTestMethodIndex: 41870
+Tue May 15 18:30:26 UTC 2018: Starting linking
+Tue May 15 18:30:26 UTC 2018: Code found com.gazbert.bxbot.strategies.ExampleScalpingStrategy-init with com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategySendsInitialBuyOrderWhenItIsFirstCalled
+Tue May 15 18:30:27 UTC 2018: Code found com.gazbert.bxbot.strategies.ExampleScalpingStrategy-init with com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategyHandlesTradingApiExceptionWhenPlacingInitialBuyOrder
+Tue May 15 18:30:27 UTC 2018: Code found com.gazbert.bxbot.strategies.ExampleScalpingStrategy-init with com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategyHandlesTimeoutExceptionWhenPlacingInitialBuyOrder
+Tue May 15 18:30:27 UTC 2018: No link for: com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategyHoldsWhenCurrentBuyOrderIsNotFilled
+Tue May 15 18:30:27 UTC 2018: No link for: com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategySendsNewSellOrderToExchangeWhenCurrentBuyOrderFilled
+Tue May 15 18:30:28 UTC 2018: No link for: com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategyHoldsWhenCurrentSellOrderIsNotFilled
+Tue May 15 18:30:28 UTC 2018: No link for: com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategySendsNewBuyOrderToExchangeWhenCurrentSellOrderFilled
+Tue May 15 18:30:28 UTC 2018: No link for: com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategyHandlesTimeoutExceptionWhenPlacingSellOrder
+Tue May 15 18:30:28 UTC 2018: No link for: com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategyHandlesTradingApiExceptionWhenPlacingBuyOrder
+Tue May 15 18:30:29 UTC 2018: No link for: com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategyHandlesTradingApiExceptionWhenPlacingSellOrder
+Tue May 15 18:30:29 UTC 2018: No link for: com.gazbert.bxbot.strategies.TestExampleScalpingStrategy-testStrategyHandlesTimeoutExceptionWhenPlacingBuyOrder
+Tue May 15 18:30:29 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.strategies.TestExampleScalpingStrategy
+Tue May 15 18:30:30 UTC 2018: Found element on the queue
+Tue May 15 18:30:30 UTC 2018: Updating status
+Tue May 15 18:30:30 UTC 2018: Working
+Tue May 15 18:30:30 UTC 2018: Create project parser
+Tue May 15 18:30:33 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.strategy.api.TestStrategyExceptionCreation
+Tue May 15 18:30:33 UTC 2018: Setting lastTestMethodIndex: 41875
+Tue May 15 18:30:33 UTC 2018: Starting linking
+Tue May 15 18:30:33 UTC 2018: No link for: com.gazbert.bxbot.strategy.api.TestStrategyExceptionCreation-testCreationOfExceptionWithCauseIsAsExpected
+Tue May 15 18:30:33 UTC 2018: No link for: com.gazbert.bxbot.strategy.api.TestStrategyExceptionCreation-testCreationOfExceptionIsAsExpected
+Tue May 15 18:30:33 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.strategy.api.TestStrategyExceptionCreation
+Tue May 15 18:30:34 UTC 2018: Found element on the queue
+Tue May 15 18:30:34 UTC 2018: Updating status
+Tue May 15 18:30:34 UTC 2018: Working
+Tue May 15 18:30:34 UTC 2018: Create project parser
+Tue May 15 18:30:38 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.trading.api.TestTradingApiExceptionCreation
+Tue May 15 18:30:38 UTC 2018: Setting lastTestMethodIndex: 41879
+Tue May 15 18:30:38 UTC 2018: Starting linking
+Tue May 15 18:30:38 UTC 2018: No link for: com.gazbert.bxbot.trading.api.TestTradingApiExceptionCreation-testCreationOfExceptionWithCauseIsAsExpected
+Tue May 15 18:30:38 UTC 2018: No link for: com.gazbert.bxbot.trading.api.TestTradingApiExceptionCreation-testCreationOfExceptionIsAsExpected
+Tue May 15 18:30:38 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.trading.api.TestTradingApiExceptionCreation
+Tue May 15 18:30:39 UTC 2018: Found element on the queue
+Tue May 15 18:30:39 UTC 2018: Updating status
+Tue May 15 18:30:39 UTC 2018: Working
+Tue May 15 18:30:42 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.trading.api.TestExchangeNetworkExceptionCreation
+Tue May 15 18:30:42 UTC 2018: Setting lastTestMethodIndex: 41882
+Tue May 15 18:30:42 UTC 2018: Starting linking
+Tue May 15 18:30:42 UTC 2018: No link for: com.gazbert.bxbot.trading.api.TestExchangeNetworkExceptionCreation-testCreationOfExceptionIsAsExpected
+Tue May 15 18:30:43 UTC 2018: No link for: com.gazbert.bxbot.trading.api.TestExchangeNetworkExceptionCreation-testCreationOfExceptionWithCauseIsAsExpected
+Tue May 15 18:30:43 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.trading.api.TestExchangeNetworkExceptionCreation
+Tue May 15 18:30:44 UTC 2018: Found element on the queue
+Tue May 15 18:30:44 UTC 2018: Updating status
+Tue May 15 18:30:44 UTC 2018: Working
+Tue May 15 18:30:44 UTC 2018: Create project parser
+Tue May 15 18:30:48 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.datastore.config.emailalerts.TestEmailAlertsConfigurationManagement
+Tue May 15 18:30:48 UTC 2018: Setting lastTestMethodIndex: 41888
+Tue May 15 18:30:48 UTC 2018: Starting linking
+Tue May 15 18:30:48 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.emailalerts.TestEmailAlertsConfigurationManagement-testLoadingInvalidXmlConfigFileThrowsException
+Tue May 15 18:30:48 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.emailalerts.TestEmailAlertsConfigurationManagement-testSavingConfigToXmlIsSuccessful
+Tue May 15 18:30:48 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.emailalerts.TestEmailAlertsConfigurationManagement-testLoadingMissingXmlConfigThrowsException
+Tue May 15 18:30:48 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.emailalerts.TestEmailAlertsConfigurationManagement-testLoadingValidXmlConfigFileIsSuccessful
+Tue May 15 18:30:49 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.emailalerts.TestEmailAlertsConfigurationManagement-testLoadingValidXmlConfigFileWithoutSmtpConfigIsSuccessful
+Tue May 15 18:30:49 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.datastore.config.emailalerts.TestEmailAlertsConfigurationManagement
+Tue May 15 18:30:49 UTC 2018: Found element on the queue
+Tue May 15 18:30:49 UTC 2018: Updating status
+Tue May 15 18:30:49 UTC 2018: Working
+Tue May 15 18:30:53 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.datastore.config.exchange.TestExchangeConfigurationManagement
+Tue May 15 18:30:53 UTC 2018: Setting lastTestMethodIndex: 41892
+Tue May 15 18:30:53 UTC 2018: Starting linking
+Tue May 15 18:30:53 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.exchange.TestExchangeConfigurationManagement-testLoadingMissingXmlConfigFileThrowsException
+Tue May 15 18:30:53 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.exchange.TestExchangeConfigurationManagement-testSavingConfigToXmlIsSuccessful
+Tue May 15 18:30:53 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.exchange.TestExchangeConfigurationManagement-testLoadingValidXmlConfigFileIsSuccessful
+Tue May 15 18:30:53 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.exchange.TestExchangeConfigurationManagement-testLoadingInvalidXmlConfigFileThrowsException
+Tue May 15 18:30:54 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.datastore.config.exchange.TestExchangeConfigurationManagement
+Tue May 15 18:30:54 UTC 2018: Found element on the queue
+Tue May 15 18:30:54 UTC 2018: Updating status
+Tue May 15 18:30:54 UTC 2018: Working
+Tue May 15 18:30:58 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.datastore.config.market.TestMarketConfigurationManagement
+Tue May 15 18:30:58 UTC 2018: Setting lastTestMethodIndex: 41896
+Tue May 15 18:30:58 UTC 2018: Starting linking
+Tue May 15 18:30:58 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.market.TestMarketConfigurationManagement-testSavingConfigToXmlIsSuccessful
+Tue May 15 18:30:59 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.market.TestMarketConfigurationManagement-testLoadingInvalidXmlConfigFileThrowsException
+Tue May 15 18:30:59 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.market.TestMarketConfigurationManagement-testLoadingMissingXmlConfigFileThrowsException
+Tue May 15 18:30:59 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.market.TestMarketConfigurationManagement-testLoadingValidXmlConfigFileIsSuccessful
+Tue May 15 18:30:59 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.datastore.config.market.TestMarketConfigurationManagement
+Tue May 15 18:31:00 UTC 2018: Found element on the queue
+Tue May 15 18:31:00 UTC 2018: Updating status
+Tue May 15 18:31:00 UTC 2018: Working
+Tue May 15 18:31:03 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.datastore.config.engine.TestEngineConfigurationManagement
+Tue May 15 18:31:03 UTC 2018: Setting lastTestMethodIndex: 41900
+Tue May 15 18:31:03 UTC 2018: Starting linking
+Tue May 15 18:31:03 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.engine.TestEngineConfigurationManagement-testSavingConfigToXmlIsSuccessful
+Tue May 15 18:31:04 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.engine.TestEngineConfigurationManagement-testLoadingMissingXmlConfigThrowsException
+Tue May 15 18:31:04 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.engine.TestEngineConfigurationManagement-testLoadingValidXmlConfigFileIsSuccessful
+Tue May 15 18:31:04 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.engine.TestEngineConfigurationManagement-testLoadingInvalidXmlConfigThrowsException
+Tue May 15 18:31:04 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.datastore.config.engine.TestEngineConfigurationManagement
+Tue May 15 18:31:05 UTC 2018: Found element on the queue
+Tue May 15 18:31:05 UTC 2018: Updating status
+Tue May 15 18:31:05 UTC 2018: Working
+Tue May 15 18:31:08 UTC 2018: Start gazbert__bxbo test class com.gazbert.bxbot.datastore.config.strategy.TestStrategyConfigurationManagement
+Tue May 15 18:31:08 UTC 2018: Setting lastTestMethodIndex: 41905
+Tue May 15 18:31:08 UTC 2018: Starting linking
+Tue May 15 18:31:08 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.strategy.TestStrategyConfigurationManagement-testLoadingValidXmlConfigFileIsSuccessful
+Tue May 15 18:31:08 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.strategy.TestStrategyConfigurationManagement-testSavingConfigToXmlIsSuccessful
+Tue May 15 18:31:09 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.strategy.TestStrategyConfigurationManagement-testLoadingInvalidXmlConfigFileThrowsException
+Tue May 15 18:31:09 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.strategy.TestStrategyConfigurationManagement-testLoadingMissingXmlConfigFileThrowsException
+Tue May 15 18:31:09 UTC 2018: No link for: com.gazbert.bxbot.datastore.config.strategy.TestStrategyConfigurationManagement-testLoadingInvalidStrategyInjectionConfigFileThrowsException
+Tue May 15 18:31:10 UTC 2018: Linking done for gazbert__bxbo test class com.gazbert.bxbot.datastore.config.strategy.TestStrategyConfigurationManagement

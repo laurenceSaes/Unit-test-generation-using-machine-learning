@@ -1,0 +1,493 @@
+Wed May 16 02:48:48 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:48:48 UTC 2018: Starting
+Wed May 16 02:48:49 UTC 2018: Found element on the queue
+Wed May 16 02:48:49 UTC 2018: Updating status
+Wed May 16 02:48:49 UTC 2018: Working
+Wed May 16 02:48:49 UTC 2018: Create project parser
+Wed May 16 02:48:56 UTC 2018: Create slicer
+Wed May 16 02:48:58 UTC 2018: Create call graph
+Wed May 16 02:49:00 UTC 2018: Create point analysis
+Wed May 16 02:49:00 UTC 2018: Create call graph done
+Wed May 16 02:49:00 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.AccountVerificationByEmailServiceTest
+Wed May 16 02:49:01 UTC 2018: Setting lastTestMethodIndex: 58064
+Wed May 16 02:49:01 UTC 2018: Starting linking
+Wed May 16 02:49:01 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountVerificationByEmailServiceImpl-getAccountEmail with com.softserve.academy.spaced.repetition.service.AccountVerificationByEmailServiceTest-testGetAccountEmail
+Wed May 16 02:49:01 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountVerificationByEmailServiceImpl-accountVerification with com.softserve.academy.spaced.repetition.service.AccountVerificationByEmailServiceTest-testAccountVerification
+Wed May 16 02:49:01 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.AccountVerificationByEmailServiceTest
+Wed May 16 02:49:02 UTC 2018: Found element on the queue
+Wed May 16 02:49:02 UTC 2018: Updating status
+Wed May 16 02:49:02 UTC 2018: Working
+Wed May 16 02:49:04 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.AuditServiceTest
+Wed May 16 02:49:04 UTC 2018: Setting lastTestMethodIndex: 58067
+Wed May 16 02:49:04 UTC 2018: Starting linking
+Wed May 16 02:49:04 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AuditServiceImpl-getAuditByPage with com.softserve.academy.spaced.repetition.service.AuditServiceTest-testGetAuditByPage
+Wed May 16 02:49:05 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.AuditServiceTest
+Wed May 16 02:49:05 UTC 2018: Found element on the queue
+Wed May 16 02:49:05 UTC 2018: Updating status
+Wed May 16 02:49:05 UTC 2018: Working
+Wed May 16 02:49:08 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.DeckRatingServiceTest
+Wed May 16 02:49:08 UTC 2018: Setting lastTestMethodIndex: 58069
+Wed May 16 02:49:08 UTC 2018: Starting linking
+Wed May 16 02:49:08 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckRatingServiceImpl-addDeckRating with com.softserve.academy.spaced.repetition.service.DeckRatingServiceTest-testAddDeckRatingByUserWithNotActiveStatus
+Wed May 16 02:49:08 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckRatingServiceImpl-getDeckRatingById with com.softserve.academy.spaced.repetition.service.DeckRatingServiceTest-testGetDeckRatingById
+Wed May 16 02:49:08 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckRatingServiceImpl-addDeckRating with com.softserve.academy.spaced.repetition.service.DeckRatingServiceTest-testAddDeckRatingByNotAuthorisedUser
+Wed May 16 02:49:09 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckRatingServiceImpl-addDeckRating with com.softserve.academy.spaced.repetition.service.DeckRatingServiceTest-testAddDeckRating
+Wed May 16 02:49:09 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.DeckRatingServiceTest
+Wed May 16 02:49:09 UTC 2018: Found element on the queue
+Wed May 16 02:49:09 UTC 2018: Updating status
+Wed May 16 02:49:09 UTC 2018: Working
+Wed May 16 02:49:12 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.AccountServiceTest
+Wed May 16 02:49:12 UTC 2018: Setting lastTestMethodIndex: 58072
+Wed May 16 02:49:12 UTC 2018: Starting linking
+Wed May 16 02:49:12 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountServiceImpl-getCardsNumber with com.softserve.academy.spaced.repetition.service.AccountServiceTest-testGetCardsNumber
+Wed May 16 02:49:12 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountServiceImpl-checkAccountStatusAndSendMail with com.softserve.academy.spaced.repetition.service.AccountServiceTest-testCheckAccountStatusAndSendMail
+Wed May 16 02:49:13 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountServiceImpl-getAccountDetails with com.softserve.academy.spaced.repetition.service.AccountServiceTest-testGetAccountDetails
+Wed May 16 02:49:13 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountServiceImpl-getCardsNumber with com.softserve.academy.spaced.repetition.service.AccountServiceTest-testGetCardsNumberByNotAuthorisedUser
+Wed May 16 02:49:13 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountServiceImpl-initializeLearningRegimeSettingsForAccount with com.softserve.academy.spaced.repetition.service.AccountServiceTest-testInitializeLearningRegimeSettingsForAccount
+Wed May 16 02:49:14 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountServiceImpl-createNewAccountPassword with com.softserve.academy.spaced.repetition.service.AccountServiceTest-createNewAccountPassword
+Wed May 16 02:49:14 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccountServiceImpl-getAccountDetails with com.softserve.academy.spaced.repetition.service.AccountServiceTest-testGetAccountDetailsByNotAuthorisedUser
+Wed May 16 02:49:14 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.AccountServiceTest-testUpdateAccountByNotAuthorisedUser
+Wed May 16 02:49:14 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.AccountServiceTest-testUpdateAccount
+Wed May 16 02:49:15 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.AccountServiceTest
+Wed May 16 02:49:15 UTC 2018: Found element on the queue
+Wed May 16 02:49:15 UTC 2018: Updating status
+Wed May 16 02:49:15 UTC 2018: Working
+Wed May 16 02:49:18 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CardImageServiceTest
+Wed May 16 02:49:18 UTC 2018: Setting lastTestMethodIndex: 58076
+Wed May 16 02:49:18 UTC 2018: Starting linking
+Wed May 16 02:49:18 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.CardImageServiceTest-testSaveImages
+Wed May 16 02:49:18 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CardImageServiceTest
+Wed May 16 02:49:18 UTC 2018: Found element on the queue
+Wed May 16 02:49:18 UTC 2018: Updating status
+Wed May 16 02:49:19 UTC 2018: Working
+Wed May 16 02:49:21 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.DeckCommentServiceTest
+Wed May 16 02:49:21 UTC 2018: Setting lastTestMethodIndex: 58079
+Wed May 16 02:49:21 UTC 2018: Starting linking
+Wed May 16 02:49:21 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckCommentServiceImpl-deleteCommentById with com.softserve.academy.spaced.repetition.service.DeckCommentServiceTest-testDeleteCommentById
+Wed May 16 02:49:21 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckCommentServiceImpl-getCommentById with com.softserve.academy.spaced.repetition.service.DeckCommentServiceTest-testGetCommentById
+Wed May 16 02:49:22 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckCommentServiceTest-testGetAllDeckComments
+Wed May 16 02:49:22 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckCommentServiceTest-testAddCommentToDeck
+Wed May 16 02:49:22 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckCommentServiceTest-testAddCommentToDeckByNotAuthorisedUser
+Wed May 16 02:49:23 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.DeckCommentServiceTest
+Wed May 16 02:49:23 UTC 2018: Found element on the queue
+Wed May 16 02:49:23 UTC 2018: Updating status
+Wed May 16 02:49:23 UTC 2018: Working
+Wed May 16 02:49:26 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.UserServiceTest
+Wed May 16 02:49:26 UTC 2018: Setting lastTestMethodIndex: 58083
+Wed May 16 02:49:26 UTC 2018: Starting linking
+Wed May 16 02:49:26 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-activateAccount with com.softserve.academy.spaced.repetition.service.UserServiceTest-testActivateAccount
+Wed May 16 02:49:26 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-deleteAccount with com.softserve.academy.spaced.repetition.service.UserServiceTest-testDeleteAccount
+Wed May 16 02:49:26 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-isUserStatusActive with com.softserve.academy.spaced.repetition.service.UserServiceTest-testIsUserStatusActiveIfStatusNotActive
+Wed May 16 02:49:27 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-initializeNewUser with com.softserve.academy.spaced.repetition.service.UserServiceTest-testInitializeNewUser
+Wed May 16 02:49:27 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-isUserStatusActive with com.softserve.academy.spaced.repetition.service.UserServiceTest-testIsUserStatusActive
+Wed May 16 02:49:28 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-setUsersStatusDeleted with com.softserve.academy.spaced.repetition.service.UserServiceTest-testSetUsersStatusDeleted
+Wed May 16 02:49:28 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-getAllUsers with com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetAllUsers
+Wed May 16 02:49:28 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-setUsersStatusActive with com.softserve.academy.spaced.repetition.service.UserServiceTest-testSetUsersStatusActive
+Wed May 16 02:49:29 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-activateAccount with com.softserve.academy.spaced.repetition.service.UserServiceTest-testActivateAccountByNotAuthorisedUser
+Wed May 16 02:49:29 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-getUserById with com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetUserById
+Wed May 16 02:49:29 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-getAllCoursesByUserId with com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetAllCoursesByUserId
+Wed May 16 02:49:30 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-findUserByEmail with com.softserve.academy.spaced.repetition.service.UserServiceTest-testFindUserByEmail
+Wed May 16 02:49:30 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-setUsersStatusBlocked with com.softserve.academy.spaced.repetition.service.UserServiceTest-testSetUsersStatusBlocked
+Wed May 16 02:49:30 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-getNoAuthenticatedUserEmail with com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetNoAuthenticatedUserEmailByNotAuthorisedUser
+Wed May 16 02:49:31 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-addUser with com.softserve.academy.spaced.repetition.service.UserServiceTest-testAddUser
+Wed May 16 02:49:31 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-getUsersByPage with com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetUsersByPage
+Wed May 16 02:49:31 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-deleteAccount with com.softserve.academy.spaced.repetition.service.UserServiceTest-testDeleteAccountByNotAuthorisedUser
+Wed May 16 02:49:32 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserServiceImpl-getNoAuthenticatedUserEmail with com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetNoAuthenticatedUserEmail
+Wed May 16 02:49:32 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetAllDecksFromUserFolder
+Wed May 16 02:49:32 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetAuthorisedUserByNotAuthorisedUser
+Wed May 16 02:49:33 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserServiceTest-testGetAuthorisedUser
+Wed May 16 02:49:33 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserServiceTest-testAddExistingDeckToUserFolder
+Wed May 16 02:49:33 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserServiceTest-testAddExistingDeckToUserFolderIfDeckAlreadyInFolder
+Wed May 16 02:49:34 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserServiceTest-testDeleteDeckFromUsersFolderThatNotFoundByDeckIdAndUserId
+Wed May 16 02:49:34 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserServiceTest-testDeleteDeckFromUsersFolder
+Wed May 16 02:49:34 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.UserServiceTest
+Wed May 16 02:49:35 UTC 2018: Found element on the queue
+Wed May 16 02:49:35 UTC 2018: Updating status
+Wed May 16 02:49:35 UTC 2018: Working
+Wed May 16 02:49:37 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest
+Wed May 16 02:49:37 UTC 2018: Setting lastTestMethodIndex: 58090
+Wed May 16 02:49:37 UTC 2018: Starting linking
+Wed May 16 02:49:37 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-updateUserCardQueue with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testUpdateUserCardQueueIfStatusIsNotValid
+Wed May 16 02:49:38 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-countCardsThatNeedRepeating with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testCountCardsThatNeedRepeatingByNotAuthorisedUser
+Wed May 16 02:49:38 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-updateUserCardQueue with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testUpdateUserCardQueueByNotAuthorisedUser
+Wed May 16 02:49:38 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-getUserCardQueueById with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testGetUserCardQueueById
+Wed May 16 02:49:38 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-countCardsThatNeedRepeating with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testCountCardsThatNeedRepeating
+Wed May 16 02:49:39 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-updateUserCardQueue with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testUpdateUserCardQueueIfLearningRegimeIsCardsPostponingAndUserStatusBad
+Wed May 16 02:49:39 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-updateUserCardQueue with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testUpdateUserCardQueueIfLearningRegimeIsCardsPostponingAndUserStatusNormal
+Wed May 16 02:49:39 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-updateUserCardQueue with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testUpdateUserCardQueueIfLearningRegimeIsBadNormalGood
+Wed May 16 02:49:40 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserCardQueueServiceImpl-updateUserCardQueue with com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest-testUpdateUserCardQueueIfLearningRegimeIsCardsPostponingAndUserStatusGood
+Wed May 16 02:49:40 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.UserCardQueueServiceTest
+Wed May 16 02:49:41 UTC 2018: Found element on the queue
+Wed May 16 02:49:41 UTC 2018: Updating status
+Wed May 16 02:49:41 UTC 2018: Working
+Wed May 16 02:49:43 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.RegistrationServiceTest
+Wed May 16 02:49:43 UTC 2018: Setting lastTestMethodIndex: 58094
+Wed May 16 02:49:43 UTC 2018: Starting linking
+Wed May 16 02:49:43 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.RegistrationServiceImpl-sendConfirmationEmailMessage with com.softserve.academy.spaced.repetition.service.RegistrationServiceTest-testSendConfirmationEmailMessage
+Wed May 16 02:49:43 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.RegistrationServiceImpl-registerNewUser with com.softserve.academy.spaced.repetition.service.RegistrationServiceTest-testRegisterNewUser
+Wed May 16 02:49:44 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.RegistrationServiceTest
+Wed May 16 02:49:44 UTC 2018: Found element on the queue
+Wed May 16 02:49:44 UTC 2018: Updating status
+Wed May 16 02:49:44 UTC 2018: Working
+Wed May 16 02:49:47 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CourseRatingServiceTest
+Wed May 16 02:49:47 UTC 2018: Setting lastTestMethodIndex: 58097
+Wed May 16 02:49:47 UTC 2018: Starting linking
+Wed May 16 02:49:47 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseRatingServiceImpl-getCourseRatingById with com.softserve.academy.spaced.repetition.service.CourseRatingServiceTest-testGetCourseRatingById
+Wed May 16 02:49:47 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseRatingServiceImpl-addCourseRating with com.softserve.academy.spaced.repetition.service.CourseRatingServiceTest-testAddCourseRating
+Wed May 16 02:49:47 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseRatingServiceImpl-addCourseRating with com.softserve.academy.spaced.repetition.service.CourseRatingServiceTest-testAddCourseRatingByUnauthorisedUser
+Wed May 16 02:49:47 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.CourseRatingServiceTest-testAddDeckRatingByUserWithNotActiveStatus
+Wed May 16 02:49:48 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CourseRatingServiceTest
+Wed May 16 02:49:48 UTC 2018: Found element on the queue
+Wed May 16 02:49:48 UTC 2018: Updating status
+Wed May 16 02:49:48 UTC 2018: Working
+Wed May 16 02:49:51 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CourseCommentServiceTest
+Wed May 16 02:49:51 UTC 2018: Setting lastTestMethodIndex: 58101
+Wed May 16 02:49:51 UTC 2018: Starting linking
+Wed May 16 02:49:51 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseCommentServiceImpl-deleteCommentById with com.softserve.academy.spaced.repetition.service.CourseCommentServiceTest-deleteCommentById
+Wed May 16 02:49:51 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseCommentServiceImpl-updateCommentById with com.softserve.academy.spaced.repetition.service.CourseCommentServiceTest-updateCommentById
+Wed May 16 02:49:51 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseCommentServiceImpl-addCommentForCourse with com.softserve.academy.spaced.repetition.service.CourseCommentServiceTest-addCommentForCourse
+Wed May 16 02:49:52 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseCommentServiceImpl-addCommentForCourse with com.softserve.academy.spaced.repetition.service.CourseCommentServiceTest-addCommentForCourseByNotAuthorisedUser
+Wed May 16 02:49:52 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseCommentServiceImpl-getAllCommentsForCourse with com.softserve.academy.spaced.repetition.service.CourseCommentServiceTest-getAllCommentsForCourse
+Wed May 16 02:49:52 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseCommentServiceImpl-getCommentById with com.softserve.academy.spaced.repetition.service.CourseCommentServiceTest-getCommentById
+Wed May 16 02:49:53 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CourseCommentServiceTest
+Wed May 16 02:49:53 UTC 2018: Found element on the queue
+Wed May 16 02:49:53 UTC 2018: Updating status
+Wed May 16 02:49:53 UTC 2018: Working
+Wed May 16 02:49:56 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CardRatingServiceTest
+Wed May 16 02:49:56 UTC 2018: Setting lastTestMethodIndex: 58104
+Wed May 16 02:49:56 UTC 2018: Starting linking
+Wed May 16 02:49:56 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardRatingServiceImpl-getCardRatingById with com.softserve.academy.spaced.repetition.service.CardRatingServiceTest-testGetCardRatingById
+Wed May 16 02:49:56 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardRatingServiceImpl-addCardRating with com.softserve.academy.spaced.repetition.service.CardRatingServiceTest-testAddCardRating
+Wed May 16 02:49:56 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardRatingServiceImpl-addCardRating with com.softserve.academy.spaced.repetition.service.CardRatingServiceTest-testAddCardRatingByUnauthorisedUser
+Wed May 16 02:49:56 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CardRatingServiceTest
+Wed May 16 02:49:57 UTC 2018: Found element on the queue
+Wed May 16 02:49:57 UTC 2018: Updating status
+Wed May 16 02:49:57 UTC 2018: Working
+Wed May 16 02:49:59 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.FolderServiceTest
+Wed May 16 02:49:59 UTC 2018: Setting lastTestMethodIndex: 58108
+Wed May 16 02:49:59 UTC 2018: Starting linking
+Wed May 16 02:49:59 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.FolderServiceImpl-getAllDecksByFolderId with com.softserve.academy.spaced.repetition.service.FolderServiceTest-testGetAllDecksByFolderId
+Wed May 16 02:50:00 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.FolderServiceImpl-deleteDeck with com.softserve.academy.spaced.repetition.service.FolderServiceTest-testDeleteDeckByNotAuthorisedUser
+Wed May 16 02:50:00 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.FolderServiceImpl-deleteDeck with com.softserve.academy.spaced.repetition.service.FolderServiceTest-testDeleteDeck
+Wed May 16 02:50:00 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.FolderServiceImpl-addDeck with com.softserve.academy.spaced.repetition.service.FolderServiceTest-testAddDeckToFolderByNotAuthorisedUser
+Wed May 16 02:50:01 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.FolderServiceImpl-deleteDeckFromAllUsers with com.softserve.academy.spaced.repetition.service.FolderServiceTest-testDeleteDeckFromAllUsers
+Wed May 16 02:50:01 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.FolderServiceImpl-addDeck with com.softserve.academy.spaced.repetition.service.FolderServiceTest-testAddDeck
+Wed May 16 02:50:01 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.FolderServiceTest-testGetAllDecksIdFromFolderByNotAuthorisedUser
+Wed May 16 02:50:02 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.FolderServiceTest-testGetAllDecksIdFromFolder
+Wed May 16 02:50:02 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.FolderServiceTest
+Wed May 16 02:50:03 UTC 2018: Found element on the queue
+Wed May 16 02:50:03 UTC 2018: Updating status
+Wed May 16 02:50:03 UTC 2018: Working
+Wed May 16 02:50:05 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest
+Wed May 16 02:50:05 UTC 2018: Setting lastTestMethodIndex: 58113
+Wed May 16 02:50:05 UTC 2018: Starting linking
+Wed May 16 02:50:05 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToCategory with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToCategory
+Wed May 16 02:50:06 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToDeck with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToDeckByCategory
+Wed May 16 02:50:06 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToDeleteCommentForCourse with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-hasAccessToDeleteCommentForCourseByNotAuthorisedUser
+Wed May 16 02:50:06 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToUpdateCommentForCourse with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToUpdateCommentForCourseByNotAuthorisedUser
+Wed May 16 02:50:07 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToCard with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToCard
+Wed May 16 02:50:07 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToFolder with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToFolderByNotAuthorisedUser
+Wed May 16 02:50:07 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToCard with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToCardByCategory
+Wed May 16 02:50:07 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToFolder with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToFolder
+Wed May 16 02:50:08 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToDeleteCommentForCourse with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-hasAccessToDeleteCommentForCourse
+Wed May 16 02:50:08 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToCourse with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToCourseByCategory
+Wed May 16 02:50:08 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToDeckFromCategory with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToDeckFromCategory
+Wed May 16 02:50:09 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToUpdateCommentForDeck with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-hasAccessToUpdateCommentForDeck
+Wed May 16 02:50:09 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToDeck with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToDeck
+Wed May 16 02:50:09 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToCard with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToCardByCard
+Wed May 16 02:50:10 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToDeleteCommentForDeck with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-hasAccessToDeleteCommentForDeck
+Wed May 16 02:50:10 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToCourse with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToCourse
+Wed May 16 02:50:10 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToUpdateCommentForDeck with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-hasAccessToUpdateCommentForDeckByNotAuthorisedUser
+Wed May 16 02:50:11 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToDeckFromFolder with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToDeckFromFolder
+Wed May 16 02:50:11 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToDeleteCommentForDeck with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-hasAccessToDeleteCommentForDeckByNotAuthorisedUser
+Wed May 16 02:50:11 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.AccessToUrlServiceImpl-hasAccessToUpdateCommentForCourse with com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest-testHasAccessToUpdateCommentForCourse
+Wed May 16 02:50:11 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.AccessToUrlServiceTest
+Wed May 16 02:50:12 UTC 2018: Found element on the queue
+Wed May 16 02:50:12 UTC 2018: Updating status
+Wed May 16 02:50:12 UTC 2018: Working
+Wed May 16 02:50:14 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.DeckServiceTest
+Wed May 16 02:50:14 UTC 2018: Setting lastTestMethodIndex: 58117
+Wed May 16 02:50:14 UTC 2018: Starting linking
+Wed May 16 02:50:14 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-updateDeckAdmin with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testUpdateDeckAdminById
+Wed May 16 02:50:15 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-deleteDeck with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testDeleteDeckById
+Wed May 16 02:50:15 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-getDeck with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetDeckById
+Wed May 16 02:50:15 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-getAllOrderedDecks with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetAllOrderedDecks
+Wed May 16 02:50:16 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-getPageWithAllAdminDecks with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetPageWithAllAdminDecks
+Wed May 16 02:50:16 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-getAllCardsByDeckId with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetAllCardsByDeckId
+Wed May 16 02:50:16 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-getAllDecks with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetAllDecksByCourseId
+Wed May 16 02:50:17 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-createNewDeck with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testCreateNewDeck
+Wed May 16 02:50:17 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-updateDeck with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testUpdateDeckById
+Wed May 16 02:50:17 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-getAllDecksByCategory with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetAllDecksByCategoryId
+Wed May 16 02:50:18 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-addDeckToCourse with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testAddDeckToCourse
+Wed May 16 02:50:18 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-getPageWithDecksByCategory with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetPageWithDecksByCategory
+Wed May 16 02:50:18 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-createNewDeck with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testCreateNewDeckByNotAuthorisedUser
+Wed May 16 02:50:19 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.DeckServiceImpl-addDeckToCategory with com.softserve.academy.spaced.repetition.service.DeckServiceTest-testAddDeckToCategory
+Wed May 16 02:50:19 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testCreateNewDeckByAdmin
+Wed May 16 02:50:19 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testUpdateDeckByNotOwnerUser
+Wed May 16 02:50:19 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetAllUserDecks
+Wed May 16 02:50:20 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetUserDeckThatNotFound
+Wed May 16 02:50:20 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetUserDeck
+Wed May 16 02:50:20 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testDeleteDeckThatNotFound
+Wed May 16 02:50:21 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testDeleteDeck
+Wed May 16 02:50:21 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testCreateNewDeckByAdminByNotAuthorisedUser
+Wed May 16 02:50:21 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetUserDeckByNotOwnerUser
+Wed May 16 02:50:21 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetSyntaxToHighlight
+Wed May 16 02:50:22 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testUpdateDeck
+Wed May 16 02:50:22 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testDeleteDeckByNotOwnerUser
+Wed May 16 02:50:22 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testGetAllUserDecksByNotAuthorisedUser
+Wed May 16 02:50:23 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.DeckServiceTest-testUpdateDeckThatNotFound
+Wed May 16 02:50:23 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.DeckServiceTest
+Wed May 16 02:50:23 UTC 2018: Found element on the queue
+Wed May 16 02:50:23 UTC 2018: Updating status
+Wed May 16 02:50:24 UTC 2018: Working
+Wed May 16 02:50:26 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest
+Wed May 16 02:50:26 UTC 2018: Setting lastTestMethodIndex: 58124
+Wed May 16 02:50:26 UTC 2018: Starting linking
+Wed May 16 02:50:26 UTC 2018: Code found com.softserve.academy.spaced.repetition.security.utils.JwtTokenUtil-getCreatedDateFromToken with com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest-getCreatedDateFromToken
+Wed May 16 02:50:26 UTC 2018: Code found com.softserve.academy.spaced.repetition.security.utils.JwtTokenUtil-generateToken with com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest-generateToken
+Wed May 16 02:50:27 UTC 2018: Code found com.softserve.academy.spaced.repetition.security.utils.JwtTokenUtil-getExpirationDateFromToken with com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest-getExpirationDateFromToken
+Wed May 16 02:50:27 UTC 2018: Code found com.softserve.academy.spaced.repetition.security.utils.JwtTokenUtil-getUsernameFromToken with com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest-getUsernameFromToken
+Wed May 16 02:50:27 UTC 2018: No link for: com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest-canTokenBeRefreshed
+Wed May 16 02:50:28 UTC 2018: No link for: com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest-validateToken
+Wed May 16 02:50:28 UTC 2018: No link for: com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest-refreshToken
+Wed May 16 02:50:28 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.security.JwtTokenUtilTest
+Wed May 16 02:50:29 UTC 2018: Found element on the queue
+Wed May 16 02:50:29 UTC 2018: Updating status
+Wed May 16 02:50:29 UTC 2018: Working
+Wed May 16 02:50:31 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.security.service.AuthenticationRestServiceTest
+Wed May 16 02:50:31 UTC 2018: Setting lastTestMethodIndex: 58127
+Wed May 16 02:50:31 UTC 2018: Starting linking
+Wed May 16 02:50:31 UTC 2018: Code found com.softserve.academy.spaced.repetition.security.service.AuthenticationRestService-getAuthHeaders with com.softserve.academy.spaced.repetition.security.service.AuthenticationRestServiceTest-getAuthHeaders
+Wed May 16 02:50:32 UTC 2018: No link for: com.softserve.academy.spaced.repetition.security.service.AuthenticationRestServiceTest-getFacebookHeaders
+Wed May 16 02:50:32 UTC 2018: No link for: com.softserve.academy.spaced.repetition.security.service.AuthenticationRestServiceTest-getGoogleHeaders
+Wed May 16 02:50:32 UTC 2018: No link for: com.softserve.academy.spaced.repetition.security.service.AuthenticationRestServiceTest-getHeadersForRefreshToken
+Wed May 16 02:50:33 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.security.service.AuthenticationRestServiceTest
+Wed May 16 02:50:33 UTC 2018: Found element on the queue
+Wed May 16 02:50:33 UTC 2018: Updating status
+Wed May 16 02:50:33 UTC 2018: Working
+Wed May 16 02:50:35 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.DeckRatingControllerTest
+Wed May 16 02:50:35 UTC 2018: Setting lastTestMethodIndex: 58130
+Wed May 16 02:50:35 UTC 2018: Starting linking
+Wed May 16 02:50:35 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.DeckRatingControllerTest-testAddDeckRating
+Wed May 16 02:50:36 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.DeckRatingControllerTest-getDeckRatingById
+Wed May 16 02:50:36 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.DeckRatingControllerTest-testNotAuthorizedAddDeckRating
+Wed May 16 02:50:36 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.DeckRatingControllerTest-testNegativeAddDeckRating
+Wed May 16 02:50:37 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.DeckRatingControllerTest
+Wed May 16 02:50:37 UTC 2018: Found element on the queue
+Wed May 16 02:50:37 UTC 2018: Updating status
+Wed May 16 02:50:37 UTC 2018: Working
+Wed May 16 02:50:40 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.ManageUserControllerTest
+Wed May 16 02:50:40 UTC 2018: Setting lastTestMethodIndex: 58132
+Wed May 16 02:50:40 UTC 2018: Starting linking
+Wed May 16 02:50:40 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.ManageUserControllerTest-getUserById
+Wed May 16 02:50:40 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.ManageUserControllerTest-getUsersByPage
+Wed May 16 02:50:40 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.ManageUserControllerTest
+Wed May 16 02:50:41 UTC 2018: Found element on the queue
+Wed May 16 02:50:41 UTC 2018: Updating status
+Wed May 16 02:50:41 UTC 2018: Working
+Wed May 16 02:50:44 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest
+Wed May 16 02:50:44 UTC 2018: Setting lastTestMethodIndex: 58135
+Wed May 16 02:50:44 UTC 2018: Starting linking
+Wed May 16 02:50:44 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testDeleteProfileByNotAuthorisedUser
+Wed May 16 02:50:44 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testChangePasswordIfCurrentPasswordIncorrect
+Wed May 16 02:50:44 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testDeleteProfileImageByNotAuthorisedUser
+Wed May 16 02:50:45 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testUploadProfileImageByNotAuthorisedUser
+Wed May 16 02:50:45 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testDeleteProfileImage
+Wed May 16 02:50:45 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testGetProfileDataByNotAuthorisedUser
+Wed May 16 02:50:45 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testChangePassword
+Wed May 16 02:50:46 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testDeleteProfile
+Wed May 16 02:50:46 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testUploadProfileImage
+Wed May 16 02:50:46 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testUploadProfileImageIfImageQuotaExceeded
+Wed May 16 02:50:47 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testUpdatePersonalInfoByNotAuthorisedUser
+Wed May 16 02:50:47 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testUpdatePersonalInfo
+Wed May 16 02:50:47 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testChangePasswordByNotAuthorisedUser
+Wed May 16 02:50:48 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest-testGetProfileData
+Wed May 16 02:50:48 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.UserProfileControllerTest
+Wed May 16 02:50:49 UTC 2018: Found element on the queue
+Wed May 16 02:50:49 UTC 2018: Updating status
+Wed May 16 02:50:49 UTC 2018: Working
+Wed May 16 02:50:52 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.DeckControllerTest
+Wed May 16 02:50:52 UTC 2018: Setting lastTestMethodIndex: 58140
+Wed May 16 02:50:52 UTC 2018: Starting linking
+Wed May 16 02:50:52 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.DeckControllerTest-getDecksByPage
+Wed May 16 02:50:52 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.DeckControllerTest-getDecksByPageAndCategory
+Wed May 16 02:50:52 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.DeckControllerTest
+Wed May 16 02:50:53 UTC 2018: Found element on the queue
+Wed May 16 02:50:53 UTC 2018: Updating status
+Wed May 16 02:50:53 UTC 2018: Working
+Wed May 16 02:50:56 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.CourseCommentControllerTest
+Wed May 16 02:50:56 UTC 2018: Setting lastTestMethodIndex: 58143
+Wed May 16 02:50:56 UTC 2018: Starting linking
+Wed May 16 02:50:56 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseCommentControllerTest-getCommentByCourse
+Wed May 16 02:50:56 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseCommentControllerTest-testDeleteComment
+Wed May 16 02:50:56 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseCommentControllerTest-testAddComment
+Wed May 16 02:50:57 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseCommentControllerTest-getAllCommentsByCourse
+Wed May 16 02:50:57 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.CourseCommentControllerTest
+Wed May 16 02:50:58 UTC 2018: Found element on the queue
+Wed May 16 02:50:58 UTC 2018: Updating status
+Wed May 16 02:50:58 UTC 2018: Working
+Wed May 16 02:51:00 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.UserCardQueueControllerTest
+Wed May 16 02:51:00 UTC 2018: Setting lastTestMethodIndex: 58145
+Wed May 16 02:51:00 UTC 2018: Starting linking
+Wed May 16 02:51:00 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserCardQueueControllerTest-testCountCardsThatNeedRepeatingWhenThereAreNone
+Wed May 16 02:51:01 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserCardQueueControllerTest-testSetStatusGood
+Wed May 16 02:51:01 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserCardQueueControllerTest-testCountCardsThatNeedRepeatingWhenThereAreSome
+Wed May 16 02:51:01 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserCardQueueControllerTest-testCountCardsThatNeedRepeatingNotAuthorizedUserException
+Wed May 16 02:51:02 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserCardQueueControllerTest-testSetStatusIncorrect
+Wed May 16 02:51:02 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.UserCardQueueControllerTest-testUpdateUserCardQueueNotAuthorizedUserException
+Wed May 16 02:51:02 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.UserCardQueueControllerTest
+Wed May 16 02:51:03 UTC 2018: Found element on the queue
+Wed May 16 02:51:03 UTC 2018: Updating status
+Wed May 16 02:51:03 UTC 2018: Working
+Wed May 16 02:51:05 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.CourseRatingControllerTest
+Wed May 16 02:51:05 UTC 2018: Setting lastTestMethodIndex: 58149
+Wed May 16 02:51:05 UTC 2018: Starting linking
+Wed May 16 02:51:05 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseRatingControllerTest-testAddCourseRating
+Wed May 16 02:51:06 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseRatingControllerTest-testNegativeAddCourseRating
+Wed May 16 02:51:06 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseRatingControllerTest-testNotAuthorizedAddCourseRating
+Wed May 16 02:51:06 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseRatingControllerTest-getCourseRatingById
+Wed May 16 02:51:06 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.CourseRatingControllerTest
+Wed May 16 02:51:07 UTC 2018: Found element on the queue
+Wed May 16 02:51:07 UTC 2018: Updating status
+Wed May 16 02:51:07 UTC 2018: Working
+Wed May 16 02:51:09 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.CardControllerTest
+Wed May 16 02:51:09 UTC 2018: Setting lastTestMethodIndex: 58151
+Wed May 16 02:51:09 UTC 2018: Starting linking
+Wed May 16 02:51:09 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CardControllerTest-getCardById
+Wed May 16 02:51:10 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CardControllerTest-getLearningCards
+Wed May 16 02:51:10 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.CardControllerTest
+Wed May 16 02:51:11 UTC 2018: Found element on the queue
+Wed May 16 02:51:11 UTC 2018: Updating status
+Wed May 16 02:51:11 UTC 2018: Working
+Wed May 16 02:51:13 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.CourseControllerTest
+Wed May 16 02:51:13 UTC 2018: Setting lastTestMethodIndex: 58153
+Wed May 16 02:51:13 UTC 2018: Starting linking
+Wed May 16 02:51:13 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseControllerTest-getCoursesByPage
+Wed May 16 02:51:13 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseControllerTest-getCourseById
+Wed May 16 02:51:14 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.CourseControllerTest-getCoursesByPageAndCategoryId
+Wed May 16 02:51:14 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.CourseControllerTest
+Wed May 16 02:51:14 UTC 2018: Found element on the queue
+Wed May 16 02:51:14 UTC 2018: Updating status
+Wed May 16 02:51:14 UTC 2018: Working
+Wed May 16 02:51:18 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.AuditControllerTest
+Wed May 16 02:51:18 UTC 2018: Setting lastTestMethodIndex: 58156
+Wed May 16 02:51:18 UTC 2018: Starting linking
+Wed May 16 02:51:18 UTC 2018: No link for: com.softserve.academy.spaced.repetition.controller.AuditControllerTest-getAuditByPage
+Wed May 16 02:51:18 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.controller.AuditControllerTest
+Wed May 16 02:51:18 UTC 2018: Found element on the queue
+Wed May 16 02:51:18 UTC 2018: Updating status
+Wed May 16 02:51:18 UTC 2018: Working
+Wed May 16 02:51:21 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.UserProfileServiceTest
+Wed May 16 02:51:21 UTC 2018: Setting lastTestMethodIndex: 58159
+Wed May 16 02:51:21 UTC 2018: Starting linking
+Wed May 16 02:51:21 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-getProfileData with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testGetProfileDataByNotAuthorisedUser
+Wed May 16 02:51:22 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-updatePersonalInfo with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testUpdatePersonalInfoByNotAuthorisedUser
+Wed May 16 02:51:22 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-changePassword with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testChangePasswordByNotAuthorisedUser
+Wed May 16 02:51:22 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-changePassword with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testChangePassword
+Wed May 16 02:51:23 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-uploadProfileImage with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testUploadProfileImage
+Wed May 16 02:51:23 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-uploadProfileImage with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testUploadProfileImageByNotAuthorisedUser
+Wed May 16 02:51:23 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-changePassword with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testChangePasswordIfCurrentPasswordIncorrect
+Wed May 16 02:51:23 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-uploadProfileImage with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testUploadProfileImageIfImageQuotaExceeded
+Wed May 16 02:51:24 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-deleteProfileImage with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testDeleteProfileImage
+Wed May 16 02:51:24 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-deleteProfileImage with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testDeleteProfileImageByNotAuthorisedUser
+Wed May 16 02:51:24 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-getProfileData with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testGetProfileData
+Wed May 16 02:51:25 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.UserProfileServiceImpl-updatePersonalInfo with com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testUpdatePersonalInfo
+Wed May 16 02:51:25 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testDeleteAccountByNotAuthorisedUser
+Wed May 16 02:51:25 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.UserProfileServiceTest-testDeleteAccount
+Wed May 16 02:51:26 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.UserProfileServiceTest
+Wed May 16 02:51:26 UTC 2018: Found element on the queue
+Wed May 16 02:51:26 UTC 2018: Updating status
+Wed May 16 02:51:26 UTC 2018: Working
+Wed May 16 02:51:29 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CourseServiceTest
+Wed May 16 02:51:29 UTC 2018: Setting lastTestMethodIndex: 58163
+Wed May 16 02:51:29 UTC 2018: Starting linking
+Wed May 16 02:51:29 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getAllDecksByCourseId with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetAllDecksByCourseId
+Wed May 16 02:51:29 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-addCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testAddCourse
+Wed May 16 02:51:29 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-deleteGlobalCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testDeleteGlobalCourse
+Wed May 16 02:51:30 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getAllCoursesIdOfTheCurrentUser with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetAllCoursesIdOfTheCurrentUser
+Wed May 16 02:51:30 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getPageWithCourses with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetPageWithCourses
+Wed May 16 02:51:30 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-updateListOfCoursesOfTheAuthorizedUser with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testUpdateListOfCoursesOfTheAuthorizedUserByNotAuthorisedUser
+Wed May 16 02:51:31 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getPageWithCoursesByCategory with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetPageWithCoursesByCategory
+Wed May 16 02:51:31 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-deleteGlobalCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testDeleteGlobalCourseByNotAuthorisedUser
+Wed May 16 02:51:31 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getAllOrderedCourses with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetAllOrderedCourses
+Wed May 16 02:51:32 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getAllCoursesIdOfTheCurrentUser with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetAllCoursesIdOfTheCurrentUserByNotAuthorisedUser
+Wed May 16 02:51:32 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-createPrivateCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testCreatePrivateCourse
+Wed May 16 02:51:32 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-updateCourseAccess with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testUpdateCourseAccess
+Wed May 16 02:51:32 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-addDeckToCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testAddDeckToCourse
+Wed May 16 02:51:33 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-updateListOfCoursesOfTheAuthorizedUser with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testUpdateListOfCoursesOfTheAuthorizedUser
+Wed May 16 02:51:33 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-updateCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testUpdateCourse
+Wed May 16 02:51:33 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-createPrivateCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testCreatePrivateCourseByNotAuthorisedUser
+Wed May 16 02:51:34 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getCourseById with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetCourseById
+Wed May 16 02:51:34 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-deleteLocalCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testDeleteLocalCourse
+Wed May 16 02:51:34 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getAllCoursesByCategoryId with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetAllCoursesByCategoryId
+Wed May 16 02:51:35 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getTopCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetTopCourse
+Wed May 16 02:51:35 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-deleteLocalCourse with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testDeleteLocalCourseByNotAuthorisedUser
+Wed May 16 02:51:35 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CourseServiceImpl-getAllCourses with com.softserve.academy.spaced.repetition.service.CourseServiceTest-testGetAllCourses
+Wed May 16 02:51:36 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CourseServiceTest
+Wed May 16 02:51:36 UTC 2018: Found element on the queue
+Wed May 16 02:51:36 UTC 2018: Updating status
+Wed May 16 02:51:36 UTC 2018: Working
+Wed May 16 02:51:39 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CategoryServiceTest
+Wed May 16 02:51:39 UTC 2018: Setting lastTestMethodIndex: 58166
+Wed May 16 02:51:39 UTC 2018: Starting linking
+Wed May 16 02:51:39 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CategoryServiceImpl-getAllCategory with com.softserve.academy.spaced.repetition.service.CategoryServiceTest-testGetAllCategory
+Wed May 16 02:51:39 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CategoryServiceImpl-addCategory with com.softserve.academy.spaced.repetition.service.CategoryServiceTest-testAddCategory
+Wed May 16 02:51:40 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CategoryServiceImpl-getTopCategory with com.softserve.academy.spaced.repetition.service.CategoryServiceTest-testGetTopCategory
+Wed May 16 02:51:40 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CategoryServiceImpl-getCategoryById with com.softserve.academy.spaced.repetition.service.CategoryServiceTest-testGetCategoryById
+Wed May 16 02:51:40 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CategoryServiceImpl-getSortedCategories with com.softserve.academy.spaced.repetition.service.CategoryServiceTest-testGetSortedCategories
+Wed May 16 02:51:41 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CategoryServiceTest
+Wed May 16 02:51:41 UTC 2018: Found element on the queue
+Wed May 16 02:51:41 UTC 2018: Updating status
+Wed May 16 02:51:41 UTC 2018: Working
+Wed May 16 02:51:44 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.ImageServiceTest
+Wed May 16 02:51:44 UTC 2018: Setting lastTestMethodIndex: 58169
+Wed May 16 02:51:44 UTC 2018: Starting linking
+Wed May 16 02:51:44 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-checkImageExtension with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testCheckImageExtensionByNotAuthorisedUser
+Wed May 16 02:51:44 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-checkImageExtension with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testCheckImageExtensionIfFileIsNotImage
+Wed May 16 02:51:44 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-setImageStatusInUse with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testSetImageStatusInUse
+Wed May 16 02:51:45 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-getDecodedImageContentByImageId with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testGetDecodedImageContentByImageId
+Wed May 16 02:51:45 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-deleteImage with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testDeleteImage
+Wed May 16 02:51:45 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-deleteImage with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testDeleteImageByNotOwnerUser
+Wed May 16 02:51:46 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-getImagesForCurrentUser with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testGetImagesForCurrentUserByNotAuthorisedUser
+Wed May 16 02:51:46 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-decodeFromBase64 with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testDecodeFromBase64
+Wed May 16 02:51:46 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-deleteImage with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testDeleteImageThatIsInUse
+Wed May 16 02:51:47 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-encodeToBase64 with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testEncodeToBase64
+Wed May 16 02:51:47 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-checkImageExtension with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testCheckImageExtensionIfQuotaIsExceeded
+Wed May 16 02:51:47 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-addImageToDB with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testAddImageToDB
+Wed May 16 02:51:48 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-setImageStatusNotInUse with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testSetImageStatusNotInUse
+Wed May 16 02:51:48 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-getImagesForCurrentUser with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testGetImagesForCurrentUser
+Wed May 16 02:51:48 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-checkImageExtension with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testCheckImageExtensionIfFileIsTooLarge
+Wed May 16 02:51:49 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-addImageToDB with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testAddImageToDBIfQuotaIsExceeded
+Wed May 16 02:51:49 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-deleteImage with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testDeleteImageByNotAuthorisedUser
+Wed May 16 02:51:49 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-addImageToDB with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testAddImageToDBByNotAuthorisedUser
+Wed May 16 02:51:49 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.ImageServiceImpl-checkImageExtension with com.softserve.academy.spaced.repetition.service.ImageServiceTest-testCheckImageExtension
+Wed May 16 02:51:50 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.ImageServiceTest-testGetUsersLimitsInBytesForImagesLeft
+Wed May 16 02:51:50 UTC 2018: No link for: com.softserve.academy.spaced.repetition.service.ImageServiceTest-testGetDecodeImageContentByImageIdIfImageNotExist
+Wed May 16 02:51:50 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.ImageServiceTest
+Wed May 16 02:51:51 UTC 2018: Found element on the queue
+Wed May 16 02:51:51 UTC 2018: Updating status
+Wed May 16 02:51:51 UTC 2018: Working
+Wed May 16 02:51:53 UTC 2018: Start koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CardServiceTest
+Wed May 16 02:51:53 UTC 2018: Setting lastTestMethodIndex: 58174
+Wed May 16 02:51:53 UTC 2018: Starting linking
+Wed May 16 02:51:53 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-addCard with com.softserve.academy.spaced.repetition.service.CardServiceTest-testAddCardWithoutImage
+Wed May 16 02:51:54 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-updateCard with com.softserve.academy.spaced.repetition.service.CardServiceTest-testUpdateCardWithoutImage
+Wed May 16 02:51:54 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getLearningCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetLearningCardsWithLearningRegimeBadNormalGood
+Wed May 16 02:51:54 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getCardsQueue with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetCardsQueueByNotAuthorisedUser
+Wed May 16 02:51:55 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getCardsQueue with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetCardsQueueWithStatus
+Wed May 16 02:51:55 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-downloadCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testDownloadCards
+Wed May 16 02:51:55 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-areThereNotPostponedCardsAvailable with com.softserve.academy.spaced.repetition.service.CardServiceTest-testAreThereNotPostponedCardsAvailable
+Wed May 16 02:51:56 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getAdditionalLearningCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetAdditionalLearningCardsByNotAuthorisedUser
+Wed May 16 02:51:56 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getLearningCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetLearningCardsByNotAuthorisedUser
+Wed May 16 02:51:56 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-uploadCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testUploadCards
+Wed May 16 02:51:57 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getAdditionalLearningCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetAdditionalLearningCards
+Wed May 16 02:51:57 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-deleteCard with com.softserve.academy.spaced.repetition.service.CardServiceTest-testDeleteCard
+Wed May 16 02:51:57 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getLearningCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetLearningCardsWithLearningRegimeCardPositionUsingSpaced
+Wed May 16 02:51:58 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-uploadCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testUploadCardsEmptyFile
+Wed May 16 02:51:58 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-uploadCards with com.softserve.academy.spaced.repetition.service.CardServiceTest-testUploadCardsNotAuthorisedUser
+Wed May 16 02:51:58 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-areThereNotPostponedCardsAvailable with com.softserve.academy.spaced.repetition.service.CardServiceTest-testAreThereNotPostponedCardsAvailableByNotAuthorisedUser
+Wed May 16 02:51:59 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-updateCard with com.softserve.academy.spaced.repetition.service.CardServiceTest-testUpdateCardWithImage
+Wed May 16 02:51:59 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getCard with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetCard
+Wed May 16 02:51:59 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-getCardsQueue with com.softserve.academy.spaced.repetition.service.CardServiceTest-testGetCardsQueueWithOutStatus
+Wed May 16 02:51:59 UTC 2018: Code found com.softserve.academy.spaced.repetition.service.impl.CardServiceImpl-addCard with com.softserve.academy.spaced.repetition.service.CardServiceTest-testAddCardWithImage
+Wed May 16 02:52:00 UTC 2018: Linking done for koldovsky__orlp-server test class com.softserve.academy.spaced.repetition.service.CardServiceTest

@@ -1,0 +1,110 @@
+Tue May 15 22:31:36 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:31:36 UTC 2018: Starting
+Tue May 15 22:31:38 UTC 2018: Found element on the queue
+Tue May 15 22:31:38 UTC 2018: Updating status
+Tue May 15 22:31:38 UTC 2018: Working
+Tue May 15 22:31:38 UTC 2018: Create project parser
+Tue May 15 22:31:53 UTC 2018: Create slicer
+Tue May 15 22:31:53 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1347093252
+Tue May 15 22:31:56 UTC 2018: Create call graph
+Tue May 15 22:32:04 UTC 2018: Create point analysis
+Tue May 15 22:32:04 UTC 2018: Create call graph done
+Tue May 15 22:32:04 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.LocationSearchTest
+Tue May 15 22:32:04 UTC 2018: Setting lastTestMethodIndex: 49248
+Tue May 15 22:32:04 UTC 2018: Starting linking
+Tue May 15 22:32:04 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.LocationSearchTest-searchForLocationInclude
+Tue May 15 22:32:05 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.LocationSearchTest-searchForLocationInside
+Tue May 15 22:32:05 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.LocationSearchTest-searchForLocationIntersect
+Tue May 15 22:32:06 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.LocationSearchTest
+Tue May 15 22:32:06 UTC 2018: Found element on the queue
+Tue May 15 22:32:06 UTC 2018: Updating status
+Tue May 15 22:32:06 UTC 2018: Working
+Tue May 15 22:32:11 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.converter.QueryConverterTest
+Tue May 15 22:32:11 UTC 2018: Setting lastTestMethodIndex: 49251
+Tue May 15 22:32:11 UTC 2018: Starting linking
+Tue May 15 22:32:11 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.converter.QueryConverterTest-matchTermsANDORParentheses
+Tue May 15 22:32:11 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.converter.QueryConverterTest-matchTerm
+Tue May 15 22:32:12 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.converter.QueryConverterTest-matchAll
+Tue May 15 22:32:12 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.converter.QueryConverterTest-matchTermsAND
+Tue May 15 22:32:13 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.converter.QueryConverterTest-matchTermsOR
+Tue May 15 22:32:13 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.converter.QueryConverterTest-matchTermsANDOR
+Tue May 15 22:32:14 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.converter.QueryConverterTest
+Tue May 15 22:32:15 UTC 2018: Found element on the queue
+Tue May 15 22:32:15 UTC 2018: Updating status
+Tue May 15 22:32:15 UTC 2018: Working
+Tue May 15 22:32:19 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.DateSearchTest
+Tue May 15 22:32:19 UTC 2018: Setting lastTestMethodIndex: 49254
+Tue May 15 22:32:19 UTC 2018: Starting linking
+Tue May 15 22:32:19 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.DateSearchTest-searchForDatesInclude
+Tue May 15 22:32:19 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.DateSearchTest-searchForDatesIntersectAndInclude
+Tue May 15 22:32:20 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.DateSearchTest-searchForDatesIntersect
+Tue May 15 22:32:20 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.DateSearchTest-searchForDates
+Tue May 15 22:32:20 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.DateSearchTest
+Tue May 15 22:32:21 UTC 2018: Found element on the queue
+Tue May 15 22:32:21 UTC 2018: Updating status
+Tue May 15 22:32:21 UTC 2018: Working
+Tue May 15 22:32:25 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.FacetSearchTest
+Tue May 15 22:32:25 UTC 2018: Setting lastTestMethodIndex: 49256
+Tue May 15 22:32:25 UTC 2018: Starting linking
+Tue May 15 22:32:25 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.FacetSearchTest-facetteSearchTerm
+Tue May 15 22:32:26 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.FacetSearchTest-facetteSearchAll
+Tue May 15 22:32:26 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.FacetSearchTest
+Tue May 15 22:32:27 UTC 2018: Found element on the queue
+Tue May 15 22:32:27 UTC 2018: Updating status
+Tue May 15 22:32:27 UTC 2018: Working
+Tue May 15 22:32:31 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.InstanceTest
+Tue May 15 22:32:31 UTC 2018: Setting lastTestMethodIndex: 49259
+Tue May 15 22:32:31 UTC 2018: Starting linking
+Tue May 15 22:32:31 UTC 2018: No link for: de.ingrid.iplug.se.elasticsearch.InstanceTest-searchForAll
+Tue May 15 22:32:31 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.elasticsearch.InstanceTest
+Tue May 15 22:32:33 UTC 2018: Found element on the queue
+Tue May 15 22:32:33 UTC 2018: Updating status
+Tue May 15 22:32:33 UTC 2018: Working
+Tue May 15 22:32:37 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.utils.UrlErrorPagableFilterTest
+Tue May 15 22:32:37 UTC 2018: Setting lastTestMethodIndex: 49262
+Tue May 15 22:32:37 UTC 2018: Starting linking
+Tue May 15 22:32:37 UTC 2018: No link for: de.ingrid.iplug.se.utils.UrlErrorPagableFilterTest-test
+Tue May 15 22:32:38 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.utils.UrlErrorPagableFilterTest
+Tue May 15 22:32:39 UTC 2018: Found element on the queue
+Tue May 15 22:32:39 UTC 2018: Updating status
+Tue May 15 22:32:39 UTC 2018: Working
+Tue May 15 22:32:43 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.webapp.controller.ListInstancesControllerTest
+Tue May 15 22:32:43 UTC 2018: Setting lastTestMethodIndex: 49264
+Tue May 15 22:32:43 UTC 2018: Starting linking
+Tue May 15 22:32:43 UTC 2018: Code found de.ingrid.iplug.se.webapp.controller.ListInstancesController-addInstance with de.ingrid.iplug.se.webapp.controller.ListInstancesControllerTest-testAddInstance
+Tue May 15 22:32:44 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.webapp.controller.ListInstancesControllerTest
+Tue May 15 22:32:46 UTC 2018: Found element on the queue
+Tue May 15 22:32:46 UTC 2018: Updating status
+Tue May 15 22:32:46 UTC 2018: Working
+Tue May 15 22:32:48 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.nutchController.NutchControllerTest
+Tue May 15 22:32:48 UTC 2018: Setting lastTestMethodIndex: 49267
+Tue May 15 22:32:48 UTC 2018: Starting linking
+Tue May 15 22:32:48 UTC 2018: Code found de.ingrid.iplug.se.nutchController.NutchController-stop with de.ingrid.iplug.se.nutchController.NutchControllerTest-testForceStop
+Tue May 15 22:32:49 UTC 2018: No link for: de.ingrid.iplug.se.nutchController.NutchControllerTest-test
+Tue May 15 22:32:49 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.nutchController.NutchControllerTest
+Tue May 15 22:32:50 UTC 2018: Found element on the queue
+Tue May 15 22:32:50 UTC 2018: Updating status
+Tue May 15 22:32:50 UTC 2018: Working
+Tue May 15 22:32:54 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.nutchController.NutchProcessTest
+Tue May 15 22:32:54 UTC 2018: Setting lastTestMethodIndex: 49268
+Tue May 15 22:32:54 UTC 2018: Starting linking
+Tue May 15 22:32:54 UTC 2018: No link for: de.ingrid.iplug.se.nutchController.NutchProcessTest-testGenericNutchProcessor
+Tue May 15 22:32:54 UTC 2018: No link for: de.ingrid.iplug.se.nutchController.NutchProcessTest-testIngridCrawlNutchProcessor
+Tue May 15 22:32:54 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.nutchController.NutchProcessTest
+Tue May 15 22:32:56 UTC 2018: Found element on the queue
+Tue May 15 22:32:56 UTC 2018: Updating status
+Tue May 15 22:32:56 UTC 2018: Working
+Tue May 15 22:33:00 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.nutchController.NutchUrlTesterTest
+Tue May 15 22:33:00 UTC 2018: Setting lastTestMethodIndex: 49270
+Tue May 15 22:33:00 UTC 2018: Starting linking
+Tue May 15 22:33:00 UTC 2018: No link for: de.ingrid.iplug.se.nutchController.NutchUrlTesterTest-test
+Tue May 15 22:33:00 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.nutchController.NutchUrlTesterTest
+Tue May 15 22:33:01 UTC 2018: Found element on the queue
+Tue May 15 22:33:01 UTC 2018: Updating status
+Tue May 15 22:33:01 UTC 2018: Working
+Tue May 15 22:33:06 UTC 2018: Start informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.UVPDataImporterTest
+Tue May 15 22:33:06 UTC 2018: Setting lastTestMethodIndex: 49271
+Tue May 15 22:33:06 UTC 2018: Starting linking
+Tue May 15 22:33:06 UTC 2018: Code found de.ingrid.iplug.se.UVPDataImporter-getDomain with de.ingrid.iplug.se.UVPDataImporterTest-testGetDomain
+Tue May 15 22:33:06 UTC 2018: Code found de.ingrid.iplug.se.UVPDataImporter-readData with de.ingrid.iplug.se.UVPDataImporterTest-testReadData
+Tue May 15 22:33:06 UTC 2018: Linking done for informationgrid__ingrid-iplug-se test class de.ingrid.iplug.se.UVPDataImporterTest

@@ -1,0 +1,111 @@
+Tue May 15 21:19:33 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 21:19:34 UTC 2018: Starting
+Tue May 15 21:19:35 UTC 2018: Found element on the queue
+Tue May 15 21:19:35 UTC 2018: Updating status
+Tue May 15 21:19:35 UTC 2018: Working
+Tue May 15 21:19:35 UTC 2018: Create project parser
+Tue May 15 21:19:45 UTC 2018: Create slicer
+Tue May 15 21:19:49 UTC 2018: Create call graph
+Tue May 15 21:19:54 UTC 2018: Create point analysis
+Tue May 15 21:19:54 UTC 2018: Create call graph done
+Tue May 15 21:19:54 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.entities.TestCreateEntities
+Tue May 15 21:19:54 UTC 2018: Setting lastTestMethodIndex: 48067
+Tue May 15 21:19:54 UTC 2018: Starting linking
+Tue May 15 21:19:54 UTC 2018: Code found com.hpe.adm.nga.sdk.entities.EntityList-create with com.hpe.adm.nga.sdk.entities.TestCreateEntities-testCreateEntity
+Tue May 15 21:19:54 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.entities.TestCreateEntities
+Tue May 15 21:19:56 UTC 2018: Found element on the queue
+Tue May 15 21:19:56 UTC 2018: Updating status
+Tue May 15 21:19:56 UTC 2018: Working
+Tue May 15 21:19:59 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.entities.TestUpdateEntities
+Tue May 15 21:19:59 UTC 2018: Setting lastTestMethodIndex: 48069
+Tue May 15 21:19:59 UTC 2018: Starting linking
+Tue May 15 21:19:59 UTC 2018: Code found com.hpe.adm.nga.sdk.entities.EntityList$Entities-update with com.hpe.adm.nga.sdk.entities.TestUpdateEntities-testUpdateEntity
+Tue May 15 21:19:59 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.entities.TestUpdateEntities
+Tue May 15 21:19:59 UTC 2018: Found element on the queue
+Tue May 15 21:19:59 UTC 2018: Updating status
+Tue May 15 21:19:59 UTC 2018: Working
+Tue May 15 21:20:03 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.network.TestCustomOctaneHttpClient
+Tue May 15 21:20:03 UTC 2018: Setting lastTestMethodIndex: 48071
+Tue May 15 21:20:03 UTC 2018: Starting linking
+Tue May 15 21:20:03 UTC 2018: No link for: com.hpe.adm.nga.sdk.network.TestCustomOctaneHttpClient-testCustomOctaneHttpClient
+Tue May 15 21:20:04 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.network.TestCustomOctaneHttpClient
+Tue May 15 21:20:05 UTC 2018: Found element on the queue
+Tue May 15 21:20:05 UTC 2018: Updating status
+Tue May 15 21:20:05 UTC 2018: Working
+Tue May 15 21:20:08 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.network.google.TestGoogleHttpClient
+Tue May 15 21:20:08 UTC 2018: Setting lastTestMethodIndex: 48072
+Tue May 15 21:20:08 UTC 2018: Starting linking
+Tue May 15 21:20:08 UTC 2018: No link for: com.hpe.adm.nga.sdk.network.google.TestGoogleHttpClient-testRequestRetry
+Tue May 15 21:20:09 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.network.google.TestGoogleHttpClient
+Tue May 15 21:20:09 UTC 2018: Found element on the queue
+Tue May 15 21:20:09 UTC 2018: Updating status
+Tue May 15 21:20:09 UTC 2018: Working
+Tue May 15 21:20:12 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.network.TestOctaneUrl
+Tue May 15 21:20:12 UTC 2018: Setting lastTestMethodIndex: 48073
+Tue May 15 21:20:12 UTC 2018: Starting linking
+Tue May 15 21:20:12 UTC 2018: No link for: com.hpe.adm.nga.sdk.network.TestOctaneUrl-testUrlBuilder
+Tue May 15 21:20:13 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.network.TestOctaneUrl
+Tue May 15 21:20:14 UTC 2018: Found element on the queue
+Tue May 15 21:20:14 UTC 2018: Updating status
+Tue May 15 21:20:14 UTC 2018: Working
+Tue May 15 21:20:17 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.model.TestQuery
+Tue May 15 21:20:17 UTC 2018: Setting lastTestMethodIndex: 48074
+Tue May 15 21:20:17 UTC 2018: Starting linking
+Tue May 15 21:20:17 UTC 2018: Code found com.hpe.adm.nga.sdk.query.Query$QueryBuilder-or with com.hpe.adm.nga.sdk.model.TestQuery-testComplexStatementOr
+Tue May 15 21:20:17 UTC 2018: Code found com.hpe.adm.nga.sdk.query.Query$QueryBuilder-build with com.hpe.adm.nga.sdk.model.TestQuery-testQueryBuilderComposition
+Tue May 15 21:20:18 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestQuery-testComplexStatementAndNegate
+Tue May 15 21:20:18 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestQuery-testStringEquality
+Tue May 15 21:20:18 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestQuery-testEquality
+Tue May 15 21:20:19 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestQuery-testDateFormat
+Tue May 15 21:20:19 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.model.TestQuery
+Tue May 15 21:20:20 UTC 2018: Found element on the queue
+Tue May 15 21:20:20 UTC 2018: Updating status
+Tue May 15 21:20:20 UTC 2018: Working
+Tue May 15 21:20:23 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.model.TestModel
+Tue May 15 21:20:23 UTC 2018: Setting lastTestMethodIndex: 48076
+Tue May 15 21:20:23 UTC 2018: Starting linking
+Tue May 15 21:20:23 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testEntityModelWithDateField
+Tue May 15 21:20:23 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testAddSingleValue
+Tue May 15 21:20:24 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testNonDirtyEntity
+Tue May 15 21:20:24 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testEntityModelWithReferenceField
+Tue May 15 21:20:24 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testErrorModel
+Tue May 15 21:20:25 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testCleanEntityWithId
+Tue May 15 21:20:25 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testEntityModelWithMultiReferenceField
+Tue May 15 21:20:26 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testNonDirtyEntityWithAddition
+Tue May 15 21:20:26 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testEntityModelWithStringField
+Tue May 15 21:20:26 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testEntityModelWithBooleanField
+Tue May 15 21:20:27 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testDirtyEntity
+Tue May 15 21:20:27 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testComplexEntityModel
+Tue May 15 21:20:27 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testEntityModelWithLongField
+Tue May 15 21:20:28 UTC 2018: No link for: com.hpe.adm.nga.sdk.model.TestModel-testUpdateSingleValue
+Tue May 15 21:20:28 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.model.TestModel
+Tue May 15 21:20:29 UTC 2018: Found element on the queue
+Tue May 15 21:20:29 UTC 2018: Updating status
+Tue May 15 21:20:29 UTC 2018: Working
+Tue May 15 21:20:32 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.attachments.TestAttachments
+Tue May 15 21:20:32 UTC 2018: Setting lastTestMethodIndex: 48078
+Tue May 15 21:20:32 UTC 2018: Starting linking
+Tue May 15 21:20:32 UTC 2018: No link for: com.hpe.adm.nga.sdk.attachments.TestAttachments-testCorrectUrl
+Tue May 15 21:20:33 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.attachments.TestAttachments
+Tue May 15 21:20:34 UTC 2018: Found element on the queue
+Tue May 15 21:20:34 UTC 2018: Updating status
+Tue May 15 21:20:34 UTC 2018: Working
+Tue May 15 21:20:37 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.query.TestQueryMethod
+Tue May 15 21:20:37 UTC 2018: Setting lastTestMethodIndex: 48080
+Tue May 15 21:20:37 UTC 2018: Starting linking
+Tue May 15 21:20:37 UTC 2018: No link for: com.hpe.adm.nga.sdk.query.TestQueryMethod-testInNull
+Tue May 15 21:20:38 UTC 2018: No link for: com.hpe.adm.nga.sdk.query.TestQueryMethod-testInNumber
+Tue May 15 21:20:38 UTC 2018: No link for: com.hpe.adm.nga.sdk.query.TestQueryMethod-testInEmpty
+Tue May 15 21:20:39 UTC 2018: No link for: com.hpe.adm.nga.sdk.query.TestQueryMethod-testBetweenNumber
+Tue May 15 21:20:39 UTC 2018: No link for: com.hpe.adm.nga.sdk.query.TestQueryMethod-testBetweenDate
+Tue May 15 21:20:39 UTC 2018: No link for: com.hpe.adm.nga.sdk.query.TestQueryMethod-testInString
+Tue May 15 21:20:40 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.query.TestQueryMethod
+Tue May 15 21:20:41 UTC 2018: Found element on the queue
+Tue May 15 21:20:41 UTC 2018: Updating status
+Tue May 15 21:20:41 UTC 2018: Working
+Tue May 15 21:20:45 UTC 2018: Start HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.exception.TestOctaneExceptions
+Tue May 15 21:20:45 UTC 2018: Setting lastTestMethodIndex: 48082
+Tue May 15 21:20:45 UTC 2018: Starting linking
+Tue May 15 21:20:45 UTC 2018: No link for: com.hpe.adm.nga.sdk.exception.TestOctaneExceptions-testOctanePartialException
+Tue May 15 21:20:45 UTC 2018: No link for: com.hpe.adm.nga.sdk.exception.TestOctaneExceptions-testOctaneException
+Tue May 15 21:20:45 UTC 2018: Linking done for HPSoftware__ALMOctaneJavaRESTSDK test class com.hpe.adm.nga.sdk.exception.TestOctaneExceptions

@@ -1,0 +1,83 @@
+Tue May 15 13:33:56 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:33:58 UTC 2018: Starting
+Tue May 15 13:33:59 UTC 2018: Found element on the queue
+Tue May 15 13:33:59 UTC 2018: Updating status
+Tue May 15 13:33:59 UTC 2018: Working
+Tue May 15 13:33:59 UTC 2018: Create project parser
+Tue May 15 13:34:09 UTC 2018: Create slicer
+Tue May 15 13:34:15 UTC 2018: Create call graph
+Tue May 15 13:34:22 UTC 2018: Create point analysis
+Tue May 15 13:34:22 UTC 2018: Create call graph done
+Tue May 15 13:34:22 UTC 2018: Start CodeStory__code-story-plannin test class templating.LayoutTest
+Tue May 15 13:34:22 UTC 2018: Setting lastTestMethodIndex: 34055
+Tue May 15 13:34:22 UTC 2018: Starting linking
+Tue May 15 13:34:22 UTC 2018: Code found templating.Layout-apply with templating.LayoutTest-should_apply_layout
+Tue May 15 13:34:22 UTC 2018: Linking done for CodeStory__code-story-plannin test class templating.LayoutTest
+Tue May 15 13:34:23 UTC 2018: Found element on the queue
+Tue May 15 13:34:23 UTC 2018: Updating status
+Tue May 15 13:34:23 UTC 2018: Working
+Tue May 15 13:34:27 UTC 2018: Start CodeStory__code-story-plannin test class templating.TemplateTest
+Tue May 15 13:34:27 UTC 2018: Setting lastTestMethodIndex: 34057
+Tue May 15 13:34:27 UTC 2018: Starting linking
+Tue May 15 13:34:27 UTC 2018: No link for: templating.TemplateTest-should_replace_variable
+Tue May 15 13:34:27 UTC 2018: No link for: templating.TemplateTest-should_include_version
+Tue May 15 13:34:27 UTC 2018: No link for: templating.TemplateTest-should_ignore_body
+Tue May 15 13:34:27 UTC 2018: No link for: templating.TemplateTest-should_ignore_standard_mustaches
+Tue May 15 13:34:27 UTC 2018: No link for: templating.TemplateTest-should_get_original_content
+Tue May 15 13:34:27 UTC 2018: Linking done for CodeStory__code-story-plannin test class templating.TemplateTest
+Tue May 15 13:34:28 UTC 2018: Found element on the queue
+Tue May 15 13:34:28 UTC 2018: Updating status
+Tue May 15 13:34:28 UTC 2018: Working
+Tue May 15 13:34:31 UTC 2018: Start CodeStory__code-story-plannin test class templating.YamlFrontMatterTest
+Tue May 15 13:34:31 UTC 2018: Setting lastTestMethodIndex: 34059
+Tue May 15 13:34:31 UTC 2018: Starting linking
+Tue May 15 13:34:31 UTC 2018: No link for: templating.YamlFrontMatterTest-should_ignore_commented_variable
+Tue May 15 13:34:31 UTC 2018: No link for: templating.YamlFrontMatterTest-should_read_empty_file
+Tue May 15 13:34:31 UTC 2018: No link for: templating.YamlFrontMatterTest-should_read_header_variables
+Tue May 15 13:34:31 UTC 2018: No link for: templating.YamlFrontMatterTest-should_read_file_without_headers
+Tue May 15 13:34:31 UTC 2018: Linking done for CodeStory__code-story-plannin test class templating.YamlFrontMatterTest
+Tue May 15 13:34:32 UTC 2018: Found element on the queue
+Tue May 15 13:34:32 UTC 2018: Updating status
+Tue May 15 13:34:32 UTC 2018: Working
+Tue May 15 13:34:36 UTC 2018: Start CodeStory__code-story-plannin test class planning.PlanningTest
+Tue May 15 13:34:36 UTC 2018: Setting lastTestMethodIndex: 34061
+Tue May 15 13:34:36 UTC 2018: Starting linking
+Tue May 15 13:34:36 UTC 2018: Code found planning.Planning-unstar with planning.PlanningTest-should_unstar
+Tue May 15 13:34:36 UTC 2018: Code found planning.Planning-stars with planning.PlanningTest-should_read_stars_for_empty_planning
+Tue May 15 13:34:36 UTC 2018: Code found planning.Planning-star with planning.PlanningTest-should_star
+Tue May 15 13:34:36 UTC 2018: Code found planning.Planning-star with planning.PlanningTest-should_star_multiple_users
+Tue May 15 13:34:36 UTC 2018: Code found planning.Planning-stars with planning.PlanningTest-should_save_stars_to_disk
+Tue May 15 13:34:36 UTC 2018: Code found planning.Planning-star with planning.PlanningTest-should_count_stars_per_talk
+Tue May 15 13:34:36 UTC 2018: No link for: planning.PlanningTest-should_count_stars_for_empty_planning
+Tue May 15 13:34:36 UTC 2018: No link for: planning.PlanningTest-should_count_stars_loaded_from_file
+Tue May 15 13:34:36 UTC 2018: No link for: planning.PlanningTest-should_load_from_files
+Tue May 15 13:34:36 UTC 2018: Linking done for CodeStory__code-story-plannin test class planning.PlanningTest
+Tue May 15 13:34:37 UTC 2018: Found element on the queue
+Tue May 15 13:34:37 UTC 2018: Updating status
+Tue May 15 13:34:37 UTC 2018: Working
+Tue May 15 13:34:40 UTC 2018: Start CodeStory__code-story-plannin test class auth.TwitterAuthenticatorTest
+Tue May 15 13:34:41 UTC 2018: Setting lastTestMethodIndex: 34063
+Tue May 15 13:34:41 UTC 2018: Starting linking
+Tue May 15 13:34:41 UTC 2018: Code found auth.TwitterAuthenticator-authenticate with auth.TwitterAuthenticatorTest-should_authenticate
+Tue May 15 13:34:41 UTC 2018: No link for: auth.TwitterAuthenticatorTest-should_generate_an_authentication_URL
+Tue May 15 13:34:41 UTC 2018: No link for: auth.TwitterAuthenticatorTest-should_raise_exception_when_authentication_fails
+Tue May 15 13:34:41 UTC 2018: Linking done for CodeStory__code-story-plannin test class auth.TwitterAuthenticatorTest
+Tue May 15 13:34:42 UTC 2018: Found element on the queue
+Tue May 15 13:34:42 UTC 2018: Updating status
+Tue May 15 13:34:42 UTC 2018: Working
+Tue May 15 13:34:46 UTC 2018: Start CodeStory__code-story-plannin test class resources.AuthenticationResourceTest
+Tue May 15 13:34:46 UTC 2018: Setting lastTestMethodIndex: 34065
+Tue May 15 13:34:46 UTC 2018: Starting linking
+Tue May 15 13:34:46 UTC 2018: No link for: resources.AuthenticationResourceTest-with_granted_user_should_authenticate_on_twitter_callback
+Tue May 15 13:34:46 UTC 2018: No link for: resources.AuthenticationResourceTest-should_redirect_to_twitter
+Tue May 15 13:34:46 UTC 2018: Linking done for CodeStory__code-story-plannin test class resources.AuthenticationResourceTest
+Tue May 15 13:34:47 UTC 2018: Found element on the queue
+Tue May 15 13:34:47 UTC 2018: Updating status
+Tue May 15 13:34:47 UTC 2018: Working
+Tue May 15 13:34:51 UTC 2018: Start CodeStory__code-story-plannin test class resources.PlanningResourceTest
+Tue May 15 13:34:51 UTC 2018: Setting lastTestMethodIndex: 34067
+Tue May 15 13:34:51 UTC 2018: Starting linking
+Tue May 15 13:34:51 UTC 2018: No link for: resources.PlanningResourceTest-should_get_my_registrations
+Tue May 15 13:34:51 UTC 2018: No link for: resources.PlanningResourceTest-should_unregister_user_for_talk
+Tue May 15 13:34:51 UTC 2018: No link for: resources.PlanningResourceTest-should_register_user_for_talk
+Tue May 15 13:34:51 UTC 2018: Linking done for CodeStory__code-story-plannin test class resources.PlanningResourceTest

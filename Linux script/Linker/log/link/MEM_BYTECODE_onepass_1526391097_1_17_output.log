@@ -1,0 +1,366 @@
+Tue May 15 13:58:05 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:58:05 UTC 2018: Starting
+Tue May 15 13:58:06 UTC 2018: Found element on the queue
+Tue May 15 13:58:06 UTC 2018: Updating status
+Tue May 15 13:58:06 UTC 2018: Working
+Tue May 15 13:58:06 UTC 2018: Create project parser
+Tue May 15 13:58:15 UTC 2018: Create slicer
+Tue May 15 13:58:18 UTC 2018: Create call graph
+Tue May 15 13:58:23 UTC 2018: Create point analysis
+Tue May 15 13:58:23 UTC 2018: Create call graph done
+Tue May 15 13:58:23 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.security.UserTest
+Tue May 15 13:58:23 UTC 2018: Setting lastTestMethodIndex: 34610
+Tue May 15 13:58:23 UTC 2018: Starting linking
+Tue May 15 13:58:23 UTC 2018: No link for: ru.aristar.jnuget.security.UserTest-testParseAdministratorUser
+Tue May 15 13:58:23 UTC 2018: No link for: ru.aristar.jnuget.security.UserTest-testParseUserWithIncorrectRoles
+Tue May 15 13:58:23 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.security.UserTest
+Tue May 15 13:58:24 UTC 2018: Found element on the queue
+Tue May 15 13:58:24 UTC 2018: Updating status
+Tue May 15 13:58:24 UTC 2018: Working
+Tue May 15 13:58:26 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.security.UsersOptionsTest
+Tue May 15 13:58:26 UTC 2018: Setting lastTestMethodIndex: 34612
+Tue May 15 13:58:26 UTC 2018: Starting linking
+Tue May 15 13:58:26 UTC 2018: Code found ru.aristar.jnuget.security.UsersOptions-parse with ru.aristar.jnuget.security.UsersOptionsTest-testParseUserOptions
+Tue May 15 13:58:26 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.security.UsersOptionsTest
+Tue May 15 13:58:27 UTC 2018: Found element on the queue
+Tue May 15 13:58:27 UTC 2018: Updating status
+Tue May 15 13:58:27 UTC 2018: Working
+Tue May 15 13:58:29 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.VersionTest
+Tue May 15 13:58:29 UTC 2018: Setting lastTestMethodIndex: 34613
+Tue May 15 13:58:29 UTC 2018: Starting linking
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testConstructor
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testVersionWithThreeDigit
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testNumberVersionCompare
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testGreaterBuild
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testNotNumberVersionCompare
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testGreaterMajor
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testNonReleaseVersion
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testGreaterMinor
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testGreaterRevision
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testNonReleaseVersionNoBuild
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testMinorGreaterBuildLesser
+Tue May 15 13:58:29 UTC 2018: No link for: ru.aristar.jnuget.VersionTest-testFullNonReleaseVersion
+Tue May 15 13:58:29 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.VersionTest
+Tue May 15 13:58:30 UTC 2018: Found element on the queue
+Tue May 15 13:58:30 UTC 2018: Updating status
+Tue May 15 13:58:30 UTC 2018: Working
+Tue May 15 13:58:32 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.rss.NuPkgToRssTransformerTest
+Tue May 15 13:58:32 UTC 2018: Setting lastTestMethodIndex: 34615
+Tue May 15 13:58:32 UTC 2018: Starting linking
+Tue May 15 13:58:32 UTC 2018: Code found ru.aristar.jnuget.rss.NuPkgToRssTransformer-cutPackageList with ru.aristar.jnuget.rss.NuPkgToRssTransformerTest-testCutPackageList
+Tue May 15 13:58:32 UTC 2018: Code found ru.aristar.jnuget.rss.NuPkgToRssTransformer-markLastVersion with ru.aristar.jnuget.rss.NuPkgToRssTransformerTest-testMarkLastVersion
+Tue May 15 13:58:32 UTC 2018: No link for: ru.aristar.jnuget.rss.NuPkgToRssTransformerTest-testGetSublist
+Tue May 15 13:58:32 UTC 2018: No link for: ru.aristar.jnuget.rss.NuPkgToRssTransformerTest-testGetSublistFromOneMessageList
+Tue May 15 13:58:32 UTC 2018: No link for: ru.aristar.jnuget.rss.NuPkgToRssTransformerTest-testGetDefaultTransformer
+Tue May 15 13:58:32 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.rss.NuPkgToRssTransformerTest
+Tue May 15 13:58:33 UTC 2018: Found element on the queue
+Tue May 15 13:58:33 UTC 2018: Updating status
+Tue May 15 13:58:33 UTC 2018: Working
+Tue May 15 13:58:36 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.rss.MainUrlTest
+Tue May 15 13:58:36 UTC 2018: Setting lastTestMethodIndex: 34617
+Tue May 15 13:58:36 UTC 2018: Starting linking
+Tue May 15 13:58:36 UTC 2018: No link for: ru.aristar.jnuget.rss.MainUrlTest-testUnmarshallMainUrlFromXml
+Tue May 15 13:58:36 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.rss.MainUrlTest
+Tue May 15 13:58:36 UTC 2018: Found element on the queue
+Tue May 15 13:58:36 UTC 2018: Updating status
+Tue May 15 13:58:36 UTC 2018: Working
+Tue May 15 13:58:39 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.rss.PackageFeedTest
+Tue May 15 13:58:39 UTC 2018: Setting lastTestMethodIndex: 34619
+Tue May 15 13:58:39 UTC 2018: Starting linking
+Tue May 15 13:58:39 UTC 2018: No link for: ru.aristar.jnuget.rss.PackageFeedTest-testMarshallFeed
+Tue May 15 13:58:39 UTC 2018: No link for: ru.aristar.jnuget.rss.PackageFeedTest-testUnmarshallFeed
+Tue May 15 13:58:39 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.rss.PackageFeedTest
+Tue May 15 13:58:40 UTC 2018: Found element on the queue
+Tue May 15 13:58:40 UTC 2018: Updating status
+Tue May 15 13:58:40 UTC 2018: Working
+Tue May 15 13:58:42 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.rss.PackageIdAndVersionComparatorTest
+Tue May 15 13:58:42 UTC 2018: Setting lastTestMethodIndex: 34621
+Tue May 15 13:58:42 UTC 2018: Starting linking
+Tue May 15 13:58:42 UTC 2018: No link for: ru.aristar.jnuget.rss.PackageIdAndVersionComparatorTest-testOrderPackages
+Tue May 15 13:58:42 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.rss.PackageIdAndVersionComparatorTest
+Tue May 15 13:58:43 UTC 2018: Found element on the queue
+Tue May 15 13:58:43 UTC 2018: Updating status
+Tue May 15 13:58:43 UTC 2018: Working
+Tue May 15 13:58:45 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.rss.PackageUpdateDateDescComparatorTest
+Tue May 15 13:58:45 UTC 2018: Setting lastTestMethodIndex: 34623
+Tue May 15 13:58:45 UTC 2018: Starting linking
+Tue May 15 13:58:45 UTC 2018: Code found ru.aristar.jnuget.rss.PackageUpdateDateDescComparator-compare with ru.aristar.jnuget.rss.PackageUpdateDateDescComparatorTest-testCompare
+Tue May 15 13:58:45 UTC 2018: No link for: ru.aristar.jnuget.rss.PackageUpdateDateDescComparatorTest-testArraySort
+Tue May 15 13:58:45 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.rss.PackageUpdateDateDescComparatorTest
+Tue May 15 13:58:46 UTC 2018: Found element on the queue
+Tue May 15 13:58:46 UTC 2018: Updating status
+Tue May 15 13:58:46 UTC 2018: Working
+Tue May 15 13:58:48 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.rss.NugetPrefixFilterTest
+Tue May 15 13:58:48 UTC 2018: Setting lastTestMethodIndex: 34625
+Tue May 15 13:58:48 UTC 2018: Starting linking
+Tue May 15 13:58:48 UTC 2018: No link for: ru.aristar.jnuget.rss.NugetPrefixFilterTest-testFilterClass
+Tue May 15 13:58:48 UTC 2018: No link for: ru.aristar.jnuget.rss.NugetPrefixFilterTest-testClearRealRss
+Tue May 15 13:58:48 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.rss.NugetPrefixFilterTest
+Tue May 15 13:58:49 UTC 2018: Found element on the queue
+Tue May 15 13:58:49 UTC 2018: Updating status
+Tue May 15 13:58:49 UTC 2018: Working
+Tue May 15 13:58:52 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.rss.EntryPropertiesTest
+Tue May 15 13:58:52 UTC 2018: Setting lastTestMethodIndex: 34626
+Tue May 15 13:58:52 UTC 2018: Starting linking
+Tue May 15 13:58:52 UTC 2018: Code found ru.aristar.jnuget.rss.EntryProperties-getDependenciesList with ru.aristar.jnuget.rss.EntryPropertiesTest-testGetDependenciesListFromOneElement
+Tue May 15 13:58:52 UTC 2018: Code found ru.aristar.jnuget.rss.EntryProperties-getDependenciesList with ru.aristar.jnuget.rss.EntryPropertiesTest-testGetDependenciesListFromEmptyString
+Tue May 15 13:58:52 UTC 2018: Code found ru.aristar.jnuget.rss.EntryProperties-setDependenciesList with ru.aristar.jnuget.rss.EntryPropertiesTest-testSetDependenciesList
+Tue May 15 13:58:52 UTC 2018: Code found ru.aristar.jnuget.rss.EntryProperties-getDependenciesList with ru.aristar.jnuget.rss.EntryPropertiesTest-testGetDependenciesList
+Tue May 15 13:58:52 UTC 2018: Code found ru.aristar.jnuget.rss.EntryProperties-getDependenciesList with ru.aristar.jnuget.rss.EntryPropertiesTest-testGetDependenciesListPipeLinrSeparated
+Tue May 15 13:58:52 UTC 2018: Code found ru.aristar.jnuget.rss.EntryProperties-parse with ru.aristar.jnuget.rss.EntryPropertiesTest-testParseProperties
+Tue May 15 13:58:52 UTC 2018: No link for: ru.aristar.jnuget.rss.EntryPropertiesTest-testConvertNuspecWithDependencies
+Tue May 15 13:58:52 UTC 2018: No link for: ru.aristar.jnuget.rss.EntryPropertiesTest-testConvertNuspecToEntryProperties
+Tue May 15 13:58:52 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.rss.EntryPropertiesTest
+Tue May 15 13:58:53 UTC 2018: Found element on the queue
+Tue May 15 13:58:53 UTC 2018: Updating status
+Tue May 15 13:58:53 UTC 2018: Working
+Tue May 15 13:58:55 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.files.RemoteNupkgTest
+Tue May 15 13:58:55 UTC 2018: Setting lastTestMethodIndex: 34628
+Tue May 15 13:58:55 UTC 2018: Starting linking
+Tue May 15 13:58:55 UTC 2018: No link for: ru.aristar.jnuget.files.RemoteNupkgTest-testCreateRemoteNupkg
+Tue May 15 13:58:55 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.files.RemoteNupkgTest
+Tue May 15 13:58:56 UTC 2018: Found element on the queue
+Tue May 15 13:58:56 UTC 2018: Updating status
+Tue May 15 13:58:56 UTC 2018: Working
+Tue May 15 13:58:58 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.files.nuspec.DependencyTest
+Tue May 15 13:58:58 UTC 2018: Setting lastTestMethodIndex: 34630
+Tue May 15 13:58:58 UTC 2018: Starting linking
+Tue May 15 13:58:58 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.nuspec.DependencyTest-testParse
+Tue May 15 13:58:58 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.nuspec.DependencyTest-testParseFixedVersionDependency
+Tue May 15 13:58:58 UTC 2018: No link for: ru.aristar.jnuget.files.nuspec.DependencyTest-testParseLastVersionDependency
+Tue May 15 13:58:58 UTC 2018: No link for: ru.aristar.jnuget.files.nuspec.DependencyTest-testParseNonReleaseVersionDependency
+Tue May 15 13:58:58 UTC 2018: No link for: ru.aristar.jnuget.files.nuspec.DependencyTest-testParseNonReleaseDependency
+Tue May 15 13:58:58 UTC 2018: No link for: ru.aristar.jnuget.files.nuspec.DependencyTest-testParceDependencyAllFrameworks
+Tue May 15 13:58:58 UTC 2018: No link for: ru.aristar.jnuget.files.nuspec.DependencyTest-testParceDependencyFixedFramework
+Tue May 15 13:58:58 UTC 2018: No link for: ru.aristar.jnuget.files.nuspec.DependencyTest-testToString
+Tue May 15 13:58:58 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.files.nuspec.DependencyTest
+Tue May 15 13:58:59 UTC 2018: Found element on the queue
+Tue May 15 13:58:59 UTC 2018: Updating status
+Tue May 15 13:58:59 UTC 2018: Working
+Tue May 15 13:59:02 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.files.TempNupkgFileTest
+Tue May 15 13:59:02 UTC 2018: Setting lastTestMethodIndex: 34632
+Tue May 15 13:59:02 UTC 2018: Starting linking
+Tue May 15 13:59:02 UTC 2018: Code found ru.aristar.jnuget.files.ClassicNupkg-getFileName with ru.aristar.jnuget.files.TempNupkgFileTest-testGetFileName
+Tue May 15 13:59:02 UTC 2018: No link for: ru.aristar.jnuget.files.TempNupkgFileTest-testGetNuspecTmpFile
+Tue May 15 13:59:02 UTC 2018: No link for: ru.aristar.jnuget.files.TempNupkgFileTest-testHashTempFile
+Tue May 15 13:59:02 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.files.TempNupkgFileTest
+Tue May 15 13:59:02 UTC 2018: Found element on the queue
+Tue May 15 13:59:02 UTC 2018: Updating status
+Tue May 15 13:59:02 UTC 2018: Working
+Tue May 15 13:59:05 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.files.ClassicNupkgTest
+Tue May 15 13:59:05 UTC 2018: Setting lastTestMethodIndex: 34634
+Tue May 15 13:59:05 UTC 2018: Starting linking
+Tue May 15 13:59:05 UTC 2018: Code found ru.aristar.jnuget.Version-parse with ru.aristar.jnuget.files.ClassicNupkgTest-testParseWithFullVersion
+Tue May 15 13:59:05 UTC 2018: No link for: ru.aristar.jnuget.files.ClassicNupkgTest-testGetDateUpdated
+Tue May 15 13:59:05 UTC 2018: No link for: ru.aristar.jnuget.files.ClassicNupkgTest-testReadNuspecFromPackage
+Tue May 15 13:59:05 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.files.ClassicNupkgTest
+Tue May 15 13:59:06 UTC 2018: Found element on the queue
+Tue May 15 13:59:06 UTC 2018: Updating status
+Tue May 15 13:59:06 UTC 2018: Working
+Tue May 15 13:59:09 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.files.FrameworksTest
+Tue May 15 13:59:09 UTC 2018: Setting lastTestMethodIndex: 34636
+Tue May 15 13:59:09 UTC 2018: Starting linking
+Tue May 15 13:59:09 UTC 2018: No link for: ru.aristar.jnuget.files.FrameworksTest-testParsePlusDelimeted
+Tue May 15 13:59:09 UTC 2018: No link for: ru.aristar.jnuget.files.FrameworksTest-testParse
+Tue May 15 13:59:09 UTC 2018: No link for: ru.aristar.jnuget.files.FrameworksTest-testReadFrameworkRemoteNupkg
+Tue May 15 13:59:09 UTC 2018: No link for: ru.aristar.jnuget.files.FrameworksTest-testGetFullSet
+Tue May 15 13:59:09 UTC 2018: No link for: ru.aristar.jnuget.files.FrameworksTest-testReadFrameworkTempNupkg
+Tue May 15 13:59:09 UTC 2018: No link for: ru.aristar.jnuget.files.FrameworksTest-testParseEmptyString
+Tue May 15 13:59:09 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.files.FrameworksTest
+Tue May 15 13:59:10 UTC 2018: Found element on the queue
+Tue May 15 13:59:10 UTC 2018: Updating status
+Tue May 15 13:59:10 UTC 2018: Working
+Tue May 15 13:59:13 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.files.VersionRangeTest
+Tue May 15 13:59:13 UTC 2018: Setting lastTestMethodIndex: 34638
+Tue May 15 13:59:13 UTC 2018: Starting linking
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringGreaterThanExclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringDoubleInclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.VersionRangeTest-testParseLatestVersion
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.VersionRangeTest-testParseLesserThanInclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.VersionRangeTest-testParseFixedVersion
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringDoubleExclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringLesserThanExclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringLastVersion
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.VersionRangeTest-testParseDoubleExclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringIncludeExclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.VersionRangeTest-testParseGreaterThanExclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringLesserThanInclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.VersionRangeTest-testParseDoubleInclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringGreaterThanInclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.VersionRangeTest-testParseSimpleVersion
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-parse with ru.aristar.jnuget.files.VersionRangeTest-testParseLesserThanExclude
+Tue May 15 13:59:13 UTC 2018: Code found ru.aristar.jnuget.files.VersionRange-toString with ru.aristar.jnuget.files.VersionRangeTest-testToStringFixedVersion
+Tue May 15 13:59:13 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.files.VersionRangeTest
+Tue May 15 13:59:14 UTC 2018: Found element on the queue
+Tue May 15 13:59:14 UTC 2018: Updating status
+Tue May 15 13:59:14 UTC 2018: Working
+Tue May 15 13:59:17 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.files.NugetNamespaceFilterTest
+Tue May 15 13:59:17 UTC 2018: Setting lastTestMethodIndex: 34640
+Tue May 15 13:59:17 UTC 2018: Starting linking
+Tue May 15 13:59:17 UTC 2018: No link for: ru.aristar.jnuget.files.NugetNamespaceFilterTest-testChangeUri
+Tue May 15 13:59:17 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.files.NugetNamespaceFilterTest
+Tue May 15 13:59:18 UTC 2018: Found element on the queue
+Tue May 15 13:59:18 UTC 2018: Updating status
+Tue May 15 13:59:18 UTC 2018: Working
+Tue May 15 13:59:20 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.files.MavenNupkgTest
+Tue May 15 13:59:20 UTC 2018: Setting lastTestMethodIndex: 34642
+Tue May 15 13:59:20 UTC 2018: Starting linking
+Tue May 15 13:59:20 UTC 2018: No link for: ru.aristar.jnuget.files.MavenNupkgTest-testCreateFromFile
+Tue May 15 13:59:20 UTC 2018: No link for: ru.aristar.jnuget.files.MavenNupkgTest-testCreateWhereNoHasheFile
+Tue May 15 13:59:20 UTC 2018: No link for: ru.aristar.jnuget.files.MavenNupkgTest-testCreateWhereNoNuspecFile
+Tue May 15 13:59:20 UTC 2018: No link for: ru.aristar.jnuget.files.MavenNupkgTest-testCreateFromFolder
+Tue May 15 13:59:20 UTC 2018: No link for: ru.aristar.jnuget.files.MavenNupkgTest-testCreateWhereNoPackageFile
+Tue May 15 13:59:20 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.files.MavenNupkgTest
+Tue May 15 13:59:21 UTC 2018: Found element on the queue
+Tue May 15 13:59:21 UTC 2018: Updating status
+Tue May 15 13:59:21 UTC 2018: Working
+Tue May 15 13:59:24 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.VersionTypeAdapterTest
+Tue May 15 13:59:24 UTC 2018: Setting lastTestMethodIndex: 34644
+Tue May 15 13:59:24 UTC 2018: Starting linking
+Tue May 15 13:59:24 UTC 2018: Code found ru.aristar.jnuget.VersionTypeAdapter-unmarshal with ru.aristar.jnuget.VersionTypeAdapterTest-testUnmarshal
+Tue May 15 13:59:24 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.VersionTypeAdapterTest
+Tue May 15 13:59:24 UTC 2018: Found element on the queue
+Tue May 15 13:59:24 UTC 2018: Updating status
+Tue May 15 13:59:24 UTC 2018: Working
+Tue May 15 13:59:27 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.query.QueryLexerTest
+Tue May 15 13:59:27 UTC 2018: Setting lastTestMethodIndex: 34646
+Tue May 15 13:59:27 UTC 2018: Starting linking
+Tue May 15 13:59:27 UTC 2018: Code found ru.aristar.jnuget.query.EmptyExpression-filter with ru.aristar.jnuget.query.QueryLexerTest-testFindSharpDevelopQueryFilter
+Tue May 15 13:59:27 UTC 2018: Code found ru.aristar.jnuget.query.EmptyExpression-execute with ru.aristar.jnuget.query.QueryLexerTest-testFindSharpDevelopQueryExecute
+Tue May 15 13:59:27 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testSimpleGroupEqExpression
+Tue May 15 13:59:27 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testFindTwoOrByIdPackage
+Tue May 15 13:59:27 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testOrTwoEqExpression
+Tue May 15 13:59:28 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testMultipleAndOrExpression
+Tue May 15 13:59:28 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testOrAndMultipleExpression
+Tue May 15 13:59:28 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testLastVersionAndEqExpression
+Tue May 15 13:59:28 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testFindOneIdPackage
+Tue May 15 13:59:28 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testIncorrectQuerryString
+Tue May 15 13:59:28 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testSimpleEqExpression
+Tue May 15 13:59:28 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testFindLastVersionByIdPackage
+Tue May 15 13:59:28 UTC 2018: No link for: ru.aristar.jnuget.query.QueryLexerTest-testSharpDevelopString
+Tue May 15 13:59:28 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.query.QueryLexerTest
+Tue May 15 13:59:28 UTC 2018: Found element on the queue
+Tue May 15 13:59:28 UTC 2018: Updating status
+Tue May 15 13:59:28 UTC 2018: Working
+Tue May 15 13:59:31 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.query.TokenQueueTest
+Tue May 15 13:59:31 UTC 2018: Setting lastTestMethodIndex: 34648
+Tue May 15 13:59:31 UTC 2018: Starting linking
+Tue May 15 13:59:31 UTC 2018: No link for: ru.aristar.jnuget.query.TokenQueueTest-testToArray
+Tue May 15 13:59:31 UTC 2018: No link for: ru.aristar.jnuget.query.TokenQueueTest-testToArrayOfObject
+Tue May 15 13:59:31 UTC 2018: No link for: ru.aristar.jnuget.query.TokenQueueTest-testIsEmpty
+Tue May 15 13:59:31 UTC 2018: No link for: ru.aristar.jnuget.query.TokenQueueTest-testPool
+Tue May 15 13:59:31 UTC 2018: No link for: ru.aristar.jnuget.query.TokenQueueTest-testPeek
+Tue May 15 13:59:31 UTC 2018: No link for: ru.aristar.jnuget.query.TokenQueueTest-testPoolWithComma
+Tue May 15 13:59:31 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.query.TokenQueueTest
+Tue May 15 13:59:32 UTC 2018: Found element on the queue
+Tue May 15 13:59:32 UTC 2018: Updating status
+Tue May 15 13:59:32 UTC 2018: Working
+Tue May 15 13:59:34 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.query.VersionEqTest
+Tue May 15 13:59:34 UTC 2018: Setting lastTestMethodIndex: 34649
+Tue May 15 13:59:34 UTC 2018: Starting linking
+Tue May 15 13:59:34 UTC 2018: Code found ru.aristar.jnuget.query.AndExpression-toString with ru.aristar.jnuget.query.VersionEqTest-testComplexToString
+Tue May 15 13:59:34 UTC 2018: Code found ru.aristar.jnuget.query.AndExpression-execute with ru.aristar.jnuget.query.VersionEqTest-testFilterExecute
+Tue May 15 13:59:34 UTC 2018: No link for: ru.aristar.jnuget.query.VersionEqTest-testParse
+Tue May 15 13:59:34 UTC 2018: No link for: ru.aristar.jnuget.query.VersionEqTest-testToString
+Tue May 15 13:59:34 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.query.VersionEqTest
+Tue May 15 13:59:35 UTC 2018: Found element on the queue
+Tue May 15 13:59:35 UTC 2018: Updating status
+Tue May 15 13:59:35 UTC 2018: Working
+Tue May 15 13:59:37 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.sources.PackageSourceGroupTest
+Tue May 15 13:59:37 UTC 2018: Setting lastTestMethodIndex: 34651
+Tue May 15 13:59:37 UTC 2018: Starting linking
+Tue May 15 13:59:37 UTC 2018: Code found ru.aristar.jnuget.sources.PackageSourceGroup-getPackages with ru.aristar.jnuget.sources.PackageSourceGroupTest-testProxyGetPackages
+Tue May 15 13:59:37 UTC 2018: No link for: ru.aristar.jnuget.sources.PackageSourceGroupTest-testGetLastVersions
+Tue May 15 13:59:37 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.sources.PackageSourceGroupTest
+Tue May 15 13:59:38 UTC 2018: Found element on the queue
+Tue May 15 13:59:38 UTC 2018: Updating status
+Tue May 15 13:59:38 UTC 2018: Working
+Tue May 15 13:59:40 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.sources.IndexTest
+Tue May 15 13:59:40 UTC 2018: Setting lastTestMethodIndex: 34653
+Tue May 15 13:59:40 UTC 2018: Starting linking
+Tue May 15 13:59:40 UTC 2018: No link for: ru.aristar.jnuget.sources.IndexTest-testGetAllPackageVersionById
+Tue May 15 13:59:40 UTC 2018: No link for: ru.aristar.jnuget.sources.IndexTest-testLoadEmptyIndex
+Tue May 15 13:59:40 UTC 2018: No link for: ru.aristar.jnuget.sources.IndexTest-testGetAllPackages
+Tue May 15 13:59:40 UTC 2018: No link for: ru.aristar.jnuget.sources.IndexTest-testGetLastVersions
+Tue May 15 13:59:40 UTC 2018: No link for: ru.aristar.jnuget.sources.IndexTest-testGetIndexSize
+Tue May 15 13:59:40 UTC 2018: No link for: ru.aristar.jnuget.sources.IndexTest-testGetAllPackageVersionByIdWhenNoPackages
+Tue May 15 13:59:40 UTC 2018: No link for: ru.aristar.jnuget.sources.IndexTest-testSaveEmptyIndex
+Tue May 15 13:59:41 UTC 2018: No link for: ru.aristar.jnuget.sources.IndexTest-testSaveNonEmptyIndex
+Tue May 15 13:59:41 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.sources.IndexTest
+Tue May 15 13:59:41 UTC 2018: Found element on the queue
+Tue May 15 13:59:41 UTC 2018: Updating status
+Tue May 15 13:59:41 UTC 2018: Working
+Tue May 15 13:59:44 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.sources.push.RemoveOldVersionTriggerTest
+Tue May 15 13:59:44 UTC 2018: Setting lastTestMethodIndex: 34655
+Tue May 15 13:59:44 UTC 2018: Starting linking
+Tue May 15 13:59:44 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.sources.push.RemoveOldVersionTriggerTest
+Tue May 15 13:59:45 UTC 2018: Found element on the queue
+Tue May 15 13:59:45 UTC 2018: Updating status
+Tue May 15 13:59:45 UTC 2018: Working
+Tue May 15 13:59:47 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.common.OptionConverterTest
+Tue May 15 13:59:47 UTC 2018: Setting lastTestMethodIndex: 34657
+Tue May 15 13:59:47 UTC 2018: Starting linking
+Tue May 15 13:59:48 UTC 2018: Code found ru.aristar.jnuget.common.OptionConverter-replaceVariables with ru.aristar.jnuget.common.OptionConverterTest-testReplaceVariables
+Tue May 15 13:59:48 UTC 2018: No link for: ru.aristar.jnuget.common.OptionConverterTest-testReplaceSystemVariables
+Tue May 15 13:59:48 UTC 2018: No link for: ru.aristar.jnuget.common.OptionConverterTest-testReplaceLoclizationVariables
+Tue May 15 13:59:48 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.common.OptionConverterTest
+Tue May 15 13:59:48 UTC 2018: Found element on the queue
+Tue May 15 13:59:48 UTC 2018: Updating status
+Tue May 15 13:59:48 UTC 2018: Working
+Tue May 15 13:59:51 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.ui.StorageContentsControllerTest
+Tue May 15 13:59:51 UTC 2018: Setting lastTestMethodIndex: 34659
+Tue May 15 13:59:51 UTC 2018: Starting linking
+Tue May 15 13:59:51 UTC 2018: Code found ru.aristar.jnuget.ui.StorageContentsController-getSkipList with ru.aristar.jnuget.ui.StorageContentsControllerTest-testGetSkipListAllPackagesOnMultiplePageFirstPage
+Tue May 15 13:59:52 UTC 2018: Code found ru.aristar.jnuget.ui.StorageContentsController-getSkipList with ru.aristar.jnuget.ui.StorageContentsControllerTest-testGetSkipListAllPackagesOnMultiplePageLastPage
+Tue May 15 13:59:52 UTC 2018: Code found ru.aristar.jnuget.ui.StorageContentsController-getSkipList with ru.aristar.jnuget.ui.StorageContentsControllerTest-testGetSkipListAllPackagesOnOnePage
+Tue May 15 13:59:52 UTC 2018: Code found ru.aristar.jnuget.ui.StorageContentsController-getSkipList with ru.aristar.jnuget.ui.StorageContentsControllerTest-testGetSkipListAllPackagesOnTwoPageLastPage
+Tue May 15 13:59:52 UTC 2018: Code found ru.aristar.jnuget.ui.StorageContentsController-getSkipList with ru.aristar.jnuget.ui.StorageContentsControllerTest-testGetSkipListRealPackages
+Tue May 15 13:59:52 UTC 2018: Code found ru.aristar.jnuget.ui.StorageContentsController-getSkipList with ru.aristar.jnuget.ui.StorageContentsControllerTest-testGetSkipListAllPackagesOnTwoPage
+Tue May 15 13:59:52 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.ui.StorageContentsControllerTest
+Tue May 15 13:59:53 UTC 2018: Found element on the queue
+Tue May 15 13:59:53 UTC 2018: Updating status
+Tue May 15 13:59:53 UTC 2018: Working
+Tue May 15 13:59:55 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.ui.descriptors.DescriptorsFactoryTest
+Tue May 15 13:59:55 UTC 2018: Setting lastTestMethodIndex: 34661
+Tue May 15 13:59:55 UTC 2018: Starting linking
+Tue May 15 13:59:55 UTC 2018: Code found ru.aristar.jnuget.ui.descriptors.DescriptorsFactory-getPackageSourceDescriptor with ru.aristar.jnuget.ui.descriptors.DescriptorsFactoryTest-testGetPackageSourceDescriptor
+Tue May 15 13:59:55 UTC 2018: Code found ru.aristar.jnuget.ui.descriptors.DescriptorsFactory-loadDescriptors with ru.aristar.jnuget.ui.descriptors.DescriptorsFactoryTest-testLoadDescriptors
+Tue May 15 13:59:55 UTC 2018: No link for: ru.aristar.jnuget.ui.descriptors.DescriptorsFactoryTest-testLoadDescriptorsForTrigger
+Tue May 15 13:59:55 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.ui.descriptors.DescriptorsFactoryTest
+Tue May 15 13:59:56 UTC 2018: Found element on the queue
+Tue May 15 13:59:56 UTC 2018: Updating status
+Tue May 15 13:59:56 UTC 2018: Working
+Tue May 15 13:59:58 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.ui.StorageOptionsControllerTest
+Tue May 15 13:59:58 UTC 2018: Setting lastTestMethodIndex: 34663
+Tue May 15 13:59:58 UTC 2018: Starting linking
+Tue May 15 13:59:58 UTC 2018: No link for: ru.aristar.jnuget.ui.StorageOptionsControllerTest-testGetObjectProperties
+Tue May 15 13:59:58 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.ui.StorageOptionsControllerTest
+Tue May 15 13:59:59 UTC 2018: Found element on the queue
+Tue May 15 13:59:59 UTC 2018: Updating status
+Tue May 15 13:59:59 UTC 2018: Working
+Tue May 15 14:00:01 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.StringListTypeAdapterTest
+Tue May 15 14:00:01 UTC 2018: Setting lastTestMethodIndex: 34664
+Tue May 15 14:00:01 UTC 2018: Starting linking
+Tue May 15 14:00:01 UTC 2018: Code found ru.aristar.jnuget.StringListTypeAdapter-unmarshal with ru.aristar.jnuget.StringListTypeAdapterTest-testMarshalUnmarshalWhenSingleWhitespacedInput
+Tue May 15 14:00:01 UTC 2018: Code found ru.aristar.jnuget.StringListTypeAdapter-unmarshal with ru.aristar.jnuget.StringListTypeAdapterTest-testMarshalUnmarshalWhenMultipleInput
+Tue May 15 14:00:01 UTC 2018: Code found ru.aristar.jnuget.StringListTypeAdapter-unmarshal with ru.aristar.jnuget.StringListTypeAdapterTest-testMarshalUnmarshalWhenSingleInput
+Tue May 15 14:00:01 UTC 2018: Code found ru.aristar.jnuget.StringListTypeAdapter-unmarshal with ru.aristar.jnuget.StringListTypeAdapterTest-testMarshalUnmarshalWhenEmptyInput
+Tue May 15 14:00:01 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.StringListTypeAdapterTest
+Tue May 15 14:00:02 UTC 2018: Found element on the queue
+Tue May 15 14:00:02 UTC 2018: Updating status
+Tue May 15 14:00:02 UTC 2018: Working
+Tue May 15 14:00:05 UTC 2018: Start curator__jnuge test class ru.aristar.jnuget.QueryExecutorTest
+Tue May 15 14:00:05 UTC 2018: Setting lastTestMethodIndex: 34666
+Tue May 15 14:00:05 UTC 2018: Starting linking
+Tue May 15 14:00:05 UTC 2018: Code found ru.aristar.jnuget.QueryExecutor-execQuery with ru.aristar.jnuget.QueryExecutorTest-testExecQueryWithNull
+Tue May 15 14:00:05 UTC 2018: Code found ru.aristar.jnuget.QueryExecutor-execQuery with ru.aristar.jnuget.QueryExecutorTest-testExecQueryWithBlankSearchTerm
+Tue May 15 14:00:05 UTC 2018: Code found ru.aristar.jnuget.QueryExecutor-execQuery with ru.aristar.jnuget.QueryExecutorTest-testExecQueryWithLastVersion
+Tue May 15 14:00:05 UTC 2018: Code found ru.aristar.jnuget.QueryExecutor-execQuery with ru.aristar.jnuget.QueryExecutorTest-testExecQueryWithNullSearchTerm
+Tue May 15 14:00:05 UTC 2018: Code found ru.aristar.jnuget.QueryExecutor-execQuery with ru.aristar.jnuget.QueryExecutorTest-testExecQueryWithId
+Tue May 15 14:00:05 UTC 2018: Code found ru.aristar.jnuget.QueryExecutor-execQuery with ru.aristar.jnuget.QueryExecutorTest-testExecQueryWithQuotesSearchTerm
+Tue May 15 14:00:05 UTC 2018: Code found ru.aristar.jnuget.QueryExecutor-execQuery with ru.aristar.jnuget.QueryExecutorTest-testExecQueryWithSearchTerm
+Tue May 15 14:00:05 UTC 2018: Code found ru.aristar.jnuget.QueryExecutor-execQuery with ru.aristar.jnuget.QueryExecutorTest-testExecQueryWithSearchTermInUpperCase
+Tue May 15 14:00:05 UTC 2018: No link for: ru.aristar.jnuget.QueryExecutorTest-testGetRealQuerry
+Tue May 15 14:00:05 UTC 2018: No link for: ru.aristar.jnuget.QueryExecutorTest-testGetPackagesWithDirectFrameWork
+Tue May 15 14:00:05 UTC 2018: No link for: ru.aristar.jnuget.QueryExecutorTest-testGetWithFrameworkSpecification
+Tue May 15 14:00:05 UTC 2018: Linking done for curator__jnuge test class ru.aristar.jnuget.QueryExecutorTest

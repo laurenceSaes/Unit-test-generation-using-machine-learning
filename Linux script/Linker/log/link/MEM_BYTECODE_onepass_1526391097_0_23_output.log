@@ -1,0 +1,130 @@
+Tue May 15 15:17:42 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 15:17:43 UTC 2018: Starting
+Tue May 15 15:17:43 UTC 2018: Found element on the queue
+Tue May 15 15:17:43 UTC 2018: Updating status
+Tue May 15 15:17:43 UTC 2018: Working
+Tue May 15 15:17:43 UTC 2018: Create project parser
+Tue May 15 15:17:47 UTC 2018: Create slicer
+Tue May 15 15:17:49 UTC 2018: Create call graph
+Tue May 15 15:17:51 UTC 2018: Create point analysis
+Tue May 15 15:17:51 UTC 2018: Create call graph done
+Tue May 15 15:17:51 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.utils.TestCoordinate
+Tue May 15 15:17:51 UTC 2018: Setting lastTestMethodIndex: 36331
+Tue May 15 15:17:51 UTC 2018: Starting linking
+Tue May 15 15:17:51 UTC 2018: Code found ch.zhaw.labyrinth.model.utils.Coordinate-hashCode with ch.zhaw.labyrinth.model.utils.TestCoordinate-testHashCode
+Tue May 15 15:17:51 UTC 2018: Code found ch.zhaw.labyrinth.model.utils.Coordinate-equals with ch.zhaw.labyrinth.model.utils.TestCoordinate-testEquals
+Tue May 15 15:17:51 UTC 2018: No link for: ch.zhaw.labyrinth.model.utils.TestCoordinate-testConstructor
+Tue May 15 15:17:51 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.utils.TestCoordinate
+Tue May 15 15:17:52 UTC 2018: Found element on the queue
+Tue May 15 15:17:52 UTC 2018: Updating status
+Tue May 15 15:17:52 UTC 2018: Working
+Tue May 15 15:17:54 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.utils.TestCell
+Tue May 15 15:17:54 UTC 2018: Setting lastTestMethodIndex: 36332
+Tue May 15 15:17:54 UTC 2018: Starting linking
+Tue May 15 15:17:54 UTC 2018: Code found ch.zhaw.labyrinth.model.utils.Cell-setPath with ch.zhaw.labyrinth.model.utils.TestCell-testSetPath
+Tue May 15 15:17:54 UTC 2018: No link for: ch.zhaw.labyrinth.model.utils.TestCell-testSetVisited
+Tue May 15 15:17:54 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.utils.TestCell
+Tue May 15 15:17:54 UTC 2018: Found element on the queue
+Tue May 15 15:17:54 UTC 2018: Updating status
+Tue May 15 15:17:54 UTC 2018: Working
+Tue May 15 15:17:57 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.utils.TestLabyrinth
+Tue May 15 15:17:57 UTC 2018: Setting lastTestMethodIndex: 36333
+Tue May 15 15:17:57 UTC 2018: Starting linking
+Tue May 15 15:17:57 UTC 2018: Code found ch.zhaw.labyrinth.model.MazeModel-setExit with ch.zhaw.labyrinth.model.utils.TestLabyrinth-testGetAndSetExit
+Tue May 15 15:17:57 UTC 2018: Code found ch.zhaw.labyrinth.model.MazeModel-setEntry with ch.zhaw.labyrinth.model.utils.TestLabyrinth-testGetAndSetEntry
+Tue May 15 15:17:57 UTC 2018: Code found ch.zhaw.labyrinth.model.MazeModel-getDimension with ch.zhaw.labyrinth.model.utils.TestLabyrinth-testGetDimension
+Tue May 15 15:17:57 UTC 2018: No link for: ch.zhaw.labyrinth.model.utils.TestLabyrinth-testIsVisited
+Tue May 15 15:17:57 UTC 2018: No link for: ch.zhaw.labyrinth.model.utils.TestLabyrinth-testGetAndSetCellAt
+Tue May 15 15:17:57 UTC 2018: No link for: ch.zhaw.labyrinth.model.utils.TestLabyrinth-testCreateEmptyMaze
+Tue May 15 15:17:57 UTC 2018: No link for: ch.zhaw.labyrinth.model.utils.TestLabyrinth-testGetAndSetCellAtCoordinate
+Tue May 15 15:17:57 UTC 2018: No link for: ch.zhaw.labyrinth.model.utils.TestLabyrinth-testRandomInt
+Tue May 15 15:17:57 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.utils.TestLabyrinth
+Tue May 15 15:17:58 UTC 2018: Found element on the queue
+Tue May 15 15:17:58 UTC 2018: Updating status
+Tue May 15 15:17:58 UTC 2018: Working
+Tue May 15 15:18:00 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.builder.TestImport
+Tue May 15 15:18:00 UTC 2018: Setting lastTestMethodIndex: 36334
+Tue May 15 15:18:00 UTC 2018: Starting linking
+Tue May 15 15:18:00 UTC 2018: No link for: ch.zhaw.labyrinth.model.builder.TestImport-testImportEntry
+Tue May 15 15:18:00 UTC 2018: No link for: ch.zhaw.labyrinth.model.builder.TestImport-testImportExit
+Tue May 15 15:18:00 UTC 2018: No link for: ch.zhaw.labyrinth.model.builder.TestImport-testWrongFileFormat
+Tue May 15 15:18:00 UTC 2018: No link for: ch.zhaw.labyrinth.model.builder.TestImport-testSomeWalls
+Tue May 15 15:18:01 UTC 2018: No link for: ch.zhaw.labyrinth.model.builder.TestImport-testSomePaths
+Tue May 15 15:18:01 UTC 2018: No link for: ch.zhaw.labyrinth.model.builder.TestImport-testFileIsReadable
+Tue May 15 15:18:01 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.builder.TestImport
+Tue May 15 15:18:01 UTC 2018: Found element on the queue
+Tue May 15 15:18:01 UTC 2018: Updating status
+Tue May 15 15:18:01 UTC 2018: Working
+Tue May 15 15:18:03 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.builder.TestDFS
+Tue May 15 15:18:03 UTC 2018: Setting lastTestMethodIndex: 36335
+Tue May 15 15:18:03 UTC 2018: Starting linking
+Tue May 15 15:18:03 UTC 2018: No link for: ch.zhaw.labyrinth.model.builder.TestDFS-testDimension
+Tue May 15 15:18:04 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.builder.TestDFS
+Tue May 15 15:18:04 UTC 2018: Found element on the queue
+Tue May 15 15:18:04 UTC 2018: Updating status
+Tue May 15 15:18:04 UTC 2018: Working
+Tue May 15 15:18:06 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestWest
+Tue May 15 15:18:06 UTC 2018: Setting lastTestMethodIndex: 36336
+Tue May 15 15:18:06 UTC 2018: Starting linking
+Tue May 15 15:18:06 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.West-isBack with ch.zhaw.labyrinth.model.solver.heading.TestWest-testIsBack
+Tue May 15 15:18:06 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.West-isStraight with ch.zhaw.labyrinth.model.solver.heading.TestWest-testIsStraight
+Tue May 15 15:18:06 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.West-goRight with ch.zhaw.labyrinth.model.solver.heading.TestWest-testGoRight
+Tue May 15 15:18:06 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.West-isRight with ch.zhaw.labyrinth.model.solver.heading.TestWest-testIsRight
+Tue May 15 15:18:07 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.West-isLeft with ch.zhaw.labyrinth.model.solver.heading.TestWest-testIsLeft
+Tue May 15 15:18:07 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.West-goLeft with ch.zhaw.labyrinth.model.solver.heading.TestWest-testGoLeft
+Tue May 15 15:18:07 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.West-goStraight with ch.zhaw.labyrinth.model.solver.heading.TestWest-testGoStraight
+Tue May 15 15:18:07 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.West-goBack with ch.zhaw.labyrinth.model.solver.heading.TestWest-testGoBack
+Tue May 15 15:18:07 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestWest
+Tue May 15 15:18:07 UTC 2018: Found element on the queue
+Tue May 15 15:18:07 UTC 2018: Updating status
+Tue May 15 15:18:07 UTC 2018: Working
+Tue May 15 15:18:10 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestNorth
+Tue May 15 15:18:10 UTC 2018: Setting lastTestMethodIndex: 36337
+Tue May 15 15:18:10 UTC 2018: Starting linking
+Tue May 15 15:18:10 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.North-isStraight with ch.zhaw.labyrinth.model.solver.heading.TestNorth-testIsStraight
+Tue May 15 15:18:10 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.North-isBack with ch.zhaw.labyrinth.model.solver.heading.TestNorth-testIsBack
+Tue May 15 15:18:10 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.North-goBack with ch.zhaw.labyrinth.model.solver.heading.TestNorth-testGoBack
+Tue May 15 15:18:10 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.North-goRight with ch.zhaw.labyrinth.model.solver.heading.TestNorth-testGoRight
+Tue May 15 15:18:10 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.North-isRight with ch.zhaw.labyrinth.model.solver.heading.TestNorth-testIsRight
+Tue May 15 15:18:10 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.North-goLeft with ch.zhaw.labyrinth.model.solver.heading.TestNorth-testGoLeft
+Tue May 15 15:18:10 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.North-goStraight with ch.zhaw.labyrinth.model.solver.heading.TestNorth-testGoStraight
+Tue May 15 15:18:10 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.North-isLeft with ch.zhaw.labyrinth.model.solver.heading.TestNorth-testIsLeft
+Tue May 15 15:18:10 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestNorth
+Tue May 15 15:18:11 UTC 2018: Found element on the queue
+Tue May 15 15:18:11 UTC 2018: Updating status
+Tue May 15 15:18:11 UTC 2018: Working
+Tue May 15 15:18:13 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestEast
+Tue May 15 15:18:13 UTC 2018: Setting lastTestMethodIndex: 36338
+Tue May 15 15:18:13 UTC 2018: Starting linking
+Tue May 15 15:18:13 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-goBack with ch.zhaw.labyrinth.model.solver.heading.TestEast-testGoBack
+Tue May 15 15:18:13 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-goRight with ch.zhaw.labyrinth.model.solver.heading.TestEast-testGoRight
+Tue May 15 15:18:13 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-isStraight with ch.zhaw.labyrinth.model.solver.heading.TestEast-testIsStraight
+Tue May 15 15:18:13 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-isRight with ch.zhaw.labyrinth.model.solver.heading.TestEast-testIsRight
+Tue May 15 15:18:13 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-isBack with ch.zhaw.labyrinth.model.solver.heading.TestEast-testIsBack
+Tue May 15 15:18:13 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-goLeft with ch.zhaw.labyrinth.model.solver.heading.TestEast-testGoLeft
+Tue May 15 15:18:14 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-goStraight with ch.zhaw.labyrinth.model.solver.heading.TestEast-testGoStraight
+Tue May 15 15:18:14 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-isLeft with ch.zhaw.labyrinth.model.solver.heading.TestEast-testIsLeft
+Tue May 15 15:18:14 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestEast
+Tue May 15 15:18:14 UTC 2018: Found element on the queue
+Tue May 15 15:18:14 UTC 2018: Updating status
+Tue May 15 15:18:14 UTC 2018: Working
+Tue May 15 15:18:16 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestAbstract
+Tue May 15 15:18:16 UTC 2018: Setting lastTestMethodIndex: 36339
+Tue May 15 15:18:16 UTC 2018: Starting linking
+Tue May 15 15:18:16 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.East-getCoordinate with ch.zhaw.labyrinth.model.solver.heading.TestAbstract-testGetCoordinate
+Tue May 15 15:18:16 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestAbstract
+Tue May 15 15:18:17 UTC 2018: Found element on the queue
+Tue May 15 15:18:17 UTC 2018: Updating status
+Tue May 15 15:18:17 UTC 2018: Working
+Tue May 15 15:18:19 UTC 2018: Start do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestSouth
+Tue May 15 15:18:19 UTC 2018: Setting lastTestMethodIndex: 36340
+Tue May 15 15:18:19 UTC 2018: Starting linking
+Tue May 15 15:18:19 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.South-isStraight with ch.zhaw.labyrinth.model.solver.heading.TestSouth-testIsStraight
+Tue May 15 15:18:19 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.South-goStraight with ch.zhaw.labyrinth.model.solver.heading.TestSouth-testGoStraight
+Tue May 15 15:18:19 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.South-goBack with ch.zhaw.labyrinth.model.solver.heading.TestSouth-testGoBack
+Tue May 15 15:18:19 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.South-isBack with ch.zhaw.labyrinth.model.solver.heading.TestSouth-testIsBack
+Tue May 15 15:18:19 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.South-goLeft with ch.zhaw.labyrinth.model.solver.heading.TestSouth-testGoLeft
+Tue May 15 15:18:19 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.South-isRight with ch.zhaw.labyrinth.model.solver.heading.TestSouth-testIsRight
+Tue May 15 15:18:19 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.South-isLeft with ch.zhaw.labyrinth.model.solver.heading.TestSouth-testIsLeft
+Tue May 15 15:18:20 UTC 2018: Code found ch.zhaw.labyrinth.model.solver.heading.South-goRight with ch.zhaw.labyrinth.model.solver.heading.TestSouth-testGoRight
+Tue May 15 15:18:20 UTC 2018: Linking done for do3meli__Labyrinth test class ch.zhaw.labyrinth.model.solver.heading.TestSouth

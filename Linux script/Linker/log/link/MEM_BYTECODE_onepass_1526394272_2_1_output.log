@@ -1,0 +1,180 @@
+Tue May 15 14:24:32 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 14:24:33 UTC 2018: Starting
+Tue May 15 14:24:37 UTC 2018: Found element on the queue
+Tue May 15 14:24:37 UTC 2018: Updating status
+Tue May 15 14:24:37 UTC 2018: Working
+Tue May 15 14:24:37 UTC 2018: Create project parser
+Tue May 15 14:24:49 UTC 2018: Create slicer
+Tue May 15 14:24:52 UTC 2018: Create call graph
+Tue May 15 14:24:57 UTC 2018: Create point analysis
+Tue May 15 14:24:57 UTC 2018: Create call graph done
+Tue May 15 14:24:57 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.parser.apdu.AnnotationDataTest
+Tue May 15 14:24:57 UTC 2018: Setting lastTestMethodIndex: 35366
+Tue May 15 14:24:57 UTC 2018: Starting linking
+Tue May 15 14:24:57 UTC 2018: No link for: com.github.devnied.emvnfccard.parser.apdu.AnnotationDataTest-testEquals
+Tue May 15 14:24:57 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.parser.apdu.AnnotationDataTest
+Tue May 15 14:24:58 UTC 2018: Found element on the queue
+Tue May 15 14:24:58 UTC 2018: Updating status
+Tue May 15 14:24:58 UTC 2018: Working
+Tue May 15 14:25:01 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.TlvUtilTest
+Tue May 15 14:25:01 UTC 2018: Setting lastTestMethodIndex: 35370
+Tue May 15 14:25:01 UTC 2018: Starting linking
+Tue May 15 14:25:01 UTC 2018: Code found com.github.devnied.emvnfccard.utils.TlvUtil-getLength with com.github.devnied.emvnfccard.utils.TlvUtilTest-testGetLength
+Tue May 15 14:25:01 UTC 2018: Code found com.github.devnied.emvnfccard.utils.TlvUtil-getFormattedTagAndLength with com.github.devnied.emvnfccard.utils.TlvUtilTest-testGetFormattedTagAndLength
+Tue May 15 14:25:02 UTC 2018: Code found com.github.devnied.emvnfccard.utils.TlvUtil-parseTagAndLength with com.github.devnied.emvnfccard.utils.TlvUtilTest-testParseTagAndLength
+Tue May 15 14:25:02 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.TlvUtilTest-testSearchTagByIdIn
+Tue May 15 14:25:02 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.TlvUtilTest-testListTLV
+Tue May 15 14:25:02 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.TlvUtilTest-testGetTagValueAsString
+Tue May 15 14:25:02 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.TlvUtilTest-testSearchTagById
+Tue May 15 14:25:02 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.TlvUtilTest-test
+Tue May 15 14:25:02 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.TlvUtilTest
+Tue May 15 14:25:03 UTC 2018: Found element on the queue
+Tue May 15 14:25:03 UTC 2018: Updating status
+Tue May 15 14:25:03 UTC 2018: Working
+Tue May 15 14:25:07 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.AtrTest
+Tue May 15 14:25:07 UTC 2018: Setting lastTestMethodIndex: 35373
+Tue May 15 14:25:07 UTC 2018: Starting linking
+Tue May 15 14:25:07 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.AtrTest-testDescriptionFromATR
+Tue May 15 14:25:07 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.AtrTest-testDescriptionFromATS
+Tue May 15 14:25:07 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.AtrTest
+Tue May 15 14:25:08 UTC 2018: Found element on the queue
+Tue May 15 14:25:08 UTC 2018: Updating status
+Tue May 15 14:25:08 UTC 2018: Working
+Tue May 15 14:25:13 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.ResponseUtilsTest
+Tue May 15 14:25:13 UTC 2018: Setting lastTestMethodIndex: 35377
+Tue May 15 14:25:13 UTC 2018: Starting linking
+Tue May 15 14:25:13 UTC 2018: Code found com.github.devnied.emvnfccard.utils.ResponseUtils-isSucceed with com.github.devnied.emvnfccard.utils.ResponseUtilsTest-testResponseIsSucceed
+Tue May 15 14:25:13 UTC 2018: Code found com.github.devnied.emvnfccard.utils.ResponseUtils-isEquals with com.github.devnied.emvnfccard.utils.ResponseUtilsTest-testResponseIsEquals
+Tue May 15 14:25:13 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.ResponseUtilsTest-testResponseGetSW
+Tue May 15 14:25:13 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.ResponseUtilsTest
+Tue May 15 14:25:14 UTC 2018: Found element on the queue
+Tue May 15 14:25:14 UTC 2018: Updating status
+Tue May 15 14:25:14 UTC 2018: Working
+Tue May 15 14:25:17 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.CommandApduTest
+Tue May 15 14:25:17 UTC 2018: Setting lastTestMethodIndex: 35380
+Tue May 15 14:25:17 UTC 2018: Starting linking
+Tue May 15 14:25:17 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.CommandApduTest-testToByte
+Tue May 15 14:25:17 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.CommandApduTest
+Tue May 15 14:25:18 UTC 2018: Found element on the queue
+Tue May 15 14:25:18 UTC 2018: Updating status
+Tue May 15 14:25:18 UTC 2018: Working
+Tue May 15 14:25:21 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.EnumUtilsTest
+Tue May 15 14:25:22 UTC 2018: Setting lastTestMethodIndex: 35383
+Tue May 15 14:25:22 UTC 2018: Starting linking
+Tue May 15 14:25:22 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.EnumUtilsTest-testEnum
+Tue May 15 14:25:22 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.EnumUtilsTest
+Tue May 15 14:25:22 UTC 2018: Found element on the queue
+Tue May 15 14:25:22 UTC 2018: Updating status
+Tue May 15 14:25:22 UTC 2018: Working
+Tue May 15 14:25:25 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.TrackUtilsTest
+Tue May 15 14:25:25 UTC 2018: Setting lastTestMethodIndex: 35386
+Tue May 15 14:25:25 UTC 2018: Starting linking
+Tue May 15 14:25:25 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.TrackUtilsTest-track2TestNullService
+Tue May 15 14:25:25 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.TrackUtilsTest-track2Test2
+Tue May 15 14:25:25 UTC 2018: No link for: com.github.devnied.emvnfccard.utils.TrackUtilsTest-track2Test
+Tue May 15 14:25:25 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.utils.TrackUtilsTest
+Tue May 15 14:25:26 UTC 2018: Found element on the queue
+Tue May 15 14:25:26 UTC 2018: Updating status
+Tue May 15 14:25:26 UTC 2018: Working
+Tue May 15 14:25:29 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.enums.EmvCardSchemeTest
+Tue May 15 14:25:29 UTC 2018: Setting lastTestMethodIndex: 35388
+Tue May 15 14:25:29 UTC 2018: Starting linking
+Tue May 15 14:25:29 UTC 2018: No link for: com.github.devnied.emvnfccard.enums.EmvCardSchemeTest-testCardType
+Tue May 15 14:25:29 UTC 2018: No link for: com.github.devnied.emvnfccard.enums.EmvCardSchemeTest-testAid
+Tue May 15 14:25:29 UTC 2018: No link for: com.github.devnied.emvnfccard.enums.EmvCardSchemeTest-testMethod
+Tue May 15 14:25:29 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.enums.EmvCardSchemeTest
+Tue May 15 14:25:30 UTC 2018: Found element on the queue
+Tue May 15 14:25:30 UTC 2018: Updating status
+Tue May 15 14:25:30 UTC 2018: Working
+Tue May 15 14:25:32 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.enums.SwEnumTest
+Tue May 15 14:25:32 UTC 2018: Setting lastTestMethodIndex: 35390
+Tue May 15 14:25:32 UTC 2018: Starting linking
+Tue May 15 14:25:32 UTC 2018: No link for: com.github.devnied.emvnfccard.enums.SwEnumTest-test
+Tue May 15 14:25:32 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.enums.SwEnumTest
+Tue May 15 14:25:33 UTC 2018: Found element on the queue
+Tue May 15 14:25:33 UTC 2018: Updating status
+Tue May 15 14:25:33 UTC 2018: Working
+Tue May 15 14:25:36 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.enums.CurrencyEnumTest
+Tue May 15 14:25:36 UTC 2018: Setting lastTestMethodIndex: 35392
+Tue May 15 14:25:36 UTC 2018: Starting linking
+Tue May 15 14:25:36 UTC 2018: No link for: com.github.devnied.emvnfccard.enums.CurrencyEnumTest-test
+Tue May 15 14:25:36 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.enums.CurrencyEnumTest
+Tue May 15 14:25:37 UTC 2018: Found element on the queue
+Tue May 15 14:25:37 UTC 2018: Updating status
+Tue May 15 14:25:37 UTC 2018: Working
+Tue May 15 14:25:39 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.model.EmvCardTest
+Tue May 15 14:25:39 UTC 2018: Setting lastTestMethodIndex: 35394
+Tue May 15 14:25:39 UTC 2018: Starting linking
+Tue May 15 14:25:39 UTC 2018: No link for: com.github.devnied.emvnfccard.model.EmvCardTest-testCard
+Tue May 15 14:25:39 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.model.EmvCardTest
+Tue May 15 14:25:40 UTC 2018: Found element on the queue
+Tue May 15 14:25:40 UTC 2018: Updating status
+Tue May 15 14:25:40 UTC 2018: Working
+Tue May 15 14:25:43 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.model.EmvPaymentCardTest
+Tue May 15 14:25:43 UTC 2018: Setting lastTestMethodIndex: 35396
+Tue May 15 14:25:43 UTC 2018: Starting linking
+Tue May 15 14:25:43 UTC 2018: No link for: com.github.devnied.emvnfccard.model.EmvPaymentCardTest-testPayment
+Tue May 15 14:25:43 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.model.EmvPaymentCardTest
+Tue May 15 14:25:44 UTC 2018: Found element on the queue
+Tue May 15 14:25:44 UTC 2018: Updating status
+Tue May 15 14:25:44 UTC 2018: Working
+Tue May 15 14:25:47 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.ByteArrayWrapperTest
+Tue May 15 14:25:47 UTC 2018: Setting lastTestMethodIndex: 35399
+Tue May 15 14:25:47 UTC 2018: Starting linking
+Tue May 15 14:25:47 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.ByteArrayWrapperTest-test
+Tue May 15 14:25:47 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.ByteArrayWrapperTest
+Tue May 15 14:25:47 UTC 2018: Found element on the queue
+Tue May 15 14:25:47 UTC 2018: Updating status
+Tue May 15 14:25:48 UTC 2018: Working
+Tue May 15 14:25:50 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.TlvTest
+Tue May 15 14:25:50 UTC 2018: Setting lastTestMethodIndex: 35402
+Tue May 15 14:25:50 UTC 2018: Starting linking
+Tue May 15 14:25:50 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.TlvTest-test
+Tue May 15 14:25:50 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.TlvTest
+Tue May 15 14:25:51 UTC 2018: Found element on the queue
+Tue May 15 14:25:51 UTC 2018: Updating status
+Tue May 15 14:25:51 UTC 2018: Working
+Tue May 15 14:25:53 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.TerminalTransactionQualifiersTest
+Tue May 15 14:25:53 UTC 2018: Setting lastTestMethodIndex: 35404
+Tue May 15 14:25:53 UTC 2018: Starting linking
+Tue May 15 14:25:53 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.TerminalTransactionQualifiersTest-test
+Tue May 15 14:25:53 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.TerminalTransactionQualifiersTest
+Tue May 15 14:25:54 UTC 2018: Found element on the queue
+Tue May 15 14:25:54 UTC 2018: Updating status
+Tue May 15 14:25:54 UTC 2018: Working
+Tue May 15 14:25:57 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.TagAndLengthTest
+Tue May 15 14:25:57 UTC 2018: Setting lastTestMethodIndex: 35406
+Tue May 15 14:25:57 UTC 2018: Starting linking
+Tue May 15 14:25:57 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.TagAndLengthTest-testMethod
+Tue May 15 14:25:57 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.TagAndLengthTest
+Tue May 15 14:25:57 UTC 2018: Found element on the queue
+Tue May 15 14:25:57 UTC 2018: Updating status
+Tue May 15 14:25:57 UTC 2018: Working
+Tue May 15 14:26:00 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.TagImplTest
+Tue May 15 14:26:00 UTC 2018: Setting lastTestMethodIndex: 35409
+Tue May 15 14:26:00 UTC 2018: Starting linking
+Tue May 15 14:26:00 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.TagImplTest-testMethod
+Tue May 15 14:26:00 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.TagImplTest-testConstructor
+Tue May 15 14:26:00 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.TagImplTest
+Tue May 15 14:26:01 UTC 2018: Found element on the queue
+Tue May 15 14:26:01 UTC 2018: Updating status
+Tue May 15 14:26:01 UTC 2018: Working
+Tue May 15 14:26:03 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.EmvTerminalTest
+Tue May 15 14:26:03 UTC 2018: Setting lastTestMethodIndex: 35412
+Tue May 15 14:26:03 UTC 2018: Starting linking
+Tue May 15 14:26:03 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.EmvTerminalTest-testTerminalCapability
+Tue May 15 14:26:03 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.EmvTerminalTest-testTerminalCountryCode
+Tue May 15 14:26:03 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.EmvTerminalTest-testTerminalCapabilities
+Tue May 15 14:26:04 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.EmvTerminalTest-testTerminalType
+Tue May 15 14:26:04 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.EmvTerminalTest-test_DS_REQUESTED_OPERATOR_ID
+Tue May 15 14:26:04 UTC 2018: No link for: com.github.devnied.emvnfccard.iso7816emv.EmvTerminalTest-testAmountAuthorized
+Tue May 15 14:26:04 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.iso7816emv.EmvTerminalTest
+Tue May 15 14:26:04 UTC 2018: Found element on the queue
+Tue May 15 14:26:04 UTC 2018: Updating status
+Tue May 15 14:26:04 UTC 2018: Working
+Tue May 15 14:26:07 UTC 2018: Start devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.exception.ExceptionTest
+Tue May 15 14:26:07 UTC 2018: Setting lastTestMethodIndex: 35415
+Tue May 15 14:26:07 UTC 2018: Starting linking
+Tue May 15 14:26:07 UTC 2018: No link for: com.github.devnied.emvnfccard.exception.ExceptionTest-testTLVException
+Tue May 15 14:26:07 UTC 2018: No link for: com.github.devnied.emvnfccard.exception.ExceptionTest-testCommunicationException
+Tue May 15 14:26:07 UTC 2018: Linking done for devnied__EMV-NFC-Paycard-Enrollmen test class com.github.devnied.emvnfccard.exception.ExceptionTest

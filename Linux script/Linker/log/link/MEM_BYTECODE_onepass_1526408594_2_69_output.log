@@ -1,0 +1,913 @@
+Wed May 16 03:10:00 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 03:10:00 UTC 2018: Starting
+Wed May 16 03:10:01 UTC 2018: Found element on the queue
+Wed May 16 03:10:01 UTC 2018: Updating status
+Wed May 16 03:10:01 UTC 2018: Working
+Wed May 16 03:10:01 UTC 2018: Create project parser
+Wed May 16 03:10:05 UTC 2018: Create slicer
+Wed May 16 03:10:07 UTC 2018: Create call graph
+Wed May 16 03:10:12 UTC 2018: Create point analysis
+Wed May 16 03:10:12 UTC 2018: Create call graph done
+Wed May 16 03:10:12 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.matchers.WithJsonPathTest
+Wed May 16 03:10:12 UTC 2018: Setting lastTestMethodIndex: 58835
+Wed May 16 03:10:12 UTC 2018: Starting linking
+Wed May 16 03:10:12 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldMatchJsonPathEvaluatedToStringValue
+Wed May 16 03:10:12 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldNotMatchNonExistingJsonPath
+Wed May 16 03:10:13 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldDescribeMismatchOfEvaluation
+Wed May 16 03:10:13 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldBeDescriptive
+Wed May 16 03:10:14 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldDescribeMismatchOfPathNotFound
+Wed May 16 03:10:14 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldNotMatchNonExistingStringJsonPath
+Wed May 16 03:10:14 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldFailOnInvalidJsonPath
+Wed May 16 03:10:14 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldMatchJsonPathEvaluatedToIntegerValue
+Wed May 16 03:10:15 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldMatchJsonPathEvaluatedToDoubleValue
+Wed May 16 03:10:15 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldMatchJsonPathEvaluatedToCollectionValue
+Wed May 16 03:10:15 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldNotMatchOnInvalidJson
+Wed May 16 03:10:16 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldMatchExistingStringJsonPath
+Wed May 16 03:10:16 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithJsonPathTest-shouldMatchExistingCompiledJsonPath
+Wed May 16 03:10:17 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.matchers.WithJsonPathTest
+Wed May 16 03:10:17 UTC 2018: Found element on the queue
+Wed May 16 03:10:17 UTC 2018: Updating status
+Wed May 16 03:10:17 UTC 2018: Working
+Wed May 16 03:10:20 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.matchers.IsJsonStringTest
+Wed May 16 03:10:20 UTC 2018: Setting lastTestMethodIndex: 58840
+Wed May 16 03:10:20 UTC 2018: Starting linking
+Wed May 16 03:10:20 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonStringTest-shouldNotMatchInvalidJsonString
+Wed May 16 03:10:20 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonStringTest-shouldDescribeMismatchOfValidJson
+Wed May 16 03:10:20 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonStringTest-shouldDescribeMismatchOfInvalidJson
+Wed May 16 03:10:21 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonStringTest-shouldBeDescriptive
+Wed May 16 03:10:21 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonStringTest-shouldNotMatchJsonStringEvaluatedToFalse
+Wed May 16 03:10:21 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonStringTest-shouldMatchJsonStringEvaluatedToTrue
+Wed May 16 03:10:21 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.matchers.IsJsonStringTest
+Wed May 16 03:10:22 UTC 2018: Found element on the queue
+Wed May 16 03:10:22 UTC 2018: Updating status
+Wed May 16 03:10:22 UTC 2018: Working
+Wed May 16 03:10:25 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.matchers.WithoutJsonPathTest
+Wed May 16 03:10:25 UTC 2018: Setting lastTestMethodIndex: 58844
+Wed May 16 03:10:25 UTC 2018: Starting linking
+Wed May 16 03:10:25 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithoutJsonPathTest-shouldNotMatchExistingJsonPath
+Wed May 16 03:10:25 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithoutJsonPathTest-shouldBeDescriptive
+Wed May 16 03:10:25 UTC 2018: No link for: com.jayway.jsonpath.matchers.WithoutJsonPathTest-shouldMatchNonExistingJsonPath
+Wed May 16 03:10:26 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.matchers.WithoutJsonPathTest
+Wed May 16 03:10:26 UTC 2018: Found element on the queue
+Wed May 16 03:10:26 UTC 2018: Updating status
+Wed May 16 03:10:26 UTC 2018: Working
+Wed May 16 03:10:29 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.matchers.IsJsonFileTest
+Wed May 16 03:10:29 UTC 2018: Setting lastTestMethodIndex: 58847
+Wed May 16 03:10:29 UTC 2018: Starting linking
+Wed May 16 03:10:29 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonFileTest-shouldBeDescriptive
+Wed May 16 03:10:29 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonFileTest-shouldDescribeMismatchOfValidJson
+Wed May 16 03:10:29 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonFileTest-shouldNotMatchInvalidJsonFile
+Wed May 16 03:10:30 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonFileTest-shouldNotMatchJsonFileEvaluatedToFalse
+Wed May 16 03:10:30 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonFileTest-shouldDescribeMismatchOfInvalidJson
+Wed May 16 03:10:30 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonFileTest-shouldMatchJsonFileEvaluatedToTrue
+Wed May 16 03:10:31 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.matchers.IsJsonFileTest
+Wed May 16 03:10:31 UTC 2018: Found element on the queue
+Wed May 16 03:10:31 UTC 2018: Updating status
+Wed May 16 03:10:31 UTC 2018: Working
+Wed May 16 03:10:34 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.matchers.DemoTest
+Wed May 16 03:10:34 UTC 2018: Setting lastTestMethodIndex: 58849
+Wed May 16 03:10:34 UTC 2018: Starting linking
+Wed May 16 03:10:34 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnTypedJsonFile
+Wed May 16 03:10:34 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnNonExistingJsonPath
+Wed May 16 03:10:34 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnExistingJsonPath
+Wed May 16 03:10:35 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnInvalidJsonFile
+Wed May 16 03:10:35 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnTypedInvalidJsonFile
+Wed May 16 03:10:35 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnExistingJsonPathAlternative
+Wed May 16 03:10:35 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnInvalidJsonString
+Wed May 16 03:10:36 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnTypedInvalidJsonString
+Wed May 16 03:10:36 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnJsonString
+Wed May 16 03:10:36 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnJsonFile
+Wed May 16 03:10:37 UTC 2018: No link for: com.jayway.jsonpath.matchers.DemoTest-shouldFailOnTypedJsonString
+Wed May 16 03:10:37 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.matchers.DemoTest
+Wed May 16 03:10:37 UTC 2018: Found element on the queue
+Wed May 16 03:10:37 UTC 2018: Updating status
+Wed May 16 03:10:37 UTC 2018: Working
+Wed May 16 03:10:40 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.matchers.IsJsonTest
+Wed May 16 03:10:40 UTC 2018: Setting lastTestMethodIndex: 58854
+Wed May 16 03:10:40 UTC 2018: Starting linking
+Wed May 16 03:10:40 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldMatchOnEmptyJsonObject
+Wed May 16 03:10:40 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldMatchOnJsonObject
+Wed May 16 03:10:41 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldNotMatchNonExistingJsonFile
+Wed May 16 03:10:41 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldBeDescriptive
+Wed May 16 03:10:41 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldNotMatchJsonObjectEvaluatedToFalse
+Wed May 16 03:10:41 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldDescribeMismatchOfValidJson
+Wed May 16 03:10:42 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldMatchJsonObjectEvaluatedToTrue
+Wed May 16 03:10:42 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldNotMatchJsonStringEvaluatedToFalse
+Wed May 16 03:10:42 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldDescribeMismatchOfInvalidJson
+Wed May 16 03:10:43 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldMatchJsonStringEvaluatedToTrue
+Wed May 16 03:10:43 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldNotMatchJsonFileEvaluatedToFalse
+Wed May 16 03:10:43 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldMatchOnJsonArray
+Wed May 16 03:10:44 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldMatchValidJson
+Wed May 16 03:10:44 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldMatchOnEmptyJsonArray
+Wed May 16 03:10:44 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldNotMatchInvalidJson
+Wed May 16 03:10:45 UTC 2018: No link for: com.jayway.jsonpath.matchers.IsJsonTest-shouldMatchJsonFileEvaluatedToTrue
+Wed May 16 03:10:45 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.matchers.IsJsonTest
+Wed May 16 03:10:45 UTC 2018: Found element on the queue
+Wed May 16 03:10:45 UTC 2018: Updating status
+Wed May 16 03:10:45 UTC 2018: Working
+Wed May 16 03:10:48 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.matchers.HasNoJsonPathTest
+Wed May 16 03:10:48 UTC 2018: Setting lastTestMethodIndex: 58858
+Wed May 16 03:10:48 UTC 2018: Starting linking
+Wed May 16 03:10:48 UTC 2018: No link for: com.jayway.jsonpath.matchers.HasNoJsonPathTest-shouldBeDescriptive
+Wed May 16 03:10:48 UTC 2018: No link for: com.jayway.jsonpath.matchers.HasNoJsonPathTest-shouldMatchMissingJsonPath
+Wed May 16 03:10:49 UTC 2018: No link for: com.jayway.jsonpath.matchers.HasNoJsonPathTest-shouldNotMatchExistingJsonPath
+Wed May 16 03:10:49 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.matchers.HasNoJsonPathTest
+Wed May 16 03:10:49 UTC 2018: Found element on the queue
+Wed May 16 03:10:49 UTC 2018: Updating status
+Wed May 16 03:10:49 UTC 2018: Working
+Wed May 16 03:10:52 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.matchers.JsonPathMatchersTest
+Wed May 16 03:10:52 UTC 2018: Setting lastTestMethodIndex: 58861
+Wed May 16 03:10:52 UTC 2018: Starting linking
+Wed May 16 03:10:52 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldNotMatchJsonPathOnNonExistingFile
+Wed May 16 03:10:52 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToEmptyJsonArray
+Wed May 16 03:10:53 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldNotMatchInvalidJsonWithPathAndValue
+Wed May 16 03:10:53 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathOnParsedJsonObject
+Wed May 16 03:10:53 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathOnFile
+Wed May 16 03:10:53 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathOnReadContext
+Wed May 16 03:10:54 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-willMatchIndefiniteJsonPathsEvaluatedToEmptyLists
+Wed May 16 03:10:54 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToDoubleValue
+Wed May 16 03:10:54 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToEmptyJsonObject
+Wed May 16 03:10:55 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToJsonObject
+Wed May 16 03:10:55 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToJsonArray
+Wed May 16 03:10:55 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToNullValue
+Wed May 16 03:10:56 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToIntegerValue
+Wed May 16 03:10:56 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToBooleanValue
+Wed May 16 03:10:56 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldNotMatchNonExistingJsonPath
+Wed May 16 03:10:57 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldMatchJsonPathToStringValue
+Wed May 16 03:10:57 UTC 2018: No link for: com.jayway.jsonpath.matchers.JsonPathMatchersTest-shouldNotMatchInvalidJsonWithPath
+Wed May 16 03:10:57 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.matchers.JsonPathMatchersTest
+Wed May 16 03:10:58 UTC 2018: Found element on the queue
+Wed May 16 03:10:58 UTC 2018: Updating status
+Wed May 16 03:10:58 UTC 2018: Working
+Wed May 16 03:11:00 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonassert.JsonAssertTest
+Wed May 16 03:11:00 UTC 2018: Setting lastTestMethodIndex: 58867
+Wed May 16 03:11:00 UTC 2018: Starting linking
+Wed May 16 03:11:00 UTC 2018: Code found com.jayway.jsonassert.JsonAssert-with with com.jayway.jsonassert.JsonAssertTest-map_content_can_be_asserted_with_matcher
+Wed May 16 03:11:01 UTC 2018: Code found com.jayway.jsonassert.JsonAssert-with with com.jayway.jsonassert.JsonAssertTest-list_content_can_be_asserted_with_nested_matcher
+Wed May 16 03:11:01 UTC 2018: Code found com.jayway.jsonassert.JsonAssert-with with com.jayway.jsonassert.JsonAssertTest-ends_with_evalueates
+Wed May 16 03:11:01 UTC 2018: Code found com.jayway.jsonassert.JsonAssert-with with com.jayway.jsonassert.JsonAssertTest-list_content_can_be_asserted_with_matcher
+Wed May 16 03:11:02 UTC 2018: Code found com.jayway.jsonassert.JsonAssert-with with com.jayway.jsonassert.JsonAssertTest-a_path_can_be_asserted_with_matcher
+Wed May 16 03:11:02 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-assert_that_invalid_path_is_thrown
+Wed May 16 03:11:03 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-failed_error_message
+Wed May 16 03:11:03 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-a_document_can_be_expected_not_to_contain_a_path
+Wed May 16 03:11:03 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-invalid_path
+Wed May 16 03:11:04 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-testAssertEqualsIntegerInvalidField
+Wed May 16 03:11:04 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-has_path
+Wed May 16 03:11:04 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-links_document
+Wed May 16 03:11:05 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-testNotDefined
+Wed May 16 03:11:05 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-testAssertEqualsIntegerInvalidExpected
+Wed May 16 03:11:05 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-a_value_can_asserted_to_be_null
+Wed May 16 03:11:06 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-a_path_can_be_asserted_equal_to
+Wed May 16 03:11:06 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-assert_gears
+Wed May 16 03:11:06 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-path_including_wildcard_path_followed_by_another_path_concatenates_results_to_list
+Wed May 16 03:11:07 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-testAssertEqualsInteger
+Wed May 16 03:11:07 UTC 2018: No link for: com.jayway.jsonassert.JsonAssertTest-an_empty_collection
+Wed May 16 03:11:07 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonassert.JsonAssertTest
+Wed May 16 03:11:08 UTC 2018: Found element on the queue
+Wed May 16 03:11:08 UTC 2018: Updating status
+Wed May 16 03:11:08 UTC 2018: Working
+Wed May 16 03:11:08 UTC 2018: Create project parser
+Wed May 16 03:11:14 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.PredicateTest
+Wed May 16 03:11:14 UTC 2018: Setting lastTestMethodIndex: 58874
+Wed May 16 03:11:14 UTC 2018: Starting linking
+Wed May 16 03:11:14 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.PredicateTest-predicates_filters_throws_exception_without_suppress_exceptions_for_readroot
+Wed May 16 03:11:14 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.PredicateTest-predicates_filters_can_be_applied_readRoot
+Wed May 16 03:11:14 UTC 2018: No link for: com.jayway.jsonpath.PredicateTest-predicates_filters_can_be_applied
+Wed May 16 03:11:15 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.PredicateTest
+Wed May 16 03:11:15 UTC 2018: Found element on the queue
+Wed May 16 03:11:15 UTC 2018: Updating status
+Wed May 16 03:11:15 UTC 2018: Working
+Wed May 16 03:11:18 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.internal.UtilsTest
+Wed May 16 03:11:18 UTC 2018: Setting lastTestMethodIndex: 58877
+Wed May 16 03:11:18 UTC 2018: Starting linking
+Wed May 16 03:11:18 UTC 2018: No link for: com.jayway.jsonpath.internal.UtilsTest-strings_can_be_escaped
+Wed May 16 03:11:18 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.internal.UtilsTest
+Wed May 16 03:11:19 UTC 2018: Found element on the queue
+Wed May 16 03:11:19 UTC 2018: Updating status
+Wed May 16 03:11:19 UTC 2018: Working
+Wed May 16 03:11:21 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.internal.path.PathTokenTest
+Wed May 16 03:11:21 UTC 2018: Setting lastTestMethodIndex: 58878
+Wed May 16 03:11:21 UTC 2018: Starting linking
+Wed May 16 03:11:21 UTC 2018: No link for: com.jayway.jsonpath.internal.path.PathTokenTest-is_upstream_definite_in_simple_case
+Wed May 16 03:11:22 UTC 2018: No link for: com.jayway.jsonpath.internal.path.PathTokenTest-is_upstream_definite_in_complex_case
+Wed May 16 03:11:22 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.internal.path.PathTokenTest
+Wed May 16 03:11:23 UTC 2018: Found element on the queue
+Wed May 16 03:11:23 UTC 2018: Updating status
+Wed May 16 03:11:23 UTC 2018: Working
+Wed May 16 03:11:25 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.internal.filter.RegexpEvaluatorTest
+Wed May 16 03:11:25 UTC 2018: Setting lastTestMethodIndex: 58880
+Wed May 16 03:11:25 UTC 2018: Starting linking
+Wed May 16 03:11:25 UTC 2018: No link for: com.jayway.jsonpath.internal.filter.RegexpEvaluatorTest-should_evaluate_regular_expression
+Wed May 16 03:11:26 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.internal.filter.RegexpEvaluatorTest
+Wed May 16 03:11:26 UTC 2018: Found element on the queue
+Wed May 16 03:11:26 UTC 2018: Updating status
+Wed May 16 03:11:26 UTC 2018: Working
+Wed May 16 03:11:29 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.internal.function.NumericPathFunctionTest
+Wed May 16 03:11:29 UTC 2018: Setting lastTestMethodIndex: 58881
+Wed May 16 03:11:29 UTC 2018: Starting linking
+Wed May 16 03:11:29 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testMaxOfDouble
+Wed May 16 03:11:29 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testSumOfDouble
+Wed May 16 03:11:29 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testSumOfEmptyListNegative
+Wed May 16 03:11:30 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testStddevOfEmptyListNegative
+Wed May 16 03:11:30 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testAverageOfEmptyListNegative
+Wed May 16 03:11:30 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testMinOfEmptyListNegative
+Wed May 16 03:11:31 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testStdDevOfDouble
+Wed May 16 03:11:31 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testAverageOfDoubles
+Wed May 16 03:11:32 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testMaxOfEmptyListNegative
+Wed May 16 03:11:32 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NumericPathFunctionTest-testMinOfDouble
+Wed May 16 03:11:32 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.internal.function.NumericPathFunctionTest
+Wed May 16 03:11:33 UTC 2018: Found element on the queue
+Wed May 16 03:11:33 UTC 2018: Updating status
+Wed May 16 03:11:33 UTC 2018: Working
+Wed May 16 03:11:35 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest
+Wed May 16 03:11:35 UTC 2018: Setting lastTestMethodIndex: 58884
+Wed May 16 03:11:35 UTC 2018: Starting linking
+Wed May 16 03:11:35 UTC 2018: No link for: com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest-testLengthOfStructure
+Wed May 16 03:11:35 UTC 2018: No link for: com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest-testPredicateWithFunctionCallSingleMatch
+Wed May 16 03:11:36 UTC 2018: No link for: com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest-testjsonPathExceptionForFunctionPathWithAlwaysReturnAsListSet
+Wed May 16 03:11:36 UTC 2018: No link for: com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest-testPredicateWithFunctionCallTwoMatches
+Wed May 16 03:11:37 UTC 2018: No link for: com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest-testLengthOfTextArray
+Wed May 16 03:11:37 UTC 2018: No link for: com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest-testLengthOfNumberArray
+Wed May 16 03:11:37 UTC 2018: No link for: com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest-testjsonPathExceptionForFunctionPathWithOptAsPathListSet
+Wed May 16 03:11:37 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.internal.function.JSONEntityPathFunctionTest
+Wed May 16 03:11:38 UTC 2018: Found element on the queue
+Wed May 16 03:11:38 UTC 2018: Updating status
+Wed May 16 03:11:38 UTC 2018: Working
+Wed May 16 03:11:40 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.internal.function.NestedFunctionTest
+Wed May 16 03:11:40 UTC 2018: Setting lastTestMethodIndex: 58887
+Wed May 16 03:11:40 UTC 2018: Starting linking
+Wed May 16 03:11:40 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testStringConcat
+Wed May 16 03:11:41 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testAppendTextAndNumberThenSum
+Wed May 16 03:11:41 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testJsonInnerArgumentArray
+Wed May 16 03:11:41 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testAppendNumber
+Wed May 16 03:11:42 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testArrayAverageFunctionCall
+Wed May 16 03:11:42 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testParameterAverageFunctionCall
+Wed May 16 03:11:42 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testErrantCloseBraceNegative
+Wed May 16 03:11:43 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testErrantCloseBracketNegative
+Wed May 16 03:11:43 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testArrayAverageFunctionCallWithParameters
+Wed May 16 03:11:43 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testUnclosedFunctionCallNegative
+Wed May 16 03:11:44 UTC 2018: No link for: com.jayway.jsonpath.internal.function.NestedFunctionTest-testStringConcatWithJSONParameter
+Wed May 16 03:11:44 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.internal.function.NestedFunctionTest
+Wed May 16 03:11:45 UTC 2018: Found element on the queue
+Wed May 16 03:11:45 UTC 2018: Updating status
+Wed May 16 03:11:45 UTC 2018: Working
+Wed May 16 03:11:47 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.internal.JsonContextTest
+Wed May 16 03:11:47 UTC 2018: Setting lastTestMethodIndex: 58890
+Wed May 16 03:11:47 UTC 2018: Starting linking
+Wed May 16 03:11:47 UTC 2018: No link for: com.jayway.jsonpath.internal.JsonContextTest-cached_path_with_predicates
+Wed May 16 03:11:48 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.internal.JsonContextTest
+Wed May 16 03:11:49 UTC 2018: Found element on the queue
+Wed May 16 03:11:49 UTC 2018: Updating status
+Wed May 16 03:11:49 UTC 2018: Working
+Wed May 16 03:11:52 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.WriteTest
+Wed May 16 03:11:52 UTC 2018: Setting lastTestMethodIndex: 58893
+Wed May 16 03:11:52 UTC 2018: Starting linking
+Wed May 16 03:11:52 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-map with com.jayway.jsonpath.WriteTest-single_match_value_can_be_mapped
+Wed May 16 03:11:52 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-add with com.jayway.jsonpath.WriteTest-add_to_array_on_object
+Wed May 16 03:11:53 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-map with com.jayway.jsonpath.WriteTest-rootCannotBeMapped
+Wed May 16 03:11:53 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-delete with com.jayway.jsonpath.WriteTest-a_path_can_be_deleted
+Wed May 16 03:11:53 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-add with com.jayway.jsonpath.WriteTest-add_to_array
+Wed May 16 03:11:54 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-map with com.jayway.jsonpath.WriteTest-multi_match_path_can_be_mapped
+Wed May 16 03:11:54 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-delete with com.jayway.jsonpath.WriteTest-multi_prop_delete
+Wed May 16 03:11:54 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-delete with com.jayway.jsonpath.WriteTest-an_array_criteria_can_be_deleted
+Wed May 16 03:11:55 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-map with com.jayway.jsonpath.WriteTest-object_can_be_mapped
+Wed May 16 03:11:55 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_array_child_property_can_be_updated
+Wed May 16 03:11:55 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-non_map_array_items_cannot_be_renamed
+Wed May 16 03:11:55 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-a_path_can_be_renamed
+Wed May 16 03:11:56 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_array_can_be_updated
+Wed May 16 03:11:56 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-key_val_can_be_added_to_root_object
+Wed May 16 03:11:56 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_deep_scan_can_update
+Wed May 16 03:11:57 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_array_index_can_be_updated
+Wed May 16 03:11:57 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-multi_prop_update_not_all_defined
+Wed May 16 03:11:57 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-item_can_be_added_to_root_array
+Wed May 16 03:11:57 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-operations_can_chained
+Wed May 16 03:11:58 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-add_to_object_on_array
+Wed May 16 03:11:58 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_array_criteria_with_multiple_results_can_be_deleted
+Wed May 16 03:11:58 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_array_slice_can_be_updated
+Wed May 16 03:11:59 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-root_object_can_not_be_updated
+Wed May 16 03:11:59 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_array_criteria_can_be_updated
+Wed May 16 03:11:59 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_root_property_can_be_updated
+Wed May 16 03:11:59 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-multi_prop_update
+Wed May 16 03:12:00 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-add_to_object
+Wed May 16 03:12:00 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-an_filter_can_update
+Wed May 16 03:12:00 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-multiple_properties_cannot_be_renamed
+Wed May 16 03:12:01 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-keys_in_root_containing_map_can_be_renamed
+Wed May 16 03:12:01 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-map_array_items_can_be_renamed
+Wed May 16 03:12:01 UTC 2018: No link for: com.jayway.jsonpath.WriteTest-non_existent_key_rename_not_allowed
+Wed May 16 03:12:02 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.WriteTest
+Wed May 16 03:12:02 UTC 2018: Found element on the queue
+Wed May 16 03:12:02 UTC 2018: Updating status
+Wed May 16 03:12:02 UTC 2018: Working
+Wed May 16 03:12:05 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.GsonJsonProviderTest
+Wed May 16 03:12:05 UTC 2018: Setting lastTestMethodIndex: 58900
+Wed May 16 03:12:05 UTC 2018: Starting linking
+Wed May 16 03:12:05 UTC 2018: Code found com.jayway.jsonpath.internal.ParseContextImpl-parse with com.jayway.jsonpath.GsonJsonProviderTest-json_can_be_parsed
+Wed May 16 03:12:05 UTC 2018: Code found com.jayway.jsonpath.internal.ParseContextImpl-parse with com.jayway.jsonpath.GsonJsonProviderTest-json_can_be_parsed_readroot
+Wed May 16 03:12:05 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-small_bigintegers_are_unwrapped
+Wed May 16 03:12:06 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-strings_are_unwrapped
+Wed May 16 03:12:06 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-ints_are_unwrapped
+Wed May 16 03:12:06 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-small_bigdecimals_are_unwrapped
+Wed May 16 03:12:07 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-list_of_numbers
+Wed May 16 03:12:07 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-doubles_are_unwrapped
+Wed May 16 03:12:07 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-bigintegers_are_unwrapped
+Wed May 16 03:12:07 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-test_type_ref_fail
+Wed May 16 03:12:08 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-longs_are_unwrapped
+Wed May 16 03:12:08 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-int_to_long_mapping
+Wed May 16 03:12:08 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-test_type_ref
+Wed May 16 03:12:09 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-an_Integer_can_be_converted_to_a_Double
+Wed May 16 03:12:09 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-an_object_can_be_mapped_to_pojo
+Wed May 16 03:12:09 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-bigdecimals_are_unwrapped
+Wed May 16 03:12:10 UTC 2018: No link for: com.jayway.jsonpath.GsonJsonProviderTest-no_error_when_mapping_null
+Wed May 16 03:12:10 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.GsonJsonProviderTest
+Wed May 16 03:12:10 UTC 2018: Found element on the queue
+Wed May 16 03:12:10 UTC 2018: Updating status
+Wed May 16 03:12:10 UTC 2018: Working
+Wed May 16 03:12:13 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.JacksonTest
+Wed May 16 03:12:13 UTC 2018: Setting lastTestMethodIndex: 58904
+Wed May 16 03:12:13 UTC 2018: Starting linking
+Wed May 16 03:12:13 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.JacksonTest-an_object_can_be_mapped_to_pojo_readroot
+Wed May 16 03:12:13 UTC 2018: No link for: com.jayway.jsonpath.JacksonTest-testShallowCopy
+Wed May 16 03:12:14 UTC 2018: No link for: com.jayway.jsonpath.JacksonTest-jackson_converts_dates
+Wed May 16 03:12:14 UTC 2018: No link for: com.jayway.jsonpath.JacksonTest-an_object_can_be_mapped_to_pojo
+Wed May 16 03:12:14 UTC 2018: No link for: com.jayway.jsonpath.JacksonTest-single_quotes_work_with_in_filter
+Wed May 16 03:12:15 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.JacksonTest
+Wed May 16 03:12:15 UTC 2018: Found element on the queue
+Wed May 16 03:12:15 UTC 2018: Updating status
+Wed May 16 03:12:15 UTC 2018: Working
+Wed May 16 03:12:18 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.MapperTest
+Wed May 16 03:12:18 UTC 2018: Setting lastTestMethodIndex: 58907
+Wed May 16 03:12:18 UTC 2018: Starting linking
+Wed May 16 03:12:18 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-a_Long_can_be_converted_to_a_Date
+Wed May 16 03:12:18 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-an_Integer_can_be_converted_to_a_Long
+Wed May 16 03:12:18 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-an_Integer_can_be_converted_to_a_Double
+Wed May 16 03:12:18 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-a_String_can_be_converted_to_a_BigDecimal
+Wed May 16 03:12:19 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-an_String_can_be_converted_to_a_Long
+Wed May 16 03:12:19 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-a_String_can_be_converted_to_a_BigInteger
+Wed May 16 03:12:19 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-a_BigDecimal_can_be_converted_to_a_Long
+Wed May 16 03:12:20 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-a_Boolean_can_be_converted_to_a_primitive_boolean
+Wed May 16 03:12:20 UTC 2018: No link for: com.jayway.jsonpath.MapperTest-an_Integer_can_be_converted_to_a_String
+Wed May 16 03:12:20 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.MapperTest
+Wed May 16 03:12:21 UTC 2018: Found element on the queue
+Wed May 16 03:12:21 UTC 2018: Updating status
+Wed May 16 03:12:21 UTC 2018: Working
+Wed May 16 03:12:23 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.DeepScanTest
+Wed May 16 03:12:23 UTC 2018: Setting lastTestMethodIndex: 58910
+Wed May 16 03:12:23 UTC 2018: Starting linking
+Wed May 16 03:12:23 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.DeepScanTest-deepscan_throws_exception_without_suppress_exceptions_for_readroot
+Wed May 16 03:12:24 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-scan_for_single_property
+Wed May 16 03:12:24 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-when_deep_scanning_non_array_subscription_is_ignored
+Wed May 16 03:12:24 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-when_deep_scanning_array_index_oob_is_ignored
+Wed May 16 03:12:25 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-when_deep_scanning_require_properties_is_ignored_on_scan_target_but_not_on_children
+Wed May 16 03:12:25 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-deepScanPathRequireProperties
+Wed May 16 03:12:25 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-require_multi_property_some_match
+Wed May 16 03:12:26 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-scans_can_be_filtered
+Wed May 16 03:12:26 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-scan_with_a_function_filter
+Wed May 16 03:12:26 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-when_deep_scanning_require_properties_is_ignored_on_scan_target
+Wed May 16 03:12:26 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-deepScanPathDefault
+Wed May 16 03:12:27 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-when_deep_scanning_illegal_property_access_is_ignored
+Wed May 16 03:12:27 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-require_single_property_ok
+Wed May 16 03:12:27 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-scan_for_property_path
+Wed May 16 03:12:28 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-require_single_property
+Wed May 16 03:12:28 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-scan_for_property_path_missing_required_property
+Wed May 16 03:12:28 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-definite_upstream_illegal_array_access_throws
+Wed May 16 03:12:29 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-when_deep_scanning_null_subscription_is_ignored
+Wed May 16 03:12:29 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-when_deep_scanning_leaf_multi_props_work
+Wed May 16 03:12:29 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-when_deep_scanning_illegal_predicate_is_ignored
+Wed May 16 03:12:29 UTC 2018: No link for: com.jayway.jsonpath.DeepScanTest-require_multi_property_all_match
+Wed May 16 03:12:30 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.DeepScanTest
+Wed May 16 03:12:30 UTC 2018: Found element on the queue
+Wed May 16 03:12:30 UTC 2018: Updating status
+Wed May 16 03:12:30 UTC 2018: Working
+Wed May 16 03:12:33 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.MultiPropTest
+Wed May 16 03:12:33 UTC 2018: Setting lastTestMethodIndex: 58915
+Wed May 16 03:12:33 UTC 2018: Starting linking
+Wed May 16 03:12:33 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.MultiPropTest-deep_scan_returns_empty_map_readRoot_with_supress_exceptions_and_as_path_list
+Wed May 16 03:12:33 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.MultiPropTest-multi_prop_can_be_read_from_root_readRoot
+Wed May 16 03:12:33 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.MultiPropTest-test_array_readRoot
+Wed May 16 03:12:34 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.MultiPropTest-testReadWithJsonFileInputUsingConf
+Wed May 16 03:12:34 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.MultiPropTest-deep_scan_does_not_throw_exception_readRoot_with_supressExceptions
+Wed May 16 03:12:34 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.MultiPropTest-multi_props_can_be_required_readRoot
+Wed May 16 03:12:35 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.MultiPropTest-testReadWithJsonPathParsingUsingInputStream
+Wed May 16 03:12:35 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.MultiPropTest-testIosShortPayloadBasicFlightReservationWithPredicateInJsonPathReadroot
+Wed May 16 03:12:35 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.MultiPropTest-multi_prop_can_be_read_from_root
+Wed May 16 03:12:36 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.MultiPropTest-deep_scan_throws_exception_readRoot
+Wed May 16 03:12:36 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.MultiPropTest-testDifferentReads
+Wed May 16 03:12:36 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-multi_props_can_be_non_leafs
+Wed May 16 03:12:37 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-non_leaf_multi_props_can_be_required
+Wed May 16 03:12:37 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-multi_props_can_be_defaulted_to_null
+Wed May 16 03:12:37 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-testmailboxesResourceJsonFilterExtractionGuidAndSledId
+Wed May 16 03:12:38 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-testmailboxesResourceJsonFilterExtractionSingleSledId
+Wed May 16 03:12:38 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-test_without_a_dot
+Wed May 16 03:12:38 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-multi_props_can_be_in_the_middle
+Wed May 16 03:12:39 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-multi_props_can_be_required
+Wed May 16 03:12:39 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-deep_scan_does_not_affect_non_leaf_multi_props
+Wed May 16 03:12:39 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-multi_props_with_post_filter
+Wed May 16 03:12:39 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-testReadWithJsonFileInput
+Wed May 16 03:12:40 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-testmailboxesResourceJsonFilterExtractionSingleEmail
+Wed May 16 03:12:40 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-testmailboxesResourceJsonFilterExtractionGuidAndEmail
+Wed May 16 03:12:40 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-nonexistent_non_leaf_multi_props_ignored
+Wed May 16 03:12:41 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-testmailboxesResourceJsonFilterExtractionSingleGuid
+Wed May 16 03:12:41 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-testmailboxesResourceJsonFilterExtractionSledidAndEmail
+Wed May 16 03:12:41 UTC 2018: No link for: com.jayway.jsonpath.MultiPropTest-testIosShortPayloadBasicFlightReservation
+Wed May 16 03:12:42 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.MultiPropTest
+Wed May 16 03:12:42 UTC 2018: Found element on the queue
+Wed May 16 03:12:42 UTC 2018: Updating status
+Wed May 16 03:12:42 UTC 2018: Working
+Wed May 16 03:12:45 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.ProviderInTest
+Wed May 16 03:12:45 UTC 2018: Setting lastTestMethodIndex: 58921
+Wed May 16 03:12:45 UTC 2018: Starting linking
+Wed May 16 03:12:45 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.ProviderInTest-testJsonPathQuotesJacksonReadroot
+Wed May 16 03:12:45 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.ProviderInTest-testJsonPathQuotesJacksonJsonNodeReadRoot
+Wed May 16 03:12:45 UTC 2018: No link for: com.jayway.jsonpath.ProviderInTest-testJsonPathQuotesJsonOrg
+Wed May 16 03:12:45 UTC 2018: No link for: com.jayway.jsonpath.ProviderInTest-testJsonPathQuotesGson
+Wed May 16 03:12:46 UTC 2018: No link for: com.jayway.jsonpath.ProviderInTest-testJsonPathQuotesJsonSmart
+Wed May 16 03:12:46 UTC 2018: No link for: com.jayway.jsonpath.ProviderInTest-testJsonPathQuotesJackson
+Wed May 16 03:12:46 UTC 2018: No link for: com.jayway.jsonpath.ProviderInTest-testJsonPathQuotesJacksonJsonNode
+Wed May 16 03:12:47 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.ProviderInTest
+Wed May 16 03:12:47 UTC 2018: Found element on the queue
+Wed May 16 03:12:47 UTC 2018: Updating status
+Wed May 16 03:12:47 UTC 2018: Working
+Wed May 16 03:12:50 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.EvaluationListenerTest
+Wed May 16 03:12:50 UTC 2018: Setting lastTestMethodIndex: 58924
+Wed May 16 03:12:50 UTC 2018: Starting linking
+Wed May 16 03:12:50 UTC 2018: Code found com.jayway.jsonpath.JsonPath-using with com.jayway.jsonpath.EvaluationListenerTest-an_evaluation_listener_can_abort_after_one_result_using_configuration
+Wed May 16 03:12:50 UTC 2018: No link for: com.jayway.jsonpath.EvaluationListenerTest-add_json_provider
+Wed May 16 03:12:50 UTC 2018: No link for: com.jayway.jsonpath.EvaluationListenerTest-add_evaluation_listener
+Wed May 16 03:12:51 UTC 2018: No link for: com.jayway.jsonpath.EvaluationListenerTest-evaluation_results_can_be_limited
+Wed May 16 03:12:51 UTC 2018: No link for: com.jayway.jsonpath.EvaluationListenerTest-an_evaluation_listener_can_abort_after_one_result_using_fluent_api
+Wed May 16 03:12:51 UTC 2018: No link for: com.jayway.jsonpath.EvaluationListenerTest-an_evaluation_lister_can_continue
+Wed May 16 03:12:51 UTC 2018: No link for: com.jayway.jsonpath.EvaluationListenerTest-add_mapping_provider
+Wed May 16 03:12:52 UTC 2018: No link for: com.jayway.jsonpath.EvaluationListenerTest-multiple_evaluation_listeners_can_be_added
+Wed May 16 03:12:52 UTC 2018: No link for: com.jayway.jsonpath.EvaluationListenerTest-evaluation_listeners_can_be_cleared
+Wed May 16 03:12:52 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.EvaluationListenerTest
+Wed May 16 03:12:53 UTC 2018: Found element on the queue
+Wed May 16 03:12:53 UTC 2018: Updating status
+Wed May 16 03:12:53 UTC 2018: Working
+Wed May 16 03:12:55 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.FilterCompilerTest
+Wed May 16 03:12:55 UTC 2018: Setting lastTestMethodIndex: 58928
+Wed May 16 03:12:55 UTC 2018: Starting linking
+Wed May 16 03:12:56 UTC 2018: Code found com.jayway.jsonpath.internal.filter.FilterCompiler-compile with com.jayway.jsonpath.FilterCompilerTest-compile_and_serialize_not_exists_filter
+Wed May 16 03:12:56 UTC 2018: Code found com.jayway.jsonpath.internal.filter.FilterCompiler-compile with com.jayway.jsonpath.FilterCompilerTest-valid_filters_compile
+Wed May 16 03:12:56 UTC 2018: No link for: com.jayway.jsonpath.FilterCompilerTest-string_can_contain_path_chars
+Wed May 16 03:12:56 UTC 2018: No link for: com.jayway.jsonpath.FilterCompilerTest-or_has_lower_priority_than_and
+Wed May 16 03:12:57 UTC 2018: No link for: com.jayway.jsonpath.FilterCompilerTest-string_quote_style_is_serialized
+Wed May 16 03:12:57 UTC 2018: No link for: com.jayway.jsonpath.FilterCompilerTest-invalid_filters_does_not_compile
+Wed May 16 03:12:57 UTC 2018: No link for: com.jayway.jsonpath.FilterCompilerTest-invalid_path_when_string_literal_is_unquoted
+Wed May 16 03:12:58 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.FilterCompilerTest
+Wed May 16 03:12:58 UTC 2018: Found element on the queue
+Wed May 16 03:12:58 UTC 2018: Updating status
+Wed May 16 03:12:58 UTC 2018: Working
+Wed May 16 03:13:01 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.OptionsTest
+Wed May 16 03:13:01 UTC 2018: Setting lastTestMethodIndex: 58931
+Wed May 16 03:13:01 UTC 2018: Starting linking
+Wed May 16 03:13:01 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.OptionsTest-a_leafs_can_be_defaulted_to_null_readroot
+Wed May 16 03:13:01 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.OptionsTest-a_leafs_not_defaulted_to_null_readroot
+Wed May 16 03:13:01 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.OptionsTest-when_property_is_required_exception_is_thrown_readroot
+Wed May 16 03:13:01 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.OptionsTest-missing_elements_in_jsonpath_readroot
+Wed May 16 03:13:02 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.OptionsTest-a_definite_path_is_not_returned_as_list_by_default_map_readroot
+Wed May 16 03:13:02 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.OptionsTest-a_definite_path_is_returned_as_list_by_default_map_readroot
+Wed May 16 03:13:02 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-multi_properties_are_merged_by_default
+Wed May 16 03:13:03 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-a_definite_path_is_not_returned_as_list_by_default
+Wed May 16 03:13:03 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-issue_suppress_exceptions_does_not_break_indefinite_evaluation
+Wed May 16 03:13:03 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-a_path_evaluation_is_returned_as_VALUE_by_default
+Wed May 16 03:13:04 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-isbn_is_defaulted_when_option_is_provided
+Wed May 16 03:13:04 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-a_definite_path_can_be_returned_as_list
+Wed May 16 03:13:04 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-when_property_is_required_exception_is_thrown_2
+Wed May 16 03:13:05 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-when_property_is_required_exception_is_thrown
+Wed May 16 03:13:05 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-a_leafs_can_be_defaulted_to_null
+Wed May 16 03:13:05 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-a_leafs_is_not_defaulted_to_null
+Wed May 16 03:13:06 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-an_indefinite_path_can_be_returned_as_list
+Wed May 16 03:13:06 UTC 2018: No link for: com.jayway.jsonpath.OptionsTest-a_path_evaluation_can_be_returned_as_PATH_LIST
+Wed May 16 03:13:06 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.OptionsTest
+Wed May 16 03:13:07 UTC 2018: Found element on the queue
+Wed May 16 03:13:07 UTC 2018: Updating status
+Wed May 16 03:13:07 UTC 2018: Working
+Wed May 16 03:13:09 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.EscapeTest
+Wed May 16 03:13:09 UTC 2018: Setting lastTestMethodIndex: 58937
+Wed May 16 03:13:09 UTC 2018: Starting linking
+Wed May 16 03:13:09 UTC 2018: No link for: com.jayway.jsonpath.EscapeTest-urls_are_not_escaped
+Wed May 16 03:13:10 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.EscapeTest
+Wed May 16 03:13:10 UTC 2018: Found element on the queue
+Wed May 16 03:13:10 UTC 2018: Updating status
+Wed May 16 03:13:10 UTC 2018: Working
+Wed May 16 03:13:13 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.TapestryJsonProviderTest
+Wed May 16 03:13:13 UTC 2018: Setting lastTestMethodIndex: 58939
+Wed May 16 03:13:13 UTC 2018: Starting linking
+Wed May 16 03:13:13 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.TapestryJsonProviderTest-a_property_can_be_read
+Wed May 16 03:13:13 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.TapestryJsonProviderTest-an_object_can_be_read
+Wed May 16 03:13:13 UTC 2018: No link for: com.jayway.jsonpath.TapestryJsonProviderTest-a_filter_can_be_applied
+Wed May 16 03:13:13 UTC 2018: No link for: com.jayway.jsonpath.TapestryJsonProviderTest-result_can_be_mapped_to_object
+Wed May 16 03:13:14 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.TapestryJsonProviderTest
+Wed May 16 03:13:14 UTC 2018: Found element on the queue
+Wed May 16 03:13:14 UTC 2018: Updating status
+Wed May 16 03:13:14 UTC 2018: Working
+Wed May 16 03:13:17 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.ReturnTypeTest
+Wed May 16 03:13:17 UTC 2018: Setting lastTestMethodIndex: 58940
+Wed May 16 03:13:17 UTC 2018: Starting linking
+Wed May 16 03:13:17 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.ReturnTypeTest-assert_arrays_can_be_read
+Wed May 16 03:13:17 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.ReturnTypeTest-assert_ints_can_be_read
+Wed May 16 03:13:17 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.ReturnTypeTest-assert_longs_can_be_read
+Wed May 16 03:13:18 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.ReturnTypeTest-assert_maps_can_be_read
+Wed May 16 03:13:18 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.ReturnTypeTest-assert_boolean_values_can_be_read
+Wed May 16 03:13:19 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.ReturnTypeTest-assert_strings_can_be_read
+Wed May 16 03:13:19 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.ReturnTypeTest-assert_null_values_can_be_read
+Wed May 16 03:13:20 UTC 2018: No link for: com.jayway.jsonpath.ReturnTypeTest-a_path_evaluation_can_be_returned_as_PATH_LIST
+Wed May 16 03:13:21 UTC 2018: No link for: com.jayway.jsonpath.ReturnTypeTest-class_cast_exception_is_thrown_when_return_type_is_not_expected
+Wed May 16 03:13:21 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.ReturnTypeTest
+Wed May 16 03:13:21 UTC 2018: Found element on the queue
+Wed May 16 03:13:21 UTC 2018: Updating status
+Wed May 16 03:13:21 UTC 2018: Working
+Wed May 16 03:13:24 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest
+Wed May 16 03:13:24 UTC 2018: Setting lastTestMethodIndex: 58943
+Wed May 16 03:13:24 UTC 2018: Starting linking
+Wed May 16 03:13:24 UTC 2018: Code found com.jayway.jsonpath.spi.json.JacksonJsonNodeJsonProvider-length with com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_json_length_TextNode
+Wed May 16 03:13:24 UTC 2018: Code found com.jayway.jsonpath.spi.json.JacksonJsonNodeJsonProvider-unwrap with com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_unwrap_null
+Wed May 16 03:13:25 UTC 2018: Code found com.jayway.jsonpath.spi.json.JacksonJsonNodeJsonProvider-length with com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_json_length_boolean
+Wed May 16 03:13:25 UTC 2018: Code found com.jayway.jsonpath.spi.json.JacksonJsonNodeJsonProvider-toJson with com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_tojson_Non_json_node
+Wed May 16 03:13:25 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_json_remove_property
+Wed May 16 03:13:25 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-always_return_same_object_readLineageRoot
+Wed May 16 03:13:26 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_get_object_mapper
+Wed May 16 03:13:26 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-test_type_ref_fail
+Wed May 16 03:13:26 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_json_set_property
+Wed May 16 03:13:27 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-test_type_ref
+Wed May 16 03:13:27 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-setPropertyWithPOJO
+Wed May 16 03:13:27 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-json_can_be_parsed
+Wed May 16 03:13:27 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-list_of_numbers
+Wed May 16 03:13:28 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-always_return_same_object
+Wed May 16 03:13:28 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-ints_are_unwrapped
+Wed May 16 03:13:28 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_json_set_property_Map
+Wed May 16 03:13:29 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-jackson_json_remove_property_Map
+Wed May 16 03:13:29 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-json_can_be_parsed_readLineageRoot
+Wed May 16 03:13:29 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-always_return_same_object_readroot
+Wed May 16 03:13:29 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-strings_are_unwrapped
+Wed May 16 03:13:30 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-list_of_numbers_lineageRoot
+Wed May 16 03:13:30 UTC 2018: No link for: com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest-longs_are_unwrapped
+Wed May 16 03:13:30 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.JacksonJsonNodeJsonProviderTest
+Wed May 16 03:13:31 UTC 2018: Found element on the queue
+Wed May 16 03:13:31 UTC 2018: Updating status
+Wed May 16 03:13:31 UTC 2018: Working
+Wed May 16 03:13:33 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.JsonOrgJsonProviderTest
+Wed May 16 03:13:33 UTC 2018: Setting lastTestMethodIndex: 58946
+Wed May 16 03:13:33 UTC 2018: Starting linking
+Wed May 16 03:13:33 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.JsonOrgJsonProviderTest-a_filter_can_be_applied_readroot
+Wed May 16 03:13:34 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.JsonOrgJsonProviderTest-an_object_can_be_readroot
+Wed May 16 03:13:34 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.JsonOrgJsonProviderTest-an_object_can_be_read
+Wed May 16 03:13:34 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.JsonOrgJsonProviderTest-a_property_can_be_read
+Wed May 16 03:13:35 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-read with com.jayway.jsonpath.JsonOrgJsonProviderTest-read_books_with_isbn
+Wed May 16 03:13:35 UTC 2018: Code found com.jayway.jsonpath.internal.JsonContext-readRoot with com.jayway.jsonpath.JsonOrgJsonProviderTest-a_property_can_be_readroot
+Wed May 16 03:13:35 UTC 2018: No link for: com.jayway.jsonpath.JsonOrgJsonProviderTest-a_filter_can_be_applied
+Wed May 16 03:13:35 UTC 2018: No link for: com.jayway.jsonpath.JsonOrgJsonProviderTest-result_can_be_mapped_to_object
+Wed May 16 03:13:36 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.JsonOrgJsonProviderTest
+Wed May 16 03:13:36 UTC 2018: Found element on the queue
+Wed May 16 03:13:36 UTC 2018: Updating status
+Wed May 16 03:13:36 UTC 2018: Working
+Wed May 16 03:13:39 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.ReadContextTest
+Wed May 16 03:13:39 UTC 2018: Setting lastTestMethodIndex: 58949
+Wed May 16 03:13:39 UTC 2018: Starting linking
+Wed May 16 03:13:39 UTC 2018: No link for: com.jayway.jsonpath.ReadContextTest-json_can_be_fetched_as_string
+Wed May 16 03:13:39 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.ReadContextTest
+Wed May 16 03:13:40 UTC 2018: Found element on the queue
+Wed May 16 03:13:40 UTC 2018: Updating status
+Wed May 16 03:13:40 UTC 2018: Working
+Wed May 16 03:13:42 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.FilterTest
+Wed May 16 03:13:42 UTC 2018: Setting lastTestMethodIndex: 58951
+Wed May 16 03:13:42 UTC 2018: Starting linking
+Wed May 16 03:13:42 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-lt_filters_evaluates
+Wed May 16 03:13:42 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-in_filters_evaluates
+Wed May 16 03:13:43 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-not_empty_filter_evaluates
+Wed May 16 03:13:43 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-filters_can_be_combined
+Wed May 16 03:13:43 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-exists_filters_evaluates
+Wed May 16 03:13:44 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-type_filters_evaluates
+Wed May 16 03:13:44 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-lte_filters_evaluates
+Wed May 16 03:13:44 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-combine_filter_deep_criteria
+Wed May 16 03:13:45 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-gte_filters_evaluates
+Wed May 16 03:13:45 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-contains_filter_evaluates_on_array
+Wed May 16 03:13:45 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-size_filters_evaluates
+Wed May 16 03:13:46 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-contains_filter_evaluates_on_string
+Wed May 16 03:13:46 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-arrays_of_maps_can_be_filtered
+Wed May 16 03:13:46 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-ne_filters_evaluates
+Wed May 16 03:13:47 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-pattern_filters_evaluates
+Wed May 16 03:13:47 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-nin_filters_evaluates
+Wed May 16 03:13:47 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-filters_can_contain_json_path_expressions
+Wed May 16 03:13:48 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-gt_filters_evaluates
+Wed May 16 03:13:48 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.old.FilterTest-all_filters_evaluates
+Wed May 16 03:13:48 UTC 2018: No link for: com.jayway.jsonpath.old.FilterTest-arrays_of_objects_can_be_filtered
+Wed May 16 03:13:49 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.FilterTest
+Wed May 16 03:13:49 UTC 2018: Found element on the queue
+Wed May 16 03:13:49 UTC 2018: Updating status
+Wed May 16 03:13:49 UTC 2018: Working
+Wed May 16 03:13:51 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.ArrayIndexFilterTest
+Wed May 16 03:13:51 UTC 2018: Setting lastTestMethodIndex: 58957
+Wed May 16 03:13:51 UTC 2018: Starting linking
+Wed May 16 03:13:51 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayIndexFilterTest-tail_grabs_correct
+Wed May 16 03:13:52 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayIndexFilterTest-head_tail_grabs_correct
+Wed May 16 03:13:52 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayIndexFilterTest-tail_does_not_throw_when_index_out_of_bounds
+Wed May 16 03:13:52 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayIndexFilterTest-head_grabs_correct
+Wed May 16 03:13:53 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayIndexFilterTest-can_access_items_from_end_with_negative_index
+Wed May 16 03:13:53 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayIndexFilterTest-head_does_not_throw_when_index_out_of_bounds
+Wed May 16 03:13:53 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.ArrayIndexFilterTest
+Wed May 16 03:13:54 UTC 2018: Found element on the queue
+Wed May 16 03:13:54 UTC 2018: Updating status
+Wed May 16 03:13:54 UTC 2018: Working
+Wed May 16 03:13:56 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.ArrayPathTokenTest
+Wed May 16 03:13:56 UTC 2018: Setting lastTestMethodIndex: 58961
+Wed May 16 03:13:56 UTC 2018: Starting linking
+Wed May 16 03:13:56 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayPathTokenTest-array_can_be_sliced_between
+Wed May 16 03:13:57 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayPathTokenTest-array_can_be_sliced_from_2_from_tail
+Wed May 16 03:13:57 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayPathTokenTest-array_can_be_sliced_from_2
+Wed May 16 03:13:57 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayPathTokenTest-array_can_select_multiple_indexes
+Wed May 16 03:13:58 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayPathTokenTest-array_can_be_sliced_to_2_from_tail
+Wed May 16 03:13:58 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ArrayPathTokenTest-array_can_be_sliced_to_2
+Wed May 16 03:13:58 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.ArrayPathTokenTest
+Wed May 16 03:13:59 UTC 2018: Found element on the queue
+Wed May 16 03:13:59 UTC 2018: Updating status
+Wed May 16 03:13:59 UTC 2018: Working
+Wed May 16 03:14:01 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.PropertyPathTokenTest
+Wed May 16 03:14:01 UTC 2018: Setting lastTestMethodIndex: 58962
+Wed May 16 03:14:01 UTC 2018: Starting linking
+Wed May 16 03:14:01 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.internal.PropertyPathTokenTest-map_value_can_be_read_from_child_map
+Wed May 16 03:14:01 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.internal.PropertyPathTokenTest-map_value_can_be_read_from_map
+Wed May 16 03:14:02 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.internal.PropertyPathTokenTest-map_value_can_be_read_from_array
+Wed May 16 03:14:02 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PropertyPathTokenTest-property_not_found
+Wed May 16 03:14:02 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PropertyPathTokenTest-property_not_found_deep
+Wed May 16 03:14:03 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PropertyPathTokenTest-property_not_found_option_throw
+Wed May 16 03:14:03 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.PropertyPathTokenTest
+Wed May 16 03:14:03 UTC 2018: Found element on the queue
+Wed May 16 03:14:03 UTC 2018: Updating status
+Wed May 16 03:14:03 UTC 2018: Working
+Wed May 16 03:14:06 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.PredicatePathTokenTest
+Wed May 16 03:14:06 UTC 2018: Setting lastTestMethodIndex: 58966
+Wed May 16 03:14:06 UTC 2018: Starting linking
+Wed May 16 03:14:06 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PredicatePathTokenTest-a_filter_predicate_can_be_evaluated_on_decimal_criteria
+Wed May 16 03:14:06 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PredicatePathTokenTest-a_filter_predicate_can_be_evaluated_on_int_criteria
+Wed May 16 03:14:06 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PredicatePathTokenTest-a_filter_predicate_can_be_evaluated_on_string_criteria
+Wed May 16 03:14:07 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PredicatePathTokenTest-field_existence_can_be_checked
+Wed May 16 03:14:07 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PredicatePathTokenTest-multiple_criteria_can_be_used
+Wed May 16 03:14:07 UTC 2018: No link for: com.jayway.jsonpath.old.internal.PredicatePathTokenTest-boolean_criteria_evaluates
+Wed May 16 03:14:08 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.PredicatePathTokenTest
+Wed May 16 03:14:08 UTC 2018: Found element on the queue
+Wed May 16 03:14:08 UTC 2018: Updating status
+Wed May 16 03:14:08 UTC 2018: Working
+Wed May 16 03:14:11 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.TestInternal3
+Wed May 16 03:14:11 UTC 2018: Setting lastTestMethodIndex: 58970
+Wed May 16 03:14:11 UTC 2018: Starting linking
+Wed May 16 03:14:11 UTC 2018: Code found com.jayway.jsonpath.internal.path.CompiledPath-evaluate with com.jayway.jsonpath.old.internal.TestInternal3-a_root_object_can_be_evaluated
+Wed May 16 03:14:11 UTC 2018: Code found com.jayway.jsonpath.internal.path.CompiledPath-evaluate with com.jayway.jsonpath.old.internal.TestInternal3-a_wildcard_array_item_property_can_be_evaluated
+Wed May 16 03:14:11 UTC 2018: Code found com.jayway.jsonpath.internal.path.CompiledPath-evaluate with com.jayway.jsonpath.old.internal.TestInternal3-a_definite_array_item_property_can_be_evaluated
+Wed May 16 03:14:12 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.TestInternal3
+Wed May 16 03:14:12 UTC 2018: Found element on the queue
+Wed May 16 03:14:12 UTC 2018: Updating status
+Wed May 16 03:14:12 UTC 2018: Working
+Wed May 16 03:14:15 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.ScanPathTokenTest
+Wed May 16 03:14:15 UTC 2018: Setting lastTestMethodIndex: 58973
+Wed May 16 03:14:15 UTC 2018: Starting linking
+Wed May 16 03:14:15 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ScanPathTokenTest-a_document_can_be_scanned_for_wildcard3
+Wed May 16 03:14:15 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ScanPathTokenTest-a_document_can_be_scanned_for_predicate_match
+Wed May 16 03:14:15 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ScanPathTokenTest-a_document_can_be_scanned_for_existence
+Wed May 16 03:14:16 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ScanPathTokenTest-a_document_can_be_scanned_for_property
+Wed May 16 03:14:16 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ScanPathTokenTest-a_document_can_be_scanned_for_property_path
+Wed May 16 03:14:16 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ScanPathTokenTest-a_document_can_be_scanned_for_wildcard2
+Wed May 16 03:14:17 UTC 2018: No link for: com.jayway.jsonpath.old.internal.ScanPathTokenTest-a_document_can_be_scanned_for_wildcard
+Wed May 16 03:14:17 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.internal.ScanPathTokenTest
+Wed May 16 03:14:17 UTC 2018: Found element on the queue
+Wed May 16 03:14:17 UTC 2018: Updating status
+Wed May 16 03:14:17 UTC 2018: Working
+Wed May 16 03:14:20 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.NullHandlingTest
+Wed May 16 03:14:20 UTC 2018: Setting lastTestMethodIndex: 58977
+Wed May 16 03:14:20 UTC 2018: Starting linking
+Wed May 16 03:14:20 UTC 2018: No link for: com.jayway.jsonpath.old.NullHandlingTest-null_property_returns_null
+Wed May 16 03:14:20 UTC 2018: No link for: com.jayway.jsonpath.old.NullHandlingTest-the_age_of_all_with_age_defined_readLineageRoot
+Wed May 16 03:14:21 UTC 2018: No link for: com.jayway.jsonpath.old.NullHandlingTest-path
+Wed May 16 03:14:21 UTC 2018: No link for: com.jayway.jsonpath.old.NullHandlingTest-not_defined_property_throws_PathNotFoundException
+Wed May 16 03:14:21 UTC 2018: No link for: com.jayway.jsonpath.old.NullHandlingTest-the_age_of_all_with_age_defined
+Wed May 16 03:14:21 UTC 2018: No link for: com.jayway.jsonpath.old.NullHandlingTest-the_age_of_all_with_notpresent_readLineageRoot
+Wed May 16 03:14:22 UTC 2018: No link for: com.jayway.jsonpath.old.NullHandlingTest-last_token_defaults_to_null
+Wed May 16 03:14:22 UTC 2018: No link for: com.jayway.jsonpath.old.NullHandlingTest-path2
+Wed May 16 03:14:22 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.NullHandlingTest
+Wed May 16 03:14:23 UTC 2018: Found element on the queue
+Wed May 16 03:14:23 UTC 2018: Updating status
+Wed May 16 03:14:23 UTC 2018: Working
+Wed May 16 03:14:25 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.JsonPathTest
+Wed May 16 03:14:25 UTC 2018: Setting lastTestMethodIndex: 58981
+Wed May 16 03:14:25 UTC 2018: Starting linking
+Wed May 16 03:14:25 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.JsonPathTest-read_store_book_1
+Wed May 16 03:14:26 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.JsonPathTest-read_store_book_filter_by_isbn
+Wed May 16 03:14:26 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.JsonPathTest-read_store_book_index_0_and_1
+Wed May 16 03:14:26 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.JsonPathTest-read_path_with_colon
+Wed May 16 03:14:27 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.JsonPathTest-read_store_book_wildcard
+Wed May 16 03:14:27 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.JsonPathTest-read_document_from_root
+Wed May 16 03:14:27 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.JsonPathTest-read_store_book_pull_first_2
+Wed May 16 03:14:28 UTC 2018: Code found com.jayway.jsonpath.JsonPath-read with com.jayway.jsonpath.old.JsonPathTest-read_store_book_author
+Wed May 16 03:14:28 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-all_books_cheaper_than_10
+Wed May 16 03:14:28 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-all_members_of_all_documents
+Wed May 16 03:14:29 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-all_authors
+Wed May 16 03:14:29 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-array_start_expands
+Wed May 16 03:14:29 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-all_store_properties
+Wed May 16 03:14:29 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-bracket_notation_can_be_used_in_path
+Wed May 16 03:14:30 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-all_prices_in_store
+Wed May 16 03:14:30 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-access_index_out_of_bounds_does_not_throw_exception
+Wed May 16 03:14:30 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-dot_in_predicate_works
+Wed May 16 03:14:31 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-null_object_in_path
+Wed May 16 03:14:31 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-access_array_by_index_from_tail
+Wed May 16 03:14:31 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-bracket_notation_with_dots
+Wed May 16 03:14:32 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-filter_an_array
+Wed May 16 03:14:32 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-all_books
+Wed May 16 03:14:32 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-filter_an_array_on_index
+Wed May 16 03:14:32 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-missing_prop
+Wed May 16 03:14:33 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-invalid_paths_throw_invalid_path_exception
+Wed May 16 03:14:33 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-all_books_with_category_reference
+Wed May 16 03:14:33 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-dots_in_predicate_works
+Wed May 16 03:14:34 UTC 2018: No link for: com.jayway.jsonpath.old.JsonPathTest-exists_filter_with_nested_path
+Wed May 16 03:14:34 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.JsonPathTest
+Wed May 16 03:14:34 UTC 2018: Found element on the queue
+Wed May 16 03:14:34 UTC 2018: Updating status
+Wed May 16 03:14:34 UTC 2018: Working
+Wed May 16 03:14:37 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.JsonProviderTest
+Wed May 16 03:14:37 UTC 2018: Setting lastTestMethodIndex: 58986
+Wed May 16 03:14:37 UTC 2018: Starting linking
+Wed May 16 03:14:37 UTC 2018: Code found com.jayway.jsonpath.spi.json.JacksonJsonProvider-parse with com.jayway.jsonpath.old.JsonProviderTest-parse_document
+Wed May 16 03:14:37 UTC 2018: Code found com.jayway.jsonpath.spi.json.JacksonJsonProvider-parse with com.jayway.jsonpath.old.JsonProviderTest-parse_array
+Wed May 16 03:14:38 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.JsonProviderTest
+Wed May 16 03:14:38 UTC 2018: Found element on the queue
+Wed May 16 03:14:38 UTC 2018: Updating status
+Wed May 16 03:14:38 UTC 2018: Working
+Wed May 16 03:14:40 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.IssuesTest
+Wed May 16 03:14:40 UTC 2018: Setting lastTestMethodIndex: 58988
+Wed May 16 03:14:40 UTC 2018: Starting linking
+Wed May 16 03:14:40 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-full_ones_can_be_filtered
+Wed May 16 03:14:41 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_39
+Wed May 16 03:14:41 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_378
+Wed May 16 03:14:42 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_38
+Wed May 16 03:14:42 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_79
+Wed May 16 03:14:42 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_131
+Wed May 16 03:14:42 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_37
+Wed May 16 03:14:43 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_36
+Wed May 16 03:14:43 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_30
+Wed May 16 03:14:43 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_171
+Wed May 16 03:14:44 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_33
+Wed May 16 03:14:44 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_170
+Wed May 16 03:14:44 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_32
+Wed May 16 03:14:45 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_76
+Wed May 16 03:14:45 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-github_89
+Wed May 16 03:14:45 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_71
+Wed May 16 03:14:46 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-using_square_bracket_literal_path
+Wed May 16 03:14:46 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_309
+Wed May 16 03:14:46 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_29_b
+Wed May 16 03:14:47 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_29_a
+Wed May 16 03:14:47 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_143
+Wed May 16 03:14:47 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_24
+Wed May 16 03:14:48 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_26
+Wed May 16 03:14:48 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_131_3
+Wed May 16 03:14:48 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_22
+Wed May 16 03:14:48 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_131_2
+Wed May 16 03:14:49 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_60
+Wed May 16 03:14:49 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_28_string
+Wed May 16 03:14:49 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_22c
+Wed May 16 03:14:50 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_22b
+Wed May 16 03:14:50 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_28_boolean
+Wed May 16 03:14:50 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_94_1
+Wed May 16 03:14:51 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_94_2
+Wed May 16 03:14:51 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_15
+Wed May 16 03:14:51 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_151
+Wed May 16 03:14:51 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_97
+Wed May 16 03:14:52 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_11
+Wed May 16 03:14:52 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_99
+Wed May 16 03:14:52 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-a_test
+Wed May 16 03:14:53 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_11b
+Wed May 16 03:14:53 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_90
+Wed May 16 03:14:53 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-stack_overflow_question_1
+Wed May 16 03:14:54 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_129
+Wed May 16 03:14:54 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_28_int
+Wed May 16 03:14:54 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_114_d
+Wed May 16 03:14:55 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_114_a
+Wed May 16 03:14:55 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_46
+Wed May 16 03:14:55 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_45
+Wed May 16 03:14:56 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_114_c
+Wed May 16 03:14:56 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_114_b
+Wed May 16 03:14:56 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_42
+Wed May 16 03:14:56 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-array_root
+Wed May 16 03:14:57 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_43
+Wed May 16 03:14:57 UTC 2018: No link for: com.jayway.jsonpath.old.IssuesTest-issue_x
+Wed May 16 03:14:57 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.IssuesTest
+Wed May 16 03:14:58 UTC 2018: Found element on the queue
+Wed May 16 03:14:58 UTC 2018: Updating status
+Wed May 16 03:14:58 UTC 2018: Working
+Wed May 16 03:15:00 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.ArraySlicingTest
+Wed May 16 03:15:00 UTC 2018: Setting lastTestMethodIndex: 58999
+Wed May 16 03:15:00 UTC 2018: Starting linking
+Wed May 16 03:15:00 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_indexes
+Wed May 16 03:15:01 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_by_position
+Wed May 16 03:15:01 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_from_index
+Wed May 16 03:15:01 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_between_index_2
+Wed May 16 03:15:02 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_between_index_3
+Wed May 16 03:15:02 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_from_tail
+Wed May 16 03:15:02 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_between_index
+Wed May 16 03:15:03 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_between_index_out_of_bounds
+Wed May 16 03:15:03 UTC 2018: No link for: com.jayway.jsonpath.old.ArraySlicingTest-get_from_tail_index
+Wed May 16 03:15:03 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.ArraySlicingTest
+Wed May 16 03:15:04 UTC 2018: Found element on the queue
+Wed May 16 03:15:04 UTC 2018: Updating status
+Wed May 16 03:15:04 UTC 2018: Working
+Wed May 16 03:15:06 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.old.ComplianceTest
+Wed May 16 03:15:06 UTC 2018: Setting lastTestMethodIndex: 59003
+Wed May 16 03:15:06 UTC 2018: Starting linking
+Wed May 16 03:15:06 UTC 2018: No link for: com.jayway.jsonpath.old.ComplianceTest-test_two
+Wed May 16 03:15:07 UTC 2018: No link for: com.jayway.jsonpath.old.ComplianceTest-test_three
+Wed May 16 03:15:07 UTC 2018: No link for: com.jayway.jsonpath.old.ComplianceTest-test_four
+Wed May 16 03:15:07 UTC 2018: No link for: com.jayway.jsonpath.old.ComplianceTest-test_one
+Wed May 16 03:15:07 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.old.ComplianceTest
+Wed May 16 03:15:08 UTC 2018: Found element on the queue
+Wed May 16 03:15:08 UTC 2018: Updating status
+Wed May 16 03:15:08 UTC 2018: Working
+Wed May 16 03:15:10 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.FilterParseTest
+Wed May 16 03:15:10 UTC 2018: Setting lastTestMethodIndex: 59006
+Wed May 16 03:15:10 UTC 2018: Starting linking
+Wed May 16 03:15:10 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_matches_filter_can_be_serialized
+Wed May 16 03:15:11 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-and_combined_filters_can_be_serialized
+Wed May 16 03:15:11 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_not_empty_filter_can_be_serialized
+Wed May 16 03:15:11 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_size_filter_can_be_serialized
+Wed May 16 03:15:12 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-and_filter_can_be_serialized
+Wed May 16 03:15:12 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_ne_filter_can_be_serialized
+Wed May 16 03:15:12 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_eq_filter_can_be_serialized
+Wed May 16 03:15:13 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_gt_filter_can_be_serialized
+Wed May 16 03:15:13 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_exists_filter_can_be_serialized
+Wed May 16 03:15:13 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_not_exists_filter_can_be_serialized
+Wed May 16 03:15:14 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-in_string_filter_can_be_serialized
+Wed May 16 03:15:14 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_regex_filter_can_be_serialized
+Wed May 16 03:15:14 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_type_filter_can_be_serialized
+Wed May 16 03:15:14 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_all_filter_can_be_serialized
+Wed May 16 03:15:15 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_nin_filter_can_be_serialized
+Wed May 16 03:15:15 UTC 2018: Code found com.jayway.jsonpath.Filter-parse with com.jayway.jsonpath.FilterParseTest-an_invalid_filter_can_not_be_parsed
+Wed May 16 03:15:15 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_gte_filter_can_be_serialized
+Wed May 16 03:15:16 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-or_combined_filters_can_be_serialized
+Wed May 16 03:15:16 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_subsetof_filter_can_be_serialized
+Wed May 16 03:15:16 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_deep_path_filter_can_be_serialized
+Wed May 16 03:15:17 UTC 2018: Code found com.jayway.jsonpath.Filter-parse with com.jayway.jsonpath.FilterParseTest-a_filter_can_be_parsed
+Wed May 16 03:15:17 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_in_filter_can_be_serialized
+Wed May 16 03:15:17 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_lte_filter_can_be_serialized
+Wed May 16 03:15:17 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_lt_filter_can_be_serialized
+Wed May 16 03:15:18 UTC 2018: Code found com.jayway.jsonpath.Filter-filter with com.jayway.jsonpath.FilterParseTest-a_contains_filter_can_be_serialized
+Wed May 16 03:15:18 UTC 2018: No link for: com.jayway.jsonpath.FilterParseTest-a_doc_ref_filter_can_be_serialized
+Wed May 16 03:15:18 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.FilterParseTest
+Wed May 16 03:15:19 UTC 2018: Found element on the queue
+Wed May 16 03:15:19 UTC 2018: Updating status
+Wed May 16 03:15:19 UTC 2018: Working
+Wed May 16 03:15:21 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.PathCompilerTest
+Wed May 16 03:15:21 UTC 2018: Setting lastTestMethodIndex: 59009
+Wed May 16 03:15:21 UTC 2018: Starting linking
+Wed May 16 03:15:21 UTC 2018: Code found com.jayway.jsonpath.internal.path.PathCompiler-compile with com.jayway.jsonpath.PathCompilerTest-a_wildcard_can_be_compiled
+Wed May 16 03:15:22 UTC 2018: Code found com.jayway.jsonpath.internal.path.PathCompiler-compile with com.jayway.jsonpath.PathCompilerTest-an_array_slice_path_can_be_compiled
+Wed May 16 03:15:22 UTC 2018: Code found com.jayway.jsonpath.internal.path.PathCompiler-compile with com.jayway.jsonpath.PathCompilerTest-a_bracket_notation_property_token_can_be_compiled
+Wed May 16 03:15:22 UTC 2018: Code found com.jayway.jsonpath.internal.path.PathCompiler-compile with com.jayway.jsonpath.PathCompilerTest-a_property_token_can_be_compiled
+Wed May 16 03:15:23 UTC 2018: Code found com.jayway.jsonpath.internal.path.PathCompiler-compile with com.jayway.jsonpath.PathCompilerTest-a_property_chain_can_be_compiled
+Wed May 16 03:15:23 UTC 2018: Code found com.jayway.jsonpath.internal.path.PathCompiler-compile with com.jayway.jsonpath.PathCompilerTest-a_root_path_can_be_compiled
+Wed May 16 03:15:23 UTC 2018: Code found com.jayway.jsonpath.internal.path.PathCompiler-compile with com.jayway.jsonpath.PathCompilerTest-an_array_index_path_can_be_compiled
+Wed May 16 03:15:24 UTC 2018: Code found com.jayway.jsonpath.internal.path.PathCompiler-compile with com.jayway.jsonpath.PathCompilerTest-a_multi_property_token_can_be_compiled
+Wed May 16 03:15:24 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-issue_predicate_brackets_must_change_priorities
+Wed May 16 03:15:24 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_path_may_not_end_with_scan
+Wed May 16 03:15:25 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_path_may_not_end_with_period_2
+Wed May 16 03:15:25 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-property_must_be_separated_by_commas
+Wed May 16 03:15:25 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_root_path_must_be_followed_by_period_or_bracket
+Wed May 16 03:15:26 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-array_indexes_must_be_separated_by_commas
+Wed May 16 03:15:26 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-issue_predicate_can_have_escaped_backslash_in_prop
+Wed May 16 03:15:26 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-issue_predicate_or_has_lower_priority_than_and
+Wed May 16 03:15:26 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_property_may_not_contain_blanks
+Wed May 16 03:15:27 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_square_bracket_may_not_follow_a_period
+Wed May 16 03:15:27 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-an_inline_criteria_can_be_parsed
+Wed May 16 03:15:27 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_path_may_not_end_with_scan_2
+Wed May 16 03:15:28 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_placeholder_criteria_can_be_parsed
+Wed May 16 03:15:28 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-issue_predicate_can_have_and_in_prop
+Wed May 16 03:15:28 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-issue_predicate_can_have_square_bracket_in_prop
+Wed May 16 03:15:29 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-issue_predicate_can_have_bracket_in_regex
+Wed May 16 03:15:29 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_path_may_not_end_with_period
+Wed May 16 03:15:29 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_scan_token_can_be_parsed
+Wed May 16 03:15:30 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-issue_predicate_can_have_and_in_regex
+Wed May 16 03:15:30 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_wildcard_can_follow_a_property
+Wed May 16 03:15:30 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-a_path_must_start_with_$_or_at
+Wed May 16 03:15:31 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-accept_only_a_single_comma_between_indexes
+Wed May 16 03:15:31 UTC 2018: No link for: com.jayway.jsonpath.PathCompilerTest-trailing_comma_after_list_is_not_accepted
+Wed May 16 03:15:31 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.PathCompilerTest
+Wed May 16 03:15:32 UTC 2018: Found element on the queue
+Wed May 16 03:15:32 UTC 2018: Updating status
+Wed May 16 03:15:32 UTC 2018: Working
+Wed May 16 03:15:35 UTC 2018: Start lafaspot__JsonPath test class com.jayway.jsonpath.InlineFilterTest
+Wed May 16 03:15:35 UTC 2018: Setting lastTestMethodIndex: 59016
+Wed May 16 03:15:35 UTC 2018: Starting linking
+Wed May 16 03:15:35 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-path_can_be_on_both_side_of_operator
+Wed May 16 03:15:35 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-root_context_can_be_referred_in_predicate
+Wed May 16 03:15:35 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-escape_pattern
+Wed May 16 03:15:36 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-escaped_literals
+Wed May 16 03:15:36 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-patterns_can_be_evaluated
+Wed May 16 03:15:37 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-lt_check_does_not_break_evaluation
+Wed May 16 03:15:37 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-escaped_literals2
+Wed May 16 03:15:37 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-filter_evaluation_does_not_break_path_evaluation
+Wed May 16 03:15:38 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-path_can_be_on_either_side_of_operator
+Wed May 16 03:15:38 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-no_path_ref_in_filter_hit_all
+Wed May 16 03:15:38 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-simple_inline_or_statement_evaluates
+Wed May 16 03:15:39 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-no_path_ref_in_filter_hit_none
+Wed May 16 03:15:39 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-negate_exists_check_primitive
+Wed May 16 03:15:39 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-multiple_context_object_can_be_refered
+Wed May 16 03:15:40 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-patterns_can_be_evaluated_with_ignore_case
+Wed May 16 03:15:40 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-negate_exists_check
+Wed May 16 03:15:41 UTC 2018: No link for: com.jayway.jsonpath.InlineFilterTest-equality_check_does_not_break_evaluation
+Wed May 16 03:15:41 UTC 2018: Linking done for lafaspot__JsonPath test class com.jayway.jsonpath.InlineFilterTest

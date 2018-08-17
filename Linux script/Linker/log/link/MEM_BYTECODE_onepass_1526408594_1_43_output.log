@@ -1,0 +1,113 @@
+Tue May 15 22:44:48 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:44:48 UTC 2018: Starting
+Tue May 15 22:44:49 UTC 2018: Found element on the queue
+Tue May 15 22:44:49 UTC 2018: Updating status
+Tue May 15 22:44:49 UTC 2018: Working
+Tue May 15 22:44:49 UTC 2018: Create project parser
+Tue May 15 22:44:55 UTC 2018: Create slicer
+Tue May 15 22:44:57 UTC 2018: Create call graph
+Tue May 15 22:45:00 UTC 2018: Create point analysis
+Tue May 15 22:45:00 UTC 2018: Create call graph done
+Tue May 15 22:45:00 UTC 2018: Start io-project__meerka test class meerkat.modules.encryption.aes.AesPluginTest
+Tue May 15 22:45:00 UTC 2018: Setting lastTestMethodIndex: 49536
+Tue May 15 22:45:00 UTC 2018: Starting linking
+Tue May 15 22:45:00 UTC 2018: No link for: meerkat.modules.encryption.aes.AesPluginTest-checkLongerAesEncoding
+Tue May 15 22:45:01 UTC 2018: No link for: meerkat.modules.encryption.aes.AesPluginTest-checkIncorrectPassword
+Tue May 15 22:45:01 UTC 2018: No link for: meerkat.modules.encryption.aes.AesPluginTest-checkSimpleAesEncoding
+Tue May 15 22:45:01 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.encryption.aes.AesPluginTest
+Tue May 15 22:45:01 UTC 2018: Found element on the queue
+Tue May 15 22:45:01 UTC 2018: Updating status
+Tue May 15 22:45:01 UTC 2018: Working
+Tue May 15 22:45:05 UTC 2018: Start io-project__meerka test class meerkat.modules.encryption.xor.XorPluginTest
+Tue May 15 22:45:05 UTC 2018: Setting lastTestMethodIndex: 49538
+Tue May 15 22:45:05 UTC 2018: Starting linking
+Tue May 15 22:45:05 UTC 2018: No link for: meerkat.modules.encryption.xor.XorPluginTest-checkMultiBufferXorEncoding
+Tue May 15 22:45:05 UTC 2018: No link for: meerkat.modules.encryption.xor.XorPluginTest-checkSimpleXorEncoding
+Tue May 15 22:45:05 UTC 2018: No link for: meerkat.modules.encryption.xor.XorPluginTest-incorrectPasswordCheck
+Tue May 15 22:45:05 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.encryption.xor.XorPluginTest
+Tue May 15 22:45:06 UTC 2018: Found element on the queue
+Tue May 15 22:45:06 UTC 2018: Updating status
+Tue May 15 22:45:06 UTC 2018: Working
+Tue May 15 22:45:08 UTC 2018: Start io-project__meerka test class meerkat.modules.encryption.des.DesPluginTest
+Tue May 15 22:45:08 UTC 2018: Setting lastTestMethodIndex: 49541
+Tue May 15 22:45:08 UTC 2018: Starting linking
+Tue May 15 22:45:08 UTC 2018: No link for: meerkat.modules.encryption.des.DesPluginTest-checkLongerDesEncoding
+Tue May 15 22:45:08 UTC 2018: No link for: meerkat.modules.encryption.des.DesPluginTest-checkSimpleDesEncoding
+Tue May 15 22:45:09 UTC 2018: No link for: meerkat.modules.encryption.des.DesPluginTest-checkIncorrectPassword
+Tue May 15 22:45:09 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.encryption.des.DesPluginTest
+Tue May 15 22:45:09 UTC 2018: Found element on the queue
+Tue May 15 22:45:09 UTC 2018: Updating status
+Tue May 15 22:45:09 UTC 2018: Working
+Tue May 15 22:45:12 UTC 2018: Start io-project__meerka test class meerkat.modules.core.DecryptionPreviewJobTest
+Tue May 15 22:45:12 UTC 2018: Setting lastTestMethodIndex: 49543
+Tue May 15 22:45:12 UTC 2018: Starting linking
+Tue May 15 22:45:12 UTC 2018: No link for: meerkat.modules.core.DecryptionPreviewJobTest-test1
+Tue May 15 22:45:12 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.core.DecryptionPreviewJobTest
+Tue May 15 22:45:13 UTC 2018: Found element on the queue
+Tue May 15 22:45:13 UTC 2018: Updating status
+Tue May 15 22:45:13 UTC 2018: Working
+Tue May 15 22:45:15 UTC 2018: Start io-project__meerka test class meerkat.modules.core.DecryptionJobBugTest
+Tue May 15 22:45:15 UTC 2018: Setting lastTestMethodIndex: 49545
+Tue May 15 22:45:15 UTC 2018: Starting linking
+Tue May 15 22:45:15 UTC 2018: No link for: meerkat.modules.core.DecryptionJobBugTest-test1
+Tue May 15 22:45:15 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.core.DecryptionJobBugTest
+Tue May 15 22:45:16 UTC 2018: Found element on the queue
+Tue May 15 22:45:16 UTC 2018: Updating status
+Tue May 15 22:45:16 UTC 2018: Working
+Tue May 15 22:45:18 UTC 2018: Start io-project__meerka test class meerkat.modules.core.PluginsTest
+Tue May 15 22:45:18 UTC 2018: Setting lastTestMethodIndex: 49547
+Tue May 15 22:45:18 UTC 2018: Starting linking
+Tue May 15 22:45:18 UTC 2018: Code found meerkat.modules.core.Plugins-getHealthStatus with meerkat.modules.core.PluginsTest-testGetHealthStatusIEncryptionPlugin
+Tue May 15 22:45:18 UTC 2018: Code found meerkat.modules.core.Plugins-getHealthStatus with meerkat.modules.core.PluginsTest-testGetHealthStatusISerializationPlugin
+Tue May 15 22:45:19 UTC 2018: Code found meerkat.modules.core.Plugins-getHealthStatus with meerkat.modules.core.PluginsTest-testGetHealthStatusIPlugin1
+Tue May 15 22:45:19 UTC 2018: Code found meerkat.modules.core.Plugins-getHealthStatus with meerkat.modules.core.PluginsTest-testGetHealthStatusIOverridePlugin
+Tue May 15 22:45:19 UTC 2018: Code found meerkat.modules.core.Plugins-getHealthStatus with meerkat.modules.core.PluginsTest-testGetHealthStatusIPlugin2
+Tue May 15 22:45:19 UTC 2018: Code found meerkat.modules.core.Plugins-getHealthStatus with meerkat.modules.core.PluginsTest-testGetHealthStatusIImportExportPlugin
+Tue May 15 22:45:19 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.core.PluginsTest
+Tue May 15 22:45:20 UTC 2018: Found element on the queue
+Tue May 15 22:45:20 UTC 2018: Updating status
+Tue May 15 22:45:20 UTC 2018: Working
+Tue May 15 22:45:22 UTC 2018: Start io-project__meerka test class meerkat.modules.core.DecryptionJobTest
+Tue May 15 22:45:22 UTC 2018: Setting lastTestMethodIndex: 49550
+Tue May 15 22:45:22 UTC 2018: Starting linking
+Tue May 15 22:45:23 UTC 2018: No link for: meerkat.modules.core.DecryptionJobTest-test1
+Tue May 15 22:45:23 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.core.DecryptionJobTest
+Tue May 15 22:45:23 UTC 2018: Found element on the queue
+Tue May 15 22:45:23 UTC 2018: Updating status
+Tue May 15 22:45:23 UTC 2018: Working
+Tue May 15 22:45:26 UTC 2018: Start io-project__meerka test class meerkat.modules.core.PluginHealthStatusTest
+Tue May 15 22:45:26 UTC 2018: Setting lastTestMethodIndex: 49552
+Tue May 15 22:45:26 UTC 2018: Starting linking
+Tue May 15 22:45:26 UTC 2018: Code found meerkat.modules.core.PluginHealthStatus-isReady with meerkat.modules.core.PluginHealthStatusTest-testIsReady
+Tue May 15 22:45:26 UTC 2018: Code found meerkat.modules.core.PluginHealthStatus-getMessages with meerkat.modules.core.PluginHealthStatusTest-testGetMessagesExceptions
+Tue May 15 22:45:26 UTC 2018: Code found meerkat.modules.core.PluginHealthStatus-getMessages with meerkat.modules.core.PluginHealthStatusTest-testGetMessagesBasic
+Tue May 15 22:45:27 UTC 2018: No link for: meerkat.modules.core.PluginHealthStatusTest-testPluginField
+Tue May 15 22:45:27 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.core.PluginHealthStatusTest
+Tue May 15 22:45:27 UTC 2018: Found element on the queue
+Tue May 15 22:45:27 UTC 2018: Updating status
+Tue May 15 22:45:27 UTC 2018: Working
+Tue May 15 22:45:30 UTC 2018: Start io-project__meerka test class meerkat.modules.core.MementoTest
+Tue May 15 22:45:30 UTC 2018: Setting lastTestMethodIndex: 49555
+Tue May 15 22:45:30 UTC 2018: Starting linking
+Tue May 15 22:45:30 UTC 2018: Code found meerkat.modules.core.Memento-getDecryptionPipeline with meerkat.modules.core.MementoTest-testGetDecryptionPipeline
+Tue May 15 22:45:30 UTC 2018: Code found meerkat.modules.core.Memento-equals with meerkat.modules.core.MementoTest-testEquals
+Tue May 15 22:45:30 UTC 2018: Code found meerkat.modules.core.Memento-mementoToByteBuffer with meerkat.modules.core.MementoTest-testMementoToByteBuffer
+Tue May 15 22:45:31 UTC 2018: Code found meerkat.modules.core.Memento-hashCode with meerkat.modules.core.MementoTest-testHashCode
+Tue May 15 22:45:31 UTC 2018: Code found meerkat.modules.core.Memento-byteBufferToMemento with meerkat.modules.core.MementoTest-testByteBufferToMemento
+Tue May 15 22:45:31 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.core.MementoTest
+Tue May 15 22:45:32 UTC 2018: Found element on the queue
+Tue May 15 22:45:32 UTC 2018: Updating status
+Tue May 15 22:45:32 UTC 2018: Working
+Tue May 15 22:45:34 UTC 2018: Start io-project__meerka test class meerkat.modules.core.EncryptionJobTest
+Tue May 15 22:45:34 UTC 2018: Setting lastTestMethodIndex: 49558
+Tue May 15 22:45:34 UTC 2018: Starting linking
+Tue May 15 22:45:34 UTC 2018: No link for: meerkat.modules.core.EncryptionJobTest-test1
+Tue May 15 22:45:34 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.core.EncryptionJobTest
+Tue May 15 22:45:35 UTC 2018: Found element on the queue
+Tue May 15 22:45:35 UTC 2018: Updating status
+Tue May 15 22:45:35 UTC 2018: Working
+Tue May 15 22:45:38 UTC 2018: Start io-project__meerka test class meerkat.modules.core.CoreTest
+Tue May 15 22:45:38 UTC 2018: Setting lastTestMethodIndex: 49561
+Tue May 15 22:45:38 UTC 2018: Starting linking
+Tue May 15 22:45:38 UTC 2018: Code found meerkat.modules.core.Core-start with meerkat.modules.core.CoreTest-testSimpleStartup
+Tue May 15 22:45:38 UTC 2018: Linking done for io-project__meerka test class meerkat.modules.core.CoreTest

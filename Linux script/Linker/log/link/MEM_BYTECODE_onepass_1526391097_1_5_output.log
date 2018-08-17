@@ -1,0 +1,433 @@
+Tue May 15 13:36:11 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:36:12 UTC 2018: Starting
+Tue May 15 13:36:13 UTC 2018: Found element on the queue
+Tue May 15 13:36:13 UTC 2018: Updating status
+Tue May 15 13:36:13 UTC 2018: Working
+Tue May 15 13:36:13 UTC 2018: Create project parser
+Tue May 15 13:36:24 UTC 2018: Create slicer
+Tue May 15 13:36:29 UTC 2018: Create call graph
+Tue May 15 13:36:40 UTC 2018: Create point analysis
+Tue May 15 13:36:40 UTC 2018: Create call graph done
+Tue May 15 13:36:40 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.FeatureReportPageTest
+Tue May 15 13:36:40 UTC 2018: Setting lastTestMethodIndex: 34094
+Tue May 15 13:36:40 UTC 2018: Starting linking
+Tue May 15 13:36:41 UTC 2018: Code found net.masterthought.cucumber.generators.FeatureReportPage-getWebPage with net.masterthought.cucumber.generators.FeatureReportPageTest-getWebPage_ReturnsFeatureFileName
+Tue May 15 13:36:41 UTC 2018: Code found net.masterthought.cucumber.generators.FeatureReportPage-prepareReport with net.masterthought.cucumber.generators.FeatureReportPageTest-prepareReport_AddsCustomProperties
+Tue May 15 13:36:41 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.FeatureReportPageTest
+Tue May 15 13:36:41 UTC 2018: Found element on the queue
+Tue May 15 13:36:41 UTC 2018: Updating status
+Tue May 15 13:36:41 UTC 2018: Working
+Tue May 15 13:36:44 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.util.CounterTest
+Tue May 15 13:36:44 UTC 2018: Setting lastTestMethodIndex: 34095
+Tue May 15 13:36:44 UTC 2018: Starting linking
+Tue May 15 13:36:44 UTC 2018: Code found net.masterthought.cucumber.util.Counter-next with net.masterthought.cucumber.util.CounterTest-next_shouldIncrement
+Tue May 15 13:36:44 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.util.CounterTest
+Tue May 15 13:36:45 UTC 2018: Found element on the queue
+Tue May 15 13:36:45 UTC 2018: Updating status
+Tue May 15 13:36:45 UTC 2018: Working
+Tue May 15 13:36:49 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.ReportBuilderTest
+Tue May 15 13:36:49 UTC 2018: Setting lastTestMethodIndex: 34097
+Tue May 15 13:36:49 UTC 2018: Starting linking
+Tue May 15 13:36:49 UTC 2018: Code found net.masterthought.cucumber.ReportBuilder-generateReports with net.masterthought.cucumber.ReportBuilderTest-generateReports_GeneratesErrorPage
+Tue May 15 13:36:49 UTC 2018: Code found net.masterthought.cucumber.ReportBuilder-generateReports with net.masterthought.cucumber.ReportBuilderTest-generateReports_OnException_GeneratesErrorPage
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-copyResources_OnInvalidPath_ThrowsException
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-loadTrends_ReturnsTrends
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-saveTrends_OnInvalidFile_ThrowsException
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-collectPages_OnTrendsFile_CollectsPages
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-loadTrends_OnInvalidTrendsFile_ThrowsExceptions
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-generatePages_CallsGeneratePagesOverPassedPages
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-updateAndGenerateTrends_OnTrendsLimit_ReturnsUpdatedTrends
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-copyStaticResources_CopiesRequiredFiles
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-loadTrends_OnMissingTrendsFile_ReturnsEmptyTrends
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-generateErrorPage_GeneratesErrorPage
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-collectPages_CollectsPages
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-updateAndGenerateTrends_ReturnsUpdatedTrends
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-createEmbeddingsDirectory_CreatesDirectory
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-appendCurrentReport_AppendsDataToTrends
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-ReportBuilder_storesFilesAndConfiguratio
+Tue May 15 13:36:49 UTC 2018: No link for: net.masterthought.cucumber.ReportBuilderTest-loadTrends_OnInvalidTrendsFormatFile_ThrowsExceptions
+Tue May 15 13:36:49 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.ReportBuilderTest
+Tue May 15 13:36:50 UTC 2018: Found element on the queue
+Tue May 15 13:36:50 UTC 2018: Updating status
+Tue May 15 13:36:50 UTC 2018: Working
+Tue May 15 13:36:55 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.UtilTest
+Tue May 15 13:36:55 UTC 2018: Setting lastTestMethodIndex: 34099
+Tue May 15 13:36:55 UTC 2018: Starting linking
+Tue May 15 13:36:55 UTC 2018: Code found net.masterthought.cucumber.util.Util-formatAsDecimal with net.masterthought.cucumber.UtilTest-formatAsDecimal_ReturnsFormattedValue
+Tue May 15 13:36:55 UTC 2018: Code found net.masterthought.cucumber.util.Util-formatAsPercentage with net.masterthought.cucumber.UtilTest-formatAsPercentage_ReturnsFormatedValue
+Tue May 15 13:36:55 UTC 2018: Code found net.masterthought.cucumber.util.Util-formatAsPercentage with net.masterthought.cucumber.UtilTest-formatAsPercentage_OnZeroTotal_ReturnsFormattedValue
+Tue May 15 13:36:55 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.UtilTest
+Tue May 15 13:36:56 UTC 2018: Found element on the queue
+Tue May 15 13:36:56 UTC 2018: Updating status
+Tue May 15 13:36:56 UTC 2018: Working
+Tue May 15 13:36:59 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.TrendsTest
+Tue May 15 13:36:59 UTC 2018: Setting lastTestMethodIndex: 34100
+Tue May 15 13:36:59 UTC 2018: Starting linking
+Tue May 15 13:36:59 UTC 2018: Code found net.masterthought.cucumber.Trends-addBuild with net.masterthought.cucumber.TrendsTest-addBuild_OnMissingDataForSteps_FillsMissingDataForSteps
+Tue May 15 13:36:59 UTC 2018: Code found net.masterthought.cucumber.Trends-addBuild with net.masterthought.cucumber.TrendsTest-addBuild_AddsNewResultAtTheLastPosition
+Tue May 15 13:36:59 UTC 2018: Code found net.masterthought.cucumber.Trends-limitItems with net.masterthought.cucumber.TrendsTest-limitItems_ReducesNumberOfItems
+Tue May 15 13:36:59 UTC 2018: No link for: net.masterthought.cucumber.TrendsTest-applyPatchForFeatures_OnFailedGreaterThanTotal_ChangesTotalFeatureAndFailed
+Tue May 15 13:36:59 UTC 2018: No link for: net.masterthought.cucumber.TrendsTest-copyLastElements_OnBigLimit_ReturnsPassedLongArray
+Tue May 15 13:36:59 UTC 2018: No link for: net.masterthought.cucumber.TrendsTest-copyLastElements_OnBigLimit_ReturnsPassedStringArray
+Tue May 15 13:36:59 UTC 2018: No link for: net.masterthought.cucumber.TrendsTest-copyLastElements_OnBigLimit_ReturnsPassedIntArray
+Tue May 15 13:36:59 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.TrendsTest
+Tue May 15 13:37:00 UTC 2018: Found element on the queue
+Tue May 15 13:37:00 UTC 2018: Updating status
+Tue May 15 13:37:00 UTC 2018: Working
+Tue May 15 13:37:03 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.StepTest
+Tue May 15 13:37:03 UTC 2018: Setting lastTestMethodIndex: 34102
+Tue May 15 13:37:03 UTC 2018: Starting linking
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getMatch with net.masterthought.cucumber.json.StepTest-getMatch_ReturnsMatch
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getKeyword with net.masterthought.cucumber.json.StepTest-getKeyword_ReturnsKeyword
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getDuration with net.masterthought.cucumber.json.StepTest-getDuration_OnMissingDuration_ReturnsZero
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getRows with net.masterthought.cucumber.json.StepTest-getRows_ReturnsRows
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getEmbeddings with net.masterthought.cucumber.json.StepTest-getEmbeddings_ReturnsEmbeddings
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getDuration with net.masterthought.cucumber.json.StepTest-getDuration_ReturnsDuration
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getOutput with net.masterthought.cucumber.json.StepTest-getOutput_ReturnsOutput
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getName with net.masterthought.cucumber.json.StepTest-getName_ReturnsName
+Tue May 15 13:37:03 UTC 2018: Code found net.masterthought.cucumber.json.Step-getResult with net.masterthought.cucumber.json.StepTest-getResult_ReturnResult
+Tue May 15 13:37:03 UTC 2018: No link for: net.masterthought.cucumber.json.StepTest-getStatus_ReturnsStatus
+Tue May 15 13:37:03 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.StepTest
+Tue May 15 13:37:04 UTC 2018: Found element on the queue
+Tue May 15 13:37:04 UTC 2018: Updating status
+Tue May 15 13:37:04 UTC 2018: Working
+Tue May 15 13:37:07 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.RowTest
+Tue May 15 13:37:07 UTC 2018: Setting lastTestMethodIndex: 34104
+Tue May 15 13:37:07 UTC 2018: Starting linking
+Tue May 15 13:37:07 UTC 2018: Code found net.masterthought.cucumber.json.Row-getCells with net.masterthought.cucumber.json.RowTest-getCells_ReturnsCells
+Tue May 15 13:37:07 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.RowTest
+Tue May 15 13:37:09 UTC 2018: Found element on the queue
+Tue May 15 13:37:09 UTC 2018: Updating status
+Tue May 15 13:37:09 UTC 2018: Working
+Tue May 15 13:37:12 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.support.StatusTest
+Tue May 15 13:37:12 UTC 2018: Setting lastTestMethodIndex: 34106
+Tue May 15 13:37:12 UTC 2018: Starting linking
+Tue May 15 13:37:12 UTC 2018: No link for: net.masterthought.cucumber.json.support.StatusTest-hasPassed_ReturnsFalseForNoPASSED
+Tue May 15 13:37:12 UTC 2018: No link for: net.masterthought.cucumber.json.support.StatusTest-getLabel_ReturnsNameStartingFromUpperCase
+Tue May 15 13:37:12 UTC 2018: No link for: net.masterthought.cucumber.json.support.StatusTest-hasPassed_ReturnsTrueForPASSED
+Tue May 15 13:37:12 UTC 2018: No link for: net.masterthought.cucumber.json.support.StatusTest-getName_ReturnsNameAsLowerCase
+Tue May 15 13:37:12 UTC 2018: No link for: net.masterthought.cucumber.json.support.StatusTest-valuesOf_ReturnsOrderedStatuses
+Tue May 15 13:37:12 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.support.StatusTest
+Tue May 15 13:37:13 UTC 2018: Found element on the queue
+Tue May 15 13:37:13 UTC 2018: Updating status
+Tue May 15 13:37:13 UTC 2018: Working
+Tue May 15 13:37:17 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.support.StepObjectTest
+Tue May 15 13:37:17 UTC 2018: Setting lastTestMethodIndex: 34109
+Tue May 15 13:37:17 UTC 2018: Starting linking
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-addDuration with net.masterthought.cucumber.json.support.StepObjectTest-addDurationSumsDurations
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-compareTo with net.masterthought.cucumber.json.support.StepObjectTest-compareTo_OnSameLocation_ReturnsZero
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-getLocation with net.masterthought.cucumber.json.support.StepObjectTest-getLocation_ReturnsLocation
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-getFormattedTotalDuration with net.masterthought.cucumber.json.support.StepObjectTest-getFormattedTotalDuration_ReturnsFormattedSumDurations
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-getAverageDuration with net.masterthought.cucumber.json.support.StepObjectTest-getAverageDurations_ReturnsTime
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-getFormattedAverageDuration with net.masterthought.cucumber.json.support.StepObjectTest-getFormattedAverageDuration_ReturnsFormattedSumDurations
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-getPercentageResult with net.masterthought.cucumber.json.support.StepObjectTest-getPercentageResult_Returns0Percent
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-compareTo with net.masterthought.cucumber.json.support.StepObjectTest-compareTo_OnDifferentLocation_ReturnsNoneZero
+Tue May 15 13:37:17 UTC 2018: Code found net.masterthought.cucumber.json.support.StepObject-getPercentageResult with net.masterthought.cucumber.json.support.StepObjectTest-getPercentageResult_OnOnlyFailures_Returns0Percent
+Tue May 15 13:37:17 UTC 2018: No link for: net.masterthought.cucumber.json.support.StepObjectTest-StepObject_OnNullLocation_ThrowsException
+Tue May 15 13:37:18 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.support.StepObjectTest
+Tue May 15 13:37:19 UTC 2018: Found element on the queue
+Tue May 15 13:37:19 UTC 2018: Updating status
+Tue May 15 13:37:19 UTC 2018: Working
+Tue May 15 13:37:24 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.support.TagObjectTest
+Tue May 15 13:37:24 UTC 2018: Setting lastTestMethodIndex: 34112
+Tue May 15 13:37:24 UTC 2018: Starting linking
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getStatus with net.masterthought.cucumber.json.support.TagObjectTest-getStatus_ReturnsStatus
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getDurations with net.masterthought.cucumber.json.support.TagObjectTest-getDurations_ReturnsDurations
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-compareTo with net.masterthought.cucumber.json.support.TagObjectTest-compareTo_OnDifferentTagName_ReturnsNoneZero
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getReportFileName with net.masterthought.cucumber.json.support.TagObjectTest-getReportFileName_ReturnsFileName
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getFeatures with net.masterthought.cucumber.json.support.TagObjectTest-getFeatures_ThrowsException
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getSteps with net.masterthought.cucumber.json.support.TagObjectTest-getSteps_ReturnsSumOfSteps
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getFailedScenarios with net.masterthought.cucumber.json.support.TagObjectTest-getFailedScenarios_ReturnsSumOfFailedScenarios
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-compareTo with net.masterthought.cucumber.json.support.TagObjectTest-compareTo_OnSameLocation_ReturnsZero
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getPassedFeatures with net.masterthought.cucumber.json.support.TagObjectTest-getPassedFeatures_ThrowsException
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getPassedScenarios with net.masterthought.cucumber.json.support.TagObjectTest-getPassedScenarios_ReturnsSumOfPassingScenarios
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getNumberOfStatus with net.masterthought.cucumber.json.support.TagObjectTest-getNumberOfStatus_OnStatus__ReturnsSumOfStatuses
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getRawStatus with net.masterthought.cucumber.json.support.TagObjectTest-getRawStatus_ReturnsRawOfFinalStatus
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getName with net.masterthought.cucumber.json.support.TagObjectTest-getName_ReturnsTagName
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getScenarios with net.masterthought.cucumber.json.support.TagObjectTest-getScenarios_ReturnsSumOfScenarios
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getFailedFeatures with net.masterthought.cucumber.json.support.TagObjectTest-getFAiledFeatures_ThrowsException
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getDeviceName with net.masterthought.cucumber.json.support.TagObjectTest-getDeviceName_ThrowsException
+Tue May 15 13:37:24 UTC 2018: Code found net.masterthought.cucumber.json.support.TagObject-getElements with net.masterthought.cucumber.json.support.TagObjectTest-getElements_ReturnsExactAddedElement
+Tue May 15 13:37:24 UTC 2018: No link for: net.masterthought.cucumber.json.support.TagObjectTest-TagObject_OnNullTagName_ThrowsException
+Tue May 15 13:37:24 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.support.TagObjectTest
+Tue May 15 13:37:25 UTC 2018: Found element on the queue
+Tue May 15 13:37:25 UTC 2018: Updating status
+Tue May 15 13:37:25 UTC 2018: Working
+Tue May 15 13:37:30 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.OutputTest
+Tue May 15 13:37:30 UTC 2018: Setting lastTestMethodIndex: 34115
+Tue May 15 13:37:30 UTC 2018: Starting linking
+Tue May 15 13:37:30 UTC 2018: Code found net.masterthought.cucumber.json.Output-getMessages with net.masterthought.cucumber.json.OutputTest-getMessages_ReturnsMessages
+Tue May 15 13:37:30 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.OutputTest
+Tue May 15 13:37:32 UTC 2018: Found element on the queue
+Tue May 15 13:37:32 UTC 2018: Updating status
+Tue May 15 13:37:32 UTC 2018: Working
+Tue May 15 13:37:36 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.ResultTest
+Tue May 15 13:37:36 UTC 2018: Setting lastTestMethodIndex: 34118
+Tue May 15 13:37:36 UTC 2018: Starting linking
+Tue May 15 13:37:36 UTC 2018: Code found net.masterthought.cucumber.json.Result-getDuration with net.masterthought.cucumber.json.ResultTest-getDuration_ReturnsDuration
+Tue May 15 13:37:36 UTC 2018: Code found net.masterthought.cucumber.json.Result-getStatus with net.masterthought.cucumber.json.ResultTest-getStatus_ReturnsStatus
+Tue May 15 13:37:36 UTC 2018: Code found net.masterthought.cucumber.json.Result-getErrorMessage with net.masterthought.cucumber.json.ResultTest-getErrorMessage_ReturnEscapedErrorMessage
+Tue May 15 13:37:36 UTC 2018: No link for: net.masterthought.cucumber.json.ResultTest-getFormattedDuration_ReturnsDurationAsString
+Tue May 15 13:37:36 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.ResultTest
+Tue May 15 13:37:38 UTC 2018: Found element on the queue
+Tue May 15 13:37:38 UTC 2018: Updating status
+Tue May 15 13:37:38 UTC 2018: Working
+Tue May 15 13:37:42 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.EmbeddingTest
+Tue May 15 13:37:42 UTC 2018: Setting lastTestMethodIndex: 34120
+Tue May 15 13:37:42 UTC 2018: Starting linking
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getExtension with net.masterthought.cucumber.json.EmbeddingTest-getExtension__OnUnknownType_ResurnsUnknown
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getExtension with net.masterthought.cucumber.json.EmbeddingTest-getExtension__OnTextMimeType_ReturnsText
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getExtension with net.masterthought.cucumber.json.EmbeddingTest-getExtension__OnImageUrlMimeType_ReturnsTxt
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getEscapedDecodedData with net.masterthought.cucumber.json.EmbeddingTest-getEscapedDecodedData_OnXMLText_ReturnsEspacedData
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getEscapedDecodedData with net.masterthought.cucumber.json.EmbeddingTest-getEscapedDecodedData_OnPlainText_ReturnsData
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getData with net.masterthought.cucumber.json.EmbeddingTest-getData_ReturnsContent
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getFileName with net.masterthought.cucumber.json.EmbeddingTest-getFileName_ReturnsFileName
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getMimeType with net.masterthought.cucumber.json.EmbeddingTest-getMimeType_ReturnsMimeType
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getDecodedData with net.masterthought.cucumber.json.EmbeddingTest-getDecodedData_ReturnsDecodedContent
+Tue May 15 13:37:42 UTC 2018: Code found net.masterthought.cucumber.json.Embedding-getExtension with net.masterthought.cucumber.json.EmbeddingTest-getExtension__OnCommonMimeType_ReturnsFileExtension
+Tue May 15 13:37:42 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.EmbeddingTest
+Tue May 15 13:37:43 UTC 2018: Found element on the queue
+Tue May 15 13:37:43 UTC 2018: Updating status
+Tue May 15 13:37:43 UTC 2018: Working
+Tue May 15 13:37:47 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.ElementTest
+Tue May 15 13:37:47 UTC 2018: Setting lastTestMethodIndex: 34123
+Tue May 15 13:37:47 UTC 2018: Starting linking
+Tue May 15 13:37:47 UTC 2018: Code found net.masterthought.cucumber.json.Element-getSteps with net.masterthought.cucumber.json.ElementTest-getSteps_ReturnsSteps
+Tue May 15 13:37:47 UTC 2018: Code found net.masterthought.cucumber.json.Element-getStatus with net.masterthought.cucumber.json.ElementTest-getStatus_ReturnsStatus
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getName with net.masterthought.cucumber.json.ElementTest-getName_ReturnsName
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-isScenario with net.masterthought.cucumber.json.ElementTest-isScenario_ReturnsTrueForScenarios
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getBeforeStatus with net.masterthought.cucumber.json.ElementTest-getBeforeStatus_OnNoExistingBefore_ReturnsStatus
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getAfterStatus with net.masterthought.cucumber.json.ElementTest-getAfterStatus_OnNoExistingBefore_ReturnsStatus
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getDescription with net.masterthought.cucumber.json.ElementTest-getDescription_OnMissingDescription_ReturnsEmptyString
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getAfterStatus with net.masterthought.cucumber.json.ElementTest-getAfterStatus_ReturnsStatus
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getStepsStatus with net.masterthought.cucumber.json.ElementTest-getStepsStatus_ReturnsStatus
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getDescription with net.masterthought.cucumber.json.ElementTest-getDescription_ReturnsDescription
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getTags with net.masterthought.cucumber.json.ElementTest-getTags_ReturnsTags
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getBefore with net.masterthought.cucumber.json.ElementTest-getBefore_ReturnsHooks
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getBeforeStatus with net.masterthought.cucumber.json.ElementTest-getBeforeStatus_ReturnsStatus
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getFeature with net.masterthought.cucumber.json.ElementTest-getFeature_ReturnsFeature
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getAfter with net.masterthought.cucumber.json.ElementTest-getAfter_ReturnsHooks
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getEscapedName with net.masterthought.cucumber.json.ElementTest-getEscapedName_ReturnsNameAsPlainText
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getKeyword with net.masterthought.cucumber.json.ElementTest-getKeyword_ReturnsName
+Tue May 15 13:37:48 UTC 2018: Code found net.masterthought.cucumber.json.Element-getType with net.masterthought.cucumber.json.ElementTest-getType_ReturnsName
+Tue May 15 13:37:48 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.ElementTest
+Tue May 15 13:37:49 UTC 2018: Found element on the queue
+Tue May 15 13:37:49 UTC 2018: Updating status
+Tue May 15 13:37:49 UTC 2018: Working
+Tue May 15 13:37:54 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.FeatureTest
+Tue May 15 13:37:54 UTC 2018: Setting lastTestMethodIndex: 34126
+Tue May 15 13:37:54 UTC 2018: Starting linking
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getElements with net.masterthought.cucumber.json.FeatureTest-getElements_ReturnsElements
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getFeatures with net.masterthought.cucumber.json.FeatureTest-getFeatures_ReturnsOne
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getName with net.masterthought.cucumber.json.FeatureTest-getName_ReturnsName
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getDescription with net.masterthought.cucumber.json.FeatureTest-getDescription_ReturnsDescription
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-compareTo with net.masterthought.cucumber.json.FeatureTest-compareTo_OnSameIDAndName_ReturnsNotZero
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getStatus with net.masterthought.cucumber.json.FeatureTest-getStatus_ReturnsStatus
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getSteps with net.masterthought.cucumber.json.FeatureTest-getSteps_ReturnsNumberOfSteps
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-compareTo with net.masterthought.cucumber.json.FeatureTest-compareTo_OnSameName_ReturnsNotZero
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getReportFileName with net.masterthought.cucumber.json.FeatureTest-getReportFileName_ReturnsFileName
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getReportFileName with net.masterthought.cucumber.json.FeatureTest-getReportFileName_OnParallelTesting_ReturnsFileNameWithNumberPostfix
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getId with net.masterthought.cucumber.json.FeatureTest-getId_ReturnsID
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getFormattedDurations with net.masterthought.cucumber.json.FeatureTest-getFormattedDurations_ReturnsFormattedDurations
+Tue May 15 13:37:54 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getJsonFile with net.masterthought.cucumber.json.FeatureTest-getJsonFile_ReturnsFileName
+Tue May 15 13:37:55 UTC 2018: Code found net.masterthought.cucumber.json.Feature-compareTo with net.masterthought.cucumber.json.FeatureTest-compareTo_OnSameFeature_ReturnsZero
+Tue May 15 13:37:55 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getDeviceName with net.masterthought.cucumber.json.FeatureTest-getDeviceName_ReturnsDeviceName
+Tue May 15 13:37:55 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getKeyword with net.masterthought.cucumber.json.FeatureTest-getKeyword_ReturnsKeyword
+Tue May 15 13:37:55 UTC 2018: Code found net.masterthought.cucumber.json.Feature-getScenarios with net.masterthought.cucumber.json.FeatureTest-getScenarios_ReturnsNumberOfScenarios
+Tue May 15 13:37:55 UTC 2018: No link for: net.masterthought.cucumber.json.FeatureTest-calculateDeviceName_OnFileWithoutExtension_ReturnsDeviceName
+Tue May 15 13:37:55 UTC 2018: No link for: net.masterthought.cucumber.json.FeatureTest-getXXXSteps_ReturnsStepsForStatus
+Tue May 15 13:37:55 UTC 2018: No link for: net.masterthought.cucumber.json.FeatureTest-getTags_ReturnsTags
+Tue May 15 13:37:55 UTC 2018: No link for: net.masterthought.cucumber.json.FeatureTest-getDuration_ReturnsDuration
+Tue May 15 13:37:55 UTC 2018: No link for: net.masterthought.cucumber.json.FeatureTest-getXXXFeatures_OnPassedFeature_ReturnsFeaturesForStatus
+Tue May 15 13:37:55 UTC 2018: No link for: net.masterthought.cucumber.json.FeatureTest-getXXXScenarios_ReturnsScenariosForStatus
+Tue May 15 13:37:55 UTC 2018: No link for: net.masterthought.cucumber.json.FeatureTest-getXXXFeatures_OnFAiledFeature_ReturnsFeaturesForStatus
+Tue May 15 13:37:55 UTC 2018: No link for: net.masterthought.cucumber.json.FeatureTest-calculateDeviceName_ReturnsDeviceName
+Tue May 15 13:37:55 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.FeatureTest
+Tue May 15 13:37:56 UTC 2018: Found element on the queue
+Tue May 15 13:37:56 UTC 2018: Updating status
+Tue May 15 13:37:56 UTC 2018: Working
+Tue May 15 13:38:00 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.DocStringTest
+Tue May 15 13:38:00 UTC 2018: Setting lastTestMethodIndex: 34130
+Tue May 15 13:38:00 UTC 2018: Starting linking
+Tue May 15 13:38:00 UTC 2018: No link for: net.masterthought.cucumber.json.DocStringTest-getName_ReturnsFeatureTagName
+Tue May 15 13:38:00 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.DocStringTest
+Tue May 15 13:38:01 UTC 2018: Found element on the queue
+Tue May 15 13:38:01 UTC 2018: Updating status
+Tue May 15 13:38:01 UTC 2018: Working
+Tue May 15 13:38:04 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.deserializers.StatusDeserializerTest
+Tue May 15 13:38:04 UTC 2018: Setting lastTestMethodIndex: 34133
+Tue May 15 13:38:04 UTC 2018: Starting linking
+Tue May 15 13:38:04 UTC 2018: Code found net.masterthought.cucumber.json.deserializers.StatusDeserializer-deserialize with net.masterthought.cucumber.json.deserializers.StatusDeserializerTest-deserialize_OnDefaultStatus_ReturnsStatus
+Tue May 15 13:38:04 UTC 2018: Code found net.masterthought.cucumber.json.deserializers.StatusDeserializer-deserialize with net.masterthought.cucumber.json.deserializers.StatusDeserializerTest-deserialize_OnUnknownStatus_ThrowsException
+Tue May 15 13:38:05 UTC 2018: Code found net.masterthought.cucumber.json.deserializers.StatusDeserializer-deserialize with net.masterthought.cucumber.json.deserializers.StatusDeserializerTest-deserialize_OnAdditionalStatus_ReturnsUndefinedStatus
+Tue May 15 13:38:05 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.deserializers.StatusDeserializerTest
+Tue May 15 13:38:06 UTC 2018: Found element on the queue
+Tue May 15 13:38:06 UTC 2018: Updating status
+Tue May 15 13:38:06 UTC 2018: Working
+Tue May 15 13:38:11 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.TagTest
+Tue May 15 13:38:11 UTC 2018: Setting lastTestMethodIndex: 34135
+Tue May 15 13:38:11 UTC 2018: Starting linking
+Tue May 15 13:38:11 UTC 2018: Code found net.masterthought.cucumber.json.Tag-hashCode with net.masterthought.cucumber.json.TagTest-hashCode_OnSameName_ReturnsHashCode
+Tue May 15 13:38:11 UTC 2018: Code found net.masterthought.cucumber.json.Tag-generateFileName with net.masterthought.cucumber.json.TagTest-generateFileName_OnInvalidTagName_ReturnsValidFileName
+Tue May 15 13:38:11 UTC 2018: Code found net.masterthought.cucumber.json.Tag-equals with net.masterthought.cucumber.json.TagTest-equals_OnDifferentName_ReturnsFalse
+Tue May 15 13:38:11 UTC 2018: Code found net.masterthought.cucumber.json.Tag-equals with net.masterthought.cucumber.json.TagTest-equals_OnSameName_ReturnsTrue
+Tue May 15 13:38:11 UTC 2018: Code found net.masterthought.cucumber.json.Tag-getName with net.masterthought.cucumber.json.TagTest-getName_ReturnsFeatureTagName
+Tue May 15 13:38:11 UTC 2018: Code found net.masterthought.cucumber.json.Tag-getName with net.masterthought.cucumber.json.TagTest-getName_ReturnsElementTagName
+Tue May 15 13:38:11 UTC 2018: Code found net.masterthought.cucumber.json.Tag-getFileName with net.masterthought.cucumber.json.TagTest-getFileName_ReturnsTagFileName
+Tue May 15 13:38:11 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.json.TagTest
+Tue May 15 13:38:13 UTC 2018: Found element on the queue
+Tue May 15 13:38:13 UTC 2018: Updating status
+Tue May 15 13:38:13 UTC 2018: Working
+Tue May 15 13:38:18 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.ReportResultTest
+Tue May 15 13:38:18 UTC 2018: Setting lastTestMethodIndex: 34138
+Tue May 15 13:38:18 UTC 2018: Starting linking
+Tue May 15 13:38:18 UTC 2018: Code found net.masterthought.cucumber.ReportResult-getBuildTime with net.masterthought.cucumber.ReportResultTest-getBuildTime_ReturnsFormattedBuildTime
+Tue May 15 13:38:18 UTC 2018: Code found net.masterthought.cucumber.ReportResult-getAllSteps with net.masterthought.cucumber.ReportResultTest-getAllSteps_ReturnsSteps
+Tue May 15 13:38:18 UTC 2018: Code found net.masterthought.cucumber.ReportResult-getAllFeatures with net.masterthought.cucumber.ReportResultTest-getAllFeatures_ReturnsFeatures
+Tue May 15 13:38:18 UTC 2018: Code found net.masterthought.cucumber.ReportResult-getTagReport with net.masterthought.cucumber.ReportResultTest-getTagReport_ReturnsTagReport
+Tue May 15 13:38:18 UTC 2018: No link for: net.masterthought.cucumber.ReportResultTest-getAllXXXFeatures_ReturnsFeaturesByStatus
+Tue May 15 13:38:18 UTC 2018: No link for: net.masterthought.cucumber.ReportResultTest-getTags_ReturnsTags
+Tue May 15 13:38:18 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.ReportResultTest
+Tue May 15 13:38:19 UTC 2018: Found element on the queue
+Tue May 15 13:38:19 UTC 2018: Updating status
+Tue May 15 13:38:19 UTC 2018: Working
+Tue May 15 13:38:23 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.ConfigurationTest
+Tue May 15 13:38:23 UTC 2018: Setting lastTestMethodIndex: 34141
+Tue May 15 13:38:23 UTC 2018: Starting linking
+Tue May 15 13:38:23 UTC 2018: Code found net.masterthought.cucumber.Configuration-isRunWithJenkins with net.masterthought.cucumber.ConfigurationTest-isRunWithJenkins_ReturnsRunWithJenkins
+Tue May 15 13:38:23 UTC 2018: Code found net.masterthought.cucumber.Configuration-getTagsToExcludeFromChart with net.masterthought.cucumber.ConfigurationTest-getTagsToExcludeFromChart_ReturnsEmptyList
+Tue May 15 13:38:23 UTC 2018: Code found net.masterthought.cucumber.Configuration-getReportDirectory with net.masterthought.cucumber.ConfigurationTest-getReportDirectory_ReturnsOutputDirectory
+Tue May 15 13:38:23 UTC 2018: Code found net.masterthought.cucumber.Configuration-getProjectName with net.masterthought.cucumber.ConfigurationTest-getProjectName_ReturnsProjectName
+Tue May 15 13:38:23 UTC 2018: Code found net.masterthought.cucumber.Configuration-getBuildNumber with net.masterthought.cucumber.ConfigurationTest-getBuildNumber_ReturnsBuildNumber
+Tue May 15 13:38:23 UTC 2018: Code found net.masterthought.cucumber.Configuration-isParallelTesting with net.masterthought.cucumber.ConfigurationTest-isParallelTesting_ReturnsParallelTesting
+Tue May 15 13:38:23 UTC 2018: Code found net.masterthought.cucumber.Configuration-setTagsToExcludeFromChart with net.masterthought.cucumber.ConfigurationTest-setTagsToExcludeFromChart_OnInvalidRegexPattern_ThrowsValidationException
+Tue May 15 13:38:24 UTC 2018: Code found net.masterthought.cucumber.Configuration-getTagsToExcludeFromChart with net.masterthought.cucumber.ConfigurationTest-getTagsToExcludeFromChart_addPatterns_ReturnsListWithAllPatterns
+Tue May 15 13:38:24 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.ConfigurationTest
+Tue May 15 13:38:24 UTC 2018: Found element on the queue
+Tue May 15 13:38:24 UTC 2018: Updating status
+Tue May 15 13:38:24 UTC 2018: Working
+Tue May 15 13:38:28 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.ValidationExceptionTest
+Tue May 15 13:38:28 UTC 2018: Setting lastTestMethodIndex: 34143
+Tue May 15 13:38:28 UTC 2018: Starting linking
+Tue May 15 13:38:28 UTC 2018: No link for: net.masterthought.cucumber.ValidationExceptionTest-constructor_PassesCause
+Tue May 15 13:38:28 UTC 2018: No link for: net.masterthought.cucumber.ValidationExceptionTest-constructor_PassesMessage
+Tue May 15 13:38:28 UTC 2018: No link for: net.masterthought.cucumber.ValidationExceptionTest-constructor_PassesMessageAndCause
+Tue May 15 13:38:28 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.ValidationExceptionTest
+Tue May 15 13:38:29 UTC 2018: Found element on the queue
+Tue May 15 13:38:29 UTC 2018: Updating status
+Tue May 15 13:38:29 UTC 2018: Working
+Tue May 15 13:38:33 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.ReportParserTest
+Tue May 15 13:38:33 UTC 2018: Setting lastTestMethodIndex: 34145
+Tue May 15 13:38:33 UTC 2018: Starting linking
+Tue May 15 13:38:33 UTC 2018: No link for: net.masterthought.cucumber.ReportParserTest-parseJsonResults_OnInvalidReport_ThrowsException
+Tue May 15 13:38:33 UTC 2018: No link for: net.masterthought.cucumber.ReportParserTest-parseJsonResults_OnNoFeatures_ThrowsException
+Tue May 15 13:38:33 UTC 2018: No link for: net.masterthought.cucumber.ReportParserTest-parseJsonResults_ReturnsFeatureFiles
+Tue May 15 13:38:33 UTC 2018: No link for: net.masterthought.cucumber.ReportParserTest-parseJsonResults_OnNoReport_ThrowsException
+Tue May 15 13:38:33 UTC 2018: No link for: net.masterthought.cucumber.ReportParserTest-parseJsonResults_OnNoExistingFile_ThrowsException
+Tue May 15 13:38:33 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.ReportParserTest
+Tue May 15 13:38:34 UTC 2018: Found element on the queue
+Tue May 15 13:38:34 UTC 2018: Updating status
+Tue May 15 13:38:34 UTC 2018: Working
+Tue May 15 13:38:38 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.TagsOverviewPageTest
+Tue May 15 13:38:38 UTC 2018: Setting lastTestMethodIndex: 34147
+Tue May 15 13:38:38 UTC 2018: Starting linking
+Tue May 15 13:38:38 UTC 2018: Code found net.masterthought.cucumber.generators.TagsOverviewPage-generateTagValues with net.masterthought.cucumber.generators.TagsOverviewPageTest-generateTagValues_ReturnsTagValues
+Tue May 15 13:38:38 UTC 2018: Code found net.masterthought.cucumber.generators.TagsOverviewPage-generateTagLabels with net.masterthought.cucumber.generators.TagsOverviewPageTest-generateTagLabels_ReturnsTags
+Tue May 15 13:38:38 UTC 2018: Code found net.masterthought.cucumber.generators.TagsOverviewPage-prepareReport with net.masterthought.cucumber.generators.TagsOverviewPageTest-prepareReport_setTagsToExcludeFromChart_ReturnsFilteredTags
+Tue May 15 13:38:38 UTC 2018: Code found net.masterthought.cucumber.generators.TagsOverviewPage-getWebPage with net.masterthought.cucumber.generators.TagsOverviewPageTest-getWebPage_ReturnsTagOverviewReportFileName
+Tue May 15 13:38:38 UTC 2018: Code found net.masterthought.cucumber.generators.TagsOverviewPage-prepareReport with net.masterthought.cucumber.generators.TagsOverviewPageTest-prepareReport_AddsCustomProperties
+Tue May 15 13:38:38 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.TagsOverviewPageTest
+Tue May 15 13:38:39 UTC 2018: Found element on the queue
+Tue May 15 13:38:39 UTC 2018: Updating status
+Tue May 15 13:38:39 UTC 2018: Working
+Tue May 15 13:38:44 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.AbstractPageTest
+Tue May 15 13:38:44 UTC 2018: Setting lastTestMethodIndex: 34150
+Tue May 15 13:38:44 UTC 2018: Starting linking
+Tue May 15 13:38:44 UTC 2018: No link for: net.masterthought.cucumber.generators.AbstractPageTest-generateReport_CreatesReportFile
+Tue May 15 13:38:44 UTC 2018: No link for: net.masterthought.cucumber.generators.AbstractPageTest-buildGeneralParameters_AddsCommonProperties
+Tue May 15 13:38:44 UTC 2018: No link for: net.masterthought.cucumber.generators.AbstractPageTest-buildGeneralParameters_OnTrendsStatsFile_AddsTrendsFlag
+Tue May 15 13:38:44 UTC 2018: No link for: net.masterthought.cucumber.generators.AbstractPageTest-generateReport_OnInvalidPath_ThrowsException
+Tue May 15 13:38:44 UTC 2018: No link for: net.masterthought.cucumber.generators.AbstractPageTest-buildProperties_ReturnsProperties
+Tue May 15 13:38:44 UTC 2018: No link for: net.masterthought.cucumber.generators.AbstractPageTest-buildGeneralParameters_OnBuildNumber_AddsBuildPreviousNumberProperty
+Tue May 15 13:38:44 UTC 2018: No link for: net.masterthought.cucumber.generators.AbstractPageTest-buildGeneralParameters_OnErrorPage_AddsExtraProperties
+Tue May 15 13:38:44 UTC 2018: No link for: net.masterthought.cucumber.generators.AbstractPageTest-buildGeneralParameters_OnInvalidBuildNumber_DoesNotAddPreviousBuildNumberProperty
+Tue May 15 13:38:44 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.AbstractPageTest
+Tue May 15 13:38:46 UTC 2018: Found element on the queue
+Tue May 15 13:38:46 UTC 2018: Updating status
+Tue May 15 13:38:46 UTC 2018: Working
+Tue May 15 13:38:50 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.ErrorPageTest
+Tue May 15 13:38:50 UTC 2018: Setting lastTestMethodIndex: 34153
+Tue May 15 13:38:50 UTC 2018: Starting linking
+Tue May 15 13:38:51 UTC 2018: Code found net.masterthought.cucumber.generators.ErrorPage-prepareReport with net.masterthought.cucumber.generators.ErrorPageTest-prepareReport_AddsCustomProperties
+Tue May 15 13:38:51 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.ErrorPageTest
+Tue May 15 13:38:52 UTC 2018: Found element on the queue
+Tue May 15 13:38:52 UTC 2018: Updating status
+Tue May 15 13:38:52 UTC 2018: Working
+Tue May 15 13:38:57 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.OverviewReportTest
+Tue May 15 13:38:57 UTC 2018: Setting lastTestMethodIndex: 34156
+Tue May 15 13:38:57 UTC 2018: Starting linking
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-incFeaturesFor with net.masterthought.cucumber.generators.OverviewReportTest-incFeaturesFor_AddsFeatures
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getFeatures with net.masterthought.cucumber.generators.OverviewReportTest-getFeatures_ReturnsFeaturesCount
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getDurations with net.masterthought.cucumber.generators.OverviewReportTest-getDurations_ReturnsDuration
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getSteps with net.masterthought.cucumber.generators.OverviewReportTest-getSteps_ReturnsNumberOfSteps
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getDeviceName with net.masterthought.cucumber.generators.OverviewReportTest-getDeviceName_ThrowsException
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getStatus with net.masterthought.cucumber.generators.OverviewReportTest-getStatus_ThrowsException
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getFailedFeatures with net.masterthought.cucumber.generators.OverviewReportTest-getFailedFeatures_ReturnsFAiledFeaturesCount
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getPassedFeatures with net.masterthought.cucumber.generators.OverviewReportTest-getPassedFeatures_ReturnsPassedFeaturesCount
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-incStepsFor with net.masterthought.cucumber.generators.OverviewReportTest-incStepsFor_AddsScenario
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getName with net.masterthought.cucumber.generators.OverviewReportTest-getName_ThrowsException
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getScenarios with net.masterthought.cucumber.generators.OverviewReportTest-getScenarios_ReturnsNumberOfScenarios
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-incScenarioFor with net.masterthought.cucumber.generators.OverviewReportTest-incScenarioFor_AddsScenario
+Tue May 15 13:38:57 UTC 2018: Code found net.masterthought.cucumber.generators.OverviewReport-getFormattedDurations with net.masterthought.cucumber.generators.OverviewReportTest-getFormattedDurations_ReturnsFormattedDuration
+Tue May 15 13:38:57 UTC 2018: No link for: net.masterthought.cucumber.generators.OverviewReportTest-getXXXScenarios_ReturnsNumberOfScenariosForStatus
+Tue May 15 13:38:57 UTC 2018: No link for: net.masterthought.cucumber.generators.OverviewReportTest-getXXXSteps_ReturnsNumberOfStepsForStatus
+Tue May 15 13:38:57 UTC 2018: No link for: net.masterthought.cucumber.generators.OverviewReportTest-incDuration_AddsDuration
+Tue May 15 13:38:57 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.OverviewReportTest
+Tue May 15 13:38:59 UTC 2018: Found element on the queue
+Tue May 15 13:38:59 UTC 2018: Updating status
+Tue May 15 13:38:59 UTC 2018: Working
+Tue May 15 13:39:02 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.FailuresOverviewPageTest
+Tue May 15 13:39:02 UTC 2018: Setting lastTestMethodIndex: 34159
+Tue May 15 13:39:02 UTC 2018: Starting linking
+Tue May 15 13:39:03 UTC 2018: No code found net.masterthought.cucumber.generators.AbstractPage-prepareReport with net.masterthought.cucumber.generators.FailuresOverviewPageTest-prepareReport_AddsCustomProperties
+Tue May 15 13:39:03 UTC 2018: No code found net.masterthought.cucumber.generators.AbstractPage-getWebPage with net.masterthought.cucumber.generators.FailuresOverviewPageTest-getWebPage_ReturnsFailureReportFileName
+Tue May 15 13:39:03 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.FailuresOverviewPageTest
+Tue May 15 13:39:04 UTC 2018: Found element on the queue
+Tue May 15 13:39:04 UTC 2018: Updating status
+Tue May 15 13:39:04 UTC 2018: Working
+Tue May 15 13:39:07 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.FeaturesOverviewPageTest
+Tue May 15 13:39:07 UTC 2018: Setting lastTestMethodIndex: 34161
+Tue May 15 13:39:07 UTC 2018: Starting linking
+Tue May 15 13:39:07 UTC 2018: Code found net.masterthought.cucumber.generators.FeaturesOverviewPage-prepareReport with net.masterthought.cucumber.generators.FeaturesOverviewPageTest-prepareReport_AddsCustomProperties
+Tue May 15 13:39:07 UTC 2018: Code found net.masterthought.cucumber.generators.FeaturesOverviewPage-getWebPage with net.masterthought.cucumber.generators.FeaturesOverviewPageTest-getWebPage_ReturnsFeatureFileName
+Tue May 15 13:39:07 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.FeaturesOverviewPageTest
+Tue May 15 13:39:09 UTC 2018: Found element on the queue
+Tue May 15 13:39:09 UTC 2018: Updating status
+Tue May 15 13:39:09 UTC 2018: Working
+Tue May 15 13:39:12 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.TagReportPageTest
+Tue May 15 13:39:12 UTC 2018: Setting lastTestMethodIndex: 34163
+Tue May 15 13:39:12 UTC 2018: Starting linking
+Tue May 15 13:39:12 UTC 2018: Code found net.masterthought.cucumber.generators.TagReportPage-prepareReport with net.masterthought.cucumber.generators.TagReportPageTest-prepareReport_AddsCustomProperties
+Tue May 15 13:39:12 UTC 2018: Code found net.masterthought.cucumber.generators.TagReportPage-getWebPage with net.masterthought.cucumber.generators.TagReportPageTest-getWebPage_ReturnsTagReportFileName
+Tue May 15 13:39:12 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.TagReportPageTest
+Tue May 15 13:39:13 UTC 2018: Found element on the queue
+Tue May 15 13:39:13 UTC 2018: Updating status
+Tue May 15 13:39:13 UTC 2018: Working
+Tue May 15 13:39:17 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.TrendsOverviewPageTest
+Tue May 15 13:39:17 UTC 2018: Setting lastTestMethodIndex: 34165
+Tue May 15 13:39:17 UTC 2018: Starting linking
+Tue May 15 13:39:17 UTC 2018: Code found net.masterthought.cucumber.generators.TrendsOverviewPage-prepareReport with net.masterthought.cucumber.generators.TrendsOverviewPageTest-prepareReport_AddsCustomProperties
+Tue May 15 13:39:17 UTC 2018: Code found net.masterthought.cucumber.generators.TrendsOverviewPage-getWebPage with net.masterthought.cucumber.generators.TrendsOverviewPageTest-getWebPage_ReturnsTrendsOverviewFileName
+Tue May 15 13:39:17 UTC 2018: No link for: net.masterthought.cucumber.generators.TrendsOverviewPageTest-toJavaScriptArray_ReturnsStringArraysAsString
+Tue May 15 13:39:17 UTC 2018: No link for: net.masterthought.cucumber.generators.TrendsOverviewPageTest-toJavaScriptArray_ReturnsIntArraysAsString
+Tue May 15 13:39:17 UTC 2018: No link for: net.masterthought.cucumber.generators.TrendsOverviewPageTest-toJavaScriptArray_ReturnsLongArraysAsString
+Tue May 15 13:39:17 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.TrendsOverviewPageTest
+Tue May 15 13:39:18 UTC 2018: Found element on the queue
+Tue May 15 13:39:18 UTC 2018: Updating status
+Tue May 15 13:39:18 UTC 2018: Working
+Tue May 15 13:39:21 UTC 2018: Start conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.StepsOverviewPageTest
+Tue May 15 13:39:22 UTC 2018: Setting lastTestMethodIndex: 34167
+Tue May 15 13:39:22 UTC 2018: Starting linking
+Tue May 15 13:39:22 UTC 2018: Code found net.masterthought.cucumber.generators.StepsOverviewPage-getWebPage with net.masterthought.cucumber.generators.StepsOverviewPageTest-getWebPage_ReturnsStepsOverviewFileName
+Tue May 15 13:39:22 UTC 2018: Code found net.masterthought.cucumber.generators.StepsOverviewPage-prepareReport with net.masterthought.cucumber.generators.StepsOverviewPageTest-prepareReport_AddsCustomProperties
+Tue May 15 13:39:22 UTC 2018: Linking done for conanlm426__cucumber-reportin test class net.masterthought.cucumber.generators.StepsOverviewPageTest

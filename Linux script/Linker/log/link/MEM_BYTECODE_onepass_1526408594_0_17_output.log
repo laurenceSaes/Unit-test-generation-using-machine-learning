@@ -1,0 +1,1154 @@
+Tue May 15 19:54:55 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 19:54:55 UTC 2018: Starting
+Tue May 15 19:54:56 UTC 2018: Found element on the queue
+Tue May 15 19:54:56 UTC 2018: Updating status
+Tue May 15 19:54:56 UTC 2018: Working
+Tue May 15 19:54:56 UTC 2018: Create project parser
+Tue May 15 19:55:01 UTC 2018: Create slicer
+Tue May 15 19:55:07 UTC 2018: Create call graph
+Tue May 15 19:55:16 UTC 2018: Create point analysis
+Tue May 15 19:55:16 UTC 2018: Create call graph done
+Tue May 15 19:55:16 UTC 2018: Start hadzung__CICDTestin test class hudson.cli.PrivateKeyProviderTest
+Tue May 15 19:55:16 UTC 2018: Setting lastTestMethodIndex: 46366
+Tue May 15 19:55:16 UTC 2018: Starting linking
+Tue May 15 19:55:16 UTC 2018: No link for: hudson.cli.PrivateKeyProviderTest-specifyKeysExplicitly
+Tue May 15 19:55:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:55:16 UTC 2018: No link for: hudson.cli.PrivateKeyProviderTest-useDefaultKeyLocations
+Tue May 15 19:55:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:55:17 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.cli.PrivateKeyProviderTest
+Tue May 15 19:55:17 UTC 2018: Found element on the queue
+Tue May 15 19:55:17 UTC 2018: Updating status
+Tue May 15 19:55:17 UTC 2018: Working
+Tue May 15 19:55:21 UTC 2018: Start hadzung__CICDTestin test class hudson.cli.ConnectionTest
+Tue May 15 19:55:21 UTC 2018: Setting lastTestMethodIndex: 46370
+Tue May 15 19:55:21 UTC 2018: Starting linking
+Tue May 15 19:55:21 UTC 2018: No link for: hudson.cli.ConnectionTest-testSecurity218
+Tue May 15 19:55:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:55:21 UTC 2018: No link for: hudson.cli.ConnectionTest-testEncrypt
+Tue May 15 19:55:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:55:21 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.cli.ConnectionTest
+Tue May 15 19:55:22 UTC 2018: Found element on the queue
+Tue May 15 19:55:22 UTC 2018: Updating status
+Tue May 15 19:55:22 UTC 2018: Working
+Tue May 15 19:55:24 UTC 2018: Start hadzung__CICDTestin test class hudson.cli.ConnectionMockTest
+Tue May 15 19:55:24 UTC 2018: Setting lastTestMethodIndex: 46374
+Tue May 15 19:55:24 UTC 2018: Starting linking
+Tue May 15 19:55:24 UTC 2018: No link for: hudson.cli.ConnectionMockTest-shouldTolerateEmptyByteArrayUponStreamZeroValue
+Tue May 15 19:55:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:55:25 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.cli.ConnectionMockTest
+Tue May 15 19:55:25 UTC 2018: Found element on the queue
+Tue May 15 19:55:25 UTC 2018: Updating status
+Tue May 15 19:55:25 UTC 2018: Working
+Tue May 15 19:55:25 UTC 2018: Create project parser
+Tue May 15 19:55:51 UTC 2018: Start hadzung__CICDTestin test class jenkins.xml.XMLUtilsTest
+Tue May 15 19:55:51 UTC 2018: Setting lastTestMethodIndex: 46385
+Tue May 15 19:55:51 UTC 2018: Starting linking
+Tue May 15 19:55:51 UTC 2018: Code found jenkins.util.xml.XMLUtils-safeTransform with jenkins.xml.XMLUtilsTest-testSafeTransformDoesNotProcessForeignResources
+Tue May 15 19:55:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:55:52 UTC 2018: Code found jenkins.util.xml.XMLUtils-getValue with jenkins.xml.XMLUtilsTest-testGetValue
+Tue May 15 19:55:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:55:52 UTC 2018: Code found jenkins.util.xml.XMLUtils-parse with jenkins.xml.XMLUtilsTest-testParse_with_XXE
+Tue May 15 19:55:52 UTC 2018: No link for: jenkins.xml.XMLUtilsTest-testUpdateByXmlIDoesNotFail
+Tue May 15 19:55:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:55:52 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.xml.XMLUtilsTest
+Tue May 15 19:55:53 UTC 2018: Found element on the queue
+Tue May 15 19:55:53 UTC 2018: Updating status
+Tue May 15 19:55:53 UTC 2018: Working
+Tue May 15 19:55:56 UTC 2018: Start hadzung__CICDTestin test class jenkins.ResilientJsonObjectTest
+Tue May 15 19:55:56 UTC 2018: Setting lastTestMethodIndex: 46389
+Tue May 15 19:55:56 UTC 2018: Starting linking
+Tue May 15 19:55:56 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.ResilientJsonObjectTest
+Tue May 15 19:55:57 UTC 2018: Found element on the queue
+Tue May 15 19:55:57 UTC 2018: Updating status
+Tue May 15 19:55:57 UTC 2018: Working
+Tue May 15 19:56:01 UTC 2018: Start hadzung__CICDTestin test class jenkins.triggers.SCMTriggerItemTest
+Tue May 15 19:56:01 UTC 2018: Setting lastTestMethodIndex: 46393
+Tue May 15 19:56:01 UTC 2018: Starting linking
+Tue May 15 19:56:01 UTC 2018: No link for: jenkins.triggers.SCMTriggerItemTest-noVetoDelegatesPollingToAnSCMedItem
+Tue May 15 19:56:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:01 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.triggers.SCMTriggerItemTest
+Tue May 15 19:56:02 UTC 2018: Found element on the queue
+Tue May 15 19:56:02 UTC 2018: Updating status
+Tue May 15 19:56:02 UTC 2018: Working
+Tue May 15 19:56:05 UTC 2018: Start hadzung__CICDTestin test class jenkins.model.CoreEnvironmentContributorTest
+Tue May 15 19:56:05 UTC 2018: Setting lastTestMethodIndex: 46397
+Tue May 15 19:56:05 UTC 2018: Starting linking
+Tue May 15 19:56:05 UTC 2018: Code found jenkins.model.CoreEnvironmentContributor-buildEnvironmentFor with jenkins.model.CoreEnvironmentContributorTest-buildEnvironmentForJobShouldntUseCurrentComputer
+Tue May 15 19:56:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:05 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.model.CoreEnvironmentContributorTest
+Tue May 15 19:56:06 UTC 2018: Found element on the queue
+Tue May 15 19:56:06 UTC 2018: Updating status
+Tue May 15 19:56:06 UTC 2018: Working
+Tue May 15 19:56:09 UTC 2018: Start hadzung__CICDTestin test class jenkins.model.RunIdMigratorTest
+Tue May 15 19:56:09 UTC 2018: Setting lastTestMethodIndex: 46401
+Tue May 15 19:56:09 UTC 2018: Starting linking
+Tue May 15 19:56:09 UTC 2018: Code found jenkins.model.RunIdMigrator-move with jenkins.model.RunIdMigratorTest-move
+Tue May 15 19:56:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:09 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-newJob
+Tue May 15 19:56:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:09 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-legacy
+Tue May 15 19:56:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:10 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseAfterNewBuilds
+Tue May 15 19:56:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:10 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reRunMigration
+Tue May 15 19:56:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:10 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseMavenAfterNewBuilds
+Tue May 15 19:56:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:11 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseImmediately
+Tue May 15 19:56:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:11 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseMatrixAfterNewBuilds
+Tue May 15 19:56:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:11 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.model.RunIdMigratorTest
+Tue May 15 19:56:12 UTC 2018: Found element on the queue
+Tue May 15 19:56:12 UTC 2018: Updating status
+Tue May 15 19:56:12 UTC 2018: Working
+Tue May 15 19:56:15 UTC 2018: Start hadzung__CICDTestin test class jenkins.model.JenkinsGetRootUrlTest
+Tue May 15 19:56:15 UTC 2018: Setting lastTestMethodIndex: 46407
+Tue May 15 19:56:15 UTC 2018: Starting linking
+Tue May 15 19:56:15 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-getConfiguredRootUrl
+Tue May 15 19:56:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:15 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-getAccessedRootUrl
+Tue May 15 19:56:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:15 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-doNotInheritProtocolWhenDispatchingRequest2
+Tue May 15 19:56:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:16 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-preferConfiguredOverAccessed
+Tue May 15 19:56:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:16 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-doNotInheritProtocolWhenDispatchingRequest
+Tue May 15 19:56:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:16 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-useForwardedProtoWhenPresent
+Tue May 15 19:56:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:17 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.model.JenkinsGetRootUrlTest
+Tue May 15 19:56:17 UTC 2018: Found element on the queue
+Tue May 15 19:56:17 UTC 2018: Updating status
+Tue May 15 19:56:17 UTC 2018: Working
+Tue May 15 19:56:20 UTC 2018: Start hadzung__CICDTestin test class jenkins.model.lazy.AbstractLazyLoadRunMapTest
+Tue May 15 19:56:20 UTC 2018: Setting lastTestMethodIndex: 46412
+Tue May 15 19:56:20 UTC 2018: Starting linking
+Tue May 15 19:56:20 UTC 2018: No code found jenkins.model.lazy.FakeMap-subMap with jenkins.model.lazy.AbstractLazyLoadRunMapTest-fastSubMap
+Tue May 15 19:56:20 UTC 2018: No code found jenkins.model.lazy.FakeMap-search with jenkins.model.lazy.AbstractLazyLoadRunMapTest-search
+Tue May 15 19:56:20 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetChanges
+Tue May 15 19:56:21 UTC 2018: No code found jenkins.model.lazy.FakeMap-search with jenkins.model.lazy.AbstractLazyLoadRunMapTest-searchExactWhenIndexedButSoftReferenceExpired
+Tue May 15 19:56:21 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetContains
+Tue May 15 19:56:21 UTC 2018: No code found jenkins.model.lazy.FakeMap-lastKey with jenkins.model.lazy.AbstractLazyLoadRunMapTest-lastKey
+Tue May 15 19:56:22 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetEmpty
+Tue May 15 19:56:22 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetIterator
+Tue May 15 19:56:22 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetSize
+Tue May 15 19:56:22 UTC 2018: No code found jenkins.model.lazy.FakeMap-search with jenkins.model.lazy.AbstractLazyLoadRunMapTest-exactSearchShouldNotReload
+Tue May 15 19:56:23 UTC 2018: No code found jenkins.model.lazy.FakeMap-headMap with jenkins.model.lazy.AbstractLazyLoadRunMapTest-headMap
+Tue May 15 19:56:23 UTC 2018: No code found jenkins.model.lazy.FakeMap-firstKey with jenkins.model.lazy.AbstractLazyLoadRunMapTest-firstKey
+Tue May 15 19:56:23 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-eagerLoading
+Tue May 15 19:56:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:24 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-slowRetrieve
+Tue May 15 19:56:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:24 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-lookupWithBogusKeyType
+Tue May 15 19:56:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:24 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-lookup
+Tue May 15 19:56:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:24 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-indexOutOfBounds
+Tue May 15 19:56:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:25 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-all
+Tue May 15 19:56:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:25 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-lookup2
+Tue May 15 19:56:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:25 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-identity
+Tue May 15 19:56:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:25 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-idempotentLookup
+Tue May 15 19:56:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:26 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-unloadableData
+Tue May 15 19:56:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:26 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.model.lazy.AbstractLazyLoadRunMapTest
+Tue May 15 19:56:26 UTC 2018: Found element on the queue
+Tue May 15 19:56:26 UTC 2018: Updating status
+Tue May 15 19:56:26 UTC 2018: Working
+Tue May 15 19:56:29 UTC 2018: Start hadzung__CICDTestin test class jenkins.model.lazy.SortedIntListTest
+Tue May 15 19:56:29 UTC 2018: Setting lastTestMethodIndex: 46419
+Tue May 15 19:56:29 UTC 2018: Starting linking
+Tue May 15 19:56:29 UTC 2018: Code found jenkins.model.lazy.SortedIntList-ceil with jenkins.model.lazy.SortedIntListTest-ceil
+Tue May 15 19:56:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:29 UTC 2018: Code found jenkins.model.lazy.SortedIntList-max with jenkins.model.lazy.SortedIntListTest-max
+Tue May 15 19:56:30 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:30 UTC 2018: Code found jenkins.model.lazy.SortedIntList-lower with jenkins.model.lazy.SortedIntListTest-testLower
+Tue May 15 19:56:30 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:30 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.model.lazy.SortedIntListTest
+Tue May 15 19:56:30 UTC 2018: Found element on the queue
+Tue May 15 19:56:30 UTC 2018: Updating status
+Tue May 15 19:56:30 UTC 2018: Working
+Tue May 15 19:56:33 UTC 2018: Start hadzung__CICDTestin test class jenkins.model.lazy.SortedListTest
+Tue May 15 19:56:33 UTC 2018: Setting lastTestMethodIndex: 46421
+Tue May 15 19:56:33 UTC 2018: Starting linking
+Tue May 15 19:56:33 UTC 2018: Code found jenkins.model.lazy.SortedList-floor with jenkins.model.lazy.SortedListTest-testFloor
+Tue May 15 19:56:33 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:33 UTC 2018: Code found jenkins.model.lazy.SortedList-remove with jenkins.model.lazy.SortedListTest-remove
+Tue May 15 19:56:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:34 UTC 2018: Code found jenkins.model.lazy.SortedList-ceil with jenkins.model.lazy.SortedListTest-testCeil
+Tue May 15 19:56:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:34 UTC 2018: Code found jenkins.model.lazy.SortedList-higher with jenkins.model.lazy.SortedListTest-testHigher
+Tue May 15 19:56:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:34 UTC 2018: Code found jenkins.model.lazy.SortedList-lower with jenkins.model.lazy.SortedListTest-testLower
+Tue May 15 19:56:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:34 UTC 2018: No link for: jenkins.model.lazy.SortedListTest-testRange
+Tue May 15 19:56:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:35 UTC 2018: No link for: jenkins.model.lazy.SortedListTest-testClone
+Tue May 15 19:56:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:35 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.model.lazy.SortedListTest
+Tue May 15 19:56:36 UTC 2018: Found element on the queue
+Tue May 15 19:56:36 UTC 2018: Updating status
+Tue May 15 19:56:36 UTC 2018: Working
+Tue May 15 19:56:39 UTC 2018: Start hadzung__CICDTestin test class jenkins.model.JDKNameTest
+Tue May 15 19:56:39 UTC 2018: Setting lastTestMethodIndex: 46426
+Tue May 15 19:56:39 UTC 2018: Starting linking
+Tue May 15 19:56:39 UTC 2018: Code found hudson.model.JDK-isDefaultName with jenkins.model.JDKNameTest-nullIsDefaultName
+Tue May 15 19:56:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:56:39 UTC 2018: No link for: jenkins.model.JDKNameTest-othernameNotDefault
+Tue May 15 19:56:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:39 UTC 2018: No link for: jenkins.model.JDKNameTest-recognizeDefaultName
+Tue May 15 19:56:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:40 UTC 2018: No link for: jenkins.model.JDKNameTest-recognizeOldDefaultName
+Tue May 15 19:56:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:40 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.model.JDKNameTest
+Tue May 15 19:56:41 UTC 2018: Found element on the queue
+Tue May 15 19:56:41 UTC 2018: Updating status
+Tue May 15 19:56:41 UTC 2018: Working
+Tue May 15 19:56:43 UTC 2018: Start hadzung__CICDTestin test class jenkins.model.PeepholePermalinkTest
+Tue May 15 19:56:43 UTC 2018: Setting lastTestMethodIndex: 46431
+Tue May 15 19:56:43 UTC 2018: Starting linking
+Tue May 15 19:56:43 UTC 2018: No link for: jenkins.model.PeepholePermalinkTest-symlinks
+Tue May 15 19:56:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:44 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.model.PeepholePermalinkTest
+Tue May 15 19:56:45 UTC 2018: Found element on the queue
+Tue May 15 19:56:45 UTC 2018: Updating status
+Tue May 15 19:56:45 UTC 2018: Working
+Tue May 15 19:56:47 UTC 2018: Start hadzung__CICDTestin test class jenkins.RemotingJarSignatureTest
+Tue May 15 19:56:47 UTC 2018: Setting lastTestMethodIndex: 46433
+Tue May 15 19:56:47 UTC 2018: Starting linking
+Tue May 15 19:56:47 UTC 2018: No link for: jenkins.RemotingJarSignatureTest-testSignature
+Tue May 15 19:56:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:47 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.RemotingJarSignatureTest
+Tue May 15 19:56:48 UTC 2018: Found element on the queue
+Tue May 15 19:56:48 UTC 2018: Updating status
+Tue May 15 19:56:48 UTC 2018: Working
+Tue May 15 19:56:51 UTC 2018: Start hadzung__CICDTestin test class jenkins.util.MarkFindingOutputStreamTest
+Tue May 15 19:56:51 UTC 2018: Setting lastTestMethodIndex: 46437
+Tue May 15 19:56:51 UTC 2018: Starting linking
+Tue May 15 19:56:51 UTC 2018: No code found jenkins.util.MarkFindingOutputStreamTest$MarkCountingOutputStream-close with jenkins.util.MarkFindingOutputStreamTest-closeInTheMiddle
+Tue May 15 19:56:51 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-writeOneHoldOff
+Tue May 15 19:56:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:51 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-partialMatchTurnsOutToBeWrongIn2ndWrite
+Tue May 15 19:56:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:52 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-oneByOne
+Tue May 15 19:56:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:52 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-findTwice
+Tue May 15 19:56:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:52 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.util.MarkFindingOutputStreamTest
+Tue May 15 19:56:53 UTC 2018: Found element on the queue
+Tue May 15 19:56:53 UTC 2018: Updating status
+Tue May 15 19:56:53 UTC 2018: Working
+Tue May 15 19:56:56 UTC 2018: Start hadzung__CICDTestin test class jenkins.util.TimerTest
+Tue May 15 19:56:56 UTC 2018: Setting lastTestMethodIndex: 46441
+Tue May 15 19:56:56 UTC 2018: Starting linking
+Tue May 15 19:56:56 UTC 2018: No link for: jenkins.util.TimerTest-timersArentBlocked
+Tue May 15 19:56:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:56:57 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.util.TimerTest
+Tue May 15 19:56:57 UTC 2018: Found element on the queue
+Tue May 15 19:56:57 UTC 2018: Updating status
+Tue May 15 19:56:57 UTC 2018: Working
+Tue May 15 19:57:00 UTC 2018: Start hadzung__CICDTestin test class jenkins.util.xstream.XStreamDOMTest
+Tue May 15 19:57:00 UTC 2018: Setting lastTestMethodIndex: 46445
+Tue May 15 19:57:00 UTC 2018: Starting linking
+Tue May 15 19:57:00 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.util.xstream.XStreamDOMTest
+Tue May 15 19:57:01 UTC 2018: Found element on the queue
+Tue May 15 19:57:01 UTC 2018: Updating status
+Tue May 15 19:57:01 UTC 2018: Working
+Tue May 15 19:57:04 UTC 2018: Start hadzung__CICDTestin test class jenkins.util.JenkinsJVMTest
+Tue May 15 19:57:04 UTC 2018: Setting lastTestMethodIndex: 46448
+Tue May 15 19:57:04 UTC 2018: Starting linking
+Tue May 15 19:57:04 UTC 2018: Code found jenkins.util.JenkinsJVM-checkNotJenkinsJVM with jenkins.util.JenkinsJVMTest-checkNotJenkinsJVM_WhenNotInAJenkinsJVM
+Tue May 15 19:57:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:04 UTC 2018: Code found jenkins.util.JenkinsJVM-checkNotJenkinsJVM with jenkins.util.JenkinsJVMTest-checkNotJenkinsJVM_WhenInAJenkinsJVM
+Tue May 15 19:57:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:04 UTC 2018: Code found jenkins.util.JenkinsJVM-checkJenkinsJVM with jenkins.util.JenkinsJVMTest-checkJenkinsJVM_WhenInAJenkinsJVM
+Tue May 15 19:57:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:05 UTC 2018: Code found jenkins.util.JenkinsJVM-checkJenkinsJVM with jenkins.util.JenkinsJVMTest-checkJenkinsJVM_WhenNotInAJenkinsJVM
+Tue May 15 19:57:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:05 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.util.JenkinsJVMTest
+Tue May 15 19:57:05 UTC 2018: Found element on the queue
+Tue May 15 19:57:05 UTC 2018: Updating status
+Tue May 15 19:57:05 UTC 2018: Working
+Tue May 15 19:57:08 UTC 2018: Start hadzung__CICDTestin test class jenkins.util.TreeStringBuilderTest
+Tue May 15 19:57:08 UTC 2018: Setting lastTestMethodIndex: 46452
+Tue May 15 19:57:08 UTC 2018: Starting linking
+Tue May 15 19:57:08 UTC 2018: No link for: jenkins.util.TreeStringBuilderTest-testRandom
+Tue May 15 19:57:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:08 UTC 2018: No link for: jenkins.util.TreeStringBuilderTest-test
+Tue May 15 19:57:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:09 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.util.TreeStringBuilderTest
+Tue May 15 19:57:09 UTC 2018: Found element on the queue
+Tue May 15 19:57:09 UTC 2018: Updating status
+Tue May 15 19:57:09 UTC 2018: Working
+Tue May 15 19:57:12 UTC 2018: Start hadzung__CICDTestin test class jenkins.util.VirtualFileTest
+Tue May 15 19:57:12 UTC 2018: Setting lastTestMethodIndex: 46456
+Tue May 15 19:57:12 UTC 2018: Starting linking
+Tue May 15 19:57:12 UTC 2018: No link for: jenkins.util.VirtualFileTest-outsideSymlinks
+Tue May 15 19:57:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:13 UTC 2018: Linking done for hadzung__CICDTestin test class jenkins.util.VirtualFileTest
+Tue May 15 19:57:13 UTC 2018: Found element on the queue
+Tue May 15 19:57:13 UTC 2018: Updating status
+Tue May 15 19:57:13 UTC 2018: Working
+Tue May 15 19:57:16 UTC 2018: Start hadzung__CICDTestin test class hudson.UtilTest
+Tue May 15 19:57:16 UTC 2018: Setting lastTestMethodIndex: 46458
+Tue May 15 19:57:16 UTC 2018: Starting linking
+Tue May 15 19:57:16 UTC 2018: Code found hudson.Util-rawEncode with hudson.UtilTest-testRawEncode
+Tue May 15 19:57:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:16 UTC 2018: Code found hudson.Util-deleteContentsRecursive with hudson.UtilTest-testDeleteContentsRecursive_onWindows
+Tue May 15 19:57:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:17 UTC 2018: Code found hudson.Util-escape with hudson.UtilTest-testHtmlEscape
+Tue May 15 19:57:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:17 UTC 2018: Code found hudson.Util-loadProperties with hudson.UtilTest-loadProperties
+Tue May 15 19:57:17 UTC 2018: Code found hudson.Util-deleteContentsRecursive with hudson.UtilTest-testDeleteContentsRecursive
+Tue May 15 19:57:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:18 UTC 2018: Code found hudson.Util-deleteRecursive with hudson.UtilTest-testDeleteRecursive
+Tue May 15 19:57:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:18 UTC 2018: Code found hudson.Util-isSafeToRedirectTo with hudson.UtilTest-testIsSafeToRedirectTo
+Tue May 15 19:57:18 UTC 2018: Code found hudson.Util-isAbsoluteUri with hudson.UtilTest-testIsAbsoluteUri
+Tue May 15 19:57:18 UTC 2018: Code found hudson.Util-tryParseNumber with hudson.UtilTest-testTryParseNumber
+Tue May 15 19:57:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:19 UTC 2018: Code found hudson.Util-deleteFile with hudson.UtilTest-testDeleteFile_onWindows
+Tue May 15 19:57:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:19 UTC 2018: Code found hudson.Util-encode with hudson.UtilTest-testEncodeSpaces
+Tue May 15 19:57:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:19 UTC 2018: Code found hudson.Util-isSymlink with hudson.UtilTest-testIsSymlink
+Tue May 15 19:57:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:19 UTC 2018: Code found hudson.Util-deleteRecursive with hudson.UtilTest-testDeleteRecursive_onWindows
+Tue May 15 19:57:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:19 UTC 2018: Code found hudson.Util-deleteFile with hudson.UtilTest-testDeleteFile
+Tue May 15 19:57:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:20 UTC 2018: Code found hudson.Util-replaceMacro with hudson.UtilTest-testReplaceMacro
+Tue May 15 19:57:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:20 UTC 2018: No link for: hudson.UtilTest-isRelativePathWindows
+Tue May 15 19:57:20 UTC 2018: No link for: hudson.UtilTest-testDigestThreadSafety
+Tue May 15 19:57:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:20 UTC 2018: No link for: hudson.UtilTest-testTimeSpanString
+Tue May 15 19:57:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:21 UTC 2018: No link for: hudson.UtilTest-testSymlink
+Tue May 15 19:57:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:21 UTC 2018: No link for: hudson.UtilTest-isRelativePathUnix
+Tue May 15 19:57:21 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.UtilTest
+Tue May 15 19:57:22 UTC 2018: Found element on the queue
+Tue May 15 19:57:22 UTC 2018: Updating status
+Tue May 15 19:57:22 UTC 2018: Working
+Tue May 15 19:57:24 UTC 2018: Start hadzung__CICDTestin test class hudson.RemoveWindowsDirectoryJunctionTest
+Tue May 15 19:57:24 UTC 2018: Setting lastTestMethodIndex: 46464
+Tue May 15 19:57:24 UTC 2018: Starting linking
+Tue May 15 19:57:24 UTC 2018: No link for: hudson.RemoveWindowsDirectoryJunctionTest-testJunctionIsRemovedButNotContents
+Tue May 15 19:57:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:25 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.RemoveWindowsDirectoryJunctionTest
+Tue May 15 19:57:25 UTC 2018: Found element on the queue
+Tue May 15 19:57:25 UTC 2018: Updating status
+Tue May 15 19:57:25 UTC 2018: Working
+Tue May 15 19:57:28 UTC 2018: Start hadzung__CICDTestin test class hudson.FilePathTest
+Tue May 15 19:57:28 UTC 2018: Setting lastTestMethodIndex: 46467
+Tue May 15 19:57:28 UTC 2018: Starting linking
+Tue May 15 19:57:28 UTC 2018: Code found hudson.FilePath-isUnix with hudson.FilePathTest-isUnix
+Tue May 15 19:57:28 UTC 2018: No code found hudson.FilePath-tar with hudson.FilePathTest-symlinkInTar
+Tue May 15 19:57:29 UTC 2018: No code found hudson.FilePath-list with hudson.FilePathTest-list
+Tue May 15 19:57:29 UTC 2018: No code found hudson.FilePath-copyToWithPermission with hudson.FilePathTest-copyToWithPermission
+Tue May 15 19:57:29 UTC 2018: No code found hudson.FilePath-validateAntFileMask with hudson.FilePathTest-validateAntFileMaskBounded
+Tue May 15 19:57:29 UTC 2018: No code found hudson.FilePath-copyTo with hudson.FilePathTest-copyTo
+Tue May 15 19:57:30 UTC 2018: No code found hudson.FilePath-copyTo with hudson.FilePathTest-noFileLeakInCopyTo
+Tue May 15 19:57:30 UTC 2018: No code found hudson.FilePath-copyRecursiveTo with hudson.FilePathTest-repeatCopyRecursiveTo
+Tue May 15 19:57:30 UTC 2018: No code found hudson.FilePath-list with hudson.FilePathTest-listWithExcludes
+Tue May 15 19:57:30 UTC 2018: No code found hudson.FilePath-moveAllChildrenTo with hudson.FilePathTest-moveAllChildrenTo
+Tue May 15 19:57:31 UTC 2018: No code found hudson.FilePath-getParent with hudson.FilePathTest-getParent
+Tue May 15 19:57:31 UTC 2018: No code found hudson.FilePath-list with hudson.FilePathTest-listWithDefaultExcludes
+Tue May 15 19:57:31 UTC 2018: No link for: hudson.FilePathTest-installIfNecessarySkipsDownloadWhenErroneous
+Tue May 15 19:57:31 UTC 2018: No link for: hudson.FilePathTest-archiveBigFile
+Tue May 15 19:57:32 UTC 2018: No link for: hudson.FilePathTest-installIfNecessaryFollowsRedirects
+Tue May 15 19:57:32 UTC 2018: No link for: hudson.FilePathTest-compressTarUntarRoundTrip
+Tue May 15 19:57:32 UTC 2018: No link for: hudson.FilePathTest-errorMessageInRemoteCopyRecursive
+Tue May 15 19:57:32 UTC 2018: No link for: hudson.FilePathTest-validateAntFileMask
+Tue May 15 19:57:32 UTC 2018: No link for: hudson.FilePathTest-installIfNecessaryPerformsInstallation
+Tue May 15 19:57:33 UTC 2018: No link for: hudson.FilePathTest-multiSegmentRelativePaths
+Tue May 15 19:57:33 UTC 2018: No link for: hudson.FilePathTest-deleteLongPathOnWindows
+Tue May 15 19:57:33 UTC 2018: No link for: hudson.FilePathTest-noRaceConditionInCopyTo
+Tue May 15 19:57:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:33 UTC 2018: No link for: hudson.FilePathTest-installIfNecessaryAvoidsExcessiveDownloadsByUsingIfModifiedSince
+Tue May 15 19:57:34 UTC 2018: No link for: hudson.FilePathTest-archiveBug
+Tue May 15 19:57:34 UTC 2018: No link for: hudson.FilePathTest-testEOFbrokenFlush
+Tue May 15 19:57:34 UTC 2018: No link for: hudson.FilePathTest-normalization
+Tue May 15 19:57:34 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.FilePathTest
+Tue May 15 19:57:35 UTC 2018: Found element on the queue
+Tue May 15 19:57:35 UTC 2018: Updating status
+Tue May 15 19:57:35 UTC 2018: Working
+Tue May 15 19:57:38 UTC 2018: Start hadzung__CICDTestin test class hudson.slaves.DelegatingComputerLauncherTest
+Tue May 15 19:57:38 UTC 2018: Setting lastTestMethodIndex: 46477
+Tue May 15 19:57:38 UTC 2018: Starting linking
+Tue May 15 19:57:38 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.slaves.DelegatingComputerLauncherTest
+Tue May 15 19:57:39 UTC 2018: Found element on the queue
+Tue May 15 19:57:39 UTC 2018: Updating status
+Tue May 15 19:57:39 UTC 2018: Working
+Tue May 15 19:57:41 UTC 2018: Start hadzung__CICDTestin test class hudson.slaves.NodeListTest
+Tue May 15 19:57:41 UTC 2018: Setting lastTestMethodIndex: 46480
+Tue May 15 19:57:41 UTC 2018: Starting linking
+Tue May 15 19:57:41 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.slaves.NodeListTest
+Tue May 15 19:57:42 UTC 2018: Found element on the queue
+Tue May 15 19:57:42 UTC 2018: Updating status
+Tue May 15 19:57:42 UTC 2018: Working
+Tue May 15 19:57:45 UTC 2018: Start hadzung__CICDTestin test class hudson.slaves.ComputerLauncherTest
+Tue May 15 19:57:45 UTC 2018: Setting lastTestMethodIndex: 46484
+Tue May 15 19:57:45 UTC 2018: Starting linking
+Tue May 15 19:57:45 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-j2sdk4
+Tue May 15 19:57:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:46 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-jdk6
+Tue May 15 19:57:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:46 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-jdk10
+Tue May 15 19:57:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:46 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-jdk7
+Tue May 15 19:57:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:46 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-openJDK7
+Tue May 15 19:57:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:46 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-jdk5
+Tue May 15 19:57:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:47 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.slaves.ComputerLauncherTest
+Tue May 15 19:57:47 UTC 2018: Found element on the queue
+Tue May 15 19:57:47 UTC 2018: Updating status
+Tue May 15 19:57:47 UTC 2018: Working
+Tue May 15 19:57:50 UTC 2018: Start hadzung__CICDTestin test class hudson.slaves.CloudTest
+Tue May 15 19:57:50 UTC 2018: Setting lastTestMethodIndex: 46488
+Tue May 15 19:57:50 UTC 2018: Starting linking
+Tue May 15 19:57:50 UTC 2018: No link for: hudson.slaves.CloudTest-provisionPermissionShouldBeIndependentFromAdminister
+Tue May 15 19:57:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:50 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.slaves.CloudTest
+Tue May 15 19:57:51 UTC 2018: Found element on the queue
+Tue May 15 19:57:51 UTC 2018: Updating status
+Tue May 15 19:57:51 UTC 2018: Working
+Tue May 15 19:57:54 UTC 2018: Start hadzung__CICDTestin test class hudson.PluginWrapperTest
+Tue May 15 19:57:54 UTC 2018: Setting lastTestMethodIndex: 46492
+Tue May 15 19:57:54 UTC 2018: Starting linking
+Tue May 15 19:57:54 UTC 2018: No link for: hudson.PluginWrapperTest-dependencyOutdated
+Tue May 15 19:57:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:54 UTC 2018: No link for: hudson.PluginWrapperTest-jenkinsCoreTooOld
+Tue May 15 19:57:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:54 UTC 2018: No link for: hudson.PluginWrapperTest-dependencyFailedToLoad
+Tue May 15 19:57:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:54 UTC 2018: No link for: hudson.PluginWrapperTest-dependencyTest
+Tue May 15 19:57:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:55 UTC 2018: No link for: hudson.PluginWrapperTest-dependencyNotInstalled
+Tue May 15 19:57:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:55 UTC 2018: No link for: hudson.PluginWrapperTest-optionalDependencyTest
+Tue May 15 19:57:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:57:55 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.PluginWrapperTest
+Tue May 15 19:57:56 UTC 2018: Found element on the queue
+Tue May 15 19:57:56 UTC 2018: Updating status
+Tue May 15 19:57:56 UTC 2018: Working
+Tue May 15 19:57:59 UTC 2018: Start hadzung__CICDTestin test class hudson.tasks.BuildStepCompatibilityLayerTest
+Tue May 15 19:57:59 UTC 2018: Setting lastTestMethodIndex: 46497
+Tue May 15 19:57:59 UTC 2018: Starting linking
+Tue May 15 19:57:59 UTC 2018: Code found hudson.tasks.BuildStepCompatibilityLayer-perform with hudson.tasks.BuildStepCompatibilityLayerTest-testPerform
+Tue May 15 19:57:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:59 UTC 2018: Code found hudson.tasks.BuildStepCompatibilityLayer-perform with hudson.tasks.BuildStepCompatibilityLayerTest-testPerformExpectAbstractMethodError
+Tue May 15 19:57:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:57:59 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.tasks.BuildStepCompatibilityLayerTest
+Tue May 15 19:58:00 UTC 2018: Found element on the queue
+Tue May 15 19:58:00 UTC 2018: Updating status
+Tue May 15 19:58:00 UTC 2018: Working
+Tue May 15 19:58:03 UTC 2018: Start hadzung__CICDTestin test class hudson.tasks._maven.Maven3MojoNoteTest
+Tue May 15 19:58:03 UTC 2018: Setting lastTestMethodIndex: 46500
+Tue May 15 19:58:03 UTC 2018: Starting linking
+Tue May 15 19:58:03 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateMavenPlugin
+Tue May 15 19:58:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:03 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateOtherPlugin
+Tue May 15 19:58:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:04 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateCodehausPlugin
+Tue May 15 19:58:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:04 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.tasks._maven.Maven3MojoNoteTest
+Tue May 15 19:58:05 UTC 2018: Found element on the queue
+Tue May 15 19:58:05 UTC 2018: Updating status
+Tue May 15 19:58:05 UTC 2018: Working
+Tue May 15 19:58:07 UTC 2018: Start hadzung__CICDTestin test class hudson.MarkupTextTest
+Tue May 15 19:58:07 UTC 2018: Setting lastTestMethodIndex: 46503
+Tue May 15 19:58:07 UTC 2018: Starting linking
+Tue May 15 19:58:07 UTC 2018: No code found hudson.MarkupText$SubText-findTokens with hudson.MarkupTextTest-findTokensOnSubText
+Tue May 15 19:58:07 UTC 2018: Code found hudson.MarkupText$SubText-subText with hudson.MarkupTextTest-subTextSubText
+Tue May 15 19:58:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:58:08 UTC 2018: No link for: hudson.MarkupTextTest-adjacent
+Tue May 15 19:58:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:08 UTC 2018: No link for: hudson.MarkupTextTest-test1
+Tue May 15 19:58:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:08 UTC 2018: No link for: hudson.MarkupTextTest-literalTextSurround
+Tue May 15 19:58:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:08 UTC 2018: No link for: hudson.MarkupTextTest-escape
+Tue May 15 19:58:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:08 UTC 2018: No link for: hudson.MarkupTextTest-preEscape
+Tue May 15 19:58:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:09 UTC 2018: No link for: hudson.MarkupTextTest-boundary
+Tue May 15 19:58:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:09 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.MarkupTextTest
+Tue May 15 19:58:09 UTC 2018: Found element on the queue
+Tue May 15 19:58:09 UTC 2018: Updating status
+Tue May 15 19:58:09 UTC 2018: Working
+Tue May 15 19:58:12 UTC 2018: Start hadzung__CICDTestin test class hudson.triggers.TimerTriggerTest
+Tue May 15 19:58:12 UTC 2018: Setting lastTestMethodIndex: 46509
+Tue May 15 19:58:12 UTC 2018: Starting linking
+Tue May 15 19:58:12 UTC 2018: No link for: hudson.triggers.TimerTriggerTest-testNoNPE
+Tue May 15 19:58:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:12 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.triggers.TimerTriggerTest
+Tue May 15 19:58:13 UTC 2018: Found element on the queue
+Tue May 15 19:58:13 UTC 2018: Updating status
+Tue May 15 19:58:13 UTC 2018: Working
+Tue May 15 19:58:16 UTC 2018: Start hadzung__CICDTestin test class hudson.scheduler.CronTabEventualityTest
+Tue May 15 19:58:16 UTC 2018: Setting lastTestMethodIndex: 46513
+Tue May 15 19:58:16 UTC 2018: Starting linking
+Tue May 15 19:58:16 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testHourlyWillBeEventuallyTriggeredWithinOneHour
+Tue May 15 19:58:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:16 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testYearlyWillBeEventuallyTriggeredWithinOneYear
+Tue May 15 19:58:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:16 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testWeeklyWillBeEventuallyTriggeredWithinOneWeek
+Tue May 15 19:58:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:16 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testMonthlyWillBeEventuallyTriggeredWithinOneMonth
+Tue May 15 19:58:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:17 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testFirstDayOfMonthWillBeEventuallyTriggeredWithinOneMonth
+Tue May 15 19:58:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:17 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testDailyWillBeEventuallyTriggeredWithinOneDay
+Tue May 15 19:58:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:17 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testMidnightWillBeEventuallyTriggeredWithinOneDay
+Tue May 15 19:58:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:17 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testFirstSundayOfMonthWillBeEventuallyTriggeredWithinOneMonthAndOneWeek
+Tue May 15 19:58:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:17 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testAnnuallyWillBeEventuallyTriggeredWithinOneYear
+Tue May 15 19:58:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:18 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.scheduler.CronTabEventualityTest
+Tue May 15 19:58:18 UTC 2018: Found element on the queue
+Tue May 15 19:58:18 UTC 2018: Updating status
+Tue May 15 19:58:18 UTC 2018: Working
+Tue May 15 19:58:21 UTC 2018: Start hadzung__CICDTestin test class hudson.scheduler.CronTabTest
+Tue May 15 19:58:21 UTC 2018: Setting lastTestMethodIndex: 46517
+Tue May 15 19:58:21 UTC 2018: Starting linking
+Tue May 15 19:58:21 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil3_DoW7
+Tue May 15 19:58:21 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor1
+Tue May 15 19:58:22 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor3
+Tue May 15 19:58:22 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor2
+Tue May 15 19:58:22 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor4
+Tue May 15 19:58:22 UTC 2018: No code found hudson.scheduler.CronTab-checkSanity with hudson.scheduler.CronTabTest-checkSanity
+Tue May 15 19:58:23 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil5
+Tue May 15 19:58:23 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil3
+Tue May 15 19:58:23 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil4
+Tue May 15 19:58:23 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil1
+Tue May 15 19:58:23 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil2
+Tue May 15 19:58:24 UTC 2018: No link for: hudson.scheduler.CronTabTest-testHash2
+Tue May 15 19:58:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:24 UTC 2018: No link for: hudson.scheduler.CronTabTest-testTimezone
+Tue May 15 19:58:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:24 UTC 2018: No link for: hudson.scheduler.CronTabTest-hashedMinute
+Tue May 15 19:58:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:24 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckOK
+Tue May 15 19:58:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:25 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckFailHour
+Tue May 15 19:58:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:25 UTC 2018: No link for: hudson.scheduler.CronTabTest-test1
+Tue May 15 19:58:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:25 UTC 2018: No link for: hudson.scheduler.CronTabTest-repeatedHash
+Tue May 15 19:58:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:25 UTC 2018: No link for: hudson.scheduler.CronTabTest-hashSkips
+Tue May 15 19:58:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:25 UTC 2018: No link for: hudson.scheduler.CronTabTest-testHash1
+Tue May 15 19:58:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:26 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckFailMinute
+Tue May 15 19:58:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:26 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.scheduler.CronTabTest
+Tue May 15 19:58:26 UTC 2018: Found element on the queue
+Tue May 15 19:58:26 UTC 2018: Updating status
+Tue May 15 19:58:26 UTC 2018: Working
+Tue May 15 19:58:29 UTC 2018: Start hadzung__CICDTestin test class hudson.slaves.ChannelPingerTest
+Tue May 15 19:58:29 UTC 2018: Setting lastTestMethodIndex: 46524
+Tue May 15 19:58:29 UTC 2018: Starting linking
+Tue May 15 19:58:29 UTC 2018: No link for: hudson.slaves.ChannelPingerTest-testNewSystemPropertyTrumpsOld
+Tue May 15 19:58:29 UTC 2018: No link for: hudson.slaves.ChannelPingerTest-testDefaults
+Tue May 15 19:58:30 UTC 2018: No link for: hudson.slaves.ChannelPingerTest-testFromSystemProperties
+Tue May 15 19:58:30 UTC 2018: No link for: hudson.slaves.ChannelPingerTest-testSetUpRemotePingEquality
+Tue May 15 19:58:30 UTC 2018: No link for: hudson.slaves.ChannelPingerTest-testFromOldSystemProperty
+Tue May 15 19:58:30 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.slaves.ChannelPingerTest
+Tue May 15 19:58:31 UTC 2018: Found element on the queue
+Tue May 15 19:58:31 UTC 2018: Updating status
+Tue May 15 19:58:31 UTC 2018: Working
+Tue May 15 19:58:33 UTC 2018: Start hadzung__CICDTestin test class hudson.model.BallColorTest
+Tue May 15 19:58:33 UTC 2018: Setting lastTestMethodIndex: 46527
+Tue May 15 19:58:33 UTC 2018: Starting linking
+Tue May 15 19:58:33 UTC 2018: No link for: hudson.model.BallColorTest-iconClassName
+Tue May 15 19:58:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:34 UTC 2018: No link for: hudson.model.BallColorTest-htmlColor
+Tue May 15 19:58:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:34 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.BallColorTest
+Tue May 15 19:58:36 UTC 2018: Found element on the queue
+Tue May 15 19:58:36 UTC 2018: Updating status
+Tue May 15 19:58:36 UTC 2018: Working
+Tue May 15 19:58:39 UTC 2018: Start hadzung__CICDTestin test class hudson.model.ActionableTest
+Tue May 15 19:58:39 UTC 2018: Setting lastTestMethodIndex: 46531
+Tue May 15 19:58:39 UTC 2018: Starting linking
+Tue May 15 19:58:39 UTC 2018: Code found hudson.model.Actionable-addOrReplaceAction with hudson.model.ActionableTest-addOrReplaceAction_null
+Tue May 15 19:58:40 UTC 2018: Code found hudson.model.Actionable-addOrReplaceAction with hudson.model.ActionableTest-addOrReplaceAction
+Tue May 15 19:58:40 UTC 2018: Code found hudson.model.Actionable-addAction with hudson.model.ActionableTest-addAction
+Tue May 15 19:58:40 UTC 2018: Code found hudson.model.Actionable-replaceActions with hudson.model.ActionableTest-replaceActions
+Tue May 15 19:58:41 UTC 2018: Code found hudson.model.Actionable-addAction with hudson.model.ActionableTest-addAction_null
+Tue May 15 19:58:41 UTC 2018: Code found hudson.model.Actionable-removeActions with hudson.model.ActionableTest-removeActions_null
+Tue May 15 19:58:41 UTC 2018: Code found hudson.model.Actionable-replaceAction with hudson.model.ActionableTest-replaceAction_null
+Tue May 15 19:58:41 UTC 2018: Code found hudson.model.Actionable-replaceAction with hudson.model.ActionableTest-replaceAction
+Tue May 15 19:58:41 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:58:41 UTC 2018: Code found hudson.model.Actionable-removeAction with hudson.model.ActionableTest-removeAction
+Tue May 15 19:58:42 UTC 2018: Code found hudson.model.Actionable-replaceActions with hudson.model.ActionableTest-replaceActions_null_null
+Tue May 15 19:58:42 UTC 2018: Code found hudson.model.Actionable-removeAction with hudson.model.ActionableTest-removeAction_null
+Tue May 15 19:58:42 UTC 2018: Code found hudson.model.Actionable-removeActions with hudson.model.ActionableTest-removeActions
+Tue May 15 19:58:42 UTC 2018: Code found hudson.model.Actionable-replaceActions with hudson.model.ActionableTest-replaceActions_null
+Tue May 15 19:58:42 UTC 2018: No link for: hudson.model.ActionableTest-testExtensionOverrides
+Tue May 15 19:58:43 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.ActionableTest
+Tue May 15 19:58:43 UTC 2018: Found element on the queue
+Tue May 15 19:58:43 UTC 2018: Updating status
+Tue May 15 19:58:43 UTC 2018: Working
+Tue May 15 19:58:47 UTC 2018: Start hadzung__CICDTestin test class hudson.model.RunParameterValueTest
+Tue May 15 19:58:47 UTC 2018: Setting lastTestMethodIndex: 46536
+Tue May 15 19:58:47 UTC 2018: Starting linking
+Tue May 15 19:58:47 UTC 2018: No link for: hudson.model.RunParameterValueTest-robustness
+Tue May 15 19:58:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:47 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.RunParameterValueTest
+Tue May 15 19:58:47 UTC 2018: Found element on the queue
+Tue May 15 19:58:47 UTC 2018: Updating status
+Tue May 15 19:58:47 UTC 2018: Working
+Tue May 15 19:58:50 UTC 2018: Start hadzung__CICDTestin test class hudson.model.ChoiceParameterDefinitionTest
+Tue May 15 19:58:50 UTC 2018: Setting lastTestMethodIndex: 46539
+Tue May 15 19:58:50 UTC 2018: Starting linking
+Tue May 15 19:58:50 UTC 2018: No link for: hudson.model.ChoiceParameterDefinitionTest-testCheckChoices
+Tue May 15 19:58:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:50 UTC 2018: No link for: hudson.model.ChoiceParameterDefinitionTest-shouldValidateChoices
+Tue May 15 19:58:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:58:50 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.ChoiceParameterDefinitionTest
+Tue May 15 19:58:51 UTC 2018: Found element on the queue
+Tue May 15 19:58:51 UTC 2018: Updating status
+Tue May 15 19:58:51 UTC 2018: Working
+Tue May 15 19:58:54 UTC 2018: Start hadzung__CICDTestin test class hudson.model.DisplayNameListenerTest
+Tue May 15 19:58:54 UTC 2018: Setting lastTestMethodIndex: 46543
+Tue May 15 19:58:54 UTC 2018: Starting linking
+Tue May 15 19:58:54 UTC 2018: Code found hudson.model.DisplayNameListener-onRenamed with hudson.model.DisplayNameListenerTest-testOnRenamedOldNameNotEqualDisplayName
+Tue May 15 19:58:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:58:54 UTC 2018: Code found hudson.model.DisplayNameListener-onCopied with hudson.model.DisplayNameListenerTest-testOnCopied
+Tue May 15 19:58:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:58:54 UTC 2018: Code found hudson.model.DisplayNameListener-onRenamed with hudson.model.DisplayNameListenerTest-testOnRenamedOldNameEqualsDisplayName
+Tue May 15 19:58:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:58:54 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.DisplayNameListenerTest
+Tue May 15 19:58:55 UTC 2018: Found element on the queue
+Tue May 15 19:58:55 UTC 2018: Updating status
+Tue May 15 19:58:55 UTC 2018: Working
+Tue May 15 19:58:58 UTC 2018: Start hadzung__CICDTestin test class hudson.model.AbstractItemTest
+Tue May 15 19:58:58 UTC 2018: Setting lastTestMethodIndex: 46546
+Tue May 15 19:58:58 UTC 2018: Starting linking
+Tue May 15 19:58:58 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.AbstractItemTest
+Tue May 15 19:58:59 UTC 2018: Found element on the queue
+Tue May 15 19:58:59 UTC 2018: Updating status
+Tue May 15 19:58:59 UTC 2018: Working
+Tue May 15 19:59:01 UTC 2018: Start hadzung__CICDTestin test class hudson.model.ResourceListTest
+Tue May 15 19:59:01 UTC 2018: Setting lastTestMethodIndex: 46549
+Tue May 15 19:59:01 UTC 2018: Starting linking
+Tue May 15 19:59:01 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-simpleR
+Tue May 15 19:59:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:02 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-multiReadN
+Tue May 15 19:59:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:02 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-simpleRW
+Tue May 15 19:59:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:02 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-multiWriteN
+Tue May 15 19:59:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:02 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-parentChildW
+Tue May 15 19:59:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:02 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-multiWrite1
+Tue May 15 19:59:03 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:03 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-multiRead1
+Tue May 15 19:59:03 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:03 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-simpleW
+Tue May 15 19:59:03 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:03 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-parentChildR3
+Tue May 15 19:59:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:04 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-parentChildW3
+Tue May 15 19:59:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:04 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-parentChildR
+Tue May 15 19:59:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:04 UTC 2018: No link for: hudson.model.ResourceListTest-emptyLists
+Tue May 15 19:59:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:04 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.ResourceListTest
+Tue May 15 19:59:05 UTC 2018: Found element on the queue
+Tue May 15 19:59:05 UTC 2018: Updating status
+Tue May 15 19:59:05 UTC 2018: Working
+Tue May 15 19:59:08 UTC 2018: Start hadzung__CICDTestin test class hudson.model.TimeSeriesTest
+Tue May 15 19:59:08 UTC 2018: Setting lastTestMethodIndex: 46553
+Tue May 15 19:59:08 UTC 2018: Starting linking
+Tue May 15 19:59:08 UTC 2018: No link for: hudson.model.TimeSeriesTest-test1
+Tue May 15 19:59:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:08 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.TimeSeriesTest
+Tue May 15 19:59:09 UTC 2018: Found element on the queue
+Tue May 15 19:59:09 UTC 2018: Updating status
+Tue May 15 19:59:09 UTC 2018: Working
+Tue May 15 19:59:11 UTC 2018: Start hadzung__CICDTestin test class hudson.model.FileParameterValueTest
+Tue May 15 19:59:11 UTC 2018: Setting lastTestMethodIndex: 46558
+Tue May 15 19:59:11 UTC 2018: Starting linking
+Tue May 15 19:59:11 UTC 2018: No link for: hudson.model.FileParameterValueTest-compareNullParams
+Tue May 15 19:59:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:12 UTC 2018: No link for: hudson.model.FileParameterValueTest-compareParamsWithSameName
+Tue May 15 19:59:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:12 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.FileParameterValueTest
+Tue May 15 19:59:12 UTC 2018: Found element on the queue
+Tue May 15 19:59:12 UTC 2018: Updating status
+Tue May 15 19:59:12 UTC 2018: Working
+Tue May 15 19:59:15 UTC 2018: Start hadzung__CICDTestin test class hudson.model.AutoCompleteSeederTest
+Tue May 15 19:59:15 UTC 2018: Setting lastTestMethodIndex: 46561
+Tue May 15 19:59:15 UTC 2018: Starting linking
+Tue May 15 19:59:15 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.AutoCompleteSeederTest
+Tue May 15 19:59:16 UTC 2018: Found element on the queue
+Tue May 15 19:59:16 UTC 2018: Updating status
+Tue May 15 19:59:16 UTC 2018: Working
+Tue May 15 19:59:18 UTC 2018: Start hadzung__CICDTestin test class hudson.model.LoadStatisticsTest
+Tue May 15 19:59:18 UTC 2018: Setting lastTestMethodIndex: 46564
+Tue May 15 19:59:18 UTC 2018: Starting linking
+Tue May 15 19:59:18 UTC 2018: Code found hudson.model.LoadStatistics-isModern with hudson.model.LoadStatisticsTest-isModernWorks
+Tue May 15 19:59:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:19 UTC 2018: No link for: hudson.model.LoadStatisticsTest-graph
+Tue May 15 19:59:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:19 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.LoadStatisticsTest
+Tue May 15 19:59:20 UTC 2018: Found element on the queue
+Tue May 15 19:59:20 UTC 2018: Updating status
+Tue May 15 19:59:20 UTC 2018: Working
+Tue May 15 19:59:22 UTC 2018: Start hadzung__CICDTestin test class hudson.model.ParametersActionTest
+Tue May 15 19:59:22 UTC 2018: Setting lastTestMethodIndex: 46567
+Tue May 15 19:59:22 UTC 2018: Starting linking
+Tue May 15 19:59:22 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldHandleNullOverrides
+Tue May 15 19:59:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:23 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldHandleEmptyOverrides
+Tue May 15 19:59:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:23 UTC 2018: Code found hudson.model.ParametersAction-createUpdated with hudson.model.ParametersActionTest-createUpdatedShouldReturnNewInstanceWithNullOverride
+Tue May 15 19:59:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:23 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldReturnNewInstanceWithOverride
+Tue May 15 19:59:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:23 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldOverrideParameters
+Tue May 15 19:59:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:24 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldCombineDisparateParameters
+Tue May 15 19:59:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:24 UTC 2018: No link for: hudson.model.ParametersActionTest-checkNullParameterValues
+Tue May 15 19:59:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:24 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.ParametersActionTest
+Tue May 15 19:59:25 UTC 2018: Found element on the queue
+Tue May 15 19:59:25 UTC 2018: Updating status
+Tue May 15 19:59:25 UTC 2018: Working
+Tue May 15 19:59:28 UTC 2018: Start hadzung__CICDTestin test class hudson.model.BuildStatusSummaryTest
+Tue May 15 19:59:28 UTC 2018: Setting lastTestMethodIndex: 46572
+Tue May 15 19:59:28 UTC 2018: Starting linking
+Tue May 15 19:59:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testBecameUnstable
+Tue May 15 19:59:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNonTestRelatedUnstable
+Tue May 15 19:59:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testSuccess
+Tue May 15 19:59:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:29 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFailureSince
+Tue May 15 19:59:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:29 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFixed
+Tue May 15 19:59:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:29 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testBecameFailure
+Tue May 15 19:59:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:29 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testUnstableAfterFailure
+Tue May 15 19:59:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:30 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNotBuilt
+Tue May 15 19:59:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:30 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testAborted
+Tue May 15 19:59:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:30 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNonTestRelatedBecameUnstable
+Tue May 15 19:59:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:30 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testStatusUnknownIfRunIsStillBuilding
+Tue May 15 19:59:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:30 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFailure
+Tue May 15 19:59:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:31 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.BuildStatusSummaryTest
+Tue May 15 19:59:31 UTC 2018: Found element on the queue
+Tue May 15 19:59:31 UTC 2018: Updating status
+Tue May 15 19:59:31 UTC 2018: Working
+Tue May 15 19:59:34 UTC 2018: Start hadzung__CICDTestin test class hudson.model.TaskActionTest
+Tue May 15 19:59:34 UTC 2018: Setting lastTestMethodIndex: 46577
+Tue May 15 19:59:34 UTC 2018: Starting linking
+Tue May 15 19:59:34 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.TaskActionTest
+Tue May 15 19:59:35 UTC 2018: Found element on the queue
+Tue May 15 19:59:35 UTC 2018: Updating status
+Tue May 15 19:59:35 UTC 2018: Working
+Tue May 15 19:59:38 UTC 2018: Start hadzung__CICDTestin test class hudson.logging.LogRecorderTest
+Tue May 15 19:59:38 UTC 2018: Setting lastTestMethodIndex: 46580
+Tue May 15 19:59:38 UTC 2018: Starting linking
+Tue May 15 19:59:38 UTC 2018: No link for: hudson.logging.LogRecorderTest-targetIncludes
+Tue May 15 19:59:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:38 UTC 2018: No link for: hudson.logging.LogRecorderTest-targetMatches
+Tue May 15 19:59:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:38 UTC 2018: No link for: hudson.logging.LogRecorderTest-testSpecificExclusion
+Tue May 15 19:59:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:39 UTC 2018: No link for: hudson.logging.LogRecorderTest-testClearing
+Tue May 15 19:59:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:39 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.logging.LogRecorderTest
+Tue May 15 19:59:40 UTC 2018: Found element on the queue
+Tue May 15 19:59:40 UTC 2018: Updating status
+Tue May 15 19:59:40 UTC 2018: Working
+Tue May 15 19:59:42 UTC 2018: Start hadzung__CICDTestin test class hudson.ProxyConfigurationTest
+Tue May 15 19:59:42 UTC 2018: Setting lastTestMethodIndex: 46583
+Tue May 15 19:59:42 UTC 2018: Starting linking
+Tue May 15 19:59:42 UTC 2018: No link for: hudson.ProxyConfigurationTest-noProxyHost
+Tue May 15 19:59:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:43 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.ProxyConfigurationTest
+Tue May 15 19:59:44 UTC 2018: Found element on the queue
+Tue May 15 19:59:44 UTC 2018: Updating status
+Tue May 15 19:59:44 UTC 2018: Working
+Tue May 15 19:59:48 UTC 2018: Start hadzung__CICDTestin test class hudson.BulkChangeTest
+Tue May 15 19:59:48 UTC 2018: Setting lastTestMethodIndex: 46586
+Tue May 15 19:59:48 UTC 2018: Starting linking
+Tue May 15 19:59:48 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.BulkChangeTest
+Tue May 15 19:59:48 UTC 2018: Found element on the queue
+Tue May 15 19:59:48 UTC 2018: Updating status
+Tue May 15 19:59:48 UTC 2018: Working
+Tue May 15 19:59:51 UTC 2018: Start hadzung__CICDTestin test class hudson.util.IsOverriddenTest
+Tue May 15 19:59:51 UTC 2018: Setting lastTestMethodIndex: 46589
+Tue May 15 19:59:51 UTC 2018: Starting linking
+Tue May 15 19:59:51 UTC 2018: Code found hudson.Util-isOverridden with hudson.util.IsOverriddenTest-isOverriddenTest
+Tue May 15 19:59:51 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:51 UTC 2018: Code found hudson.Util-isOverridden with hudson.util.IsOverriddenTest-isOverriddenNegativeTest
+Tue May 15 19:59:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:52 UTC 2018: No link for: hudson.util.IsOverriddenTest-avoidPrivateMethodsInspection
+Tue May 15 19:59:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:52 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.IsOverriddenTest
+Tue May 15 19:59:53 UTC 2018: Found element on the queue
+Tue May 15 19:59:53 UTC 2018: Updating status
+Tue May 15 19:59:53 UTC 2018: Working
+Tue May 15 19:59:55 UTC 2018: Start hadzung__CICDTestin test class hudson.model.listeners.SCMListenerTest
+Tue May 15 19:59:56 UTC 2018: Setting lastTestMethodIndex: 46592
+Tue May 15 19:59:56 UTC 2018: Starting linking
+Tue May 15 19:59:56 UTC 2018: Code found hudson.model.listeners.SCMListenerTest$L1-onChangeLogParsed with hudson.model.listeners.SCMListenerTest-onChangeLogParsed
+Tue May 15 19:59:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:59:56 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.model.listeners.SCMListenerTest
+Tue May 15 19:59:57 UTC 2018: Found element on the queue
+Tue May 15 19:59:57 UTC 2018: Updating status
+Tue May 15 19:59:57 UTC 2018: Working
+Tue May 15 20:00:00 UTC 2018: Start hadzung__CICDTestin test class hudson.util.CopyOnWriteMapTest
+Tue May 15 20:00:00 UTC 2018: Setting lastTestMethodIndex: 46595
+Tue May 15 20:00:00 UTC 2018: Starting linking
+Tue May 15 20:00:00 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.CopyOnWriteMapTest
+Tue May 15 20:00:00 UTC 2018: Found element on the queue
+Tue May 15 20:00:00 UTC 2018: Updating status
+Tue May 15 20:00:00 UTC 2018: Working
+Tue May 15 20:00:04 UTC 2018: Start hadzung__CICDTestin test class hudson.util.CyclicGraphDetectorTest
+Tue May 15 20:00:04 UTC 2018: Setting lastTestMethodIndex: 46599
+Tue May 15 20:00:04 UTC 2018: Starting linking
+Tue May 15 20:00:04 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.CyclicGraphDetectorTest
+Tue May 15 20:00:04 UTC 2018: Found element on the queue
+Tue May 15 20:00:04 UTC 2018: Updating status
+Tue May 15 20:00:04 UTC 2018: Working
+Tue May 15 20:00:07 UTC 2018: Start hadzung__CICDTestin test class hudson.util.ArgumentListBuilderTest
+Tue May 15 20:00:07 UTC 2018: Setting lastTestMethodIndex: 46602
+Tue May 15 20:00:07 UTC 2018: Starting linking
+Tue May 15 20:00:07 UTC 2018: Code found hudson.util.ArgumentListBuilder-clone with hudson.util.ArgumentListBuilderTest-assertMaskOnClone
+Tue May 15 20:00:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:07 UTC 2018: Code found hudson.util.ArgumentListBuilder-toWindowsCommand with hudson.util.ArgumentListBuilderTest-testToWindowsCommand
+Tue May 15 20:00:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:08 UTC 2018: Code found hudson.util.ArgumentListBuilder-prepend with hudson.util.ArgumentListBuilderTest-assertPrependBeforeAddingMasked
+Tue May 15 20:00:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:08 UTC 2018: Code found hudson.util.ArgumentListBuilder-prepend with hudson.util.ArgumentListBuilderTest-assertPrependAfterAddingMasked
+Tue May 15 20:00:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:08 UTC 2018: Code found hudson.util.ArgumentListBuilder-addKeyValuePairsFromPropertyString with hudson.util.ArgumentListBuilderTest-addKeyValuePairsFromPropertyString
+Tue May 15 20:00:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:09 UTC 2018: Code found hudson.util.ArgumentListBuilder-toWindowsCommand with hudson.util.ArgumentListBuilderTest-testToWindowsCommandMasked
+Tue May 15 20:00:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:09 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertKeyValuePairsWithMask
+Tue May 15 20:00:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:09 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertLastArgumentIsMasked
+Tue May 15 20:00:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:09 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertEmptyMask
+Tue May 15 20:00:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:10 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertSeveralMaskedArguments
+Tue May 15 20:00:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:10 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertKeyValuePairs
+Tue May 15 20:00:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:10 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-numberOfBackslashesInPropertiesShouldBePreservedAfterMacroExpansion
+Tue May 15 20:00:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:11 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.ArgumentListBuilderTest
+Tue May 15 20:00:11 UTC 2018: Found element on the queue
+Tue May 15 20:00:11 UTC 2018: Updating status
+Tue May 15 20:00:11 UTC 2018: Working
+Tue May 15 20:00:14 UTC 2018: Start hadzung__CICDTestin test class hudson.util.SubClassGeneratorTest
+Tue May 15 20:00:14 UTC 2018: Setting lastTestMethodIndex: 46609
+Tue May 15 20:00:14 UTC 2018: Starting linking
+Tue May 15 20:00:14 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.SubClassGeneratorTest
+Tue May 15 20:00:14 UTC 2018: Found element on the queue
+Tue May 15 20:00:14 UTC 2018: Updating status
+Tue May 15 20:00:14 UTC 2018: Working
+Tue May 15 20:00:17 UTC 2018: Start hadzung__CICDTestin test class hudson.util.MultipartFormDataParserTest
+Tue May 15 20:00:17 UTC 2018: Setting lastTestMethodIndex: 46612
+Tue May 15 20:00:17 UTC 2018: Starting linking
+Tue May 15 20:00:17 UTC 2018: No link for: hudson.util.MultipartFormDataParserTest-testIsMultipart
+Tue May 15 20:00:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:18 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.MultipartFormDataParserTest
+Tue May 15 20:00:18 UTC 2018: Found element on the queue
+Tue May 15 20:00:18 UTC 2018: Updating status
+Tue May 15 20:00:18 UTC 2018: Working
+Tue May 15 20:00:21 UTC 2018: Start hadzung__CICDTestin test class hudson.util.CopyOnWriteListTest
+Tue May 15 20:00:21 UTC 2018: Setting lastTestMethodIndex: 46616
+Tue May 15 20:00:21 UTC 2018: Starting linking
+Tue May 15 20:00:21 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.CopyOnWriteListTest
+Tue May 15 20:00:21 UTC 2018: Found element on the queue
+Tue May 15 20:00:21 UTC 2018: Updating status
+Tue May 15 20:00:21 UTC 2018: Working
+Tue May 15 20:00:24 UTC 2018: Start hadzung__CICDTestin test class hudson.util.FormValidationTest
+Tue May 15 20:00:24 UTC 2018: Setting lastTestMethodIndex: 46618
+Tue May 15 20:00:24 UTC 2018: Starting linking
+Tue May 15 20:00:24 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_Null
+Tue May 15 20:00:24 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_OK
+Tue May 15 20:00:25 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_Empty
+Tue May 15 20:00:25 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateZeroValidations
+Tue May 15 20:00:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:25 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateSeveralValidations
+Tue May 15 20:00:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:25 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateSingleValidations
+Tue May 15 20:00:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:26 UTC 2018: No link for: hudson.util.FormValidationTest-formValidationException
+Tue May 15 20:00:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:26 UTC 2018: No link for: hudson.util.FormValidationTest-testMessage
+Tue May 15 20:00:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:26 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.FormValidationTest
+Tue May 15 20:00:27 UTC 2018: Found element on the queue
+Tue May 15 20:00:27 UTC 2018: Updating status
+Tue May 15 20:00:27 UTC 2018: Working
+Tue May 15 20:00:29 UTC 2018: Start hadzung__CICDTestin test class hudson.util.QuotedStringTokenizerTest
+Tue May 15 20:00:29 UTC 2018: Setting lastTestMethodIndex: 46624
+Tue May 15 20:00:29 UTC 2018: Starting linking
+Tue May 15 20:00:29 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test1
+Tue May 15 20:00:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:30 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test3
+Tue May 15 20:00:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:30 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test2
+Tue May 15 20:00:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:30 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test5
+Tue May 15 20:00:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:30 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test4
+Tue May 15 20:00:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:31 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test7
+Tue May 15 20:00:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:31 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test6
+Tue May 15 20:00:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:31 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.QuotedStringTokenizerTest
+Tue May 15 20:00:32 UTC 2018: Found element on the queue
+Tue May 15 20:00:32 UTC 2018: Updating status
+Tue May 15 20:00:32 UTC 2018: Working
+Tue May 15 20:00:35 UTC 2018: Start hadzung__CICDTestin test class hudson.util.io.ZipArchiverTest
+Tue May 15 20:00:35 UTC 2018: Setting lastTestMethodIndex: 46628
+Tue May 15 20:00:35 UTC 2018: Starting linking
+Tue May 15 20:00:35 UTC 2018: No link for: hudson.util.io.ZipArchiverTest-backwardsSlashesOnWindows
+Tue May 15 20:00:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:35 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.io.ZipArchiverTest
+Tue May 15 20:00:35 UTC 2018: Found element on the queue
+Tue May 15 20:00:35 UTC 2018: Updating status
+Tue May 15 20:00:35 UTC 2018: Working
+Tue May 15 20:00:38 UTC 2018: Start hadzung__CICDTestin test class hudson.util.io.RewindableRotatingFileOutputStreamTest
+Tue May 15 20:00:38 UTC 2018: Setting lastTestMethodIndex: 46632
+Tue May 15 20:00:38 UTC 2018: Starting linking
+Tue May 15 20:00:38 UTC 2018: No link for: hudson.util.io.RewindableRotatingFileOutputStreamTest-rotation
+Tue May 15 20:00:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:39 UTC 2018: No link for: hudson.util.io.RewindableRotatingFileOutputStreamTest-deletedFolder
+Tue May 15 20:00:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:39 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.io.RewindableRotatingFileOutputStreamTest
+Tue May 15 20:00:39 UTC 2018: Found element on the queue
+Tue May 15 20:00:39 UTC 2018: Updating status
+Tue May 15 20:00:39 UTC 2018: Working
+Tue May 15 20:00:42 UTC 2018: Start hadzung__CICDTestin test class hudson.util.XStream2EncodingTest
+Tue May 15 20:00:42 UTC 2018: Setting lastTestMethodIndex: 46635
+Tue May 15 20:00:42 UTC 2018: Starting linking
+Tue May 15 20:00:42 UTC 2018: Code found hudson.util.XStream2-toXMLUTF8 with hudson.util.XStream2EncodingTest-toXMLUTF8
+Tue May 15 20:00:42 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:42 UTC 2018: Code found hudson.util.XStream2-toXML with hudson.util.XStream2EncodingTest-toXMLUnspecifiedEncoding
+Tue May 15 20:00:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:43 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.XStream2EncodingTest
+Tue May 15 20:00:43 UTC 2018: Found element on the queue
+Tue May 15 20:00:43 UTC 2018: Updating status
+Tue May 15 20:00:43 UTC 2018: Working
+Tue May 15 20:00:47 UTC 2018: Start hadzung__CICDTestin test class hudson.util.IteratorsTest
+Tue May 15 20:00:47 UTC 2018: Setting lastTestMethodIndex: 46638
+Tue May 15 20:00:47 UTC 2018: Starting linking
+Tue May 15 20:00:47 UTC 2018: No code found hudson.util.Iterators-reverseSequence with hudson.util.IteratorsTest-reverseSequence
+Tue May 15 20:00:47 UTC 2018: No code found hudson.util.Iterators-wrap with hudson.util.IteratorsTest-wrap
+Tue May 15 20:00:48 UTC 2018: No code found hudson.util.Iterators-sequence with hudson.util.IteratorsTest-sequence
+Tue May 15 20:00:48 UTC 2018: No code found hudson.util.Iterators-limit with hudson.util.IteratorsTest-limit
+Tue May 15 20:00:48 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.IteratorsTest
+Tue May 15 20:00:49 UTC 2018: Found element on the queue
+Tue May 15 20:00:49 UTC 2018: Updating status
+Tue May 15 20:00:49 UTC 2018: Working
+Tue May 15 20:00:51 UTC 2018: Start hadzung__CICDTestin test class hudson.util.DirScannerTest
+Tue May 15 20:00:51 UTC 2018: Setting lastTestMethodIndex: 46643
+Tue May 15 20:00:51 UTC 2018: Starting linking
+Tue May 15 20:00:51 UTC 2018: No link for: hudson.util.DirScannerTest-globShouldIgnoreDefaultExcludesByRequest
+Tue May 15 20:00:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:52 UTC 2018: No link for: hudson.util.DirScannerTest-globShouldUseDefaultExcludes
+Tue May 15 20:00:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:52 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.DirScannerTest
+Tue May 15 20:00:53 UTC 2018: Found element on the queue
+Tue May 15 20:00:53 UTC 2018: Updating status
+Tue May 15 20:00:53 UTC 2018: Working
+Tue May 15 20:00:57 UTC 2018: Start hadzung__CICDTestin test class hudson.util.PackedMapTest
+Tue May 15 20:00:57 UTC 2018: Setting lastTestMethodIndex: 46645
+Tue May 15 20:00:57 UTC 2018: Starting linking
+Tue May 15 20:00:57 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.PackedMapTest
+Tue May 15 20:00:58 UTC 2018: Found element on the queue
+Tue May 15 20:00:58 UTC 2018: Updating status
+Tue May 15 20:00:58 UTC 2018: Working
+Tue May 15 20:01:01 UTC 2018: Start hadzung__CICDTestin test class hudson.util.io.TarArchiverTest
+Tue May 15 20:01:01 UTC 2018: Setting lastTestMethodIndex: 46648
+Tue May 15 20:01:01 UTC 2018: Starting linking
+Tue May 15 20:01:01 UTC 2018: No code found hudson.FilePath-tar with hudson.util.io.TarArchiverTest-growingFileTar
+Tue May 15 20:01:01 UTC 2018: No link for: hudson.util.io.TarArchiverTest-brokenSymlinks
+Tue May 15 20:01:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:01 UTC 2018: No link for: hudson.util.io.TarArchiverTest-permission
+Tue May 15 20:01:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:02 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.io.TarArchiverTest
+Tue May 15 20:01:02 UTC 2018: Found element on the queue
+Tue May 15 20:01:02 UTC 2018: Updating status
+Tue May 15 20:01:02 UTC 2018: Working
+Tue May 15 20:01:06 UTC 2018: Start hadzung__CICDTestin test class hudson.util.LineEndNormalizingWriterTest
+Tue May 15 20:01:06 UTC 2018: Setting lastTestMethodIndex: 46651
+Tue May 15 20:01:06 UTC 2018: Starting linking
+Tue May 15 20:01:06 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test1
+Tue May 15 20:01:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:06 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test2
+Tue May 15 20:01:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:07 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test3
+Tue May 15 20:01:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:07 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.LineEndNormalizingWriterTest
+Tue May 15 20:01:08 UTC 2018: Found element on the queue
+Tue May 15 20:01:08 UTC 2018: Updating status
+Tue May 15 20:01:08 UTC 2018: Working
+Tue May 15 20:01:10 UTC 2018: Start hadzung__CICDTestin test class hudson.util.ProcessTreeTest
+Tue May 15 20:01:10 UTC 2018: Setting lastTestMethodIndex: 46655
+Tue May 15 20:01:10 UTC 2018: Starting linking
+Tue May 15 20:01:10 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.ProcessTreeTest
+Tue May 15 20:01:11 UTC 2018: Found element on the queue
+Tue May 15 20:01:11 UTC 2018: Updating status
+Tue May 15 20:01:11 UTC 2018: Working
+Tue May 15 20:01:14 UTC 2018: Start hadzung__CICDTestin test class hudson.EnvVarsTest
+Tue May 15 20:01:14 UTC 2018: Setting lastTestMethodIndex: 46659
+Tue May 15 20:01:14 UTC 2018: Starting linking
+Tue May 15 20:01:14 UTC 2018: No code found hudson.EnvVars-overrideExpandingAll with hudson.EnvVarsTest-overrideExpandingAll
+Tue May 15 20:01:14 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorCyclic
+Tue May 15 20:01:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:14 UTC 2018: No link for: hudson.EnvVarsTest-caseInsensitive
+Tue May 15 20:01:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:14 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorSelfReference
+Tue May 15 20:01:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:15 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorMultiple
+Tue May 15 20:01:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:15 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorSimple
+Tue May 15 20:01:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:15 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorInOrder
+Tue May 15 20:01:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:15 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.EnvVarsTest
+Tue May 15 20:01:16 UTC 2018: Found element on the queue
+Tue May 15 20:01:16 UTC 2018: Updating status
+Tue May 15 20:01:16 UTC 2018: Working
+Tue May 15 20:01:19 UTC 2018: Start hadzung__CICDTestin test class hudson.cli.ListJobsCommandTest
+Tue May 15 20:01:19 UTC 2018: Setting lastTestMethodIndex: 46663
+Tue May 15 20:01:19 UTC 2018: Starting linking
+Tue May 15 20:01:19 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-failForNonexistingName
+Tue May 15 20:01:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:19 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-getAllJobsForEmptyName
+Tue May 15 20:01:19 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-getJobsFromView
+Tue May 15 20:01:20 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-getAllJobsFromFolders
+Tue May 15 20:01:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:20 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-getJobsRecursivelyFromViewGroup
+Tue May 15 20:01:20 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.cli.ListJobsCommandTest
+Tue May 15 20:01:21 UTC 2018: Found element on the queue
+Tue May 15 20:01:21 UTC 2018: Updating status
+Tue May 15 20:01:21 UTC 2018: Working
+Tue May 15 20:01:24 UTC 2018: Start hadzung__CICDTestin test class hudson.util.ConsistentHashTest
+Tue May 15 20:01:24 UTC 2018: Setting lastTestMethodIndex: 46668
+Tue May 15 20:01:24 UTC 2018: Starting linking
+Tue May 15 20:01:24 UTC 2018: No link for: hudson.util.ConsistentHashTest-countAllPoints
+Tue May 15 20:01:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:25 UTC 2018: No link for: hudson.util.ConsistentHashTest-speed
+Tue May 15 20:01:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:25 UTC 2018: No link for: hudson.util.ConsistentHashTest-emptyBehavior
+Tue May 15 20:01:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:25 UTC 2018: No link for: hudson.util.ConsistentHashTest-defaultReplicationIsOneHundred
+Tue May 15 20:01:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:26 UTC 2018: No link for: hudson.util.ConsistentHashTest-usesCustomHash
+Tue May 15 20:01:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:26 UTC 2018: No link for: hudson.util.ConsistentHashTest-setCustomDefaultReplication
+Tue May 15 20:01:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:26 UTC 2018: No link for: hudson.util.ConsistentHashTest-removal
+Tue May 15 20:01:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:26 UTC 2018: No link for: hudson.util.ConsistentHashTest-basic
+Tue May 15 20:01:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:27 UTC 2018: No link for: hudson.util.ConsistentHashTest-unevenDistribution
+Tue May 15 20:01:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:27 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.ConsistentHashTest
+Tue May 15 20:01:27 UTC 2018: Found element on the queue
+Tue May 15 20:01:27 UTC 2018: Updating status
+Tue May 15 20:01:27 UTC 2018: Working
+Tue May 15 20:01:30 UTC 2018: Start hadzung__CICDTestin test class hudson.cli.handlers.ViewOptionHandlerTest
+Tue May 15 20:01:30 UTC 2018: Setting lastTestMethodIndex: 46674
+Tue May 15 20:01:30 UTC 2018: Starting linking
+Tue May 15 20:01:30 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentInnerView
+Tue May 15 20:01:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:30 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadNestedView
+Tue May 15 20:01:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:31 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveNestedView
+Tue May 15 20:01:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:31 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-ignoreLeadingAndTrailingSlashes
+Tue May 15 20:01:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:31 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportViewSpaceNameRequestAsIAE
+Tue May 15 20:01:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:32 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportTraversingViewThatIsNotAViewGroup
+Tue May 15 20:01:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:32 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNullViewAsNPE
+Tue May 15 20:01:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:32 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveOuterView
+Tue May 15 20:01:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:32 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentNestedView
+Tue May 15 20:01:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:33 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadOuterView
+Tue May 15 20:01:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:33 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportEmptyViewNameRequestAsNull
+Tue May 15 20:01:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:33 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentTopLevelView
+Tue May 15 20:01:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:33 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadInnerView
+Tue May 15 20:01:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:34 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveTopLevelView
+Tue May 15 20:01:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:01:34 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.cli.handlers.ViewOptionHandlerTest
+Tue May 15 20:01:35 UTC 2018: Found element on the queue
+Tue May 15 20:01:35 UTC 2018: Updating status
+Tue May 15 20:01:35 UTC 2018: Working
+Tue May 15 20:01:38 UTC 2018: Start hadzung__CICDTestin test class hudson.util.RunListTest
+Tue May 15 20:01:38 UTC 2018: Setting lastTestMethodIndex: 46681
+Tue May 15 20:01:38 UTC 2018: Starting linking
+Tue May 15 20:01:38 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampLastRun
+Tue May 15 20:01:38 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:01:38 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampFirstRun
+Tue May 15 20:01:38 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:01:38 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampAllRuns
+Tue May 15 20:01:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:01:39 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.util.RunListTest
+Tue May 15 20:01:39 UTC 2018: Found element on the queue
+Tue May 15 20:01:39 UTC 2018: Updating status
+Tue May 15 20:01:39 UTC 2018: Working
+Tue May 15 20:01:42 UTC 2018: Start hadzung__CICDTestin test class hudson.FunctionsTest
+Tue May 15 20:01:42 UTC 2018: Setting lastTestMethodIndex: 46685
+Tue May 15 20:01:42 UTC 2018: Starting linking
+Tue May 15 20:01:42 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobContainedInView
+Tue May 15 20:01:42 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absolutePath
+Tue May 15 20:01:43 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absoluteUriWithoutAuthority
+Tue May 15 20:01:43 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_unparseable
+Tue May 15 20:01:43 UTC 2018: No code found hudson.Functions-printLogRecordHtml with hudson.FunctionsTest-printLogRecordHtml
+Tue May 15 20:01:44 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-getRelativeLinkTo_MavenModules
+Tue May 15 20:01:44 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_relativePath
+Tue May 15 20:01:44 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absoluteUriWithAuthority
+Tue May 15 20:01:45 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobFromComputer
+Tue May 15 20:01:45 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobNotContainedInView
+Tue May 15 20:01:45 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobContainedInViewWithinItemGroup
+Tue May 15 20:01:46 UTC 2018: No code found hudson.Functions-breakableString with hudson.FunctionsTest-testBreakableString
+Tue May 15 20:01:46 UTC 2018: No link for: hudson.FunctionsTest-printThrowable
+Tue May 15 20:01:47 UTC 2018: No link for: hudson.FunctionsTest-testGetRelativeDisplayNameInsideItemGroup
+Tue May 15 20:01:47 UTC 2018: No link for: hudson.FunctionsTest-testGetRelativeDisplayName
+Tue May 15 20:01:47 UTC 2018: No link for: hudson.FunctionsTest-testHumanReadableFileSize
+Tue May 15 20:01:48 UTC 2018: Linking done for hadzung__CICDTestin test class hudson.FunctionsTest

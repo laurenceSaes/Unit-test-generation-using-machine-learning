@@ -1,0 +1,253 @@
+Tue May 15 15:36:21 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 15:36:22 UTC 2018: Starting
+Tue May 15 15:36:22 UTC 2018: Found element on the queue
+Tue May 15 15:36:22 UTC 2018: Updating status
+Tue May 15 15:36:22 UTC 2018: Working
+Tue May 15 15:36:22 UTC 2018: Create project parser
+Tue May 15 15:36:27 UTC 2018: Create slicer
+Tue May 15 15:36:29 UTC 2018: Create call graph
+Tue May 15 15:36:33 UTC 2018: Create point analysis
+Tue May 15 15:36:33 UTC 2018: Create call graph done
+Tue May 15 15:36:33 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.command.CommandHandlerTest
+Tue May 15 15:36:33 UTC 2018: Setting lastTestMethodIndex: 36718
+Tue May 15 15:36:33 UTC 2018: Starting linking
+Tue May 15 15:36:33 UTC 2018: No link for: pluginbase.command.CommandHandlerTest-testCommandDetection
+Tue May 15 15:36:33 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.command.CommandHandlerTest
+Tue May 15 15:36:34 UTC 2018: Found element on the queue
+Tue May 15 15:36:34 UTC 2018: Updating status
+Tue May 15 15:36:34 UTC 2018: Working
+Tue May 15 15:36:36 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.command.CommandTreeTest
+Tue May 15 15:36:36 UTC 2018: Setting lastTestMethodIndex: 36719
+Tue May 15 15:36:36 UTC 2018: Starting linking
+Tue May 15 15:36:36 UTC 2018: Code found pluginbase.command.CommandTree-removeInitialArg with pluginbase.command.CommandTreeTest-removeInitialArgTest
+Tue May 15 15:36:36 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test1ArgParentCommandWith2Args
+Tue May 15 15:36:36 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgCommandWith4Args
+Tue May 15 15:36:36 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test1ArgCommandWith1Arg
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgChildCommandWith2Args
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test3ArgChildCommandWith4Args
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgChildUnusedParentCommandWith2ArgFirst
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgChildUnusedParentCommandWith1Arg
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test1ArgCommandWith2Args
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test3ArgChildCommandWith3Args
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test1ArgParentCommandWith3Args
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test1ArgCommandWith3Args
+Tue May 15 15:36:37 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test1ArgParentCommandWith1Args
+Tue May 15 15:36:38 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgChildCommandWith4Args
+Tue May 15 15:36:38 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test3ArgChildCommandWith5Args
+Tue May 15 15:36:38 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgCommandWith2Args
+Tue May 15 15:36:38 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgCommandWith3Args
+Tue May 15 15:36:38 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgChildCommandWith3Args
+Tue May 15 15:36:38 UTC 2018: No link for: pluginbase.command.CommandTreeTest-test2ArgChildUnusedParentCommandWith2ArgSecond
+Tue May 15 15:36:38 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.command.CommandTreeTest
+Tue May 15 15:36:38 UTC 2018: Found element on the queue
+Tue May 15 15:36:38 UTC 2018: Updating status
+Tue May 15 15:36:38 UTC 2018: Working
+Tue May 15 15:36:38 UTC 2018: Create project parser
+Tue May 15 15:36:41 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.debugsession.DebugStreamTest
+Tue May 15 15:36:41 UTC 2018: Setting lastTestMethodIndex: 36720
+Tue May 15 15:36:41 UTC 2018: Starting linking
+Tue May 15 15:36:41 UTC 2018: No link for: pluginbase.debugsession.DebugStreamTest-testRecordMessageToBroadcast
+Tue May 15 15:36:41 UTC 2018: No link for: pluginbase.debugsession.DebugStreamTest-testNullArgs
+Tue May 15 15:36:41 UTC 2018: No link for: pluginbase.debugsession.DebugStreamTest-testAcceptSubscription
+Tue May 15 15:36:41 UTC 2018: No link for: pluginbase.debugsession.DebugStreamTest-testCancelSubscription
+Tue May 15 15:36:41 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.debugsession.DebugStreamTest
+Tue May 15 15:36:42 UTC 2018: Found element on the queue
+Tue May 15 15:36:42 UTC 2018: Updating status
+Tue May 15 15:36:42 UTC 2018: Working
+Tue May 15 15:36:44 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.debugsession.DebugSessionManagerTest
+Tue May 15 15:36:44 UTC 2018: Setting lastTestMethodIndex: 36721
+Tue May 15 15:36:44 UTC 2018: Starting linking
+Tue May 15 15:36:44 UTC 2018: Code found pluginbase.debugsession.DebugSessionManager-startDebugSession with pluginbase.debugsession.DebugSessionManagerTest-testStartDebugSession
+Tue May 15 15:36:44 UTC 2018: Code found pluginbase.debugsession.DebugSessionManager-stopDebugSession with pluginbase.debugsession.DebugSessionManagerTest-testStopDebugSession
+Tue May 15 15:36:44 UTC 2018: Code found pluginbase.debugsession.DebugSessionManager-getDebugSession with pluginbase.debugsession.DebugSessionManagerTest-testGetDebugSessionThatDoesNotExist
+Tue May 15 15:36:44 UTC 2018: Code found pluginbase.debugsession.DebugSessionManager-getDebugSession with pluginbase.debugsession.DebugSessionManagerTest-testGetDebugSessionThatExists
+Tue May 15 15:36:44 UTC 2018: Code found pluginbase.debugsession.DebugSessionManager-startDebugSession with pluginbase.debugsession.DebugSessionManagerTest-testStartDebugSessionWhenOneExists
+Tue May 15 15:36:44 UTC 2018: No link for: pluginbase.debugsession.DebugSessionManagerTest-testNullArgs
+Tue May 15 15:36:44 UTC 2018: No link for: pluginbase.debugsession.DebugSessionManagerTest-testStopNonExistentDebugSession
+Tue May 15 15:36:45 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.debugsession.DebugSessionManagerTest
+Tue May 15 15:36:45 UTC 2018: Found element on the queue
+Tue May 15 15:36:45 UTC 2018: Updating status
+Tue May 15 15:36:45 UTC 2018: Working
+Tue May 15 15:36:45 UTC 2018: Create project parser
+Tue May 15 15:36:47 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.messages.messaging.MessagerTest
+Tue May 15 15:36:47 UTC 2018: Setting lastTestMethodIndex: 36722
+Tue May 15 15:36:47 UTC 2018: Starting linking
+Tue May 15 15:36:47 UTC 2018: Code found pluginbase.messages.messaging.Messager-message with pluginbase.messages.messaging.MessagerTest-testRecordMessageToBroadcast
+Tue May 15 15:36:48 UTC 2018: No link for: pluginbase.messages.messaging.MessagerTest-testUnsubscribeToNonExistingBroadcastAndSubscription
+Tue May 15 15:36:48 UTC 2018: No link for: pluginbase.messages.messaging.MessagerTest-testSubscribeToBroadcastWhenAlreadySubscribed
+Tue May 15 15:36:48 UTC 2018: No link for: pluginbase.messages.messaging.MessagerTest-testSubscribeToNonexistentBroadcastNewBroadcastIsCreated
+Tue May 15 15:36:48 UTC 2018: No link for: pluginbase.messages.messaging.MessagerTest-testSubscribeToExistingBroadcastNewBroadcastIsNotCreated
+Tue May 15 15:36:48 UTC 2018: No link for: pluginbase.messages.messaging.MessagerTest-testUnsubscribeToNonExistentBroadcast
+Tue May 15 15:36:48 UTC 2018: No link for: pluginbase.messages.messaging.MessagerTest-testNullArgs
+Tue May 15 15:36:48 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.messages.messaging.MessagerTest
+Tue May 15 15:36:48 UTC 2018: Found element on the queue
+Tue May 15 15:36:48 UTC 2018: Updating status
+Tue May 15 15:36:49 UTC 2018: Working
+Tue May 15 15:36:51 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.messages.messaging.MessagerDebugBroadcastTest
+Tue May 15 15:36:51 UTC 2018: Setting lastTestMethodIndex: 36723
+Tue May 15 15:36:51 UTC 2018: Starting linking
+Tue May 15 15:36:51 UTC 2018: Code found pluginbase.messages.messaging.MessagerDebugBroadcast-acceptSubscription with pluginbase.messages.messaging.MessagerDebugBroadcastTest-testAcceptSubscription
+Tue May 15 15:36:51 UTC 2018: Code found pluginbase.messages.messaging.MessagerDebugBroadcast-cancelSubscription with pluginbase.messages.messaging.MessagerDebugBroadcastTest-testCancelSubscription
+Tue May 15 15:36:51 UTC 2018: No link for: pluginbase.messages.messaging.MessagerDebugBroadcastTest-testNullArgs
+Tue May 15 15:36:51 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.messages.messaging.MessagerDebugBroadcastTest
+Tue May 15 15:36:51 UTC 2018: Found element on the queue
+Tue May 15 15:36:51 UTC 2018: Updating status
+Tue May 15 15:36:51 UTC 2018: Working
+Tue May 15 15:36:51 UTC 2018: Create project parser
+Tue May 15 15:36:54 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.properties.PropertiesTest
+Tue May 15 15:36:54 UTC 2018: Setting lastTestMethodIndex: 36724
+Tue May 15 15:36:54 UTC 2018: Starting linking
+Tue May 15 15:36:54 UTC 2018: No link for: pluginbase.properties.PropertiesTest-testMemoryProperties
+Tue May 15 15:36:54 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.properties.PropertiesTest
+Tue May 15 15:36:55 UTC 2018: Found element on the queue
+Tue May 15 15:36:55 UTC 2018: Updating status
+Tue May 15 15:36:55 UTC 2018: Working
+Tue May 15 15:36:55 UTC 2018: Create project parser
+Tue May 15 15:36:58 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.properties.CustomValidatorTest
+Tue May 15 15:36:58 UTC 2018: Setting lastTestMethodIndex: 36725
+Tue May 15 15:36:58 UTC 2018: Starting linking
+Tue May 15 15:36:58 UTC 2018: No link for: pluginbase.config.properties.CustomValidatorTest-testCustomValidator
+Tue May 15 15:36:58 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.properties.CustomValidatorTest
+Tue May 15 15:36:59 UTC 2018: Found element on the queue
+Tue May 15 15:36:59 UTC 2018: Updating status
+Tue May 15 15:36:59 UTC 2018: Working
+Tue May 15 15:37:01 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.properties.PropertiesWrapperTest
+Tue May 15 15:37:01 UTC 2018: Setting lastTestMethodIndex: 36726
+Tue May 15 15:37:01 UTC 2018: Starting linking
+Tue May 15 15:37:01 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getProperty with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyAnyCase
+Tue May 15 15:37:01 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getProperty with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyFakeAlias
+Tue May 15 15:37:01 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setProperty with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyNoSuchField
+Tue May 15 15:37:01 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setPropertyUnchecked with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyUnchecked
+Tue May 15 15:37:01 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getProperty with pluginbase.config.properties.PropertiesWrapperTest-testGetProperty
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setProperty with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyFinalField
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-clearProperty with pluginbase.config.properties.PropertiesWrapperTest-testClearProperty
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setProperty with pluginbase.config.properties.PropertiesWrapperTest-testSetProperty
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setPropertyUnchecked with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyUncheckedNoSuchField
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setProperty with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyNested
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getPropertyUnchecked with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyUncheckedNested
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setPropertyUnchecked with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyUncheckedNestedNoSuchField
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-addProperty with pluginbase.config.properties.PropertiesWrapperTest-testAddProperty
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-removeProperty with pluginbase.config.properties.PropertiesWrapperTest-testRemoveProperty
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setProperty with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyIllegalValue
+Tue May 15 15:37:02 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setProperty with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyImmutable
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getProperty with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyNestedNoSuchField
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setProperty with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyNestedNoSuchField
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getProperty with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyNested
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getPropertyUnchecked with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyUnchecked
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getProperty with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyBadAlias
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getProperty with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyAlias
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getProperty with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyNoSuchField
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getPropertyUnchecked with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyUncheckedNoSuchField
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-setPropertyUnchecked with pluginbase.config.properties.PropertiesWrapperTest-testSetPropertyUncheckedNested
+Tue May 15 15:37:03 UTC 2018: Code found pluginbase.config.properties.PropertiesWrapper-getPropertyUnchecked with pluginbase.config.properties.PropertiesWrapperTest-testGetPropertyUncheckedNestedNoSuchField
+Tue May 15 15:37:03 UTC 2018: No link for: pluginbase.config.properties.PropertiesWrapperTest-testClearCustomStringifierProperty
+Tue May 15 15:37:03 UTC 2018: No link for: pluginbase.config.properties.PropertiesWrapperTest-testSetCustomStringifierProperty
+Tue May 15 15:37:03 UTC 2018: No link for: pluginbase.config.properties.PropertiesWrapperTest-testRemoveCustomStringifierProperty
+Tue May 15 15:37:03 UTC 2018: No link for: pluginbase.config.properties.PropertiesWrapperTest-testPropertiesWrapper
+Tue May 15 15:37:03 UTC 2018: No link for: pluginbase.config.properties.PropertiesWrapperTest-testAddCustomStringifierProperty
+Tue May 15 15:37:03 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.properties.PropertiesWrapperTest
+Tue May 15 15:37:04 UTC 2018: Found element on the queue
+Tue May 15 15:37:04 UTC 2018: Updating status
+Tue May 15 15:37:04 UTC 2018: Working
+Tue May 15 15:37:06 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.field.FieldInstanceTest
+Tue May 15 15:37:06 UTC 2018: Setting lastTestMethodIndex: 36727
+Tue May 15 15:37:06 UTC 2018: Starting linking
+Tue May 15 15:37:06 UTC 2018: No link for: pluginbase.config.field.FieldInstanceTest-testLocateField
+Tue May 15 15:37:06 UTC 2018: No link for: pluginbase.config.field.FieldInstanceTest-testLocateFieldWithAlias
+Tue May 15 15:37:06 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.field.FieldInstanceTest
+Tue May 15 15:37:07 UTC 2018: Found element on the queue
+Tue May 15 15:37:07 UTC 2018: Updating status
+Tue May 15 15:37:07 UTC 2018: Working
+Tue May 15 15:37:09 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.field.FieldTest
+Tue May 15 15:37:09 UTC 2018: Setting lastTestMethodIndex: 36728
+Tue May 15 15:37:09 UTC 2018: Starting linking
+Tue May 15 15:37:09 UTC 2018: Code found pluginbase.config.field.Field-getCollectionType with pluginbase.config.field.FieldTest-testGetCollectionType
+Tue May 15 15:37:09 UTC 2018: No link for: pluginbase.config.field.FieldTest-testVirtualPropertyType
+Tue May 15 15:37:09 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.field.FieldTest
+Tue May 15 15:37:10 UTC 2018: Found element on the queue
+Tue May 15 15:37:10 UTC 2018: Updating status
+Tue May 15 15:37:10 UTC 2018: Working
+Tue May 15 15:37:12 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.field.FieldMapperTest
+Tue May 15 15:37:12 UTC 2018: Setting lastTestMethodIndex: 36729
+Tue May 15 15:37:12 UTC 2018: Starting linking
+Tue May 15 15:37:12 UTC 2018: Code found pluginbase.config.field.Field-getSerializer with pluginbase.config.field.FieldMapperTest-testFieldGetSerializer
+Tue May 15 15:37:12 UTC 2018: Code found pluginbase.config.field.Field-getComments with pluginbase.config.field.FieldMapperTest-testFieldGetComments
+Tue May 15 15:37:12 UTC 2018: Code found pluginbase.config.field.Field-getDescription with pluginbase.config.field.FieldMapperTest-testFieldGetDescription
+Tue May 15 15:37:12 UTC 2018: No link for: pluginbase.config.field.FieldMapperTest-testRecursiveProtection
+Tue May 15 15:37:12 UTC 2018: No link for: pluginbase.config.field.FieldMapperTest-testParentChild
+Tue May 15 15:37:12 UTC 2018: No link for: pluginbase.config.field.FieldMapperTest-testMapFields
+Tue May 15 15:37:12 UTC 2018: No link for: pluginbase.config.field.FieldMapperTest-testBasic
+Tue May 15 15:37:13 UTC 2018: No link for: pluginbase.config.field.FieldMapperTest-testValueGet
+Tue May 15 15:37:13 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.field.FieldMapperTest
+Tue May 15 15:37:13 UTC 2018: Found element on the queue
+Tue May 15 15:37:13 UTC 2018: Updating status
+Tue May 15 15:37:13 UTC 2018: Working
+Tue May 15 15:37:15 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.datasource.ConfigDataSourceTest
+Tue May 15 15:37:15 UTC 2018: Setting lastTestMethodIndex: 36730
+Tue May 15 15:37:15 UTC 2018: Starting linking
+Tue May 15 15:37:15 UTC 2018: No link for: pluginbase.config.datasource.ConfigDataSourceTest-testYamlConfigDataSource
+Tue May 15 15:37:15 UTC 2018: No link for: pluginbase.config.datasource.ConfigDataSourceTest-testHoconConfigDataSource
+Tue May 15 15:37:15 UTC 2018: No link for: pluginbase.config.datasource.ConfigDataSourceTest-testJsonConfigDataSource
+Tue May 15 15:37:16 UTC 2018: No link for: pluginbase.config.datasource.ConfigDataSourceTest-testGsonConfigDataSource
+Tue May 15 15:37:16 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.datasource.ConfigDataSourceTest
+Tue May 15 15:37:16 UTC 2018: Found element on the queue
+Tue May 15 15:37:16 UTC 2018: Updating status
+Tue May 15 15:37:16 UTC 2018: Working
+Tue May 15 15:37:18 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.datasource.yaml.YamlFileCommentInstrumenterTest
+Tue May 15 15:37:18 UTC 2018: Setting lastTestMethodIndex: 36731
+Tue May 15 15:37:18 UTC 2018: Starting linking
+Tue May 15 15:37:18 UTC 2018: No link for: pluginbase.config.datasource.yaml.YamlFileCommentInstrumenterTest-testNoComments
+Tue May 15 15:37:18 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.datasource.yaml.YamlFileCommentInstrumenterTest
+Tue May 15 15:37:19 UTC 2018: Found element on the queue
+Tue May 15 15:37:19 UTC 2018: Updating status
+Tue May 15 15:37:19 UTC 2018: Working
+Tue May 15 15:37:21 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.datasource.yaml.YamlCommentMapTest
+Tue May 15 15:37:21 UTC 2018: Setting lastTestMethodIndex: 36732
+Tue May 15 15:37:21 UTC 2018: Starting linking
+Tue May 15 15:37:21 UTC 2018: No link for: pluginbase.config.datasource.yaml.YamlCommentMapTest-testCommentsForPath
+Tue May 15 15:37:21 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.datasource.yaml.YamlCommentMapTest
+Tue May 15 15:37:22 UTC 2018: Found element on the queue
+Tue May 15 15:37:22 UTC 2018: Updating status
+Tue May 15 15:37:22 UTC 2018: Working
+Tue May 15 15:37:24 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.SerializableConfigTest
+Tue May 15 15:37:24 UTC 2018: Setting lastTestMethodIndex: 36733
+Tue May 15 15:37:24 UTC 2018: Starting linking
+Tue May 15 15:37:24 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testDeserialize
+Tue May 15 15:37:24 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testMapNullContainer
+Tue May 15 15:37:24 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testSerializeUnknownObject
+Tue May 15 15:37:24 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testYaml
+Tue May 15 15:37:24 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testSerializeCommonTypes
+Tue May 15 15:37:24 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testSerializeWithFieldSerializer
+Tue May 15 15:37:24 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testSerialize
+Tue May 15 15:37:25 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testGson
+Tue May 15 15:37:25 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testJson
+Tue May 15 15:37:25 UTC 2018: No link for: pluginbase.config.SerializableConfigTest-testHocon
+Tue May 15 15:37:25 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.SerializableConfigTest
+Tue May 15 15:37:25 UTC 2018: Found element on the queue
+Tue May 15 15:37:25 UTC 2018: Updating status
+Tue May 15 15:37:25 UTC 2018: Working
+Tue May 15 15:37:28 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.serializers.TestCustomSerializer
+Tue May 15 15:37:28 UTC 2018: Setting lastTestMethodIndex: 36734
+Tue May 15 15:37:28 UTC 2018: Starting linking
+Tue May 15 15:37:28 UTC 2018: No link for: pluginbase.config.serializers.TestCustomSerializer-testCustomSerializer
+Tue May 15 15:37:28 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.serializers.TestCustomSerializer
+Tue May 15 15:37:28 UTC 2018: Found element on the queue
+Tue May 15 15:37:28 UTC 2018: Updating status
+Tue May 15 15:37:28 UTC 2018: Working
+Tue May 15 15:37:31 UTC 2018: Start dumptruckman__PluginBase test class pluginbase.config.serializers.DefaultSerializerTest
+Tue May 15 15:37:31 UTC 2018: Setting lastTestMethodIndex: 36736
+Tue May 15 15:37:31 UTC 2018: Starting linking
+Tue May 15 15:37:31 UTC 2018: Code found pluginbase.config.serializers.DefaultSerializer-deserialize with pluginbase.config.serializers.DefaultSerializerTest-testSerializeDeserializeComprehensiveNullValueMap
+Tue May 15 15:37:31 UTC 2018: Code found pluginbase.config.serializers.DefaultSerializer-deserialize with pluginbase.config.serializers.DefaultSerializerTest-testSerializeDeserializeComprehensiveNullKeyMap
+Tue May 15 15:37:31 UTC 2018: Code found pluginbase.config.serializers.DefaultSerializer-deserialize with pluginbase.config.serializers.DefaultSerializerTest-testSerializeDeserializeComprehensive
+Tue May 15 15:37:31 UTC 2018: No link for: pluginbase.config.serializers.DefaultSerializerTest-testSerializeCustom
+Tue May 15 15:37:31 UTC 2018: Linking done for dumptruckman__PluginBase test class pluginbase.config.serializers.DefaultSerializerTest
+Tue May 15 15:37:31 UTC 2018: Found element on the queue
+Tue May 15 15:37:31 UTC 2018: Updating status
+Tue May 15 15:37:31 UTC 2018: Working
+Tue May 15 15:37:31 UTC 2018: Create project parser
+Tue May 15 15:37:34 UTC 2018: Start dumptruckman__PluginBase test class AnnotationsTest
+Tue May 15 15:37:34 UTC 2018: Setting lastTestMethodIndex: 36738
+Tue May 15 15:37:34 UTC 2018: Starting linking
+Tue May 15 15:37:34 UTC 2018: No link for: AnnotationsTest-testIntellijAnnotations
+Tue May 15 15:37:34 UTC 2018: Linking done for dumptruckman__PluginBase test class AnnotationsTest

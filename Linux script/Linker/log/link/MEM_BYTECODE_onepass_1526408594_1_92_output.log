@@ -1,0 +1,510 @@
+Wed May 16 05:38:09 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 05:38:09 UTC 2018: Starting
+Wed May 16 05:38:09 UTC 2018: Found element on the queue
+Wed May 16 05:38:09 UTC 2018: Updating status
+Wed May 16 05:38:09 UTC 2018: Working
+Wed May 16 05:38:09 UTC 2018: Create project parser
+Wed May 16 05:38:15 UTC 2018: Create slicer
+Wed May 16 05:38:18 UTC 2018: Create call graph
+Wed May 16 05:38:22 UTC 2018: Create point analysis
+Wed May 16 05:38:23 UTC 2018: Create call graph done
+Wed May 16 05:38:23 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.lock.YieldingGloballyExclusiveClusterLockSupportUnitTestCase
+Wed May 16 05:38:23 UTC 2018: Setting lastTestMethodIndex: 63353
+Wed May 16 05:38:23 UTC 2018: Starting linking
+Wed May 16 05:38:23 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.lock.YieldingGloballyExclusiveClusterLockSupportUnitTestCase
+Wed May 16 05:38:23 UTC 2018: Found element on the queue
+Wed May 16 05:38:23 UTC 2018: Updating status
+Wed May 16 05:38:23 UTC 2018: Working
+Wed May 16 05:38:26 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase
+Wed May 16 05:38:26 UTC 2018: Setting lastTestMethodIndex: 63355
+Wed May 16 05:38:26 UTC 2018: Starting linking
+Wed May 16 05:38:26 UTC 2018: No code found org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManager-lock with org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testLocalCallTakesLockBack
+Wed May 16 05:38:26 UTC 2018: No code found org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManager-lock with org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testBasicLock
+Wed May 16 05:38:27 UTC 2018: No code found org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManager-unlock with org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testUnlockAndRemove
+Wed May 16 05:38:27 UTC 2018: No code found org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManager-lock with org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testNewLock
+Wed May 16 05:38:28 UTC 2018: No link for: org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testRemoteCallerTakesUnknownLock
+Wed May 16 05:38:28 UTC 2018: No link for: org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testRejectRemoteCaller
+Wed May 16 05:38:29 UTC 2018: No link for: org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testConcurrentLocalNewLocks
+Wed May 16 05:38:29 UTC 2018: No link for: org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testConcurrentLocalLocks
+Wed May 16 05:38:30 UTC 2018: No link for: org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testConcurrentLocalLocksSomeNew
+Wed May 16 05:38:30 UTC 2018: No link for: org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testRemoteCallerTakesKnownLock
+Wed May 16 05:38:30 UTC 2018: No link for: org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testRemoteCallerTakesRemovedLock
+Wed May 16 05:38:31 UTC 2018: No link for: org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase-testRejectionFromCluster
+Wed May 16 05:38:31 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.lock.SharedLocalYieldingClusterLockManagerUnitTestCase
+Wed May 16 05:38:32 UTC 2018: Found element on the queue
+Wed May 16 05:38:32 UTC 2018: Updating status
+Wed May 16 05:38:32 UTC 2018: Working
+Wed May 16 05:38:34 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.HashableMarshalledValueFactoryTestCase
+Wed May 16 05:38:34 UTC 2018: Setting lastTestMethodIndex: 63357
+Wed May 16 05:38:34 UTC 2018: Starting linking
+Wed May 16 05:38:34 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.HashableMarshalledValueFactoryTestCase
+Wed May 16 05:38:35 UTC 2018: Found element on the queue
+Wed May 16 05:38:35 UTC 2018: Updating status
+Wed May 16 05:38:35 UTC 2018: Working
+Wed May 16 05:38:37 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.SimpleMarshalledValueFactoryTestCase
+Wed May 16 05:38:37 UTC 2018: Setting lastTestMethodIndex: 63359
+Wed May 16 05:38:37 UTC 2018: Starting linking
+Wed May 16 05:38:37 UTC 2018: Code found org.jboss.as.clustering.SimpleMarshalledValue-hashCode with org.jboss.as.clustering.SimpleMarshalledValueFactoryTestCase-testHashCode
+Wed May 16 05:38:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:38:38 UTC 2018: Code found org.jboss.as.clustering.SimpleMarshalledValue-get with org.jboss.as.clustering.SimpleMarshalledValueFactoryTestCase-get
+Wed May 16 05:38:38 UTC 2018: Code found org.jboss.as.clustering.SimpleMarshalledValue-equals with org.jboss.as.clustering.SimpleMarshalledValueFactoryTestCase-equals
+Wed May 16 05:38:39 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:38:39 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.SimpleMarshalledValueFactoryTestCase
+Wed May 16 05:38:40 UTC 2018: Found element on the queue
+Wed May 16 05:38:40 UTC 2018: Updating status
+Wed May 16 05:38:40 UTC 2018: Working
+Wed May 16 05:38:40 UTC 2018: Create project parser
+Wed May 16 05:38:42 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.web.impl.SessionAttributeMarshallerFactoryTest
+Wed May 16 05:38:42 UTC 2018: Setting lastTestMethodIndex: 63361
+Wed May 16 05:38:42 UTC 2018: Starting linking
+Wed May 16 05:38:42 UTC 2018: No link for: org.jboss.as.clustering.web.impl.SessionAttributeMarshallerFactoryTest-test
+Wed May 16 05:38:43 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.web.impl.SessionAttributeMarshallerFactoryTest
+Wed May 16 05:38:43 UTC 2018: Found element on the queue
+Wed May 16 05:38:43 UTC 2018: Updating status
+Wed May 16 05:38:43 UTC 2018: Working
+Wed May 16 05:38:46 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.web.impl.SessionAttributeMarshallerTest
+Wed May 16 05:38:46 UTC 2018: Setting lastTestMethodIndex: 63363
+Wed May 16 05:38:46 UTC 2018: Starting linking
+Wed May 16 05:38:46 UTC 2018: No link for: org.jboss.as.clustering.web.impl.SessionAttributeMarshallerTest-test
+Wed May 16 05:38:46 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.web.impl.SessionAttributeMarshallerTest
+Wed May 16 05:38:46 UTC 2018: Found element on the queue
+Wed May 16 05:38:46 UTC 2018: Updating status
+Wed May 16 05:38:46 UTC 2018: Working
+Wed May 16 05:38:49 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.web.impl.TransactionBatchingManagerTest
+Wed May 16 05:38:49 UTC 2018: Setting lastTestMethodIndex: 63364
+Wed May 16 05:38:49 UTC 2018: Starting linking
+Wed May 16 05:38:49 UTC 2018: Code found org.jboss.as.clustering.web.impl.TransactionBatchingManager-isBatchInProgress with org.jboss.as.clustering.web.impl.TransactionBatchingManagerTest-isBatchInProgress
+Wed May 16 05:38:49 UTC 2018: Code found org.jboss.as.clustering.web.impl.TransactionBatchingManager-startBatch with org.jboss.as.clustering.web.impl.TransactionBatchingManagerTest-startBatch
+Wed May 16 05:38:49 UTC 2018: No link for: org.jboss.as.clustering.web.impl.TransactionBatchingManagerTest-setRollbackOnly
+Wed May 16 05:38:50 UTC 2018: No link for: org.jboss.as.clustering.web.impl.TransactionBatchingManagerTest-endBatch
+Wed May 16 05:38:50 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.clustering.web.impl.TransactionBatchingManagerTest
+Wed May 16 05:38:51 UTC 2018: Found element on the queue
+Wed May 16 05:38:51 UTC 2018: Updating status
+Wed May 16 05:38:51 UTC 2018: Working
+Wed May 16 05:38:51 UTC 2018: Create project parser
+Wed May 16 05:38:54 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.config.assembly.ConfigurationAssemblerTestCase
+Wed May 16 05:38:54 UTC 2018: Setting lastTestMethodIndex: 63367
+Wed May 16 05:38:54 UTC 2018: Starting linking
+Wed May 16 05:38:54 UTC 2018: No link for: org.jboss.as.config.assembly.ConfigurationAssemblerTestCase-testStandaloneConfigurationAssembly
+Wed May 16 05:38:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:38:54 UTC 2018: No link for: org.jboss.as.config.assembly.ConfigurationAssemblerTestCase-testEmptyStandaloneConfigurationAssembly
+Wed May 16 05:38:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:38:54 UTC 2018: No link for: org.jboss.as.config.assembly.ConfigurationAssemblerTestCase-testStandalone2ConfigurationAssembly
+Wed May 16 05:38:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:38:55 UTC 2018: No link for: org.jboss.as.config.assembly.ConfigurationAssemblerTestCase-testDomainAssembly
+Wed May 16 05:38:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:38:55 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.config.assembly.ConfigurationAssemblerTestCase
+Wed May 16 05:38:55 UTC 2018: Found element on the queue
+Wed May 16 05:38:55 UTC 2018: Updating status
+Wed May 16 05:38:55 UTC 2018: Working
+Wed May 16 05:38:58 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.config.assembly.SubsystemsParserTestCase
+Wed May 16 05:38:58 UTC 2018: Setting lastTestMethodIndex: 63368
+Wed May 16 05:38:58 UTC 2018: Starting linking
+Wed May 16 05:38:58 UTC 2018: Code found org.jboss.as.config.assembly.SubsystemsParser-parse with org.jboss.as.config.assembly.SubsystemsParserTestCase-testParseTemplate
+Wed May 16 05:38:58 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.config.assembly.SubsystemsParserTestCase
+Wed May 16 05:38:59 UTC 2018: Found element on the queue
+Wed May 16 05:38:59 UTC 2018: Updating status
+Wed May 16 05:38:59 UTC 2018: Working
+Wed May 16 05:38:59 UTC 2018: Create project parser
+Wed May 16 05:39:03 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase
+Wed May 16 05:39:03 UTC 2018: Setting lastTestMethodIndex: 63370
+Wed May 16 05:39:03 UTC 2018: Starting linking
+Wed May 16 05:39:03 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testRuntimeException
+Wed May 16 05:39:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:03 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testStreamSuccess
+Wed May 16 05:39:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:03 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testExecutionException
+Wed May 16 05:39:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:04 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testSuccessfulCancel
+Wed May 16 05:39:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:04 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testFileSuccess
+Wed May 16 05:39:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:04 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testURLSuccess
+Wed May 16 05:39:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:05 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testInterrupted
+Wed May 16 05:39:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:05 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testTimeoutException
+Wed May 16 05:39:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:06 UTC 2018: No link for: org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase-testUnsuccessfulCancel
+Wed May 16 05:39:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:06 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.client.helpers.standalone.impl.InputStreamCleanupTestCase
+Wed May 16 05:39:06 UTC 2018: Found element on the queue
+Wed May 16 05:39:06 UTC 2018: Updating status
+Wed May 16 05:39:06 UTC 2018: Working
+Wed May 16 05:39:06 UTC 2018: Create project parser
+Wed May 16 05:39:16 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.ExtensionContextProcessTypeTestCase
+Wed May 16 05:39:16 UTC 2018: Setting lastTestMethodIndex: 63378
+Wed May 16 05:39:16 UTC 2018: Starting linking
+Wed May 16 05:39:16 UTC 2018: No link for: org.jboss.as.controller.ExtensionContextProcessTypeTestCase-testIsServer
+Wed May 16 05:39:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:16 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.ExtensionContextProcessTypeTestCase
+Wed May 16 05:39:17 UTC 2018: Found element on the queue
+Wed May 16 05:39:17 UTC 2018: Updating status
+Wed May 16 05:39:17 UTC 2018: Working
+Wed May 16 05:39:19 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.SimpleAttributeDefinitionUnitTestCase
+Wed May 16 05:39:19 UTC 2018: Setting lastTestMethodIndex: 63381
+Wed May 16 05:39:19 UTC 2018: Starting linking
+Wed May 16 05:39:20 UTC 2018: No link for: org.jboss.as.controller.SimpleAttributeDefinitionUnitTestCase-testAllowedValues
+Wed May 16 05:39:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:20 UTC 2018: No link for: org.jboss.as.controller.SimpleAttributeDefinitionUnitTestCase-testMinMax
+Wed May 16 05:39:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:20 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.SimpleAttributeDefinitionUnitTestCase
+Wed May 16 05:39:21 UTC 2018: Found element on the queue
+Wed May 16 05:39:21 UTC 2018: Updating status
+Wed May 16 05:39:21 UTC 2018: Working
+Wed May 16 05:39:23 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.NicInterfaceCriteriaUnitTestCase
+Wed May 16 05:39:23 UTC 2018: Setting lastTestMethodIndex: 63384
+Wed May 16 05:39:23 UTC 2018: Starting linking
+Wed May 16 05:39:23 UTC 2018: No link for: org.jboss.as.controller.interfaces.NicInterfaceCriteriaUnitTestCase-testBasic
+Wed May 16 05:39:24 UTC 2018: No link for: org.jboss.as.controller.interfaces.NicInterfaceCriteriaUnitTestCase-testBogus
+Wed May 16 05:39:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:24 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.NicInterfaceCriteriaUnitTestCase
+Wed May 16 05:39:24 UTC 2018: Found element on the queue
+Wed May 16 05:39:24 UTC 2018: Updating status
+Wed May 16 05:39:24 UTC 2018: Working
+Wed May 16 05:39:27 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.NotInterfaceCriteriaUnitTestCase
+Wed May 16 05:39:27 UTC 2018: Setting lastTestMethodIndex: 63387
+Wed May 16 05:39:27 UTC 2018: Starting linking
+Wed May 16 05:39:27 UTC 2018: No link for: org.jboss.as.controller.interfaces.NotInterfaceCriteriaUnitTestCase-testNoMatch
+Wed May 16 05:39:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:27 UTC 2018: No link for: org.jboss.as.controller.interfaces.NotInterfaceCriteriaUnitTestCase-testMultipleCriteria
+Wed May 16 05:39:28 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.NotInterfaceCriteriaUnitTestCase
+Wed May 16 05:39:28 UTC 2018: Found element on the queue
+Wed May 16 05:39:28 UTC 2018: Updating status
+Wed May 16 05:39:28 UTC 2018: Working
+Wed May 16 05:39:31 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.AnyInterfaceCriteriaUnitTestCase
+Wed May 16 05:39:31 UTC 2018: Setting lastTestMethodIndex: 63391
+Wed May 16 05:39:31 UTC 2018: Starting linking
+Wed May 16 05:39:31 UTC 2018: No link for: org.jboss.as.controller.interfaces.AnyInterfaceCriteriaUnitTestCase-testNoMatch
+Wed May 16 05:39:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:31 UTC 2018: No link for: org.jboss.as.controller.interfaces.AnyInterfaceCriteriaUnitTestCase-testMultipleCriteria
+Wed May 16 05:39:32 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.AnyInterfaceCriteriaUnitTestCase
+Wed May 16 05:39:32 UTC 2018: Found element on the queue
+Wed May 16 05:39:32 UTC 2018: Updating status
+Wed May 16 05:39:32 UTC 2018: Working
+Wed May 16 05:39:35 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.ParsedInterfaceCriteriaTestCase
+Wed May 16 05:39:35 UTC 2018: Setting lastTestMethodIndex: 63394
+Wed May 16 05:39:35 UTC 2018: Starting linking
+Wed May 16 05:39:35 UTC 2018: Code found org.jboss.as.controller.interfaces.LoopbackAddressInterfaceCriteria-equals with org.jboss.as.controller.interfaces.ParsedInterfaceCriteriaTestCase-testEqualsMethods
+Wed May 16 05:39:35 UTC 2018: No link for: org.jboss.as.controller.interfaces.ParsedInterfaceCriteriaTestCase-testNotAndDifferentIncludedCriteria
+Wed May 16 05:39:36 UTC 2018: No link for: org.jboss.as.controller.interfaces.ParsedInterfaceCriteriaTestCase-testNotAndSameIncludedCriteria
+Wed May 16 05:39:36 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.ParsedInterfaceCriteriaTestCase
+Wed May 16 05:39:37 UTC 2018: Found element on the queue
+Wed May 16 05:39:37 UTC 2018: Updating status
+Wed May 16 05:39:37 UTC 2018: Working
+Wed May 16 05:39:39 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.LoopbackAddressInterfaceCriteriaUnitTestCase
+Wed May 16 05:39:39 UTC 2018: Setting lastTestMethodIndex: 63396
+Wed May 16 05:39:39 UTC 2018: Starting linking
+Wed May 16 05:39:39 UTC 2018: No link for: org.jboss.as.controller.interfaces.LoopbackAddressInterfaceCriteriaUnitTestCase-testNoLoopback
+Wed May 16 05:39:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:40 UTC 2018: No link for: org.jboss.as.controller.interfaces.LoopbackAddressInterfaceCriteriaUnitTestCase-testBasic
+Wed May 16 05:39:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:40 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.interfaces.LoopbackAddressInterfaceCriteriaUnitTestCase
+Wed May 16 05:39:41 UTC 2018: Found element on the queue
+Wed May 16 05:39:41 UTC 2018: Updating status
+Wed May 16 05:39:41 UTC 2018: Working
+Wed May 16 05:39:43 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.PathAddressTestCase
+Wed May 16 05:39:43 UTC 2018: Setting lastTestMethodIndex: 63398
+Wed May 16 05:39:43 UTC 2018: Starting linking
+Wed May 16 05:39:43 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateServerOnlyFailsModelNode
+Wed May 16 05:39:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:44 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateWrongOrderHostFailsModelNode
+Wed May 16 05:39:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:44 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateWrongOrderHostFailsElement
+Wed May 16 05:39:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:44 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateFailsElement
+Wed May 16 05:39:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:45 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testValidAddresses
+Wed May 16 05:39:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:45 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateHostOnlyFailsElement
+Wed May 16 05:39:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:46 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateServerOnlyFailsElement
+Wed May 16 05:39:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:46 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateWrongOrderServerFailsElement
+Wed May 16 05:39:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:46 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateWrongOrderServerFailsModelNode
+Wed May 16 05:39:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:47 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateFailsModelNode
+Wed May 16 05:39:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:47 UTC 2018: No link for: org.jboss.as.controller.PathAddressTestCase-testDuplicateHostOnlyFailsModelNode
+Wed May 16 05:39:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:47 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.PathAddressTestCase
+Wed May 16 05:39:48 UTC 2018: Found element on the queue
+Wed May 16 05:39:48 UTC 2018: Updating status
+Wed May 16 05:39:48 UTC 2018: Working
+Wed May 16 05:39:50 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.InterleavedSubsystemTestCase
+Wed May 16 05:39:50 UTC 2018: Setting lastTestMethodIndex: 63403
+Wed May 16 05:39:50 UTC 2018: Starting linking
+Wed May 16 05:39:50 UTC 2018: No link for: org.jboss.as.controller.InterleavedSubsystemTestCase-testInterleavedOps
+Wed May 16 05:39:51 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.InterleavedSubsystemTestCase
+Wed May 16 05:39:51 UTC 2018: Found element on the queue
+Wed May 16 05:39:51 UTC 2018: Updating status
+Wed May 16 05:39:51 UTC 2018: Working
+Wed May 16 05:39:54 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.ModelControllerClientTestCase
+Wed May 16 05:39:54 UTC 2018: Setting lastTestMethodIndex: 63405
+Wed May 16 05:39:54 UTC 2018: Starting linking
+Wed May 16 05:39:54 UTC 2018: No link for: org.jboss.as.controller.ModelControllerClientTestCase-testSynchronousOperationMessageHandler
+Wed May 16 05:39:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:54 UTC 2018: No link for: org.jboss.as.controller.ModelControllerClientTestCase-testAsynchronousOperationWithMessageHandler
+Wed May 16 05:39:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:54 UTC 2018: No link for: org.jboss.as.controller.ModelControllerClientTestCase-testCancelAsynchronousOperation
+Wed May 16 05:39:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:55 UTC 2018: No link for: org.jboss.as.controller.ModelControllerClientTestCase-testSynchronousAttachmentInputStreams
+Wed May 16 05:39:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:39:55 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.ModelControllerClientTestCase
+Wed May 16 05:39:56 UTC 2018: Found element on the queue
+Wed May 16 05:39:56 UTC 2018: Updating status
+Wed May 16 05:39:56 UTC 2018: Working
+Wed May 16 05:39:58 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.transform.ModelDescriptionTestCase
+Wed May 16 05:39:58 UTC 2018: Setting lastTestMethodIndex: 63409
+Wed May 16 05:39:58 UTC 2018: Starting linking
+Wed May 16 05:39:58 UTC 2018: No link for: org.jboss.as.controller.transform.ModelDescriptionTestCase-testManagementResourceSerialization
+Wed May 16 05:39:59 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.transform.ModelDescriptionTestCase
+Wed May 16 05:39:59 UTC 2018: Found element on the queue
+Wed May 16 05:39:59 UTC 2018: Updating status
+Wed May 16 05:39:59 UTC 2018: Working
+Wed May 16 05:40:02 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.OperationTransformationTestCase
+Wed May 16 05:40:02 UTC 2018: Setting lastTestMethodIndex: 63411
+Wed May 16 05:40:02 UTC 2018: Starting linking
+Wed May 16 05:40:02 UTC 2018: No link for: org.jboss.as.controller.test.OperationTransformationTestCase-testGetSubRegistry
+Wed May 16 05:40:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:02 UTC 2018: No link for: org.jboss.as.controller.test.OperationTransformationTestCase-testBasicTransformation
+Wed May 16 05:40:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:02 UTC 2018: No link for: org.jboss.as.controller.test.OperationTransformationTestCase-testDefaultPolicy
+Wed May 16 05:40:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:03 UTC 2018: No link for: org.jboss.as.controller.test.OperationTransformationTestCase-testMergeSubTree
+Wed May 16 05:40:03 UTC 2018: No link for: org.jboss.as.controller.test.OperationTransformationTestCase-testAddSubsystem
+Wed May 16 05:40:04 UTC 2018: No link for: org.jboss.as.controller.test.OperationTransformationTestCase-testDiscardOperation
+Wed May 16 05:40:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:04 UTC 2018: No link for: org.jboss.as.controller.test.OperationTransformationTestCase-testConcreteRegistry
+Wed May 16 05:40:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:04 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.OperationTransformationTestCase
+Wed May 16 05:40:05 UTC 2018: Found element on the queue
+Wed May 16 05:40:05 UTC 2018: Updating status
+Wed May 16 05:40:05 UTC 2018: Working
+Wed May 16 05:40:07 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.DomainServerGlobalOperationsTestCase
+Wed May 16 05:40:07 UTC 2018: Setting lastTestMethodIndex: 63414
+Wed May 16 05:40:07 UTC 2018: Starting linking
+Wed May 16 05:40:07 UTC 2018: No link for: org.jboss.as.controller.test.DomainServerGlobalOperationsTestCase-testRecursiveReadResourceDescriptionWithOperationsOperation
+Wed May 16 05:40:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:08 UTC 2018: No link for: org.jboss.as.controller.test.DomainServerGlobalOperationsTestCase-testReadResourceDescriptionWithOperationsOperation
+Wed May 16 05:40:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:08 UTC 2018: No link for: org.jboss.as.controller.test.DomainServerGlobalOperationsTestCase-testReadResourceDescriptionOperation
+Wed May 16 05:40:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:08 UTC 2018: No link for: org.jboss.as.controller.test.DomainServerGlobalOperationsTestCase-testReadRecursiveResourceDescriptionOperation
+Wed May 16 05:40:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:09 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.DomainServerGlobalOperationsTestCase
+Wed May 16 05:40:09 UTC 2018: Found element on the queue
+Wed May 16 05:40:09 UTC 2018: Updating status
+Wed May 16 05:40:09 UTC 2018: Working
+Wed May 16 05:40:12 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.RegistryProxyControllerTestCase
+Wed May 16 05:40:12 UTC 2018: Setting lastTestMethodIndex: 63418
+Wed May 16 05:40:12 UTC 2018: Starting linking
+Wed May 16 05:40:12 UTC 2018: Code found org.jboss.as.controller.registry.AbstractResourceRegistration-getProxyController with org.jboss.as.controller.test.RegistryProxyControllerTestCase-testGetProxyController
+Wed May 16 05:40:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:40:12 UTC 2018: No link for: org.jboss.as.controller.test.RegistryProxyControllerTestCase-testCannotCreateProxyRegistryForExistingNode
+Wed May 16 05:40:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:13 UTC 2018: No link for: org.jboss.as.controller.test.RegistryProxyControllerTestCase-testGetProxyControllers
+Wed May 16 05:40:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:13 UTC 2018: No link for: org.jboss.as.controller.test.RegistryProxyControllerTestCase-removeAndAddTopLevelProxyController
+Wed May 16 05:40:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:13 UTC 2018: No link for: org.jboss.as.controller.test.RegistryProxyControllerTestCase-removeAndAddChildLevelProxyController
+Wed May 16 05:40:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:14 UTC 2018: No link for: org.jboss.as.controller.test.RegistryProxyControllerTestCase-testRemoveNonExistantProxyController
+Wed May 16 05:40:14 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.RegistryProxyControllerTestCase
+Wed May 16 05:40:15 UTC 2018: Found element on the queue
+Wed May 16 05:40:15 UTC 2018: Updating status
+Wed May 16 05:40:15 UTC 2018: Working
+Wed May 16 05:40:17 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.RemoteChannelProxyControllerTestCase
+Wed May 16 05:40:17 UTC 2018: Setting lastTestMethodIndex: 63421
+Wed May 16 05:40:17 UTC 2018: Starting linking
+Wed May 16 05:40:17 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.RemoteChannelProxyControllerTestCase
+Wed May 16 05:40:18 UTC 2018: Found element on the queue
+Wed May 16 05:40:18 UTC 2018: Updating status
+Wed May 16 05:40:18 UTC 2018: Working
+Wed May 16 05:40:20 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase
+Wed May 16 05:40:20 UTC 2018: Setting lastTestMethodIndex: 63423
+Wed May 16 05:40:20 UTC 2018: Starting linking
+Wed May 16 05:40:20 UTC 2018: No link for: org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase-testAttachmentInputStreams
+Wed May 16 05:40:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:21 UTC 2018: No link for: org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase-testOperationControlExceptionInController
+Wed May 16 05:40:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:21 UTC 2018: No link for: org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase-testTransactionRollback
+Wed May 16 05:40:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:22 UTC 2018: No link for: org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase-testFailAfterPrepare
+Wed May 16 05:40:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:22 UTC 2018: No link for: org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase-testTransactionCommit
+Wed May 16 05:40:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:22 UTC 2018: No link for: org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase-testClosesBeforePrepare
+Wed May 16 05:40:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:23 UTC 2018: No link for: org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase-testOperationMessageHandler
+Wed May 16 05:40:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:23 UTC 2018: No link for: org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase-testOperationControlFailed
+Wed May 16 05:40:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:24 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.test.RemoteProxyControllerProtocolTestCase
+Wed May 16 05:40:24 UTC 2018: Found element on the queue
+Wed May 16 05:40:24 UTC 2018: Updating status
+Wed May 16 05:40:24 UTC 2018: Working
+Wed May 16 05:40:27 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase
+Wed May 16 05:40:27 UTC 2018: Setting lastTestMethodIndex: 63426
+Wed May 16 05:40:27 UTC 2018: Starting linking
+Wed May 16 05:40:27 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testExpression
+Wed May 16 05:40:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:27 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testList
+Wed May 16 05:40:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:27 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testAllowNull
+Wed May 16 05:40:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:28 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testLong
+Wed May 16 05:40:28 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testAllowExpressions
+Wed May 16 05:40:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:28 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testDouble
+Wed May 16 05:40:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:29 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testProperty
+Wed May 16 05:40:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:29 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testBigDecimal
+Wed May 16 05:40:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:30 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testInt
+Wed May 16 05:40:30 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testBytes
+Wed May 16 05:40:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:30 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testBigInteger
+Wed May 16 05:40:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:31 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testBoolean
+Wed May 16 05:40:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:31 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testObject
+Wed May 16 05:40:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:31 UTC 2018: No link for: org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase-testString
+Wed May 16 05:40:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:32 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.operation.validation.ModelTypeValidatorUnitTestCase
+Wed May 16 05:40:32 UTC 2018: Found element on the queue
+Wed May 16 05:40:32 UTC 2018: Updating status
+Wed May 16 05:40:32 UTC 2018: Working
+Wed May 16 05:40:35 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.ControlledProcessStateUnitTestCase
+Wed May 16 05:40:35 UTC 2018: Setting lastTestMethodIndex: 63431
+Wed May 16 05:40:35 UTC 2018: Starting linking
+Wed May 16 05:40:35 UTC 2018: Code found org.jboss.as.controller.ControlledProcessState-setRunning with org.jboss.as.controller.ControlledProcessStateUnitTestCase-testSetRunningRequiresStarting
+Wed May 16 05:40:35 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:40:35 UTC 2018: No link for: org.jboss.as.controller.ControlledProcessStateUnitTestCase-testRestartRequiredRequiresRestart
+Wed May 16 05:40:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:36 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.ControlledProcessStateUnitTestCase
+Wed May 16 05:40:36 UTC 2018: Found element on the queue
+Wed May 16 05:40:36 UTC 2018: Updating status
+Wed May 16 05:40:36 UTC 2018: Working
+Wed May 16 05:40:38 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.ExpressionResolverUnitTestCase
+Wed May 16 05:40:38 UTC 2018: Setting lastTestMethodIndex: 63432
+Wed May 16 05:40:38 UTC 2018: Starting linking
+Wed May 16 05:40:38 UTC 2018: No link for: org.jboss.as.controller.ExpressionResolverUnitTestCase-testPluggableExpressionResolverSomeResolvedAndSomeByDefault
+Wed May 16 05:40:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:39 UTC 2018: No link for: org.jboss.as.controller.ExpressionResolverUnitTestCase-testPluggableExpressionResolver
+Wed May 16 05:40:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:39 UTC 2018: No link for: org.jboss.as.controller.ExpressionResolverUnitTestCase-testPluggableExpressionResolverNotResolved
+Wed May 16 05:40:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:40 UTC 2018: No link for: org.jboss.as.controller.ExpressionResolverUnitTestCase-testDefaultExpressionResolverWithNoResolutions
+Wed May 16 05:40:40 UTC 2018: No link for: org.jboss.as.controller.ExpressionResolverUnitTestCase-testDefaultExpressionResolverWithSystemPropertyResolutions
+Wed May 16 05:40:40 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.ExpressionResolverUnitTestCase
+Wed May 16 05:40:41 UTC 2018: Found element on the queue
+Wed May 16 05:40:41 UTC 2018: Updating status
+Wed May 16 05:40:41 UTC 2018: Working
+Wed May 16 05:40:43 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.registry.CoreManagementResourceRegistrationUnitTestCase
+Wed May 16 05:40:43 UTC 2018: Setting lastTestMethodIndex: 63437
+Wed May 16 05:40:43 UTC 2018: Starting linking
+Wed May 16 05:40:43 UTC 2018: No link for: org.jboss.as.controller.registry.CoreManagementResourceRegistrationUnitTestCase-testHandlersOnRootResource
+Wed May 16 05:40:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:44 UTC 2018: No link for: org.jboss.as.controller.registry.CoreManagementResourceRegistrationUnitTestCase-testHandlerInheritance
+Wed May 16 05:40:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:44 UTC 2018: No link for: org.jboss.as.controller.registry.CoreManagementResourceRegistrationUnitTestCase-testFlagsOnRootResource
+Wed May 16 05:40:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:45 UTC 2018: No link for: org.jboss.as.controller.registry.CoreManagementResourceRegistrationUnitTestCase-testHandlersOnChildResource
+Wed May 16 05:40:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:45 UTC 2018: No link for: org.jboss.as.controller.registry.CoreManagementResourceRegistrationUnitTestCase-testFlagsOnChildResource
+Wed May 16 05:40:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:45 UTC 2018: No link for: org.jboss.as.controller.registry.CoreManagementResourceRegistrationUnitTestCase-testFlagsInheritance
+Wed May 16 05:40:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:46 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.registry.CoreManagementResourceRegistrationUnitTestCase
+Wed May 16 05:40:46 UTC 2018: Found element on the queue
+Wed May 16 05:40:46 UTC 2018: Updating status
+Wed May 16 05:40:46 UTC 2018: Working
+Wed May 16 05:40:49 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase
+Wed May 16 05:40:49 UTC 2018: Setting lastTestMethodIndex: 63439
+Wed May 16 05:40:49 UTC 2018: Starting linking
+Wed May 16 05:40:49 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentWildcardAttribute
+Wed May 16 05:40:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:49 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildOverrideAttribute
+Wed May 16 05:40:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:49 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testDuplicateSubModel
+Wed May 16 05:40:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:50 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentDescriptionProvider
+Wed May 16 05:40:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:50 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildWildcardOperation
+Wed May 16 05:40:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:50 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildExtensionAttribute
+Wed May 16 05:40:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:51 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildMissingAttribute
+Wed May 16 05:40:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:51 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentExtensionOperation
+Wed May 16 05:40:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:52 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildExtensionOperation
+Wed May 16 05:40:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:52 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentWildcardOperation
+Wed May 16 05:40:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:52 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildOverrideOperation
+Wed May 16 05:40:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:53 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildDescriptionProvider
+Wed May 16 05:40:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:53 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildMissingOperation
+Wed May 16 05:40:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:53 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentExtensionAttribute
+Wed May 16 05:40:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:54 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentOverrideAttribute
+Wed May 16 05:40:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:54 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testChildWildcardAttribute
+Wed May 16 05:40:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:54 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentMissingAttribute
+Wed May 16 05:40:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:55 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentMissingOperation
+Wed May 16 05:40:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:55 UTC 2018: No link for: org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase-testParentOverrideOperation
+Wed May 16 05:40:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:56 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.controller.registry.ExtendWildCardRegistrationUnitTestCase
+Wed May 16 05:40:56 UTC 2018: Found element on the queue
+Wed May 16 05:40:56 UTC 2018: Updating status
+Wed May 16 05:40:56 UTC 2018: Working
+Wed May 16 05:40:56 UTC 2018: Create project parser
+Wed May 16 05:40:59 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.network.NetworkUtilsTestCase
+Wed May 16 05:40:59 UTC 2018: Setting lastTestMethodIndex: 63444
+Wed May 16 05:40:59 UTC 2018: Starting linking
+Wed May 16 05:40:59 UTC 2018: No link for: org.jboss.as.network.NetworkUtilsTestCase-testFormatSocketAddress
+Wed May 16 05:40:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:40:59 UTC 2018: No link for: org.jboss.as.network.NetworkUtilsTestCase-testFormatIPv6Test
+Wed May 16 05:41:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:41:00 UTC 2018: No link for: org.jboss.as.network.NetworkUtilsTestCase-testFormatInetAddress
+Wed May 16 05:41:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:41:00 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.network.NetworkUtilsTestCase
+Wed May 16 05:41:00 UTC 2018: Found element on the queue
+Wed May 16 05:41:00 UTC 2018: Updating status
+Wed May 16 05:41:00 UTC 2018: Working
+Wed May 16 05:41:00 UTC 2018: Create project parser
+Wed May 16 05:41:04 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.process.protocol.ChunkyByteInputOutputTest
+Wed May 16 05:41:04 UTC 2018: Setting lastTestMethodIndex: 63447
+Wed May 16 05:41:04 UTC 2018: Starting linking
+Wed May 16 05:41:04 UTC 2018: Code found org.jboss.as.process.protocol.ChunkyByteInput-read with org.jboss.as.process.protocol.ChunkyByteInputOutputTest-testOffsetRead
+Wed May 16 05:41:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:41:04 UTC 2018: Code found org.jboss.as.process.protocol.ChunkyByteInput-read with org.jboss.as.process.protocol.ChunkyByteInputOutputTest-testIncompleteRead
+Wed May 16 05:41:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:41:05 UTC 2018: No link for: org.jboss.as.process.protocol.ChunkyByteInputOutputTest-testEqualBuffer
+Wed May 16 05:41:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:41:05 UTC 2018: No link for: org.jboss.as.process.protocol.ChunkyByteInputOutputTest-testRemainingBytes
+Wed May 16 05:41:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:41:05 UTC 2018: No link for: org.jboss.as.process.protocol.ChunkyByteInputOutputTest-testMultiChunk
+Wed May 16 05:41:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:41:06 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.process.protocol.ChunkyByteInputOutputTest
+Wed May 16 05:41:06 UTC 2018: Found element on the queue
+Wed May 16 05:41:06 UTC 2018: Updating status
+Wed May 16 05:41:06 UTC 2018: Working
+Wed May 16 05:41:09 UTC 2018: Start matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.process.protocol.PipeTest
+Wed May 16 05:41:09 UTC 2018: Setting lastTestMethodIndex: 63451
+Wed May 16 05:41:09 UTC 2018: Starting linking
+Wed May 16 05:41:09 UTC 2018: No link for: org.jboss.as.process.protocol.PipeTest-testIntegrity
+Wed May 16 05:41:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:41:09 UTC 2018: No link for: org.jboss.as.process.protocol.PipeTest-testClose
+Wed May 16 05:41:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:41:09 UTC 2018: Linking done for matijavizintin__jboss-as-7.1.4.Custom test class org.jboss.as.process.protocol.PipeTest

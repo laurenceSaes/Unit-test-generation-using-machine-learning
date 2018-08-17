@@ -1,0 +1,790 @@
+Tue May 15 14:17:46 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 14:17:46 UTC 2018: Starting
+Tue May 15 14:17:46 UTC 2018: Found element on the queue
+Tue May 15 14:17:46 UTC 2018: Updating status
+Tue May 15 14:17:46 UTC 2018: Working
+Tue May 15 14:17:46 UTC 2018: Create project parser
+Tue May 15 14:17:53 UTC 2018: Create slicer
+Tue May 15 14:17:53 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1010792557
+Tue May 15 14:17:56 UTC 2018: Create call graph
+Tue May 15 14:18:00 UTC 2018: Create point analysis
+Tue May 15 14:18:00 UTC 2018: Create call graph done
+Tue May 15 14:18:00 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.rmi.MovieDatabaseTest
+Tue May 15 14:18:00 UTC 2018: Setting lastTestMethodIndex: 35143
+Tue May 15 14:18:00 UTC 2018: Starting linking
+Tue May 15 14:18:00 UTC 2018: No code found edu.pdx.cs410J.rmi.MovieDatabaseImpl-deleteMovie with edu.pdx.cs410J.rmi.MovieDatabaseTest-testDeleteMovie
+Tue May 15 14:18:00 UTC 2018: Code found edu.pdx.cs410J.rmi.MovieDatabaseImpl-createMovie with edu.pdx.cs410J.rmi.MovieDatabaseTest-testCreateMovie
+Tue May 15 14:18:01 UTC 2018: No link for: edu.pdx.cs410J.rmi.MovieDatabaseTest-testFilmography
+Tue May 15 14:18:01 UTC 2018: No link for: edu.pdx.cs410J.rmi.MovieDatabaseTest-deletingAnNonExistentMovieThrowsIllegalArgumentException
+Tue May 15 14:18:01 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.rmi.MovieDatabaseTest
+Tue May 15 14:18:01 UTC 2018: Found element on the queue
+Tue May 15 14:18:01 UTC 2018: Updating status
+Tue May 15 14:18:01 UTC 2018: Working
+Tue May 15 14:18:04 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.rmi.GaussianEliminationTest
+Tue May 15 14:18:04 UTC 2018: Setting lastTestMethodIndex: 35145
+Tue May 15 14:18:04 UTC 2018: Starting linking
+Tue May 15 14:18:04 UTC 2018: No link for: edu.pdx.cs410J.rmi.GaussianEliminationTest-testThreeEquations
+Tue May 15 14:18:04 UTC 2018: No link for: edu.pdx.cs410J.rmi.GaussianEliminationTest-testTwoEquations
+Tue May 15 14:18:04 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.rmi.GaussianEliminationTest
+Tue May 15 14:18:04 UTC 2018: Found element on the queue
+Tue May 15 14:18:04 UTC 2018: Updating status
+Tue May 15 14:18:04 UTC 2018: Working
+Tue May 15 14:18:07 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.junit.SectionTest
+Tue May 15 14:18:07 UTC 2018: Setting lastTestMethodIndex: 35147
+Tue May 15 14:18:07 UTC 2018: Starting linking
+Tue May 15 14:18:07 UTC 2018: Code found edu.pdx.cs410J.junit.Section-dropStudent with edu.pdx.cs410J.junit.SectionTest-testDropStudentNotEnrolled
+Tue May 15 14:18:07 UTC 2018: Code found edu.pdx.cs410J.junit.Section-addStudent with edu.pdx.cs410J.junit.SectionTest-testAddStudent
+Tue May 15 14:18:07 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.junit.SectionTest
+Tue May 15 14:18:07 UTC 2018: Found element on the queue
+Tue May 15 14:18:07 UTC 2018: Updating status
+Tue May 15 14:18:07 UTC 2018: Working
+Tue May 15 14:18:10 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.junit.HamcrestMatchersTest
+Tue May 15 14:18:10 UTC 2018: Setting lastTestMethodIndex: 35149
+Tue May 15 14:18:10 UTC 2018: Starting linking
+Tue May 15 14:18:10 UTC 2018: No link for: edu.pdx.cs410J.junit.HamcrestMatchersTest-isEqualTo
+Tue May 15 14:18:10 UTC 2018: No link for: edu.pdx.cs410J.junit.HamcrestMatchersTest-strings
+Tue May 15 14:18:10 UTC 2018: No link for: edu.pdx.cs410J.junit.HamcrestMatchersTest-arrays
+Tue May 15 14:18:10 UTC 2018: No link for: edu.pdx.cs410J.junit.HamcrestMatchersTest-numbers
+Tue May 15 14:18:10 UTC 2018: No link for: edu.pdx.cs410J.junit.HamcrestMatchersTest-isSameInstance
+Tue May 15 14:18:10 UTC 2018: No link for: edu.pdx.cs410J.junit.HamcrestMatchersTest-isNullValue
+Tue May 15 14:18:10 UTC 2018: No link for: edu.pdx.cs410J.junit.HamcrestMatchersTest-everyItemIsNotNull
+Tue May 15 14:18:10 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.junit.HamcrestMatchersTest
+Tue May 15 14:18:11 UTC 2018: Found element on the queue
+Tue May 15 14:18:11 UTC 2018: Updating status
+Tue May 15 14:18:11 UTC 2018: Working
+Tue May 15 14:18:13 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.junit.CourseTest
+Tue May 15 14:18:13 UTC 2018: Setting lastTestMethodIndex: 35151
+Tue May 15 14:18:13 UTC 2018: Starting linking
+Tue May 15 14:18:13 UTC 2018: Code found edu.pdx.cs410J.junit.Course-getCredits with edu.pdx.cs410J.junit.CourseTest-testGetCredits
+Tue May 15 14:18:13 UTC 2018: No link for: edu.pdx.cs410J.junit.CourseTest-testGoodCourse
+Tue May 15 14:18:13 UTC 2018: No link for: edu.pdx.cs410J.junit.CourseTest-testCreditLessThanZero
+Tue May 15 14:18:13 UTC 2018: No link for: edu.pdx.cs410J.junit.CourseTest-testCourseNumberLessThan100
+Tue May 15 14:18:13 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.junit.CourseTest
+Tue May 15 14:18:14 UTC 2018: Found element on the queue
+Tue May 15 14:18:14 UTC 2018: Updating status
+Tue May 15 14:18:14 UTC 2018: Working
+Tue May 15 14:18:16 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.junit.AutomaticallyGeneratedTest
+Tue May 15 14:18:16 UTC 2018: Setting lastTestMethodIndex: 35153
+Tue May 15 14:18:16 UTC 2018: Starting linking
+Tue May 15 14:18:16 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.junit.AutomaticallyGeneratedTest
+Tue May 15 14:18:17 UTC 2018: Found element on the queue
+Tue May 15 14:18:17 UTC 2018: Updating status
+Tue May 15 14:18:17 UTC 2018: Working
+Tue May 15 14:18:19 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.web.HttpRequestHelperTest
+Tue May 15 14:18:19 UTC 2018: Setting lastTestMethodIndex: 35155
+Tue May 15 14:18:19 UTC 2018: Starting linking
+Tue May 15 14:18:19 UTC 2018: Code found edu.pdx.cs410J.web.HttpRequestHelper-get with edu.pdx.cs410J.web.HttpRequestHelperTest-testGet
+Tue May 15 14:18:19 UTC 2018: Code found edu.pdx.cs410J.web.HttpRequestHelper-get with edu.pdx.cs410J.web.HttpRequestHelperTest-testGetWithParameters
+Tue May 15 14:18:19 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.web.HttpRequestHelperTest
+Tue May 15 14:18:20 UTC 2018: Found element on the queue
+Tue May 15 14:18:20 UTC 2018: Updating status
+Tue May 15 14:18:20 UTC 2018: Working
+Tue May 15 14:18:22 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.di.BookDatabaseTest
+Tue May 15 14:18:22 UTC 2018: Setting lastTestMethodIndex: 35157
+Tue May 15 14:18:22 UTC 2018: Starting linking
+Tue May 15 14:18:22 UTC 2018: Code found edu.pdx.cs410J.di.BookDatabase-add with edu.pdx.cs410J.di.BookDatabaseTest-testAddBook
+Tue May 15 14:18:22 UTC 2018: Code found edu.pdx.cs410J.di.BookDatabase-add with edu.pdx.cs410J.di.BookDatabaseTest-testAddSameBook
+Tue May 15 14:18:22 UTC 2018: Code found edu.pdx.cs410J.di.BookDatabase-add with edu.pdx.cs410J.di.BookDatabaseTest-testAddMultipleBooks
+Tue May 15 14:18:22 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.di.BookDatabaseTest
+Tue May 15 14:18:23 UTC 2018: Found element on the queue
+Tue May 15 14:18:23 UTC 2018: Updating status
+Tue May 15 14:18:23 UTC 2018: Working
+Tue May 15 14:18:25 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.di.BookStoreTest
+Tue May 15 14:18:25 UTC 2018: Setting lastTestMethodIndex: 35159
+Tue May 15 14:18:25 UTC 2018: Starting linking
+Tue May 15 14:18:25 UTC 2018: Code found edu.pdx.cs410J.di.BookStore-purchase with edu.pdx.cs410J.di.BookStoreTest-testBookIsPurchased
+Tue May 15 14:18:25 UTC 2018: No link for: edu.pdx.cs410J.di.BookStoreTest-testCreditCardIsCharged
+Tue May 15 14:18:25 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.di.BookStoreTest
+Tue May 15 14:18:26 UTC 2018: Found element on the queue
+Tue May 15 14:18:26 UTC 2018: Updating status
+Tue May 15 14:18:26 UTC 2018: Working
+Tue May 15 14:18:26 UTC 2018: Create project parser
+Tue May 15 14:18:30 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.TextTest
+Tue May 15 14:18:30 UTC 2018: Setting lastTestMethodIndex: 35161
+Tue May 15 14:18:30 UTC 2018: Starting linking
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testMotherBeforeId
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testBadMotherId
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testLastNameBeforeId
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testMaleGender
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testDODBeforeId
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testBadFatherId
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testMiddleNameBeforeId
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testDOBBeforeId
+Tue May 15 14:18:30 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testBadGender
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testFirstNameBeforeId
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testInvalidGender
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testNonExistentMotherId
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testBadId
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testSameIdMultipleTimes
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testGenderBeforeId
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testFatherBeforeId
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testNonExistentFatherId
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testBadDOD
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testMissingGender
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testFemaleGender
+Tue May 15 14:18:31 UTC 2018: No link for: edu.pdx.cs410J.family.TextTest-testBadDOB
+Tue May 15 14:18:31 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.TextTest
+Tue May 15 14:18:32 UTC 2018: Found element on the queue
+Tue May 15 14:18:32 UTC 2018: Updating status
+Tue May 15 14:18:32 UTC 2018: Working
+Tue May 15 14:18:34 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.RemotePersonTest
+Tue May 15 14:18:34 UTC 2018: Setting lastTestMethodIndex: 35163
+Tue May 15 14:18:34 UTC 2018: Starting linking
+Tue May 15 14:18:34 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetGenderMale
+Tue May 15 14:18:34 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetFatherId
+Tue May 15 14:18:34 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testSetDateOfDeath
+Tue May 15 14:18:34 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testSetFatherIdNotMale
+Tue May 15 14:18:34 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testSetDateOfBirth
+Tue May 15 14:18:34 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetGenderFemale
+Tue May 15 14:18:34 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetLastName
+Tue May 15 14:18:34 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetMiddleName
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetId
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetMotherId
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testSetMotherIdNotFemale
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetLastNameNull
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testSetFatherIdBadId
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetFirstNameNull
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetFirstName
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testGetMiddleNameNull
+Tue May 15 14:18:35 UTC 2018: No link for: edu.pdx.cs410J.family.RemotePersonTest-testSetMotherIdBadId
+Tue May 15 14:18:35 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.RemotePersonTest
+Tue May 15 14:18:35 UTC 2018: Found element on the queue
+Tue May 15 14:18:35 UTC 2018: Updating status
+Tue May 15 14:18:35 UTC 2018: Working
+Tue May 15 14:18:38 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.RemoteFamilyTreeTest
+Tue May 15 14:18:38 UTC 2018: Setting lastTestMethodIndex: 35166
+Tue May 15 14:18:38 UTC 2018: Starting linking
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testCreatePerson
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testGetExistingMarriage
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testGetMarriageNoSuchWife
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testCreateMarriageNoSuchHusband
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testCreateMarriageNoSuchWife
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testGetNonexistingPersonByName
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testCreatePersonBadGender
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testCreateMarriageWifeNotFemale
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testGetPersonByName
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testGetPersonById
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testGetMarriageNeverBeenMarried
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testGetNonexistingPersonById
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testCreateMarriage
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testCreateMarriageHusbandNotMale
+Tue May 15 14:18:38 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteFamilyTreeTest-testGetPersonSameNameTwice
+Tue May 15 14:18:38 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.RemoteFamilyTreeTest
+Tue May 15 14:18:39 UTC 2018: Found element on the queue
+Tue May 15 14:18:39 UTC 2018: Updating status
+Tue May 15 14:18:39 UTC 2018: Working
+Tue May 15 14:18:41 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.PersonTest
+Tue May 15 14:18:41 UTC 2018: Setting lastTestMethodIndex: 35168
+Tue May 15 14:18:41 UTC 2018: Starting linking
+Tue May 15 14:18:41 UTC 2018: Code found edu.pdx.cs410J.family.Person-getGender with edu.pdx.cs410J.family.PersonTest-testGetGenderMale
+Tue May 15 14:18:41 UTC 2018: Code found edu.pdx.cs410J.family.Person-getMotherId with edu.pdx.cs410J.family.PersonTest-testGetMotherIdUnknownMother
+Tue May 15 14:18:41 UTC 2018: Code found edu.pdx.cs410J.family.Person-getId with edu.pdx.cs410J.family.PersonTest-testGetId
+Tue May 15 14:18:41 UTC 2018: Code found edu.pdx.cs410J.family.Person-getFatherId with edu.pdx.cs410J.family.PersonTest-testGetFatherIdUnknownFather
+Tue May 15 14:18:41 UTC 2018: Code found edu.pdx.cs410J.family.Person-getGender with edu.pdx.cs410J.family.PersonTest-testGetGenderFemale
+Tue May 15 14:18:41 UTC 2018: Code found edu.pdx.cs410J.family.Person-addMarriage with edu.pdx.cs410J.family.PersonTest-testAddMarriage
+Tue May 15 14:18:41 UTC 2018: Code found edu.pdx.cs410J.family.Person-equals with edu.pdx.cs410J.family.PersonTest-testNotEquals
+Tue May 15 14:18:41 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testInvalidPersonId
+Tue May 15 14:18:41 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testLastName
+Tue May 15 14:18:41 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testDateOfDeath
+Tue May 15 14:18:41 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testDateOfDeathBeforeDateOfBirth
+Tue May 15 14:18:41 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testEquals
+Tue May 15 14:18:41 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testMiddleName
+Tue May 15 14:18:41 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testMother
+Tue May 15 14:18:41 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testDateOfBirth
+Tue May 15 14:18:42 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testMaleNotInMarriage
+Tue May 15 14:18:42 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testMaleMother
+Tue May 15 14:18:42 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testFirstName
+Tue May 15 14:18:42 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testInvalidGender
+Tue May 15 14:18:42 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testFather
+Tue May 15 14:18:42 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testFemaleNotInMarriage
+Tue May 15 14:18:42 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testFullName
+Tue May 15 14:18:42 UTC 2018: No link for: edu.pdx.cs410J.family.PersonTest-testFemaleFather
+Tue May 15 14:18:42 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.PersonTest
+Tue May 15 14:18:42 UTC 2018: Found element on the queue
+Tue May 15 14:18:42 UTC 2018: Updating status
+Tue May 15 14:18:42 UTC 2018: Working
+Tue May 15 14:18:45 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.XmlTest
+Tue May 15 14:18:45 UTC 2018: Setting lastTestMethodIndex: 35170
+Tue May 15 14:18:45 UTC 2018: Starting linking
+Tue May 15 14:18:45 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.XmlTest
+Tue May 15 14:18:45 UTC 2018: Found element on the queue
+Tue May 15 14:18:45 UTC 2018: Updating status
+Tue May 15 14:18:45 UTC 2018: Working
+Tue May 15 14:18:48 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.MarriageTest
+Tue May 15 14:18:48 UTC 2018: Setting lastTestMethodIndex: 35172
+Tue May 15 14:18:48 UTC 2018: Starting linking
+Tue May 15 14:18:48 UTC 2018: No link for: edu.pdx.cs410J.family.MarriageTest-testMarriageHusbandNotMale
+Tue May 15 14:18:48 UTC 2018: No link for: edu.pdx.cs410J.family.MarriageTest-testMarriage
+Tue May 15 14:18:48 UTC 2018: No link for: edu.pdx.cs410J.family.MarriageTest-testMarriageWifeNotFemale
+Tue May 15 14:18:48 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.MarriageTest
+Tue May 15 14:18:49 UTC 2018: Found element on the queue
+Tue May 15 14:18:49 UTC 2018: Updating status
+Tue May 15 14:18:49 UTC 2018: Working
+Tue May 15 14:18:51 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.AddPersonTest
+Tue May 15 14:18:51 UTC 2018: Setting lastTestMethodIndex: 35174
+Tue May 15 14:18:51 UTC 2018: Starting linking
+Tue May 15 14:18:51 UTC 2018: No link for: edu.pdx.cs410J.family.AddPersonTest-testText
+Tue May 15 14:18:51 UTC 2018: No link for: edu.pdx.cs410J.family.AddPersonTest-testXml
+Tue May 15 14:18:51 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.AddPersonTest
+Tue May 15 14:18:52 UTC 2018: Found element on the queue
+Tue May 15 14:18:52 UTC 2018: Updating status
+Tue May 15 14:18:52 UTC 2018: Working
+Tue May 15 14:18:54 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.RemoteMarriageTest
+Tue May 15 14:18:54 UTC 2018: Setting lastTestMethodIndex: 35176
+Tue May 15 14:18:54 UTC 2018: Starting linking
+Tue May 15 14:18:54 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteMarriageTest-testSetDate
+Tue May 15 14:18:54 UTC 2018: No link for: edu.pdx.cs410J.family.RemoteMarriageTest-testSetLocation
+Tue May 15 14:18:54 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.family.RemoteMarriageTest
+Tue May 15 14:18:55 UTC 2018: Found element on the queue
+Tue May 15 14:18:55 UTC 2018: Updating status
+Tue May 15 14:18:55 UTC 2018: Working
+Tue May 15 14:18:55 UTC 2018: Create project parser
+Tue May 15 14:19:00 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.HtmlGeneratorTest
+Tue May 15 14:19:00 UTC 2018: Setting lastTestMethodIndex: 35179
+Tue May 15 14:19:00 UTC 2018: Starting linking
+Tue May 15 14:19:00 UTC 2018: Code found edu.pdx.cs410J.grader.HtmlGenerator-text with edu.pdx.cs410J.grader.HtmlGeneratorTest-textIsWritten
+Tue May 15 14:19:00 UTC 2018: Code found edu.pdx.cs410J.grader.HtmlGenerator-text with edu.pdx.cs410J.grader.HtmlGeneratorTest-textIsWrittenOnTheSameLineAsOpenTag
+Tue May 15 14:19:00 UTC 2018: No link for: edu.pdx.cs410J.grader.HtmlGeneratorTest-doctypeIsWritten
+Tue May 15 14:19:00 UTC 2018: No link for: edu.pdx.cs410J.grader.HtmlGeneratorTest-nestedTagsAreIndented
+Tue May 15 14:19:00 UTC 2018: No link for: edu.pdx.cs410J.grader.HtmlGeneratorTest-endingATagClosesTheLastOpenedTag
+Tue May 15 14:19:00 UTC 2018: No link for: edu.pdx.cs410J.grader.HtmlGeneratorTest-nestedTags
+Tue May 15 14:19:00 UTC 2018: No link for: edu.pdx.cs410J.grader.HtmlGeneratorTest-tagsAreOnTheirOwnLine
+Tue May 15 14:19:01 UTC 2018: No link for: edu.pdx.cs410J.grader.HtmlGeneratorTest-beginningATagOpensThatTag
+Tue May 15 14:19:01 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.HtmlGeneratorTest
+Tue May 15 14:19:01 UTC 2018: Found element on the queue
+Tue May 15 14:19:01 UTC 2018: Updating status
+Tue May 15 14:19:01 UTC 2018: Working
+Tue May 15 14:19:04 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.SummaryReportTest
+Tue May 15 14:19:04 UTC 2018: Setting lastTestMethodIndex: 35181
+Tue May 15 14:19:04 UTC 2018: Starting linking
+Tue May 15 14:19:04 UTC 2018: No link for: edu.pdx.cs410J.grader.SummaryReportTest-assignLetterGradesAccordingToGradeBookRangesForSection
+Tue May 15 14:19:04 UTC 2018: No link for: edu.pdx.cs410J.grader.SummaryReportTest-ungradedAssignmentsDoNotCountTowardsGraded
+Tue May 15 14:19:04 UTC 2018: No link for: edu.pdx.cs410J.grader.SummaryReportTest-reportsAreGeneratedInCorrectDirectories
+Tue May 15 14:19:04 UTC 2018: No link for: edu.pdx.cs410J.grader.SummaryReportTest-totalsArePrintedForAllStudents
+Tue May 15 14:19:04 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.SummaryReportTest
+Tue May 15 14:19:05 UTC 2018: Found element on the queue
+Tue May 15 14:19:05 UTC 2018: Updating status
+Tue May 15 14:19:05 UTC 2018: Working
+Tue May 15 14:19:07 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.D2LSurveyResponsesCSVParserTest
+Tue May 15 14:19:07 UTC 2018: Setting lastTestMethodIndex: 35183
+Tue May 15 14:19:07 UTC 2018: Starting linking
+Tue May 15 14:19:07 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LSurveyResponsesCSVParserTest-canParseOneResponseLine
+Tue May 15 14:19:07 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LSurveyResponsesCSVParserTest-canParseTwoResponseLines
+Tue May 15 14:19:07 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LSurveyResponsesCSVParserTest-canParseFirstLineOfCSV
+Tue May 15 14:19:07 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LSurveyResponsesCSVParserTest-canParseMultipleQuestion
+Tue May 15 14:19:07 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.D2LSurveyResponsesCSVParserTest
+Tue May 15 14:19:08 UTC 2018: Found element on the queue
+Tue May 15 14:19:08 UTC 2018: Updating status
+Tue May 15 14:19:08 UTC 2018: Working
+Tue May 15 14:19:10 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GradesFromD2LImporterTest
+Tue May 15 14:19:10 UTC 2018: Setting lastTestMethodIndex: 35185
+Tue May 15 14:19:10 UTC 2018: Starting linking
+Tue May 15 14:19:10 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LImporterTest-errorWhenD2LQuizDoesNotExistInGradebook
+Tue May 15 14:19:10 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LImporterTest-importScoreFromD2LWhenStudentNameMatchesD2LName
+Tue May 15 14:19:10 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LImporterTest-importScoreFromD2LWhenStudentIdMatchesD2LId
+Tue May 15 14:19:10 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GradesFromD2LImporterTest
+Tue May 15 14:19:11 UTC 2018: Found element on the queue
+Tue May 15 14:19:11 UTC 2018: Updating status
+Tue May 15 14:19:11 UTC 2018: Working
+Tue May 15 14:19:13 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GradeBookXmlTest
+Tue May 15 14:19:13 UTC 2018: Setting lastTestMethodIndex: 35187
+Tue May 15 14:19:13 UTC 2018: Starting linking
+Tue May 15 14:19:13 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookXmlTest-letterGradeRangesArePersistedToXml
+Tue May 15 14:19:13 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookXmlTest-dueDatesArePersistedToXml
+Tue May 15 14:19:13 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookXmlTest-poaAssignmentsArePersistedToXml
+Tue May 15 14:19:13 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GradeBookXmlTest
+Tue May 15 14:19:14 UTC 2018: Found element on the queue
+Tue May 15 14:19:14 UTC 2018: Updating status
+Tue May 15 14:19:14 UTC 2018: Working
+Tue May 15 14:19:16 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest
+Tue May 15 14:19:16 UTC 2018: Setting lastTestMethodIndex: 35189
+Tue May 15 14:19:16 UTC 2018: Starting linking
+Tue May 15 14:19:16 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest-matchStudentBasedOnEmail
+Tue May 15 14:19:16 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest-submissionsPastDueDateAreLate
+Tue May 15 14:19:16 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest-submissionTimeNotedInGradeBook
+Tue May 15 14:19:16 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest-matchStudentBasedOnFirstAndLastName
+Tue May 15 14:19:16 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest-submissionsBeforeDueDateAreNoteLate
+Tue May 15 14:19:16 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest-matchStudentBasedOnNickAndLastName
+Tue May 15 14:19:16 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest-submissionDoesNotMatchAnyStudentInGradeBook
+Tue May 15 14:19:17 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.ProjectSubmissionsProcessorTest
+Tue May 15 14:19:17 UTC 2018: Found element on the queue
+Tue May 15 14:19:17 UTC 2018: Updating status
+Tue May 15 14:19:17 UTC 2018: Working
+Tue May 15 14:19:19 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.SurveyTest
+Tue May 15 14:19:19 UTC 2018: Setting lastTestMethodIndex: 35191
+Tue May 15 14:19:19 UTC 2018: Starting linking
+Tue May 15 14:19:19 UTC 2018: No link for: edu.pdx.cs410J.grader.SurveyTest-longMessageIsBrokenInto80CharacterLines
+Tue May 15 14:19:19 UTC 2018: No link for: edu.pdx.cs410J.grader.SurveyTest-setNonEmptyValue
+Tue May 15 14:19:20 UTC 2018: No link for: edu.pdx.cs410J.grader.SurveyTest-setEmptyValue
+Tue May 15 14:19:20 UTC 2018: No link for: edu.pdx.cs410J.grader.SurveyTest-setNullValue
+Tue May 15 14:19:20 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.SurveyTest
+Tue May 15 14:19:20 UTC 2018: Found element on the queue
+Tue May 15 14:19:20 UTC 2018: Updating status
+Tue May 15 14:19:20 UTC 2018: Working
+Tue May 15 14:19:23 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.ProjectGradesImporterTest
+Tue May 15 14:19:23 UTC 2018: Setting lastTestMethodIndex: 35193
+Tue May 15 14:19:23 UTC 2018: Starting linking
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-gradedProjectWithNoGradeThrowsScoreNotFoundException
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-gradedProjectWithIntegerPoints
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-scoreIsRecordedInGradeBook
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-logWarningWhenStudentDoesNotExistInGradeBook
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-onlyFirstScoreIsReturned
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-scoreRegularExpressionWorkWithSimpleCase
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-gradedProjectWithOutOfHasValidScore
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-scoreMatchesRegardlessOfCase
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-scoreMatchesIntegerPoints
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-scoreMatchesInTheMiddleOfOtherText
+Tue May 15 14:19:23 UTC 2018: No link for: edu.pdx.cs410J.grader.ProjectGradesImporterTest-throwIllegalStateExceptionWhenTotalPointsInReportDoesNotMatchGradeBook
+Tue May 15 14:19:23 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.ProjectGradesImporterTest
+Tue May 15 14:19:24 UTC 2018: Found element on the queue
+Tue May 15 14:19:24 UTC 2018: Updating status
+Tue May 15 14:19:24 UTC 2018: Working
+Tue May 15 14:19:26 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.EmailCredentialsPresenterTest
+Tue May 15 14:19:26 UTC 2018: Setting lastTestMethodIndex: 35195
+Tue May 15 14:19:26 UTC 2018: Starting linking
+Tue May 15 14:19:26 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.EmailCredentialsPresenterTest-emailAddressInViewIsSavedToPresenter
+Tue May 15 14:19:26 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.EmailCredentialsPresenterTest-downloadingSubmissionsDisplaysEmailCredentialsView
+Tue May 15 14:19:26 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.EmailCredentialsPresenterTest-passwordInViewIsSavedToPresenter
+Tue May 15 14:19:26 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.EmailCredentialsPresenterTest-enteringCredentialsInViewFiresEmailCredentialsEvent
+Tue May 15 14:19:26 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.EmailCredentialsPresenterTest
+Tue May 15 14:19:27 UTC 2018: Found element on the queue
+Tue May 15 14:19:27 UTC 2018: Updating status
+Tue May 15 14:19:27 UTC 2018: Working
+Tue May 15 14:19:29 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.UnhandledExceptionPresenterTest
+Tue May 15 14:19:29 UTC 2018: Setting lastTestMethodIndex: 35197
+Tue May 15 14:19:29 UTC 2018: Starting linking
+Tue May 15 14:19:29 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.UnhandledExceptionPresenterTest-viewUpdatedOnUnhandledExceptionEvent
+Tue May 15 14:19:29 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.UnhandledExceptionPresenterTest
+Tue May 15 14:19:30 UTC 2018: Found element on the queue
+Tue May 15 14:19:30 UTC 2018: Updating status
+Tue May 15 14:19:30 UTC 2018: Working
+Tue May 15 14:19:32 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.UnhandledExceptionEventTest
+Tue May 15 14:19:32 UTC 2018: Setting lastTestMethodIndex: 35199
+Tue May 15 14:19:32 UTC 2018: Starting linking
+Tue May 15 14:19:32 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.UnhandledExceptionEventTest-unhandledExceptionInEventThreadCallsSubscriberExceptionHandler
+Tue May 15 14:19:32 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.UnhandledExceptionEventTest-unhandledExceptionInEventThreadFiresUnhandledExceptionEvent
+Tue May 15 14:19:32 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.UnhandledExceptionEventTest
+Tue May 15 14:19:33 UTC 2018: Found element on the queue
+Tue May 15 14:19:33 UTC 2018: Updating status
+Tue May 15 14:19:33 UTC 2018: Working
+Tue May 15 14:19:35 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.GradeBookFileManagerTest
+Tue May 15 14:19:35 UTC 2018: Setting lastTestMethodIndex: 35201
+Tue May 15 14:19:35 UTC 2018: Starting linking
+Tue May 15 14:19:35 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookFileManagerTest-gradeBookSavedToFileOnSaveGradeBookEvent
+Tue May 15 14:19:35 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookFileManagerTest-gradeBookLoadedOnLoadGradeBookEvent
+Tue May 15 14:19:35 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookFileManagerTest-unhandledExceptionEventPublishedWhenLoadingBadGradeBook
+Tue May 15 14:19:35 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.GradeBookFileManagerTest
+Tue May 15 14:19:36 UTC 2018: Found element on the queue
+Tue May 15 14:19:36 UTC 2018: Updating status
+Tue May 15 14:19:36 UTC 2018: Working
+Tue May 15 14:19:38 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.POASubmissionPresenterTest
+Tue May 15 14:19:38 UTC 2018: Setting lastTestMethodIndex: 35203
+Tue May 15 14:19:38 UTC 2018: Starting linking
+Tue May 15 14:19:38 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POASubmissionPresenterTest-submissionInformationDisplayedOnSubmissionSelectionEvent
+Tue May 15 14:19:38 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.POASubmissionPresenterTest
+Tue May 15 14:19:39 UTC 2018: Found element on the queue
+Tue May 15 14:19:39 UTC 2018: Updating status
+Tue May 15 14:19:39 UTC 2018: Working
+Tue May 15 14:19:41 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.GradeBookPresenterTest
+Tue May 15 14:19:41 UTC 2018: Setting lastTestMethodIndex: 35205
+Tue May 15 14:19:41 UTC 2018: Starting linking
+Tue May 15 14:19:41 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookPresenterTest-gradeBookIsUpdatedOnRecordGradeEventForExistingGrade
+Tue May 15 14:19:41 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookPresenterTest-gradeBookIsUpdatedOnRecordGradeEventForLateSubmission
+Tue May 15 14:19:41 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookPresenterTest-recordingGradeEnablesSaveGradeBookInView
+Tue May 15 14:19:42 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookPresenterTest-loadGradeBookEventPublishedWhenFileProvidedByView
+Tue May 15 14:19:42 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookPresenterTest-gradeBookIsUpdatedOnRecordGradeEventForOnTimeSubmission
+Tue May 15 14:19:42 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookPresenterTest-savingGradeBookInViewPublishesSaveGradeBookEvent
+Tue May 15 14:19:42 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.GradeBookPresenterTest-gradeBookNameDisplayedWhenLoaded
+Tue May 15 14:19:42 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.GradeBookPresenterTest
+Tue May 15 14:19:42 UTC 2018: Found element on the queue
+Tue May 15 14:19:42 UTC 2018: Updating status
+Tue May 15 14:19:42 UTC 2018: Working
+Tue May 15 14:19:45 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.POASubmissionsPresenterTest
+Tue May 15 14:19:45 UTC 2018: Setting lastTestMethodIndex: 35207
+Tue May 15 14:19:45 UTC 2018: Starting linking
+Tue May 15 14:19:45 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POASubmissionsPresenterTest-displayNextPOAEventDisplaysNextPOA
+Tue May 15 14:19:45 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POASubmissionsPresenterTest-submissionsDescriptionsAreDisplayedInOrderThatEventsWereSent
+Tue May 15 14:19:45 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POASubmissionsPresenterTest-downloadSubmissionsInViewFiresDownloadSubmissionsEvent
+Tue May 15 14:19:45 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POASubmissionsPresenterTest-displayingNextPOAAtEndOfSubmissionListDoesNothing
+Tue May 15 14:19:45 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POASubmissionsPresenterTest-poaSubmissionDownloadedEventPopulatesPOASubmissionView
+Tue May 15 14:19:45 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POASubmissionsPresenterTest-selectingSubmissionFiresPOASubmissionSelectedEvent
+Tue May 15 14:19:45 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.POASubmissionsPresenterTest
+Tue May 15 14:19:46 UTC 2018: Found element on the queue
+Tue May 15 14:19:46 UTC 2018: Updating status
+Tue May 15 14:19:46 UTC 2018: Working
+Tue May 15 14:19:48 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest
+Tue May 15 14:19:48 UTC 2018: Setting lastTestMethodIndex: 35209
+Tue May 15 14:19:48 UTC 2018: Starting linking
+Tue May 15 14:19:48 UTC 2018: Code found edu.pdx.cs410J.grader.poa.POAAssignmentsPresenter-findNumbersInString with edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-testFindNumbersInString
+Tue May 15 14:19:48 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-assignmentSelectedFireWhenAssignmentSelectedInView
+Tue May 15 14:19:48 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-populateDueDateInViewWhenAssignmentSelected
+Tue May 15 14:19:48 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-noAssignmentSelectedWhenGradeBookHasNoPOAAssignments
+Tue May 15 14:19:48 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-populateDueDateInViewWhenGradeBookLoaded
+Tue May 15 14:19:48 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-initiallySelectAssignmentWhoseDueDateHasMostRecentlyPassed
+Tue May 15 14:19:48 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-selectAssignmentWhenPOASubmittedWithAssignmentNumberInSubject
+Tue May 15 14:19:48 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-clearDueDateInViewWhenAssignmentHasNoDueDate
+Tue May 15 14:19:49 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest-assignmentListPopulatedInViewWhenGradeBookLoaded
+Tue May 15 14:19:49 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.POAAssignmentsPresenterTest
+Tue May 15 14:19:49 UTC 2018: Found element on the queue
+Tue May 15 14:19:49 UTC 2018: Updating status
+Tue May 15 14:19:49 UTC 2018: Working
+Tue May 15 14:19:51 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.StudentsPresenterTest
+Tue May 15 14:19:51 UTC 2018: Setting lastTestMethodIndex: 35212
+Tue May 15 14:19:51 UTC 2018: Starting linking
+Tue May 15 14:19:51 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-viewIsPopulatedWhenGradeBookLoaded
+Tue May 15 14:19:51 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-selectingStudentInAlphabetizedViewFiresStudentSelectedEvent
+Tue May 15 14:19:51 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-submissionWithMatchingStudentNameFiresStudentSelectedEvent
+Tue May 15 14:19:51 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-selectingStudentInViewFiresStudentSelectedEvent
+Tue May 15 14:19:51 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-selectingUnknownStudentInViewFiresNullStudentSelectedEvent
+Tue May 15 14:19:51 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-submissionByNonMatchingStudentFiresUnknownStudentSelectedEvent
+Tue May 15 14:19:51 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-submissionWithMatchingStudentEmailFiresStudentSelectedEvent
+Tue May 15 14:19:51 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-firstStudentIsSelectedWhenGradeBookLoaded
+Tue May 15 14:19:52 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.StudentsPresenterTest-studentsAreListedInAlphabeticalOrderByLastName
+Tue May 15 14:19:52 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.StudentsPresenterTest
+Tue May 15 14:19:52 UTC 2018: Found element on the queue
+Tue May 15 14:19:52 UTC 2018: Updating status
+Tue May 15 14:19:52 UTC 2018: Working
+Tue May 15 14:19:55 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.POAGradePresenterTest
+Tue May 15 14:19:55 UTC 2018: Setting lastTestMethodIndex: 35214
+Tue May 15 14:19:55 UTC 2018: Starting linking
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreHasNotBeenRecordedWhenThereIsNoGradeInGradeBook
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-onlyStudentSelectedDisablesView
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreShouldBeClearedWhenNewSubmissionIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-onTimeSubmissionIsNotLateInView
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-negativeScoreIsAnError
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-setPresentersScoreFromView
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreInViewIsInErrorWhenValueIsNotAnInteger
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreDefaultsToTotalPointsWhenNoStudentIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreHasBeenRecordedShouldBeFalseWhenNewSubmissionIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-unknownStudentClearsUI
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreHasBeenRecordedForSelectedStudentWhenItIsInGradeBook
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-latePOAIsStoredInPresenterWhenMarkedLateInView
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-currentGradeIsDisplayedWhenStudentIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-assignmentWithNoDueDateIsNotLate
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-aScoreOfEmptyStringShouldNotBeAnError
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-onlySubmissionSelectedDisablesView
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-lateSubmissionIsLateInView
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreAndErrorShouldBeClearedWhenNewAssignmentIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreAndErrorShouldBeClearedWhenNewStudentIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-aScoreThatIsGreaterThanTheTotalPointsShouldBeAnError
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreHasBeenRecordedShouldBeFalseWhenNewStudentIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreHasNotBeenRecordedWhenNoStudentIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-onlyAssignmentSelectedDisablesView
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreDefaultsToCurrentGrade
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-scoreDefaultsToTotalPoints
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-currentGradeIsDisplayedWhenGradedSubmissionIsSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-recordingGradeInViewPublishesRecordGradeMessage
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-recordingGradeInViewPublishesDisplayNextPOAMessage
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-submissionStudentAndAssignmentEnablesView
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-assignmentTotalPointsDisplayedInViewWhenAssignmentSelected
+Tue May 15 14:19:55 UTC 2018: No link for: edu.pdx.cs410J.grader.poa.POAGradePresenterTest-errorStateShouldBeClearedWhenNewSubmissionIsSelected
+Tue May 15 14:19:55 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.poa.POAGradePresenterTest
+Tue May 15 14:19:56 UTC 2018: Found element on the queue
+Tue May 15 14:19:56 UTC 2018: Updating status
+Tue May 15 14:19:56 UTC 2018: Working
+Tue May 15 14:19:58 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GradeBookTest
+Tue May 15 14:19:58 UTC 2018: Setting lastTestMethodIndex: 35216
+Tue May 15 14:19:58 UTC 2018: Starting linking
+Tue May 15 14:19:58 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-defaultLetterGradeRanges
+Tue May 15 14:19:58 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-getStudentBySsnForNonExistentStudentReturnsNonPresentOptional
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-defaultLetterGradeRangesAreValid
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-scoreIsInRange
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-scoresAreCorrectlyMappedToLetterGrades
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-rangesAreContiguousNotARange
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-getStudentBySsnForStudentReturnsStudent
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-rangesAreContiguous
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-minimumValueEqualsMaximumValue
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-minimumValueGreaterThanMaximumValue
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-rangesDoNotStartAtZero
+Tue May 15 14:19:59 UTC 2018: No link for: edu.pdx.cs410J.grader.GradeBookTest-rangesDoNotContain100
+Tue May 15 14:19:59 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GradeBookTest
+Tue May 15 14:20:00 UTC 2018: Found element on the queue
+Tue May 15 14:20:00 UTC 2018: Updating status
+Tue May 15 14:20:00 UTC 2018: Working
+Tue May 15 14:20:02 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GwtZipFixerTest
+Tue May 15 14:20:02 UTC 2018: Setting lastTestMethodIndex: 35218
+Tue May 15 14:20:02 UTC 2018: Starting linking
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-javaSourceRemainsAtTopLevel
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-directoryWithResourcesIsMovedToSrcMain
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-srcItIsIgnored
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-dsStoreIsIgnored
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-pomXmlIsMovedToTopLevel
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-pomFileInTargetIsIgnored
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-testEntriesAreIgnored
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-directoryWithJavaSubPackageNamedDomainIsMovedToSrcMain
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-directoryWithWebappIsMovedToSrcMain
+Tue May 15 14:20:02 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-directoryWithJavaIsMovedToSrcMain
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-directoryWithJavaSubPackageNamedDomainRemainsInSrcMain
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-macosDirectoryIsIgnored
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-mainThatIsNotSourceMainIsIgnored
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-pomXmlRemainsAtTopLevel
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-srcTestIsIgnored
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-srcIsAddedToMainDirectory
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-javaSourceIsMovedToTopLevel
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-fileSubmittedWithSubmitProgramIsMovedToSrcMainJava
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-ideaDirectoryIsIgnored
+Tue May 15 14:20:03 UTC 2018: No link for: edu.pdx.cs410J.grader.GwtZipFixerTest-resourcesDirectoryIsMovedToTopLevel
+Tue May 15 14:20:03 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GwtZipFixerTest
+Tue May 15 14:20:04 UTC 2018: Found element on the queue
+Tue May 15 14:20:04 UTC 2018: Updating status
+Tue May 15 14:20:04 UTC 2018: Working
+Tue May 15 14:20:06 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GradesFromD2LTest
+Tue May 15 14:20:06 UTC 2018: Setting lastTestMethodIndex: 35220
+Tue May 15 14:20:06 UTC 2018: Starting linking
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-matchStudentByFirstAndLastName
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-gradeIsSet
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-noStudentInGradebookThatMatchesD2LStudent
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-matchQuizWithDescriptionPrefixThatIsTheSameAsQuizNameInD2L
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-matchStudentByD2LId
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-matchQuizWithPrefixThatIsTheSameAsQuizNameInD2L
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-matchStudentByIdAndD2LId
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-matchStudentDifferentFirstAndLastNameButSameD2LId
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-matchStudentByFirstAndLastNameIgnoringCase
+Tue May 15 14:20:06 UTC 2018: No link for: edu.pdx.cs410J.grader.GradesFromD2LTest-matchQuizWithSameName
+Tue May 15 14:20:06 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.GradesFromD2LTest
+Tue May 15 14:20:07 UTC 2018: Found element on the queue
+Tue May 15 14:20:07 UTC 2018: Updating status
+Tue May 15 14:20:07 UTC 2018: Working
+Tue May 15 14:20:09 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.SubmitTest
+Tue May 15 14:20:09 UTC 2018: Setting lastTestMethodIndex: 35222
+Tue May 15 14:20:09 UTC 2018: Starting linking
+Tue May 15 14:20:09 UTC 2018: No link for: edu.pdx.cs410J.grader.SubmitTest-eightDigitStringIsValidLoginId
+Tue May 15 14:20:10 UTC 2018: No link for: edu.pdx.cs410J.grader.SubmitTest-canSubmitClassesInStudentPackage
+Tue May 15 14:20:10 UTC 2018: No link for: edu.pdx.cs410J.grader.SubmitTest-emailAddressIsInvalidLoginId
+Tue May 15 14:20:10 UTC 2018: No link for: edu.pdx.cs410J.grader.SubmitTest-userNameIsValidLoginId
+Tue May 15 14:20:10 UTC 2018: No link for: edu.pdx.cs410J.grader.SubmitTest-nineDigitStringIsInvalidLoginId
+Tue May 15 14:20:10 UTC 2018: No link for: edu.pdx.cs410J.grader.SubmitTest-canSubmitClassesInSubPackage
+Tue May 15 14:20:10 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.SubmitTest
+Tue May 15 14:20:10 UTC 2018: Found element on the queue
+Tue May 15 14:20:10 UTC 2018: Updating status
+Tue May 15 14:20:10 UTC 2018: Working
+Tue May 15 14:20:13 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.SurveyResponsesFromD2LGeneratorTest
+Tue May 15 14:20:13 UTC 2018: Setting lastTestMethodIndex: 35224
+Tue May 15 14:20:13 UTC 2018: Starting linking
+Tue May 15 14:20:13 UTC 2018: No link for: edu.pdx.cs410J.grader.SurveyResponsesFromD2LGeneratorTest-generateHtmlFromSurveyResponses
+Tue May 15 14:20:13 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.SurveyResponsesFromD2LGeneratorTest
+Tue May 15 14:20:13 UTC 2018: Found element on the queue
+Tue May 15 14:20:13 UTC 2018: Updating status
+Tue May 15 14:20:13 UTC 2018: Working
+Tue May 15 14:20:16 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.StudentXmlTest
+Tue May 15 14:20:16 UTC 2018: Setting lastTestMethodIndex: 35226
+Tue May 15 14:20:16 UTC 2018: Starting linking
+Tue May 15 14:20:16 UTC 2018: No link for: edu.pdx.cs410J.grader.StudentXmlTest-oneSubmissionIsPersistedInXml
+Tue May 15 14:20:16 UTC 2018: No link for: edu.pdx.cs410J.grader.StudentXmlTest-enrolledUndergraduateSectionIsPersistedInXml
+Tue May 15 14:20:16 UTC 2018: No link for: edu.pdx.cs410J.grader.StudentXmlTest-letterGradeIsPersistedInXml
+Tue May 15 14:20:16 UTC 2018: No link for: edu.pdx.cs410J.grader.StudentXmlTest-multipleSubmissionsArePersistedInXml
+Tue May 15 14:20:16 UTC 2018: No link for: edu.pdx.cs410J.grader.StudentXmlTest-enrolledGraduateSectionIsPersistedInXml
+Tue May 15 14:20:16 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.StudentXmlTest
+Tue May 15 14:20:16 UTC 2018: Found element on the queue
+Tue May 15 14:20:16 UTC 2018: Updating status
+Tue May 15 14:20:16 UTC 2018: Working
+Tue May 15 14:20:19 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.D2LGradesCSVParserTest
+Tue May 15 14:20:19 UTC 2018: Setting lastTestMethodIndex: 35228
+Tue May 15 14:20:19 UTC 2018: Starting linking
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-studentInformationIsNotConsideredAQuiz
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-gradesPopulatedWithScores
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-ignoreExpectedColumns
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-doNotIgnoreNonIgnoredColumns
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-guestStudentIsIgnored
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-canParseCsvWithNoStudents
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-firstNameIsThirdColumn
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-quizNameDoNotContainIgnoredColumns
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-gradesPopulatedWithStudents2
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-gradesPopulatedWithStudents
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-gradesPopulatedWithScores2
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-expectedQuizNames
+Tue May 15 14:20:19 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-poundSignAtStartOfUsernameIsIgnored
+Tue May 15 14:20:20 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-usernameIsFirstColumn
+Tue May 15 14:20:20 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-lastNameIsSecondColumn
+Tue May 15 14:20:20 UTC 2018: No link for: edu.pdx.cs410J.grader.D2LGradesCSVParserTest-emailIsFourthColumn
+Tue May 15 14:20:20 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.grader.D2LGradesCSVParserTest
+Tue May 15 14:20:20 UTC 2018: Found element on the queue
+Tue May 15 14:20:20 UTC 2018: Updating status
+Tue May 15 14:20:20 UTC 2018: Working
+Tue May 15 14:20:20 UTC 2018: Create project parser
+Tue May 15 14:20:23 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.airlinegwt.server.AirlineServiceImplTest
+Tue May 15 14:20:23 UTC 2018: Setting lastTestMethodIndex: 35230
+Tue May 15 14:20:23 UTC 2018: Starting linking
+Tue May 15 14:20:23 UTC 2018: No link for: edu.pdx.cs410J.airlinegwt.server.AirlineServiceImplTest-airlineServiceAlwaysThrowsADeclaredException
+Tue May 15 14:20:23 UTC 2018: No link for: edu.pdx.cs410J.airlinegwt.server.AirlineServiceImplTest-airlineServiceAlwaysThrowsAnUndeclaredException
+Tue May 15 14:20:23 UTC 2018: No link for: edu.pdx.cs410J.airlinegwt.server.AirlineServiceImplTest-airlineServiceReturnsExpectedAirline
+Tue May 15 14:20:23 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.airlinegwt.server.AirlineServiceImplTest
+Tue May 15 14:20:24 UTC 2018: Found element on the queue
+Tue May 15 14:20:24 UTC 2018: Updating status
+Tue May 15 14:20:24 UTC 2018: Working
+Tue May 15 14:20:24 UTC 2018: Create project parser
+Tue May 15 14:20:26 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.apptbookgwt.server.PingServiceImplTest
+Tue May 15 14:20:26 UTC 2018: Setting lastTestMethodIndex: 35232
+Tue May 15 14:20:26 UTC 2018: Starting linking
+Tue May 15 14:20:26 UTC 2018: Code found edu.pdx.cs410J.apptbookgwt.server.PingServiceImpl-ping with edu.pdx.cs410J.apptbookgwt.server.PingServiceImplTest-pingReturnsExpectedAirline
+Tue May 15 14:20:26 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.apptbookgwt.server.PingServiceImplTest
+Tue May 15 14:20:27 UTC 2018: Found element on the queue
+Tue May 15 14:20:27 UTC 2018: Updating status
+Tue May 15 14:20:27 UTC 2018: Working
+Tue May 15 14:20:27 UTC 2018: Create project parser
+Tue May 15 14:20:29 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.phonebillgwt.server.PingServiceImplTest
+Tue May 15 14:20:29 UTC 2018: Setting lastTestMethodIndex: 35234
+Tue May 15 14:20:29 UTC 2018: Starting linking
+Tue May 15 14:20:29 UTC 2018: Code found edu.pdx.cs410J.phonebillgwt.server.PingServiceImpl-ping with edu.pdx.cs410J.phonebillgwt.server.PingServiceImplTest-pingReturnsExpectedAirline
+Tue May 15 14:20:29 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.phonebillgwt.server.PingServiceImplTest
+Tue May 15 14:20:30 UTC 2018: Found element on the queue
+Tue May 15 14:20:30 UTC 2018: Updating status
+Tue May 15 14:20:30 UTC 2018: Working
+Tue May 15 14:20:30 UTC 2018: Create project parser
+Tue May 15 14:20:32 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest
+Tue May 15 14:20:32 UTC 2018: Setting lastTestMethodIndex: 35236
+Tue May 15 14:20:32 UTC 2018: Starting linking
+Tue May 15 14:20:32 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testInitialView
+Tue May 15 14:20:32 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testQuotientIsSet
+Tue May 15 14:20:32 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testInvalidDividend
+Tue May 15 14:20:33 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testErrorMessageIsSet
+Tue May 15 14:20:33 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testInvalidDivisor
+Tue May 15 14:20:33 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testValidDividend
+Tue May 15 14:20:33 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testValidDivisor
+Tue May 15 14:20:33 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testServiceInvocation
+Tue May 15 14:20:33 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest-testValidDivisorAndDividend
+Tue May 15 14:20:33 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.gwt.client.mvp.DivisionPresenterTest
+Tue May 15 14:20:33 UTC 2018: Found element on the queue
+Tue May 15 14:20:33 UTC 2018: Updating status
+Tue May 15 14:20:33 UTC 2018: Working
+Tue May 15 14:20:36 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.gwt.client.mvp.ExceptionPresenterTest
+Tue May 15 14:20:36 UTC 2018: Setting lastTestMethodIndex: 35238
+Tue May 15 14:20:36 UTC 2018: Starting linking
+Tue May 15 14:20:36 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.ExceptionPresenterTest-testExceptionViewDisplayed
+Tue May 15 14:20:36 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.gwt.client.mvp.ExceptionPresenterTest
+Tue May 15 14:20:36 UTC 2018: Found element on the queue
+Tue May 15 14:20:36 UTC 2018: Updating status
+Tue May 15 14:20:36 UTC 2018: Working
+Tue May 15 14:20:39 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.gwt.client.mvp.MovieListPresenterTest
+Tue May 15 14:20:39 UTC 2018: Setting lastTestMethodIndex: 35240
+Tue May 15 14:20:39 UTC 2018: Starting linking
+Tue May 15 14:20:39 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.MovieListPresenterTest-testDisplayMovieEventFiredOnSelection
+Tue May 15 14:20:39 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.MovieListPresenterTest-testAllMovieTitlesDisplayed
+Tue May 15 14:20:39 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.gwt.client.mvp.MovieListPresenterTest
+Tue May 15 14:20:39 UTC 2018: Found element on the queue
+Tue May 15 14:20:39 UTC 2018: Updating status
+Tue May 15 14:20:39 UTC 2018: Working
+Tue May 15 14:20:42 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.gwt.client.mvp.MovieEditorPresenterTest
+Tue May 15 14:20:42 UTC 2018: Setting lastTestMethodIndex: 35242
+Tue May 15 14:20:42 UTC 2018: Starting linking
+Tue May 15 14:20:42 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.MovieEditorPresenterTest-testCharacters
+Tue May 15 14:20:42 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.MovieEditorPresenterTest-testTitleAndYear
+Tue May 15 14:20:42 UTC 2018: No link for: edu.pdx.cs410J.gwt.client.mvp.MovieEditorPresenterTest-testNewCharacter
+Tue May 15 14:20:42 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.gwt.client.mvp.MovieEditorPresenterTest
+Tue May 15 14:20:43 UTC 2018: Found element on the queue
+Tue May 15 14:20:43 UTC 2018: Updating status
+Tue May 15 14:20:43 UTC 2018: Working
+Tue May 15 14:20:43 UTC 2018: Create project parser
+Tue May 15 14:20:45 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.airlineweb.AirlineServletTest
+Tue May 15 14:20:45 UTC 2018: Setting lastTestMethodIndex: 35244
+Tue May 15 14:20:45 UTC 2018: Starting linking
+Tue May 15 14:20:45 UTC 2018: No link for: edu.pdx.cs410J.airlineweb.AirlineServletTest-initiallyServletContainsNoKeyValueMappings
+Tue May 15 14:20:45 UTC 2018: No link for: edu.pdx.cs410J.airlineweb.AirlineServletTest-addOneMapping
+Tue May 15 14:20:45 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.airlineweb.AirlineServletTest
+Tue May 15 14:20:46 UTC 2018: Found element on the queue
+Tue May 15 14:20:46 UTC 2018: Updating status
+Tue May 15 14:20:46 UTC 2018: Working
+Tue May 15 14:20:48 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.airlineweb.MessagesTest
+Tue May 15 14:20:48 UTC 2018: Setting lastTestMethodIndex: 35246
+Tue May 15 14:20:48 UTC 2018: Starting linking
+Tue May 15 14:20:48 UTC 2018: No link for: edu.pdx.cs410J.airlineweb.MessagesTest-canParseFormattedKeyValueWithoutLeadingSpaces
+Tue May 15 14:20:48 UTC 2018: No link for: edu.pdx.cs410J.airlineweb.MessagesTest-malformedKeyAndPairReturnsNull
+Tue May 15 14:20:48 UTC 2018: No link for: edu.pdx.cs410J.airlineweb.MessagesTest-canParseFormattedKeyAndValuePair
+Tue May 15 14:20:48 UTC 2018: No link for: edu.pdx.cs410J.airlineweb.MessagesTest-canParseFormattedKeyValueMap
+Tue May 15 14:20:48 UTC 2018: No link for: edu.pdx.cs410J.airlineweb.MessagesTest-nullValueIsParsedAsNull
+Tue May 15 14:20:48 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.airlineweb.MessagesTest
+Tue May 15 14:20:49 UTC 2018: Found element on the queue
+Tue May 15 14:20:49 UTC 2018: Updating status
+Tue May 15 14:20:49 UTC 2018: Working
+Tue May 15 14:20:49 UTC 2018: Create project parser
+Tue May 15 14:20:51 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.airline.FlightTest
+Tue May 15 14:20:51 UTC 2018: Setting lastTestMethodIndex: 35248
+Tue May 15 14:20:51 UTC 2018: Starting linking
+Tue May 15 14:20:51 UTC 2018: Code found edu.pdx.cs410J.airline.Flight-getArrivalString with edu.pdx.cs410J.airline.FlightTest-getArrivalStringNeedsToBeImplemented
+Tue May 15 14:20:51 UTC 2018: No code found edu.pdx.cs410J.airline.Flight-getDeparture with edu.pdx.cs410J.airline.FlightTest-forProject1ItIsOkayIfGetDepartureTimeReturnsNull
+Tue May 15 14:20:51 UTC 2018: No link for: edu.pdx.cs410J.airline.FlightTest-initiallyAllFlightsHaveTheSameNumber
+Tue May 15 14:20:52 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.airline.FlightTest
+Tue May 15 14:20:52 UTC 2018: Found element on the queue
+Tue May 15 14:20:52 UTC 2018: Updating status
+Tue May 15 14:20:52 UTC 2018: Working
+Tue May 15 14:20:52 UTC 2018: Create project parser
+Tue May 15 14:20:55 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.apptbookweb.AppointmentBookServletTest
+Tue May 15 14:20:55 UTC 2018: Setting lastTestMethodIndex: 35250
+Tue May 15 14:20:55 UTC 2018: Starting linking
+Tue May 15 14:20:55 UTC 2018: No link for: edu.pdx.cs410J.apptbookweb.AppointmentBookServletTest-initiallyServletContainsNoKeyValueMappings
+Tue May 15 14:20:55 UTC 2018: No link for: edu.pdx.cs410J.apptbookweb.AppointmentBookServletTest-addOneMapping
+Tue May 15 14:20:55 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.apptbookweb.AppointmentBookServletTest
+Tue May 15 14:20:55 UTC 2018: Found element on the queue
+Tue May 15 14:20:55 UTC 2018: Updating status
+Tue May 15 14:20:55 UTC 2018: Working
+Tue May 15 14:20:58 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.apptbookweb.MessagesTest
+Tue May 15 14:20:58 UTC 2018: Setting lastTestMethodIndex: 35252
+Tue May 15 14:20:58 UTC 2018: Starting linking
+Tue May 15 14:20:58 UTC 2018: No link for: edu.pdx.cs410J.apptbookweb.MessagesTest-malformedKeyAndPairReturnsNull
+Tue May 15 14:20:58 UTC 2018: No link for: edu.pdx.cs410J.apptbookweb.MessagesTest-canParseFormattedKeyValueWithoutLeadingSpaces
+Tue May 15 14:20:58 UTC 2018: No link for: edu.pdx.cs410J.apptbookweb.MessagesTest-canParseFormattedKeyAndValuePair
+Tue May 15 14:20:58 UTC 2018: No link for: edu.pdx.cs410J.apptbookweb.MessagesTest-canParseFormattedKeyValueMap
+Tue May 15 14:20:58 UTC 2018: No link for: edu.pdx.cs410J.apptbookweb.MessagesTest-nullValueIsParsedAsNull
+Tue May 15 14:20:58 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.apptbookweb.MessagesTest
+Tue May 15 14:20:58 UTC 2018: Found element on the queue
+Tue May 15 14:20:58 UTC 2018: Updating status
+Tue May 15 14:20:58 UTC 2018: Working
+Tue May 15 14:20:58 UTC 2018: Create project parser
+Tue May 15 14:21:01 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.apptbook.AppointmentTest
+Tue May 15 14:21:01 UTC 2018: Setting lastTestMethodIndex: 35254
+Tue May 15 14:21:01 UTC 2018: Starting linking
+Tue May 15 14:21:01 UTC 2018: No code found edu.pdx.cs410J.apptbook.Appointment-getBeginTime with edu.pdx.cs410J.apptbook.AppointmentTest-forProject1ItIsOkayIfGetBeginTimeReturnsNull
+Tue May 15 14:21:01 UTC 2018: Code found edu.pdx.cs410J.apptbook.Appointment-getBeginTimeString with edu.pdx.cs410J.apptbook.AppointmentTest-getBeginTimeStringNeedsToBeImplemented
+Tue May 15 14:21:01 UTC 2018: No link for: edu.pdx.cs410J.apptbook.AppointmentTest-initiallyAllAppointmentsHaveTheSameDescription
+Tue May 15 14:21:01 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.apptbook.AppointmentTest
+Tue May 15 14:21:01 UTC 2018: Found element on the queue
+Tue May 15 14:21:01 UTC 2018: Updating status
+Tue May 15 14:21:02 UTC 2018: Working
+Tue May 15 14:21:02 UTC 2018: Create project parser
+Tue May 15 14:21:04 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.phonebillweb.PhoneBillServletTest
+Tue May 15 14:21:04 UTC 2018: Setting lastTestMethodIndex: 35256
+Tue May 15 14:21:04 UTC 2018: Starting linking
+Tue May 15 14:21:04 UTC 2018: No link for: edu.pdx.cs410J.phonebillweb.PhoneBillServletTest-addOneMapping
+Tue May 15 14:21:04 UTC 2018: No link for: edu.pdx.cs410J.phonebillweb.PhoneBillServletTest-initiallyServletContainsNoKeyValueMappings
+Tue May 15 14:21:04 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.phonebillweb.PhoneBillServletTest
+Tue May 15 14:21:05 UTC 2018: Found element on the queue
+Tue May 15 14:21:05 UTC 2018: Updating status
+Tue May 15 14:21:05 UTC 2018: Working
+Tue May 15 14:21:07 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.phonebillweb.MessagesTest
+Tue May 15 14:21:07 UTC 2018: Setting lastTestMethodIndex: 35258
+Tue May 15 14:21:07 UTC 2018: Starting linking
+Tue May 15 14:21:07 UTC 2018: No link for: edu.pdx.cs410J.phonebillweb.MessagesTest-nullValueIsParsedAsNull
+Tue May 15 14:21:07 UTC 2018: No link for: edu.pdx.cs410J.phonebillweb.MessagesTest-canParseFormattedKeyValueMap
+Tue May 15 14:21:07 UTC 2018: No link for: edu.pdx.cs410J.phonebillweb.MessagesTest-canParseFormattedKeyValueWithoutLeadingSpaces
+Tue May 15 14:21:07 UTC 2018: No link for: edu.pdx.cs410J.phonebillweb.MessagesTest-malformedKeyAndPairReturnsNull
+Tue May 15 14:21:07 UTC 2018: No link for: edu.pdx.cs410J.phonebillweb.MessagesTest-canParseFormattedKeyAndValuePair
+Tue May 15 14:21:08 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.phonebillweb.MessagesTest
+Tue May 15 14:21:08 UTC 2018: Found element on the queue
+Tue May 15 14:21:08 UTC 2018: Updating status
+Tue May 15 14:21:08 UTC 2018: Working
+Tue May 15 14:21:08 UTC 2018: Create project parser
+Tue May 15 14:21:11 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.phonebill.PhoneCallTest
+Tue May 15 14:21:11 UTC 2018: Setting lastTestMethodIndex: 35260
+Tue May 15 14:21:11 UTC 2018: Starting linking
+Tue May 15 14:21:11 UTC 2018: Code found edu.pdx.cs410J.phonebill.PhoneCall-getStartTimeString with edu.pdx.cs410J.phonebill.PhoneCallTest-getStartTimeStringNeedsToBeImplemented
+Tue May 15 14:21:11 UTC 2018: No code found edu.pdx.cs410J.phonebill.PhoneCall-getStartTime with edu.pdx.cs410J.phonebill.PhoneCallTest-forProject1ItIsOkayIfGetStartTimeReturnsNull
+Tue May 15 14:21:11 UTC 2018: No link for: edu.pdx.cs410J.phonebill.PhoneCallTest-initiallyAllPhoneCallsHaveTheSameCallee
+Tue May 15 14:21:11 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.phonebill.PhoneCallTest
+Tue May 15 14:21:11 UTC 2018: Found element on the queue
+Tue May 15 14:21:11 UTC 2018: Updating status
+Tue May 15 14:21:11 UTC 2018: Working
+Tue May 15 14:21:11 UTC 2018: Create project parser
+Tue May 15 14:21:14 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.student.StudentTest
+Tue May 15 14:21:14 UTC 2018: Setting lastTestMethodIndex: 35262
+Tue May 15 14:21:14 UTC 2018: Starting linking
+Tue May 15 14:21:14 UTC 2018: No link for: edu.pdx.cs410J.student.StudentTest-studentNamedPatIsNamedPat
+Tue May 15 14:21:14 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.student.StudentTest
+Tue May 15 14:21:14 UTC 2018: Found element on the queue
+Tue May 15 14:21:14 UTC 2018: Updating status
+Tue May 15 14:21:14 UTC 2018: Working
+Tue May 15 14:21:14 UTC 2018: Create project parser
+Tue May 15 14:21:17 UTC 2018: Start DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.di.CreditCardDatabaseTest
+Tue May 15 14:21:17 UTC 2018: Setting lastTestMethodIndex: 35264
+Tue May 15 14:21:17 UTC 2018: Starting linking
+Tue May 15 14:21:17 UTC 2018: Code found edu.pdx.cs410J.di.CreditCardDatabase-setBalance with edu.pdx.cs410J.di.CreditCardDatabaseTest-setBalanceWritesToFile
+Tue May 15 14:21:17 UTC 2018: Linking done for DavidWhitlock__PortlandStateJava test class edu.pdx.cs410J.di.CreditCardDatabaseTest

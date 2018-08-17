@@ -1,0 +1,734 @@
+Wed May 16 02:05:22 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:05:23 UTC 2018: Starting
+Wed May 16 02:05:23 UTC 2018: Found element on the queue
+Wed May 16 02:05:23 UTC 2018: Updating status
+Wed May 16 02:05:23 UTC 2018: Working
+Wed May 16 02:05:23 UTC 2018: Create project parser
+Wed May 16 02:05:48 UTC 2018: Create slicer
+Wed May 16 02:05:51 UTC 2018: Create call graph
+Wed May 16 02:05:56 UTC 2018: Create point analysis
+Wed May 16 02:05:56 UTC 2018: Create call graph done
+Wed May 16 02:05:56 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.impl.OSGi.JxseOSGiFelixFrameworkLauncherTest
+Wed May 16 02:05:56 UTC 2018: Setting lastTestMethodIndex: 56467
+Wed May 16 02:05:56 UTC 2018: Starting linking
+Wed May 16 02:05:56 UTC 2018: Code found net.jxse.impl.OSGi.JxseOSGiFelixFrameworkLauncher-getOsgiFrameworkInstance with net.jxse.impl.OSGi.JxseOSGiFelixFrameworkLauncherTest-testGetOsgiFrameworkInstance
+Wed May 16 02:05:57 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.impl.OSGi.JxseOSGiFelixFrameworkLauncherTest
+Wed May 16 02:05:57 UTC 2018: Found element on the queue
+Wed May 16 02:05:57 UTC 2018: Updating status
+Wed May 16 02:05:57 UTC 2018: Working
+Wed May 16 02:05:59 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.configuration.JxseMulticastTransportConfigurationTest
+Wed May 16 02:05:59 UTC 2018: Setting lastTestMethodIndex: 56469
+Wed May 16 02:05:59 UTC 2018: Starting linking
+Wed May 16 02:05:59 UTC 2018: Code found net.jxse.configuration.JxseMulticastTransportConfiguration-getMulticastAddress with net.jxse.configuration.JxseMulticastTransportConfigurationTest-testSetGetMulticastAddress
+Wed May 16 02:06:00 UTC 2018: Code found net.jxse.configuration.JxseMulticastTransportConfiguration-getMulticastPacketSize with net.jxse.configuration.JxseMulticastTransportConfigurationTest-testSetGetMulticastPacketSize
+Wed May 16 02:06:00 UTC 2018: Code found net.jxse.configuration.JxseMulticastTransportConfiguration-getMulticastPort with net.jxse.configuration.JxseMulticastTransportConfigurationTest-testSetGetMulticastPort
+Wed May 16 02:06:01 UTC 2018: Code found net.jxse.configuration.JxseMulticastTransportConfiguration-setMulticastInterface with net.jxse.configuration.JxseMulticastTransportConfigurationTest-testSetMulticastInterface
+Wed May 16 02:06:01 UTC 2018: Code found net.jxse.configuration.JxseMulticastTransportConfiguration-getTransportName with net.jxse.configuration.JxseMulticastTransportConfigurationTest-testGetTransportName
+Wed May 16 02:06:01 UTC 2018: Code found net.jxse.configuration.JxseMulticastTransportConfiguration-getDefaultMulticastTransportConfiguration with net.jxse.configuration.JxseMulticastTransportConfigurationTest-testGetDefaultMulticastTransportConfiguration
+Wed May 16 02:06:02 UTC 2018: No link for: net.jxse.configuration.JxseMulticastTransportConfigurationTest-testStoreLoadFromToXML
+Wed May 16 02:06:02 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.configuration.JxseMulticastTransportConfigurationTest
+Wed May 16 02:06:02 UTC 2018: Found element on the queue
+Wed May 16 02:06:02 UTC 2018: Updating status
+Wed May 16 02:06:02 UTC 2018: Working
+Wed May 16 02:06:05 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.configuration.JxseTcpTransportConfigurationTest
+Wed May 16 02:06:05 UTC 2018: Setting lastTestMethodIndex: 56472
+Wed May 16 02:06:05 UTC 2018: Starting linking
+Wed May 16 02:06:05 UTC 2018: Code found net.jxse.configuration.JxseTcpTransportConfiguration-getTcpOutgoing with net.jxse.configuration.JxseTcpTransportConfigurationTest-testSetGetTcpOutgoing
+Wed May 16 02:06:05 UTC 2018: Code found net.jxse.configuration.JxseTcpTransportConfiguration-getTcpPort with net.jxse.configuration.JxseTcpTransportConfigurationTest-testSetGetTcpPort
+Wed May 16 02:06:06 UTC 2018: Code found net.jxse.configuration.JxseTcpTransportConfiguration-getTransportName with net.jxse.configuration.JxseTcpTransportConfigurationTest-testGetTransportName
+Wed May 16 02:06:06 UTC 2018: Code found net.jxse.configuration.JxseTcpTransportConfiguration-getTcpStartPort with net.jxse.configuration.JxseTcpTransportConfigurationTest-testSetGetTcpStartPort
+Wed May 16 02:06:06 UTC 2018: Code found net.jxse.configuration.JxseTcpTransportConfiguration-getTcpEndPort with net.jxse.configuration.JxseTcpTransportConfigurationTest-testSetGetTcpEndPort
+Wed May 16 02:06:07 UTC 2018: Code found net.jxse.configuration.JxseTcpTransportConfiguration-getDefaultTcpTransportConfiguration with net.jxse.configuration.JxseTcpTransportConfigurationTest-testGetDefaultTcpTransportConfiguration
+Wed May 16 02:06:07 UTC 2018: Code found net.jxse.configuration.JxseTcpTransportConfiguration-getTcpPublicAddress with net.jxse.configuration.JxseTcpTransportConfigurationTest-testSetGetTcpPublicAddress
+Wed May 16 02:06:07 UTC 2018: Code found net.jxse.configuration.JxseTcpTransportConfiguration-getTcpIncoming with net.jxse.configuration.JxseTcpTransportConfigurationTest-testSetGetTcpIncoming
+Wed May 16 02:06:07 UTC 2018: No link for: net.jxse.configuration.JxseTcpTransportConfigurationTest-testStoreLoadFromToXML
+Wed May 16 02:06:08 UTC 2018: No link for: net.jxse.configuration.JxseTcpTransportConfigurationTest-testSetGetTcpMulticastAddress
+Wed May 16 02:06:08 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.configuration.JxseTcpTransportConfigurationTest
+Wed May 16 02:06:08 UTC 2018: Found element on the queue
+Wed May 16 02:06:08 UTC 2018: Updating status
+Wed May 16 02:06:08 UTC 2018: Working
+Wed May 16 02:06:11 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.configuration.JxsePeerConfigurationTest
+Wed May 16 02:06:11 UTC 2018: Setting lastTestMethodIndex: 56474
+Wed May 16 02:06:11 UTC 2018: Starting linking
+Wed May 16 02:06:11 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getHttp2TransportConfiguration with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetHttp2TransportConfiguration
+Wed May 16 02:06:11 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getSeedingRendezvous with net.jxse.configuration.JxsePeerConfigurationTest-testAddGetSeedingRendezvous
+Wed May 16 02:06:11 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getUseOnlyRdvSeeds with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetUseOnlyRdvSeeds
+Wed May 16 02:06:12 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getAllSeedingRendezvous with net.jxse.configuration.JxsePeerConfigurationTest-testGetAllSeedingRendezvous
+Wed May 16 02:06:12 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getInfrastructureID with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetInfrastructureID
+Wed May 16 02:06:12 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getTcpEnabled with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetTcpEnabled
+Wed May 16 02:06:13 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getAllSeedRendezvous with net.jxse.configuration.JxsePeerConfigurationTest-testGetAllSeedRendezvous
+Wed May 16 02:06:13 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getMulticastTransportConfiguration with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetMulticastTransportConfiguration
+Wed May 16 02:06:13 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getUseOnlyRelaySeeds with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetUseOnlyRelaySeeds
+Wed May 16 02:06:13 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getPeerID with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetPeerID
+Wed May 16 02:06:14 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getMulticastEnabled with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetMulticastEnabled
+Wed May 16 02:06:14 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-clearSeedingRendezvous with net.jxse.configuration.JxsePeerConfigurationTest-testClearSeedingRendezvous
+Wed May 16 02:06:14 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-clearSeedRelays with net.jxse.configuration.JxsePeerConfigurationTest-testClearSeedRelays
+Wed May 16 02:06:15 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getSeedRelay with net.jxse.configuration.JxsePeerConfigurationTest-testAddGetSeedRelay
+Wed May 16 02:06:15 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getSeedingRelay with net.jxse.configuration.JxsePeerConfigurationTest-testAddGetSeedingRelay
+Wed May 16 02:06:15 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getAllSeedRelays with net.jxse.configuration.JxsePeerConfigurationTest-testGetAllSeedRelays
+Wed May 16 02:06:16 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getConnectionMode with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetConnectionMode
+Wed May 16 02:06:16 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getKeyStoreLocation with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetKeyStoreLocation
+Wed May 16 02:06:16 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-clearSeedingRelays with net.jxse.configuration.JxsePeerConfigurationTest-testClearSeedingRelays
+Wed May 16 02:06:16 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getPeerInstanceName with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetPeerInstanceName
+Wed May 16 02:06:17 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getPersistenceLocation with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetPersistenceLocation
+Wed May 16 02:06:17 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getAllSeedingRelays with net.jxse.configuration.JxsePeerConfigurationTest-testGetAllSeedingRelays
+Wed May 16 02:06:17 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getTcpTransportConfiguration with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetTcpTransportConfiguration
+Wed May 16 02:06:18 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getHttpTransportConfiguration with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetHttpTransportConfiguration
+Wed May 16 02:06:18 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-clearSeedRendezvous with net.jxse.configuration.JxsePeerConfigurationTest-testClearSeedRendezvous
+Wed May 16 02:06:18 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getRelayMaxClients with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetRelayMaxClients
+Wed May 16 02:06:19 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getRendezvousMaxClients with net.jxse.configuration.JxsePeerConfigurationTest-testSetGetRendezvousMaxClients
+Wed May 16 02:06:19 UTC 2018: Code found net.jxse.configuration.JxsePeerConfiguration-getSeedRendezvous with net.jxse.configuration.JxsePeerConfigurationTest-testAddGetSeedRendezvous
+Wed May 16 02:06:19 UTC 2018: No link for: net.jxse.configuration.JxsePeerConfigurationTest-testLoadStoreFromToXML
+Wed May 16 02:06:20 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.configuration.JxsePeerConfigurationTest
+Wed May 16 02:06:20 UTC 2018: Found element on the queue
+Wed May 16 02:06:20 UTC 2018: Updating status
+Wed May 16 02:06:20 UTC 2018: Working
+Wed May 16 02:06:23 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.configuration.JxseHttp2TransportConfigurationTest
+Wed May 16 02:06:23 UTC 2018: Setting lastTestMethodIndex: 56479
+Wed May 16 02:06:23 UTC 2018: Starting linking
+Wed May 16 02:06:23 UTC 2018: Code found net.jxse.configuration.JxseHttp2TransportConfiguration-getHttp2Port with net.jxse.configuration.JxseHttp2TransportConfigurationTest-testSetGetHttp2Port
+Wed May 16 02:06:23 UTC 2018: Code found net.jxse.configuration.JxseHttp2TransportConfiguration-getDefaultHttp2TransportConfiguration with net.jxse.configuration.JxseHttp2TransportConfigurationTest-testGetDefaultHttp2TransportConfiguration
+Wed May 16 02:06:23 UTC 2018: Code found net.jxse.configuration.JxseHttp2TransportConfiguration-getHttp2PublicAddress with net.jxse.configuration.JxseHttp2TransportConfigurationTest-testSetGetHttp2PublicAddress
+Wed May 16 02:06:24 UTC 2018: Code found net.jxse.configuration.JxseHttp2TransportConfiguration-getTransportName with net.jxse.configuration.JxseHttp2TransportConfigurationTest-testGetTransportName
+Wed May 16 02:06:24 UTC 2018: Code found net.jxse.configuration.JxseHttp2TransportConfiguration-getHttp2Incoming with net.jxse.configuration.JxseHttp2TransportConfigurationTest-testSetGetHttp2Incoming
+Wed May 16 02:06:24 UTC 2018: Code found net.jxse.configuration.JxseHttp2TransportConfiguration-getHttp2Outgoing with net.jxse.configuration.JxseHttp2TransportConfigurationTest-testSetGetHttp2Outgoing
+Wed May 16 02:06:24 UTC 2018: Code found net.jxse.configuration.JxseHttp2TransportConfiguration-getHttp2InterfaceAddress with net.jxse.configuration.JxseHttp2TransportConfigurationTest-testSetGetHttp2InterfaceAddress
+Wed May 16 02:06:25 UTC 2018: No link for: net.jxse.configuration.JxseHttp2TransportConfigurationTest-testStoreLoadFromToXML
+Wed May 16 02:06:25 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.configuration.JxseHttp2TransportConfigurationTest
+Wed May 16 02:06:26 UTC 2018: Found element on the queue
+Wed May 16 02:06:26 UTC 2018: Updating status
+Wed May 16 02:06:26 UTC 2018: Working
+Wed May 16 02:06:28 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.configuration.JxseConfigurationToolTest
+Wed May 16 02:06:28 UTC 2018: Setting lastTestMethodIndex: 56481
+Wed May 16 02:06:28 UTC 2018: Starting linking
+Wed May 16 02:06:28 UTC 2018: Code found net.jxse.configuration.JxseConfigurationTool-getConfiguredNetworkManager with net.jxse.configuration.JxseConfigurationToolTest-testGetConfiguredNetworkManager_2
+Wed May 16 02:06:28 UTC 2018: Code found net.jxse.configuration.JxseConfigurationTool-getJxsePeerConfigurationFromNetworkManager with net.jxse.configuration.JxseConfigurationToolTest-testGetJxsePeerConfigurationFromNetworkManager
+Wed May 16 02:06:29 UTC 2018: Code found net.jxse.configuration.JxseConfigurationTool-getConfiguredNetworkManager with net.jxse.configuration.JxseConfigurationToolTest-testGetConfiguredNetworkManager
+Wed May 16 02:06:29 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.configuration.JxseConfigurationToolTest
+Wed May 16 02:06:29 UTC 2018: Found element on the queue
+Wed May 16 02:06:29 UTC 2018: Updating status
+Wed May 16 02:06:29 UTC 2018: Working
+Wed May 16 02:06:32 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.configuration.JxseHttpTransportConfigurationTest
+Wed May 16 02:06:32 UTC 2018: Setting lastTestMethodIndex: 56483
+Wed May 16 02:06:32 UTC 2018: Starting linking
+Wed May 16 02:06:32 UTC 2018: Code found net.jxse.configuration.JxseHttpTransportConfiguration-getTransportName with net.jxse.configuration.JxseHttpTransportConfigurationTest-testGetTransportName
+Wed May 16 02:06:32 UTC 2018: Code found net.jxse.configuration.JxseHttpTransportConfiguration-getHttpIncoming with net.jxse.configuration.JxseHttpTransportConfigurationTest-testSetGetHttpIncoming
+Wed May 16 02:06:32 UTC 2018: Code found net.jxse.configuration.JxseHttpTransportConfiguration-getHttpPort with net.jxse.configuration.JxseHttpTransportConfigurationTest-testSetGetHttpPort
+Wed May 16 02:06:33 UTC 2018: Code found net.jxse.configuration.JxseHttpTransportConfiguration-getDefaultHttpTransportConfiguration with net.jxse.configuration.JxseHttpTransportConfigurationTest-testGetDefaultHttpTransportConfiguration
+Wed May 16 02:06:33 UTC 2018: Code found net.jxse.configuration.JxseHttpTransportConfiguration-getHttpOutgoing with net.jxse.configuration.JxseHttpTransportConfigurationTest-testSetGetHttpOutgoing
+Wed May 16 02:06:33 UTC 2018: Code found net.jxse.configuration.JxseHttpTransportConfiguration-getHttpPublicAddress with net.jxse.configuration.JxseHttpTransportConfigurationTest-testSetGetHttpPublicAddress
+Wed May 16 02:06:34 UTC 2018: Code found net.jxse.configuration.JxseHttpTransportConfiguration-getHttpInterfaceAddress with net.jxse.configuration.JxseHttpTransportConfigurationTest-testSetGetHttpInterfaceAddress
+Wed May 16 02:06:34 UTC 2018: No link for: net.jxse.configuration.JxseHttpTransportConfigurationTest-testStoreLoadFromToXML
+Wed May 16 02:06:34 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.configuration.JxseHttpTransportConfigurationTest
+Wed May 16 02:06:35 UTC 2018: Found element on the queue
+Wed May 16 02:06:35 UTC 2018: Updating status
+Wed May 16 02:06:35 UTC 2018: Working
+Wed May 16 02:06:37 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.JxseInstantiatorTest
+Wed May 16 02:06:37 UTC 2018: Setting lastTestMethodIndex: 56486
+Wed May 16 02:06:37 UTC 2018: Starting linking
+Wed May 16 02:06:37 UTC 2018: Code found net.jxse.JxseInstantiator-instantiate with net.jxse.JxseInstantiatorTest-testInstantiate
+Wed May 16 02:06:38 UTC 2018: Code found net.jxse.JxseInstantiator-instantiate with net.jxse.JxseInstantiatorTest-testInstantiate_2
+Wed May 16 02:06:38 UTC 2018: Code found net.jxse.JxseInstantiator-instantiateWithNoParameterConstructor with net.jxse.JxseInstantiatorTest-testInstantiateWithNoParameterConstructor
+Wed May 16 02:06:38 UTC 2018: Code found net.jxse.JxseInstantiator-forName with net.jxse.JxseInstantiatorTest-testForName
+Wed May 16 02:06:39 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.JxseInstantiatorTest
+Wed May 16 02:06:39 UTC 2018: Found element on the queue
+Wed May 16 02:06:39 UTC 2018: Updating status
+Wed May 16 02:06:39 UTC 2018: Working
+Wed May 16 02:06:41 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.OSGi.JxseOSGiFrameworkTest
+Wed May 16 02:06:41 UTC 2018: Setting lastTestMethodIndex: 56489
+Wed May 16 02:06:41 UTC 2018: Starting linking
+Wed May 16 02:06:41 UTC 2018: Code found net.jxse.OSGi.JxseOSGiFramework-getServiceTracker with net.jxse.OSGi.JxseOSGiFrameworkTest-testGetServiceTracker
+Wed May 16 02:06:42 UTC 2018: No link for: net.jxse.OSGi.JxseOSGiFrameworkTest-testOsgiFrameworkInstance
+Wed May 16 02:06:42 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.OSGi.JxseOSGiFrameworkTest
+Wed May 16 02:06:43 UTC 2018: Found element on the queue
+Wed May 16 02:06:43 UTC 2018: Updating status
+Wed May 16 02:06:43 UTC 2018: Working
+Wed May 16 02:06:45 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.systemtests.colocated.AdHocHttpCommsTest
+Wed May 16 02:06:45 UTC 2018: Setting lastTestMethodIndex: 56491
+Wed May 16 02:06:45 UTC 2018: Starting linking
+Wed May 16 02:06:45 UTC 2018: No link for: net.jxse.systemtests.colocated.AdHocHttpCommsTest-testComms
+Wed May 16 02:06:45 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.systemtests.colocated.AdHocHttpCommsTest
+Wed May 16 02:06:46 UTC 2018: Found element on the queue
+Wed May 16 02:06:46 UTC 2018: Updating status
+Wed May 16 02:06:46 UTC 2018: Working
+Wed May 16 02:06:48 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.systemtests.colocated.AdHocTcpCommsTest
+Wed May 16 02:06:48 UTC 2018: Setting lastTestMethodIndex: 56492
+Wed May 16 02:06:48 UTC 2018: Starting linking
+Wed May 16 02:06:48 UTC 2018: No link for: net.jxse.systemtests.colocated.AdHocTcpCommsTest-testComms
+Wed May 16 02:06:49 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.systemtests.colocated.AdHocTcpCommsTest
+Wed May 16 02:06:49 UTC 2018: Found element on the queue
+Wed May 16 02:06:49 UTC 2018: Updating status
+Wed May 16 02:06:49 UTC 2018: Working
+Wed May 16 02:06:52 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.systemtests.colocated.pipes.BlockingPipeAcceptTest
+Wed May 16 02:06:52 UTC 2018: Setting lastTestMethodIndex: 56494
+Wed May 16 02:06:52 UTC 2018: Starting linking
+Wed May 16 02:06:52 UTC 2018: No link for: net.jxse.systemtests.colocated.pipes.BlockingPipeAcceptTest-testBlockingAccept
+Wed May 16 02:06:52 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.systemtests.colocated.pipes.BlockingPipeAcceptTest
+Wed May 16 02:06:53 UTC 2018: Found element on the queue
+Wed May 16 02:06:53 UTC 2018: Updating status
+Wed May 16 02:06:53 UTC 2018: Working
+Wed May 16 02:06:55 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.systemtests.colocated.RelayedTcpCommsTest
+Wed May 16 02:06:55 UTC 2018: Setting lastTestMethodIndex: 56495
+Wed May 16 02:06:55 UTC 2018: Starting linking
+Wed May 16 02:06:55 UTC 2018: No link for: net.jxse.systemtests.colocated.RelayedTcpCommsTest-testComms
+Wed May 16 02:06:55 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.systemtests.colocated.RelayedTcpCommsTest
+Wed May 16 02:06:56 UTC 2018: Found element on the queue
+Wed May 16 02:06:56 UTC 2018: Updating status
+Wed May 16 02:06:56 UTC 2018: Working
+Wed May 16 02:06:58 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.systemtests.colocated.RelayedHttpCommsTest
+Wed May 16 02:06:58 UTC 2018: Setting lastTestMethodIndex: 56497
+Wed May 16 02:06:58 UTC 2018: Starting linking
+Wed May 16 02:06:59 UTC 2018: No link for: net.jxse.systemtests.colocated.RelayedHttpCommsTest-testComms
+Wed May 16 02:06:59 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.systemtests.colocated.RelayedHttpCommsTest
+Wed May 16 02:06:59 UTC 2018: Found element on the queue
+Wed May 16 02:06:59 UTC 2018: Updating status
+Wed May 16 02:06:59 UTC 2018: Working
+Wed May 16 02:07:02 UTC 2018: Start khartig__assimilator-p2p test class net.jxse.systemtests.colocated.RelayedHttp2CommsTest
+Wed May 16 02:07:02 UTC 2018: Setting lastTestMethodIndex: 56500
+Wed May 16 02:07:02 UTC 2018: Starting linking
+Wed May 16 02:07:02 UTC 2018: No link for: net.jxse.systemtests.colocated.RelayedHttp2CommsTest-testComms
+Wed May 16 02:07:02 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxse.systemtests.colocated.RelayedHttp2CommsTest
+Wed May 16 02:07:03 UTC 2018: Found element on the queue
+Wed May 16 02:07:03 UTC 2018: Updating status
+Wed May 16 02:07:03 UTC 2018: Working
+Wed May 16 02:07:05 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.document.MimeMediaTypeTest
+Wed May 16 02:07:05 UTC 2018: Setting lastTestMethodIndex: 56502
+Wed May 16 02:07:05 UTC 2018: Starting linking
+Wed May 16 02:07:05 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.document.MimeMediaTypeTest
+Wed May 16 02:07:05 UTC 2018: Found element on the queue
+Wed May 16 02:07:05 UTC 2018: Updating status
+Wed May 16 02:07:05 UTC 2018: Working
+Wed May 16 02:07:08 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.document.DocumentTest
+Wed May 16 02:07:08 UTC 2018: Setting lastTestMethodIndex: 56504
+Wed May 16 02:07:08 UTC 2018: Starting linking
+Wed May 16 02:07:08 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.document.DocumentTest
+Wed May 16 02:07:08 UTC 2018: Found element on the queue
+Wed May 16 02:07:08 UTC 2018: Updating status
+Wed May 16 02:07:08 UTC 2018: Working
+Wed May 16 02:07:11 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.document.AdvertisementTest
+Wed May 16 02:07:11 UTC 2018: Setting lastTestMethodIndex: 56506
+Wed May 16 02:07:11 UTC 2018: Starting linking
+Wed May 16 02:07:11 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.document.AdvertisementTest
+Wed May 16 02:07:11 UTC 2018: Found element on the queue
+Wed May 16 02:07:11 UTC 2018: Updating status
+Wed May 16 02:07:11 UTC 2018: Working
+Wed May 16 02:07:14 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.cm.InMemorySrdiTest
+Wed May 16 02:07:14 UTC 2018: Setting lastTestMethodIndex: 56509
+Wed May 16 02:07:14 UTC 2018: Starting linking
+Wed May 16 02:07:14 UTC 2018: Code found net.jxta.impl.cm.Srdi-add with net.jxta.impl.cm.InMemorySrdiTest-testAdd_removesExpiredEntries
+Wed May 16 02:07:14 UTC 2018: No link for: net.jxta.impl.cm.InMemorySrdiTest-testClearViaStatic_groupsWithSameStoreAreIsolated
+Wed May 16 02:07:15 UTC 2018: No link for: net.jxta.impl.cm.InMemorySrdiTest-testDataSurvivesRestart
+Wed May 16 02:07:15 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.cm.InMemorySrdiTest
+Wed May 16 02:07:15 UTC 2018: Found element on the queue
+Wed May 16 02:07:15 UTC 2018: Updating status
+Wed May 16 02:07:16 UTC 2018: Working
+Wed May 16 02:07:18 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.cm.XIndiceCmTest
+Wed May 16 02:07:18 UTC 2018: Setting lastTestMethodIndex: 56512
+Wed May 16 02:07:18 UTC 2018: Starting linking
+Wed May 16 02:07:18 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.cm.XIndiceCmTest
+Wed May 16 02:07:19 UTC 2018: Found element on the queue
+Wed May 16 02:07:19 UTC 2018: Updating status
+Wed May 16 02:07:19 UTC 2018: Working
+Wed May 16 02:07:21 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.cm.sql.H2AdvertisementCacheTest
+Wed May 16 02:07:21 UTC 2018: Setting lastTestMethodIndex: 56514
+Wed May 16 02:07:21 UTC 2018: Starting linking
+Wed May 16 02:07:21 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.cm.sql.H2AdvertisementCacheTest
+Wed May 16 02:07:22 UTC 2018: Found element on the queue
+Wed May 16 02:07:22 UTC 2018: Updating status
+Wed May 16 02:07:22 UTC 2018: Working
+Wed May 16 02:07:24 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.cm.CmXIndiceImplTest
+Wed May 16 02:07:24 UTC 2018: Setting lastTestMethodIndex: 56517
+Wed May 16 02:07:24 UTC 2018: Starting linking
+Wed May 16 02:07:24 UTC 2018: Code found net.jxta.impl.cm.XIndiceAdvertisementCache-garbageCollect with net.jxta.impl.cm.CmXIndiceImplTest-testGarbageCollect
+Wed May 16 02:07:25 UTC 2018: No link for: net.jxta.impl.cm.CmXIndiceImplTest-testEverything
+Wed May 16 02:07:25 UTC 2018: No link for: net.jxta.impl.cm.CmXIndiceImplTest-testRaw
+Wed May 16 02:07:25 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.cm.CmXIndiceImplTest
+Wed May 16 02:07:26 UTC 2018: Found element on the queue
+Wed May 16 02:07:26 UTC 2018: Updating status
+Wed May 16 02:07:26 UTC 2018: Working
+Wed May 16 02:07:29 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.cm.SrdiManagerPeriodicPushTaskTest
+Wed May 16 02:07:29 UTC 2018: Setting lastTestMethodIndex: 56519
+Wed May 16 02:07:29 UTC 2018: Starting linking
+Wed May 16 02:07:29 UTC 2018: Code found net.jxta.impl.cm.SrdiManagerPeriodicPushTask-start with net.jxta.impl.cm.SrdiManagerPeriodicPushTaskTest-testMultipleStartCallsIgnored
+Wed May 16 02:07:30 UTC 2018: Code found net.jxta.impl.cm.SrdiManagerPeriodicPushTask-run with net.jxta.impl.cm.SrdiManagerPeriodicPushTaskTest-testPushesAllEntriesOnFirstRun
+Wed May 16 02:07:30 UTC 2018: No link for: net.jxta.impl.cm.SrdiManagerPeriodicPushTaskTest-testPushesAllEntriesAfterRestart
+Wed May 16 02:07:30 UTC 2018: No link for: net.jxta.impl.cm.SrdiManagerPeriodicPushTaskTest-testExecutesSelfOnStart
+Wed May 16 02:07:31 UTC 2018: No link for: net.jxta.impl.cm.SrdiManagerPeriodicPushTaskTest-testCancelsSelfOnStop
+Wed May 16 02:07:31 UTC 2018: No link for: net.jxta.impl.cm.SrdiManagerPeriodicPushTaskTest-testPushesDeltasAfterPushingAllEntries
+Wed May 16 02:07:31 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.cm.SrdiManagerPeriodicPushTaskTest
+Wed May 16 02:07:32 UTC 2018: Found element on the queue
+Wed May 16 02:07:32 UTC 2018: Updating status
+Wed May 16 02:07:32 UTC 2018: Working
+Wed May 16 02:07:34 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.cm.SrdiReplicaTest
+Wed May 16 02:07:34 UTC 2018: Setting lastTestMethodIndex: 56522
+Wed May 16 02:07:34 UTC 2018: Starting linking
+Wed May 16 02:07:34 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.cm.SrdiReplicaTest
+Wed May 16 02:07:35 UTC 2018: Found element on the queue
+Wed May 16 02:07:35 UTC 2018: Updating status
+Wed May 16 02:07:35 UTC 2018: Working
+Wed May 16 02:07:37 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.loader.RefJxtaLoaderTest
+Wed May 16 02:07:37 UTC 2018: Setting lastTestMethodIndex: 56525
+Wed May 16 02:07:37 UTC 2018: Starting linking
+Wed May 16 02:07:37 UTC 2018: No link for: net.jxta.impl.loader.RefJxtaLoaderTest-loadModuleContentNotFound
+Wed May 16 02:07:38 UTC 2018: No link for: net.jxta.impl.loader.RefJxtaLoaderTest-packageLoadIsSticky
+Wed May 16 02:07:38 UTC 2018: No link for: net.jxta.impl.loader.RefJxtaLoaderTest-loadModule
+Wed May 16 02:07:38 UTC 2018: No link for: net.jxta.impl.loader.RefJxtaLoaderTest-siblingGroupsDifferentClasses
+Wed May 16 02:07:39 UTC 2018: No link for: net.jxta.impl.loader.RefJxtaLoaderTest-loadPOJO
+Wed May 16 02:07:39 UTC 2018: No link for: net.jxta.impl.loader.RefJxtaLoaderTest-parentGroupSameClasses
+Wed May 16 02:07:39 UTC 2018: No link for: net.jxta.impl.loader.RefJxtaLoaderTest-loadModuleContent
+Wed May 16 02:07:40 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.loader.RefJxtaLoaderTest
+Wed May 16 02:07:40 UTC 2018: Found element on the queue
+Wed May 16 02:07:40 UTC 2018: Updating status
+Wed May 16 02:07:40 UTC 2018: Working
+Wed May 16 02:07:43 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.id.UUID.IDTest
+Wed May 16 02:07:43 UTC 2018: Setting lastTestMethodIndex: 56529
+Wed May 16 02:07:43 UTC 2018: Starting linking
+Wed May 16 02:07:43 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.id.UUID.IDTest
+Wed May 16 02:07:43 UTC 2018: Found element on the queue
+Wed May 16 02:07:43 UTC 2018: Updating status
+Wed May 16 02:07:43 UTC 2018: Working
+Wed May 16 02:07:46 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.id.UUID.UUIDTest
+Wed May 16 02:07:46 UTC 2018: Setting lastTestMethodIndex: 56531
+Wed May 16 02:07:46 UTC 2018: Starting linking
+Wed May 16 02:07:46 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.id.UUID.UUIDTest
+Wed May 16 02:07:46 UTC 2018: Found element on the queue
+Wed May 16 02:07:46 UTC 2018: Updating status
+Wed May 16 02:07:46 UTC 2018: Working
+Wed May 16 02:07:48 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.id.binaryID.BinaryIDTest
+Wed May 16 02:07:48 UTC 2018: Setting lastTestMethodIndex: 56533
+Wed May 16 02:07:48 UTC 2018: Starting linking
+Wed May 16 02:07:48 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.id.binaryID.BinaryIDTest
+Wed May 16 02:07:49 UTC 2018: Found element on the queue
+Wed May 16 02:07:49 UTC 2018: Updating status
+Wed May 16 02:07:49 UTC 2018: Working
+Wed May 16 02:07:52 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.content.ModuleLifecycleManagerTest
+Wed May 16 02:07:52 UTC 2018: Setting lastTestMethodIndex: 56536
+Wed May 16 02:07:52 UTC 2018: Starting linking
+Wed May 16 02:07:52 UTC 2018: Code found net.jxta.impl.content.ModuleLifecycleManager-start with net.jxta.impl.content.ModuleLifecycleManagerTest-testInitStartStopStart
+Wed May 16 02:07:52 UTC 2018: Code found net.jxta.impl.content.ModuleLifecycleManager-init with net.jxta.impl.content.ModuleLifecycleManagerTest-testInitFailure
+Wed May 16 02:07:52 UTC 2018: Code found net.jxta.impl.content.ModuleLifecycleManager-removeModule with net.jxta.impl.content.ModuleLifecycleManagerTest-testRemoveModule
+Wed May 16 02:07:52 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleManagerTest-testMaxIterations
+Wed May 16 02:07:53 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleManagerTest-testMaxStall
+Wed May 16 02:07:53 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleManagerTest-testModuleCounts
+Wed May 16 02:07:53 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleManagerTest-testMaxStallWithProgressReset
+Wed May 16 02:07:54 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleManagerTest-testDisabledModule
+Wed May 16 02:07:54 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.content.ModuleLifecycleManagerTest
+Wed May 16 02:07:55 UTC 2018: Found element on the queue
+Wed May 16 02:07:55 UTC 2018: Updating status
+Wed May 16 02:07:55 UTC 2018: Working
+Wed May 16 02:07:58 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.content.EventAggregatorTest
+Wed May 16 02:07:58 UTC 2018: Setting lastTestMethodIndex: 56541
+Wed May 16 02:07:58 UTC 2018: Starting linking
+Wed May 16 02:07:58 UTC 2018: Code found net.jxta.impl.content.EventAggregator-contentUnshared with net.jxta.impl.content.EventAggregatorTest-testContentUnshared
+Wed May 16 02:07:58 UTC 2018: Code found net.jxta.impl.content.EventAggregator-dispatchFindRequest with net.jxta.impl.content.EventAggregatorTest-testDispatchFindRequest
+Wed May 16 02:07:58 UTC 2018: Code found net.jxta.impl.content.EventAggregator-contentShared with net.jxta.impl.content.EventAggregatorTest-testContentShared
+Wed May 16 02:07:59 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.content.EventAggregatorTest
+Wed May 16 02:07:59 UTC 2018: Found element on the queue
+Wed May 16 02:07:59 UTC 2018: Updating status
+Wed May 16 02:07:59 UTC 2018: Working
+Wed May 16 02:08:02 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.content.ModuleLifecycleTrackerTest
+Wed May 16 02:08:02 UTC 2018: Setting lastTestMethodIndex: 56543
+Wed May 16 02:08:02 UTC 2018: Starting linking
+Wed May 16 02:08:02 UTC 2018: Code found net.jxta.impl.content.ModuleLifecycleTracker-init with net.jxta.impl.content.ModuleLifecycleTrackerTest-testInitException
+Wed May 16 02:08:02 UTC 2018: Code found net.jxta.impl.content.ModuleLifecycleTracker-getModule with net.jxta.impl.content.ModuleLifecycleTrackerTest-testGetModule
+Wed May 16 02:08:02 UTC 2018: Code found net.jxta.impl.content.ModuleLifecycleTracker-init with net.jxta.impl.content.ModuleLifecycleTrackerTest-testInitStartStopStart
+Wed May 16 02:08:03 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleTrackerTest-testDisabledStart
+Wed May 16 02:08:03 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleTrackerTest-testJustStartException
+Wed May 16 02:08:03 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleTrackerTest-testFailedStart
+Wed May 16 02:08:04 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleTrackerTest-testJustStart
+Wed May 16 02:08:04 UTC 2018: No link for: net.jxta.impl.content.ModuleLifecycleTrackerTest-testListener
+Wed May 16 02:08:04 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.content.ModuleLifecycleTrackerTest
+Wed May 16 02:08:05 UTC 2018: Found element on the queue
+Wed May 16 02:08:05 UTC 2018: Updating status
+Wed May 16 02:08:05 UTC 2018: Working
+Wed May 16 02:08:07 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.content.ModuleWrapperFactoryTest
+Wed May 16 02:08:07 UTC 2018: Setting lastTestMethodIndex: 56547
+Wed May 16 02:08:07 UTC 2018: Starting linking
+Wed May 16 02:08:07 UTC 2018: No link for: net.jxta.impl.content.ModuleWrapperFactoryTest-testNewService
+Wed May 16 02:08:08 UTC 2018: No link for: net.jxta.impl.content.ModuleWrapperFactoryTest-testNewWrapper
+Wed May 16 02:08:08 UTC 2018: No link for: net.jxta.impl.content.ModuleWrapperFactoryTest-testNewModule
+Wed May 16 02:08:08 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.content.ModuleWrapperFactoryTest
+Wed May 16 02:08:09 UTC 2018: Found element on the queue
+Wed May 16 02:08:09 UTC 2018: Updating status
+Wed May 16 02:08:09 UTC 2018: Working
+Wed May 16 02:08:11 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.content.TransferAggregatorTest
+Wed May 16 02:08:11 UTC 2018: Setting lastTestMethodIndex: 56549
+Wed May 16 02:08:11 UTC 2018: Starting linking
+Wed May 16 02:08:11 UTC 2018: Code found net.jxta.content.ContentTransferEvent$Builder-locationState with net.jxta.impl.content.TransferAggregatorTest-testSelectedLocationStateHasMany
+Wed May 16 02:08:12 UTC 2018: Code found net.jxta.content.ContentTransferEvent$Builder-locationState with net.jxta.impl.content.TransferAggregatorTest-testSelectedLocationStateHasEnough
+Wed May 16 02:08:12 UTC 2018: Code found net.jxta.content.ContentTransferEvent$Builder-locationState with net.jxta.impl.content.TransferAggregatorTest-testStandbyLocationStateHasEnough
+Wed May 16 02:08:12 UTC 2018: Code found net.jxta.content.ContentTransferEvent$Builder-locationState with net.jxta.impl.content.TransferAggregatorTest-testStandbyLocationStateHasMany
+Wed May 16 02:08:13 UTC 2018: No link for: net.jxta.impl.content.TransferAggregatorTest-testRandomization
+Wed May 16 02:08:13 UTC 2018: No link for: net.jxta.impl.content.TransferAggregatorTest-testDontReturnToPending
+Wed May 16 02:08:13 UTC 2018: No link for: net.jxta.impl.content.TransferAggregatorTest-testConstruction
+Wed May 16 02:08:14 UTC 2018: No link for: net.jxta.impl.content.TransferAggregatorTest-testStandbyTransferCompletion
+Wed May 16 02:08:14 UTC 2018: No link for: net.jxta.impl.content.TransferAggregatorTest-testAllTransfersFail
+Wed May 16 02:08:14 UTC 2018: No link for: net.jxta.impl.content.TransferAggregatorTest-testConstructionWithNoProviders
+Wed May 16 02:08:15 UTC 2018: No link for: net.jxta.impl.content.TransferAggregatorTest-testTransferCancelled
+Wed May 16 02:08:15 UTC 2018: No link for: net.jxta.impl.content.TransferAggregatorTest-testStartSourceLocation
+Wed May 16 02:08:15 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.content.TransferAggregatorTest
+Wed May 16 02:08:16 UTC 2018: Found element on the queue
+Wed May 16 02:08:16 UTC 2018: Updating status
+Wed May 16 02:08:16 UTC 2018: Working
+Wed May 16 02:08:18 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.util.BASE64Test
+Wed May 16 02:08:18 UTC 2018: Setting lastTestMethodIndex: 56554
+Wed May 16 02:08:18 UTC 2018: Starting linking
+Wed May 16 02:08:18 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.util.BASE64Test
+Wed May 16 02:08:19 UTC 2018: Found element on the queue
+Wed May 16 02:08:19 UTC 2018: Updating status
+Wed May 16 02:08:19 UTC 2018: Working
+Wed May 16 02:08:21 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.util.TimeUtilsTest
+Wed May 16 02:08:21 UTC 2018: Setting lastTestMethodIndex: 56556
+Wed May 16 02:08:21 UTC 2018: Starting linking
+Wed May 16 02:08:21 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.util.TimeUtilsTest
+Wed May 16 02:08:22 UTC 2018: Found element on the queue
+Wed May 16 02:08:22 UTC 2018: Updating status
+Wed May 16 02:08:22 UTC 2018: Working
+Wed May 16 02:08:24 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.util.SeedingManagerTest
+Wed May 16 02:08:24 UTC 2018: Setting lastTestMethodIndex: 56558
+Wed May 16 02:08:24 UTC 2018: Starting linking
+Wed May 16 02:08:24 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.util.SeedingManagerTest
+Wed May 16 02:08:25 UTC 2018: Found element on the queue
+Wed May 16 02:08:25 UTC 2018: Updating status
+Wed May 16 02:08:25 UTC 2018: Working
+Wed May 16 02:08:27 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.util.threads.TaskManagerTest
+Wed May 16 02:08:27 UTC 2018: Setting lastTestMethodIndex: 56561
+Wed May 16 02:08:27 UTC 2018: Starting linking
+Wed May 16 02:08:27 UTC 2018: Code found net.jxta.impl.util.threads.TaskManager-shutdown with net.jxta.impl.util.threads.TaskManagerTest-testShutdownTwiceThrowsException
+Wed May 16 02:08:27 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testScheduledPoolSize_specifiedAsParameter
+Wed May 16 02:08:28 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testScheduledPoolSize_specifiedAsParameter_hasMinimum
+Wed May 16 02:08:28 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testIdleThreadTimeout_specifiedAsParameter
+Wed May 16 02:08:28 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testMaxWorkerPoolSize_hasDefault
+Wed May 16 02:08:29 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testMaxWorkerPoolSize_usesSysProp
+Wed May 16 02:08:29 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testCachedExecutorServiceInstance
+Wed May 16 02:08:29 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testCorePoolSize_specifiedAsParam
+Wed May 16 02:08:29 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testCorePoolSize_specifiedAsParam_minimumEnforced
+Wed May 16 02:08:30 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testMaxWorkerPoolSize_specifiedAsParameter
+Wed May 16 02:08:30 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testCorePoolSize_usesSysProp
+Wed May 16 02:08:30 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testCorePoolSize_hasDefault
+Wed May 16 02:08:31 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testCorePoolSize_hasMinimum_handlesNegativeNumbers
+Wed May 16 02:08:31 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testIdleThreadTimeout_specifiedAsParameter_minimumEnforced
+Wed May 16 02:08:31 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testMaxWorkerPoolSize_specifiedAsParameter_greaterThanCorePoolSize
+Wed May 16 02:08:31 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testIdleThreadTimeout_hasDefault
+Wed May 16 02:08:32 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testMaxWorkerPoolSize_hasMinimum
+Wed May 16 02:08:32 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testScheduledPoolSize_hasMinimum_handlesNegativeNumbers
+Wed May 16 02:08:32 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testIdleThreadTimeout_usesSysProp
+Wed May 16 02:08:33 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testScheduledPoolSize_hasMinimum_handlesZero
+Wed May 16 02:08:33 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testIdleThreadTimeout_hasMinimum
+Wed May 16 02:08:33 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testMaxWorkerPoolSize_specifiedAsParameter_minimumEnforced
+Wed May 16 02:08:33 UTC 2018: No link for: net.jxta.impl.util.threads.TaskManagerTest-testScheduledPoolSize_usesSysProp
+Wed May 16 02:08:34 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.util.threads.TaskManagerTest
+Wed May 16 02:08:34 UTC 2018: Found element on the queue
+Wed May 16 02:08:34 UTC 2018: Updating status
+Wed May 16 02:08:34 UTC 2018: Working
+Wed May 16 02:08:37 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.util.threads.SelfCancellingTaskTest
+Wed May 16 02:08:37 UTC 2018: Setting lastTestMethodIndex: 56565
+Wed May 16 02:08:37 UTC 2018: Starting linking
+Wed May 16 02:08:37 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.util.threads.SelfCancellingTaskTest
+Wed May 16 02:08:37 UTC 2018: Found element on the queue
+Wed May 16 02:08:37 UTC 2018: Updating status
+Wed May 16 02:08:37 UTC 2018: Working
+Wed May 16 02:08:40 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.endpoint.AsynchronousMessengerTest
+Wed May 16 02:08:40 UTC 2018: Setting lastTestMethodIndex: 56567
+Wed May 16 02:08:40 UTC 2018: Starting linking
+Wed May 16 02:08:40 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-sendMessageN with net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageN_failure
+Wed May 16 02:08:40 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-close with net.jxta.impl.endpoint.AsynchronousMessengerTest-testCloseWhenIdle
+Wed May 16 02:08:40 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-close with net.jxta.impl.endpoint.AsynchronousMessengerTest-testCloseWithPendingMessages
+Wed May 16 02:08:41 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-sendMessageN with net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageN_returnsTrueOnEnqueue
+Wed May 16 02:08:41 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-sendMessageN with net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageN_whenClosing
+Wed May 16 02:08:41 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-sendMessageN with net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageN_returnsFalseWhenSaturated
+Wed May 16 02:08:42 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-sendMessageN with net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageN_enqueuedMessagesArePushed
+Wed May 16 02:08:42 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-sendMessageB with net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageB_failure
+Wed May 16 02:08:42 UTC 2018: No code found net.jxta.impl.endpoint.AsynchronousMessengerTest$TestableAsynchronousMessenger-sendMessageB with net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageB_whenClosing
+Wed May 16 02:08:43 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testConnectionFailure_whenSending
+Wed May 16 02:08:43 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testInitiallyConnected
+Wed May 16 02:08:43 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testConnectionFailureWhenClosing
+Wed May 16 02:08:44 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendStateTransitions
+Wed May 16 02:08:44 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageB_interrupted
+Wed May 16 02:08:44 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageB_blocksUntilSent
+Wed May 16 02:08:44 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageB_canSendMultiple
+Wed May 16 02:08:45 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testMessagesMarkedOnSuccess
+Wed May 16 02:08:45 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testConnectionFailure_whenIdle
+Wed May 16 02:08:45 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testPullNextWrite
+Wed May 16 02:08:46 UTC 2018: No link for: net.jxta.impl.endpoint.AsynchronousMessengerTest-testSendMessageB_blocksForSendQueueSpace
+Wed May 16 02:08:46 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.endpoint.AsynchronousMessengerTest
+Wed May 16 02:08:47 UTC 2018: Found element on the queue
+Wed May 16 02:08:47 UTC 2018: Updating status
+Wed May 16 02:08:47 UTC 2018: Working
+Wed May 16 02:08:49 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.endpoint.msgframing.WelcomeMessageTest
+Wed May 16 02:08:49 UTC 2018: Setting lastTestMethodIndex: 56573
+Wed May 16 02:08:49 UTC 2018: Starting linking
+Wed May 16 02:08:49 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.endpoint.msgframing.WelcomeMessageTest
+Wed May 16 02:08:50 UTC 2018: Found element on the queue
+Wed May 16 02:08:50 UTC 2018: Updating status
+Wed May 16 02:08:50 UTC 2018: Working
+Wed May 16 02:08:52 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.endpoint.netty.NettyTransportClientTest
+Wed May 16 02:08:52 UTC 2018: Setting lastTestMethodIndex: 56574
+Wed May 16 02:08:52 UTC 2018: Starting linking
+Wed May 16 02:08:52 UTC 2018: No link for: net.jxta.impl.endpoint.netty.NettyTransportClientTest-testAllowsRouting
+Wed May 16 02:08:52 UTC 2018: No link for: net.jxta.impl.endpoint.netty.NettyTransportClientTest-testStart_returnsFalseIfEndpointServiceRefusesRegistration
+Wed May 16 02:08:53 UTC 2018: No link for: net.jxta.impl.endpoint.netty.NettyTransportClientTest-testIsConnectionOriented
+Wed May 16 02:08:53 UTC 2018: No link for: net.jxta.impl.endpoint.netty.NettyTransportClientTest-testGetProtocolName
+Wed May 16 02:08:53 UTC 2018: No link for: net.jxta.impl.endpoint.netty.NettyTransportClientTest-testGetProtocolName_matchesValueFromAddressTranslator
+Wed May 16 02:08:54 UTC 2018: No link for: net.jxta.impl.endpoint.netty.NettyTransportClientTest-testGetEndpointService_returnsInstanceFromGroup
+Wed May 16 02:08:54 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.endpoint.netty.NettyTransportClientTest
+Wed May 16 02:08:55 UTC 2018: Found element on the queue
+Wed May 16 02:08:55 UTC 2018: Updating status
+Wed May 16 02:08:55 UTC 2018: Working
+Wed May 16 02:08:57 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.endpoint.netty.NettyTransportTest
+Wed May 16 02:08:57 UTC 2018: Setting lastTestMethodIndex: 56577
+Wed May 16 02:08:57 UTC 2018: Starting linking
+Wed May 16 02:08:57 UTC 2018: Code found net.jxta.impl.endpoint.netty.NettyTransport-startApp with net.jxta.impl.endpoint.netty.NettyTransportTest-testStartApp_returnsErrorIfEndpointServiceRefusesRegistration
+Wed May 16 02:08:57 UTC 2018: Code found net.jxta.impl.endpoint.netty.NettyTransport-getProtocolName with net.jxta.impl.endpoint.netty.NettyTransportTest-testGetProtocolName_changedThroughStaticConfig
+Wed May 16 02:08:58 UTC 2018: Code found net.jxta.impl.endpoint.netty.NettyTransport-startApp with net.jxta.impl.endpoint.netty.NettyTransportTest-testStartApp_returnsStalledIfEndpointServiceNotAvailable
+Wed May 16 02:08:58 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.endpoint.netty.NettyTransportTest
+Wed May 16 02:08:58 UTC 2018: Found element on the queue
+Wed May 16 02:08:58 UTC 2018: Updating status
+Wed May 16 02:08:58 UTC 2018: Working
+Wed May 16 02:09:01 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest
+Wed May 16 02:09:01 UTC 2018: Setting lastTestMethodIndex: 56579
+Wed May 16 02:09:01 UTC 2018: Starting linking
+Wed May 16 02:09:01 UTC 2018: Code found net.jxta.impl.endpoint.netty.InetSocketAddressTranslator-toSocketAddress with net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress
+Wed May 16 02:09:01 UTC 2018: Code found net.jxta.impl.endpoint.netty.InetSocketAddressTranslator-toEndpointAddress with net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToEndpointAddress_withUnresolvedHostName
+Wed May 16 02:09:02 UTC 2018: Code found net.jxta.impl.endpoint.netty.InetSocketAddressTranslator-toEndpointAddress with net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToEndpointAddress_withIPv6Address
+Wed May 16 02:09:02 UTC 2018: Code found net.jxta.impl.endpoint.netty.InetSocketAddressTranslator-toEndpointAddress with net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToEndpointAddress_withIPv4Address
+Wed May 16 02:09:02 UTC 2018: Code found net.jxta.impl.endpoint.netty.InetSocketAddressTranslator-toSocketAddress with net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withIPv6Address
+Wed May 16 02:09:03 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNoPortSpecifiedAfterColon
+Wed May 16 02:09:03 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withIncorrectlyEscapedIPv6Address_missingCloseBracket
+Wed May 16 02:09:03 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNegativePortSpecified_IPv6
+Wed May 16 02:09:03 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNonNumericPortSpecified
+Wed May 16 02:09:04 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNoHostSpecified
+Wed May 16 02:09:04 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNoPortSpecified_IPv6
+Wed May 16 02:09:04 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNoPortSpecified
+Wed May 16 02:09:05 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNegativePortSpecified
+Wed May 16 02:09:05 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withIncorrectlyEscapedIPv6Address_missingOpenBracket
+Wed May 16 02:09:05 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withIllegalPortSpecified_IPv6
+Wed May 16 02:09:05 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withIllegalPortSpecified
+Wed May 16 02:09:06 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNoPortSpecifiedAfterColon_IPv6
+Wed May 16 02:09:06 UTC 2018: No link for: net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest-testToSocketAddress_withNonNumericPortSpecified_IPv6
+Wed May 16 02:09:06 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.endpoint.netty.InetSocketAddressTranslatorTest
+Wed May 16 02:09:07 UTC 2018: Found element on the queue
+Wed May 16 02:09:07 UTC 2018: Updating status
+Wed May 16 02:09:07 UTC 2018: Working
+Wed May 16 02:09:09 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.impl.endpoint.netty.MessageDispatchHandlerTest
+Wed May 16 02:09:09 UTC 2018: Setting lastTestMethodIndex: 56582
+Wed May 16 02:09:09 UTC 2018: Starting linking
+Wed May 16 02:09:09 UTC 2018: No link for: net.jxta.impl.endpoint.netty.MessageDispatchHandlerTest-testMessagesAreQueuedUntilListenerAttached
+Wed May 16 02:09:09 UTC 2018: No link for: net.jxta.impl.endpoint.netty.MessageDispatchHandlerTest-testWelcomeMessageTriggersNewChannelCall
+Wed May 16 02:09:10 UTC 2018: No link for: net.jxta.impl.endpoint.netty.MessageDispatchHandlerTest-testWelcomeAndMessagesInQueue
+Wed May 16 02:09:10 UTC 2018: No link for: net.jxta.impl.endpoint.netty.MessageDispatchHandlerTest-testSendsMessageToListener
+Wed May 16 02:09:10 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.impl.endpoint.netty.MessageDispatchHandlerTest
+Wed May 16 02:09:11 UTC 2018: Found element on the queue
+Wed May 16 02:09:11 UTC 2018: Updating status
+Wed May 16 02:09:11 UTC 2018: Working
+Wed May 16 02:09:13 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.ResolverResponseMsgTest
+Wed May 16 02:09:13 UTC 2018: Setting lastTestMethodIndex: 56585
+Wed May 16 02:09:13 UTC 2018: Starting linking
+Wed May 16 02:09:13 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.ResolverResponseMsgTest
+Wed May 16 02:09:14 UTC 2018: Found element on the queue
+Wed May 16 02:09:14 UTC 2018: Updating status
+Wed May 16 02:09:14 UTC 2018: Working
+Wed May 16 02:09:16 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.ResolverMsgTest
+Wed May 16 02:09:16 UTC 2018: Setting lastTestMethodIndex: 56587
+Wed May 16 02:09:16 UTC 2018: Starting linking
+Wed May 16 02:09:16 UTC 2018: Code found net.jxta.protocol.ResolverQueryMsg-newResolverQueryMsg with net.jxta.protocol.ResolverMsgTest-testNewResolverQueryMsg
+Wed May 16 02:09:16 UTC 2018: No link for: net.jxta.protocol.ResolverMsgTest-testNewResolverResponseMsg
+Wed May 16 02:09:17 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.ResolverMsgTest
+Wed May 16 02:09:17 UTC 2018: Found element on the queue
+Wed May 16 02:09:17 UTC 2018: Updating status
+Wed May 16 02:09:17 UTC 2018: Working
+Wed May 16 02:09:20 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.DiscoveryResponseMsgTest
+Wed May 16 02:09:20 UTC 2018: Setting lastTestMethodIndex: 56588
+Wed May 16 02:09:20 UTC 2018: Starting linking
+Wed May 16 02:09:20 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.DiscoveryResponseMsgTest
+Wed May 16 02:09:20 UTC 2018: Found element on the queue
+Wed May 16 02:09:20 UTC 2018: Updating status
+Wed May 16 02:09:20 UTC 2018: Working
+Wed May 16 02:09:23 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.SrdiMessageTest
+Wed May 16 02:09:23 UTC 2018: Setting lastTestMethodIndex: 56590
+Wed May 16 02:09:23 UTC 2018: Starting linking
+Wed May 16 02:09:23 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.SrdiMessageTest
+Wed May 16 02:09:23 UTC 2018: Found element on the queue
+Wed May 16 02:09:23 UTC 2018: Updating status
+Wed May 16 02:09:23 UTC 2018: Working
+Wed May 16 02:09:26 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.PipeAdvertisementTest
+Wed May 16 02:09:26 UTC 2018: Setting lastTestMethodIndex: 56591
+Wed May 16 02:09:26 UTC 2018: Starting linking
+Wed May 16 02:09:26 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.PipeAdvertisementTest
+Wed May 16 02:09:26 UTC 2018: Found element on the queue
+Wed May 16 02:09:26 UTC 2018: Updating status
+Wed May 16 02:09:26 UTC 2018: Working
+Wed May 16 02:09:29 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.ResolverSrdiMsgTest
+Wed May 16 02:09:29 UTC 2018: Setting lastTestMethodIndex: 56593
+Wed May 16 02:09:29 UTC 2018: Starting linking
+Wed May 16 02:09:29 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.ResolverSrdiMsgTest
+Wed May 16 02:09:29 UTC 2018: Found element on the queue
+Wed May 16 02:09:29 UTC 2018: Updating status
+Wed May 16 02:09:29 UTC 2018: Working
+Wed May 16 02:09:32 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.RdvAdvertisementTest
+Wed May 16 02:09:32 UTC 2018: Setting lastTestMethodIndex: 56596
+Wed May 16 02:09:32 UTC 2018: Starting linking
+Wed May 16 02:09:32 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.RdvAdvertisementTest
+Wed May 16 02:09:32 UTC 2018: Found element on the queue
+Wed May 16 02:09:32 UTC 2018: Updating status
+Wed May 16 02:09:32 UTC 2018: Working
+Wed May 16 02:09:35 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.ResolverQueryMsgTest
+Wed May 16 02:09:35 UTC 2018: Setting lastTestMethodIndex: 56599
+Wed May 16 02:09:35 UTC 2018: Starting linking
+Wed May 16 02:09:35 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.ResolverQueryMsgTest
+Wed May 16 02:09:35 UTC 2018: Found element on the queue
+Wed May 16 02:09:35 UTC 2018: Updating status
+Wed May 16 02:09:35 UTC 2018: Working
+Wed May 16 02:09:38 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.PeerAdvertisementTest
+Wed May 16 02:09:38 UTC 2018: Setting lastTestMethodIndex: 56601
+Wed May 16 02:09:38 UTC 2018: Starting linking
+Wed May 16 02:09:38 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.PeerAdvertisementTest
+Wed May 16 02:09:38 UTC 2018: Found element on the queue
+Wed May 16 02:09:38 UTC 2018: Updating status
+Wed May 16 02:09:38 UTC 2018: Working
+Wed May 16 02:09:41 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.TestRouteAdv
+Wed May 16 02:09:41 UTC 2018: Setting lastTestMethodIndex: 56603
+Wed May 16 02:09:41 UTC 2018: Starting linking
+Wed May 16 02:09:41 UTC 2018: Code found net.jxta.protocol.RouteAdvertisement-display with net.jxta.protocol.TestRouteAdv-testDestDisplay
+Wed May 16 02:09:41 UTC 2018: No link for: net.jxta.protocol.TestRouteAdv-testRouteAdv
+Wed May 16 02:09:41 UTC 2018: No link for: net.jxta.protocol.TestRouteAdv-testRouteResponse
+Wed May 16 02:09:42 UTC 2018: No link for: net.jxta.protocol.TestRouteAdv-testAddDestRoute
+Wed May 16 02:09:42 UTC 2018: No link for: net.jxta.protocol.TestRouteAdv-testRouteQuery
+Wed May 16 02:09:42 UTC 2018: No link for: net.jxta.protocol.TestRouteAdv-testHops
+Wed May 16 02:09:43 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.TestRouteAdv
+Wed May 16 02:09:43 UTC 2018: Found element on the queue
+Wed May 16 02:09:43 UTC 2018: Updating status
+Wed May 16 02:09:43 UTC 2018: Working
+Wed May 16 02:09:46 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.protocol.DiscoveryQueryMsgTest
+Wed May 16 02:09:46 UTC 2018: Setting lastTestMethodIndex: 56605
+Wed May 16 02:09:46 UTC 2018: Starting linking
+Wed May 16 02:09:46 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.protocol.DiscoveryQueryMsgTest
+Wed May 16 02:09:46 UTC 2018: Found element on the queue
+Wed May 16 02:09:46 UTC 2018: Updating status
+Wed May 16 02:09:46 UTC 2018: Working
+Wed May 16 02:09:49 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.platform.NetworkConfiguratorTest
+Wed May 16 02:09:49 UTC 2018: Setting lastTestMethodIndex: 56607
+Wed May 16 02:09:49 UTC 2018: Starting linking
+Wed May 16 02:09:49 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.platform.NetworkConfiguratorTest
+Wed May 16 02:09:49 UTC 2018: Found element on the queue
+Wed May 16 02:09:49 UTC 2018: Updating status
+Wed May 16 02:09:49 UTC 2018: Working
+Wed May 16 02:09:52 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.configuration.JxtaPeerConfigurationTest
+Wed May 16 02:09:52 UTC 2018: Setting lastTestMethodIndex: 56609
+Wed May 16 02:09:52 UTC 2018: Starting linking
+Wed May 16 02:09:52 UTC 2018: No link for: net.jxta.configuration.JxtaPeerConfigurationTest-testConstructor_1Param
+Wed May 16 02:09:52 UTC 2018: No link for: net.jxta.configuration.JxtaPeerConfigurationTest-testConstructor_0Param
+Wed May 16 02:09:52 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.configuration.JxtaPeerConfigurationTest
+Wed May 16 02:09:53 UTC 2018: Found element on the queue
+Wed May 16 02:09:53 UTC 2018: Updating status
+Wed May 16 02:09:53 UTC 2018: Working
+Wed May 16 02:09:55 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.configuration.JxtaConfigurationTest
+Wed May 16 02:09:55 UTC 2018: Setting lastTestMethodIndex: 56610
+Wed May 16 02:09:55 UTC 2018: Starting linking
+Wed May 16 02:09:55 UTC 2018: Code found net.jxta.configuration.JxtaConfiguration-loadFromXML with net.jxta.configuration.JxtaConfigurationTest-testStoreLoadFromXMLwithEncoding
+Wed May 16 02:09:55 UTC 2018: Code found net.jxta.configuration.JxtaConfiguration-store with net.jxta.configuration.JxtaConfigurationTest-testStoreLoad
+Wed May 16 02:09:56 UTC 2018: Code found net.jxta.configuration.JxtaConfiguration-loadFromXML with net.jxta.configuration.JxtaConfigurationTest-testStoreLoadFromXML
+Wed May 16 02:09:56 UTC 2018: No link for: net.jxta.configuration.JxtaConfigurationTest-testConstructor_1Param
+Wed May 16 02:09:56 UTC 2018: No link for: net.jxta.configuration.JxtaConfigurationTest-testSetGetProperty
+Wed May 16 02:09:57 UTC 2018: No link for: net.jxta.configuration.JxtaConfigurationTest-testConstructor_0Param
+Wed May 16 02:09:57 UTC 2018: No link for: net.jxta.configuration.JxtaConfigurationTest-testDefaults
+Wed May 16 02:09:57 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.configuration.JxtaConfigurationTest
+Wed May 16 02:09:58 UTC 2018: Found element on the queue
+Wed May 16 02:09:58 UTC 2018: Updating status
+Wed May 16 02:09:58 UTC 2018: Working
+Wed May 16 02:10:00 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.configuration.PropertiesUtilTest
+Wed May 16 02:10:00 UTC 2018: Setting lastTestMethodIndex: 56612
+Wed May 16 02:10:00 UTC 2018: Starting linking
+Wed May 16 02:10:00 UTC 2018: Code found net.jxta.configuration.PropertiesUtil-stringPropertyNames with net.jxta.configuration.PropertiesUtilTest-testStringPropertyNames
+Wed May 16 02:10:00 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.configuration.PropertiesUtilTest
+Wed May 16 02:10:01 UTC 2018: Found element on the queue
+Wed May 16 02:10:01 UTC 2018: Updating status
+Wed May 16 02:10:01 UTC 2018: Working
+Wed May 16 02:10:04 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.id.IDTest
+Wed May 16 02:10:04 UTC 2018: Setting lastTestMethodIndex: 56614
+Wed May 16 02:10:04 UTC 2018: Starting linking
+Wed May 16 02:10:04 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.id.IDTest
+Wed May 16 02:10:04 UTC 2018: Found element on the queue
+Wed May 16 02:10:04 UTC 2018: Updating status
+Wed May 16 02:10:04 UTC 2018: Working
+Wed May 16 02:10:07 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.logging.LoggingTest
+Wed May 16 02:10:07 UTC 2018: Setting lastTestMethodIndex: 56616
+Wed May 16 02:10:07 UTC 2018: Starting linking
+Wed May 16 02:10:07 UTC 2018: Code found net.jxta.logging.Logging-getCaller with net.jxta.logging.LoggingTest-testGetCaller
+Wed May 16 02:10:07 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.logging.LoggingTest
+Wed May 16 02:10:07 UTC 2018: Found element on the queue
+Wed May 16 02:10:07 UTC 2018: Updating status
+Wed May 16 02:10:07 UTC 2018: Working
+Wed May 16 02:10:10 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.util.CountingOutputStreamTest
+Wed May 16 02:10:10 UTC 2018: Setting lastTestMethodIndex: 56617
+Wed May 16 02:10:10 UTC 2018: Starting linking
+Wed May 16 02:10:10 UTC 2018: Code found net.jxta.util.CountingOutputStream-write with net.jxta.util.CountingOutputStreamTest-testMultipleConsecutiveWriteCalls
+Wed May 16 02:10:10 UTC 2018: Code found net.jxta.util.CountingOutputStream-write with net.jxta.util.CountingOutputStreamTest-testWriteMultipleBytes
+Wed May 16 02:10:11 UTC 2018: Code found net.jxta.util.CountingOutputStream-write with net.jxta.util.CountingOutputStreamTest-testWriteSingleByte
+Wed May 16 02:10:11 UTC 2018: Code found net.jxta.util.CountingOutputStream-write with net.jxta.util.CountingOutputStreamTest-testWriteByteArray_usesWriteByteArrayInWrappedStream
+Wed May 16 02:10:11 UTC 2018: Code found net.jxta.util.CountingOutputStream-write with net.jxta.util.CountingOutputStreamTest-testWriteMillionsOfBytes
+Wed May 16 02:10:12 UTC 2018: No link for: net.jxta.util.CountingOutputStreamTest-testInitiallyZeroBytesWritten
+Wed May 16 02:10:12 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.util.CountingOutputStreamTest
+Wed May 16 02:10:12 UTC 2018: Found element on the queue
+Wed May 16 02:10:12 UTC 2018: Updating status
+Wed May 16 02:10:12 UTC 2018: Working
+Wed May 16 02:10:15 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.util.QueuingServerPipeAcceptorTest
+Wed May 16 02:10:15 UTC 2018: Setting lastTestMethodIndex: 56620
+Wed May 16 02:10:15 UTC 2018: Starting linking
+Wed May 16 02:10:15 UTC 2018: Code found net.jxta.util.QueuingServerPipeAcceptor-setTimeoutBackwardsCompatible with net.jxta.util.QueuingServerPipeAcceptorTest-testSetTimeoutBackwardsCompatible_toNegative
+Wed May 16 02:10:15 UTC 2018: Code found net.jxta.util.QueuingServerPipeAcceptor-setTimeoutBackwardsCompatible with net.jxta.util.QueuingServerPipeAcceptorTest-testSetTimeoutBackwardsCompatible
+Wed May 16 02:10:16 UTC 2018: Code found net.jxta.util.QueuingServerPipeAcceptor-setTimeoutBackwardsCompatible with net.jxta.util.QueuingServerPipeAcceptorTest-testSetTimeoutBackwardsCompatible_toZero
+Wed May 16 02:10:16 UTC 2018: No link for: net.jxta.util.QueuingServerPipeAcceptorTest-testDiscardsConnectionsBeyondBacklog
+Wed May 16 02:10:16 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.util.QueuingServerPipeAcceptorTest
+Wed May 16 02:10:17 UTC 2018: Found element on the queue
+Wed May 16 02:10:17 UTC 2018: Updating status
+Wed May 16 02:10:17 UTC 2018: Working
+Wed May 16 02:10:19 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.endpoint.MessengerStateListenerListTest
+Wed May 16 02:10:19 UTC 2018: Setting lastTestMethodIndex: 56623
+Wed May 16 02:10:19 UTC 2018: Starting linking
+Wed May 16 02:10:19 UTC 2018: Code found net.jxta.endpoint.MessengerStateListenerSet-removeStateListener with net.jxta.endpoint.MessengerStateListenerListTest-testRemoveStateListener
+Wed May 16 02:10:19 UTC 2018: No link for: net.jxta.endpoint.MessengerStateListenerListTest-testListenerAutomaticRemoval
+Wed May 16 02:10:20 UTC 2018: No link for: net.jxta.endpoint.MessengerStateListenerListTest-testAddListenerTwice
+Wed May 16 02:10:20 UTC 2018: No link for: net.jxta.endpoint.MessengerStateListenerListTest-testNotifiesAllListeners
+Wed May 16 02:10:20 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.endpoint.MessengerStateListenerListTest
+Wed May 16 02:10:21 UTC 2018: Found element on the queue
+Wed May 16 02:10:21 UTC 2018: Updating status
+Wed May 16 02:10:21 UTC 2018: Working
+Wed May 16 02:10:23 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.endpoint.InputStreamMessageElementTest
+Wed May 16 02:10:23 UTC 2018: Setting lastTestMethodIndex: 56627
+Wed May 16 02:10:23 UTC 2018: Starting linking
+Wed May 16 02:10:23 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.endpoint.InputStreamMessageElementTest
+Wed May 16 02:10:24 UTC 2018: Found element on the queue
+Wed May 16 02:10:24 UTC 2018: Updating status
+Wed May 16 02:10:24 UTC 2018: Working
+Wed May 16 02:10:26 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.endpoint.EndpointAddressTest
+Wed May 16 02:10:26 UTC 2018: Setting lastTestMethodIndex: 56628
+Wed May 16 02:10:26 UTC 2018: Starting linking
+Wed May 16 02:10:26 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.endpoint.EndpointAddressTest
+Wed May 16 02:10:27 UTC 2018: Found element on the queue
+Wed May 16 02:10:27 UTC 2018: Updating status
+Wed May 16 02:10:27 UTC 2018: Working
+Wed May 16 02:10:29 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.endpoint.MessengerStateBarrierTest
+Wed May 16 02:10:29 UTC 2018: Setting lastTestMethodIndex: 56630
+Wed May 16 02:10:29 UTC 2018: Starting linking
+Wed May 16 02:10:29 UTC 2018: Code found net.jxta.endpoint.MessengerStateBarrier-awaitMatch with net.jxta.endpoint.MessengerStateBarrierTest-testAwaitMatch_singleEvent_matchesWhileWaiting
+Wed May 16 02:10:30 UTC 2018: Code found net.jxta.endpoint.MessengerStateBarrier-awaitMatch with net.jxta.endpoint.MessengerStateBarrierTest-testAwaitMatch_multipleEvents
+Wed May 16 02:10:30 UTC 2018: Code found net.jxta.endpoint.MessengerStateBarrier-awaitMatch with net.jxta.endpoint.MessengerStateBarrierTest-testAwaitMatch_singleEvent_ignoresOthers
+Wed May 16 02:10:30 UTC 2018: Code found net.jxta.endpoint.MessengerStateBarrier-expire with net.jxta.endpoint.MessengerStateBarrierTest-testExpire
+Wed May 16 02:10:30 UTC 2018: Code found net.jxta.endpoint.MessengerStateBarrier-awaitMatch with net.jxta.endpoint.MessengerStateBarrierTest-testAwaitMatch_singleEvent_neverMatch
+Wed May 16 02:10:31 UTC 2018: Code found net.jxta.endpoint.MessengerStateBarrier-awaitMatch with net.jxta.endpoint.MessengerStateBarrierTest-testAwaitMatch_singleEvent_matchBeforeAwait
+Wed May 16 02:10:31 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.endpoint.MessengerStateBarrierTest
+Wed May 16 02:10:32 UTC 2018: Found element on the queue
+Wed May 16 02:10:32 UTC 2018: Updating status
+Wed May 16 02:10:32 UTC 2018: Working
+Wed May 16 02:10:34 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.endpoint.SerializationPerformanceTest
+Wed May 16 02:10:34 UTC 2018: Setting lastTestMethodIndex: 56634
+Wed May 16 02:10:34 UTC 2018: Starting linking
+Wed May 16 02:10:34 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.endpoint.SerializationPerformanceTest
+Wed May 16 02:10:35 UTC 2018: Found element on the queue
+Wed May 16 02:10:35 UTC 2018: Updating status
+Wed May 16 02:10:35 UTC 2018: Working
+Wed May 16 02:10:37 UTC 2018: Start khartig__assimilator-p2p test class net.jxta.endpoint.MessageTest
+Wed May 16 02:10:37 UTC 2018: Setting lastTestMethodIndex: 56636
+Wed May 16 02:10:37 UTC 2018: Starting linking
+Wed May 16 02:10:37 UTC 2018: Linking done for khartig__assimilator-p2p test class net.jxta.endpoint.MessageTest

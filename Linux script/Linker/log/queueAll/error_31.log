@@ -1,0 +1,79 @@
+Mon May 07 12:32:03 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon May 07 12:54:27 UTC 2018: No package for: /home/laurence/storage/tech-projects/DonnieHsu__Seckill/src/test/java/com/seckill/dao/SuccessKilledDaoTest.java
+Mon May 07 12:54:28 UTC 2018: No package for: /home/laurence/storage/tech-projects/DonnieHsu__Seckill/src/test/java/com/seckill/dao/SeckillDaoTest.java
+Mon May 07 12:54:28 UTC 2018: No package for: /home/laurence/storage/tech-projects/DonnieHsu__Seckill/src/test/java/com/seckill/service/SeckillServiceTest.java
+Mon May 07 12:54:42 UTC 2018: No package for: /home/laurence/storage/tech-projects/Geek-Union__java-learn/framework/spring/spring-amqp/src/test/java/org/laidu/learn/amqp/CalculateTest.java
+Mon May 07 13:40:13 UTC 2018: No package for: /home/laurence/storage/tech-projects/alexeev__jboss-fuse-mirror/quickstarts/eip/src/test/java/RegionSupportTest.java
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at report.analysis.ReportTools.readFile(ReportTools.java:133)
+	at report.analysis.AnalyzeExtractor.processProjectWithoutReport(AnalyzeExtractor.java:33)
+	at application.AddTestsToQueue.processProject(AddTestsToQueue.java:106)
+	at application.AddTestsToQueue.main(AddTestsToQueue.java:85)
+Mon May 07 13:44:28 UTC 2018: No package for: /home/laurence/storage/tech-projects/pauloborba__lattes-analysis/src/test/java/com/pa/manager/GroupManagerTest.java
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at report.analysis.ReportTools.readFile(ReportTools.java:133)
+	at report.analysis.AnalyzeExtractor.processProjectWithoutReport(AnalyzeExtractor.java:33)
+	at application.AddTestsToQueue.processProject(AddTestsToQueue.java:106)
+	at application.AddTestsToQueue.main(AddTestsToQueue.java:85)
+Mon May 07 13:44:28 UTC 2018: No package for: /home/laurence/storage/tech-projects/pauloborba__lattes-analysis/src/test/java/com/pa/associator/QualisAssociationTest.java
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at report.analysis.ReportTools.readFile(ReportTools.java:133)
+	at report.analysis.AnalyzeExtractor.processProjectWithoutReport(AnalyzeExtractor.java:33)
+	at application.AddTestsToQueue.processProject(AddTestsToQueue.java:106)
+	at application.AddTestsToQueue.main(AddTestsToQueue.java:85)
+Mon May 07 13:44:28 UTC 2018: No package for: /home/laurence/storage/tech-projects/pauloborba__lattes-analysis/src/test/java/com/pa/extractor/XMLExtractorTest.java
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at report.analysis.ReportTools.readFile(ReportTools.java:133)
+	at report.analysis.AnalyzeExtractor.processProjectWithoutReport(AnalyzeExtractor.java:33)
+	at application.AddTestsToQueue.processProject(AddTestsToQueue.java:106)
+	at application.AddTestsToQueue.main(AddTestsToQueue.java:85)
+Mon May 07 13:44:28 UTC 2018: No package for: /home/laurence/storage/tech-projects/pauloborba__lattes-analysis/src/test/java/com/pa/extractor/QualisPublicationExtractorTest.java
+java.nio.charset.MalformedInputException: Input length = 1
+	at java.nio.charset.CoderResult.throwException(CoderResult.java:281)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:339)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at report.analysis.ReportTools.readFile(ReportTools.java:133)
+	at report.analysis.AnalyzeExtractor.processProjectWithoutReport(AnalyzeExtractor.java:33)
+	at application.AddTestsToQueue.processProject(AddTestsToQueue.java:106)
+	at application.AddTestsToQueue.main(AddTestsToQueue.java:85)
+Mon May 07 13:44:28 UTC 2018: No package for: /home/laurence/storage/tech-projects/pauloborba__lattes-analysis/src/test/java/com/pa/comparator/SetCurriculoMetricsTest.java
+Mon May 07 13:44:32 UTC 2018: No package for: /home/laurence/storage/tech-projects/dulanim__SAT-Analyser-with-NLP/test/java/ClassIdentificationTest.java
+Mon May 07 13:46:21 UTC 2018: No package for: /home/laurence/storage/tech-projects/DavidAlphaFox__netty/buffer/src/test/java/io/netty/buffer/EmptyByteBufTest.java
+Mon May 07 14:02:58 UTC 2018: No package for: /home/laurence/storage/tech-projects/hazelcast__hazelcas/hazelcast/src/test/java/com/hazelcast/concurrent/atomiclong/AtomicLongClientRequestTest.java

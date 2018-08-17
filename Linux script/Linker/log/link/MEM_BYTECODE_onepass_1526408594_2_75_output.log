@@ -1,0 +1,256 @@
+Wed May 16 05:01:50 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 05:01:50 UTC 2018: Starting
+Wed May 16 05:01:51 UTC 2018: Found element on the queue
+Wed May 16 05:01:51 UTC 2018: Updating status
+Wed May 16 05:01:51 UTC 2018: Working
+Wed May 16 05:01:51 UTC 2018: Create project parser
+Wed May 16 05:01:59 UTC 2018: Create slicer
+Wed May 16 05:02:00 UTC 2018: Create call graph
+Wed May 16 05:02:03 UTC 2018: Create point analysis
+Wed May 16 05:02:03 UTC 2018: Create call graph done
+Wed May 16 05:02:03 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest
+Wed May 16 05:02:03 UTC 2018: Setting lastTestMethodIndex: 62535
+Wed May 16 05:02:03 UTC 2018: Starting linking
+Wed May 16 05:02:03 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.rest.MessageService-postAnnouncement with edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest-testPostAnnouncementFromUnknownUser
+Wed May 16 05:02:04 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.rest.MessageService-postAnnouncement with edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest-testPostAnnouncement
+Wed May 16 05:02:04 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest-testGetAnnouncements
+Wed May 16 05:02:05 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest-testGetVisibleAnnouncementsWithInactiveUser
+Wed May 16 05:02:05 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest-testGetEmptyVisibleAnnouncements
+Wed May 16 05:02:05 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest-testGetVisibleAnnouncements
+Wed May 16 05:02:05 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest-testGetEmptyAnnouncements
+Wed May 16 05:02:06 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest-testSQLInjection
+Wed May 16 05:02:06 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.PublicAnnouncementsMessageServiceTest
+Wed May 16 05:02:07 UTC 2018: Found element on the queue
+Wed May 16 05:02:07 UTC 2018: Updating status
+Wed May 16 05:02:07 UTC 2018: Working
+Wed May 16 05:02:09 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.RequestServiceTest
+Wed May 16 05:02:09 UTC 2018: Setting lastTestMethodIndex: 62537
+Wed May 16 05:02:09 UTC 2018: Starting linking
+Wed May 16 05:02:09 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.RequestServiceTest-testCanRetrieveARequestById
+Wed May 16 05:02:09 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.RequestServiceTest-testCanUpdateARequest
+Wed May 16 05:02:10 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.RequestServiceTest-testCanPostANewRequest
+Wed May 16 05:02:10 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.RequestServiceTest-testCanNotUpdateARequestWithoutTime
+Wed May 16 05:02:10 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.RequestServiceTest
+Wed May 16 05:02:11 UTC 2018: Found element on the queue
+Wed May 16 05:02:11 UTC 2018: Updating status
+Wed May 16 05:02:11 UTC 2018: Working
+Wed May 16 05:02:14 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.RequestsServiceTest
+Wed May 16 05:02:14 UTC 2018: Setting lastTestMethodIndex: 62539
+Wed May 16 05:02:14 UTC 2018: Starting linking
+Wed May 16 05:02:14 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.rest.RequestsService-getAllRequests with edu.cmu.sv.ws.ssnoc.rest.RequestsServiceTest-testGetAllRequests
+Wed May 16 05:02:14 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.rest.RequestsService-getAllRequestsSentByAUser with edu.cmu.sv.ws.ssnoc.rest.RequestsServiceTest-testGetAllRequestsSentByAUserHasMultipleRequest
+Wed May 16 05:02:14 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.rest.RequestsService-getAllRequestsSentByAUser with edu.cmu.sv.ws.ssnoc.rest.RequestsServiceTest-testGetAllRequestsSentByAUserHasOneRequest
+Wed May 16 05:02:15 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.RequestsServiceTest-testGetAllRequestsSentByANonExistingUser
+Wed May 16 05:02:15 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.RequestsServiceTest
+Wed May 16 05:02:16 UTC 2018: Found element on the queue
+Wed May 16 05:02:16 UTC 2018: Updating status
+Wed May 16 05:02:16 UTC 2018: Working
+Wed May 16 05:02:18 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest
+Wed May 16 05:02:18 UTC 2018: Setting lastTestMethodIndex: 62543
+Wed May 16 05:02:18 UTC 2018: Starting linking
+Wed May 16 05:02:18 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingMessagesBetweenTwoUsers
+Wed May 16 05:02:18 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingInvisibleChatMessagesWhenBothAreInactiveReturnsNothing
+Wed May 16 05:02:19 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testSendingChatMessage
+Wed May 16 05:02:19 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingNullMessage
+Wed May 16 05:02:20 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingVisibleMessagesBetweenTwoUsers
+Wed May 16 05:02:20 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testPostingOnWallIfUserIsNull
+Wed May 16 05:02:20 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testPostingOnWallIfDateIsInvalid
+Wed May 16 05:02:21 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingAllMessages
+Wed May 16 05:02:21 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingInvisibleMessagesReturnsNothing
+Wed May 16 05:02:21 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingInvisibleChatMessagesWhenAuthorIsInactiveReturnsNothing
+Wed May 16 05:02:22 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingInvisibleChatMessagesWhenTargetIsInactiveReturnsNothing
+Wed May 16 05:02:22 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testPostingOnRequest
+Wed May 16 05:02:22 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingVisibleMessages
+Wed May 16 05:02:23 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrieveMsgOnRequest
+Wed May 16 05:02:23 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testSendingChatMessageIfUserIsNull
+Wed May 16 05:02:24 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testRetrievingMessageById
+Wed May 16 05:02:24 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testPostingOnWallIfMessageIsNull
+Wed May 16 05:02:24 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest-testPostingOnWall
+Wed May 16 05:02:25 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.MessageServiceTest
+Wed May 16 05:02:25 UTC 2018: Found element on the queue
+Wed May 16 05:02:25 UTC 2018: Updating status
+Wed May 16 05:02:25 UTC 2018: Working
+Wed May 16 05:02:28 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest
+Wed May 16 05:02:28 UTC 2018: Setting lastTestMethodIndex: 62548
+Wed May 16 05:02:28 UTC 2018: Starting linking
+Wed May 16 05:02:28 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.rest.RequestService-setRespondersForARequest with edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest-testSetRespondersForARequest
+Wed May 16 05:02:28 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.rest.RequestService-setRespondersForARequest with edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest-testSetRespondersForARequestWithoutDate
+Wed May 16 05:02:28 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.rest.RequestService-setResponderListForARequest with edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest-testSetResponderListForARequest
+Wed May 16 05:02:29 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest-testGetResponderByResponderId
+Wed May 16 05:02:29 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest-testGetAllMissionsByUserName
+Wed May 16 05:02:29 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest-testUpdateResponderById
+Wed May 16 05:02:30 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest-testSetNonExistingRespondersForARequest
+Wed May 16 05:02:30 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.rest.ResponderServiceTest
+Wed May 16 05:02:30 UTC 2018: Found element on the queue
+Wed May 16 05:02:30 UTC 2018: Updating status
+Wed May 16 05:02:30 UTC 2018: Working
+Wed May 16 05:02:33 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.common.utils.TimestampUtilTest
+Wed May 16 05:02:33 UTC 2018: Setting lastTestMethodIndex: 62551
+Wed May 16 05:02:33 UTC 2018: Starting linking
+Wed May 16 05:02:33 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.common.utils.TimestampUtilTest-testInvalidString
+Wed May 16 05:02:33 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.common.utils.TimestampUtilTest-testStringToDate
+Wed May 16 05:02:34 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.common.utils.TimestampUtilTest-testDateToString
+Wed May 16 05:02:34 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.common.utils.TimestampUtilTest
+Wed May 16 05:02:34 UTC 2018: Found element on the queue
+Wed May 16 05:02:34 UTC 2018: Updating status
+Wed May 16 05:02:34 UTC 2018: Working
+Wed May 16 05:02:37 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtilsTest
+Wed May 16 05:02:37 UTC 2018: Setting lastTestMethodIndex: 62553
+Wed May 16 05:02:37 UTC 2018: Starting linking
+Wed May 16 05:02:37 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtils-convert with edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtilsTest-testConvertingNullMessageDto
+Wed May 16 05:02:38 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtils-convert with edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtilsTest-testConvertingNullMesssagePO
+Wed May 16 05:02:38 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtils-convert with edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtilsTest-testConvertMessageDtoToPo
+Wed May 16 05:02:38 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtils-convert with edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtilsTest-testConvertMessagePoToDto
+Wed May 16 05:02:39 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.common.utils.ConverterUtilsTest
+Wed May 16 05:02:39 UTC 2018: Found element on the queue
+Wed May 16 05:02:39 UTC 2018: Updating status
+Wed May 16 05:02:39 UTC 2018: Working
+Wed May 16 05:02:42 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.dto.MessageTest
+Wed May 16 05:02:42 UTC 2018: Setting lastTestMethodIndex: 62556
+Wed May 16 05:02:42 UTC 2018: Starting linking
+Wed May 16 05:02:42 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.dto.MessageTest-test
+Wed May 16 05:02:42 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.dto.MessageTest
+Wed May 16 05:02:43 UTC 2018: Found element on the queue
+Wed May 16 05:02:43 UTC 2018: Updating status
+Wed May 16 05:02:43 UTC 2018: Working
+Wed May 16 05:02:45 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.po.MessagePOTest
+Wed May 16 05:02:45 UTC 2018: Setting lastTestMethodIndex: 62558
+Wed May 16 05:02:45 UTC 2018: Starting linking
+Wed May 16 05:02:45 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.po.MessagePOTest-test
+Wed May 16 05:02:46 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.po.MessagePOTest
+Wed May 16 05:02:46 UTC 2018: Found element on the queue
+Wed May 16 05:02:46 UTC 2018: Updating status
+Wed May 16 05:02:46 UTC 2018: Working
+Wed May 16 05:02:49 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionProbabilityCheckerTest
+Wed May 16 05:02:49 UTC 2018: Setting lastTestMethodIndex: 62560
+Wed May 16 05:02:49 UTC 2018: Starting linking
+Wed May 16 05:02:49 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionProbabilityCheckerTest-test
+Wed May 16 05:02:49 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionProbabilityCheckerTest
+Wed May 16 05:02:50 UTC 2018: Found element on the queue
+Wed May 16 05:02:50 UTC 2018: Updating status
+Wed May 16 05:02:50 UTC 2018: Working
+Wed May 16 05:02:52 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerTest
+Wed May 16 05:02:52 UTC 2018: Setting lastTestMethodIndex: 62561
+Wed May 16 05:02:52 UTC 2018: Starting linking
+Wed May 16 05:02:52 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerTest-testThatUserConnectionsGenerateNearbySets
+Wed May 16 05:02:53 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerTest-testThatWithNoMessagesWeGetTheSetOfAllUsers
+Wed May 16 05:02:53 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerTest-testThatUserConnectionsGeneratesSetIncludingNonConnectedUsers
+Wed May 16 05:02:54 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerTest
+Wed May 16 05:02:54 UTC 2018: Found element on the queue
+Wed May 16 05:02:54 UTC 2018: Updating status
+Wed May 16 05:02:54 UTC 2018: Working
+Wed May 16 05:02:57 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerGroupTest
+Wed May 16 05:02:57 UTC 2018: Setting lastTestMethodIndex: 62562
+Wed May 16 05:02:57 UTC 2018: Starting linking
+Wed May 16 05:02:57 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerGroupTest-testConnectionsOfD
+Wed May 16 05:02:57 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerGroupTest-testConnectionsOfE
+Wed May 16 05:02:58 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerGroupTest-testConnectionsOfB
+Wed May 16 05:02:58 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerGroupTest-testConnectionsOfC
+Wed May 16 05:02:59 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerGroupTest-testConnectionsOfA
+Wed May 16 05:02:59 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetAnalzerGroupTest
+Wed May 16 05:03:00 UTC 2018: Found element on the queue
+Wed May 16 05:03:00 UTC 2018: Updating status
+Wed May 16 05:03:00 UTC 2018: Working
+Wed May 16 05:03:02 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.SocialNetworkAnalyzerTest
+Wed May 16 05:03:02 UTC 2018: Setting lastTestMethodIndex: 62566
+Wed May 16 05:03:02 UTC 2018: Starting linking
+Wed May 16 05:03:02 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.SocialNetworkAnalyzerTest-testThatAMessageBetweenTwoUsersWillSeparateFromAThirdUser
+Wed May 16 05:03:03 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.SocialNetworkAnalyzerTest-testThatAMessageBetweenThreeUsersWillSeparateThem
+Wed May 16 05:03:03 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.SocialNetworkAnalyzerTest-testBigGroup
+Wed May 16 05:03:04 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.SocialNetworkAnalyzerTest-testThatWithNoMessageWeHaveOneSetOfAllUsers
+Wed May 16 05:03:04 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.SocialNetworkAnalyzerTest-testThatAMessageBetweenTwoUsersWillSeparateThem
+Wed May 16 05:03:04 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.SocialNetworkAnalyzerTest
+Wed May 16 05:03:05 UTC 2018: Found element on the queue
+Wed May 16 05:03:05 UTC 2018: Updating status
+Wed May 16 05:03:05 UTC 2018: Working
+Wed May 16 05:03:08 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetRefinerTest
+Wed May 16 05:03:08 UTC 2018: Setting lastTestMethodIndex: 62568
+Wed May 16 05:03:08 UTC 2018: Starting linking
+Wed May 16 05:03:08 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetRefinerTest-testThatAddingTheSetTwiceIsOk
+Wed May 16 05:03:08 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetRefinerTest-testThatAddingSimilarSetsIsOk
+Wed May 16 05:03:08 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetRefinerTest-testThatWeCanAddASet
+Wed May 16 05:03:09 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetRefinerTest-testThatAddingASupersetWillReplaceASubset
+Wed May 16 05:03:09 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetRefinerTest-testOurBigTest
+Wed May 16 05:03:10 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetRefinerTest-testThatAddingDifferentSetsIsOk
+Wed May 16 05:03:10 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.ConnectionSetRefinerTest
+Wed May 16 05:03:10 UTC 2018: Found element on the queue
+Wed May 16 05:03:10 UTC 2018: Updating status
+Wed May 16 05:03:10 UTC 2018: Working
+Wed May 16 05:03:13 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionsTest
+Wed May 16 05:03:13 UTC 2018: Setting lastTestMethodIndex: 62571
+Wed May 16 05:03:13 UTC 2018: Starting linking
+Wed May 16 05:03:13 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionsTest-testAddingTwoUsers
+Wed May 16 05:03:13 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionsTest-testThatWeAddUserConnection
+Wed May 16 05:03:14 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionsTest
+Wed May 16 05:03:14 UTC 2018: Found element on the queue
+Wed May 16 05:03:14 UTC 2018: Updating status
+Wed May 16 05:03:14 UTC 2018: Working
+Wed May 16 05:03:17 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionBuilderTest
+Wed May 16 05:03:17 UTC 2018: Setting lastTestMethodIndex: 62572
+Wed May 16 05:03:17 UTC 2018: Starting linking
+Wed May 16 05:03:17 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionBuilderTest-testThatSendingAMessageWillAddAConnection
+Wed May 16 05:03:17 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionBuilderTest-testThatReceivingAMessageWillAddAConnection
+Wed May 16 05:03:18 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionBuilderTest-testThatWeCanAddOneUser
+Wed May 16 05:03:18 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionBuilderTest-testThatWeCanAddTwoUsers
+Wed May 16 05:03:19 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.analyzers.UserConnectionBuilderTest
+Wed May 16 05:03:19 UTC 2018: Found element on the queue
+Wed May 16 05:03:19 UTC 2018: Updating status
+Wed May 16 05:03:19 UTC 2018: Working
+Wed May 16 05:03:22 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImplTest
+Wed May 16 05:03:22 UTC 2018: Setting lastTestMethodIndex: 62573
+Wed May 16 05:03:22 UTC 2018: Starting linking
+Wed May 16 05:03:22 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImpl-save with edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImplTest-testSaveNullARequest
+Wed May 16 05:03:22 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImpl-findRequestById with edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImplTest-testFindRequestById
+Wed May 16 05:03:23 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImpl-findAllRequestsByUserName with edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImplTest-testFindAllRequestsByUserName
+Wed May 16 05:03:23 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImpl-getAllRequests with edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImplTest-testGetAllRequests
+Wed May 16 05:03:23 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImpl-save with edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImplTest-testSaveNotNullARequest
+Wed May 16 05:03:24 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.RequestDAOImplTest
+Wed May 16 05:03:25 UTC 2018: Found element on the queue
+Wed May 16 05:03:25 UTC 2018: Updating status
+Wed May 16 05:03:25 UTC 2018: Working
+Wed May 16 05:03:27 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.PublicAnnouncementMessageDAOImplTest
+Wed May 16 05:03:27 UTC 2018: Setting lastTestMethodIndex: 62575
+Wed May 16 05:03:27 UTC 2018: Starting linking
+Wed May 16 05:03:27 UTC 2018: Code found edu.cmu.sv.ws.ssnoc.data.dao.MessageDAOImpl-save with edu.cmu.sv.ws.ssnoc.data.dao.PublicAnnouncementMessageDAOImplTest-testSaveANewAnnouncement
+Wed May 16 05:03:28 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.PublicAnnouncementMessageDAOImplTest-testGetEmptyAnnouncements
+Wed May 16 05:03:28 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.PublicAnnouncementMessageDAOImplTest-testGetAllAnnouncements
+Wed May 16 05:03:29 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.PublicAnnouncementMessageDAOImplTest
+Wed May 16 05:03:29 UTC 2018: Found element on the queue
+Wed May 16 05:03:29 UTC 2018: Updating status
+Wed May 16 05:03:30 UTC 2018: Working
+Wed May 16 05:03:32 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.DAOFactoryTest
+Wed May 16 05:03:32 UTC 2018: Setting lastTestMethodIndex: 62577
+Wed May 16 05:03:32 UTC 2018: Starting linking
+Wed May 16 05:03:32 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.DAOFactoryTest-testFactorySingleton
+Wed May 16 05:03:33 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.DAOFactoryTest-testCreateStatusDAO
+Wed May 16 05:03:33 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.DAOFactoryTest-testCreateMessageDAO
+Wed May 16 05:03:33 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.DAOFactoryTest-testCreateUserDAO
+Wed May 16 05:03:34 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.DAOFactoryTest-testCreateMemoryDAO
+Wed May 16 05:03:34 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.DAOFactoryTest-testCreateFakeMessageDAO
+Wed May 16 05:03:35 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.DAOFactoryTest
+Wed May 16 05:03:35 UTC 2018: Found element on the queue
+Wed May 16 05:03:35 UTC 2018: Updating status
+Wed May 16 05:03:35 UTC 2018: Working
+Wed May 16 05:03:38 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.WallMessageDAOImplTest
+Wed May 16 05:03:38 UTC 2018: Setting lastTestMethodIndex: 62579
+Wed May 16 05:03:38 UTC 2018: Starting linking
+Wed May 16 05:03:38 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.WallMessageDAOImplTest-testFindingMsgByID
+Wed May 16 05:03:38 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.WallMessageDAOImplTest-testFindingLatestWallMessages
+Wed May 16 05:03:39 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.WallMessageDAOImplTest-testTruncatingMessageTable
+Wed May 16 05:03:39 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.WallMessageDAOImplTest-testSavingNullMessage
+Wed May 16 05:03:40 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.WallMessageDAOImplTest-testUpdatingMessage
+Wed May 16 05:03:40 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.WallMessageDAOImplTest
+Wed May 16 05:03:41 UTC 2018: Found element on the queue
+Wed May 16 05:03:41 UTC 2018: Updating status
+Wed May 16 05:03:41 UTC 2018: Working
+Wed May 16 05:03:43 UTC 2018: Start mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest
+Wed May 16 05:03:43 UTC 2018: Setting lastTestMethodIndex: 62582
+Wed May 16 05:03:43 UTC 2018: Starting linking
+Wed May 16 05:03:43 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest-testFindingAuthorAndTarget
+Wed May 16 05:03:44 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest-testFindingAuthorAndTargetIfAuthorIsNull
+Wed May 16 05:03:44 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest-testFindingChatHistory
+Wed May 16 05:03:44 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest-testFindingAuthorAndTargetForMultipleMessages
+Wed May 16 05:03:45 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest-testFindingChatBuddies
+Wed May 16 05:03:45 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest-testFindingChatMessagesSinceDate
+Wed May 16 05:03:46 UTC 2018: No link for: edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest-testFindingAuthorAndTargetIfTargetIsNull
+Wed May 16 05:03:46 UTC 2018: Linking done for mangobin__SSNOC test class edu.cmu.sv.ws.ssnoc.data.dao.ChatMessageDAOImplTest

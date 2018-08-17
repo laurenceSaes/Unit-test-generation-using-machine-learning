@@ -1,0 +1,296 @@
+Wed May 16 03:44:47 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 03:44:47 UTC 2018: Starting
+Wed May 16 03:44:48 UTC 2018: Found element on the queue
+Wed May 16 03:44:48 UTC 2018: Updating status
+Wed May 16 03:44:48 UTC 2018: Working
+Wed May 16 03:44:48 UTC 2018: Create project parser
+Wed May 16 03:44:55 UTC 2018: Create slicer
+Wed May 16 03:44:55 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1010792557
+Wed May 16 03:44:57 UTC 2018: Create call graph
+Wed May 16 03:45:01 UTC 2018: Create point analysis
+Wed May 16 03:45:01 UTC 2018: Create call graph done
+Wed May 16 03:45:01 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestLdapAuthenticationHandler
+Wed May 16 03:45:01 UTC 2018: Setting lastTestMethodIndex: 60055
+Wed May 16 03:45:01 UTC 2018: Starting linking
+Wed May 16 03:45:01 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestLdapAuthenticationHandler-testRequestWithIncompleteAuthorization
+Wed May 16 03:45:01 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestLdapAuthenticationHandler-testRequestWithAuthorization
+Wed May 16 03:45:01 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestLdapAuthenticationHandler-testRequestWithoutAuthorization
+Wed May 16 03:45:02 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestLdapAuthenticationHandler-testRequestWithWrongCredentials
+Wed May 16 03:45:02 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestLdapAuthenticationHandler-testRequestWithInvalidAuthorization
+Wed May 16 03:45:02 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestLdapAuthenticationHandler
+Wed May 16 03:45:03 UTC 2018: Found element on the queue
+Wed May 16 03:45:03 UTC 2018: Updating status
+Wed May 16 03:45:03 UTC 2018: Working
+Wed May 16 03:45:05 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestPseudoAuthenticationHandler
+Wed May 16 03:45:05 UTC 2018: Setting lastTestMethodIndex: 60057
+Wed May 16 03:45:05 UTC 2018: Starting linking
+Wed May 16 03:45:05 UTC 2018: Code found org.apache.hadoop.security.authentication.server.PseudoAuthenticationHandler-init with org.apache.hadoop.security.authentication.server.TestPseudoAuthenticationHandler-testInit
+Wed May 16 03:45:06 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestPseudoAuthenticationHandler-testUserNameAnonymousOn
+Wed May 16 03:45:06 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestPseudoAuthenticationHandler-testAnonymousOn
+Wed May 16 03:45:06 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestPseudoAuthenticationHandler-testAnonymousOff
+Wed May 16 03:45:07 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestPseudoAuthenticationHandler-testUserNameAnonymousOff
+Wed May 16 03:45:07 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestPseudoAuthenticationHandler-testType
+Wed May 16 03:45:07 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestPseudoAuthenticationHandler
+Wed May 16 03:45:08 UTC 2018: Found element on the queue
+Wed May 16 03:45:08 UTC 2018: Updating status
+Wed May 16 03:45:08 UTC 2018: Working
+Wed May 16 03:45:11 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestAuthenticationToken
+Wed May 16 03:45:11 UTC 2018: Setting lastTestMethodIndex: 60060
+Wed May 16 03:45:11 UTC 2018: Starting linking
+Wed May 16 03:45:11 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationToken-testAnonymous
+Wed May 16 03:45:11 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestAuthenticationToken
+Wed May 16 03:45:11 UTC 2018: Found element on the queue
+Wed May 16 03:45:11 UTC 2018: Updating status
+Wed May 16 03:45:11 UTC 2018: Working
+Wed May 16 03:45:14 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestKerberosAuthenticationHandler
+Wed May 16 03:45:14 UTC 2018: Setting lastTestMethodIndex: 60062
+Wed May 16 03:45:14 UTC 2018: Starting linking
+Wed May 16 03:45:14 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestKerberosAuthenticationHandler-testType
+Wed May 16 03:45:14 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestKerberosAuthenticationHandler-testRequestWithIncompleteAuthorization
+Wed May 16 03:45:15 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestKerberosAuthenticationHandler-testNameRules
+Wed May 16 03:45:15 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestKerberosAuthenticationHandler-testDynamicPrincipalDiscovery
+Wed May 16 03:45:15 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestKerberosAuthenticationHandler-testDynamicPrincipalDiscoveryMissingPrincipals
+Wed May 16 03:45:16 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestKerberosAuthenticationHandler-testInit
+Wed May 16 03:45:16 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestKerberosAuthenticationHandler
+Wed May 16 03:45:16 UTC 2018: Found element on the queue
+Wed May 16 03:45:16 UTC 2018: Updating status
+Wed May 16 03:45:16 UTC 2018: Working
+Wed May 16 03:45:19 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestMultiSchemeAuthenticationHandler
+Wed May 16 03:45:19 UTC 2018: Setting lastTestMethodIndex: 60064
+Wed May 16 03:45:19 UTC 2018: Starting linking
+Wed May 16 03:45:19 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestMultiSchemeAuthenticationHandler-testRequestWithoutAuthorization
+Wed May 16 03:45:19 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestMultiSchemeAuthenticationHandler-testRequestWithLdapAuthorization
+Wed May 16 03:45:19 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestMultiSchemeAuthenticationHandler-testRequestWithInvalidAuthorization
+Wed May 16 03:45:20 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestMultiSchemeAuthenticationHandler-testRequestWithInvalidKerberosAuthorization
+Wed May 16 03:45:20 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestMultiSchemeAuthenticationHandler
+Wed May 16 03:45:20 UTC 2018: Found element on the queue
+Wed May 16 03:45:20 UTC 2018: Updating status
+Wed May 16 03:45:20 UTC 2018: Working
+Wed May 16 03:45:23 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestAltKerberosAuthenticationHandler
+Wed May 16 03:45:23 UTC 2018: Setting lastTestMethodIndex: 60065
+Wed May 16 03:45:23 UTC 2018: Starting linking
+Wed May 16 03:45:23 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAltKerberosAuthenticationHandler-testNonDefaultNonBrowserUserAgentAsBrowser
+Wed May 16 03:45:23 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAltKerberosAuthenticationHandler-testAlternateAuthenticationAsBrowser
+Wed May 16 03:45:23 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAltKerberosAuthenticationHandler-testNonDefaultNonBrowserUserAgentAsNonBrowser
+Wed May 16 03:45:24 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestAltKerberosAuthenticationHandler
+Wed May 16 03:45:24 UTC 2018: Found element on the queue
+Wed May 16 03:45:24 UTC 2018: Updating status
+Wed May 16 03:45:24 UTC 2018: Working
+Wed May 16 03:45:27 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler
+Wed May 16 03:45:27 UTC 2018: Setting lastTestMethodIndex: 60067
+Wed May 16 03:45:27 UTC 2018: Starting linking
+Wed May 16 03:45:27 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testFailedSignatureValidationJWT
+Wed May 16 03:45:27 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testOrigURLWithQueryString
+Wed May 16 03:45:27 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testInvalidAudienceJWT
+Wed May 16 03:45:28 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testNoPublicKeyJWT
+Wed May 16 03:45:28 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testNoProviderURLJWT
+Wed May 16 03:45:28 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testUnableToParseJWT
+Wed May 16 03:45:29 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testNoExpirationJWT
+Wed May 16 03:45:29 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testOrigURLNoQueryString
+Wed May 16 03:45:29 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testValidAudienceJWT
+Wed May 16 03:45:30 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testValidJWT
+Wed May 16 03:45:30 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testCustomCookieNameJWT
+Wed May 16 03:45:30 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler-testExpiredJWT
+Wed May 16 03:45:31 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestJWTRedirectAuthentictionHandler
+Wed May 16 03:45:31 UTC 2018: Found element on the queue
+Wed May 16 03:45:31 UTC 2018: Updating status
+Wed May 16 03:45:31 UTC 2018: Working
+Wed May 16 03:45:34 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestAuthenticationFilter
+Wed May 16 03:45:34 UTC 2018: Setting lastTestMethodIndex: 60070
+Wed May 16 03:45:34 UTC 2018: Starting linking
+Wed May 16 03:45:34 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-init with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testInitEmpty
+Wed May 16 03:45:35 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-getConfiguration with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testGetConfiguration
+Wed May 16 03:45:35 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-getToken with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testGetTokenInvalidType
+Wed May 16 03:45:35 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-init with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testInitCaseSensitivity
+Wed May 16 03:45:36 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-doFilter with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticationFailure
+Wed May 16 03:45:36 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-getToken with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testGetToken
+Wed May 16 03:45:36 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-getToken with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testGetTokenExpired
+Wed May 16 03:45:37 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-init with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testInit
+Wed May 16 03:45:37 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-doFilter with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticated
+Wed May 16 03:45:37 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-getRequestURL with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testGetRequestURL
+Wed May 16 03:45:38 UTC 2018: Code found org.apache.hadoop.security.authentication.server.AuthenticationFilter-doFilter with org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterNotAuthenticated
+Wed May 16 03:45:38 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticationImmediateExpiration
+Wed May 16 03:45:38 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testTokenWithValidActivityInterval
+Wed May 16 03:45:39 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticatedExpired
+Wed May 16 03:45:39 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticationWithDomainPath
+Wed May 16 03:45:39 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticationUnauthorizedInactivedExpired
+Wed May 16 03:45:40 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testFallbackToRandomSecretProvider
+Wed May 16 03:45:40 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testTokenWithNoActivityIntervals
+Wed May 16 03:45:41 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticationWithInvalidToken
+Wed May 16 03:45:41 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testTokenWithExpiredActivityIntervaln
+Wed May 16 03:45:41 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testManagementOperation
+Wed May 16 03:45:42 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticatedInvalidType
+Wed May 16 03:45:42 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticationUnauthorizedInactived
+Wed May 16 03:45:42 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthentication
+Wed May 16 03:45:42 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticationUnauthorizedExpired
+Wed May 16 03:45:43 UTC 2018: No link for: org.apache.hadoop.security.authentication.server.TestAuthenticationFilter-testDoFilterAuthenticationAuthorized
+Wed May 16 03:45:43 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.server.TestAuthenticationFilter
+Wed May 16 03:45:44 UTC 2018: Found element on the queue
+Wed May 16 03:45:44 UTC 2018: Updating status
+Wed May 16 03:45:44 UTC 2018: Working
+Wed May 16 03:45:46 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestRandomSignerSecretProvider
+Wed May 16 03:45:46 UTC 2018: Setting lastTestMethodIndex: 60075
+Wed May 16 03:45:46 UTC 2018: Starting linking
+Wed May 16 03:45:46 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestRandomSignerSecretProvider-testGetAndRollSecrets
+Wed May 16 03:45:47 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestRandomSignerSecretProvider
+Wed May 16 03:45:47 UTC 2018: Found element on the queue
+Wed May 16 03:45:47 UTC 2018: Updating status
+Wed May 16 03:45:47 UTC 2018: Working
+Wed May 16 03:45:50 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestFileSignerSecretProvider
+Wed May 16 03:45:50 UTC 2018: Setting lastTestMethodIndex: 60077
+Wed May 16 03:45:50 UTC 2018: Starting linking
+Wed May 16 03:45:50 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestFileSignerSecretProvider-testGetSecrets
+Wed May 16 03:45:50 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestFileSignerSecretProvider
+Wed May 16 03:45:50 UTC 2018: Found element on the queue
+Wed May 16 03:45:50 UTC 2018: Updating status
+Wed May 16 03:45:50 UTC 2018: Working
+Wed May 16 03:45:53 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestCertificateUtil
+Wed May 16 03:45:53 UTC 2018: Setting lastTestMethodIndex: 60079
+Wed May 16 03:45:53 UTC 2018: Starting linking
+Wed May 16 03:45:53 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestCertificateUtil-testValidPEM
+Wed May 16 03:45:53 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestCertificateUtil-testInvalidPEMWithHeaderAndFooter
+Wed May 16 03:45:54 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestCertificateUtil-testCorruptPEM
+Wed May 16 03:45:54 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestCertificateUtil
+Wed May 16 03:45:54 UTC 2018: Found element on the queue
+Wed May 16 03:45:54 UTC 2018: Updating status
+Wed May 16 03:45:54 UTC 2018: Working
+Wed May 16 03:45:57 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestAuthToken
+Wed May 16 03:45:57 UTC 2018: Setting lastTestMethodIndex: 60082
+Wed May 16 03:45:57 UTC 2018: Starting linking
+Wed May 16 03:45:57 UTC 2018: Code found org.apache.hadoop.security.authentication.util.AuthToken-toString with org.apache.hadoop.security.authentication.util.TestAuthToken-testToStringAndParse
+Wed May 16 03:45:57 UTC 2018: Code found org.apache.hadoop.security.authentication.util.AuthToken-parse with org.apache.hadoop.security.authentication.util.TestAuthToken-testParseValidAndInvalid
+Wed May 16 03:45:57 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestAuthToken-testGetters
+Wed May 16 03:45:58 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestAuthToken-testConstructor
+Wed May 16 03:45:58 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestAuthToken
+Wed May 16 03:45:59 UTC 2018: Found element on the queue
+Wed May 16 03:45:59 UTC 2018: Updating status
+Wed May 16 03:45:59 UTC 2018: Working
+Wed May 16 03:46:01 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestRolloverSignerSecretProvider
+Wed May 16 03:46:01 UTC 2018: Setting lastTestMethodIndex: 60084
+Wed May 16 03:46:01 UTC 2018: Starting linking
+Wed May 16 03:46:01 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestRolloverSignerSecretProvider-testGetAndRollSecrets
+Wed May 16 03:46:01 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestRolloverSignerSecretProvider
+Wed May 16 03:46:02 UTC 2018: Found element on the queue
+Wed May 16 03:46:02 UTC 2018: Updating status
+Wed May 16 03:46:02 UTC 2018: Working
+Wed May 16 03:46:05 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestKerberosUtil
+Wed May 16 03:46:05 UTC 2018: Setting lastTestMethodIndex: 60086
+Wed May 16 03:46:05 UTC 2018: Starting linking
+Wed May 16 03:46:05 UTC 2018: Code found org.apache.hadoop.security.authentication.util.KerberosUtil-getPrincipalNames with org.apache.hadoop.security.authentication.util.TestKerberosUtil-testGetPrincipalNamesFromKeytabWithPattern
+Wed May 16 03:46:05 UTC 2018: Code found org.apache.hadoop.security.authentication.util.KerberosUtil-getPrincipalNames with org.apache.hadoop.security.authentication.util.TestKerberosUtil-testGetPrincipalNamesMissingPattern
+Wed May 16 03:46:05 UTC 2018: Code found org.apache.hadoop.security.authentication.util.KerberosUtil-getPrincipalNames with org.apache.hadoop.security.authentication.util.TestKerberosUtil-testGetPrincipalNamesFromKeytab
+Wed May 16 03:46:06 UTC 2018: Code found org.apache.hadoop.security.authentication.util.KerberosUtil-getPrincipalNames with org.apache.hadoop.security.authentication.util.TestKerberosUtil-testGetPrincipalNamesMissingKeytab
+Wed May 16 03:46:06 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestKerberosUtil-testGetServerPrincipal
+Wed May 16 03:46:06 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestKerberosUtil
+Wed May 16 03:46:07 UTC 2018: Found element on the queue
+Wed May 16 03:46:07 UTC 2018: Updating status
+Wed May 16 03:46:07 UTC 2018: Working
+Wed May 16 03:46:09 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestZKSignerSecretProvider
+Wed May 16 03:46:09 UTC 2018: Setting lastTestMethodIndex: 60089
+Wed May 16 03:46:09 UTC 2018: Starting linking
+Wed May 16 03:46:09 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestZKSignerSecretProvider-testMultiple2
+Wed May 16 03:46:10 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestZKSignerSecretProvider-testMultiple1
+Wed May 16 03:46:10 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestZKSignerSecretProvider-testOne
+Wed May 16 03:46:10 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestZKSignerSecretProvider
+Wed May 16 03:46:11 UTC 2018: Found element on the queue
+Wed May 16 03:46:11 UTC 2018: Updating status
+Wed May 16 03:46:11 UTC 2018: Working
+Wed May 16 03:46:13 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestStringSignerSecretProvider
+Wed May 16 03:46:13 UTC 2018: Setting lastTestMethodIndex: 60091
+Wed May 16 03:46:13 UTC 2018: Starting linking
+Wed May 16 03:46:13 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestStringSignerSecretProvider-testGetSecrets
+Wed May 16 03:46:13 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestStringSignerSecretProvider
+Wed May 16 03:46:14 UTC 2018: Found element on the queue
+Wed May 16 03:46:14 UTC 2018: Updating status
+Wed May 16 03:46:14 UTC 2018: Working
+Wed May 16 03:46:16 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestJaasConfiguration
+Wed May 16 03:46:16 UTC 2018: Setting lastTestMethodIndex: 60093
+Wed May 16 03:46:16 UTC 2018: Starting linking
+Wed May 16 03:46:16 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestJaasConfiguration-test
+Wed May 16 03:46:17 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestJaasConfiguration
+Wed May 16 03:46:17 UTC 2018: Found element on the queue
+Wed May 16 03:46:17 UTC 2018: Updating status
+Wed May 16 03:46:17 UTC 2018: Working
+Wed May 16 03:46:19 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestSigner
+Wed May 16 03:46:19 UTC 2018: Setting lastTestMethodIndex: 60095
+Wed May 16 03:46:19 UTC 2018: Starting linking
+Wed May 16 03:46:19 UTC 2018: Code found org.apache.hadoop.security.authentication.util.Signer-sign with org.apache.hadoop.security.authentication.util.TestSigner-testSignature
+Wed May 16 03:46:20 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestSigner-testVerify
+Wed May 16 03:46:20 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestSigner-testInvalidSignedText
+Wed May 16 03:46:20 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestSigner-testTampering
+Wed May 16 03:46:21 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestSigner-testMultipleSecrets
+Wed May 16 03:46:21 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestSigner-testNullAndEmptyString
+Wed May 16 03:46:21 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestSigner
+Wed May 16 03:46:22 UTC 2018: Found element on the queue
+Wed May 16 03:46:22 UTC 2018: Updating status
+Wed May 16 03:46:22 UTC 2018: Working
+Wed May 16 03:46:24 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestKerberosName
+Wed May 16 03:46:24 UTC 2018: Setting lastTestMethodIndex: 60098
+Wed May 16 03:46:24 UTC 2018: Starting linking
+Wed May 16 03:46:24 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestKerberosName-testRules
+Wed May 16 03:46:25 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestKerberosName-testToLowerCase
+Wed May 16 03:46:25 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestKerberosName-testAntiPatterns
+Wed May 16 03:46:25 UTC 2018: No link for: org.apache.hadoop.security.authentication.util.TestKerberosName-testParsing
+Wed May 16 03:46:26 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.util.TestKerberosName
+Wed May 16 03:46:26 UTC 2018: Found element on the queue
+Wed May 16 03:46:26 UTC 2018: Updating status
+Wed May 16 03:46:26 UTC 2018: Working
+Wed May 16 03:46:29 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator
+Wed May 16 03:46:29 UTC 2018: Setting lastTestMethodIndex: 60101
+Wed May 16 03:46:29 UTC 2018: Starting linking
+Wed May 16 03:46:29 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testNotAuthenticated
+Wed May 16 03:46:29 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testAuthenticationHttpClient
+Wed May 16 03:46:29 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testAuthenticationHttpClientPostWithMultiAuthHandler
+Wed May 16 03:46:30 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testFallbacktoPseudoAuthenticatorAnonymous
+Wed May 16 03:46:30 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testFallbacktoPseudoAuthenticator
+Wed May 16 03:46:30 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testAuthenticationHttpClientPost
+Wed May 16 03:46:31 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testAuthenticationPost
+Wed May 16 03:46:31 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testAuthenticationWithMultiAuthHandler
+Wed May 16 03:46:32 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testAuthentication
+Wed May 16 03:46:32 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator-testNotAuthenticatedWithMultiAuthHandler
+Wed May 16 03:46:32 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.client.TestKerberosAuthenticator
+Wed May 16 03:46:33 UTC 2018: Found element on the queue
+Wed May 16 03:46:33 UTC 2018: Updating status
+Wed May 16 03:46:33 UTC 2018: Working
+Wed May 16 03:46:36 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator
+Wed May 16 03:46:36 UTC 2018: Setting lastTestMethodIndex: 60104
+Wed May 16 03:46:36 UTC 2018: Starting linking
+Wed May 16 03:46:36 UTC 2018: Code found org.apache.hadoop.security.authentication.client.PseudoAuthenticator-getUserName with org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator-testGetUserName
+Wed May 16 03:46:36 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator-testAuthenticationAnonymousDisallowedWithPost
+Wed May 16 03:46:37 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator-testAnonymousDisallowed
+Wed May 16 03:46:37 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator-testAuthenticationAnonymousAllowedWithPost
+Wed May 16 03:46:38 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator-testAuthenticationAnonymousDisallowed
+Wed May 16 03:46:38 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator-testAuthenticationAnonymousAllowed
+Wed May 16 03:46:39 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator-testAnonymousAllowed
+Wed May 16 03:46:39 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.client.TestPseudoAuthenticator
+Wed May 16 03:46:39 UTC 2018: Found element on the queue
+Wed May 16 03:46:39 UTC 2018: Updating status
+Wed May 16 03:46:39 UTC 2018: Working
+Wed May 16 03:46:42 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.client.TestAuthenticatedURL
+Wed May 16 03:46:42 UTC 2018: Setting lastTestMethodIndex: 60106
+Wed May 16 03:46:42 UTC 2018: Starting linking
+Wed May 16 03:46:42 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestAuthenticatedURL-testToken
+Wed May 16 03:46:42 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestAuthenticatedURL-testInjectToken
+Wed May 16 03:46:43 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestAuthenticatedURL-testGetAuthenticator
+Wed May 16 03:46:43 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestAuthenticatedURL-testExtractTokenOK
+Wed May 16 03:46:43 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestAuthenticatedURL-testExtractTokenFail
+Wed May 16 03:46:44 UTC 2018: No link for: org.apache.hadoop.security.authentication.client.TestAuthenticatedURL-testConnectionConfigurator
+Wed May 16 03:46:44 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.security.authentication.client.TestAuthenticatedURL
+Wed May 16 03:46:44 UTC 2018: Found element on the queue
+Wed May 16 03:46:44 UTC 2018: Updating status
+Wed May 16 03:46:44 UTC 2018: Working
+Wed May 16 03:46:44 UTC 2018: Create project parser
+Wed May 16 03:46:47 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.minikdc.TestChangeOrgNameAndDomain
+Wed May 16 03:46:47 UTC 2018: Setting lastTestMethodIndex: 60109
+Wed May 16 03:46:47 UTC 2018: Starting linking
+Wed May 16 03:46:47 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.minikdc.TestChangeOrgNameAndDomain
+Wed May 16 03:46:47 UTC 2018: Found element on the queue
+Wed May 16 03:46:47 UTC 2018: Updating status
+Wed May 16 03:46:47 UTC 2018: Working
+Wed May 16 03:46:50 UTC 2018: Start leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.minikdc.TestMiniKdc
+Wed May 16 03:46:50 UTC 2018: Setting lastTestMethodIndex: 60111
+Wed May 16 03:46:50 UTC 2018: Starting linking
+Wed May 16 03:46:50 UTC 2018: No link for: org.apache.hadoop.minikdc.TestMiniKdc-testMiniKdcStart
+Wed May 16 03:46:50 UTC 2018: No link for: org.apache.hadoop.minikdc.TestMiniKdc-testKerberosLogin
+Wed May 16 03:46:50 UTC 2018: No link for: org.apache.hadoop.minikdc.TestMiniKdc-testKeytabGen
+Wed May 16 03:46:51 UTC 2018: Linking done for leechoongyon__HadoopSourceAnalyze test class org.apache.hadoop.minikdc.TestMiniKdc

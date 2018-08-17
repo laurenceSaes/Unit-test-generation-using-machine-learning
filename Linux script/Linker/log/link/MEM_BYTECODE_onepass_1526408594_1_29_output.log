@@ -1,0 +1,278 @@
+Tue May 15 21:37:05 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 21:37:05 UTC 2018: Starting
+Tue May 15 21:37:06 UTC 2018: Found element on the queue
+Tue May 15 21:37:06 UTC 2018: Updating status
+Tue May 15 21:37:06 UTC 2018: Working
+Tue May 15 21:37:06 UTC 2018: Create project parser
+Tue May 15 21:37:17 UTC 2018: Create slicer
+Tue May 15 21:37:22 UTC 2018: Create call graph
+Tue May 15 21:37:29 UTC 2018: Create point analysis
+Tue May 15 21:37:29 UTC 2018: Create call graph done
+Tue May 15 21:37:29 UTC 2018: Start iamgituser__onlinebankin test class actionForm.ActionFormSingleFileForAllTest
+Tue May 15 21:37:29 UTC 2018: Setting lastTestMethodIndex: 48382
+Tue May 15 21:37:29 UTC 2018: Starting linking
+Tue May 15 21:37:29 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testEmp_AddClientGetterSetter
+Tue May 15 21:37:29 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testClientViewGetterSetter
+Tue May 15 21:37:29 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testAdmin_LoginGetterSetter
+Tue May 15 21:37:30 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testEmp_LoginManGetterSetter
+Tue May 15 21:37:30 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testAdmin_AddEmpGetterSetter
+Tue May 15 21:37:30 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testAdmin_LoginManGetterSetter
+Tue May 15 21:37:31 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testBankDetailsGetterSetteer
+Tue May 15 21:37:31 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testAdmin_EmpChPwGetterSetter
+Tue May 15 21:37:31 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testEmp_AddTansGetterSetter
+Tue May 15 21:37:31 UTC 2018: Linking done for iamgituser__onlinebankin test class actionForm.ActionFormSingleFileForAllTest
+Tue May 15 21:37:32 UTC 2018: Found element on the queue
+Tue May 15 21:37:32 UTC 2018: Updating status
+Tue May 15 21:37:32 UTC 2018: Working
+Tue May 15 21:37:35 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Admin_ClientChPW_ActionTest
+Tue May 15 21:37:35 UTC 2018: Setting lastTestMethodIndex: 48385
+Tue May 15 21:37:35 UTC 2018: Starting linking
+Tue May 15 21:37:35 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwWithequalCnewPwAndNewpw
+Tue May 15 21:37:36 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwWithemptyCnewPw
+Tue May 15 21:37:36 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwEmptyNewPw
+Tue May 15 21:37:36 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwWithemptyBankId
+Tue May 15 21:37:37 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwWithUnequalCnewPwAndNewpw
+Tue May 15 21:37:37 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Admin_ClientChPW_ActionTest
+Tue May 15 21:37:39 UTC 2018: Found element on the queue
+Tue May 15 21:37:39 UTC 2018: Updating status
+Tue May 15 21:37:39 UTC 2018: Working
+Tue May 15 21:37:42 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Emp_AddTrans_ActionTest
+Tue May 15 21:37:42 UTC 2018: Setting lastTestMethodIndex: 48386
+Tue May 15 21:37:42 UTC 2018: Starting linking
+Tue May 15 21:37:42 UTC 2018: Code found actionClass.Emp_AddTrans_Action-getWith with actionClass.Emp_AddTrans_ActionTest-testSetGetWithcoverage
+Tue May 15 21:37:42 UTC 2018: Code found actionClass.Emp_AddTrans_Action-deposit with actionClass.Emp_AddTrans_ActionTest-testEmpAddTransDeposit
+Tue May 15 21:37:42 UTC 2018: Code found actionClass.Emp_AddTrans_Action-viewcls with actionClass.Emp_AddTrans_ActionTest-testEmpAddTransviewcls
+Tue May 15 21:37:43 UTC 2018: No link for: actionClass.Emp_AddTrans_ActionTest-testEmpAddTransWithdrawTestfalse
+Tue May 15 21:37:43 UTC 2018: No link for: actionClass.Emp_AddTrans_ActionTest-testEmpAddTransWithdraw
+Tue May 15 21:37:43 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Emp_AddTrans_ActionTest
+Tue May 15 21:37:44 UTC 2018: Found element on the queue
+Tue May 15 21:37:44 UTC 2018: Updating status
+Tue May 15 21:37:44 UTC 2018: Working
+Tue May 15 21:37:48 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Emp_AddClientTest
+Tue May 15 21:37:48 UTC 2018: Setting lastTestMethodIndex: 48387
+Tue May 15 21:37:48 UTC 2018: Starting linking
+Tue May 15 21:37:48 UTC 2018: Code found actionClass.Emp_AddClient_Action-addClients with actionClass.Emp_AddClientTest-testEmp_AddClients
+Tue May 15 21:37:48 UTC 2018: Code found actionClass.Emp_AddClient_Action-editclient with actionClass.Emp_AddClientTest-testEmp_EditClient
+Tue May 15 21:37:48 UTC 2018: Code found actionClass.Emp_AddClient_Action-addClient with actionClass.Emp_AddClientTest-testEmp_AddClient
+Tue May 15 21:37:48 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Emp_AddClientTest
+Tue May 15 21:37:49 UTC 2018: Found element on the queue
+Tue May 15 21:37:49 UTC 2018: Updating status
+Tue May 15 21:37:49 UTC 2018: Working
+Tue May 15 21:37:52 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Bank_Detail_ActionTest
+Tue May 15 21:37:52 UTC 2018: Setting lastTestMethodIndex: 48388
+Tue May 15 21:37:52 UTC 2018: Starting linking
+Tue May 15 21:37:52 UTC 2018: Code found actionClass.Bank_Detail_Action-addBank with actionClass.Bank_Detail_ActionTest-testAddbank
+Tue May 15 21:37:52 UTC 2018: Code found actionClass.Bank_Detail_Action-execute with actionClass.Bank_Detail_ActionTest-testExecute
+Tue May 15 21:37:53 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Bank_Detail_ActionTest
+Tue May 15 21:37:53 UTC 2018: Found element on the queue
+Tue May 15 21:37:53 UTC 2018: Updating status
+Tue May 15 21:37:53 UTC 2018: Working
+Tue May 15 21:37:57 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Admin_Add_Emp_ActionTest
+Tue May 15 21:37:57 UTC 2018: Setting lastTestMethodIndex: 48389
+Tue May 15 21:37:57 UTC 2018: Starting linking
+Tue May 15 21:37:57 UTC 2018: Code found actionClass.Admin_AddEmp_Action-getAdd with actionClass.Admin_Add_Emp_ActionTest-testgetAdds
+Tue May 15 21:37:58 UTC 2018: Code found actionClass.Admin_AddEmp_Action-getXyz with actionClass.Admin_Add_Emp_ActionTest-testgetXYZ
+Tue May 15 21:37:58 UTC 2018: Code found actionClass.Admin_AddEmp_Action-addEmp with actionClass.Admin_Add_Emp_ActionTest-testAddEmp
+Tue May 15 21:37:58 UTC 2018: Code found actionClass.Admin_AddEmp_Action-addEmps with actionClass.Admin_Add_Emp_ActionTest-testAddEmps
+Tue May 15 21:37:59 UTC 2018: No link for: actionClass.Admin_Add_Emp_ActionTest-testgetAdd
+Tue May 15 21:37:59 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Admin_Add_Emp_ActionTest
+Tue May 15 21:38:00 UTC 2018: Found element on the queue
+Tue May 15 21:38:00 UTC 2018: Updating status
+Tue May 15 21:38:00 UTC 2018: Working
+Tue May 15 21:38:04 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Admin_Login_ActionTest
+Tue May 15 21:38:04 UTC 2018: Setting lastTestMethodIndex: 48391
+Tue May 15 21:38:04 UTC 2018: Starting linking
+Tue May 15 21:38:04 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLogintestCheckLoginSuccessBankIdEmpty
+Tue May 15 21:38:04 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLogintestCheckLoginfailBankIdEmpty
+Tue May 15 21:38:05 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwSuccess
+Tue May 15 21:38:05 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwFailnotmatch
+Tue May 15 21:38:05 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwSuccessTestnot
+Tue May 15 21:38:06 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLogintestCheckLoginErrorBankIdNull
+Tue May 15 21:38:06 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwFailNewPwEmpty
+Tue May 15 21:38:06 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLogintestCheckLoginfailPasswordEmpty
+Tue May 15 21:38:07 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwFailoldPwEmpty
+Tue May 15 21:38:07 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwFailCNewPwEmpty
+Tue May 15 21:38:07 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwSuccessTestgood
+Tue May 15 21:38:08 UTC 2018: Code found actionClass.Admin_Login_Action-execute with actionClass.Admin_Login_ActionTest-testExecute
+Tue May 15 21:38:08 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLoginfailUsNameEmpty
+Tue May 15 21:38:08 UTC 2018: No link for: actionClass.Admin_Login_ActionTest-testLogin
+Tue May 15 21:38:08 UTC 2018: No link for: actionClass.Admin_Login_ActionTest-testCheckLoginGetCoverage
+Tue May 15 21:38:09 UTC 2018: No link for: actionClass.Admin_Login_ActionTest-testEmplogout
+Tue May 15 21:38:09 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Admin_Login_ActionTest
+Tue May 15 21:38:10 UTC 2018: Found element on the queue
+Tue May 15 21:38:10 UTC 2018: Updating status
+Tue May 15 21:38:10 UTC 2018: Working
+Tue May 15 21:38:12 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Emp_Login_ActionTest
+Tue May 15 21:38:12 UTC 2018: Setting lastTestMethodIndex: 48394
+Tue May 15 21:38:12 UTC 2018: Starting linking
+Tue May 15 21:38:13 UTC 2018: Code found actionClass.Emp_Login_Action-logout with actionClass.Emp_Login_ActionTest-testEmplogout
+Tue May 15 21:38:13 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwFailoldPwEmpty
+Tue May 15 21:38:13 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwSuccessTestgood
+Tue May 15 21:38:14 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwSuccessTestnot
+Tue May 15 21:38:14 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLogintestCheckLoginErrorBankIdNull
+Tue May 15 21:38:14 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwFailCNewPwEmpty
+Tue May 15 21:38:14 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwFailnotmatch
+Tue May 15 21:38:15 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLogintestCheckLoginfailBankIdEmpty
+Tue May 15 21:38:15 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwFailNewPwEmpty
+Tue May 15 21:38:15 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwSuccess
+Tue May 15 21:38:15 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLogintestCheckLoginfailPasswordEmpty
+Tue May 15 21:38:16 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLoginfailUsNameEmpty
+Tue May 15 21:38:16 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLogintestCheckLoginSuccessBankIdEmpty
+Tue May 15 21:38:16 UTC 2018: Code found actionClass.Emp_Login_Action-execute with actionClass.Emp_Login_ActionTest-testExecuteEmp
+Tue May 15 21:38:17 UTC 2018: No link for: actionClass.Emp_Login_ActionTest-testCheckLoginGetCoverage
+Tue May 15 21:38:17 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Emp_Login_ActionTest
+Tue May 15 21:38:18 UTC 2018: Found element on the queue
+Tue May 15 21:38:18 UTC 2018: Updating status
+Tue May 15 21:38:18 UTC 2018: Working
+Tue May 15 21:38:21 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Client_View_ActionTest
+Tue May 15 21:38:21 UTC 2018: Setting lastTestMethodIndex: 48395
+Tue May 15 21:38:21 UTC 2018: Starting linking
+Tue May 15 21:38:21 UTC 2018: Code found actionClass.Client_View_Action-viewcl with actionClass.Client_View_ActionTest-testViewCl
+Tue May 15 21:38:22 UTC 2018: No link for: actionClass.Client_View_ActionTest-testViewClsetGetCoverage
+Tue May 15 21:38:22 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Client_View_ActionTest
+Tue May 15 21:38:23 UTC 2018: Found element on the queue
+Tue May 15 21:38:23 UTC 2018: Updating status
+Tue May 15 21:38:23 UTC 2018: Working
+Tue May 15 21:38:26 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Client_Login_ActionTest
+Tue May 15 21:38:26 UTC 2018: Setting lastTestMethodIndex: 48397
+Tue May 15 21:38:26 UTC 2018: Starting linking
+Tue May 15 21:38:26 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLoginfailUsNameEmpty
+Tue May 15 21:38:27 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwFailoldPwEmpty
+Tue May 15 21:38:27 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLogintestCheckLoginfailBankIdEmpty
+Tue May 15 21:38:27 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwFailCNewPwEmpty
+Tue May 15 21:38:28 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwFailNewPwEmpty
+Tue May 15 21:38:28 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwSuccessTestnot
+Tue May 15 21:38:28 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLogintestCheckLoginErrorBankIdNull
+Tue May 15 21:38:29 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLogintestCheckLoginSuccessBankIdEmpty
+Tue May 15 21:38:29 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLogintestCheckLoginfailPasswordEmpty
+Tue May 15 21:38:29 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwSuccessTestgood
+Tue May 15 21:38:30 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwFailnotmatch
+Tue May 15 21:38:30 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwSuccess
+Tue May 15 21:38:30 UTC 2018: Code found actionClass.Client_Login_Action-execute with actionClass.Client_Login_ActionTest-testExecuteEmp
+Tue May 15 21:38:31 UTC 2018: Code found actionClass.Client_Login_Action-logout with actionClass.Client_Login_ActionTest-testEmplogout
+Tue May 15 21:38:32 UTC 2018: No link for: actionClass.Client_Login_ActionTest-testCheckLoginGetCoverage
+Tue May 15 21:38:32 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Client_Login_ActionTest
+Tue May 15 21:38:33 UTC 2018: Found element on the queue
+Tue May 15 21:38:33 UTC 2018: Updating status
+Tue May 15 21:38:33 UTC 2018: Working
+Tue May 15 21:38:37 UTC 2018: Start iamgituser__onlinebankin test class actionClass.Admin_EmpChPW_ActionTest
+Tue May 15 21:38:37 UTC 2018: Setting lastTestMethodIndex: 48400
+Tue May 15 21:38:37 UTC 2018: Starting linking
+Tue May 15 21:38:37 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwWithemptyBankId
+Tue May 15 21:38:37 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwWithemptyCnewPw
+Tue May 15 21:38:38 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwWithUnequalCnewPwAndNewpw
+Tue May 15 21:38:38 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwEmptyNewPw
+Tue May 15 21:38:39 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwWithequalCnewPwAndNewpw
+Tue May 15 21:38:39 UTC 2018: Linking done for iamgituser__onlinebankin test class actionClass.Admin_EmpChPW_ActionTest
+Tue May 15 21:38:40 UTC 2018: Found element on the queue
+Tue May 15 21:38:40 UTC 2018: Updating status
+Tue May 15 21:38:40 UTC 2018: Working
+Tue May 15 21:38:44 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Admin_ClientChPW_DaoImplTest
+Tue May 15 21:38:44 UTC 2018: Setting lastTestMethodIndex: 48402
+Tue May 15 21:38:44 UTC 2018: Starting linking
+Tue May 15 21:38:44 UTC 2018: Code found daoImpl.Admin_ClientChPW_DaoImpl-changepw with daoImpl.Admin_ClientChPW_DaoImplTest-testchangepw
+Tue May 15 21:38:45 UTC 2018: Code found daoImpl.Admin_ClientChPW_DaoImpl-changepw with daoImpl.Admin_ClientChPW_DaoImplTest-testchangepwExceptionHandled
+Tue May 15 21:38:45 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Admin_ClientChPW_DaoImplTest
+Tue May 15 21:38:46 UTC 2018: Found element on the queue
+Tue May 15 21:38:46 UTC 2018: Updating status
+Tue May 15 21:38:46 UTC 2018: Working
+Tue May 15 21:38:49 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Emp_AddClient_DaoImplTest
+Tue May 15 21:38:49 UTC 2018: Setting lastTestMethodIndex: 48404
+Tue May 15 21:38:49 UTC 2018: Starting linking
+Tue May 15 21:38:49 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-list with daoImpl.Emp_AddClient_DaoImplTest-testlistClients
+Tue May 15 21:38:49 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-eclient with daoImpl.Emp_AddClient_DaoImplTest-testEClientsExceptionHanldled
+Tue May 15 21:38:50 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-list with daoImpl.Emp_AddClient_DaoImplTest-testlistClientsExceptionHanlded
+Tue May 15 21:38:50 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-eclient with daoImpl.Emp_AddClient_DaoImplTest-testEClients
+Tue May 15 21:38:50 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-addClient with daoImpl.Emp_AddClient_DaoImplTest-testAddClientExceptionHanlded
+Tue May 15 21:38:51 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-addClients with daoImpl.Emp_AddClient_DaoImplTest-testAddClients
+Tue May 15 21:38:51 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-addClients with daoImpl.Emp_AddClient_DaoImplTest-testAddClientsExceptionHanlded
+Tue May 15 21:38:51 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-addClient with daoImpl.Emp_AddClient_DaoImplTest-testAddClient
+Tue May 15 21:38:52 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Emp_AddClient_DaoImplTest
+Tue May 15 21:38:53 UTC 2018: Found element on the queue
+Tue May 15 21:38:53 UTC 2018: Updating status
+Tue May 15 21:38:53 UTC 2018: Working
+Tue May 15 21:38:57 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Emp_AddTrans_DaoImplTest
+Tue May 15 21:38:57 UTC 2018: Setting lastTestMethodIndex: 48406
+Tue May 15 21:38:57 UTC 2018: Starting linking
+Tue May 15 21:38:57 UTC 2018: Code found daoImpl.Emp_AddTrans_DaoImpl-vish with daoImpl.Emp_AddTrans_DaoImplTest-testVish
+Tue May 15 21:38:57 UTC 2018: Code found daoImpl.Emp_AddTrans_DaoImpl-deposit with daoImpl.Emp_AddTrans_DaoImplTest-testDeposit
+Tue May 15 21:38:58 UTC 2018: Code found daoImpl.Emp_AddTrans_DaoImpl-list with daoImpl.Emp_AddTrans_DaoImplTest-testList
+Tue May 15 21:38:58 UTC 2018: No link for: daoImpl.Emp_AddTrans_DaoImplTest-testWithDraw
+Tue May 15 21:38:58 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Emp_AddTrans_DaoImplTest
+Tue May 15 21:38:59 UTC 2018: Found element on the queue
+Tue May 15 21:38:59 UTC 2018: Updating status
+Tue May 15 21:38:59 UTC 2018: Working
+Tue May 15 21:39:02 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Admin_EmpChPW_DaoImplTest
+Tue May 15 21:39:02 UTC 2018: Setting lastTestMethodIndex: 48408
+Tue May 15 21:39:02 UTC 2018: Starting linking
+Tue May 15 21:39:02 UTC 2018: Code found daoImpl.Admin_EmpChPW_DaoImpl-changepw with daoImpl.Admin_EmpChPW_DaoImplTest-testchangepw
+Tue May 15 21:39:03 UTC 2018: Code found daoImpl.Admin_EmpChPW_DaoImpl-changepw with daoImpl.Admin_EmpChPW_DaoImplTest-testchangepwExceptionHandled
+Tue May 15 21:39:04 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Admin_EmpChPW_DaoImplTest
+Tue May 15 21:39:05 UTC 2018: Found element on the queue
+Tue May 15 21:39:05 UTC 2018: Updating status
+Tue May 15 21:39:05 UTC 2018: Working
+Tue May 15 21:39:09 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Bank_Detail_DaoImplTest
+Tue May 15 21:39:09 UTC 2018: Setting lastTestMethodIndex: 48410
+Tue May 15 21:39:09 UTC 2018: Starting linking
+Tue May 15 21:39:09 UTC 2018: Code found daoImpl.Bank_Detail_DaoImpl-list with daoImpl.Bank_Detail_DaoImplTest-testlist
+Tue May 15 21:39:09 UTC 2018: Code found daoImpl.Bank_Detail_DaoImpl-addBank with daoImpl.Bank_Detail_DaoImplTest-testaddBank
+Tue May 15 21:39:10 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Bank_Detail_DaoImplTest
+Tue May 15 21:39:11 UTC 2018: Found element on the queue
+Tue May 15 21:39:11 UTC 2018: Updating status
+Tue May 15 21:39:11 UTC 2018: Working
+Tue May 15 21:39:14 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Emp_Login_DaoImplTest
+Tue May 15 21:39:14 UTC 2018: Setting lastTestMethodIndex: 48412
+Tue May 15 21:39:14 UTC 2018: Starting linking
+Tue May 15 21:39:14 UTC 2018: Code found daoImpl.Emp_Login_DaoImpl-checkLogin with daoImpl.Emp_Login_DaoImplTest-testCheckLogin
+Tue May 15 21:39:14 UTC 2018: Code found daoImpl.Emp_Login_DaoImpl-checkLogin with daoImpl.Emp_Login_DaoImplTest-testCheckLoginHandleException
+Tue May 15 21:39:15 UTC 2018: Code found daoImpl.Emp_Login_DaoImpl-checkLogin with daoImpl.Emp_Login_DaoImplTest-testCheckLoginHandleException2
+Tue May 15 21:39:15 UTC 2018: No link for: daoImpl.Emp_Login_DaoImplTest-testChangpwExcpetionHanldled
+Tue May 15 21:39:15 UTC 2018: No link for: daoImpl.Emp_Login_DaoImplTest-testChangpw
+Tue May 15 21:39:16 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Emp_Login_DaoImplTest
+Tue May 15 21:39:17 UTC 2018: Found element on the queue
+Tue May 15 21:39:17 UTC 2018: Updating status
+Tue May 15 21:39:17 UTC 2018: Working
+Tue May 15 21:39:19 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Client_View_DaoImplTest
+Tue May 15 21:39:19 UTC 2018: Setting lastTestMethodIndex: 48414
+Tue May 15 21:39:19 UTC 2018: Starting linking
+Tue May 15 21:39:19 UTC 2018: Code found daoImpl.Client_View_DaoImpl-list with daoImpl.Client_View_DaoImplTest-testListHandleException
+Tue May 15 21:39:19 UTC 2018: Code found daoImpl.Client_View_DaoImpl-vish with daoImpl.Client_View_DaoImplTest-testVish
+Tue May 15 21:39:20 UTC 2018: Code found daoImpl.Client_View_DaoImpl-list with daoImpl.Client_View_DaoImplTest-testList
+Tue May 15 21:39:20 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Client_View_DaoImplTest
+Tue May 15 21:39:21 UTC 2018: Found element on the queue
+Tue May 15 21:39:21 UTC 2018: Updating status
+Tue May 15 21:39:21 UTC 2018: Working
+Tue May 15 21:39:24 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Admin_AddEmp_DaoImplTest
+Tue May 15 21:39:24 UTC 2018: Setting lastTestMethodIndex: 48416
+Tue May 15 21:39:24 UTC 2018: Starting linking
+Tue May 15 21:39:24 UTC 2018: Code found daoImpl.Admin_AddEmp_DaoImpl-addEmp with daoImpl.Admin_AddEmp_DaoImplTest-testAddEmp
+Tue May 15 21:39:25 UTC 2018: Code found daoImpl.Admin_AddEmp_DaoImpl-addEmps with daoImpl.Admin_AddEmp_DaoImplTest-testAddEmps
+Tue May 15 21:39:25 UTC 2018: Code found daoImpl.Admin_AddEmp_DaoImpl-addEmp with daoImpl.Admin_AddEmp_DaoImplTest-testAddEmpExceptionHandled
+Tue May 15 21:39:26 UTC 2018: Code found daoImpl.Admin_AddEmp_DaoImpl-addEmps with daoImpl.Admin_AddEmp_DaoImplTest-testAddEmpsExceptionHanlded
+Tue May 15 21:39:26 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Admin_AddEmp_DaoImplTest
+Tue May 15 21:39:27 UTC 2018: Found element on the queue
+Tue May 15 21:39:27 UTC 2018: Updating status
+Tue May 15 21:39:27 UTC 2018: Working
+Tue May 15 21:39:30 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Client_Login_DaoImplTest
+Tue May 15 21:39:30 UTC 2018: Setting lastTestMethodIndex: 48418
+Tue May 15 21:39:30 UTC 2018: Starting linking
+Tue May 15 21:39:30 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-changepw with daoImpl.Client_Login_DaoImplTest-changepwExceptionHanlded
+Tue May 15 21:39:30 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-checkLogin with daoImpl.Client_Login_DaoImplTest-testcheckLoginExceptionHanlded
+Tue May 15 21:39:31 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-checkLogin with daoImpl.Client_Login_DaoImplTest-testcheckLoginHasEmptyqeryResult
+Tue May 15 21:39:31 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-checkLogin with daoImpl.Client_Login_DaoImplTest-testcheckLoginExHandllewithlesslist
+Tue May 15 21:39:31 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-checkLogin with daoImpl.Client_Login_DaoImplTest-testcheckLogin
+Tue May 15 21:39:31 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-changepw with daoImpl.Client_Login_DaoImplTest-changepw
+Tue May 15 21:39:32 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Client_Login_DaoImplTest
+Tue May 15 21:39:33 UTC 2018: Found element on the queue
+Tue May 15 21:39:33 UTC 2018: Updating status
+Tue May 15 21:39:33 UTC 2018: Working
+Tue May 15 21:39:36 UTC 2018: Start iamgituser__onlinebankin test class daoImpl.Admin_Login_DaoImplTest
+Tue May 15 21:39:36 UTC 2018: Setting lastTestMethodIndex: 48420
+Tue May 15 21:39:36 UTC 2018: Starting linking
+Tue May 15 21:39:36 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-checkLogin with daoImpl.Admin_Login_DaoImplTest-testcheckLoginHasEmptyqeryResult
+Tue May 15 21:39:36 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-checkLogin with daoImpl.Admin_Login_DaoImplTest-testcheckLoginExHandllewithlesslist
+Tue May 15 21:39:36 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-checkLogin with daoImpl.Admin_Login_DaoImplTest-testcheckLoginExceptionHanlded
+Tue May 15 21:39:37 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-checkLogin with daoImpl.Admin_Login_DaoImplTest-testcheckLogin
+Tue May 15 21:39:37 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-changepw with daoImpl.Admin_Login_DaoImplTest-changepwExceptionHanlded
+Tue May 15 21:39:37 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-changepw with daoImpl.Admin_Login_DaoImplTest-changepw
+Tue May 15 21:39:38 UTC 2018: Linking done for iamgituser__onlinebankin test class daoImpl.Admin_Login_DaoImplTest

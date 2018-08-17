@@ -1,0 +1,852 @@
+Tue May 15 17:53:16 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 17:53:17 UTC 2018: Starting
+Tue May 15 17:53:17 UTC 2018: Found element on the queue
+Tue May 15 17:53:17 UTC 2018: Updating status
+Tue May 15 17:53:17 UTC 2018: Working
+Tue May 15 17:53:17 UTC 2018: Create project parser
+Tue May 15 17:53:21 UTC 2018: Create slicer
+Tue May 15 17:53:26 UTC 2018: Create call graph
+Tue May 15 17:53:33 UTC 2018: Create point analysis
+Tue May 15 17:53:33 UTC 2018: Create call graph done
+Tue May 15 17:53:33 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.alluxio.AlluxioInterpreterTest
+Tue May 15 17:53:33 UTC 2018: Setting lastTestMethodIndex: 40969
+Tue May 15 17:53:33 UTC 2018: Starting linking
+Tue May 15 17:53:34 UTC 2018: Code found org.apache.zeppelin.alluxio.AlluxioInterpreter-completion with org.apache.zeppelin.alluxio.AlluxioInterpreterTest-testCompletion
+Tue May 15 17:53:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:53:34 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-loadFileTest
+Tue May 15 17:53:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:34 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalTestWithFullURI
+Tue May 15 17:53:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:34 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalTest
+Tue May 15 17:53:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:34 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirExistingTest
+Tue May 15 17:53:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:34 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-locationNotExistTest
+Tue May 15 17:53:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:35 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-fileinfoNotExistTest
+Tue May 15 17:53:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:35 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-loadDirTest
+Tue May 15 17:53:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:35 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-countTest
+Tue May 15 17:53:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:35 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyToLocalTest
+Tue May 15 17:53:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:35 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirInvalidPathTest
+Tue May 15 17:53:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:35 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catNotExistTest
+Tue May 15 17:53:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:36 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalLargeTest
+Tue May 15 17:53:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:36 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catDirectoryTest
+Tue May 15 17:53:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:36 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirShortPathTest
+Tue May 15 17:53:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:36 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirTest
+Tue May 15 17:53:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:36 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-lsRecursiveTest
+Tue May 15 17:53:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:36 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-lsTest
+Tue May 15 17:53:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:36 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-countNotExistTest
+Tue May 15 17:53:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:37 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyToLocalLargeTest
+Tue May 15 17:53:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:37 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalFileToDstPathTest
+Tue May 15 17:53:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:37 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catTest
+Tue May 15 17:53:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:37 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirComplexPathTest
+Tue May 15 17:53:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:37 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.alluxio.AlluxioInterpreterTest
+Tue May 15 17:53:38 UTC 2018: Found element on the queue
+Tue May 15 17:53:38 UTC 2018: Updating status
+Tue May 15 17:53:38 UTC 2018: Working
+Tue May 15 17:53:38 UTC 2018: Create project parser
+Tue May 15 17:53:41 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.cassandra.InterpreterLogicTest
+Tue May 15 17:53:41 UTC 2018: Setting lastTestMethodIndex: 40973
+Tue May 15 17:53:41 UTC 2018: Starting linking
+Tue May 15 17:53:41 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_serial_consistency_option
+Tue May 15 17:53:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:41 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_timestamp_option
+Tue May 15 17:53:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:41 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_retry_policy_option
+Tue May 15 17:53:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:41 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_generate_batch_statement
+Tue May 15 17:53:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:41 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_from_angular_object_registry
+Tue May 15 17:53:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:42 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_request_timeout_option
+Tue May 15 17:53:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:42 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_input_string_block
+Tue May 15 17:53:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:42 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_exception_while_parsing_input
+Tue May 15 17:53:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:42 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_and_default_value
+Tue May 15 17:53:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:42 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_and_choices
+Tue May 15 17:53:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:42 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_consistency_option
+Tue May 15 17:53:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:43 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_bound_values
+Tue May 15 17:53:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:43 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_simple_date
+Tue May 15 17:53:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:43 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_accurate_date
+Tue May 15 17:53:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:43 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_no_variable
+Tue May 15 17:53:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:43 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_error_if_incorrect_variable_definition
+Tue May 15 17:53:43 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_generate_simple_statement
+Tue May 15 17:53:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:44 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.cassandra.InterpreterLogicTest
+Tue May 15 17:53:44 UTC 2018: Found element on the queue
+Tue May 15 17:53:44 UTC 2018: Updating status
+Tue May 15 17:53:44 UTC 2018: Working
+Tue May 15 17:53:47 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.cassandra.CassandraInterpreterTest
+Tue May 15 17:53:47 UTC 2018: Setting lastTestMethodIndex: 40975
+Tue May 15 17:53:47 UTC 2018: Starting linking
+Tue May 15 17:53:47 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_multiple_statements_with_single_line_logged_batch
+Tue May 15 17:53:47 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_select_statement
+Tue May 15 17:53:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:53:47 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_simple_select
+Tue May 15 17:53:47 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_request_timeout
+Tue May 15 17:53:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:47 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_validate_statement
+Tue May 15 17:53:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:48 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_table
+Tue May 15 17:53:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:48 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_display_statistics_for_non_select_statement
+Tue May 15 17:53:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:48 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_throw_statement_not_having_semi_colon
+Tue May 15 17:53:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:48 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_udt_withing_logged_in_keyspace
+Tue May 15 17:53:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:48 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_describing_non_existing_table
+Tue May 15 17:53:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:48 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_prepared_and_bound_statements
+Tue May 15 17:53:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:48 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_function
+Tue May 15 17:53:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:49 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_materialized_view
+Tue May 15 17:53:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:49 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_bound_statement
+Tue May 15 17:53:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:49 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_timestamp_option
+Tue May 15 17:53:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:49 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_udt
+Tue May 15 17:53:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:49 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_bind_boolean_value
+Tue May 15 17:53:49 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_show_help
+Tue May 15 17:53:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:49 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_just_prepare_statement
+Tue May 15 17:53:50 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_create_cluster_and_session_upon_call_to_open
+Tue May 15 17:53:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:50 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_bound_statement_with_no_bound_value
+Tue May 15 17:53:50 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_and_display_stack_trace
+Tue May 15 17:53:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:50 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_keyspace
+Tue May 15 17:53:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:50 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_serial_consistency_option
+Tue May 15 17:53:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:50 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_bind_null_value
+Tue May 15 17:53:50 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_extract_variable_from_statement
+Tue May 15 17:53:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_aggregate
+Tue May 15 17:53:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_fail_when_executing_a_removed_prepared_statement
+Tue May 15 17:53:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_consistency_option
+Tue May 15 17:53:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_parse_date_value
+Tue May 15 17:53:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_cluster
+Tue May 15 17:53:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_exception_when_executing_unknown_bound_statement
+Tue May 15 17:53:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_describing_non_existing_udt
+Tue May 15 17:53:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:52 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_retry_policy
+Tue May 15 17:53:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:52 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_keyspaces
+Tue May 15 17:53:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:52 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.cassandra.CassandraInterpreterTest
+Tue May 15 17:53:52 UTC 2018: Found element on the queue
+Tue May 15 17:53:52 UTC 2018: Updating status
+Tue May 15 17:53:52 UTC 2018: Working
+Tue May 15 17:53:52 UTC 2018: Create project parser
+Tue May 15 17:53:53 UTC 2018: Found element on the queue
+Tue May 15 17:53:53 UTC 2018: Updating status
+Tue May 15 17:53:53 UTC 2018: Working
+Tue May 15 17:53:53 UTC 2018: Create project parser
+Tue May 15 17:53:56 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.file.HDFSFileInterpreterTest
+Tue May 15 17:53:56 UTC 2018: Setting lastTestMethodIndex: 40979
+Tue May 15 17:53:56 UTC 2018: Starting linking
+Tue May 15 17:53:56 UTC 2018: No link for: org.apache.zeppelin.file.HDFSFileInterpreterTest-testMaxLength
+Tue May 15 17:53:56 UTC 2018: No link for: org.apache.zeppelin.file.HDFSFileInterpreterTest-test
+Tue May 15 17:53:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:53:57 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.file.HDFSFileInterpreterTest
+Tue May 15 17:53:57 UTC 2018: Found element on the queue
+Tue May 15 17:53:57 UTC 2018: Updating status
+Tue May 15 17:53:57 UTC 2018: Working
+Tue May 15 17:53:57 UTC 2018: Create project parser
+Tue May 15 17:54:00 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.flink.FlinkInterpreterTest
+Tue May 15 17:54:00 UTC 2018: Setting lastTestMethodIndex: 40981
+Tue May 15 17:54:00 UTC 2018: Starting linking
+Tue May 15 17:54:00 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testNextLineComments
+Tue May 15 17:54:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:00 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testSimpleStatement
+Tue May 15 17:54:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:00 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testWordCount
+Tue May 15 17:54:00 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testNextLineInvocation
+Tue May 15 17:54:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:00 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testNextLineCompanionObject
+Tue May 15 17:54:01 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testSimpleStatementWithSystemOutput
+Tue May 15 17:54:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:01 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.flink.FlinkInterpreterTest
+Tue May 15 17:54:01 UTC 2018: Found element on the queue
+Tue May 15 17:54:01 UTC 2018: Updating status
+Tue May 15 17:54:01 UTC 2018: Working
+Tue May 15 17:54:01 UTC 2018: Create project parser
+Tue May 15 17:54:04 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.hbase.HbaseInterpreterTest
+Tue May 15 17:54:04 UTC 2018: Setting lastTestMethodIndex: 40983
+Tue May 15 17:54:04 UTC 2018: Starting linking
+Tue May 15 17:54:04 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-newObject
+Tue May 15 17:54:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:04 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-testException
+Tue May 15 17:54:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:04 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-putsTest
+Tue May 15 17:54:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:05 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.hbase.HbaseInterpreterTest
+Tue May 15 17:54:05 UTC 2018: Found element on the queue
+Tue May 15 17:54:05 UTC 2018: Updating status
+Tue May 15 17:54:05 UTC 2018: Working
+Tue May 15 17:54:05 UTC 2018: Create project parser
+Tue May 15 17:54:08 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.ignite.IgniteSqlInterpreterTest
+Tue May 15 17:54:08 UTC 2018: Setting lastTestMethodIndex: 40985
+Tue May 15 17:54:08 UTC 2018: Starting linking
+Tue May 15 17:54:08 UTC 2018: No link for: org.apache.zeppelin.ignite.IgniteSqlInterpreterTest-testSql
+Tue May 15 17:54:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:08 UTC 2018: No link for: org.apache.zeppelin.ignite.IgniteSqlInterpreterTest-testInvalidSql
+Tue May 15 17:54:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:08 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.ignite.IgniteSqlInterpreterTest
+Tue May 15 17:54:08 UTC 2018: Found element on the queue
+Tue May 15 17:54:08 UTC 2018: Updating status
+Tue May 15 17:54:08 UTC 2018: Working
+Tue May 15 17:54:11 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.ignite.IgniteInterpreterTest
+Tue May 15 17:54:11 UTC 2018: Setting lastTestMethodIndex: 40987
+Tue May 15 17:54:11 UTC 2018: Starting linking
+Tue May 15 17:54:11 UTC 2018: Code found org.apache.zeppelin.ignite.IgniteInterpreter-interpret with org.apache.zeppelin.ignite.IgniteInterpreterTest-testInterpretInvalidInput
+Tue May 15 17:54:11 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:54:11 UTC 2018: Code found org.apache.zeppelin.ignite.IgniteInterpreter-interpret with org.apache.zeppelin.ignite.IgniteInterpreterTest-testInterpret
+Tue May 15 17:54:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:54:12 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.ignite.IgniteInterpreterTest
+Tue May 15 17:54:12 UTC 2018: Found element on the queue
+Tue May 15 17:54:12 UTC 2018: Updating status
+Tue May 15 17:54:12 UTC 2018: Working
+Tue May 15 17:54:12 UTC 2018: Create project parser
+Tue May 15 17:54:15 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.jdbc.SqlCompleterTest
+Tue May 15 17:54:15 UTC 2018: Setting lastTestMethodIndex: 40989
+Tue May 15 17:54:15 UTC 2018: Starting linking
+Tue May 15 17:54:15 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.jdbc.SqlCompleterTest
+Tue May 15 17:54:15 UTC 2018: Found element on the queue
+Tue May 15 17:54:15 UTC 2018: Updating status
+Tue May 15 17:54:15 UTC 2018: Working
+Tue May 15 17:54:18 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.jdbc.JDBCInterpreterTest
+Tue May 15 17:54:18 UTC 2018: Setting lastTestMethodIndex: 40991
+Tue May 15 17:54:18 UTC 2018: Starting linking
+Tue May 15 17:54:18 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testQueryWithEscapedCharacters
+Tue May 15 17:54:18 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQuery
+Tue May 15 17:54:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:18 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-concurrentSettingTest
+Tue May 15 17:54:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:18 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testDefaultSplitQuries
+Tue May 15 17:54:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:19 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testForMapPrefix
+Tue May 15 17:54:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:19 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testAutoCompletion
+Tue May 15 17:54:19 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testPrecodeWithAnotherPrefix
+Tue May 15 17:54:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:19 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSplitSqlQueryWithComments
+Tue May 15 17:54:19 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testForParsePropertyKey
+Tue May 15 17:54:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:19 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testPrecode
+Tue May 15 17:54:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:20 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testStatementPrecode
+Tue May 15 17:54:20 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testStatementPrecodeWithAnotherPrefix
+Tue May 15 17:54:20 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQueryWithNull
+Tue May 15 17:54:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:20 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testDefaultProperties
+Tue May 15 17:54:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:20 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectMultipleQueries
+Tue May 15 17:54:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:20 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQueryMaxResult
+Tue May 15 17:54:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:21 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testIncorrectPrecode
+Tue May 15 17:54:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:21 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSplitSqlQuery
+Tue May 15 17:54:21 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testMultiTenant
+Tue May 15 17:54:21 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testIncorrectStatementPrecode
+Tue May 15 17:54:21 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.jdbc.JDBCInterpreterTest
+Tue May 15 17:54:22 UTC 2018: Found element on the queue
+Tue May 15 17:54:22 UTC 2018: Updating status
+Tue May 15 17:54:22 UTC 2018: Working
+Tue May 15 17:54:22 UTC 2018: Create project parser
+Tue May 15 17:54:24 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.kylin.KylinInterpreterTest
+Tue May 15 17:54:24 UTC 2018: Setting lastTestMethodIndex: 40994
+Tue May 15 17:54:24 UTC 2018: Starting linking
+Tue May 15 17:54:24 UTC 2018: No link for: org.apache.zeppelin.kylin.KylinInterpreterTest-testWithProject
+Tue May 15 17:54:24 UTC 2018: No link for: org.apache.zeppelin.kylin.KylinInterpreterTest-testWithDefault
+Tue May 15 17:54:24 UTC 2018: No link for: org.apache.zeppelin.kylin.KylinInterpreterTest-testParseResult
+Tue May 15 17:54:25 UTC 2018: No link for: org.apache.zeppelin.kylin.KylinInterpreterTest-testParseEmptyResult
+Tue May 15 17:54:25 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.kylin.KylinInterpreterTest
+Tue May 15 17:54:25 UTC 2018: Found element on the queue
+Tue May 15 17:54:25 UTC 2018: Updating status
+Tue May 15 17:54:25 UTC 2018: Working
+Tue May 15 17:54:25 UTC 2018: Create project parser
+Tue May 15 17:54:28 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.lens.LensInterpreterTest
+Tue May 15 17:54:28 UTC 2018: Setting lastTestMethodIndex: 40996
+Tue May 15 17:54:28 UTC 2018: Starting linking
+Tue May 15 17:54:28 UTC 2018: No link for: org.apache.zeppelin.lens.LensInterpreterTest-test
+Tue May 15 17:54:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:28 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.lens.LensInterpreterTest
+Tue May 15 17:54:28 UTC 2018: Found element on the queue
+Tue May 15 17:54:28 UTC 2018: Updating status
+Tue May 15 17:54:28 UTC 2018: Working
+Tue May 15 17:54:28 UTC 2018: Create project parser
+Tue May 15 17:54:31 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.livy.LivySQLInterpreterTest
+Tue May 15 17:54:31 UTC 2018: Setting lastTestMethodIndex: 40998
+Tue May 15 17:54:31 UTC 2018: Starting linking
+Tue May 15 17:54:32 UTC 2018: Code found org.apache.zeppelin.livy.LivySparkSQLInterpreter-parseSQLOutput with org.apache.zeppelin.livy.LivySQLInterpreterTest-testParseSQLOutput
+Tue May 15 17:54:32 UTC 2018: No link for: org.apache.zeppelin.livy.LivySQLInterpreterTest-testHttpHeaders
+Tue May 15 17:54:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:32 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.livy.LivySQLInterpreterTest
+Tue May 15 17:54:32 UTC 2018: Found element on the queue
+Tue May 15 17:54:32 UTC 2018: Updating status
+Tue May 15 17:54:32 UTC 2018: Working
+Tue May 15 17:54:32 UTC 2018: Create project parser
+Tue May 15 17:54:35 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.markdown.PegdownParserTest
+Tue May 15 17:54:35 UTC 2018: Setting lastTestMethodIndex: 41000
+Tue May 15 17:54:35 UTC 2018: Starting linking
+Tue May 15 17:54:35 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testHeader
+Tue May 15 17:54:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:35 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testStrikethrough
+Tue May 15 17:54:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:35 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testYumlPlugin
+Tue May 15 17:54:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:35 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testBlockQuotes
+Tue May 15 17:54:36 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testMultipleThread
+Tue May 15 17:54:36 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testUnorderedList
+Tue May 15 17:54:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:36 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testItalics
+Tue May 15 17:54:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:36 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testStrongEmphasis
+Tue May 15 17:54:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:36 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testOrderedList
+Tue May 15 17:54:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:36 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testLinks
+Tue May 15 17:54:37 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testInlineCode
+Tue May 15 17:54:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:37 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testAlignedTable
+Tue May 15 17:54:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:37 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testWebsequencePlugin
+Tue May 15 17:54:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:37 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testSimpleTable
+Tue May 15 17:54:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:37 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.markdown.PegdownParserTest
+Tue May 15 17:54:38 UTC 2018: Found element on the queue
+Tue May 15 17:54:38 UTC 2018: Updating status
+Tue May 15 17:54:38 UTC 2018: Working
+Tue May 15 17:54:40 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.markdown.Markdown4jParserTest
+Tue May 15 17:54:40 UTC 2018: Setting lastTestMethodIndex: 41003
+Tue May 15 17:54:40 UTC 2018: Starting linking
+Tue May 15 17:54:40 UTC 2018: No link for: org.apache.zeppelin.markdown.Markdown4jParserTest-testStrikethrough
+Tue May 15 17:54:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:41 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.markdown.Markdown4jParserTest
+Tue May 15 17:54:41 UTC 2018: Found element on the queue
+Tue May 15 17:54:41 UTC 2018: Updating status
+Tue May 15 17:54:41 UTC 2018: Working
+Tue May 15 17:54:41 UTC 2018: Create project parser
+Tue May 15 17:54:44 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.pig.PigQueryInterpreterTest
+Tue May 15 17:54:44 UTC 2018: Setting lastTestMethodIndex: 41005
+Tue May 15 17:54:44 UTC 2018: Starting linking
+Tue May 15 17:54:44 UTC 2018: No link for: org.apache.zeppelin.pig.PigQueryInterpreterTest-testBasics
+Tue May 15 17:54:44 UTC 2018: No link for: org.apache.zeppelin.pig.PigQueryInterpreterTest-testMaxResult
+Tue May 15 17:54:45 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:45 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.pig.PigQueryInterpreterTest
+Tue May 15 17:54:45 UTC 2018: Found element on the queue
+Tue May 15 17:54:45 UTC 2018: Updating status
+Tue May 15 17:54:45 UTC 2018: Working
+Tue May 15 17:54:47 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.pig.PigInterpreterTest
+Tue May 15 17:54:47 UTC 2018: Setting lastTestMethodIndex: 41007
+Tue May 15 17:54:47 UTC 2018: Starting linking
+Tue May 15 17:54:47 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTest-testIncludeJobStats
+Tue May 15 17:54:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:47 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTest-testBasics
+Tue May 15 17:54:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:48 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.pig.PigInterpreterTest
+Tue May 15 17:54:48 UTC 2018: Found element on the queue
+Tue May 15 17:54:48 UTC 2018: Updating status
+Tue May 15 17:54:48 UTC 2018: Working
+Tue May 15 17:54:50 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.pig.PigInterpreterTezTest
+Tue May 15 17:54:50 UTC 2018: Setting lastTestMethodIndex: 41009
+Tue May 15 17:54:50 UTC 2018: Starting linking
+Tue May 15 17:54:50 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTezTest-testBasics
+Tue May 15 17:54:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:51 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTezTest-testIncludeJobStats
+Tue May 15 17:54:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:51 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.pig.PigInterpreterTezTest
+Tue May 15 17:54:51 UTC 2018: Found element on the queue
+Tue May 15 17:54:51 UTC 2018: Updating status
+Tue May 15 17:54:51 UTC 2018: Working
+Tue May 15 17:54:54 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.pig.PigInterpreterSparkTest
+Tue May 15 17:54:54 UTC 2018: Setting lastTestMethodIndex: 41011
+Tue May 15 17:54:54 UTC 2018: Starting linking
+Tue May 15 17:54:54 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterSparkTest-testIncludeJobStats
+Tue May 15 17:54:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:54 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterSparkTest-testBasics
+Tue May 15 17:54:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:54:54 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.pig.PigInterpreterSparkTest
+Tue May 15 17:54:54 UTC 2018: Found element on the queue
+Tue May 15 17:54:54 UTC 2018: Updating status
+Tue May 15 17:54:54 UTC 2018: Working
+Tue May 15 17:54:54 UTC 2018: Create project parser
+Tue May 15 17:54:58 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.python.PythonCondaInterpreterTest
+Tue May 15 17:54:58 UTC 2018: Setting lastTestMethodIndex: 41013
+Tue May 15 17:54:58 UTC 2018: Starting linking
+Tue May 15 17:54:58 UTC 2018: Code found org.apache.zeppelin.python.PythonCondaInterpreter-parseCondaCommonStdout with org.apache.zeppelin.python.PythonCondaInterpreterTest-testParseCondaCommonStdout
+Tue May 15 17:54:58 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:54:58 UTC 2018: No code found org.apache.zeppelin.python.PythonCondaInterpreter-getRestArgsFromMatcher with org.apache.zeppelin.python.PythonCondaInterpreterTest-testGetRestArgsFromMatcher
+Tue May 15 17:54:58 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testListEnv
+Tue May 15 17:54:58 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testActivateEnv
+Tue May 15 17:54:58 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testDeactivate
+Tue May 15 17:54:59 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.python.PythonCondaInterpreterTest
+Tue May 15 17:54:59 UTC 2018: Found element on the queue
+Tue May 15 17:54:59 UTC 2018: Updating status
+Tue May 15 17:54:59 UTC 2018: Working
+Tue May 15 17:55:01 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.python.PythonDockerInterpreterTest
+Tue May 15 17:55:01 UTC 2018: Setting lastTestMethodIndex: 41015
+Tue May 15 17:55:01 UTC 2018: Starting linking
+Tue May 15 17:55:01 UTC 2018: No link for: org.apache.zeppelin.python.PythonDockerInterpreterTest-testDeactivate
+Tue May 15 17:55:02 UTC 2018: No link for: org.apache.zeppelin.python.PythonDockerInterpreterTest-testActivateEnv
+Tue May 15 17:55:02 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.python.PythonDockerInterpreterTest
+Tue May 15 17:55:02 UTC 2018: Found element on the queue
+Tue May 15 17:55:02 UTC 2018: Updating status
+Tue May 15 17:55:02 UTC 2018: Working
+Tue May 15 17:55:02 UTC 2018: Create project parser
+Tue May 15 17:55:06 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.sap.universe.UniverseCompleterTest
+Tue May 15 17:55:06 UTC 2018: Setting lastTestMethodIndex: 41017
+Tue May 15 17:55:06 UTC 2018: Starting linking
+Tue May 15 17:55:06 UTC 2018: Code found org.apache.zeppelin.sap.universe.UniverseNodeInfoCompleter-complete with org.apache.zeppelin.sap.universe.UniverseCompleterTest-testCreateUniverseNameCompleter
+Tue May 15 17:55:06 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseCompleterTest-testNestedUniverseNodes
+Tue May 15 17:55:06 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseCompleterTest-testCreateUniverseNodesCompleter
+Tue May 15 17:55:06 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.sap.universe.UniverseCompleterTest
+Tue May 15 17:55:07 UTC 2018: Found element on the queue
+Tue May 15 17:55:07 UTC 2018: Updating status
+Tue May 15 17:55:07 UTC 2018: Working
+Tue May 15 17:55:09 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.sap.universe.UniverseUtilTest
+Tue May 15 17:55:09 UTC 2018: Setting lastTestMethodIndex: 41019
+Tue May 15 17:55:09 UTC 2018: Starting linking
+Tue May 15 17:55:09 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testFiltersConditions
+Tue May 15 17:55:10 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testNestedConditions
+Tue May 15 17:55:10 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testFailConvertWithoutUniverse
+Tue May 15 17:55:10 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testConvertConditions
+Tue May 15 17:55:10 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testForConvert
+Tue May 15 17:55:10 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testFailConvertWithIncorrectCondition
+Tue May 15 17:55:10 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testWithoutConditions
+Tue May 15 17:55:11 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testCaseSensitive
+Tue May 15 17:55:11 UTC 2018: No link for: org.apache.zeppelin.sap.universe.UniverseUtilTest-testFailConvertWithIncorrectSelect
+Tue May 15 17:55:11 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.sap.universe.UniverseUtilTest
+Tue May 15 17:55:11 UTC 2018: Found element on the queue
+Tue May 15 17:55:11 UTC 2018: Updating status
+Tue May 15 17:55:11 UTC 2018: Working
+Tue May 15 17:55:11 UTC 2018: Create project parser
+Tue May 15 17:55:14 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.scio.ScioInterpreterTest
+Tue May 15 17:55:14 UTC 2018: Setting lastTestMethodIndex: 41021
+Tue May 15 17:55:14 UTC 2018: Starting linking
+Tue May 15 17:55:14 UTC 2018: No link for: org.apache.zeppelin.scio.ScioInterpreterTest-testBasicSyntaxError
+Tue May 15 17:55:14 UTC 2018: No link for: org.apache.zeppelin.scio.ScioInterpreterTest-testBasicMultiStepPipeline
+Tue May 15 17:55:14 UTC 2018: No link for: org.apache.zeppelin.scio.ScioInterpreterTest-testBasicSuccess
+Tue May 15 17:55:14 UTC 2018: No link for: org.apache.zeppelin.scio.ScioInterpreterTest-testBasicPipeline
+Tue May 15 17:55:15 UTC 2018: No link for: org.apache.zeppelin.scio.ScioInterpreterTest-testException
+Tue May 15 17:55:15 UTC 2018: No link for: org.apache.zeppelin.scio.ScioInterpreterTest-testBasicIncomplete
+Tue May 15 17:55:15 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.scio.ScioInterpreterTest
+Tue May 15 17:55:15 UTC 2018: Found element on the queue
+Tue May 15 17:55:15 UTC 2018: Updating status
+Tue May 15 17:55:15 UTC 2018: Working
+Tue May 15 17:55:15 UTC 2018: Create project parser
+Tue May 15 17:55:18 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.shell.ShellInterpreterTest
+Tue May 15 17:55:18 UTC 2018: Setting lastTestMethodIndex: 41024
+Tue May 15 17:55:18 UTC 2018: Starting linking
+Tue May 15 17:55:18 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-testShellTimeout
+Tue May 15 17:55:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:55:18 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-testInvalidCommand
+Tue May 15 17:55:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:55:18 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-test
+Tue May 15 17:55:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:55:18 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.shell.ShellInterpreterTest
+Tue May 15 17:55:19 UTC 2018: Found element on the queue
+Tue May 15 17:55:19 UTC 2018: Updating status
+Tue May 15 17:55:19 UTC 2018: Working
+Tue May 15 17:55:19 UTC 2018: Create project parser
+Tue May 15 17:55:22 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.OldSparkInterpreterTest
+Tue May 15 17:55:22 UTC 2018: Setting lastTestMethodIndex: 41026
+Tue May 15 17:55:22 UTC 2018: Starting linking
+Tue May 15 17:55:22 UTC 2018: Code found org.apache.zeppelin.spark.SparkInterpreter-completion with org.apache.zeppelin.spark.OldSparkInterpreterTest-testMultilineCompletionNewVar
+Tue May 15 17:55:23 UTC 2018: Code found org.apache.zeppelin.spark.SparkInterpreter-completion with org.apache.zeppelin.spark.OldSparkInterpreterTest-testMultilineCompletion
+Tue May 15 17:55:23 UTC 2018: Code found org.apache.zeppelin.spark.SparkInterpreter-completion with org.apache.zeppelin.spark.OldSparkInterpreterTest-testCompletion
+Tue May 15 17:55:23 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-shareSingleSparkContext
+Tue May 15 17:55:23 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testEnableImplicitImport
+Tue May 15 17:55:23 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testEndWithComment
+Tue May 15 17:55:23 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testParagraphUrls
+Tue May 15 17:55:24 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testCreateDataFrame
+Tue May 15 17:55:24 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testNextLineCompanionObject
+Tue May 15 17:55:24 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testNonStandardSparkProperties
+Tue May 15 17:55:24 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testSparkSql
+Tue May 15 17:55:24 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testZShow
+Tue May 15 17:55:24 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-emptyConfigurationVariablesOnlyForNonSparkProperties
+Tue May 15 17:55:25 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testReferencingUndefinedVal
+Tue May 15 17:55:25 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testDisableImplicitImport
+Tue May 15 17:55:25 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testNextLineInvocation
+Tue May 15 17:55:25 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testNextLineComments
+Tue May 15 17:55:25 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkInterpreterTest-testBasicIntp
+Tue May 15 17:55:25 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.OldSparkInterpreterTest
+Tue May 15 17:55:26 UTC 2018: Found element on the queue
+Tue May 15 17:55:26 UTC 2018: Updating status
+Tue May 15 17:55:26 UTC 2018: Working
+Tue May 15 17:55:28 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.SparkVersionTest
+Tue May 15 17:55:28 UTC 2018: Setting lastTestMethodIndex: 41029
+Tue May 15 17:55:28 UTC 2018: Starting linking
+Tue May 15 17:55:28 UTC 2018: No link for: org.apache.zeppelin.spark.SparkVersionTest-testUnsupportedVersion
+Tue May 15 17:55:28 UTC 2018: No link for: org.apache.zeppelin.spark.SparkVersionTest-testSparkVersion
+Tue May 15 17:55:29 UTC 2018: No link for: org.apache.zeppelin.spark.SparkVersionTest-testUnknownSparkVersion
+Tue May 15 17:55:29 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.SparkVersionTest
+Tue May 15 17:55:29 UTC 2018: Found element on the queue
+Tue May 15 17:55:29 UTC 2018: Updating status
+Tue May 15 17:55:29 UTC 2018: Working
+Tue May 15 17:55:32 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.OldSparkSqlInterpreterTest
+Tue May 15 17:55:32 UTC 2018: Setting lastTestMethodIndex: 41031
+Tue May 15 17:55:32 UTC 2018: Starting linking
+Tue May 15 17:55:32 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkSqlInterpreterTest-test
+Tue May 15 17:55:32 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkSqlInterpreterTest-test_null_value_in_row
+Tue May 15 17:55:32 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkSqlInterpreterTest-testMaxResults
+Tue May 15 17:55:32 UTC 2018: No link for: org.apache.zeppelin.spark.OldSparkSqlInterpreterTest-testStruct
+Tue May 15 17:55:32 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.OldSparkSqlInterpreterTest
+Tue May 15 17:55:33 UTC 2018: Found element on the queue
+Tue May 15 17:55:33 UTC 2018: Updating status
+Tue May 15 17:55:33 UTC 2018: Working
+Tue May 15 17:55:35 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.DepInterpreterTest
+Tue May 15 17:55:35 UTC 2018: Setting lastTestMethodIndex: 41033
+Tue May 15 17:55:35 UTC 2018: Starting linking
+Tue May 15 17:55:35 UTC 2018: No link for: org.apache.zeppelin.spark.DepInterpreterTest-testDefault
+Tue May 15 17:55:35 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.DepInterpreterTest
+Tue May 15 17:55:36 UTC 2018: Found element on the queue
+Tue May 15 17:55:36 UTC 2018: Updating status
+Tue May 15 17:55:36 UTC 2018: Working
+Tue May 15 17:55:39 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.NewSparkInterpreterTest
+Tue May 15 17:55:39 UTC 2018: Setting lastTestMethodIndex: 41035
+Tue May 15 17:55:39 UTC 2018: Starting linking
+Tue May 15 17:55:39 UTC 2018: Code found org.apache.zeppelin.spark.SparkInterpreter-interpret with org.apache.zeppelin.spark.NewSparkInterpreterTest-testSparkInterpreter
+Tue May 15 17:55:39 UTC 2018: No link for: org.apache.zeppelin.spark.NewSparkInterpreterTest-testDependencies
+Tue May 15 17:55:39 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.NewSparkInterpreterTest
+Tue May 15 17:55:39 UTC 2018: Found element on the queue
+Tue May 15 17:55:39 UTC 2018: Updating status
+Tue May 15 17:55:39 UTC 2018: Working
+Tue May 15 17:55:42 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.NewSparkSqlInterpreterTest
+Tue May 15 17:55:42 UTC 2018: Setting lastTestMethodIndex: 41036
+Tue May 15 17:55:42 UTC 2018: Starting linking
+Tue May 15 17:55:42 UTC 2018: No link for: org.apache.zeppelin.spark.NewSparkSqlInterpreterTest-testMaxResults
+Tue May 15 17:55:42 UTC 2018: No link for: org.apache.zeppelin.spark.NewSparkSqlInterpreterTest-testStruct
+Tue May 15 17:55:42 UTC 2018: No link for: org.apache.zeppelin.spark.NewSparkSqlInterpreterTest-test
+Tue May 15 17:55:42 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.spark.NewSparkSqlInterpreterTest
+Tue May 15 17:55:43 UTC 2018: Found element on the queue
+Tue May 15 17:55:43 UTC 2018: Updating status
+Tue May 15 17:55:43 UTC 2018: Working
+Tue May 15 17:55:43 UTC 2018: Create project parser
+Tue May 15 17:55:51 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.user.AuthenticationInfoTest
+Tue May 15 17:55:51 UTC 2018: Setting lastTestMethodIndex: 41040
+Tue May 15 17:55:51 UTC 2018: Starting linking
+Tue May 15 17:55:51 UTC 2018: No link for: org.apache.zeppelin.user.AuthenticationInfoTest-testRoles
+Tue May 15 17:55:51 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.user.AuthenticationInfoTest
+Tue May 15 17:55:52 UTC 2018: Found element on the queue
+Tue May 15 17:55:52 UTC 2018: Updating status
+Tue May 15 17:55:52 UTC 2018: Working
+Tue May 15 17:55:54 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.dep.DependencyResolverTest
+Tue May 15 17:55:54 UTC 2018: Setting lastTestMethodIndex: 41042
+Tue May 15 17:55:54 UTC 2018: Starting linking
+Tue May 15 17:55:54 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-addRepo with org.apache.zeppelin.dep.DependencyResolverTest-testAddRepo
+Tue May 15 17:55:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:55:54 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-delRepo with org.apache.zeppelin.dep.DependencyResolverTest-testDelRepo
+Tue May 15 17:55:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:55:54 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-load with org.apache.zeppelin.dep.DependencyResolverTest-testLoad
+Tue May 15 17:55:55 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:55:55 UTC 2018: No link for: org.apache.zeppelin.dep.DependencyResolverTest-should_throw_exception_if_dependency_not_found
+Tue May 15 17:55:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:55:55 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.dep.DependencyResolverTest
+Tue May 15 17:55:55 UTC 2018: Found element on the queue
+Tue May 15 17:55:55 UTC 2018: Updating status
+Tue May 15 17:55:55 UTC 2018: Working
+Tue May 15 17:55:58 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.dep.BooterTest
+Tue May 15 17:55:58 UTC 2018: Setting lastTestMethodIndex: 41044
+Tue May 15 17:55:58 UTC 2018: Starting linking
+Tue May 15 17:55:58 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_return_absolute_path
+Tue May 15 17:55:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:55:58 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_not_change_absolute_path
+Tue May 15 17:55:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:55:58 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_throw_exception_for_null
+Tue May 15 17:55:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:55:58 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.dep.BooterTest
+Tue May 15 17:55:59 UTC 2018: Found element on the queue
+Tue May 15 17:55:59 UTC 2018: Updating status
+Tue May 15 17:55:59 UTC 2018: Working
+Tue May 15 17:56:01 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.scheduler.ParallelSchedulerTest
+Tue May 15 17:56:01 UTC 2018: Setting lastTestMethodIndex: 41046
+Tue May 15 17:56:01 UTC 2018: Starting linking
+Tue May 15 17:56:01 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.scheduler.ParallelSchedulerTest
+Tue May 15 17:56:02 UTC 2018: Found element on the queue
+Tue May 15 17:56:02 UTC 2018: Updating status
+Tue May 15 17:56:02 UTC 2018: Working
+Tue May 15 17:56:05 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.scheduler.FIFOSchedulerTest
+Tue May 15 17:56:05 UTC 2018: Setting lastTestMethodIndex: 41048
+Tue May 15 17:56:05 UTC 2018: Starting linking
+Tue May 15 17:56:05 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.scheduler.FIFOSchedulerTest
+Tue May 15 17:56:05 UTC 2018: Found element on the queue
+Tue May 15 17:56:05 UTC 2018: Updating status
+Tue May 15 17:56:05 UTC 2018: Working
+Tue May 15 17:56:08 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.tabledata.InterpreterResultTableDataTest
+Tue May 15 17:56:08 UTC 2018: Setting lastTestMethodIndex: 41050
+Tue May 15 17:56:08 UTC 2018: Starting linking
+Tue May 15 17:56:08 UTC 2018: No link for: org.apache.zeppelin.tabledata.InterpreterResultTableDataTest-test
+Tue May 15 17:56:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:08 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.tabledata.InterpreterResultTableDataTest
+Tue May 15 17:56:08 UTC 2018: Found element on the queue
+Tue May 15 17:56:08 UTC 2018: Updating status
+Tue May 15 17:56:08 UTC 2018: Working
+Tue May 15 17:56:11 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.tabledata.TableDataProxyTest
+Tue May 15 17:56:11 UTC 2018: Setting lastTestMethodIndex: 41052
+Tue May 15 17:56:11 UTC 2018: Starting linking
+Tue May 15 17:56:11 UTC 2018: No link for: org.apache.zeppelin.tabledata.TableDataProxyTest-testProxyTable
+Tue May 15 17:56:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:11 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.tabledata.TableDataProxyTest
+Tue May 15 17:56:12 UTC 2018: Found element on the queue
+Tue May 15 17:56:12 UTC 2018: Updating status
+Tue May 15 17:56:12 UTC 2018: Working
+Tue May 15 17:56:14 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.display.InputTest
+Tue May 15 17:56:14 UTC 2018: Setting lastTestMethodIndex: 41054
+Tue May 15 17:56:14 UTC 2018: Starting linking
+Tue May 15 17:56:14 UTC 2018: No link for: org.apache.zeppelin.display.InputTest-testFormExtraction
+Tue May 15 17:56:14 UTC 2018: No link for: org.apache.zeppelin.display.InputTest-testFormSubstitution
+Tue May 15 17:56:14 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.display.InputTest
+Tue May 15 17:56:15 UTC 2018: Found element on the queue
+Tue May 15 17:56:15 UTC 2018: Updating status
+Tue May 15 17:56:15 UTC 2018: Working
+Tue May 15 17:56:17 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.display.AngularObjectTest
+Tue May 15 17:56:17 UTC 2018: Setting lastTestMethodIndex: 41056
+Tue May 15 17:56:17 UTC 2018: Starting linking
+Tue May 15 17:56:17 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testWatcher
+Tue May 15 17:56:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:17 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testEquals
+Tue May 15 17:56:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:18 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testListener
+Tue May 15 17:56:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:18 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.display.AngularObjectTest
+Tue May 15 17:56:18 UTC 2018: Found element on the queue
+Tue May 15 17:56:18 UTC 2018: Updating status
+Tue May 15 17:56:18 UTC 2018: Working
+Tue May 15 17:56:21 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.display.AngularObjectRegistryTest
+Tue May 15 17:56:21 UTC 2018: Setting lastTestMethodIndex: 41058
+Tue May 15 17:56:21 UTC 2018: Starting linking
+Tue May 15 17:56:21 UTC 2018: Code found org.apache.zeppelin.display.AngularObjectRegistry-get with org.apache.zeppelin.display.AngularObjectRegistryTest-testGetDependOnScope
+Tue May 15 17:56:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:56:21 UTC 2018: Code found org.apache.zeppelin.display.AngularObjectRegistry-getAll with org.apache.zeppelin.display.AngularObjectRegistryTest-testGetAllDependOnScope
+Tue May 15 17:56:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:56:21 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectRegistryTest-testBasic
+Tue May 15 17:56:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:21 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.display.AngularObjectRegistryTest
+Tue May 15 17:56:22 UTC 2018: Found element on the queue
+Tue May 15 17:56:22 UTC 2018: Updating status
+Tue May 15 17:56:22 UTC 2018: Working
+Tue May 15 17:56:24 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.display.GUITest
+Tue May 15 17:56:24 UTC 2018: Setting lastTestMethodIndex: 41060
+Tue May 15 17:56:24 UTC 2018: Starting linking
+Tue May 15 17:56:24 UTC 2018: No link for: org.apache.zeppelin.display.GUITest-testOldGson_1
+Tue May 15 17:56:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:24 UTC 2018: No link for: org.apache.zeppelin.display.GUITest-testGson
+Tue May 15 17:56:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:24 UTC 2018: No link for: org.apache.zeppelin.display.GUITest-testOldGson_3
+Tue May 15 17:56:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:24 UTC 2018: No link for: org.apache.zeppelin.display.GUITest-testOldGson_2
+Tue May 15 17:56:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:25 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.display.GUITest
+Tue May 15 17:56:25 UTC 2018: Found element on the queue
+Tue May 15 17:56:25 UTC 2018: Updating status
+Tue May 15 17:56:25 UTC 2018: Working
+Tue May 15 17:56:27 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.BaseZeppelinContextTest
+Tue May 15 17:56:27 UTC 2018: Setting lastTestMethodIndex: 41062
+Tue May 15 17:56:27 UTC 2018: Starting linking
+Tue May 15 17:56:27 UTC 2018: No link for: org.apache.zeppelin.interpreter.BaseZeppelinContextTest-testHooks
+Tue May 15 17:56:28 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.BaseZeppelinContextTest
+Tue May 15 17:56:28 UTC 2018: Found element on the queue
+Tue May 15 17:56:28 UTC 2018: Updating status
+Tue May 15 17:56:28 UTC 2018: Working
+Tue May 15 17:56:30 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.LazyOpenInterpreterTest
+Tue May 15 17:56:30 UTC 2018: Setting lastTestMethodIndex: 41064
+Tue May 15 17:56:30 UTC 2018: Starting linking
+Tue May 15 17:56:31 UTC 2018: Code found org.apache.zeppelin.interpreter.LazyOpenInterpreter-isOpen with org.apache.zeppelin.interpreter.LazyOpenInterpreterTest-isOpenTest
+Tue May 15 17:56:31 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.LazyOpenInterpreterTest
+Tue May 15 17:56:31 UTC 2018: Found element on the queue
+Tue May 15 17:56:31 UTC 2018: Updating status
+Tue May 15 17:56:31 UTC 2018: Working
+Tue May 15 17:56:34 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest
+Tue May 15 17:56:34 UTC 2018: Setting lastTestMethodIndex: 41066
+Tue May 15 17:56:34 UTC 2018: Starting linking
+Tue May 15 17:56:34 UTC 2018: Code found org.apache.zeppelin.interpreter.remote.RemoteInterpreterServer-interpret with org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest-testInterpreter
+Tue May 15 17:56:34 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest-testStartStop
+Tue May 15 17:56:34 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest-testStartStopWithQueuedEvents
+Tue May 15 17:56:34 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest
+Tue May 15 17:56:35 UTC 2018: Found element on the queue
+Tue May 15 17:56:35 UTC 2018: Updating status
+Tue May 15 17:56:35 UTC 2018: Working
+Tue May 15 17:56:37 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterUtilsTest
+Tue May 15 17:56:37 UTC 2018: Setting lastTestMethodIndex: 41068
+Tue May 15 17:56:37 UTC 2018: Starting linking
+Tue May 15 17:56:37 UTC 2018: Code found org.apache.zeppelin.interpreter.remote.RemoteInterpreterUtils-createTServerSocket with org.apache.zeppelin.interpreter.remote.RemoteInterpreterUtilsTest-testCreateTServerSocket
+Tue May 15 17:56:37 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterUtilsTest
+Tue May 15 17:56:38 UTC 2018: Found element on the queue
+Tue May 15 17:56:38 UTC 2018: Updating status
+Tue May 15 17:56:38 UTC 2018: Working
+Tue May 15 17:56:40 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterResultTest
+Tue May 15 17:56:40 UTC 2018: Setting lastTestMethodIndex: 41070
+Tue May 15 17:56:40 UTC 2018: Starting linking
+Tue May 15 17:56:40 UTC 2018: Code found org.apache.zeppelin.interpreter.InterpreterResult-toString with org.apache.zeppelin.interpreter.InterpreterResultTest-testToString
+Tue May 15 17:56:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:56:40 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testSimpleMagicType
+Tue May 15 17:56:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:41 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testComplexMagicType
+Tue May 15 17:56:41 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testSimpleMagicData
+Tue May 15 17:56:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:41 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testTextType
+Tue May 15 17:56:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:41 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterResultTest
+Tue May 15 17:56:42 UTC 2018: Found element on the queue
+Tue May 15 17:56:42 UTC 2018: Updating status
+Tue May 15 17:56:42 UTC 2018: Working
+Tue May 15 17:56:45 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterContextTest
+Tue May 15 17:56:45 UTC 2018: Setting lastTestMethodIndex: 41072
+Tue May 15 17:56:45 UTC 2018: Starting linking
+Tue May 15 17:56:45 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterContextTest-testThreadLocal
+Tue May 15 17:56:45 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterContextTest
+Tue May 15 17:56:45 UTC 2018: Found element on the queue
+Tue May 15 17:56:45 UTC 2018: Updating status
+Tue May 15 17:56:45 UTC 2018: Working
+Tue May 15 17:56:48 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterOutputTest
+Tue May 15 17:56:48 UTC 2018: Setting lastTestMethodIndex: 41074
+Tue May 15 17:56:48 UTC 2018: Starting linking
+Tue May 15 17:56:48 UTC 2018: Code found org.apache.zeppelin.interpreter.InterpreterOutput-flush with org.apache.zeppelin.interpreter.InterpreterOutputTest-testFlush
+Tue May 15 17:56:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:56:48 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testDetectNewline
+Tue May 15 17:56:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:48 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeInTheBeginning
+Tue May 15 17:56:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:48 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testMagicData
+Tue May 15 17:56:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:48 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testType
+Tue May 15 17:56:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:48 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testTableCellFormatting
+Tue May 15 17:56:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:48 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeWithMultipleNewline
+Tue May 15 17:56:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:49 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testTruncate
+Tue May 15 17:56:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:49 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeWithoutData
+Tue May 15 17:56:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:56:49 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterOutputTest
+Tue May 15 17:56:49 UTC 2018: Found element on the queue
+Tue May 15 17:56:49 UTC 2018: Updating status
+Tue May 15 17:56:49 UTC 2018: Working
+Tue May 15 17:56:52 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterHookRegistryTest
+Tue May 15 17:56:52 UTC 2018: Setting lastTestMethodIndex: 41076
+Tue May 15 17:56:52 UTC 2018: Starting linking
+Tue May 15 17:56:52 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterHookRegistryTest-testBasic
+Tue May 15 17:56:52 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterHookRegistryTest-testValidEventCode
+Tue May 15 17:56:52 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterHookRegistryTest
+Tue May 15 17:56:53 UTC 2018: Found element on the queue
+Tue May 15 17:56:53 UTC 2018: Updating status
+Tue May 15 17:56:53 UTC 2018: Working
+Tue May 15 17:56:55 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest
+Tue May 15 17:56:55 UTC 2018: Setting lastTestMethodIndex: 41078
+Tue May 15 17:56:55 UTC 2018: Starting linking
+Tue May 15 17:56:55 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest-test
+Tue May 15 17:56:55 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest
+Tue May 15 17:56:56 UTC 2018: Found element on the queue
+Tue May 15 17:56:56 UTC 2018: Updating status
+Tue May 15 17:56:56 UTC 2018: Working
+Tue May 15 17:56:58 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterTest
+Tue May 15 17:56:58 UTC 2018: Setting lastTestMethodIndex: 41080
+Tue May 15 17:56:58 UTC 2018: Starting linking
+Tue May 15 17:56:58 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterTest-testDefaultProperty
+Tue May 15 17:56:59 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterTest-testPropertyWithReplacedContextFields
+Tue May 15 17:56:59 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterTest-testOverriddenProperty
+Tue May 15 17:56:59 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.InterpreterTest
+Tue May 15 17:56:59 UTC 2018: Found element on the queue
+Tue May 15 17:56:59 UTC 2018: Updating status
+Tue May 15 17:56:59 UTC 2018: Working
+Tue May 15 17:57:02 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.ZeppCtxtVariableTest
+Tue May 15 17:57:02 UTC 2018: Setting lastTestMethodIndex: 41082
+Tue May 15 17:57:02 UTC 2018: Starting linking
+Tue May 15 17:57:02 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.interpreter.ZeppCtxtVariableTest
+Tue May 15 17:57:02 UTC 2018: Found element on the queue
+Tue May 15 17:57:02 UTC 2018: Updating status
+Tue May 15 17:57:02 UTC 2018: Working
+Tue May 15 17:57:05 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.resource.LocalResourcePoolTest
+Tue May 15 17:57:05 UTC 2018: Setting lastTestMethodIndex: 41084
+Tue May 15 17:57:05 UTC 2018: Starting linking
+Tue May 15 17:57:05 UTC 2018: Code found org.apache.zeppelin.resource.Resource-get with org.apache.zeppelin.resource.LocalResourcePoolTest-testGetPutResourcePool
+Tue May 15 17:57:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:57:05 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.resource.LocalResourcePoolTest
+Tue May 15 17:57:06 UTC 2018: Found element on the queue
+Tue May 15 17:57:06 UTC 2018: Updating status
+Tue May 15 17:57:06 UTC 2018: Working
+Tue May 15 17:57:08 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.resource.ResourceSetTest
+Tue May 15 17:57:08 UTC 2018: Setting lastTestMethodIndex: 41086
+Tue May 15 17:57:08 UTC 2018: Starting linking
+Tue May 15 17:57:08 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceSetTest-testFilterByName
+Tue May 15 17:57:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:08 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceSetTest-testFilterByClassName
+Tue May 15 17:57:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:08 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.resource.ResourceSetTest
+Tue May 15 17:57:09 UTC 2018: Found element on the queue
+Tue May 15 17:57:09 UTC 2018: Updating status
+Tue May 15 17:57:09 UTC 2018: Working
+Tue May 15 17:57:11 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.resource.ResourceTest
+Tue May 15 17:57:11 UTC 2018: Setting lastTestMethodIndex: 41087
+Tue May 15 17:57:11 UTC 2018: Starting linking
+Tue May 15 17:57:11 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceTest-testSerializeDeserialize
+Tue May 15 17:57:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:11 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.resource.ResourceTest
+Tue May 15 17:57:12 UTC 2018: Found element on the queue
+Tue May 15 17:57:12 UTC 2018: Updating status
+Tue May 15 17:57:12 UTC 2018: Working
+Tue May 15 17:57:14 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.helium.ApplicationLoaderTest
+Tue May 15 17:57:14 UTC 2018: Setting lastTestMethodIndex: 41089
+Tue May 15 17:57:14 UTC 2018: Starting linking
+Tue May 15 17:57:14 UTC 2018: No code found org.apache.zeppelin.helium.ApplicationLoader-load with org.apache.zeppelin.helium.ApplicationLoaderTest-loadUnloadApplication
+Tue May 15 17:57:14 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.helium.ApplicationLoaderTest
+Tue May 15 17:57:15 UTC 2018: Found element on the queue
+Tue May 15 17:57:15 UTC 2018: Updating status
+Tue May 15 17:57:15 UTC 2018: Working
+Tue May 15 17:57:17 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.helium.HeliumPackageTest
+Tue May 15 17:57:17 UTC 2018: Setting lastTestMethodIndex: 41091
+Tue May 15 17:57:17 UTC 2018: Starting linking
+Tue May 15 17:57:17 UTC 2018: No link for: org.apache.zeppelin.helium.HeliumPackageTest-parseSpellPackageInfo
+Tue May 15 17:57:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:17 UTC 2018: No link for: org.apache.zeppelin.helium.HeliumPackageTest-parseConfig
+Tue May 15 17:57:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:18 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.helium.HeliumPackageTest
+Tue May 15 17:57:18 UTC 2018: Found element on the queue
+Tue May 15 17:57:18 UTC 2018: Updating status
+Tue May 15 17:57:18 UTC 2018: Working
+Tue May 15 17:57:18 UTC 2018: Create project parser
+Tue May 15 17:57:21 UTC 2018: Start fogbeam__zeppelin_mirror test class org.apache.zeppelin.jupyter.nbformat.JupyterUtilTest
+Tue May 15 17:57:21 UTC 2018: Setting lastTestMethodIndex: 41093
+Tue May 15 17:57:21 UTC 2018: Starting linking
+Tue May 15 17:57:21 UTC 2018: Code found org.apache.zeppelin.jupyter.JupyterUtil-getNbformat with org.apache.zeppelin.jupyter.nbformat.JupyterUtilTest-getNbFormat
+Tue May 15 17:57:21 UTC 2018: Code found org.apache.zeppelin.jupyter.JupyterUtil-getNote with org.apache.zeppelin.jupyter.nbformat.JupyterUtilTest-getNoteAndVerifyData
+Tue May 15 17:57:21 UTC 2018: Code found org.apache.zeppelin.jupyter.JupyterUtil-getNote with org.apache.zeppelin.jupyter.nbformat.JupyterUtilTest-getNote
+Tue May 15 17:57:21 UTC 2018: Linking done for fogbeam__zeppelin_mirror test class org.apache.zeppelin.jupyter.nbformat.JupyterUtilTest

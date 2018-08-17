@@ -1,0 +1,594 @@
+Tue May 15 18:38:07 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 18:38:08 UTC 2018: Starting
+Tue May 15 18:38:08 UTC 2018: Found element on the queue
+Tue May 15 18:38:08 UTC 2018: Updating status
+Tue May 15 18:38:08 UTC 2018: Working
+Tue May 15 18:38:08 UTC 2018: Create project parser
+Tue May 15 18:38:18 UTC 2018: Create slicer
+Tue May 15 18:38:20 UTC 2018: Create call graph
+Tue May 15 18:38:24 UTC 2018: Create point analysis
+Tue May 15 18:38:24 UTC 2018: Create call graph done
+Tue May 15 18:38:24 UTC 2018: Start globaltemstone__freedomexpress test class spark.FilterTest
+Tue May 15 18:38:24 UTC 2018: Setting lastTestMethodIndex: 42226
+Tue May 15 18:38:24 UTC 2018: Starting linking
+Tue May 15 18:38:24 UTC 2018: No link for: spark.FilterTest-testJustFilter
+Tue May 15 18:38:24 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.FilterTest
+Tue May 15 18:38:25 UTC 2018: Found element on the queue
+Tue May 15 18:38:25 UTC 2018: Updating status
+Tue May 15 18:38:25 UTC 2018: Working
+Tue May 15 18:38:28 UTC 2018: Start globaltemstone__freedomexpress test class spark.GenericIntegrationTest
+Tue May 15 18:38:28 UTC 2018: Setting lastTestMethodIndex: 42231
+Tue May 15 18:38:28 UTC 2018: Starting linking
+Tue May 15 18:38:28 UTC 2018: No link for: spark.GenericIntegrationTest-testGetHi
+Tue May 15 18:38:28 UTC 2018: No link for: spark.GenericIntegrationTest-routes_should_be_accept_type_aware
+Tue May 15 18:38:28 UTC 2018: No link for: spark.GenericIntegrationTest-testGetBinaryHi
+Tue May 15 18:38:28 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParamWithUpperCaseInValue
+Tue May 15 18:38:29 UTC 2018: No link for: spark.GenericIntegrationTest-testParamAndWild
+Tue May 15 18:38:29 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParam2
+Tue May 15 18:38:29 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParam1
+Tue May 15 18:38:29 UTC 2018: No link for: spark.GenericIntegrationTest-filters_should_be_accept_type_aware
+Tue May 15 18:38:30 UTC 2018: No link for: spark.GenericIntegrationTest-testHiHead
+Tue May 15 18:38:30 UTC 2018: No link for: spark.GenericIntegrationTest-testUnauthorized
+Tue May 15 18:38:30 UTC 2018: No link for: spark.GenericIntegrationTest-testPost
+Tue May 15 18:38:30 UTC 2018: No link for: spark.GenericIntegrationTest-testSessionReset
+Tue May 15 18:38:30 UTC 2018: No link for: spark.GenericIntegrationTest-testRuntimeExceptionForAllRoutesFinally
+Tue May 15 18:38:31 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParam3
+Tue May 15 18:38:31 UTC 2018: No link for: spark.GenericIntegrationTest-testPathParamsWithPlusSign
+Tue May 15 18:38:31 UTC 2018: No link for: spark.GenericIntegrationTest-testTypedExceptionMapper
+Tue May 15 18:38:31 UTC 2018: No link for: spark.GenericIntegrationTest-testGetHiAfterFilter
+Tue May 15 18:38:31 UTC 2018: No link for: spark.GenericIntegrationTest-testSplatWithEncodedSlash
+Tue May 15 18:38:32 UTC 2018: No link for: spark.GenericIntegrationTest-testPatch
+Tue May 15 18:38:32 UTC 2018: No link for: spark.GenericIntegrationTest-testRuntimeExceptionForDone
+Tue May 15 18:38:32 UTC 2018: No link for: spark.GenericIntegrationTest-testPostProcessBodyForFinally
+Tue May 15 18:38:32 UTC 2018: No link for: spark.GenericIntegrationTest-testParamWithEncodedSlash
+Tue May 15 18:38:32 UTC 2018: No link for: spark.GenericIntegrationTest-testExternalStaticFile
+Tue May 15 18:38:33 UTC 2018: No link for: spark.GenericIntegrationTest-path_should_prefix_routes
+Tue May 15 18:38:33 UTC 2018: No link for: spark.GenericIntegrationTest-testNotFoundExceptionMapper
+Tue May 15 18:38:33 UTC 2018: No link for: spark.GenericIntegrationTest-testExceptionMapper
+Tue May 15 18:38:33 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParamWithMaj
+Tue May 15 18:38:33 UTC 2018: No link for: spark.GenericIntegrationTest-testInheritanceExceptionMapper
+Tue May 15 18:38:34 UTC 2018: No link for: spark.GenericIntegrationTest-paths_should_be_very_nestable
+Tue May 15 18:38:34 UTC 2018: No link for: spark.GenericIntegrationTest-testWebSocketConversation
+Tue May 15 18:38:34 UTC 2018: No link for: spark.GenericIntegrationTest-testGetByteBufferHi
+Tue May 15 18:38:34 UTC 2018: No link for: spark.GenericIntegrationTest-template_view_should_be_rendered_with_given_model_view_object
+Tue May 15 18:38:34 UTC 2018: No link for: spark.GenericIntegrationTest-testPostViaGetWithMethodOverrideHeader
+Tue May 15 18:38:35 UTC 2018: No link for: spark.GenericIntegrationTest-testStaticFile
+Tue May 15 18:38:35 UTC 2018: No link for: spark.GenericIntegrationTest-paths_should_be_nestable
+Tue May 15 18:38:35 UTC 2018: No link for: spark.GenericIntegrationTest-testGetRoot
+Tue May 15 18:38:35 UTC 2018: No link for: spark.GenericIntegrationTest-testXForwardedFor
+Tue May 15 18:38:35 UTC 2018: No link for: spark.GenericIntegrationTest-testTwoRoutesWithDifferentCaseButSameName
+Tue May 15 18:38:35 UTC 2018: No link for: spark.GenericIntegrationTest-testNotFound
+Tue May 15 18:38:36 UTC 2018: No link for: spark.GenericIntegrationTest-testGetInputStreamHi
+Tue May 15 18:38:36 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.GenericIntegrationTest
+Tue May 15 18:38:37 UTC 2018: Found element on the queue
+Tue May 15 18:38:37 UTC 2018: Updating status
+Tue May 15 18:38:37 UTC 2018: Working
+Tue May 15 18:38:41 UTC 2018: Start globaltemstone__freedomexpress test class spark.MultipleFiltersTest
+Tue May 15 18:38:41 UTC 2018: Setting lastTestMethodIndex: 42241
+Tue May 15 18:38:41 UTC 2018: Starting linking
+Tue May 15 18:38:41 UTC 2018: No link for: spark.MultipleFiltersTest-testMultipleFilters
+Tue May 15 18:38:41 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.MultipleFiltersTest
+Tue May 15 18:38:42 UTC 2018: Found element on the queue
+Tue May 15 18:38:42 UTC 2018: Updating status
+Tue May 15 18:38:42 UTC 2018: Working
+Tue May 15 18:38:45 UTC 2018: Start globaltemstone__freedomexpress test class spark.customerrorpages.CustomErrorPagesTest
+Tue May 15 18:38:45 UTC 2018: Setting lastTestMethodIndex: 42246
+Tue May 15 18:38:45 UTC 2018: Starting linking
+Tue May 15 18:38:46 UTC 2018: No link for: spark.customerrorpages.CustomErrorPagesTest-testGetHi
+Tue May 15 18:38:46 UTC 2018: No link for: spark.customerrorpages.CustomErrorPagesTest-testCustomInternal
+Tue May 15 18:38:46 UTC 2018: No link for: spark.customerrorpages.CustomErrorPagesTest-testCustomNotFound
+Tue May 15 18:38:46 UTC 2018: No link for: spark.customerrorpages.CustomErrorPagesTest-testCustomInternalFailingRoute
+Tue May 15 18:38:46 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.customerrorpages.CustomErrorPagesTest
+Tue May 15 18:38:47 UTC 2018: Found element on the queue
+Tue May 15 18:38:47 UTC 2018: Updating status
+Tue May 15 18:38:47 UTC 2018: Working
+Tue May 15 18:38:50 UTC 2018: Start globaltemstone__freedomexpress test class spark.StaticFilesFromArchiveTest
+Tue May 15 18:38:50 UTC 2018: Setting lastTestMethodIndex: 42252
+Tue May 15 18:38:50 UTC 2018: Starting linking
+Tue May 15 18:38:50 UTC 2018: No link for: spark.StaticFilesFromArchiveTest-testCss
+Tue May 15 18:38:50 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.StaticFilesFromArchiveTest
+Tue May 15 18:38:51 UTC 2018: Found element on the queue
+Tue May 15 18:38:51 UTC 2018: Updating status
+Tue May 15 18:38:51 UTC 2018: Working
+Tue May 15 18:38:54 UTC 2018: Start globaltemstone__freedomexpress test class spark.CookiesIntegrationTest
+Tue May 15 18:38:54 UTC 2018: Setting lastTestMethodIndex: 42255
+Tue May 15 18:38:54 UTC 2018: Starting linking
+Tue May 15 18:38:54 UTC 2018: No link for: spark.CookiesIntegrationTest-testEmptyCookies
+Tue May 15 18:38:55 UTC 2018: No link for: spark.CookiesIntegrationTest-testRemoveCookieWithPath
+Tue May 15 18:38:55 UTC 2018: No link for: spark.CookiesIntegrationTest-testRemoveCookie
+Tue May 15 18:38:55 UTC 2018: No link for: spark.CookiesIntegrationTest-testCreateCookie
+Tue May 15 18:38:55 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.CookiesIntegrationTest
+Tue May 15 18:38:56 UTC 2018: Found element on the queue
+Tue May 15 18:38:56 UTC 2018: Updating status
+Tue May 15 18:38:56 UTC 2018: Working
+Tue May 15 18:38:59 UTC 2018: Start globaltemstone__freedomexpress test class spark.ServicePortIntegrationTest
+Tue May 15 18:38:59 UTC 2018: Setting lastTestMethodIndex: 42261
+Tue May 15 18:38:59 UTC 2018: Starting linking
+Tue May 15 18:38:59 UTC 2018: Code found spark.Service-port with spark.ServicePortIntegrationTest-testGetPort_withRandomPort
+Tue May 15 18:38:59 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.ServicePortIntegrationTest
+Tue May 15 18:39:00 UTC 2018: Found element on the queue
+Tue May 15 18:39:00 UTC 2018: Updating status
+Tue May 15 18:39:00 UTC 2018: Working
+Tue May 15 18:39:04 UTC 2018: Start globaltemstone__freedomexpress test class spark.StaticFilesMemberTest
+Tue May 15 18:39:04 UTC 2018: Setting lastTestMethodIndex: 42264
+Tue May 15 18:39:04 UTC 2018: Starting linking
+Tue May 15 18:39:04 UTC 2018: Code found spark.Service$StaticFiles-headers with spark.StaticFilesMemberTest-testStaticFileHeaders
+Tue May 15 18:39:04 UTC 2018: Code found spark.Service$StaticFiles-expireTime with spark.StaticFilesMemberTest-testStaticFileExpireTime
+Tue May 15 18:39:04 UTC 2018: No link for: spark.StaticFilesMemberTest-testExceptionMapping404
+Tue May 15 18:39:04 UTC 2018: No link for: spark.StaticFilesMemberTest-testStaticFilePageHtml
+Tue May 15 18:39:04 UTC 2018: No link for: spark.StaticFilesMemberTest-testExternalStaticFile
+Tue May 15 18:39:04 UTC 2018: No link for: spark.StaticFilesMemberTest-testStaticFilePagesIndexHtml
+Tue May 15 18:39:05 UTC 2018: No link for: spark.StaticFilesMemberTest-testStaticFileCssStyleCss
+Tue May 15 18:39:05 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.StaticFilesMemberTest
+Tue May 15 18:39:05 UTC 2018: Found element on the queue
+Tue May 15 18:39:05 UTC 2018: Updating status
+Tue May 15 18:39:05 UTC 2018: Working
+Tue May 15 18:39:08 UTC 2018: Start globaltemstone__freedomexpress test class spark.utils.CollectionUtilsTest
+Tue May 15 18:39:08 UTC 2018: Setting lastTestMethodIndex: 42270
+Tue May 15 18:39:08 UTC 2018: Starting linking
+Tue May 15 18:39:08 UTC 2018: Code found spark.utils.CollectionUtils-isEmpty with spark.utils.CollectionUtilsTest-testIsEmpty_whenCollectionIsEmpty_thenReturnTrue
+Tue May 15 18:39:08 UTC 2018: Code found spark.utils.CollectionUtils-isEmpty with spark.utils.CollectionUtilsTest-testIsEmpty_whenCollectionIsNotEmpty_thenReturnFalse
+Tue May 15 18:39:09 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.utils.CollectionUtilsTest
+Tue May 15 18:39:10 UTC 2018: Found element on the queue
+Tue May 15 18:39:10 UTC 2018: Updating status
+Tue May 15 18:39:10 UTC 2018: Working
+Tue May 15 18:39:13 UTC 2018: Start globaltemstone__freedomexpress test class spark.utils.ObjectUtilsTest
+Tue May 15 18:39:13 UTC 2018: Setting lastTestMethodIndex: 42274
+Tue May 15 18:39:13 UTC 2018: Starting linking
+Tue May 15 18:39:13 UTC 2018: Code found spark.utils.ObjectUtils-isEmpty with spark.utils.ObjectUtilsTest-testIsEmpty_whenArrayIsNotEmpty
+Tue May 15 18:39:13 UTC 2018: Code found spark.utils.ObjectUtils-isEmpty with spark.utils.ObjectUtilsTest-testIsEmpty_whenArrayIsEmpty
+Tue May 15 18:39:13 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.utils.ObjectUtilsTest
+Tue May 15 18:39:14 UTC 2018: Found element on the queue
+Tue May 15 18:39:14 UTC 2018: Updating status
+Tue May 15 18:39:14 UTC 2018: Working
+Tue May 15 18:39:17 UTC 2018: Start globaltemstone__freedomexpress test class spark.utils.MimeParseTest
+Tue May 15 18:39:17 UTC 2018: Setting lastTestMethodIndex: 42277
+Tue May 15 18:39:17 UTC 2018: Starting linking
+Tue May 15 18:39:17 UTC 2018: No link for: spark.utils.MimeParseTest-testBestMatch
+Tue May 15 18:39:17 UTC 2018: No link for: spark.utils.MimeParseTest-testBestMatch_whenSupportedIsLowQualityFactor
+Tue May 15 18:39:17 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.utils.MimeParseTest
+Tue May 15 18:39:18 UTC 2018: Found element on the queue
+Tue May 15 18:39:18 UTC 2018: Updating status
+Tue May 15 18:39:18 UTC 2018: Working
+Tue May 15 18:39:21 UTC 2018: Start globaltemstone__freedomexpress test class spark.utils.SparkUtilsTest
+Tue May 15 18:39:21 UTC 2018: Setting lastTestMethodIndex: 42282
+Tue May 15 18:39:21 UTC 2018: Starting linking
+Tue May 15 18:39:21 UTC 2018: Code found spark.utils.SparkUtils-isSplat with spark.utils.SparkUtilsTest-testIsSplat_whenParameterIsNotASplat
+Tue May 15 18:39:21 UTC 2018: Code found spark.utils.SparkUtils-convertRouteToList with spark.utils.SparkUtilsTest-testConvertRouteToList
+Tue May 15 18:39:21 UTC 2018: Code found spark.utils.SparkUtils-isParam with spark.utils.SparkUtilsTest-testIsParam_whenParameterFormattedAsParm
+Tue May 15 18:39:22 UTC 2018: Code found spark.utils.SparkUtils-isSplat with spark.utils.SparkUtilsTest-testIsSplat_whenParameterIsASplat
+Tue May 15 18:39:22 UTC 2018: Code found spark.utils.SparkUtils-isParam with spark.utils.SparkUtilsTest-testIsParam_whenParameterNotFormattedAsParm
+Tue May 15 18:39:22 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.utils.SparkUtilsTest
+Tue May 15 18:39:23 UTC 2018: Found element on the queue
+Tue May 15 18:39:23 UTC 2018: Updating status
+Tue May 15 18:39:23 UTC 2018: Working
+Tue May 15 18:39:26 UTC 2018: Start globaltemstone__freedomexpress test class spark.SessionTest
+Tue May 15 18:39:26 UTC 2018: Setting lastTestMethodIndex: 42286
+Tue May 15 18:39:26 UTC 2018: Starting linking
+Tue May 15 18:39:26 UTC 2018: Code found spark.Session-attribute with spark.SessionTest-testAttribute_whenAttributeIsRetrieved
+Tue May 15 18:39:26 UTC 2018: Code found spark.Session-attributes with spark.SessionTest-testAttributes
+Tue May 15 18:39:26 UTC 2018: Code found spark.Session-invalidate with spark.SessionTest-testInvalidate
+Tue May 15 18:39:26 UTC 2018: Code found spark.Session-maxInactiveInterval with spark.SessionTest-testMaxInactiveInterval_whenSet
+Tue May 15 18:39:27 UTC 2018: Code found spark.Session-removeAttribute with spark.SessionTest-testRemoveAttribute
+Tue May 15 18:39:27 UTC 2018: Code found spark.Session-isNew with spark.SessionTest-testIsNew
+Tue May 15 18:39:27 UTC 2018: Code found spark.Session-raw with spark.SessionTest-testRaw
+Tue May 15 18:39:28 UTC 2018: Code found spark.Session-maxInactiveInterval with spark.SessionTest-testMaxInactiveInterval_whenRetrieved
+Tue May 15 18:39:28 UTC 2018: Code found spark.Session-attribute with spark.SessionTest-testAttribute_whenAttributeIsSet
+Tue May 15 18:39:28 UTC 2018: Code found spark.Session-creationTime with spark.SessionTest-testCreationTime
+Tue May 15 18:39:28 UTC 2018: Code found spark.Session-id with spark.SessionTest-testId
+Tue May 15 18:39:28 UTC 2018: Code found spark.Session-lastAccessedTime with spark.SessionTest-testLastAccessedTime
+Tue May 15 18:39:29 UTC 2018: No link for: spark.SessionTest-testSession_whenRequestIsNull_thenThrowException
+Tue May 15 18:39:29 UTC 2018: No link for: spark.SessionTest-testSession
+Tue May 15 18:39:29 UTC 2018: No link for: spark.SessionTest-testSession_whenHttpSessionIsNull_thenThrowException
+Tue May 15 18:39:29 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.SessionTest
+Tue May 15 18:39:30 UTC 2018: Found element on the queue
+Tue May 15 18:39:30 UTC 2018: Updating status
+Tue May 15 18:39:30 UTC 2018: Working
+Tue May 15 18:39:33 UTC 2018: Start globaltemstone__freedomexpress test class spark.ResponseWrapperDelegationTest
+Tue May 15 18:39:33 UTC 2018: Setting lastTestMethodIndex: 42295
+Tue May 15 18:39:33 UTC 2018: Starting linking
+Tue May 15 18:39:33 UTC 2018: No link for: spark.ResponseWrapperDelegationTest-filters_can_detect_content_type
+Tue May 15 18:39:33 UTC 2018: No link for: spark.ResponseWrapperDelegationTest-filters_can_detect_response_status
+Tue May 15 18:39:33 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.ResponseWrapperDelegationTest
+Tue May 15 18:39:34 UTC 2018: Found element on the queue
+Tue May 15 18:39:34 UTC 2018: Updating status
+Tue May 15 18:39:34 UTC 2018: Working
+Tue May 15 18:39:37 UTC 2018: Start globaltemstone__freedomexpress test class spark.servlet.ServletTest
+Tue May 15 18:39:37 UTC 2018: Setting lastTestMethodIndex: 42297
+Tue May 15 18:39:37 UTC 2018: Starting linking
+Tue May 15 18:39:37 UTC 2018: No link for: spark.servlet.ServletTest-testGetRoot
+Tue May 15 18:39:37 UTC 2018: No link for: spark.servlet.ServletTest-testStaticResource
+Tue May 15 18:39:38 UTC 2018: No link for: spark.servlet.ServletTest-testHiHead
+Tue May 15 18:39:38 UTC 2018: No link for: spark.servlet.ServletTest-testEchoParam1
+Tue May 15 18:39:38 UTC 2018: No link for: spark.servlet.ServletTest-testNotFound
+Tue May 15 18:39:38 UTC 2018: No link for: spark.servlet.ServletTest-testGetHi
+Tue May 15 18:39:38 UTC 2018: No link for: spark.servlet.ServletTest-testPost
+Tue May 15 18:39:38 UTC 2018: No link for: spark.servlet.ServletTest-testGetHiAfterFilter
+Tue May 15 18:39:38 UTC 2018: No link for: spark.servlet.ServletTest-testEchoParam2
+Tue May 15 18:39:39 UTC 2018: No link for: spark.servlet.ServletTest-testStaticWelcomeResource
+Tue May 15 18:39:39 UTC 2018: No link for: spark.servlet.ServletTest-testUnauthorized
+Tue May 15 18:39:39 UTC 2018: No link for: spark.servlet.ServletTest-testExternalStaticFile
+Tue May 15 18:39:39 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.servlet.ServletTest
+Tue May 15 18:39:40 UTC 2018: Found element on the queue
+Tue May 15 18:39:40 UTC 2018: Updating status
+Tue May 15 18:39:40 UTC 2018: Working
+Tue May 15 18:39:44 UTC 2018: Start globaltemstone__freedomexpress test class spark.RequestTest
+Tue May 15 18:39:44 UTC 2018: Setting lastTestMethodIndex: 42302
+Tue May 15 18:39:44 UTC 2018: Starting linking
+Tue May 15 18:39:44 UTC 2018: Code found spark.Request-host with spark.RequestTest-testHost
+Tue May 15 18:39:44 UTC 2018: Code found spark.Request-contextPath with spark.RequestTest-shouldBeAbleToGetTheContextPath
+Tue May 15 18:39:44 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_2times
+Tue May 15 18:39:44 UTC 2018: Code found spark.Request-cookies with spark.RequestTest-testCookies_whenCookiesAreNotPresent
+Tue May 15 18:39:45 UTC 2018: Code found spark.Request-queryParamsValues with spark.RequestTest-testQueryParamsValues_whenParamExists
+Tue May 15 18:39:45 UTC 2018: Code found spark.Request-uri with spark.RequestTest-testURI
+Tue May 15 18:39:45 UTC 2018: Code found spark.Request-servletPath with spark.RequestTest-shouldBeAbleToGetTheServletPath
+Tue May 15 18:39:45 UTC 2018: Code found spark.Request-contextPath with spark.RequestTest-testContextPath
+Tue May 15 18:39:45 UTC 2018: Code found spark.Request-url with spark.RequestTest-testUrl
+Tue May 15 18:39:45 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSessionNoParams_whenSessionIsNull
+Tue May 15 18:39:45 UTC 2018: Code found spark.Request-servletPath with spark.RequestTest-testServletPath
+Tue May 15 18:39:46 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSessionNpParams_afterSessionInvalidate
+Tue May 15 18:39:46 UTC 2018: Code found spark.Request-cookie with spark.RequestTest-testCookie_whenCookiesAreNotPresent
+Tue May 15 18:39:46 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_whenCreateIsFalse
+Tue May 15 18:39:46 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_whenCreateIsFalse_afterSessionInvalidate
+Tue May 15 18:39:46 UTC 2018: Code found spark.Request-cookies with spark.RequestTest-testCookies_whenCookiesArePresent
+Tue May 15 18:39:46 UTC 2018: Code found spark.Request-contentLength with spark.RequestTest-testContentLength
+Tue May 15 18:39:46 UTC 2018: Code found spark.Request-pathInfo with spark.RequestTest-testPathInfo
+Tue May 15 18:39:47 UTC 2018: Code found spark.Request-userAgent with spark.RequestTest-testUserAgent
+Tue May 15 18:39:47 UTC 2018: Code found spark.Request-queryParamOrDefault with spark.RequestTest-queryParamOrDefault_shouldReturnQueryParam_whenQueryParamExists
+Tue May 15 18:39:47 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_whenCreateIsTrue
+Tue May 15 18:39:47 UTC 2018: Code found spark.Request-queryParamOrDefault with spark.RequestTest-queryParamOrDefault_shouldReturnDefault_whenQueryParamIsNull
+Tue May 15 18:39:47 UTC 2018: Code found spark.Request-port with spark.RequestTest-testPort
+Tue May 15 18:39:47 UTC 2018: Code found spark.Request-queryParams with spark.RequestTest-testQueryParams
+Tue May 15 18:39:47 UTC 2018: Code found spark.Request-ip with spark.RequestTest-testIp
+Tue May 15 18:39:48 UTC 2018: Code found spark.Request-headers with spark.RequestTest-testHeaders
+Tue May 15 18:39:48 UTC 2018: Code found spark.Request-protocol with spark.RequestTest-testProtocol
+Tue May 15 18:39:48 UTC 2018: Code found spark.Request-cookie with spark.RequestTest-testCookie_whenCookiesArePresent
+Tue May 15 18:39:48 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_whenCreateIsTrue_afterSessionInvalidate
+Tue May 15 18:39:48 UTC 2018: Code found spark.Request-contentType with spark.RequestTest-testContentType
+Tue May 15 18:39:49 UTC 2018: Code found spark.Request-requestMethod with spark.RequestTest-testRequestMethod
+Tue May 15 18:39:49 UTC 2018: Code found spark.Request-scheme with spark.RequestTest-testScheme
+Tue May 15 18:39:49 UTC 2018: Code found spark.Request-queryParams with spark.RequestTest-queryParamShouldReturnsParametersFromQueryString
+Tue May 15 18:39:49 UTC 2018: Code found spark.Request-queryParamsValues with spark.RequestTest-testQueryParamsValues_whenParamDoesNotExists
+Tue May 15 18:39:49 UTC 2018: No link for: spark.RequestTest-queryParamShouldBeParsedAsHashMap
+Tue May 15 18:39:49 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.RequestTest
+Tue May 15 18:39:50 UTC 2018: Found element on the queue
+Tue May 15 18:39:50 UTC 2018: Updating status
+Tue May 15 18:39:50 UTC 2018: Working
+Tue May 15 18:39:54 UTC 2018: Start globaltemstone__freedomexpress test class spark.FilterImplTest
+Tue May 15 18:39:54 UTC 2018: Setting lastTestMethodIndex: 42311
+Tue May 15 18:39:54 UTC 2018: Starting linking
+Tue May 15 18:39:54 UTC 2018: Code found spark.FilterImpl-getAcceptType with spark.FilterImplTest-testGets_thenReturnGetPathAndGetAcceptTypeSuccessfully
+Tue May 15 18:39:54 UTC 2018: Code found spark.FilterImpl-create with spark.FilterImplTest-testCreate_whenOutAssignAcceptTypeInTheParameters_thenReturnPathAndAcceptTypeSuccessfully
+Tue May 15 18:39:54 UTC 2018: Code found spark.FilterImpl-create with spark.FilterImplTest-testCreate_whenAcceptTypeNullValueInTheParameters_thenReturnPathAndAcceptTypeSuccessfully
+Tue May 15 18:39:54 UTC 2018: No link for: spark.FilterImplTest-testConstructor
+Tue May 15 18:39:54 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.FilterImplTest
+Tue May 15 18:39:56 UTC 2018: Found element on the queue
+Tue May 15 18:39:56 UTC 2018: Updating status
+Tue May 15 18:39:56 UTC 2018: Working
+Tue May 15 18:39:59 UTC 2018: Start globaltemstone__freedomexpress test class spark.BooksIntegrationTest
+Tue May 15 18:39:59 UTC 2018: Setting lastTestMethodIndex: 42316
+Tue May 15 18:39:59 UTC 2018: Starting linking
+Tue May 15 18:39:59 UTC 2018: No link for: spark.BooksIntegrationTest-canUpdateBook
+Tue May 15 18:39:59 UTC 2018: No link for: spark.BooksIntegrationTest-wontFindBook
+Tue May 15 18:39:59 UTC 2018: No link for: spark.BooksIntegrationTest-canListBooks
+Tue May 15 18:40:00 UTC 2018: No link for: spark.BooksIntegrationTest-canGetUpdatedBook
+Tue May 15 18:40:00 UTC 2018: No link for: spark.BooksIntegrationTest-canCreateBook
+Tue May 15 18:40:00 UTC 2018: No link for: spark.BooksIntegrationTest-canGetBook
+Tue May 15 18:40:00 UTC 2018: No link for: spark.BooksIntegrationTest-canDeleteBook
+Tue May 15 18:40:00 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.BooksIntegrationTest
+Tue May 15 18:40:01 UTC 2018: Found element on the queue
+Tue May 15 18:40:01 UTC 2018: Updating status
+Tue May 15 18:40:01 UTC 2018: Working
+Tue May 15 18:40:04 UTC 2018: Start globaltemstone__freedomexpress test class spark.globalstate.ServletFlagTest
+Tue May 15 18:40:04 UTC 2018: Setting lastTestMethodIndex: 42321
+Tue May 15 18:40:04 UTC 2018: Starting linking
+Tue May 15 18:40:04 UTC 2018: Code found spark.globalstate.ServletFlag-isRunningFromServlet with spark.globalstate.ServletFlagTest-testIsRunningFromServlet_whenDefault
+Tue May 15 18:40:05 UTC 2018: Code found spark.globalstate.ServletFlag-runFromServlet with spark.globalstate.ServletFlagTest-testRunFromServlet_whenExecuted
+Tue May 15 18:40:05 UTC 2018: Code found spark.globalstate.ServletFlag-isRunningFromServlet with spark.globalstate.ServletFlagTest-testIsRunningFromServlet_whenRunningFromServlet
+Tue May 15 18:40:05 UTC 2018: No link for: spark.globalstate.ServletFlagTest-testRunFromServlet_whenDefault
+Tue May 15 18:40:05 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.globalstate.ServletFlagTest
+Tue May 15 18:40:06 UTC 2018: Found element on the queue
+Tue May 15 18:40:06 UTC 2018: Updating status
+Tue May 15 18:40:06 UTC 2018: Working
+Tue May 15 18:40:09 UTC 2018: Start globaltemstone__freedomexpress test class spark.RouteImplTest
+Tue May 15 18:40:09 UTC 2018: Setting lastTestMethodIndex: 42327
+Tue May 15 18:40:09 UTC 2018: Starting linking
+Tue May 15 18:40:09 UTC 2018: Code found spark.RouteImpl-create with spark.RouteImplTest-testCreate_whenOutAssignAcceptTypeInTheParameters_thenReturnPathAndAcceptTypeSuccessfully
+Tue May 15 18:40:09 UTC 2018: Code found spark.RouteImpl-create with spark.RouteImplTest-testCreate_whenAcceptTypeNullValueInTheParameters_thenReturnPathAndAcceptTypeSuccessfully
+Tue May 15 18:40:10 UTC 2018: Code found spark.RouteImpl-getAcceptType with spark.RouteImplTest-testGets_thenReturnGetPathAndGetAcceptTypeSuccessfully
+Tue May 15 18:40:10 UTC 2018: Code found spark.RouteImpl-render with spark.RouteImplTest-testRender_whenElementParameterValid_thenReturnValidObject
+Tue May 15 18:40:10 UTC 2018: Code found spark.RouteImpl-render with spark.RouteImplTest-testRender_whenElementParameterIsNull_thenReturnNull
+Tue May 15 18:40:10 UTC 2018: No link for: spark.RouteImplTest-testConstructor
+Tue May 15 18:40:10 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.RouteImplTest
+Tue May 15 18:40:11 UTC 2018: Found element on the queue
+Tue May 15 18:40:11 UTC 2018: Updating status
+Tue May 15 18:40:11 UTC 2018: Working
+Tue May 15 18:40:14 UTC 2018: Start globaltemstone__freedomexpress test class spark.GenericSecureIntegrationTest
+Tue May 15 18:40:14 UTC 2018: Setting lastTestMethodIndex: 42333
+Tue May 15 18:40:14 UTC 2018: Starting linking
+Tue May 15 18:40:14 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testXForwardedFor
+Tue May 15 18:40:14 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testGetHiAfterFilter
+Tue May 15 18:40:15 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testEchoParam2
+Tue May 15 18:40:15 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testEchoParam1
+Tue May 15 18:40:15 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testGetHi
+Tue May 15 18:40:15 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testPost
+Tue May 15 18:40:15 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testGetRoot
+Tue May 15 18:40:15 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testEchoParamWithMaj
+Tue May 15 18:40:16 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testHiHead
+Tue May 15 18:40:16 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testNotFound
+Tue May 15 18:40:16 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testPatch
+Tue May 15 18:40:16 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testUnauthorized
+Tue May 15 18:40:16 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.GenericSecureIntegrationTest
+Tue May 15 18:40:17 UTC 2018: Found element on the queue
+Tue May 15 18:40:17 UTC 2018: Updating status
+Tue May 15 18:40:17 UTC 2018: Working
+Tue May 15 18:40:21 UTC 2018: Start globaltemstone__freedomexpress test class spark.ServiceTest
+Tue May 15 18:40:21 UTC 2018: Setting lastTestMethodIndex: 42340
+Tue May 15 18:40:21 UTC 2018: Starting linking
+Tue May 15 18:40:21 UTC 2018: Code found spark.Service-ipAddress with spark.ServiceTest-testIpAddress_whenInitializedTrue_thenThrowIllegalStateException
+Tue May 15 18:40:21 UTC 2018: Code found spark.Service-halt with spark.ServiceTest-testHalt_whenStatusCode_thenThrowHaltException
+Tue May 15 18:40:21 UTC 2018: Code found spark.Service-ipAddress with spark.ServiceTest-testSetIpAddress_whenInitializedFalse
+Tue May 15 18:40:21 UTC 2018: Code found spark.Service-secure with spark.ServiceTest-testSecure_thenReturnNewSslStores
+Tue May 15 18:40:22 UTC 2018: Code found spark.Service-threadPool with spark.ServiceTest-testThreadPool_whenOnlyMaxThreads
+Tue May 15 18:40:22 UTC 2018: Code found spark.Service-secure with spark.ServiceTest-testSecure_whenInitializedTrue_thenThrowIllegalStateException
+Tue May 15 18:40:22 UTC 2018: Code found spark.Service-threadPool with spark.ServiceTest-testThreadPool_whenMaxMinAndTimeoutParameters
+Tue May 15 18:40:22 UTC 2018: Code found spark.Service-webSocket with spark.ServiceTest-testWebSocket_whenPathNull_thenThrowNullPointerException
+Tue May 15 18:40:22 UTC 2018: Code found spark.Service-threadPool with spark.ServiceTest-testThreadPool_whenMaxMinAndTimeoutParameters_thenThrowIllegalStateException
+Tue May 15 18:40:23 UTC 2018: Code found spark.Service-webSocket with spark.ServiceTest-testWebSocket_whenInitializedTrue_thenThrowIllegalStateException
+Tue May 15 18:40:23 UTC 2018: Code found spark.Service-secure with spark.ServiceTest-testSecure_whenInitializedFalse_thenThrowIllegalArgumentException
+Tue May 15 18:40:23 UTC 2018: Code found spark.Service-halt with spark.ServiceTest-testHalt_whenOutParameters_thenThrowHaltException
+Tue May 15 18:40:23 UTC 2018: Code found spark.Service-halt with spark.ServiceTest-testHalt_whenBodyContent_thenThrowHaltException
+Tue May 15 18:40:23 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testSetPort_whenInitializedTrue_thenThrowIllegalStateException
+Tue May 15 18:40:23 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testGetPort_whenInitializedFalse_thenThrowIllegalStateException
+Tue May 15 18:40:24 UTC 2018: Code found spark.Service-ipAddress with spark.ServiceTest-testSetIpAddress_whenInitializedTrue_thenThrowIllegalStateException
+Tue May 15 18:40:24 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testPort_whenInitializedFalse
+Tue May 15 18:40:24 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testGetPort_whenInitializedTrue_Default
+Tue May 15 18:40:24 UTC 2018: Code found spark.Service-webSocketIdleTimeoutMillis with spark.ServiceTest-testWebSocketIdleTimeoutMillis_whenInitializedTrue_thenThrowIllegalStateException
+Tue May 15 18:40:24 UTC 2018: Code found spark.Service-webSocket with spark.ServiceTest-testWebSocket_whenHandlerNull_thenThrowNullPointerException
+Tue May 15 18:40:24 UTC 2018: Code found spark.Service-halt with spark.ServiceTest-testHalt_whenStatusCodeAndBodyContent_thenThrowHaltException
+Tue May 15 18:40:24 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testSetPort_whenInitializedFalse
+Tue May 15 18:40:24 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testPort_whenInitializedTrue_thenThrowIllegalStateException
+Tue May 15 18:40:25 UTC 2018: Code found spark.Service-ipAddress with spark.ServiceTest-testIpAddress_whenInitializedFalse
+Tue May 15 18:40:25 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testGetPort_whenInitializedTrue
+Tue May 15 18:40:25 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.ServiceTest
+Tue May 15 18:40:26 UTC 2018: Found element on the queue
+Tue May 15 18:40:26 UTC 2018: Updating status
+Tue May 15 18:40:26 UTC 2018: Working
+Tue May 15 18:40:29 UTC 2018: Start globaltemstone__freedomexpress test class spark.InitExceptionHandlerTest
+Tue May 15 18:40:29 UTC 2018: Setting lastTestMethodIndex: 42348
+Tue May 15 18:40:29 UTC 2018: Starting linking
+Tue May 15 18:40:29 UTC 2018: No link for: spark.InitExceptionHandlerTest-testInitExceptionHandler
+Tue May 15 18:40:29 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.InitExceptionHandlerTest
+Tue May 15 18:40:30 UTC 2018: Found element on the queue
+Tue May 15 18:40:30 UTC 2018: Updating status
+Tue May 15 18:40:30 UTC 2018: Working
+Tue May 15 18:40:33 UTC 2018: Start globaltemstone__freedomexpress test class spark.ResponseTest
+Tue May 15 18:40:33 UTC 2018: Setting lastTestMethodIndex: 42352
+Tue May 15 18:40:33 UTC 2018: Starting linking
+Tue May 15 18:40:33 UTC 2018: Code found spark.Response-body with spark.ResponseTest-testSetBody
+Tue May 15 18:40:33 UTC 2018: Code found spark.Response-removeCookie with spark.ResponseTest-testRemoveCookie_shouldModifyPropertiesFromCookieSuccessfully
+Tue May 15 18:40:33 UTC 2018: Code found spark.Response-redirect with spark.ResponseTest-testRedirect_whenLocationAndHttpStatusCodeParameters_shouldModifyStatusCodeSuccessfully
+Tue May 15 18:40:33 UTC 2018: Code found spark.Response-body with spark.ResponseTest-testGetBody
+Tue May 15 18:40:34 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenNameValueAndMaxAgeParameters_shouldAddCookieSuccessfully
+Tue May 15 18:40:34 UTC 2018: Code found spark.Response-status with spark.ResponseTest-testSetStatus
+Tue May 15 18:40:34 UTC 2018: Code found spark.Response-status with spark.ResponseTest-testGetStatus
+Tue May 15 18:40:34 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenPathNameValueMaxAgeSecuredAndHttpOnlyParameters_shouldAddCookieSuccessfully
+Tue May 15 18:40:34 UTC 2018: Code found spark.Response-type with spark.ResponseTest-testSetType
+Tue May 15 18:40:34 UTC 2018: Code found spark.Response-header with spark.ResponseTest-testHeader
+Tue May 15 18:40:35 UTC 2018: Code found spark.Response-redirect with spark.ResponseTest-testRedirect_whenLocationParameter_shouldModifyStatusCodeSuccessfully
+Tue May 15 18:40:35 UTC 2018: Code found spark.Response-type with spark.ResponseTest-testGetType
+Tue May 15 18:40:35 UTC 2018: Code found spark.Response-raw with spark.ResponseTest-testRaw
+Tue May 15 18:40:35 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenNameValueMaxAgeAndSecuredParameters_shouldAddCookieSuccessfully
+Tue May 15 18:40:35 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenNameAndValueParameters_shouldAddCookieSuccessfully
+Tue May 15 18:40:36 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenPathNameValueMaxAgeAndSecuredParameters_shouldAddCookieSuccessfully
+Tue May 15 18:40:36 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenDomainPathNameValueMaxAgeSecuredAndHttpOnlyParameters_shouldAddCookieSuccessfully
+Tue May 15 18:40:36 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenNameValueMaxAgeSecuredAndHttpOnlyParameters_shouldAddCookieSuccessfully
+Tue May 15 18:40:36 UTC 2018: No link for: spark.ResponseTest-testConstructor_whenHttpServletResponseParameter
+Tue May 15 18:40:37 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.ResponseTest
+Tue May 15 18:40:38 UTC 2018: Found element on the queue
+Tue May 15 18:40:38 UTC 2018: Updating status
+Tue May 15 18:40:38 UTC 2018: Working
+Tue May 15 18:40:41 UTC 2018: Start globaltemstone__freedomexpress test class spark.ResponseBodyTest
+Tue May 15 18:40:41 UTC 2018: Setting lastTestMethodIndex: 42360
+Tue May 15 18:40:41 UTC 2018: Starting linking
+Tue May 15 18:40:41 UTC 2018: No link for: spark.ResponseBodyTest-testMAXIME
+Tue May 15 18:40:41 UTC 2018: No link for: spark.ResponseBodyTest-testPORAKATIKAOKAO
+Tue May 15 18:40:41 UTC 2018: No link for: spark.ResponseBodyTest-testHELLO
+Tue May 15 18:40:42 UTC 2018: No link for: spark.ResponseBodyTest-testSPECIAL
+Tue May 15 18:40:42 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.ResponseBodyTest
+Tue May 15 18:40:42 UTC 2018: Found element on the queue
+Tue May 15 18:40:42 UTC 2018: Updating status
+Tue May 15 18:40:42 UTC 2018: Working
+Tue May 15 18:40:46 UTC 2018: Start globaltemstone__freedomexpress test class spark.staticfiles.StaticFilesTest
+Tue May 15 18:40:46 UTC 2018: Setting lastTestMethodIndex: 42365
+Tue May 15 18:40:46 UTC 2018: Starting linking
+Tue May 15 18:40:46 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testStaticFilePageHtml
+Tue May 15 18:40:46 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testCustomMimeType
+Tue May 15 18:40:46 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testStaticFilePagesIndexHtml
+Tue May 15 18:40:46 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testMimeTypes
+Tue May 15 18:40:46 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testDirectoryTraversalProtectionLocal
+Tue May 15 18:40:47 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testExternalStaticFile
+Tue May 15 18:40:47 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testStaticFileCssStyleCss
+Tue May 15 18:40:47 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testExceptionMapping404
+Tue May 15 18:40:47 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.staticfiles.StaticFilesTest
+Tue May 15 18:40:48 UTC 2018: Found element on the queue
+Tue May 15 18:40:48 UTC 2018: Updating status
+Tue May 15 18:40:48 UTC 2018: Working
+Tue May 15 18:40:51 UTC 2018: Start globaltemstone__freedomexpress test class spark.staticfiles.DisableMimeGuessingTest
+Tue May 15 18:40:51 UTC 2018: Setting lastTestMethodIndex: 42369
+Tue May 15 18:40:51 UTC 2018: Starting linking
+Tue May 15 18:40:51 UTC 2018: No link for: spark.staticfiles.DisableMimeGuessingTest-testMimeTypes
+Tue May 15 18:40:51 UTC 2018: No link for: spark.staticfiles.DisableMimeGuessingTest-testCustomMimeType
+Tue May 15 18:40:51 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.staticfiles.DisableMimeGuessingTest
+Tue May 15 18:40:52 UTC 2018: Found element on the queue
+Tue May 15 18:40:52 UTC 2018: Updating status
+Tue May 15 18:40:52 UTC 2018: Working
+Tue May 15 18:40:56 UTC 2018: Start globaltemstone__freedomexpress test class spark.QueryParamsMapTest
+Tue May 15 18:40:56 UTC 2018: Setting lastTestMethodIndex: 42375
+Tue May 15 18:40:56 UTC 2018: Starting linking
+Tue May 15 18:40:56 UTC 2018: No code found spark.QueryParamsMap-toMap with spark.QueryParamsMapTest-testToMap
+Tue May 15 18:40:56 UTC 2018: Code found spark.QueryParamsMap-parseKey with spark.QueryParamsMapTest-parseKeyShouldParseRootKey
+Tue May 15 18:40:56 UTC 2018: Code found spark.QueryParamsMap-parseKey with spark.QueryParamsMapTest-parseKeyShouldParseSubkeys
+Tue May 15 18:40:56 UTC 2018: No link for: spark.QueryParamsMapTest-constructorWithParametersMap
+Tue May 15 18:40:57 UTC 2018: No link for: spark.QueryParamsMapTest-itShouldbeNullSafe
+Tue May 15 18:40:57 UTC 2018: No link for: spark.QueryParamsMapTest-keyToMap
+Tue May 15 18:40:57 UTC 2018: No link for: spark.QueryParamsMapTest-testDifferentTypesForValue
+Tue May 15 18:40:57 UTC 2018: No link for: spark.QueryParamsMapTest-testConstructor
+Tue May 15 18:40:57 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.QueryParamsMapTest
+Tue May 15 18:40:58 UTC 2018: Found element on the queue
+Tue May 15 18:40:58 UTC 2018: Updating status
+Tue May 15 18:40:58 UTC 2018: Working
+Tue May 15 18:41:01 UTC 2018: Start globaltemstone__freedomexpress test class spark.MultipleServicesTest
+Tue May 15 18:41:01 UTC 2018: Setting lastTestMethodIndex: 42381
+Tue May 15 18:41:01 UTC 2018: Starting linking
+Tue May 15 18:41:01 UTC 2018: No link for: spark.MultipleServicesTest-testGetRedirectedHi
+Tue May 15 18:41:01 UTC 2018: No link for: spark.MultipleServicesTest-testGetUniqueForSecondWithFirst
+Tue May 15 18:41:01 UTC 2018: No link for: spark.MultipleServicesTest-testGetHello
+Tue May 15 18:41:01 UTC 2018: No link for: spark.MultipleServicesTest-testStaticFileCssStyleCssWithSecond
+Tue May 15 18:41:02 UTC 2018: No link for: spark.MultipleServicesTest-testGetUniqueForSecondWithSecond
+Tue May 15 18:41:02 UTC 2018: No link for: spark.MultipleServicesTest-testStaticFileCssStyleCssWithFirst
+Tue May 15 18:41:02 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.MultipleServicesTest
+Tue May 15 18:41:03 UTC 2018: Found element on the queue
+Tue May 15 18:41:03 UTC 2018: Updating status
+Tue May 15 18:41:03 UTC 2018: Working
+Tue May 15 18:41:07 UTC 2018: Start globaltemstone__freedomexpress test class spark.resource.UriPathTest
+Tue May 15 18:41:07 UTC 2018: Setting lastTestMethodIndex: 42387
+Tue May 15 18:41:07 UTC 2018: Starting linking
+Tue May 15 18:41:07 UTC 2018: Code found spark.resource.UriPath-canonical with spark.resource.UriPathTest-canonical
+Tue May 15 18:41:07 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.resource.UriPathTest
+Tue May 15 18:41:08 UTC 2018: Found element on the queue
+Tue May 15 18:41:08 UTC 2018: Updating status
+Tue May 15 18:41:08 UTC 2018: Working
+Tue May 15 18:41:11 UTC 2018: Start globaltemstone__freedomexpress test class spark.util.ResourceUtilsTest
+Tue May 15 18:41:11 UTC 2018: Setting lastTestMethodIndex: 42392
+Tue May 15 18:41:11 UTC 2018: Starting linking
+Tue May 15 18:41:11 UTC 2018: Code found spark.utils.ResourceUtils-getFile with spark.util.ResourceUtilsTest-testGetFile_whenURLProtocolIsFile_thenReturnFileObject
+Tue May 15 18:41:11 UTC 2018: Code found spark.utils.ResourceUtils-getFile with spark.util.ResourceUtilsTest-testGetFile_whenURLProtocolIsNotFile_thenThrowFileNotFoundException
+Tue May 15 18:41:12 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.util.ResourceUtilsTest
+Tue May 15 18:41:12 UTC 2018: Found element on the queue
+Tue May 15 18:41:12 UTC 2018: Updating status
+Tue May 15 18:41:12 UTC 2018: Working
+Tue May 15 18:41:16 UTC 2018: Start globaltemstone__freedomexpress test class spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest
+Tue May 15 18:41:16 UTC 2018: Setting lastTestMethodIndex: 42396
+Tue May 15 18:41:16 UTC 2018: Starting linking
+Tue May 15 18:41:16 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketCreatorFactory-create with spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest-testCreateWebSocketHandler
+Tue May 15 18:41:16 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketCreatorFactory-create with spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest-testCreate_whenInstantiationException
+Tue May 15 18:41:16 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketCreatorFactory-create with spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest-testCannotCreateInvalidHandlers
+Tue May 15 18:41:17 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest
+Tue May 15 18:41:17 UTC 2018: Found element on the queue
+Tue May 15 18:41:17 UTC 2018: Updating status
+Tue May 15 18:41:17 UTC 2018: Working
+Tue May 15 18:41:20 UTC 2018: Start globaltemstone__freedomexpress test class spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest
+Tue May 15 18:41:20 UTC 2018: Setting lastTestMethodIndex: 42401
+Tue May 15 18:41:20 UTC 2018: Starting linking
+Tue May 15 18:41:20 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory-create with spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest-testCreate_whenWebSocketContextHandlerCreationFails_thenThrowException
+Tue May 15 18:41:20 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory-create with spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest-testCreate_whenTimeoutIsPresent
+Tue May 15 18:41:21 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory-create with spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest-testCreate_whenWebSocketHandlersIsNull_thenReturnNull
+Tue May 15 18:41:21 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory-create with spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest-testCreate_whenNoIdleTimeoutIsPresent
+Tue May 15 18:41:21 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest
+Tue May 15 18:41:22 UTC 2018: Found element on the queue
+Tue May 15 18:41:22 UTC 2018: Updating status
+Tue May 15 18:41:22 UTC 2018: Working
+Tue May 15 18:41:24 UTC 2018: Start globaltemstone__freedomexpress test class spark.embeddedserver.jetty.SocketConnectorFactoryTest
+Tue May 15 18:41:24 UTC 2018: Setting lastTestMethodIndex: 42406
+Tue May 15 18:41:24 UTC 2018: Starting linking
+Tue May 15 18:41:24 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSecureSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSecureSocketConnector_whenServerIsNull
+Tue May 15 18:41:25 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSecureSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSecureSocketConnector
+Tue May 15 18:41:25 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSocketConnector_whenHostIsNull_thenThrowException
+Tue May 15 18:41:25 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSocketConnector
+Tue May 15 18:41:25 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSecureSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSecureSocketConnector_whenSslStoresIsNull
+Tue May 15 18:41:26 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSocketConnector_whenServerIsNull_thenThrowException
+Tue May 15 18:41:26 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSecureSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSecureSocketConnector_whenHostIsNull
+Tue May 15 18:41:26 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.embeddedserver.jetty.SocketConnectorFactoryTest
+Tue May 15 18:41:27 UTC 2018: Found element on the queue
+Tue May 15 18:41:27 UTC 2018: Updating status
+Tue May 15 18:41:27 UTC 2018: Working
+Tue May 15 18:41:31 UTC 2018: Start globaltemstone__freedomexpress test class spark.embeddedserver.jetty.JettyServerTest
+Tue May 15 18:41:31 UTC 2018: Setting lastTestMethodIndex: 42412
+Tue May 15 18:41:31 UTC 2018: Starting linking
+Tue May 15 18:41:31 UTC 2018: Code found spark.embeddedserver.jetty.JettyServer-create with spark.embeddedserver.jetty.JettyServerTest-testCreateServer_useDefaults
+Tue May 15 18:41:31 UTC 2018: Code found spark.embeddedserver.jetty.JettyServer-create with spark.embeddedserver.jetty.JettyServerTest-testCreateServer_whenNonDefaultMaxThreadOnly_thenUseDefaultMinThreadAndTimeout
+Tue May 15 18:41:31 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.embeddedserver.jetty.JettyServerTest
+Tue May 15 18:41:32 UTC 2018: Found element on the queue
+Tue May 15 18:41:32 UTC 2018: Updating status
+Tue May 15 18:41:32 UTC 2018: Working
+Tue May 15 18:41:35 UTC 2018: Start globaltemstone__freedomexpress test class spark.embeddedserver.EmbeddedServersTest
+Tue May 15 18:41:35 UTC 2018: Setting lastTestMethodIndex: 42417
+Tue May 15 18:41:35 UTC 2018: Starting linking
+Tue May 15 18:41:35 UTC 2018: Code found spark.embeddedserver.EmbeddedServers-add with spark.embeddedserver.EmbeddedServersTest-testAdd_whenConfigureRoutes_createsCustomServer
+Tue May 15 18:41:36 UTC 2018: Code found spark.embeddedserver.EmbeddedServers-create with spark.embeddedserver.EmbeddedServersTest-testAddAndCreate_whenCreate_createsCustomServer
+Tue May 15 18:41:36 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.embeddedserver.EmbeddedServersTest
+Tue May 15 18:41:36 UTC 2018: Found element on the queue
+Tue May 15 18:41:36 UTC 2018: Updating status
+Tue May 15 18:41:36 UTC 2018: Working
+Tue May 15 18:41:40 UTC 2018: Start globaltemstone__freedomexpress test class spark.RedirectTest
+Tue May 15 18:41:40 UTC 2018: Setting lastTestMethodIndex: 42422
+Tue May 15 18:41:40 UTC 2018: Starting linking
+Tue May 15 18:41:40 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyPostWithSpecificCode
+Tue May 15 18:41:40 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyPost
+Tue May 15 18:41:40 UTC 2018: No link for: spark.RedirectTest-testRedirectPostWithSpecificCode
+Tue May 15 18:41:41 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyDeleteWithSpecificCode
+Tue May 15 18:41:41 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyGetWithSpecificCode
+Tue May 15 18:41:41 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyPutWithSpecificCode
+Tue May 15 18:41:41 UTC 2018: No link for: spark.RedirectTest-testRedirectPost
+Tue May 15 18:41:41 UTC 2018: No link for: spark.RedirectTest-testRedirectGetWithSpecificCode
+Tue May 15 18:41:41 UTC 2018: No link for: spark.RedirectTest-testRedirectPutWithSpecificCode
+Tue May 15 18:41:42 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyGet
+Tue May 15 18:41:42 UTC 2018: No link for: spark.RedirectTest-testRedirectGet
+Tue May 15 18:41:42 UTC 2018: No link for: spark.RedirectTest-testRedirectDelete
+Tue May 15 18:41:42 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyDelete
+Tue May 15 18:41:43 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyPut
+Tue May 15 18:41:43 UTC 2018: No link for: spark.RedirectTest-testRedirectPut
+Tue May 15 18:41:43 UTC 2018: No link for: spark.RedirectTest-testRedirectDeleteWithSpecificCode
+Tue May 15 18:41:43 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.RedirectTest
+Tue May 15 18:41:44 UTC 2018: Found element on the queue
+Tue May 15 18:41:44 UTC 2018: Updating status
+Tue May 15 18:41:44 UTC 2018: Working
+Tue May 15 18:41:47 UTC 2018: Start globaltemstone__freedomexpress test class spark.GzipTest
+Tue May 15 18:41:47 UTC 2018: Setting lastTestMethodIndex: 42429
+Tue May 15 18:41:47 UTC 2018: Starting linking
+Tue May 15 18:41:47 UTC 2018: No link for: spark.GzipTest-testStaticFileCssStyleCss
+Tue May 15 18:41:47 UTC 2018: No link for: spark.GzipTest-checkGzipCompression
+Tue May 15 18:41:48 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.GzipTest
+Tue May 15 18:41:48 UTC 2018: Found element on the queue
+Tue May 15 18:41:48 UTC 2018: Updating status
+Tue May 15 18:41:48 UTC 2018: Working
+Tue May 15 18:41:51 UTC 2018: Start globaltemstone__freedomexpress test class spark.BodyAvailabilityTest
+Tue May 15 18:41:51 UTC 2018: Setting lastTestMethodIndex: 42433
+Tue May 15 18:41:51 UTC 2018: Starting linking
+Tue May 15 18:41:51 UTC 2018: No link for: spark.BodyAvailabilityTest-testPost
+Tue May 15 18:41:51 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.BodyAvailabilityTest
+Tue May 15 18:41:52 UTC 2018: Found element on the queue
+Tue May 15 18:41:52 UTC 2018: Updating status
+Tue May 15 18:41:52 UTC 2018: Working
+Tue May 15 18:41:55 UTC 2018: Start globaltemstone__freedomexpress test class spark.ExceptionMapperTest
+Tue May 15 18:41:55 UTC 2018: Setting lastTestMethodIndex: 42438
+Tue May 15 18:41:55 UTC 2018: Starting linking
+Tue May 15 18:41:55 UTC 2018: Code found spark.ExceptionMapper-getInstance with spark.ExceptionMapperTest-testGetInstance_whenDefaultInstanceIsNull
+Tue May 15 18:41:55 UTC 2018: Code found spark.ExceptionMapper-getInstance with spark.ExceptionMapperTest-testGetInstance_whenDefaultInstanceIsNotNull
+Tue May 15 18:41:55 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.ExceptionMapperTest
+Tue May 15 18:41:56 UTC 2018: Found element on the queue
+Tue May 15 18:41:56 UTC 2018: Updating status
+Tue May 15 18:41:57 UTC 2018: Working
+Tue May 15 18:41:59 UTC 2018: Start globaltemstone__freedomexpress test class spark.route.HttpMethodTest
+Tue May 15 18:41:59 UTC 2018: Setting lastTestMethodIndex: 42443
+Tue May 15 18:41:59 UTC 2018: Starting linking
+Tue May 15 18:41:59 UTC 2018: No link for: spark.route.HttpMethodTest-testNotSupportedHttpMethod
+Tue May 15 18:42:00 UTC 2018: No link for: spark.route.HttpMethodTest-testSupportedHttpMethod
+Tue May 15 18:42:00 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.route.HttpMethodTest
+Tue May 15 18:42:01 UTC 2018: Found element on the queue
+Tue May 15 18:42:01 UTC 2018: Updating status
+Tue May 15 18:42:01 UTC 2018: Working
+Tue May 15 18:42:04 UTC 2018: Start globaltemstone__freedomexpress test class spark.route.RouteEntryTest
+Tue May 15 18:42:04 UTC 2018: Setting lastTestMethodIndex: 42448
+Tue May 15 18:42:04 UTC 2018: Starting linking
+Tue May 15 18:42:05 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_BeforeAndAllPaths
+Tue May 15 18:42:05 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_AfterAndAllPaths
+Tue May 15 18:42:05 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_WithWildcardOnEntryPath
+Tue May 15 18:42:05 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_MatchingPaths
+Tue May 15 18:42:05 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_PathDoesNotEndInSlash
+Tue May 15 18:42:06 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_PathsDoNotMatch
+Tue May 15 18:42:06 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_RouteDoesNotEndWithSlash
+Tue May 15 18:42:06 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_NotAllPathsAndDidNotMatchHttpMethod
+Tue May 15 18:42:06 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_longRoutePathWildcard
+Tue May 15 18:42:06 UTC 2018: Linking done for globaltemstone__freedomexpress test class spark.route.RouteEntryTest

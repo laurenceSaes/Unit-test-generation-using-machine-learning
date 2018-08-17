@@ -1,0 +1,708 @@
+Tue May 15 23:40:23 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 23:40:23 UTC 2018: Starting
+Tue May 15 23:40:24 UTC 2018: Found element on the queue
+Tue May 15 23:40:24 UTC 2018: Updating status
+Tue May 15 23:40:24 UTC 2018: Working
+Tue May 15 23:40:24 UTC 2018: Create project parser
+Tue May 15 23:40:28 UTC 2018: Create slicer
+Tue May 15 23:40:30 UTC 2018: Create call graph
+Tue May 15 23:40:32 UTC 2018: Create point analysis
+Tue May 15 23:40:32 UTC 2018: Create call graph done
+Tue May 15 23:40:32 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest
+Tue May 15 23:40:32 UTC 2018: Setting lastTestMethodIndex: 51459
+Tue May 15 23:40:32 UTC 2018: Starting linking
+Tue May 15 23:40:32 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest-testInitNoMatchingProvider
+Tue May 15 23:40:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:32 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest-testInitNoProviders
+Tue May 15 23:40:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:33 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest-testInit
+Tue May 15 23:40:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:33 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest-testInitMultipleProviders
+Tue May 15 23:40:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:33 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest
+Tue May 15 23:40:34 UTC 2018: Found element on the queue
+Tue May 15 23:40:34 UTC 2018: Updating status
+Tue May 15 23:40:34 UTC 2018: Working
+Tue May 15 23:40:36 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest
+Tue May 15 23:40:36 UTC 2018: Setting lastTestMethodIndex: 51460
+Tue May 15 23:40:36 UTC 2018: Starting linking
+Tue May 15 23:40:36 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest-testInit
+Tue May 15 23:40:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:36 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest-testInitMultipleProviders
+Tue May 15 23:40:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:37 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest-testInitNoMatchingProvider
+Tue May 15 23:40:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:37 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest-testInitNoProviders
+Tue May 15 23:40:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:38 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest
+Tue May 15 23:40:38 UTC 2018: Found element on the queue
+Tue May 15 23:40:38 UTC 2018: Updating status
+Tue May 15 23:40:38 UTC 2018: Working
+Tue May 15 23:40:38 UTC 2018: Create project parser
+Tue May 15 23:40:42 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest
+Tue May 15 23:40:42 UTC 2018: Setting lastTestMethodIndex: 51463
+Tue May 15 23:40:42 UTC 2018: Starting linking
+Tue May 15 23:40:42 UTC 2018: Code found com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilder-getProperties with com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testGetProperties
+Tue May 15 23:40:42 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testGetPropertiesBadType
+Tue May 15 23:40:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testCloseOnLoadException
+Tue May 15 23:40:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testNoCloseOnNullStream
+Tue May 15 23:40:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:43 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testGetPropertiesNoType
+Tue May 15 23:40:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:43 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest
+Tue May 15 23:40:43 UTC 2018: Found element on the queue
+Tue May 15 23:40:43 UTC 2018: Updating status
+Tue May 15 23:40:43 UTC 2018: Working
+Tue May 15 23:40:47 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest
+Tue May 15 23:40:47 UTC 2018: Setting lastTestMethodIndex: 51466
+Tue May 15 23:40:47 UTC 2018: Starting linking
+Tue May 15 23:40:47 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testFromConfigValueMapImmutable
+Tue May 15 23:40:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:47 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testFromConfigValueMapNoUnknown
+Tue May 15 23:40:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:48 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testFromConfigValueBad
+Tue May 15 23:40:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:48 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testGetConfigValue
+Tue May 15 23:40:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:48 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testFromConfigValue
+Tue May 15 23:40:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:48 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest
+Tue May 15 23:40:49 UTC 2018: Found element on the queue
+Tue May 15 23:40:49 UTC 2018: Updating status
+Tue May 15 23:40:49 UTC 2018: Working
+Tue May 15 23:40:51 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest
+Tue May 15 23:40:51 UTC 2018: Setting lastTestMethodIndex: 51469
+Tue May 15 23:40:51 UTC 2018: Starting linking
+Tue May 15 23:40:51 UTC 2018: Code found com.redhat.thermostat.agent.ipc.common.internal.IPCProperties-getPropertiesFile with com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest-testGetPropertiesFile
+Tue May 15 23:40:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:52 UTC 2018: Code found com.redhat.thermostat.agent.ipc.common.internal.IPCProperties-getType with com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest-testGetType
+Tue May 15 23:40:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:52 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest-testNullFile
+Tue May 15 23:40:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:52 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest-testNullType
+Tue May 15 23:40:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:40:52 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest
+Tue May 15 23:40:53 UTC 2018: Found element on the queue
+Tue May 15 23:40:53 UTC 2018: Updating status
+Tue May 15 23:40:53 UTC 2018: Working
+Tue May 15 23:40:53 UTC 2018: Create project parser
+Tue May 15 23:40:56 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest
+Tue May 15 23:40:56 UTC 2018: Setting lastTestMethodIndex: 51472
+Tue May 15 23:40:56 UTC 2018: Starting linking
+Tue May 15 23:40:56 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannel-close with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest-testClose
+Tue May 15 23:40:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:56 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannel-isOpen with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest-testIsOpen
+Tue May 15 23:40:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:57 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannel-writeMessage with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest-testWriteMessage
+Tue May 15 23:40:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:57 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannel-readMessage with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest-testReadMessage
+Tue May 15 23:40:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:57 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest
+Tue May 15 23:40:58 UTC 2018: Found element on the queue
+Tue May 15 23:40:58 UTC 2018: Updating status
+Tue May 15 23:40:58 UTC 2018: Working
+Tue May 15 23:41:01 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest
+Tue May 15 23:41:01 UTC 2018: Setting lastTestMethodIndex: 51475
+Tue May 15 23:41:01 UTC 2018: Starting linking
+Tue May 15 23:41:01 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest-testConnectToServer
+Tue May 15 23:41:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:01 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest-testConnectToServerBadSocket
+Tue May 15 23:41:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:01 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest-testBadProperties
+Tue May 15 23:41:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:01 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest
+Tue May 15 23:41:02 UTC 2018: Found element on the queue
+Tue May 15 23:41:02 UTC 2018: Updating status
+Tue May 15 23:41:02 UTC 2018: Working
+Tue May 15 23:41:02 UTC 2018: Create project parser
+Tue May 15 23:41:07 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest
+Tue May 15 23:41:07 UTC 2018: Setting lastTestMethodIndex: 51477
+Tue May 15 23:41:07 UTC 2018: Starting linking
+Tue May 15 23:41:07 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteDataSplitMessage
+Tue May 15 23:41:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:07 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteDataSingle
+Tue May 15 23:41:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:07 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:41:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:07 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteDataSplitHeader
+Tue May 15 23:41:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:08 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:41:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:08 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest
+Tue May 15 23:41:08 UTC 2018: Found element on the queue
+Tue May 15 23:41:08 UTC 2018: Updating status
+Tue May 15 23:41:08 UTC 2018: Working
+Tue May 15 23:41:11 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest
+Tue May 15 23:41:11 UTC 2018: Setting lastTestMethodIndex: 51480
+Tue May 15 23:41:11 UTC 2018: Starting linking
+Tue May 15 23:41:11 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-read with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testReadSingle
+Tue May 15 23:41:11 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:11 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-write with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testWriteSingle
+Tue May 15 23:41:11 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:11 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-isOpen with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testIsOpen
+Tue May 15 23:41:11 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:11 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-read with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testReadEOF
+Tue May 15 23:41:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:12 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-close with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testClose
+Tue May 15 23:41:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:12 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-open with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testOpen
+Tue May 15 23:41:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:12 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest
+Tue May 15 23:41:13 UTC 2018: Found element on the queue
+Tue May 15 23:41:13 UTC 2018: Updating status
+Tue May 15 23:41:13 UTC 2018: Working
+Tue May 15 23:41:15 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest
+Tue May 15 23:41:15 UTC 2018: Setting lastTestMethodIndex: 51483
+Tue May 15 23:41:15 UTC 2018: Starting linking
+Tue May 15 23:41:15 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferShortProtocolVersion
+Tue May 15 23:41:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:15 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1
+Tue May 15 23:41:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:16 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBuffer
+Tue May 15 23:41:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:16 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMoreData
+Tue May 15 23:41:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:16 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferShortHeaderSize
+Tue May 15 23:41:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:16 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1NegativeMessageSize
+Tue May 15 23:41:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:17 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferZeroHeaderSize
+Tue May 15 23:41:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:17 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMessageSize
+Tue May 15 23:41:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:17 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferNegativeProtocolVersion
+Tue May 15 23:41:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:17 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferZeroProtocolVersion
+Tue May 15 23:41:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferNegativeHeaderSize
+Tue May 15 23:41:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV0
+Tue May 15 23:41:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferShortMagic
+Tue May 15 23:41:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ZeroMessageSize
+Tue May 15 23:41:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:19 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testToBytesBase
+Tue May 15 23:41:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:19 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testToBytesV1
+Tue May 15 23:41:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:19 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testNewHeaderV1
+Tue May 15 23:41:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:19 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testNewHeaderBase
+Tue May 15 23:41:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:20 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest
+Tue May 15 23:41:20 UTC 2018: Found element on the queue
+Tue May 15 23:41:20 UTC 2018: Updating status
+Tue May 15 23:41:20 UTC 2018: Working
+Tue May 15 23:41:23 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReaderTest
+Tue May 15 23:41:23 UTC 2018: Setting lastTestMethodIndex: 51488
+Tue May 15 23:41:23 UTC 2018: Starting linking
+Tue May 15 23:41:23 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:41:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:23 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:41:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:23 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReaderTest
+Tue May 15 23:41:24 UTC 2018: Found element on the queue
+Tue May 15 23:41:24 UTC 2018: Updating status
+Tue May 15 23:41:24 UTC 2018: Working
+Tue May 15 23:41:26 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest
+Tue May 15 23:41:26 UTC 2018: Setting lastTestMethodIndex: 51491
+Tue May 15 23:41:26 UTC 2018: Starting linking
+Tue May 15 23:41:26 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest-testType
+Tue May 15 23:41:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:26 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest-testBadPort
+Tue May 15 23:41:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:27 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest-testBadServer
+Tue May 15 23:41:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:27 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest
+Tue May 15 23:41:27 UTC 2018: Found element on the queue
+Tue May 15 23:41:27 UTC 2018: Updating status
+Tue May 15 23:41:27 UTC 2018: Working
+Tue May 15 23:41:30 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest
+Tue May 15 23:41:30 UTC 2018: Setting lastTestMethodIndex: 51494
+Tue May 15 23:41:30 UTC 2018: Starting linking
+Tue May 15 23:41:30 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest-testWriteDataNotFullHeader
+Tue May 15 23:41:30 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:30 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:41:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:31 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest-testWriteDataNotFullMessage
+Tue May 15 23:41:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:31 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:41:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:31 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest
+Tue May 15 23:41:32 UTC 2018: Found element on the queue
+Tue May 15 23:41:32 UTC 2018: Updating status
+Tue May 15 23:41:32 UTC 2018: Working
+Tue May 15 23:41:34 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriterTest
+Tue May 15 23:41:34 UTC 2018: Setting lastTestMethodIndex: 51497
+Tue May 15 23:41:34 UTC 2018: Starting linking
+Tue May 15 23:41:34 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriterTest-testGetNextMessageSingle
+Tue May 15 23:41:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:34 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriterTest-testGetNextMessageMulti
+Tue May 15 23:41:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:35 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriterTest
+Tue May 15 23:41:35 UTC 2018: Found element on the queue
+Tue May 15 23:41:35 UTC 2018: Updating status
+Tue May 15 23:41:35 UTC 2018: Working
+Tue May 15 23:41:38 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageReaderTest
+Tue May 15 23:41:38 UTC 2018: Setting lastTestMethodIndex: 51499
+Tue May 15 23:41:38 UTC 2018: Starting linking
+Tue May 15 23:41:38 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl-read with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:41:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:39 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl-read with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:41:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:39 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageReaderTest
+Tue May 15 23:41:40 UTC 2018: Found element on the queue
+Tue May 15 23:41:40 UTC 2018: Updating status
+Tue May 15 23:41:40 UTC 2018: Working
+Tue May 15 23:41:42 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest
+Tue May 15 23:41:42 UTC 2018: Setting lastTestMethodIndex: 51501
+Tue May 15 23:41:42 UTC 2018: Starting linking
+Tue May 15 23:41:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testThreeReadGotTwoMessages
+Tue May 15 23:41:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testFiveReadGotFullHeader
+Tue May 15 23:41:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:43 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testMessagePartTooLarge
+Tue May 15 23:41:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:43 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testFourReadGotMinHeader
+Tue May 15 23:41:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:43 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testSixReadGotFullMessage
+Tue May 15 23:41:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:43 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testTwoRead
+Tue May 15 23:41:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:44 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testTwoReadGotTwoMessages
+Tue May 15 23:41:45 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:45 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testThreeReadGotMinHeader
+Tue May 15 23:41:45 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:45 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testFourReadGotThreeMessagesOneContinued
+Tue May 15 23:41:45 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:45 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testOneRead
+Tue May 15 23:41:45 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:45 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testMessageTooLarge
+Tue May 15 23:41:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:46 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testHeaderTooLarge
+Tue May 15 23:41:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:46 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testThreeReadGotTwoMessagesNotContinued
+Tue May 15 23:41:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:46 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest
+Tue May 15 23:41:47 UTC 2018: Found element on the queue
+Tue May 15 23:41:47 UTC 2018: Updating status
+Tue May 15 23:41:47 UTC 2018: Working
+Tue May 15 23:41:47 UTC 2018: Create project parser
+Tue May 15 23:41:49 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest
+Tue May 15 23:41:49 UTC 2018: Setting lastTestMethodIndex: 51504
+Tue May 15 23:41:49 UTC 2018: Starting linking
+Tue May 15 23:41:49 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testConnectToServer
+Tue May 15 23:41:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:49 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testConnectToServerBadSocket
+Tue May 15 23:41:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:50 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testConnectToServerFileNotExist
+Tue May 15 23:41:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:50 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testConnectToServerDirNotExist
+Tue May 15 23:41:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:50 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testBadProperties
+Tue May 15 23:41:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:41:50 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest
+Tue May 15 23:41:51 UTC 2018: Found element on the queue
+Tue May 15 23:41:51 UTC 2018: Updating status
+Tue May 15 23:41:51 UTC 2018: Working
+Tue May 15 23:41:53 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest
+Tue May 15 23:41:53 UTC 2018: Setting lastTestMethodIndex: 51508
+Tue May 15 23:41:53 UTC 2018: Starting linking
+Tue May 15 23:41:53 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannel-writeMessage with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest-testWriteMessage
+Tue May 15 23:41:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:54 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannel-close with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest-testClose
+Tue May 15 23:41:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:54 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannel-isOpen with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest-testIsOpen
+Tue May 15 23:41:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:54 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannel-readMessage with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest-testReadMessage
+Tue May 15 23:41:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:54 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest
+Tue May 15 23:41:55 UTC 2018: Found element on the queue
+Tue May 15 23:41:55 UTC 2018: Updating status
+Tue May 15 23:41:55 UTC 2018: Working
+Tue May 15 23:41:55 UTC 2018: Create project parser
+Tue May 15 23:41:58 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest
+Tue May 15 23:41:58 UTC 2018: Setting lastTestMethodIndex: 51512
+Tue May 15 23:41:58 UTC 2018: Starting linking
+Tue May 15 23:41:58 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteDataSingle
+Tue May 15 23:41:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:41:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteDataSplitHeader
+Tue May 15 23:41:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteDataSplitMessage
+Tue May 15 23:41:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:59 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:42:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:00 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest
+Tue May 15 23:42:00 UTC 2018: Found element on the queue
+Tue May 15 23:42:00 UTC 2018: Updating status
+Tue May 15 23:42:00 UTC 2018: Working
+Tue May 15 23:42:03 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest
+Tue May 15 23:42:03 UTC 2018: Setting lastTestMethodIndex: 51514
+Tue May 15 23:42:03 UTC 2018: Starting linking
+Tue May 15 23:42:03 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferShortMagic
+Tue May 15 23:42:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:04 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ZeroMessageSize
+Tue May 15 23:42:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:04 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferNegativeProtocolVersion
+Tue May 15 23:42:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:04 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferZeroHeaderSize
+Tue May 15 23:42:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:05 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferShortProtocolVersion
+Tue May 15 23:42:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:05 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMessageSize
+Tue May 15 23:42:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:05 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBuffer
+Tue May 15 23:42:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:05 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMoreData
+Tue May 15 23:42:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:05 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferNegativeHeaderSize
+Tue May 15 23:42:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:06 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV0
+Tue May 15 23:42:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:06 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1
+Tue May 15 23:42:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:06 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferZeroProtocolVersion
+Tue May 15 23:42:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:06 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferShortHeaderSize
+Tue May 15 23:42:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:07 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1NegativeMessageSize
+Tue May 15 23:42:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:07 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testNewHeaderBase
+Tue May 15 23:42:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:07 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testToBytesBase
+Tue May 15 23:42:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:07 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testToBytesV1
+Tue May 15 23:42:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:08 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testNewHeaderV1
+Tue May 15 23:42:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:08 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest
+Tue May 15 23:42:08 UTC 2018: Found element on the queue
+Tue May 15 23:42:08 UTC 2018: Updating status
+Tue May 15 23:42:08 UTC 2018: Working
+Tue May 15 23:42:11 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest
+Tue May 15 23:42:11 UTC 2018: Setting lastTestMethodIndex: 51518
+Tue May 15 23:42:11 UTC 2018: Starting linking
+Tue May 15 23:42:11 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-open with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testOpen
+Tue May 15 23:42:11 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:11 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-isOpen with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testIsOpen
+Tue May 15 23:42:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:12 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-read with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testReadEOF
+Tue May 15 23:42:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:12 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-write with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testWriteSingle
+Tue May 15 23:42:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:12 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-read with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testReadSingle
+Tue May 15 23:42:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:12 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-close with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testClose
+Tue May 15 23:42:13 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:13 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest
+Tue May 15 23:42:13 UTC 2018: Found element on the queue
+Tue May 15 23:42:13 UTC 2018: Updating status
+Tue May 15 23:42:13 UTC 2018: Working
+Tue May 15 23:42:16 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReaderTest
+Tue May 15 23:42:16 UTC 2018: Setting lastTestMethodIndex: 51521
+Tue May 15 23:42:16 UTC 2018: Starting linking
+Tue May 15 23:42:16 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:42:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:16 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:42:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:16 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReaderTest
+Tue May 15 23:42:17 UTC 2018: Found element on the queue
+Tue May 15 23:42:17 UTC 2018: Updating status
+Tue May 15 23:42:17 UTC 2018: Working
+Tue May 15 23:42:19 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest
+Tue May 15 23:42:19 UTC 2018: Setting lastTestMethodIndex: 51524
+Tue May 15 23:42:19 UTC 2018: Starting linking
+Tue May 15 23:42:19 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest-testWriteDataNotFullMessage
+Tue May 15 23:42:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:20 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest-testWriteDataNotFullHeader
+Tue May 15 23:42:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:20 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:42:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:20 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:42:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:20 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest
+Tue May 15 23:42:21 UTC 2018: Found element on the queue
+Tue May 15 23:42:21 UTC 2018: Updating status
+Tue May 15 23:42:21 UTC 2018: Working
+Tue May 15 23:42:23 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriterTest
+Tue May 15 23:42:23 UTC 2018: Setting lastTestMethodIndex: 51526
+Tue May 15 23:42:23 UTC 2018: Starting linking
+Tue May 15 23:42:23 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriterTest-testGetNextMessageSingle
+Tue May 15 23:42:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:24 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriterTest-testGetNextMessageMulti
+Tue May 15 23:42:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:24 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriterTest
+Tue May 15 23:42:24 UTC 2018: Found element on the queue
+Tue May 15 23:42:24 UTC 2018: Updating status
+Tue May 15 23:42:24 UTC 2018: Working
+Tue May 15 23:42:27 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest
+Tue May 15 23:42:27 UTC 2018: Setting lastTestMethodIndex: 51528
+Tue May 15 23:42:27 UTC 2018: Starting linking
+Tue May 15 23:42:27 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtils-getCurrentUser with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest-testGetCurrentUserGetOwnerNull
+Tue May 15 23:42:27 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:27 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtils-getCurrentUser with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest-testGetCurrentUser
+Tue May 15 23:42:27 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:27 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtils-getCurrentUser with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest-testGetCurrentUserCreateFileException
+Tue May 15 23:42:28 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:28 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtils-getCurrentUser with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest-testGetCurrentUserGetOwnerException
+Tue May 15 23:42:28 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:28 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest
+Tue May 15 23:42:28 UTC 2018: Found element on the queue
+Tue May 15 23:42:28 UTC 2018: Updating status
+Tue May 15 23:42:28 UTC 2018: Working
+Tue May 15 23:42:31 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest
+Tue May 15 23:42:31 UTC 2018: Setting lastTestMethodIndex: 51530
+Tue May 15 23:42:31 UTC 2018: Starting linking
+Tue May 15 23:42:31 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest-testType
+Tue May 15 23:42:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:31 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest-testDefaultSocketDirectoryTmp
+Tue May 15 23:42:32 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest-testNoXDGNoTmp
+Tue May 15 23:42:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:32 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest-testSocketDirectory
+Tue May 15 23:42:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:32 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest
+Tue May 15 23:42:33 UTC 2018: Found element on the queue
+Tue May 15 23:42:33 UTC 2018: Updating status
+Tue May 15 23:42:33 UTC 2018: Working
+Tue May 15 23:42:35 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReaderTest
+Tue May 15 23:42:35 UTC 2018: Setting lastTestMethodIndex: 51533
+Tue May 15 23:42:35 UTC 2018: Starting linking
+Tue May 15 23:42:35 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReader-readData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:42:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:35 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReader-readData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:42:36 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:36 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReaderTest
+Tue May 15 23:42:36 UTC 2018: Found element on the queue
+Tue May 15 23:42:36 UTC 2018: Updating status
+Tue May 15 23:42:36 UTC 2018: Working
+Tue May 15 23:42:39 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest
+Tue May 15 23:42:39 UTC 2018: Setting lastTestMethodIndex: 51536
+Tue May 15 23:42:39 UTC 2018: Starting linking
+Tue May 15 23:42:39 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testMessageTooLarge
+Tue May 15 23:42:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:40 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testTwoReadGotTwoMessages
+Tue May 15 23:42:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:40 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testThreeReadGotTwoMessages
+Tue May 15 23:42:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:40 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testThreeReadGotTwoMessagesNotContinued
+Tue May 15 23:42:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:40 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testTwoRead
+Tue May 15 23:42:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:41 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testHeaderTooLarge
+Tue May 15 23:42:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:41 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testOneRead
+Tue May 15 23:42:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:41 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testSixReadGotFullMessage
+Tue May 15 23:42:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testThreeReadGotMinHeader
+Tue May 15 23:42:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testFiveReadGotFullHeader
+Tue May 15 23:42:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testMessagePartTooLarge
+Tue May 15 23:42:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testFourReadGotMinHeader
+Tue May 15 23:42:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testFourReadGotThreeMessagesOneContinued
+Tue May 15 23:42:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:43 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest
+Tue May 15 23:42:43 UTC 2018: Found element on the queue
+Tue May 15 23:42:43 UTC 2018: Updating status
+Tue May 15 23:42:43 UTC 2018: Working
+Tue May 15 23:42:43 UTC 2018: Create project parser
+Tue May 15 23:42:47 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest
+Tue May 15 23:42:47 UTC 2018: Setting lastTestMethodIndex: 51540
+Tue May 15 23:42:47 UTC 2018: Starting linking
+Tue May 15 23:42:47 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testHeadingConversion
+Tue May 15 23:42:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:47 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testComplexJavadoc
+Tue May 15 23:42:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:47 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testSeeAlsoSections
+Tue May 15 23:42:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:47 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testParagraphs
+Tue May 15 23:42:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:48 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testCodeSegments
+Tue May 15 23:42:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:48 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest
+Tue May 15 23:42:48 UTC 2018: Found element on the queue
+Tue May 15 23:42:48 UTC 2018: Updating status
+Tue May 15 23:42:48 UTC 2018: Working
+Tue May 15 23:42:51 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.annotations.internal.AnnotationProcessorTest
+Tue May 15 23:42:51 UTC 2018: Setting lastTestMethodIndex: 51542
+Tue May 15 23:42:51 UTC 2018: Starting linking
+Tue May 15 23:42:51 UTC 2018: Code found com.redhat.thermostat.annotations.internal.AnnotationProcessor-process with com.redhat.thermostat.annotations.internal.AnnotationProcessorTest-testProcessOnServiceClass
+Tue May 15 23:42:51 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:51 UTC 2018: Code found com.redhat.thermostat.annotations.internal.AnnotationProcessor-process with com.redhat.thermostat.annotations.internal.AnnotationProcessorTest-testProcessOnExtensionPointClass
+Tue May 15 23:42:51 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:51 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.AnnotationProcessorTest-testNoAnnotationProducesNoFile
+Tue May 15 23:42:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:52 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.annotations.internal.AnnotationProcessorTest
+Tue May 15 23:42:52 UTC 2018: Found element on the queue
+Tue May 15 23:42:52 UTC 2018: Updating status
+Tue May 15 23:42:52 UTC 2018: Working
+Tue May 15 23:42:52 UTC 2018: Create project parser
+Tue May 15 23:42:55 UTC 2018: Start jiekang__thermostat-agen test class com.redhat.thermostat.testutils.StubBundleContextTest
+Tue May 15 23:42:55 UTC 2018: Setting lastTestMethodIndex: 51545
+Tue May 15 23:42:55 UTC 2018: Starting linking
+Tue May 15 23:42:55 UTC 2018: Code found com.redhat.thermostat.testutils.StubServiceRegistration-unregister with com.redhat.thermostat.testutils.StubBundleContextTest-testUngetServiceOnUnregisteredService
+Tue May 15 23:42:55 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:42:55 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddingSameListenerReplacedTheOldOne
+Tue May 15 23:42:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:56 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceUsingClassObject
+Tue May 15 23:42:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:56 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testInstallBundleFromLocation
+Tue May 15 23:42:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:57 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceUsingClassName
+Tue May 15 23:42:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:57 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testSetAndGetContextBundle
+Tue May 15 23:42:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:57 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddingAndRemovingListenerWorks
+Tue May 15 23:42:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:57 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testIsServiceRegisteredForUnregisteredService
+Tue May 15 23:42:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:58 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testInstallBundleFromInputStream
+Tue May 15 23:42:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:58 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceReferenceReturnsNullForNoMatch
+Tue May 15 23:42:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:58 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetPropertyDelegatesToSystemProperties
+Tue May 15 23:42:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:58 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetBundleByLocation
+Tue May 15 23:42:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:59 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddRemoveBundleListener
+Tue May 15 23:42:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:59 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAllServiceReferencesWithoutFilter
+Tue May 15 23:42:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:59 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testRemovingAnUnknownListenerIsANoOp
+Tue May 15 23:42:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:42:59 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testSetAndGetBundles
+Tue May 15 23:43:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:00 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetBundleByLargeId
+Tue May 15 23:43:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:00 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAllServiceReferencesNoMatch
+Tue May 15 23:43:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:00 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddRemoveFrameworkListener
+Tue May 15 23:43:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:00 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddServiceThatDoesNotImplementInterfaceClass2
+Tue May 15 23:43:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:01 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testIsServiceRegisteredForRegisteredService
+Tue May 15 23:43:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:01 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testFilterCreationReturnsASaneFilter
+Tue May 15 23:43:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:01 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddServiceWithNonIntegerRanking
+Tue May 15 23:43:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:01 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceReferenceReturnsServiceWithHighestServiceRanking
+Tue May 15 23:43:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:02 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAndSetProperty
+Tue May 15 23:43:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:02 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceReferences
+Tue May 15 23:43:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:02 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetDataFile
+Tue May 15 23:43:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:02 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testReferenceExportCountIsCorrect
+Tue May 15 23:43:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:03 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddServiceThatDoesNotImplementInterfaceClass
+Tue May 15 23:43:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:03 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceReferenceReturnsServiceWithLowerServiceId
+Tue May 15 23:43:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:04 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddRemoveService
+Tue May 15 23:43:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:04 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddServiceWithProperties
+Tue May 15 23:43:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:04 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAllServiceReferencesWithNoClassNameJustFilter
+Tue May 15 23:43:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:05 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testServiceListenersWithoutFiltersWork
+Tue May 15 23:43:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:05 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAllServiceReferencesWithFilter
+Tue May 15 23:43:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:05 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testServiceListenersWithFiltersWork
+Tue May 15 23:43:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:05 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testRemoveUnknownService
+Tue May 15 23:43:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:06 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testUngetService
+Tue May 15 23:43:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:43:06 UTC 2018: Linking done for jiekang__thermostat-agen test class com.redhat.thermostat.testutils.StubBundleContextTest
+Tue May 15 23:43:06 UTC 2018: Found element on the queue
+Tue May 15 23:43:06 UTC 2018: Updating status
+Tue May 15 23:43:06 UTC 2018: Working
+Tue May 15 23:43:06 UTC 2018: Create project parser
+Tue May 15 23:43:09 UTC 2018: Start jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.UtilsTest
+Tue May 15 23:43:09 UTC 2018: Setting lastTestMethodIndex: 51552
+Tue May 15 23:43:09 UTC 2018: Starting linking
+Tue May 15 23:43:09 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-toMap with org.jboss.byteman.thermostat.helper.UtilsTest-toMapOdd
+Tue May 15 23:43:10 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-sleep with org.jboss.byteman.thermostat.helper.UtilsTest-testSleep
+Tue May 15 23:43:10 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-escapeQuotes with org.jboss.byteman.thermostat.helper.UtilsTest-testEscapeQuotes
+Tue May 15 23:43:10 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-toMap with org.jboss.byteman.thermostat.helper.UtilsTest-testToMap
+Tue May 15 23:43:10 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-createTmpDir with org.jboss.byteman.thermostat.helper.UtilsTest-testCreateTmpDir
+Tue May 15 23:43:11 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-toMap with org.jboss.byteman.thermostat.helper.UtilsTest-toMapIllegalType
+Tue May 15 23:43:11 UTC 2018: Linking done for jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.UtilsTest
+Tue May 15 23:43:11 UTC 2018: Found element on the queue
+Tue May 15 23:43:11 UTC 2018: Updating status
+Tue May 15 23:43:11 UTC 2018: Working
+Tue May 15 23:43:14 UTC 2018: Start jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.BytemanMetricTest
+Tue May 15 23:43:14 UTC 2018: Setting lastTestMethodIndex: 51555
+Tue May 15 23:43:14 UTC 2018: Starting linking
+Tue May 15 23:43:14 UTC 2018: Code found org.jboss.byteman.thermostat.helper.BytemanMetric-toJson with org.jboss.byteman.thermostat.helper.BytemanMetricTest-testToJsonMapDataNonNull
+Tue May 15 23:43:14 UTC 2018: Code found org.jboss.byteman.thermostat.helper.BytemanMetric-toJson with org.jboss.byteman.thermostat.helper.BytemanMetricTest-testToJsonNull
+Tue May 15 23:43:14 UTC 2018: Code found org.jboss.byteman.thermostat.helper.BytemanMetric-toJson with org.jboss.byteman.thermostat.helper.BytemanMetricTest-testToJsonMarkerNullDataNonNull
+Tue May 15 23:43:14 UTC 2018: Code found org.jboss.byteman.thermostat.helper.BytemanMetric-toJson with org.jboss.byteman.thermostat.helper.BytemanMetricTest-testToJsonMarkerNullDataNull
+Tue May 15 23:43:15 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.BytemanMetricTest-markerContainsQuotes
+Tue May 15 23:43:15 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.BytemanMetricTest-testDataKeyContainsQuotes
+Tue May 15 23:43:15 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.BytemanMetricTest-testUnsupportedObjectJson
+Tue May 15 23:43:15 UTC 2018: Linking done for jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.BytemanMetricTest
+Tue May 15 23:43:16 UTC 2018: Found element on the queue
+Tue May 15 23:43:16 UTC 2018: Updating status
+Tue May 15 23:43:16 UTC 2018: Working
+Tue May 15 23:43:18 UTC 2018: Start jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.TransportFactoryTest
+Tue May 15 23:43:18 UTC 2018: Setting lastTestMethodIndex: 51558
+Tue May 15 23:43:18 UTC 2018: Starting linking
+Tue May 15 23:43:18 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.TransportFactoryTest-throwsExceptionOnUnknownTransport
+Tue May 15 23:43:19 UTC 2018: Linking done for jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.TransportFactoryTest
+Tue May 15 23:43:19 UTC 2018: Found element on the queue
+Tue May 15 23:43:19 UTC 2018: Updating status
+Tue May 15 23:43:19 UTC 2018: Working
+Tue May 15 23:43:22 UTC 2018: Start jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.ThermostatHelperTest
+Tue May 15 23:43:22 UTC 2018: Setting lastTestMethodIndex: 51561
+Tue May 15 23:43:22 UTC 2018: Starting linking
+Tue May 15 23:43:22 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-canSendSimpleValueMultiple2
+Tue May 15 23:43:22 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-canSendSimpleValue
+Tue May 15 23:43:22 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-activated with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-testActivatedNonNull
+Tue May 15 23:43:23 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-deactivated with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-testDeactivated
+Tue May 15 23:43:23 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-canSendMapMultiple
+Tue May 15 23:43:23 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-setTransport with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-testConstructorDoesNotSetTransport
+Tue May 15 23:43:23 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-verifyMultipleCallsToSend
+Tue May 15 23:43:24 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-canSendSimpleValueMultiple3
+Tue May 15 23:43:24 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.ThermostatHelperTest-testBasicWithStdoutTransport
+Tue May 15 23:43:24 UTC 2018: Linking done for jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.ThermostatHelperTest
+Tue May 15 23:43:25 UTC 2018: Found element on the queue
+Tue May 15 23:43:25 UTC 2018: Updating status
+Tue May 15 23:43:25 UTC 2018: Working
+Tue May 15 23:43:28 UTC 2018: Start jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest
+Tue May 15 23:43:28 UTC 2018: Setting lastTestMethodIndex: 51563
+Tue May 15 23:43:28 UTC 2018: Starting linking
+Tue May 15 23:43:28 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Transport-close with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest-closeClosesChannel
+Tue May 15 23:43:28 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Transport-send with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest-sendWritesToChannelInBatches
+Tue May 15 23:43:28 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest-instantiationFailureOfChannelOpeningUsesNoopChannelInstead
+Tue May 15 23:43:28 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest-instantiationOpensChannel
+Tue May 15 23:43:29 UTC 2018: Linking done for jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest
+Tue May 15 23:43:29 UTC 2018: Found element on the queue
+Tue May 15 23:43:29 UTC 2018: Updating status
+Tue May 15 23:43:29 UTC 2018: Working
+Tue May 15 23:43:32 UTC 2018: Start jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportFactoryTest
+Tue May 15 23:43:32 UTC 2018: Setting lastTestMethodIndex: 51567
+Tue May 15 23:43:32 UTC 2018: Starting linking
+Tue May 15 23:43:32 UTC 2018: Code found org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportFactory-create with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportFactoryTest-createReadsProperties
+Tue May 15 23:43:32 UTC 2018: Linking done for jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportFactoryTest
+Tue May 15 23:43:32 UTC 2018: Found element on the queue
+Tue May 15 23:43:32 UTC 2018: Updating status
+Tue May 15 23:43:32 UTC 2018: Working
+Tue May 15 23:43:35 UTC 2018: Start jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImplTest
+Tue May 15 23:43:35 UTC 2018: Setting lastTestMethodIndex: 51569
+Tue May 15 23:43:35 UTC 2018: Starting linking
+Tue May 15 23:43:35 UTC 2018: Code found org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImpl-close with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImplTest-closeClosesChannel
+Tue May 15 23:43:35 UTC 2018: Code found org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImpl-write with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImplTest-writeWritesToChannel
+Tue May 15 23:43:35 UTC 2018: Linking done for jiekang__thermostat-agen test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImplTest

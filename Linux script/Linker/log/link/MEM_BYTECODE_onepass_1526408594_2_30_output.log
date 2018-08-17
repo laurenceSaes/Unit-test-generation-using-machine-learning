@@ -1,0 +1,167 @@
+Tue May 15 22:06:58 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:06:58 UTC 2018: Starting
+Tue May 15 22:06:59 UTC 2018: Found element on the queue
+Tue May 15 22:06:59 UTC 2018: Updating status
+Tue May 15 22:06:59 UTC 2018: Working
+Tue May 15 22:06:59 UTC 2018: Create project parser
+Tue May 15 22:07:06 UTC 2018: Create slicer
+Tue May 15 22:07:10 UTC 2018: Create call graph
+Tue May 15 22:07:15 UTC 2018: Create point analysis
+Tue May 15 22:07:15 UTC 2018: Create call graph done
+Tue May 15 22:07:15 UTC 2018: Start ilikeorangutans__omf test class org.om.core.api.PathTest
+Tue May 15 22:07:15 UTC 2018: Setting lastTestMethodIndex: 48849
+Tue May 15 22:07:15 UTC 2018: Starting linking
+Tue May 15 22:07:15 UTC 2018: Code found org.om.core.api.path.Path-getLength with org.om.core.api.PathTest-testGetLength
+Tue May 15 22:07:15 UTC 2018: Code found org.om.core.api.path.Path-getParent with org.om.core.api.PathTest-testGetParent
+Tue May 15 22:07:16 UTC 2018: Code found org.om.core.api.path.Path-append with org.om.core.api.PathTest-testAppend
+Tue May 15 22:07:16 UTC 2018: No link for: org.om.core.api.PathTest-testPathCleaning
+Tue May 15 22:07:16 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.api.PathTest
+Tue May 15 22:07:17 UTC 2018: Found element on the queue
+Tue May 15 22:07:17 UTC 2018: Updating status
+Tue May 15 22:07:17 UTC 2018: Working
+Tue May 15 22:07:17 UTC 2018: Create project parser
+Tue May 15 22:07:22 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.mapping.extractor.EntityMappingExtractorImplTest
+Tue May 15 22:07:22 UTC 2018: Setting lastTestMethodIndex: 48852
+Tue May 15 22:07:22 UTC 2018: Starting linking
+Tue May 15 22:07:22 UTC 2018: Code found org.om.core.impl.mapping.extractor.EntityMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.EntityMappingExtractorImplTest-testExtractWithInvalidCollectionMapping
+Tue May 15 22:07:23 UTC 2018: No link for: org.om.core.impl.mapping.extractor.EntityMappingExtractorImplTest-testSimpleTypeWithoutProperties
+Tue May 15 22:07:23 UTC 2018: No link for: org.om.core.impl.mapping.extractor.EntityMappingExtractorImplTest-testEntityWithoutAnnotation
+Tue May 15 22:07:23 UTC 2018: No link for: org.om.core.impl.mapping.extractor.EntityMappingExtractorImplTest-testEntityWithoutIdProperty
+Tue May 15 22:07:23 UTC 2018: No link for: org.om.core.impl.mapping.extractor.EntityMappingExtractorImplTest-testEntityWithBasicProperties
+Tue May 15 22:07:24 UTC 2018: No link for: org.om.core.impl.mapping.extractor.EntityMappingExtractorImplTest-testSimpleTypeWithBasicProperties
+Tue May 15 22:07:24 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.mapping.extractor.EntityMappingExtractorImplTest
+Tue May 15 22:07:25 UTC 2018: Found element on the queue
+Tue May 15 22:07:25 UTC 2018: Updating status
+Tue May 15 22:07:25 UTC 2018: Working
+Tue May 15 22:07:28 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest
+Tue May 15 22:07:28 UTC 2018: Setting lastTestMethodIndex: 48854
+Tue May 15 22:07:28 UTC 2018: Starting linking
+Tue May 15 22:07:28 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest-testExtractFieldWithReferenceAndCustomName
+Tue May 15 22:07:28 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest-testExtractFieldWithReference
+Tue May 15 22:07:28 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest-testExtractFieldWithAllSettings
+Tue May 15 22:07:29 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest-testExtractFieldWithDefaultValue
+Tue May 15 22:07:29 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest-testExtractIdProperty
+Tue May 15 22:07:29 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest-testExtractReferenceFieldWithCustomLookup
+Tue May 15 22:07:30 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest-testExtractFieldWithDefaultSettings
+Tue May 15 22:07:30 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest-testExtractReferenceFieldWithDifferingImplementationType
+Tue May 15 22:07:30 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.mapping.extractor.FieldMappingExtractorImplTest
+Tue May 15 22:07:31 UTC 2018: Found element on the queue
+Tue May 15 22:07:31 UTC 2018: Updating status
+Tue May 15 22:07:31 UTC 2018: Working
+Tue May 15 22:07:35 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest
+Tue May 15 22:07:35 UTC 2018: Setting lastTestMethodIndex: 48856
+Tue May 15 22:07:35 UTC 2018: Starting linking
+Tue May 15 22:07:35 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest-testExtractMappingForCollectionWithDifferingTargetAndImplType
+Tue May 15 22:07:35 UTC 2018: Code found org.om.core.impl.mapping.extractor.FieldMappingExtractorImpl-extract with org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest-testExtractMappingForCollectionWithDefaultImplType
+Tue May 15 22:07:35 UTC 2018: No link for: org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest-testStringCollection
+Tue May 15 22:07:36 UTC 2018: No link for: org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest-testExtractingMappingWithIncompatibleTargetAndImplementationTypes
+Tue May 15 22:07:36 UTC 2018: No link for: org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest-testIntegerCollection
+Tue May 15 22:07:36 UTC 2018: No link for: org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest-testReferenceCollection
+Tue May 15 22:07:37 UTC 2018: No link for: org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest-testMap
+Tue May 15 22:07:37 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.mapping.extractor.FieldMappingExtractorCollectionTest
+Tue May 15 22:07:39 UTC 2018: Found element on the queue
+Tue May 15 22:07:39 UTC 2018: Updating status
+Tue May 15 22:07:39 UTC 2018: Working
+Tue May 15 22:07:41 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.handler.ReferenceHandlerTest
+Tue May 15 22:07:41 UTC 2018: Setting lastTestMethodIndex: 48858
+Tue May 15 22:07:41 UTC 2018: Starting linking
+Tue May 15 22:07:42 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.ReferenceHandlerTest-test
+Tue May 15 22:07:42 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.handler.ReferenceHandlerTest
+Tue May 15 22:07:42 UTC 2018: Found element on the queue
+Tue May 15 22:07:42 UTC 2018: Updating status
+Tue May 15 22:07:42 UTC 2018: Working
+Tue May 15 22:07:46 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.handler.PrimitivePropertyHandlerTest
+Tue May 15 22:07:46 UTC 2018: Setting lastTestMethodIndex: 48860
+Tue May 15 22:07:46 UTC 2018: Starting linking
+Tue May 15 22:07:46 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.PrimitivePropertyHandlerTest-testNullInput
+Tue May 15 22:07:46 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.PrimitivePropertyHandlerTest-testIntegerFieldWithInvalidStringInput
+Tue May 15 22:07:47 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.PrimitivePropertyHandlerTest-testIntegerFieldWithStringInput
+Tue May 15 22:07:47 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.PrimitivePropertyHandlerTest-testWithStringInput
+Tue May 15 22:07:47 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.handler.PrimitivePropertyHandlerTest
+Tue May 15 22:07:48 UTC 2018: Found element on the queue
+Tue May 15 22:07:48 UTC 2018: Updating status
+Tue May 15 22:07:48 UTC 2018: Working
+Tue May 15 22:07:52 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.handler.ItemHandlerFactoryImplTest
+Tue May 15 22:07:52 UTC 2018: Setting lastTestMethodIndex: 48862
+Tue May 15 22:07:52 UTC 2018: Starting linking
+Tue May 15 22:07:52 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.ItemHandlerFactoryImplTest-testIdHandler
+Tue May 15 22:07:52 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.ItemHandlerFactoryImplTest-testPrimitiveHandler
+Tue May 15 22:07:52 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.ItemHandlerFactoryImplTest-testCollectionHandler
+Tue May 15 22:07:52 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.handler.ItemHandlerFactoryImplTest
+Tue May 15 22:07:53 UTC 2018: Found element on the queue
+Tue May 15 22:07:53 UTC 2018: Updating status
+Tue May 15 22:07:53 UTC 2018: Working
+Tue May 15 22:07:57 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.handler.collection.PrimitiveListHandlerTest
+Tue May 15 22:07:57 UTC 2018: Setting lastTestMethodIndex: 48864
+Tue May 15 22:07:57 UTC 2018: Starting linking
+Tue May 15 22:07:57 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.collection.PrimitiveListHandlerTest-testWithEmptyResult
+Tue May 15 22:07:58 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.handler.collection.PrimitiveListHandlerTest-testWithSimpleCollectionType
+Tue May 15 22:07:58 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.handler.collection.PrimitiveListHandlerTest
+Tue May 15 22:07:59 UTC 2018: Found element on the queue
+Tue May 15 22:07:59 UTC 2018: Updating status
+Tue May 15 22:07:59 UTC 2018: Working
+Tue May 15 22:08:02 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.PersistenceInterceptorImplWithPrimitiveTypesTest
+Tue May 15 22:08:02 UTC 2018: Setting lastTestMethodIndex: 48865
+Tue May 15 22:08:02 UTC 2018: Starting linking
+Tue May 15 22:08:02 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.PersistenceInterceptorImplWithPrimitiveTypesTest-testPropertyMissingThrowingException
+Tue May 15 22:08:02 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.PersistenceInterceptorImplWithPrimitiveTypesTest-testPrimitiveType
+Tue May 15 22:08:02 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.PersistenceInterceptorImplWithPrimitiveTypesTest-testPropertyMissingWithDefaultValue
+Tue May 15 22:08:03 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.PersistenceInterceptorImplWithPrimitiveTypesTest-testAutoBoxingType
+Tue May 15 22:08:03 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.PersistenceInterceptorImplWithPrimitiveTypesTest-testPropertyMissingWithDefaultValueRequiringParsing
+Tue May 15 22:08:04 UTC 2018: No link for: org.om.core.impl.persistence.interceptor.PersistenceInterceptorImplWithPrimitiveTypesTest-testStringType
+Tue May 15 22:08:04 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.interceptor.PersistenceInterceptorImplWithPrimitiveTypesTest
+Tue May 15 22:08:05 UTC 2018: Found element on the queue
+Tue May 15 22:08:05 UTC 2018: Updating status
+Tue May 15 22:08:05 UTC 2018: Working
+Tue May 15 22:08:09 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.delegate.cglib.CglibProxyFactoryTest
+Tue May 15 22:08:09 UTC 2018: Setting lastTestMethodIndex: 48868
+Tue May 15 22:08:09 UTC 2018: Starting linking
+Tue May 15 22:08:09 UTC 2018: No link for: org.om.core.impl.persistence.delegate.cglib.CglibProxyFactoryTest-testThatCallsToProxyAreDelegated
+Tue May 15 22:08:09 UTC 2018: No link for: org.om.core.impl.persistence.delegate.cglib.CglibProxyFactoryTest-testThatCallsToNonMappedFields
+Tue May 15 22:08:09 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.delegate.cglib.CglibProxyFactoryTest
+Tue May 15 22:08:10 UTC 2018: Found element on the queue
+Tue May 15 22:08:10 UTC 2018: Updating status
+Tue May 15 22:08:10 UTC 2018: Working
+Tue May 15 22:08:13 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.delegate.cglib.CglibPersistenceInterceptorTest
+Tue May 15 22:08:13 UTC 2018: Setting lastTestMethodIndex: 48869
+Tue May 15 22:08:13 UTC 2018: Starting linking
+Tue May 15 22:08:13 UTC 2018: Code found org.om.core.impl.persistence.cglib.CglibPersistenceInterceptor-intercept with org.om.core.impl.persistence.delegate.cglib.CglibPersistenceInterceptorTest-testInterceptWithValidField
+Tue May 15 22:08:14 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.delegate.cglib.CglibPersistenceInterceptorTest
+Tue May 15 22:08:14 UTC 2018: Found element on the queue
+Tue May 15 22:08:14 UTC 2018: Updating status
+Tue May 15 22:08:15 UTC 2018: Working
+Tue May 15 22:08:18 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.util.ClassUtilsTest
+Tue May 15 22:08:18 UTC 2018: Setting lastTestMethodIndex: 48871
+Tue May 15 22:08:18 UTC 2018: Starting linking
+Tue May 15 22:08:18 UTC 2018: Code found org.om.core.impl.util.ClassUtils-isGetter with org.om.core.impl.util.ClassUtilsTest-testIsGetter
+Tue May 15 22:08:18 UTC 2018: Code found org.om.core.impl.util.ClassUtils-extractFieldName with org.om.core.impl.util.ClassUtilsTest-testExtractFieldName
+Tue May 15 22:08:19 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.util.ClassUtilsTest
+Tue May 15 22:08:20 UTC 2018: Found element on the queue
+Tue May 15 22:08:20 UTC 2018: Updating status
+Tue May 15 22:08:20 UTC 2018: Working
+Tue May 15 22:08:20 UTC 2018: Create project parser
+Tue May 15 22:08:24 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.jcr.JcrPersistenceAdapterTest
+Tue May 15 22:08:24 UTC 2018: Setting lastTestMethodIndex: 48873
+Tue May 15 22:08:24 UTC 2018: Starting linking
+Tue May 15 22:08:24 UTC 2018: Code found org.om.core.impl.persistence.jcr.JcrPersistenceAdapter-getCollection with org.om.core.impl.persistence.jcr.JcrPersistenceAdapterTest-testGetCollection
+Tue May 15 22:08:24 UTC 2018: No link for: org.om.core.impl.persistence.jcr.JcrPersistenceAdapterTest-testMapFromProperties
+Tue May 15 22:08:25 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.jcr.JcrPersistenceAdapterTest
+Tue May 15 22:08:25 UTC 2018: Found element on the queue
+Tue May 15 22:08:25 UTC 2018: Updating status
+Tue May 15 22:08:25 UTC 2018: Working
+Tue May 15 22:08:29 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.jcr.JcrEntityAccessTest
+Tue May 15 22:08:29 UTC 2018: Setting lastTestMethodIndex: 48874
+Tue May 15 22:08:29 UTC 2018: Starting linking
+Tue May 15 22:08:29 UTC 2018: No link for: org.om.core.impl.persistence.jcr.JcrEntityAccessTest-testRetrieveEntityWithInvalidReference
+Tue May 15 22:08:29 UTC 2018: No link for: org.om.core.impl.persistence.jcr.JcrEntityAccessTest-testRetrieveEntityWithReference
+Tue May 15 22:08:30 UTC 2018: No link for: org.om.core.impl.persistence.jcr.JcrEntityAccessTest-testRetrieveTestEntity
+Tue May 15 22:08:30 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.jcr.JcrEntityAccessTest
+Tue May 15 22:08:31 UTC 2018: Found element on the queue
+Tue May 15 22:08:31 UTC 2018: Updating status
+Tue May 15 22:08:31 UTC 2018: Working
+Tue May 15 22:08:34 UTC 2018: Start ilikeorangutans__omf test class org.om.core.impl.persistence.jcr.util.NodeRetrieverTest
+Tue May 15 22:08:34 UTC 2018: Setting lastTestMethodIndex: 48876
+Tue May 15 22:08:34 UTC 2018: Starting linking
+Tue May 15 22:08:34 UTC 2018: No link for: org.om.core.impl.persistence.jcr.util.NodeRetrieverTest-testAbsolutePath
+Tue May 15 22:08:34 UTC 2018: No link for: org.om.core.impl.persistence.jcr.util.NodeRetrieverTest-testRelativePath
+Tue May 15 22:08:34 UTC 2018: Linking done for ilikeorangutans__omf test class org.om.core.impl.persistence.jcr.util.NodeRetrieverTest

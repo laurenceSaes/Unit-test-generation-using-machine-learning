@@ -1,0 +1,1 @@
+mysql -u root -pinfosupport -e "select count(*) from unittests_ast.registration ar WHERE ar.method_code IS NOT NULL and ar.unit_test_code IS NOT NULL AND 1 = (SELECT count(*) FROM unittests.registration where method_code = ar.method_code AND unit_test_code = ar.unit_test_code LIMIT 1 );"

@@ -1,0 +1,522 @@
+Tue May 15 14:09:12 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 14:09:13 UTC 2018: Starting
+Tue May 15 14:09:13 UTC 2018: Found element on the queue
+Tue May 15 14:09:13 UTC 2018: Updating status
+Tue May 15 14:09:13 UTC 2018: Working
+Tue May 15 14:09:13 UTC 2018: Create project parser
+Tue May 15 14:09:25 UTC 2018: Create slicer
+Tue May 15 14:09:28 UTC 2018: Create call graph
+Tue May 15 14:09:34 UTC 2018: Create point analysis
+Tue May 15 14:09:34 UTC 2018: Create call graph done
+Tue May 15 14:09:34 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.processor.EmptyStringProcessorTest
+Tue May 15 14:09:34 UTC 2018: Setting lastTestMethodIndex: 34932
+Tue May 15 14:09:34 UTC 2018: Starting linking
+Tue May 15 14:09:34 UTC 2018: No link for: com.github.dandelion.core.processor.EmptyStringProcessorTest-should_update_the_table_entry_with_an_empty_string
+Tue May 15 14:09:34 UTC 2018: No link for: com.github.dandelion.core.processor.EmptyStringProcessorTest-should_update_the_column_entry_with_an_empty_string
+Tue May 15 14:09:34 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.processor.EmptyStringProcessorTest
+Tue May 15 14:09:35 UTC 2018: Found element on the queue
+Tue May 15 14:09:35 UTC 2018: Updating status
+Tue May 15 14:09:35 UTC 2018: Working
+Tue May 15 14:09:37 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.processor.BooleanProcessorTest
+Tue May 15 14:09:37 UTC 2018: Setting lastTestMethodIndex: 34933
+Tue May 15 14:09:37 UTC 2018: Starting linking
+Tue May 15 14:09:38 UTC 2018: No link for: com.github.dandelion.core.processor.BooleanProcessorTest-should_update_the_column_entry_with_true
+Tue May 15 14:09:38 UTC 2018: No link for: com.github.dandelion.core.processor.BooleanProcessorTest-should_update_the_table_entry_with_true
+Tue May 15 14:09:38 UTC 2018: No link for: com.github.dandelion.core.processor.BooleanProcessorTest-should_update_the_table_entry_with_false_when_using_a_wrong_value
+Tue May 15 14:09:38 UTC 2018: No link for: com.github.dandelion.core.processor.BooleanProcessorTest-should_update_the_table_entry_with_false
+Tue May 15 14:09:38 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.processor.BooleanProcessorTest
+Tue May 15 14:09:38 UTC 2018: Found element on the queue
+Tue May 15 14:09:38 UTC 2018: Updating status
+Tue May 15 14:09:38 UTC 2018: Working
+Tue May 15 14:09:41 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.processor.StringProcessorTest
+Tue May 15 14:09:41 UTC 2018: Setting lastTestMethodIndex: 34934
+Tue May 15 14:09:41 UTC 2018: Starting linking
+Tue May 15 14:09:41 UTC 2018: No link for: com.github.dandelion.core.processor.StringProcessorTest-should_update_the_column_entry_with_the_same_string_and_update_active_bundles_with_one_bundle
+Tue May 15 14:09:41 UTC 2018: No link for: com.github.dandelion.core.processor.StringProcessorTest-should_throw_an_exception_when_using_a_wrong_format
+Tue May 15 14:09:41 UTC 2018: No link for: com.github.dandelion.core.processor.StringProcessorTest-should_update_the_entry_with_null_when_using_an_empty_string
+Tue May 15 14:09:41 UTC 2018: No link for: com.github.dandelion.core.processor.StringProcessorTest-should_update_the_entry_with_the_same_string
+Tue May 15 14:09:41 UTC 2018: No link for: com.github.dandelion.core.processor.StringProcessorTest-should_throw_an_exception_when_using_a_wrong_format2
+Tue May 15 14:09:41 UTC 2018: No link for: com.github.dandelion.core.processor.StringProcessorTest-should_update_the_table_entry_with_the_same_string_and_update_active_bundles
+Tue May 15 14:09:41 UTC 2018: No link for: com.github.dandelion.core.processor.StringProcessorTest-should_update_the_column_entry_with_the_same_string_and_update_active_bundles_with_multiple_bundles
+Tue May 15 14:09:41 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.processor.StringProcessorTest
+Tue May 15 14:09:42 UTC 2018: Found element on the queue
+Tue May 15 14:09:42 UTC 2018: Updating status
+Tue May 15 14:09:42 UTC 2018: Working
+Tue May 15 14:09:44 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.processor.IntegerProcessorTest
+Tue May 15 14:09:44 UTC 2018: Setting lastTestMethodIndex: 34935
+Tue May 15 14:09:44 UTC 2018: Starting linking
+Tue May 15 14:09:44 UTC 2018: No link for: com.github.dandelion.core.processor.IntegerProcessorTest-should_update_the_column_entry_with_1
+Tue May 15 14:09:44 UTC 2018: No link for: com.github.dandelion.core.processor.IntegerProcessorTest-should_update_the_table_entry_with_1
+Tue May 15 14:09:44 UTC 2018: No link for: com.github.dandelion.core.processor.IntegerProcessorTest-should_throw_an_exception_when_not_using_an_integer
+Tue May 15 14:09:44 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.processor.IntegerProcessorTest
+Tue May 15 14:09:45 UTC 2018: Found element on the queue
+Tue May 15 14:09:45 UTC 2018: Updating status
+Tue May 15 14:09:45 UTC 2018: Working
+Tue May 15 14:09:47 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.processor.StringBuilderProcessorTest
+Tue May 15 14:09:47 UTC 2018: Setting lastTestMethodIndex: 34936
+Tue May 15 14:09:47 UTC 2018: Starting linking
+Tue May 15 14:09:47 UTC 2018: No link for: com.github.dandelion.core.processor.StringBuilderProcessorTest-should_update_the_table_entry
+Tue May 15 14:09:47 UTC 2018: No link for: com.github.dandelion.core.processor.StringBuilderProcessorTest-should_update_the_column_entry
+Tue May 15 14:09:47 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.processor.StringBuilderProcessorTest
+Tue May 15 14:09:48 UTC 2018: Found element on the queue
+Tue May 15 14:09:48 UTC 2018: Updating status
+Tue May 15 14:09:48 UTC 2018: Working
+Tue May 15 14:09:50 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.ServiceLoaderUtilsTest
+Tue May 15 14:09:50 UTC 2018: Setting lastTestMethodIndex: 34937
+Tue May 15 14:09:50 UTC 2018: Starting linking
+Tue May 15 14:09:50 UTC 2018: No link for: com.github.dandelion.core.utils.ServiceLoaderUtilsTest-should_return_all_bundleLoader_as_list
+Tue May 15 14:09:50 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.ServiceLoaderUtilsTest
+Tue May 15 14:09:51 UTC 2018: Found element on the queue
+Tue May 15 14:09:51 UTC 2018: Updating status
+Tue May 15 14:09:51 UTC 2018: Working
+Tue May 15 14:09:53 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.PathUtilsTest
+Tue May 15 14:09:53 UTC 2018: Setting lastTestMethodIndex: 34938
+Tue May 15 14:09:53 UTC 2018: Starting linking
+Tue May 15 14:09:53 UTC 2018: No link for: com.github.dandelion.core.utils.PathUtilsTest-should_extract_the_asset_name
+Tue May 15 14:09:53 UTC 2018: No link for: com.github.dandelion.core.utils.PathUtilsTest-should_return_normalized_path
+Tue May 15 14:09:53 UTC 2018: No link for: com.github.dandelion.core.utils.PathUtilsTest-should_return_parent_path
+Tue May 15 14:09:53 UTC 2018: No link for: com.github.dandelion.core.utils.PathUtilsTest-should_return_concatenated_web_path
+Tue May 15 14:09:53 UTC 2018: No link for: com.github.dandelion.core.utils.PathUtilsTest-should_return_relative_web_path
+Tue May 15 14:09:53 UTC 2018: No link for: com.github.dandelion.core.utils.PathUtilsTest-should_return_root_relative_web_path
+Tue May 15 14:09:53 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.PathUtilsTest
+Tue May 15 14:09:54 UTC 2018: Found element on the queue
+Tue May 15 14:09:54 UTC 2018: Updating status
+Tue May 15 14:09:54 UTC 2018: Working
+Tue May 15 14:09:57 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.ValidateTest
+Tue May 15 14:09:57 UTC 2018: Setting lastTestMethodIndex: 34939
+Tue May 15 14:09:57 UTC 2018: Starting linking
+Tue May 15 14:09:57 UTC 2018: No link for: com.github.dandelion.core.utils.ValidateTest-should_fail_if_string_is_empty
+Tue May 15 14:09:57 UTC 2018: No link for: com.github.dandelion.core.utils.ValidateTest-should_fail_if_array_is_empty
+Tue May 15 14:09:57 UTC 2018: No link for: com.github.dandelion.core.utils.ValidateTest-should_fail_if_object_is_null
+Tue May 15 14:09:57 UTC 2018: No link for: com.github.dandelion.core.utils.ValidateTest-should_fail_if_boolean_is_false
+Tue May 15 14:09:57 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.ValidateTest
+Tue May 15 14:09:58 UTC 2018: Found element on the queue
+Tue May 15 14:09:58 UTC 2018: Updating status
+Tue May 15 14:09:58 UTC 2018: Working
+Tue May 15 14:10:01 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.VariableSubstitutionTest
+Tue May 15 14:10:01 UTC 2018: Setting lastTestMethodIndex: 34940
+Tue May 15 14:10:01 UTC 2018: Starting linking
+Tue May 15 14:10:01 UTC 2018: Code found com.github.dandelion.core.util.StringUtils-substitute with com.github.dandelion.core.utils.VariableSubstitutionTest-should_substitute_multiple_variables
+Tue May 15 14:10:01 UTC 2018: No link for: com.github.dandelion.core.utils.VariableSubstitutionTest-should_throw_an_exception_if_the_parameter_map_is_null
+Tue May 15 14:10:01 UTC 2018: No link for: com.github.dandelion.core.utils.VariableSubstitutionTest-should_throw_an_exception_if_a_variable_does_not_exist
+Tue May 15 14:10:01 UTC 2018: No link for: com.github.dandelion.core.utils.VariableSubstitutionTest-should
+Tue May 15 14:10:01 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.VariableSubstitutionTest
+Tue May 15 14:10:02 UTC 2018: Found element on the queue
+Tue May 15 14:10:02 UTC 2018: Updating status
+Tue May 15 14:10:02 UTC 2018: Working
+Tue May 15 14:10:04 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.AssetUtilsTest
+Tue May 15 14:10:04 UTC 2018: Setting lastTestMethodIndex: 34942
+Tue May 15 14:10:04 UTC 2018: Starting linking
+Tue May 15 14:10:04 UTC 2018: No link for: com.github.dandelion.core.utils.AssetUtilsTest-should_return_a_filtered_set_when_filtering_by_position_with_default_dom
+Tue May 15 14:10:04 UTC 2018: No link for: com.github.dandelion.core.utils.AssetUtilsTest-should_return_the_asset_extension
+Tue May 15 14:10:04 UTC 2018: No link for: com.github.dandelion.core.utils.AssetUtilsTest-should_return_a_filtered_set_when_filtering_by_type
+Tue May 15 14:10:04 UTC 2018: No link for: com.github.dandelion.core.utils.AssetUtilsTest-should_return_a_filtered_set_when_filtering_by_position
+Tue May 15 14:10:04 UTC 2018: No link for: com.github.dandelion.core.utils.AssetUtilsTest-should_return_a_filtered_set_when_filtering_by_asset_name
+Tue May 15 14:10:04 UTC 2018: No link for: com.github.dandelion.core.utils.AssetUtilsTest-should_return_the_same_set_when_filtering_by_asset_name
+Tue May 15 14:10:04 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.AssetUtilsTest
+Tue May 15 14:10:05 UTC 2018: Found element on the queue
+Tue May 15 14:10:05 UTC 2018: Updating status
+Tue May 15 14:10:05 UTC 2018: Working
+Tue May 15 14:10:07 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.ResourceUtilsTest
+Tue May 15 14:10:07 UTC 2018: Setting lastTestMethodIndex: 34943
+Tue May 15 14:10:07 UTC 2018: Starting linking
+Tue May 15 14:10:07 UTC 2018: No link for: com.github.dandelion.core.utils.ResourceUtilsTest-should_get_content_from_url
+Tue May 15 14:10:08 UTC 2018: No link for: com.github.dandelion.core.utils.ResourceUtilsTest-should_get_content_from_url_with_protocol_relative
+Tue May 15 14:10:08 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.ResourceUtilsTest
+Tue May 15 14:10:08 UTC 2018: Found element on the queue
+Tue May 15 14:10:08 UTC 2018: Updating status
+Tue May 15 14:10:08 UTC 2018: Working
+Tue May 15 14:10:11 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.scanner.FileResourceScannerTest
+Tue May 15 14:10:11 UTC 2018: Setting lastTestMethodIndex: 34944
+Tue May 15 14:10:11 UTC 2018: Starting linking
+Tue May 15 14:10:11 UTC 2018: No link for: com.github.dandelion.core.utils.scanner.FileResourceScannerTest-should_filter_resources_by_excluded_paths
+Tue May 15 14:10:11 UTC 2018: No link for: com.github.dandelion.core.utils.scanner.FileResourceScannerTest-should_return_an_empty_set_because_of_wrong_name
+Tue May 15 14:10:11 UTC 2018: No link for: com.github.dandelion.core.utils.scanner.FileResourceScannerTest-should_filter_resources_by_name
+Tue May 15 14:10:11 UTC 2018: No link for: com.github.dandelion.core.utils.scanner.FileResourceScannerTest-should_return_an_empty_set
+Tue May 15 14:10:11 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.scanner.FileResourceScannerTest
+Tue May 15 14:10:12 UTC 2018: Found element on the queue
+Tue May 15 14:10:12 UTC 2018: Updating status
+Tue May 15 14:10:12 UTC 2018: Working
+Tue May 15 14:10:14 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.scanner.FileSystemLocationResourceScannerTest
+Tue May 15 14:10:14 UTC 2018: Setting lastTestMethodIndex: 34945
+Tue May 15 14:10:14 UTC 2018: Starting linking
+Tue May 15 14:10:14 UTC 2018: No link for: com.github.dandelion.core.utils.scanner.FileSystemLocationResourceScannerTest-should_return_scanned_resources_from_file_system
+Tue May 15 14:10:14 UTC 2018: No link for: com.github.dandelion.core.utils.scanner.FileSystemLocationResourceScannerTest-should_return_nothing_when_scanning_in_an_unexisting_folder_in_file_system
+Tue May 15 14:10:14 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.scanner.FileSystemLocationResourceScannerTest
+Tue May 15 14:10:15 UTC 2018: Found element on the queue
+Tue May 15 14:10:15 UTC 2018: Updating status
+Tue May 15 14:10:15 UTC 2018: Working
+Tue May 15 14:10:17 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.utils.scanner.JarLocationResourceScannerTest
+Tue May 15 14:10:17 UTC 2018: Setting lastTestMethodIndex: 34946
+Tue May 15 14:10:17 UTC 2018: Starting linking
+Tue May 15 14:10:17 UTC 2018: No link for: com.github.dandelion.core.utils.scanner.JarLocationResourceScannerTest-should_return_scanned_resources_from_jar
+Tue May 15 14:10:18 UTC 2018: No link for: com.github.dandelion.core.utils.scanner.JarLocationResourceScannerTest-should_return_nothing_when_scanning_in_an_unexisting_folder_in_jar
+Tue May 15 14:10:18 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.utils.scanner.JarLocationResourceScannerTest
+Tue May 15 14:10:18 UTC 2018: Found element on the queue
+Tue May 15 14:10:18 UTC 2018: Updating status
+Tue May 15 14:10:18 UTC 2018: Working
+Tue May 15 14:10:21 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.ContextTest
+Tue May 15 14:10:21 UTC 2018: Setting lastTestMethodIndex: 34947
+Tue May 15 14:10:21 UTC 2018: Starting linking
+Tue May 15 14:10:21 UTC 2018: No link for: com.github.dandelion.core.ContextTest-should_load_the_context
+Tue May 15 14:10:21 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.ContextTest
+Tue May 15 14:10:21 UTC 2018: Found element on the queue
+Tue May 15 14:10:21 UTC 2018: Updating status
+Tue May 15 14:10:22 UTC 2018: Working
+Tue May 15 14:10:24 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.html.HtmlScriptTest
+Tue May 15 14:10:24 UTC 2018: Setting lastTestMethodIndex: 34948
+Tue May 15 14:10:24 UTC 2018: Starting linking
+Tue May 15 14:10:24 UTC 2018: No link for: com.github.dandelion.core.html.HtmlScriptTest-should_generate_full_ops_div_tag
+Tue May 15 14:10:24 UTC 2018: No link for: com.github.dandelion.core.html.HtmlScriptTest-should_generate_link_tag_with_href
+Tue May 15 14:10:24 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.html.HtmlScriptTest
+Tue May 15 14:10:25 UTC 2018: Found element on the queue
+Tue May 15 14:10:25 UTC 2018: Updating status
+Tue May 15 14:10:25 UTC 2018: Working
+Tue May 15 14:10:27 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.html.HtmlLinkTest
+Tue May 15 14:10:27 UTC 2018: Setting lastTestMethodIndex: 34949
+Tue May 15 14:10:27 UTC 2018: Starting linking
+Tue May 15 14:10:27 UTC 2018: No link for: com.github.dandelion.core.html.HtmlLinkTest-should_generate_full_ops_div_tag
+Tue May 15 14:10:27 UTC 2018: No link for: com.github.dandelion.core.html.HtmlLinkTest-should_generate_link_tag_with_href
+Tue May 15 14:10:27 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.html.HtmlLinkTest
+Tue May 15 14:10:28 UTC 2018: Found element on the queue
+Tue May 15 14:10:28 UTC 2018: Updating status
+Tue May 15 14:10:28 UTC 2018: Working
+Tue May 15 14:10:30 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.html.AbstractHtmlTagTest
+Tue May 15 14:10:30 UTC 2018: Setting lastTestMethodIndex: 34950
+Tue May 15 14:10:30 UTC 2018: Starting linking
+Tue May 15 14:10:30 UTC 2018: No link for: com.github.dandelion.core.html.AbstractHtmlTagTest-should_have_correct_html_rendering
+Tue May 15 14:10:30 UTC 2018: No link for: com.github.dandelion.core.html.AbstractHtmlTagTest-should_have_full_access_to_the_tag
+Tue May 15 14:10:30 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.html.AbstractHtmlTagTest
+Tue May 15 14:10:31 UTC 2018: Found element on the queue
+Tue May 15 14:10:31 UTC 2018: Updating status
+Tue May 15 14:10:31 UTC 2018: Working
+Tue May 15 14:10:34 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.bundle.loader.impl.DandelionBundleLoaderTest
+Tue May 15 14:10:34 UTC 2018: Setting lastTestMethodIndex: 34951
+Tue May 15 14:10:34 UTC 2018: Starting linking
+Tue May 15 14:10:34 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.impl.DandelionBundleLoaderTest-shouldLoadVendorBundlesInStandaloneMode
+Tue May 15 14:10:34 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.impl.DandelionBundleLoaderTest-shouldLoadUserBundles
+Tue May 15 14:10:34 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.impl.DandelionBundleLoaderTest-shouldLoadVendorBundlesInNonStandaloneMode
+Tue May 15 14:10:34 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.bundle.loader.impl.DandelionBundleLoaderTest
+Tue May 15 14:10:34 UTC 2018: Found element on the queue
+Tue May 15 14:10:34 UTC 2018: Updating status
+Tue May 15 14:10:34 UTC 2018: Working
+Tue May 15 14:10:37 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.bundle.loader.impl.AbstractBundleLoaderTest
+Tue May 15 14:10:37 UTC 2018: Setting lastTestMethodIndex: 34952
+Tue May 15 14:10:37 UTC 2018: Starting linking
+Tue May 15 14:10:37 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.impl.AbstractBundleLoaderTest-should_throw_an_exception_when_trying_to_initialize_context
+Tue May 15 14:10:37 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.bundle.loader.impl.AbstractBundleLoaderTest
+Tue May 15 14:10:37 UTC 2018: Found element on the queue
+Tue May 15 14:10:37 UTC 2018: Updating status
+Tue May 15 14:10:37 UTC 2018: Working
+Tue May 15 14:10:40 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.bundle.loader.support.BowerPreLoaderTest
+Tue May 15 14:10:40 UTC 2018: Setting lastTestMethodIndex: 34953
+Tue May 15 14:10:40 UTC 2018: Starting linking
+Tue May 15 14:10:40 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.support.BowerPreLoaderTest-should_map_the_bower_component_to_a_bundleStorageUnit
+Tue May 15 14:10:40 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.bundle.loader.support.BowerPreLoaderTest
+Tue May 15 14:10:41 UTC 2018: Found element on the queue
+Tue May 15 14:10:41 UTC 2018: Updating status
+Tue May 15 14:10:41 UTC 2018: Working
+Tue May 15 14:10:43 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.bundle.loader.support.BundleSaxHandlerTest
+Tue May 15 14:10:43 UTC 2018: Setting lastTestMethodIndex: 34954
+Tue May 15 14:10:43 UTC 2018: Starting linking
+Tue May 15 14:10:43 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.support.BundleSaxHandlerTest-should_parse_all_possible_elements_and_attributes
+Tue May 15 14:10:43 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.bundle.loader.support.BundleSaxHandlerTest
+Tue May 15 14:10:44 UTC 2018: Found element on the queue
+Tue May 15 14:10:44 UTC 2018: Updating status
+Tue May 15 14:10:44 UTC 2018: Working
+Tue May 15 14:10:47 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.bundle.loader.support.BundleConsistencyCheckTest
+Tue May 15 14:10:47 UTC 2018: Setting lastTestMethodIndex: 34955
+Tue May 15 14:10:47 UTC 2018: Starting linking
+Tue May 15 14:10:47 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.support.BundleConsistencyCheckTest-should_throw_an_exception_because_of_bundle_inconsistency
+Tue May 15 14:10:47 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.bundle.loader.support.BundleConsistencyCheckTest
+Tue May 15 14:10:48 UTC 2018: Found element on the queue
+Tue May 15 14:10:48 UTC 2018: Updating status
+Tue May 15 14:10:48 UTC 2018: Working
+Tue May 15 14:10:50 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.bundle.loader.support.JsonBundleLoadingStrategyTest
+Tue May 15 14:10:50 UTC 2018: Setting lastTestMethodIndex: 34956
+Tue May 15 14:10:50 UTC 2018: Starting linking
+Tue May 15 14:10:50 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.support.JsonBundleLoadingStrategyTest-should_return_empty_set
+Tue May 15 14:10:50 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.support.JsonBundleLoadingStrategyTest-should_throw_an_exception_when_the_bundle_is_badly_formatted
+Tue May 15 14:10:50 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.support.JsonBundleLoadingStrategyTest-should_map_to_bundles_using_resource_paths
+Tue May 15 14:10:50 UTC 2018: No link for: com.github.dandelion.core.bundle.loader.support.JsonBundleLoadingStrategyTest-should_find_json_resource_paths
+Tue May 15 14:10:50 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.bundle.loader.support.JsonBundleLoadingStrategyTest
+Tue May 15 14:10:51 UTC 2018: Found element on the queue
+Tue May 15 14:10:51 UTC 2018: Updating status
+Tue May 15 14:10:51 UTC 2018: Working
+Tue May 15 14:10:53 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.config.DevProfileTest
+Tue May 15 14:10:53 UTC 2018: Setting lastTestMethodIndex: 34957
+Tue May 15 14:10:53 UTC 2018: Starting linking
+Tue May 15 14:10:53 UTC 2018: No link for: com.github.dandelion.core.config.DevProfileTest-should_set_default_cacheMaxSize_if_wrong_value
+Tue May 15 14:10:54 UTC 2018: No link for: com.github.dandelion.core.config.DevProfileTest-should_set_dev_profile_by_default
+Tue May 15 14:10:54 UTC 2018: No link for: com.github.dandelion.core.config.DevProfileTest-should_load_configuration_from_initparams_and_complete_with_default_dev_values
+Tue May 15 14:10:54 UTC 2018: No link for: com.github.dandelion.core.config.DevProfileTest-should_load_configuration_from_default_dev_profile
+Tue May 15 14:10:54 UTC 2018: No link for: com.github.dandelion.core.config.DevProfileTest-should_load_configuration_from_properties_and_complete_with_default_dev_values
+Tue May 15 14:10:54 UTC 2018: No link for: com.github.dandelion.core.config.DevProfileTest-should_load_configuration_from_system_properties_and_complete_with_default_dev_values
+Tue May 15 14:10:54 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.config.DevProfileTest
+Tue May 15 14:10:55 UTC 2018: Found element on the queue
+Tue May 15 14:10:55 UTC 2018: Updating status
+Tue May 15 14:10:55 UTC 2018: Working
+Tue May 15 14:10:57 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.config.CustomProfileTest
+Tue May 15 14:10:57 UTC 2018: Setting lastTestMethodIndex: 34958
+Tue May 15 14:10:57 UTC 2018: Starting linking
+Tue May 15 14:10:57 UTC 2018: No link for: com.github.dandelion.core.config.CustomProfileTest-should_load_configuration_from_custom_properties_and_complete_with_default_dev_values
+Tue May 15 14:10:57 UTC 2018: No link for: com.github.dandelion.core.config.CustomProfileTest-should_load_configuration_from_system_properties_and_complete_with_default_dev_values
+Tue May 15 14:10:57 UTC 2018: No link for: com.github.dandelion.core.config.CustomProfileTest-should_set_qa_profile
+Tue May 15 14:10:57 UTC 2018: No link for: com.github.dandelion.core.config.CustomProfileTest-should_load_configuration_from_default_dev_profile_when_the_custom_profile_is_empty
+Tue May 15 14:10:57 UTC 2018: No link for: com.github.dandelion.core.config.CustomProfileTest-should_load_configuration_from_initparams_and_complete_with_default_dev_values
+Tue May 15 14:10:57 UTC 2018: No link for: com.github.dandelion.core.config.CustomProfileTest-should_set_qa_profile_even_with_white_spaces
+Tue May 15 14:10:57 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.config.CustomProfileTest
+Tue May 15 14:10:58 UTC 2018: Found element on the queue
+Tue May 15 14:10:58 UTC 2018: Updating status
+Tue May 15 14:10:58 UTC 2018: Working
+Tue May 15 14:11:01 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.config.ProdProfileTest
+Tue May 15 14:11:01 UTC 2018: Setting lastTestMethodIndex: 34959
+Tue May 15 14:11:01 UTC 2018: Starting linking
+Tue May 15 14:11:01 UTC 2018: No link for: com.github.dandelion.core.config.ProdProfileTest-should_load_configuration_from_properties_and_complete_with_default_prod_values
+Tue May 15 14:11:01 UTC 2018: No link for: com.github.dandelion.core.config.ProdProfileTest-should_load_configuration_from_system_properties_and_complete_with_default_dev_values
+Tue May 15 14:11:01 UTC 2018: No link for: com.github.dandelion.core.config.ProdProfileTest-should_load_configuration_from_default_prod_profile
+Tue May 15 14:11:01 UTC 2018: No link for: com.github.dandelion.core.config.ProdProfileTest-should_set_prod_profile
+Tue May 15 14:11:01 UTC 2018: No link for: com.github.dandelion.core.config.ProdProfileTest-should_override_default_prod_configuration
+Tue May 15 14:11:01 UTC 2018: No link for: com.github.dandelion.core.config.ProdProfileTest-should_load_configuration_from_initparams_and_complete_with_default_prod_values
+Tue May 15 14:11:01 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.config.ProdProfileTest
+Tue May 15 14:11:02 UTC 2018: Found element on the queue
+Tue May 15 14:11:02 UTC 2018: Updating status
+Tue May 15 14:11:02 UTC 2018: Working
+Tue May 15 14:11:04 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.config.StandardConfigurationLoaderTest
+Tue May 15 14:11:04 UTC 2018: Setting lastTestMethodIndex: 34960
+Tue May 15 14:11:04 UTC 2018: Starting linking
+Tue May 15 14:11:04 UTC 2018: No link for: com.github.dandelion.core.config.StandardConfigurationLoaderTest-should_load_properties_from_classpath
+Tue May 15 14:11:04 UTC 2018: No link for: com.github.dandelion.core.config.StandardConfigurationLoaderTest-should_load_user_properties_from_system_property_with_the_dev_profile
+Tue May 15 14:11:04 UTC 2018: No link for: com.github.dandelion.core.config.StandardConfigurationLoaderTest-should_throw_an_exception_if_the_configuration_file_does_not_exist_for_the_active_profile
+Tue May 15 14:11:04 UTC 2018: No link for: com.github.dandelion.core.config.StandardConfigurationLoaderTest-should_load_user_properties_from_system_property_with_the_default_profile
+Tue May 15 14:11:04 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.config.StandardConfigurationLoaderTest
+Tue May 15 14:11:05 UTC 2018: Found element on the queue
+Tue May 15 14:11:05 UTC 2018: Updating status
+Tue May 15 14:11:05 UTC 2018: Working
+Tue May 15 14:11:07 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.storage.support.BundleUtilsTest
+Tue May 15 14:11:07 UTC 2018: Setting lastTestMethodIndex: 34961
+Tue May 15 14:11:07 UTC 2018: Starting linking
+Tue May 15 14:11:07 UTC 2018: No link for: com.github.dandelion.core.storage.support.BundleUtilsTest-should_not_perform_variable_substitution_inside_locations_if_no_property_exist
+Tue May 15 14:11:08 UTC 2018: No link for: com.github.dandelion.core.storage.support.BundleUtilsTest-should_finish_initialization_of_assets_using_the_first_location
+Tue May 15 14:11:08 UTC 2018: No link for: com.github.dandelion.core.storage.support.BundleUtilsTest-should_throw_an_exception_if_the_variable_does_not_exist
+Tue May 15 14:11:08 UTC 2018: No link for: com.github.dandelion.core.storage.support.BundleUtilsTest-should_finish_initialization_of_assets_using_the_location
+Tue May 15 14:11:08 UTC 2018: No link for: com.github.dandelion.core.storage.support.BundleUtilsTest-should_finish_initializarion_of_the_bundle
+Tue May 15 14:11:08 UTC 2018: No link for: com.github.dandelion.core.storage.support.BundleUtilsTest-should_perform_variable_substitution_inside_locations
+Tue May 15 14:11:08 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.storage.support.BundleUtilsTest
+Tue May 15 14:11:08 UTC 2018: Found element on the queue
+Tue May 15 14:11:08 UTC 2018: Updating status
+Tue May 15 14:11:08 UTC 2018: Working
+Tue May 15 14:11:11 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.storage.support.CycleDetectorTest
+Tue May 15 14:11:11 UTC 2018: Setting lastTestMethodIndex: 34962
+Tue May 15 14:11:11 UTC 2018: Starting linking
+Tue May 15 14:11:11 UTC 2018: No link for: com.github.dandelion.core.storage.support.CycleDetectorTest-should_throw_an_exception_because_of_the_cycle
+Tue May 15 14:11:11 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.storage.support.CycleDetectorTest
+Tue May 15 14:11:12 UTC 2018: Found element on the queue
+Tue May 15 14:11:12 UTC 2018: Updating status
+Tue May 15 14:11:12 UTC 2018: Working
+Tue May 15 14:11:14 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.processor.impl.CssUrlRewritingProcessorTest
+Tue May 15 14:11:14 UTC 2018: Setting lastTestMethodIndex: 34963
+Tue May 15 14:11:14 UTC 2018: Starting linking
+Tue May 15 14:11:14 UTC 2018: No link for: com.github.dandelion.core.asset.processor.impl.CssUrlRewritingProcessorTest-should_rewrite_image_url_in_css
+Tue May 15 14:11:14 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.processor.impl.CssUrlRewritingProcessorTest
+Tue May 15 14:11:15 UTC 2018: Found element on the queue
+Tue May 15 14:11:15 UTC 2018: Updating status
+Tue May 15 14:11:15 UTC 2018: Working
+Tue May 15 14:11:17 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.processor.impl.CssMinProcessorTest
+Tue May 15 14:11:17 UTC 2018: Setting lastTestMethodIndex: 34964
+Tue May 15 14:11:17 UTC 2018: Starting linking
+Tue May 15 14:11:17 UTC 2018: No link for: com.github.dandelion.core.asset.processor.impl.CssMinProcessorTest-should_minifiy_css
+Tue May 15 14:11:17 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.processor.impl.CssMinProcessorTest
+Tue May 15 14:11:18 UTC 2018: Found element on the queue
+Tue May 15 14:11:18 UTC 2018: Updating status
+Tue May 15 14:11:18 UTC 2018: Working
+Tue May 15 14:11:21 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.processor.impl.JsMinProcessorTest
+Tue May 15 14:11:21 UTC 2018: Setting lastTestMethodIndex: 34965
+Tue May 15 14:11:21 UTC 2018: Starting linking
+Tue May 15 14:11:21 UTC 2018: No link for: com.github.dandelion.core.asset.processor.impl.JsMinProcessorTest-should_minifiy_js
+Tue May 15 14:11:21 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.processor.impl.JsMinProcessorTest
+Tue May 15 14:11:22 UTC 2018: Found element on the queue
+Tue May 15 14:11:22 UTC 2018: Updating status
+Tue May 15 14:11:22 UTC 2018: Working
+Tue May 15 14:11:24 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.generator.js.JavascriptContentGeneratorTest
+Tue May 15 14:11:24 UTC 2018: Setting lastTestMethodIndex: 34966
+Tue May 15 14:11:24 UTC 2018: Starting linking
+Tue May 15 14:11:24 UTC 2018: No link for: com.github.dandelion.core.asset.generator.js.JavascriptContentGeneratorTest-should_not_fill_anything_if_empty
+Tue May 15 14:11:24 UTC 2018: No link for: com.github.dandelion.core.asset.generator.js.JavascriptContentGeneratorTest-should_fill_the_buffer
+Tue May 15 14:11:24 UTC 2018: No link for: com.github.dandelion.core.asset.generator.js.JavascriptContentGeneratorTest-should_not_fill_anything_if_null
+Tue May 15 14:11:24 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.generator.js.JavascriptContentGeneratorTest
+Tue May 15 14:11:25 UTC 2018: Found element on the queue
+Tue May 15 14:11:25 UTC 2018: Updating status
+Tue May 15 14:11:25 UTC 2018: Working
+Tue May 15 14:11:27 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.WebappLocatorTest
+Tue May 15 14:11:27 UTC 2018: Setting lastTestMethodIndex: 34967
+Tue May 15 14:11:27 UTC 2018: Starting linking
+Tue May 15 14:11:27 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.WebappLocatorTest-should_return_the_processed_context_relative_url
+Tue May 15 14:11:27 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.WebappLocatorTest-should_return_the_processed_context_absolute_url
+Tue May 15 14:11:27 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.WebappLocatorTest
+Tue May 15 14:11:28 UTC 2018: Found element on the queue
+Tue May 15 14:11:28 UTC 2018: Updating status
+Tue May 15 14:11:28 UTC 2018: Working
+Tue May 15 14:11:31 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.FileLocatorTest
+Tue May 15 14:11:31 UTC 2018: Setting lastTestMethodIndex: 34968
+Tue May 15 14:11:31 UTC 2018: Starting linking
+Tue May 15 14:11:31 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.FileLocatorTest-should_return_the_same_internal_url
+Tue May 15 14:11:31 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.FileLocatorTest-should_return_the_asset_contents
+Tue May 15 14:11:31 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.FileLocatorTest
+Tue May 15 14:11:31 UTC 2018: Found element on the queue
+Tue May 15 14:11:31 UTC 2018: Updating status
+Tue May 15 14:11:31 UTC 2018: Working
+Tue May 15 14:11:34 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.RemoteLocatorTest
+Tue May 15 14:11:34 UTC 2018: Setting lastTestMethodIndex: 34969
+Tue May 15 14:11:34 UTC 2018: Starting linking
+Tue May 15 14:11:34 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.RemoteLocatorTest-should_return_the_asset_contents
+Tue May 15 14:11:34 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.RemoteLocatorTest-should_return_the_same_absolute_url
+Tue May 15 14:11:34 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.RemoteLocatorTest-should_return_the_same_protocol_relative_url
+Tue May 15 14:11:34 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.RemoteLocatorTest
+Tue May 15 14:11:35 UTC 2018: Found element on the queue
+Tue May 15 14:11:35 UTC 2018: Updating status
+Tue May 15 14:11:35 UTC 2018: Working
+Tue May 15 14:11:37 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.ApiLocatorTest
+Tue May 15 14:11:37 UTC 2018: Setting lastTestMethodIndex: 34970
+Tue May 15 14:11:37 UTC 2018: Starting linking
+Tue May 15 14:11:37 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.ApiLocatorTest-should_return_the_same_absolute_url
+Tue May 15 14:11:37 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.ApiLocatorTest-should_return_the_asset_contents
+Tue May 15 14:11:37 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.ApiLocatorTest
+Tue May 15 14:11:38 UTC 2018: Found element on the queue
+Tue May 15 14:11:38 UTC 2018: Updating status
+Tue May 15 14:11:38 UTC 2018: Working
+Tue May 15 14:11:41 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.ClasspathLocatorTest
+Tue May 15 14:11:41 UTC 2018: Setting lastTestMethodIndex: 34971
+Tue May 15 14:11:41 UTC 2018: Starting linking
+Tue May 15 14:11:41 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.ClasspathLocatorTest-should_return_the_same_internal_url
+Tue May 15 14:11:41 UTC 2018: No link for: com.github.dandelion.core.asset.locator.impl.ClasspathLocatorTest-should_return_the_asset_contents
+Tue May 15 14:11:41 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.locator.impl.ClasspathLocatorTest
+Tue May 15 14:11:42 UTC 2018: Found element on the queue
+Tue May 15 14:11:42 UTC 2018: Updating status
+Tue May 15 14:11:42 UTC 2018: Working
+Tue May 15 14:11:44 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.AssetMapperTest
+Tue May 15 14:11:44 UTC 2018: Setting lastTestMethodIndex: 34972
+Tue May 15 14:11:44 UTC 2018: Starting linking
+Tue May 15 14:11:44 UTC 2018: No link for: com.github.dandelion.core.asset.AssetMapperTest-should_map_an_asu_to_a_vendor_asset
+Tue May 15 14:11:44 UTC 2018: No link for: com.github.dandelion.core.asset.AssetMapperTest-should_map_an_asu_to_an_asset_when_minification_is_enabled
+Tue May 15 14:11:44 UTC 2018: No link for: com.github.dandelion.core.asset.AssetMapperTest-should_throw_an_exception_when_the_asset_has_empty_locations
+Tue May 15 14:11:44 UTC 2018: No link for: com.github.dandelion.core.asset.AssetMapperTest-should_map_an_asu_to_an_asset_when_caching_is_forced
+Tue May 15 14:11:44 UTC 2018: No link for: com.github.dandelion.core.asset.AssetMapperTest-should_throw_an_exception_when_the_asset_has_no_location
+Tue May 15 14:11:44 UTC 2018: No link for: com.github.dandelion.core.asset.AssetMapperTest-should_throw_an_exception_when_the_asset_has_an_unknown_location
+Tue May 15 14:11:44 UTC 2018: No link for: com.github.dandelion.core.asset.AssetMapperTest-should_select_classpath_as_a_first_authorized_location
+Tue May 15 14:11:44 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.AssetMapperTest
+Tue May 15 14:11:45 UTC 2018: Found element on the queue
+Tue May 15 14:11:45 UTC 2018: Updating status
+Tue May 15 14:11:45 UTC 2018: Working
+Tue May 15 14:11:48 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.AssetQueryTest
+Tue May 15 14:11:48 UTC 2018: Setting lastTestMethodIndex: 34973
+Tue May 15 14:11:48 UTC 2018: Starting linking
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_all_assets_with_name_and_type
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_only_body_assets
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_all_assets_with_1_js_and_1_css_excluded
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_all_assets
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_only_head_assets
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_all_assets_with_1_css_with_malformatted_name_excluded
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_only_head_assets_with_js_in_last
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_all_assets_with_1_css_excluded
+Tue May 15 14:11:48 UTC 2018: No link for: com.github.dandelion.core.asset.AssetQueryTest-should_return_only_body_assets_with_1_js_excluded
+Tue May 15 14:11:48 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.AssetQueryTest
+Tue May 15 14:11:49 UTC 2018: Found element on the queue
+Tue May 15 14:11:49 UTC 2018: Updating status
+Tue May 15 14:11:49 UTC 2018: Working
+Tue May 15 14:11:51 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.versioning.impl.FixedAssetVersioningStrategyTest
+Tue May 15 14:11:51 UTC 2018: Setting lastTestMethodIndex: 34974
+Tue May 15 14:11:51 UTC 2018: Starting linking
+Tue May 15 14:11:51 UTC 2018: No link for: com.github.dandelion.core.asset.versioning.impl.FixedAssetVersioningStrategyTest-should_return_a_fixed_version_based_on_a_string
+Tue May 15 14:11:51 UTC 2018: No link for: com.github.dandelion.core.asset.versioning.impl.FixedAssetVersioningStrategyTest-should_return_a_fixed_version_based_on_a_date_and_custom_format
+Tue May 15 14:11:51 UTC 2018: No link for: com.github.dandelion.core.asset.versioning.impl.FixedAssetVersioningStrategyTest-should_return_a_fixed_version_based_on_a_date_and_default_format
+Tue May 15 14:11:51 UTC 2018: No link for: com.github.dandelion.core.asset.versioning.impl.FixedAssetVersioningStrategyTest-should_throw_an_exception_if_a_wrong_date_format_is_used
+Tue May 15 14:11:51 UTC 2018: No link for: com.github.dandelion.core.asset.versioning.impl.FixedAssetVersioningStrategyTest-should_throw_an_exception_if_a_wrong_versioning_strategy_is_requested
+Tue May 15 14:11:51 UTC 2018: No link for: com.github.dandelion.core.asset.versioning.impl.FixedAssetVersioningStrategyTest-should_throw_an_exception_if_a_wrong_fixedVersionType_is_requested
+Tue May 15 14:11:51 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.versioning.impl.FixedAssetVersioningStrategyTest
+Tue May 15 14:11:52 UTC 2018: Found element on the queue
+Tue May 15 14:11:52 UTC 2018: Updating status
+Tue May 15 14:11:52 UTC 2018: Working
+Tue May 15 14:11:54 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.asset.versioning.impl.CustomAssetVersioningStrategyTest
+Tue May 15 14:11:55 UTC 2018: Setting lastTestMethodIndex: 34975
+Tue May 15 14:11:55 UTC 2018: Starting linking
+Tue May 15 14:11:55 UTC 2018: No link for: com.github.dandelion.core.asset.versioning.impl.CustomAssetVersioningStrategyTest-should_return_a_version_based_on_a_custom_strategy
+Tue May 15 14:11:55 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.asset.versioning.impl.CustomAssetVersioningStrategyTest
+Tue May 15 14:11:55 UTC 2018: Found element on the queue
+Tue May 15 14:11:55 UTC 2018: Updating status
+Tue May 15 14:11:55 UTC 2018: Working
+Tue May 15 14:11:58 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest
+Tue May 15 14:11:58 UTC 2018: Setting lastTestMethodIndex: 34976
+Tue May 15 14:11:58 UTC 2018: Starting linking
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_not_apply_if_explicitely_disabled_by_a_request_parameter
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_insert_script_tags_in_the_configured_placeholder
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_not_apply_if_explicitely_disabled_by_a_request_attribute
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_not_apply_on_javascript
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_insert_link_tags_in_the_configured_placeholder
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_not_apply_on_css
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_throw_an_exception_if_a_wrong_encoding_is_configured
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_apply_on_html
+Tue May 15 14:11:58 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest-should_insert_html_tags_in_the_default_placeholder
+Tue May 15 14:11:58 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.web.handler.impl.AssetInjectionHandlerTest
+Tue May 15 14:11:59 UTC 2018: Found element on the queue
+Tue May 15 14:11:59 UTC 2018: Updating status
+Tue May 15 14:11:59 UTC 2018: Working
+Tue May 15 14:12:02 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest
+Tue May 15 14:12:02 UTC 2018: Setting lastTestMethodIndex: 34977
+Tue May 15 14:12:02 UTC 2018: Starting linking
+Tue May 15 14:12:02 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest-should_return_gzipped_content
+Tue May 15 14:12:02 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest-should_not_apply_if_the_response_has_an_incompatible_mimeType
+Tue May 15 14:12:02 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest-should_return_false_if_the_response_is_already_commited
+Tue May 15 14:12:02 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest-should_return_false_if_204
+Tue May 15 14:12:02 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest-should_return_false_if_205
+Tue May 15 14:12:02 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest-should_return_false_if_304
+Tue May 15 14:12:02 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest-should_not_apply_if_gzip_is_not_accepted_by_the_browser
+Tue May 15 14:12:02 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.web.handler.impl.GZipCompressionPostHandlerTest
+Tue May 15 14:12:03 UTC 2018: Found element on the queue
+Tue May 15 14:12:03 UTC 2018: Updating status
+Tue May 15 14:12:03 UTC 2018: Working
+Tue May 15 14:12:05 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.web.handler.impl.ETagPostHandlerTest
+Tue May 15 14:12:05 UTC 2018: Setting lastTestMethodIndex: 34978
+Tue May 15 14:12:05 UTC 2018: Starting linking
+Tue May 15 14:12:05 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.ETagPostHandlerTest-should_not_apply_on_html
+Tue May 15 14:12:05 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.ETagPostHandlerTest-should_continue_chaining_when_ifnonematch_ne_etag
+Tue May 15 14:12:05 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.ETagPostHandlerTest-should_stop_chaining_when_ifnonematch_equals_etag
+Tue May 15 14:12:05 UTC 2018: No link for: com.github.dandelion.core.web.handler.impl.ETagPostHandlerTest-should_apply_on_everything_else_but_html
+Tue May 15 14:12:05 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.web.handler.impl.ETagPostHandlerTest
+Tue May 15 14:12:06 UTC 2018: Found element on the queue
+Tue May 15 14:12:06 UTC 2018: Updating status
+Tue May 15 14:12:06 UTC 2018: Working
+Tue May 15 14:12:08 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.web.AssetRequestContextTest
+Tue May 15 14:12:09 UTC 2018: Setting lastTestMethodIndex: 34979
+Tue May 15 14:12:09 UTC 2018: Starting linking
+Tue May 15 14:12:09 UTC 2018: No link for: com.github.dandelion.core.web.AssetRequestContextTest-should_exclude_bundles
+Tue May 15 14:12:09 UTC 2018: No link for: com.github.dandelion.core.web.AssetRequestContextTest-should_store_parameters
+Tue May 15 14:12:09 UTC 2018: No link for: com.github.dandelion.core.web.AssetRequestContextTest-should_add_excluded_css
+Tue May 15 14:12:09 UTC 2018: No link for: com.github.dandelion.core.web.AssetRequestContextTest-should_initialize_excluded_bundles_from_context
+Tue May 15 14:12:09 UTC 2018: No link for: com.github.dandelion.core.web.AssetRequestContextTest-should_store_bundles
+Tue May 15 14:12:09 UTC 2018: No link for: com.github.dandelion.core.web.AssetRequestContextTest-should_add_excluded_js
+Tue May 15 14:12:09 UTC 2018: No link for: com.github.dandelion.core.web.AssetRequestContextTest-should_initialize_excluded_js_from_context
+Tue May 15 14:12:09 UTC 2018: No link for: com.github.dandelion.core.web.AssetRequestContextTest-should_dont_blink_a_eye
+Tue May 15 14:12:09 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.web.AssetRequestContextTest
+Tue May 15 14:12:09 UTC 2018: Found element on the queue
+Tue May 15 14:12:09 UTC 2018: Updating status
+Tue May 15 14:12:09 UTC 2018: Working
+Tue May 15 14:12:12 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.core.web.AssetServletTest
+Tue May 15 14:12:12 UTC 2018: Setting lastTestMethodIndex: 34980
+Tue May 15 14:12:12 UTC 2018: Starting linking
+Tue May 15 14:12:12 UTC 2018: No link for: com.github.dandelion.core.web.AssetServletTest-should_retrieve_the_asset_content_from_storage
+Tue May 15 14:12:12 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.core.web.AssetServletTest
+Tue May 15 14:12:13 UTC 2018: Found element on the queue
+Tue May 15 14:12:13 UTC 2018: Updating status
+Tue May 15 14:12:13 UTC 2018: Working
+Tue May 15 14:12:13 UTC 2018: Create project parser
+Tue May 15 14:12:15 UTC 2018: Start dandelion__dandelion test class com.github.dandelion.jsp.tag.PlaceholderTagTest
+Tue May 15 14:12:15 UTC 2018: Setting lastTestMethodIndex: 34981
+Tue May 15 14:12:15 UTC 2018: Starting linking
+Tue May 15 14:12:15 UTC 2018: No link for: com.github.dandelion.jsp.tag.PlaceholderTagTest-shouldThrowAnExceptionUsingAWrongPlaceholderType
+Tue May 15 14:12:15 UTC 2018: No link for: com.github.dandelion.jsp.tag.PlaceholderTagTest-shouldThrowAnExceptionWhenUsingTheSameJsPlaceholderTwice
+Tue May 15 14:12:15 UTC 2018: No link for: com.github.dandelion.jsp.tag.PlaceholderTagTest-shouldUpdateTheResponseWithAPlaceholderForJsInjection
+Tue May 15 14:12:15 UTC 2018: No link for: com.github.dandelion.jsp.tag.PlaceholderTagTest-shouldUpdateTheResponseWithAPlaceholderForCssInjection
+Tue May 15 14:12:16 UTC 2018: No link for: com.github.dandelion.jsp.tag.PlaceholderTagTest-shouldThrowAnExceptionWhenTheRequiredAttributeIsEmpty
+Tue May 15 14:12:16 UTC 2018: No link for: com.github.dandelion.jsp.tag.PlaceholderTagTest-shouldThrowAnExceptionWhenUsingTheSameCssPlaceholderTwice
+Tue May 15 14:12:16 UTC 2018: Linking done for dandelion__dandelion test class com.github.dandelion.jsp.tag.PlaceholderTagTest

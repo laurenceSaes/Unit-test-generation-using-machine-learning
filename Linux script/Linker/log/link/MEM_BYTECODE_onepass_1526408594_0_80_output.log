@@ -1,0 +1,132 @@
+Wed May 16 02:50:28 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:50:28 UTC 2018: Starting
+Wed May 16 02:50:29 UTC 2018: Found element on the queue
+Wed May 16 02:50:29 UTC 2018: Updating status
+Wed May 16 02:50:29 UTC 2018: Working
+Wed May 16 02:50:29 UTC 2018: Create project parser
+Wed May 16 02:50:33 UTC 2018: Create slicer
+Wed May 16 02:50:34 UTC 2018: Create call graph
+Wed May 16 02:50:35 UTC 2018: Create point analysis
+Wed May 16 02:50:35 UTC 2018: Create call graph done
+Wed May 16 02:50:35 UTC 2018: Start konik32__openres test class pl.openrest.filters.request.GetRequestInformationTest
+Wed May 16 02:50:35 UTC 2018: Setting lastTestMethodIndex: 58129
+Wed May 16 02:50:35 UTC 2018: Starting linking
+Wed May 16 02:50:35 UTC 2018: Code found pl.openrest.filters.request.GetRequestInformation$GetRequestInformationBuilder-search with pl.openrest.filters.request.GetRequestInformationTest-shouldBuilderThrowExceptionWhenBothIdAndSearchAreUsed
+Wed May 16 02:50:35 UTC 2018: Code found pl.openrest.filters.request.GetRequestInformation$GetRequestInformationBuilder-filter with pl.openrest.filters.request.GetRequestInformationTest-shouldBuilderAppendMultipleFilters
+Wed May 16 02:50:36 UTC 2018: Code found pl.openrest.filters.request.GetRequestInformation$GetRequestInformationBuilder-search with pl.openrest.filters.request.GetRequestInformationTest-shouldBuilderAppendSearchPredicate
+Wed May 16 02:50:36 UTC 2018: Code found pl.openrest.filters.request.GetRequestInformation$GetRequestInformationBuilder-parameter with pl.openrest.filters.request.GetRequestInformationTest-shouldBuilderAppendAllParameters
+Wed May 16 02:50:36 UTC 2018: Code found pl.openrest.filters.request.GetRequestInformation$GetRequestInformationBuilder-search with pl.openrest.filters.request.GetRequestInformationTest-shouldBuilderAppendSearchString
+Wed May 16 02:50:37 UTC 2018: Code found pl.openrest.filters.request.GetRequestInformation$GetRequestInformationBuilder-parameter with pl.openrest.filters.request.GetRequestInformationTest-shouldBuilderAppendMultipleParametersWithSameName
+Wed May 16 02:50:37 UTC 2018: Linking done for konik32__openres test class pl.openrest.filters.request.GetRequestInformationTest
+Wed May 16 02:50:37 UTC 2018: Found element on the queue
+Wed May 16 02:50:37 UTC 2018: Updating status
+Wed May 16 02:50:37 UTC 2018: Working
+Wed May 16 02:50:40 UTC 2018: Start konik32__openres test class pl.openrest.filters.remote.predicate.AbstractPredicateTest
+Wed May 16 02:50:40 UTC 2018: Setting lastTestMethodIndex: 58133
+Wed May 16 02:50:40 UTC 2018: Starting linking
+Wed May 16 02:50:40 UTC 2018: No link for: pl.openrest.filters.remote.predicate.AbstractPredicateTest-shouldToPredicateReturnOnlyName
+Wed May 16 02:50:40 UTC 2018: No link for: pl.openrest.filters.remote.predicate.AbstractPredicateTest-shouldToPredicateReturnStringWithEmptySpaceBetweenComasForNullParameter
+Wed May 16 02:50:41 UTC 2018: No link for: pl.openrest.filters.remote.predicate.AbstractPredicateTest-shouldToPredicateReturnNameAndParametersJoinedWithComa
+Wed May 16 02:50:41 UTC 2018: Linking done for konik32__openres test class pl.openrest.filters.remote.predicate.AbstractPredicateTest
+Wed May 16 02:50:42 UTC 2018: Found element on the queue
+Wed May 16 02:50:42 UTC 2018: Updating status
+Wed May 16 02:50:42 UTC 2018: Working
+Wed May 16 02:50:42 UTC 2018: Create project parser
+Wed May 16 02:50:44 UTC 2018: Start konik32__openres test class pl.openrest.core.util.traverser.ObjectGraphTraverserTest
+Wed May 16 02:50:44 UTC 2018: Setting lastTestMethodIndex: 58137
+Wed May 16 02:50:44 UTC 2018: Starting linking
+Wed May 16 02:50:44 UTC 2018: Code found pl.openrest.core.util.traverser.ObjectGraphTraverser-traverse with pl.openrest.core.util.traverser.ObjectGraphTraverserTest-shouldCallAfterTraverse
+Wed May 16 02:50:45 UTC 2018: Code found pl.openrest.core.util.traverser.ObjectGraphTraverser-traverse with pl.openrest.core.util.traverser.ObjectGraphTraverserTest-shouldCallBeforeTraverse
+Wed May 16 02:50:45 UTC 2018: No link for: pl.openrest.core.util.traverser.ObjectGraphTraverserTest-shouldCallCallback
+Wed May 16 02:50:45 UTC 2018: Linking done for konik32__openres test class pl.openrest.core.util.traverser.ObjectGraphTraverserTest
+Wed May 16 02:50:46 UTC 2018: Found element on the queue
+Wed May 16 02:50:46 UTC 2018: Updating status
+Wed May 16 02:50:46 UTC 2018: Working
+Wed May 16 02:50:49 UTC 2018: Start konik32__openres test class pl.openrest.core.util.traverser.PathBuilderTest
+Wed May 16 02:50:49 UTC 2018: Setting lastTestMethodIndex: 58138
+Wed May 16 02:50:49 UTC 2018: Starting linking
+Wed May 16 02:50:49 UTC 2018: No link for: pl.openrest.core.util.traverser.PathBuilderTest-shouldAppendCollection
+Wed May 16 02:50:49 UTC 2018: No link for: pl.openrest.core.util.traverser.PathBuilderTest-shouldAppendFieldNameWithoutDotOnEmptyOrNullCurrentPath
+Wed May 16 02:50:50 UTC 2018: No link for: pl.openrest.core.util.traverser.PathBuilderTest-shouldThrowIllegalArgumentExceptionOnEmptyCurrentPath
+Wed May 16 02:50:50 UTC 2018: No link for: pl.openrest.core.util.traverser.PathBuilderTest-shouldAppendFieldNameWithDotOnNonEmptyCurrentPath
+Wed May 16 02:50:51 UTC 2018: No link for: pl.openrest.core.util.traverser.PathBuilderTest-shouldAppendMap
+Wed May 16 02:50:51 UTC 2018: Linking done for konik32__openres test class pl.openrest.core.util.traverser.PathBuilderTest
+Wed May 16 02:50:51 UTC 2018: Found element on the queue
+Wed May 16 02:50:51 UTC 2018: Updating status
+Wed May 16 02:50:51 UTC 2018: Working
+Wed May 16 02:50:51 UTC 2018: Create project parser
+Wed May 16 02:50:54 UTC 2018: Start konik32__openres test class pl.openrest.dto.security.authorization.UnanimousAccessDecitionManagerTest
+Wed May 16 02:50:54 UTC 2018: Setting lastTestMethodIndex: 58141
+Wed May 16 02:50:54 UTC 2018: Starting linking
+Wed May 16 02:50:54 UTC 2018: No link for: pl.openrest.dto.security.authorization.UnanimousAccessDecitionManagerTest-shouldDenyOnAnyDenyingStrategy
+Wed May 16 02:50:55 UTC 2018: No link for: pl.openrest.dto.security.authorization.UnanimousAccessDecitionManagerTest-shouldDenyAccessOnAllAbstainingStrategiesAndFlagIsSetToFalse
+Wed May 16 02:50:55 UTC 2018: No link for: pl.openrest.dto.security.authorization.UnanimousAccessDecitionManagerTest-shouldGrantAccessOnyAllGrantingStrategies
+Wed May 16 02:50:55 UTC 2018: No link for: pl.openrest.dto.security.authorization.UnanimousAccessDecitionManagerTest-shouldAbstainOnAllAbstainingStrategies
+Wed May 16 02:50:56 UTC 2018: Linking done for konik32__openres test class pl.openrest.dto.security.authorization.UnanimousAccessDecitionManagerTest
+Wed May 16 02:50:56 UTC 2018: Found element on the queue
+Wed May 16 02:50:56 UTC 2018: Updating status
+Wed May 16 02:50:56 UTC 2018: Working
+Wed May 16 02:50:59 UTC 2018: Start konik32__openres test class pl.openrest.dto.security.authorization.AffirmativeAccessDecitionManagerTest
+Wed May 16 02:50:59 UTC 2018: Setting lastTestMethodIndex: 58144
+Wed May 16 02:50:59 UTC 2018: Starting linking
+Wed May 16 02:50:59 UTC 2018: No link for: pl.openrest.dto.security.authorization.AffirmativeAccessDecitionManagerTest-shouldDenyAccessOnAllAbstainingStrategiesAndFlagIsSetToFalse
+Wed May 16 02:50:59 UTC 2018: No link for: pl.openrest.dto.security.authorization.AffirmativeAccessDecitionManagerTest-shouldDenyAccessOnNoGrantingStrategyAndMoreThanOneDenyingStrategy
+Wed May 16 02:51:00 UTC 2018: No link for: pl.openrest.dto.security.authorization.AffirmativeAccessDecitionManagerTest-shouldAbstainOnAllAbstainingStrategies
+Wed May 16 02:51:00 UTC 2018: No link for: pl.openrest.dto.security.authorization.AffirmativeAccessDecitionManagerTest-shouldGrantAccessOnyAnyGrantingStrategy
+Wed May 16 02:51:00 UTC 2018: Linking done for konik32__openres test class pl.openrest.dto.security.authorization.AffirmativeAccessDecitionManagerTest
+Wed May 16 02:51:01 UTC 2018: Found element on the queue
+Wed May 16 02:51:01 UTC 2018: Updating status
+Wed May 16 02:51:01 UTC 2018: Working
+Wed May 16 02:51:03 UTC 2018: Start konik32__openres test class pl.openrest.dto.security.authorization.DtoAuthorizationStrategyMappingHandlerTest
+Wed May 16 02:51:03 UTC 2018: Setting lastTestMethodIndex: 58147
+Wed May 16 02:51:03 UTC 2018: Starting linking
+Wed May 16 02:51:04 UTC 2018: No link for: pl.openrest.dto.security.authorization.DtoAuthorizationStrategyMappingHandlerTest-shouldCallAccessDecisionMangerWithDtoEntityAndStrategiesParameters
+Wed May 16 02:51:04 UTC 2018: Linking done for konik32__openres test class pl.openrest.dto.security.authorization.DtoAuthorizationStrategyMappingHandlerTest
+Wed May 16 02:51:04 UTC 2018: Found element on the queue
+Wed May 16 02:51:04 UTC 2018: Updating status
+Wed May 16 02:51:04 UTC 2018: Working
+Wed May 16 02:51:07 UTC 2018: Start konik32__openres test class pl.openrest.dto.security.authorization.AuthorizeDtoAnnotationAuthorizationStrategyTest
+Wed May 16 02:51:07 UTC 2018: Setting lastTestMethodIndex: 58150
+Wed May 16 02:51:07 UTC 2018: Starting linking
+Wed May 16 02:51:07 UTC 2018: No link for: pl.openrest.dto.security.authorization.AuthorizeDtoAnnotationAuthorizationStrategyTest-shouldAbstainOnMissingAuthStrategiesAnn
+Wed May 16 02:51:07 UTC 2018: No link for: pl.openrest.dto.security.authorization.AuthorizeDtoAnnotationAuthorizationStrategyTest-shouldPassParentAuthorizationStrategyToAccessDecitionManager
+Wed May 16 02:51:07 UTC 2018: No link for: pl.openrest.dto.security.authorization.AuthorizeDtoAnnotationAuthorizationStrategyTest-shouldThrowOrestExceptionOnNoStrategyInStrategyFactory
+Wed May 16 02:51:08 UTC 2018: Linking done for konik32__openres test class pl.openrest.dto.security.authorization.AuthorizeDtoAnnotationAuthorizationStrategyTest
+Wed May 16 02:51:08 UTC 2018: Found element on the queue
+Wed May 16 02:51:08 UTC 2018: Updating status
+Wed May 16 02:51:08 UTC 2018: Working
+Wed May 16 02:51:08 UTC 2018: Create project parser
+Wed May 16 02:51:12 UTC 2018: Start konik32__openres test class pl.openrest.dto.mapper.MappingManagerTest
+Wed May 16 02:51:12 UTC 2018: Setting lastTestMethodIndex: 58152
+Wed May 16 02:51:12 UTC 2018: Starting linking
+Wed May 16 02:51:12 UTC 2018: Code found pl.openrest.dto.mapper.MapperDelegator-merge with pl.openrest.dto.mapper.MappingManagerTest-shouldCallEntityFromDtoCreatorMerge
+Wed May 16 02:51:12 UTC 2018: Code found pl.openrest.dto.mapper.MapperDelegator-create with pl.openrest.dto.mapper.MappingManagerTest-shouldCallEntityFromDtoCreatorCreate
+Wed May 16 02:51:12 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldThrowOrestExceptionIfNoDtoFound
+Wed May 16 02:51:13 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldThrowHttpMessageNotReadableExceptionOnNoConverterFoundForDtoType
+Wed May 16 02:51:13 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldCallDtoDomainRegistry
+Wed May 16 02:51:13 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldReturnDtoAndEntityWrapper
+Wed May 16 02:51:14 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldThrowHttpMessageNotReadableExceptionOnConverterReadsNull
+Wed May 16 02:51:14 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldThrowResourceNotFoundExceptionOnInvokeFindOneNull
+Wed May 16 02:51:14 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldCallConverterRead
+Wed May 16 02:51:14 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldCallDtoHandler
+Wed May 16 02:51:15 UTC 2018: No link for: pl.openrest.dto.mapper.MappingManagerTest-shouldThrowOrestExceptionIfDtoParameterIsEmpty
+Wed May 16 02:51:15 UTC 2018: Linking done for konik32__openres test class pl.openrest.dto.mapper.MappingManagerTest
+Wed May 16 02:51:16 UTC 2018: Found element on the queue
+Wed May 16 02:51:16 UTC 2018: Updating status
+Wed May 16 02:51:16 UTC 2018: Working
+Wed May 16 02:51:19 UTC 2018: Start konik32__openres test class pl.openrest.dto.mapper.MapperFactoryTest
+Wed May 16 02:51:19 UTC 2018: Setting lastTestMethodIndex: 58157
+Wed May 16 02:51:19 UTC 2018: Starting linking
+Wed May 16 02:51:19 UTC 2018: No link for: pl.openrest.dto.mapper.MapperFactoryTest-shouldNotRegisterDefaultMapperIfNonDefaultExists
+Wed May 16 02:51:19 UTC 2018: No link for: pl.openrest.dto.mapper.MapperFactoryTest-shouldRegisterMappers
+Wed May 16 02:51:20 UTC 2018: No link for: pl.openrest.dto.mapper.MapperFactoryTest-shouldReturnDefaultMapperOnNoCustomMapper
+Wed May 16 02:51:20 UTC 2018: Linking done for konik32__openres test class pl.openrest.dto.mapper.MapperFactoryTest
+Wed May 16 02:51:21 UTC 2018: Found element on the queue
+Wed May 16 02:51:21 UTC 2018: Updating status
+Wed May 16 02:51:21 UTC 2018: Working
+Wed May 16 02:51:23 UTC 2018: Start konik32__openres test class pl.openrest.dto.handler.spel.SpelEvaluationBeanTest
+Wed May 16 02:51:23 UTC 2018: Setting lastTestMethodIndex: 58160
+Wed May 16 02:51:23 UTC 2018: Starting linking
+Wed May 16 02:51:23 UTC 2018: No link for: pl.openrest.dto.handler.spel.SpelEvaluationBeanTest-shouldSetValues
+Wed May 16 02:51:23 UTC 2018: No link for: pl.openrest.dto.handler.spel.SpelEvaluationBeanTest-shouldNotEvaluatedNonEvaluate
+Wed May 16 02:51:24 UTC 2018: Linking done for konik32__openres test class pl.openrest.dto.handler.spel.SpelEvaluationBeanTest

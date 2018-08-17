@@ -1,0 +1,735 @@
+Wed May 16 02:00:49 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:00:50 UTC 2018: Starting
+Wed May 16 02:00:50 UTC 2018: Found element on the queue
+Wed May 16 02:00:50 UTC 2018: Updating status
+Wed May 16 02:00:50 UTC 2018: Working
+Wed May 16 02:00:50 UTC 2018: Create project parser
+Wed May 16 02:00:54 UTC 2018: Create slicer
+Wed May 16 02:00:56 UTC 2018: Create call graph
+Wed May 16 02:00:59 UTC 2018: Create point analysis
+Wed May 16 02:00:59 UTC 2018: Create call graph done
+Wed May 16 02:00:59 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.payment.impl.AbstractPaymentGatewayImplTest
+Wed May 16 02:00:59 UTC 2018: Setting lastTestMethodIndex: 56278
+Wed May 16 02:00:59 UTC 2018: Starting linking
+Wed May 16 02:00:59 UTC 2018: Code found org.yes.cart.payment.impl.AbstractPaymentGatewayImpl-getParameterValue with org.yes.cart.payment.impl.AbstractPaymentGatewayImplTest-testGetParameterValue
+Wed May 16 02:00:59 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:00:59 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.payment.impl.AbstractPaymentGatewayImplTest
+Wed May 16 02:01:00 UTC 2018: Found element on the queue
+Wed May 16 02:01:00 UTC 2018: Updating status
+Wed May 16 02:01:00 UTC 2018: Working
+Wed May 16 02:01:00 UTC 2018: Create project parser
+Wed May 16 02:01:03 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.payment.impl.RobokassaPaymentGatewayImplTest
+Wed May 16 02:01:03 UTC 2018: Setting lastTestMethodIndex: 56280
+Wed May 16 02:01:03 UTC 2018: Starting linking
+Wed May 16 02:01:03 UTC 2018: No link for: org.yes.cart.payment.impl.RobokassaPaymentGatewayImplTest-testGetPostActionUrl
+Wed May 16 02:01:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:04 UTC 2018: No link for: org.yes.cart.payment.impl.RobokassaPaymentGatewayImplTest-testGetHtmlForm
+Wed May 16 02:01:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:04 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.payment.impl.RobokassaPaymentGatewayImplTest
+Wed May 16 02:01:04 UTC 2018: Found element on the queue
+Wed May 16 02:01:04 UTC 2018: Updating status
+Wed May 16 02:01:04 UTC 2018: Working
+Wed May 16 02:01:07 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.payment.impl.AbstractGswmPaymentGatewayImplTest
+Wed May 16 02:01:07 UTC 2018: Setting lastTestMethodIndex: 56284
+Wed May 16 02:01:07 UTC 2018: Starting linking
+Wed May 16 02:01:07 UTC 2018: Code found org.yes.cart.payment.impl.AbstractGswmPaymentGatewayImpl-getParameterValue with org.yes.cart.payment.impl.AbstractGswmPaymentGatewayImplTest-testGetParameterValue
+Wed May 16 02:01:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:07 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.payment.impl.AbstractGswmPaymentGatewayImplTest
+Wed May 16 02:01:07 UTC 2018: Found element on the queue
+Wed May 16 02:01:07 UTC 2018: Updating status
+Wed May 16 02:01:07 UTC 2018: Working
+Wed May 16 02:01:07 UTC 2018: Create project parser
+Wed May 16 02:01:12 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.util.MoneyUtilsTest
+Wed May 16 02:01:12 UTC 2018: Setting lastTestMethodIndex: 56286
+Wed May 16 02:01:12 UTC 2018: Starting linking
+Wed May 16 02:01:12 UTC 2018: Code found org.yes.cart.util.MoneyUtils-max with org.yes.cart.util.MoneyUtilsTest-testMaxWithNulls
+Wed May 16 02:01:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:12 UTC 2018: Code found org.yes.cart.util.MoneyUtils-getDiscountDisplayValue with org.yes.cart.util.MoneyUtilsTest-testGetDiscountDisplayValueOnNullPrices
+Wed May 16 02:01:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:12 UTC 2018: Code found org.yes.cart.util.MoneyUtils-max with org.yes.cart.util.MoneyUtilsTest-testMax
+Wed May 16 02:01:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:13 UTC 2018: Code found org.yes.cart.util.MoneyUtils-max with org.yes.cart.util.MoneyUtilsTest-testMaxWithSecondNull
+Wed May 16 02:01:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:13 UTC 2018: Code found org.yes.cart.util.MoneyUtils-getDiscountDisplayValue with org.yes.cart.util.MoneyUtilsTest-testGetDiscountDisplayValue
+Wed May 16 02:01:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:13 UTC 2018: Code found org.yes.cart.util.MoneyUtils-max with org.yes.cart.util.MoneyUtilsTest-testMaxWithFirstNull
+Wed May 16 02:01:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:14 UTC 2018: Code found org.yes.cart.util.MoneyUtils-notNull with org.yes.cart.util.MoneyUtilsTest-testNotNullIsNullSafe
+Wed May 16 02:01:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:14 UTC 2018: Code found org.yes.cart.util.MoneyUtils-notNull with org.yes.cart.util.MoneyUtilsTest-testNotNullWithThree
+Wed May 16 02:01:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:14 UTC 2018: Code found org.yes.cart.util.MoneyUtils-notNull with org.yes.cart.util.MoneyUtilsTest-testNotNullWithNull
+Wed May 16 02:01:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:15 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstTenEqualToSecondZero
+Wed May 16 02:01:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:15 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstZeroBiggerThanOrEqualToSecondNull
+Wed May 16 02:01:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:15 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstNullBiggerThanOrEqualToSecondNulls
+Wed May 16 02:01:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:16 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstTenEqualToSecondTen
+Wed May 16 02:01:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:16 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testMinimalPositiveIsSecondMinimalFromTenAndNull
+Wed May 16 02:01:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:16 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstNullBiggerThanSecondZero
+Wed May 16 02:01:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:17 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstZeroEqualToSecondNull
+Wed May 16 02:01:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:17 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testMinimalPositiveIsFirstOneLessThanSecondTen
+Wed May 16 02:01:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:17 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstTenBiggerThanOrEqualToSecondZero
+Wed May 16 02:01:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:18 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstZeroEqualToSecondTen
+Wed May 16 02:01:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:18 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstNullBiggerThanSecondNulls
+Wed May 16 02:01:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:18 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstNullBiggerThanOrEqualToSecondZero
+Wed May 16 02:01:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:19 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstTenBiggerThanSecondZero
+Wed May 16 02:01:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:19 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstTenBiggerThanOrEqualToSecondTen
+Wed May 16 02:01:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:19 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstNullEqualToSecondNulls
+Wed May 16 02:01:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:19 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstTenBiggerThanSecondTen
+Wed May 16 02:01:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:20 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstZeroBiggerThanSecondNull
+Wed May 16 02:01:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:20 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstZeroBiggerThanSecondTen
+Wed May 16 02:01:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:20 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstNullEqualToSecondZero
+Wed May 16 02:01:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:21 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testMinimalPositiveIsFirstTenMoreThanSecondOne
+Wed May 16 02:01:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:21 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testIsFirstZeroBiggerThanOrEqualToSecondTen
+Wed May 16 02:01:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:21 UTC 2018: No link for: org.yes.cart.util.MoneyUtilsTest-testMinimalPositiveIsFirstMinimalFromTenAndNull
+Wed May 16 02:01:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:22 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.util.MoneyUtilsTest
+Wed May 16 02:01:22 UTC 2018: Found element on the queue
+Wed May 16 02:01:22 UTC 2018: Updating status
+Wed May 16 02:01:22 UTC 2018: Working
+Wed May 16 02:01:25 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.util.DomainApiUtilTest
+Wed May 16 02:01:25 UTC 2018: Setting lastTestMethodIndex: 56291
+Wed May 16 02:01:25 UTC 2018: Starting linking
+Wed May 16 02:01:25 UTC 2018: Code found org.yes.cart.util.DomainApiUtil-isObjectAvailableNow with org.yes.cart.util.DomainApiUtilTest-testIsObjectAvailableNow
+Wed May 16 02:01:25 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:25 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.util.DomainApiUtilTest
+Wed May 16 02:01:25 UTC 2018: Found element on the queue
+Wed May 16 02:01:25 UTC 2018: Updating status
+Wed May 16 02:01:25 UTC 2018: Working
+Wed May 16 02:01:28 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.queryobject.impl.NavigationContextImplTest
+Wed May 16 02:01:28 UTC 2018: Setting lastTestMethodIndex: 56293
+Wed May 16 02:01:28 UTC 2018: Starting linking
+Wed May 16 02:01:28 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByParams3
+Wed May 16 02:01:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:28 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByParams1
+Wed May 16 02:01:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:29 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByParams2
+Wed May 16 02:01:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:29 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByCategories5
+Wed May 16 02:01:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:29 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByShopId
+Wed May 16 02:01:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:29 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testEqualsByParams4
+Wed May 16 02:01:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:30 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testEqualsByShopId
+Wed May 16 02:01:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:30 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testEqualsByParams1
+Wed May 16 02:01:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:31 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testEqualsByParams2
+Wed May 16 02:01:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:31 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testEqualsNull
+Wed May 16 02:01:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:31 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testEqualsByParams3
+Wed May 16 02:01:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:31 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByCategories3
+Wed May 16 02:01:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:32 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testEqualsByCategories1
+Wed May 16 02:01:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:32 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByCategories4
+Wed May 16 02:01:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:32 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByCategories1
+Wed May 16 02:01:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:32 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testNotEqualsByCategories2
+Wed May 16 02:01:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:33 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.NavigationContextImpl-equals with org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testEqualsByCategories2
+Wed May 16 02:01:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:33 UTC 2018: No link for: org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testCategoriesCanBeNull
+Wed May 16 02:01:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:33 UTC 2018: No link for: org.yes.cart.domain.queryobject.impl.NavigationContextImplTest-testParametersCannotBeNull
+Wed May 16 02:01:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:34 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.queryobject.impl.NavigationContextImplTest
+Wed May 16 02:01:34 UTC 2018: Found element on the queue
+Wed May 16 02:01:34 UTC 2018: Updating status
+Wed May 16 02:01:34 UTC 2018: Working
+Wed May 16 02:01:37 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.queryobject.impl.FilteredNavigationRecordImplTest
+Wed May 16 02:01:37 UTC 2018: Setting lastTestMethodIndex: 56299
+Wed May 16 02:01:37 UTC 2018: Starting linking
+Wed May 16 02:01:37 UTC 2018: Code found org.yes.cart.domain.queryobject.impl.FilteredNavigationRecordImpl-clone with org.yes.cart.domain.queryobject.impl.FilteredNavigationRecordImplTest-testClone
+Wed May 16 02:01:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:01:37 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.queryobject.impl.FilteredNavigationRecordImplTest
+Wed May 16 02:01:38 UTC 2018: Found element on the queue
+Wed May 16 02:01:38 UTC 2018: Updating status
+Wed May 16 02:01:38 UTC 2018: Working
+Wed May 16 02:01:40 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.i18n.impl.StringI18NModelTest
+Wed May 16 02:01:40 UTC 2018: Setting lastTestMethodIndex: 56302
+Wed May 16 02:01:40 UTC 2018: Starting linking
+Wed May 16 02:01:40 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.StringI18NModelTest-testStringInvalid
+Wed May 16 02:01:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:40 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.StringI18NModelTest-testStringEmpty
+Wed May 16 02:01:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:41 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.StringI18NModelTest-testStringNull
+Wed May 16 02:01:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:41 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.StringI18NModelTest-testStringNoFinalMarker
+Wed May 16 02:01:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:41 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.StringI18NModelTest-testString
+Wed May 16 02:01:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:42 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.i18n.impl.StringI18NModelTest
+Wed May 16 02:01:42 UTC 2018: Found element on the queue
+Wed May 16 02:01:42 UTC 2018: Updating status
+Wed May 16 02:01:42 UTC 2018: Working
+Wed May 16 02:01:45 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.i18n.impl.FailoverStringI18NModelTest
+Wed May 16 02:01:45 UTC 2018: Setting lastTestMethodIndex: 56305
+Wed May 16 02:01:45 UTC 2018: Starting linking
+Wed May 16 02:01:45 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.FailoverStringI18NModelTest-testStringEmpty
+Wed May 16 02:01:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:45 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.FailoverStringI18NModelTest-testStringInvalid
+Wed May 16 02:01:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:45 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.FailoverStringI18NModelTest-testStringNull
+Wed May 16 02:01:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:46 UTC 2018: No link for: org.yes.cart.domain.i18n.impl.FailoverStringI18NModelTest-testString
+Wed May 16 02:01:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:46 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.i18n.impl.FailoverStringI18NModelTest
+Wed May 16 02:01:46 UTC 2018: Found element on the queue
+Wed May 16 02:01:46 UTC 2018: Updating status
+Wed May 16 02:01:47 UTC 2018: Working
+Wed May 16 02:01:47 UTC 2018: Create project parser
+Wed May 16 02:01:50 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.payment.service.impl.CustomerOrderPaymentServiceImplTest
+Wed May 16 02:01:50 UTC 2018: Setting lastTestMethodIndex: 56309
+Wed May 16 02:01:50 UTC 2018: Starting linking
+Wed May 16 02:01:50 UTC 2018: No link for: org.yes.cart.payment.service.impl.CustomerOrderPaymentServiceImplTest-testGetOrderAmount
+Wed May 16 02:01:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:50 UTC 2018: No link for: org.yes.cart.payment.service.impl.CustomerOrderPaymentServiceImplTest-testFindBy
+Wed May 16 02:01:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:50 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.payment.service.impl.CustomerOrderPaymentServiceImplTest
+Wed May 16 02:01:51 UTC 2018: Found element on the queue
+Wed May 16 02:01:51 UTC 2018: Updating status
+Wed May 16 02:01:51 UTC 2018: Working
+Wed May 16 02:01:51 UTC 2018: Create project parser
+Wed May 16 02:01:56 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.SearchPhrazeUtilTest
+Wed May 16 02:01:56 UTC 2018: Setting lastTestMethodIndex: 56313
+Wed May 16 02:01:56 UTC 2018: Starting linking
+Wed May 16 02:01:56 UTC 2018: No link for: org.yes.cart.domain.query.impl.SearchPhrazeUtilTest-testSplit
+Wed May 16 02:01:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:56 UTC 2018: No link for: org.yes.cart.domain.query.impl.SearchPhrazeUtilTest-testSplitEmptyValue
+Wed May 16 02:01:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:56 UTC 2018: No link for: org.yes.cart.domain.query.impl.SearchPhrazeUtilTest-testSplitNullValue
+Wed May 16 02:01:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:01:57 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.SearchPhrazeUtilTest
+Wed May 16 02:01:57 UTC 2018: Found element on the queue
+Wed May 16 02:01:57 UTC 2018: Updating status
+Wed May 16 02:01:57 UTC 2018: Working
+Wed May 16 02:02:00 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest
+Wed May 16 02:02:00 UTC 2018: Setting lastTestMethodIndex: 56315
+Wed May 16 02:02:00 UTC 2018: Starting linking
+Wed May 16 02:02:00 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest-testCreateRelaxedQueryNewArrival
+Wed May 16 02:02:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:00 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest-testCreateStrictQueryTag
+Wed May 16 02:02:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:00 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:00 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest-testCreateRelaxedQueryTag
+Wed May 16 02:02:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:01 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:01 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest-testCreateStrictQueryNewArrival
+Wed May 16 02:02:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:01 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:02 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:02 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductTagSearchQueryBuilderTest
+Wed May 16 02:02:02 UTC 2018: Found element on the queue
+Wed May 16 02:02:02 UTC 2018: Updating status
+Wed May 16 02:02:02 UTC 2018: Working
+Wed May 16 02:02:05 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest
+Wed May 16 02:02:05 UTC 2018: Setting lastTestMethodIndex: 56320
+Wed May 16 02:02:05 UTC 2018: Starting linking
+Wed May 16 02:02:05 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollectionEmpty
+Wed May 16 02:02:06 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:06 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:06 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:06 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollection
+Wed May 16 02:02:06 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:06 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:02:06 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:06 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:02:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:07 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:07 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateStrictQueryMultiCollectionEmpty
+Wed May 16 02:02:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:07 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:08 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateStrictQueryMultiCollection
+Wed May 16 02:02:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:08 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:08 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductSkuIdSearchQueryBuilderTest
+Wed May 16 02:02:09 UTC 2018: Found element on the queue
+Wed May 16 02:02:09 UTC 2018: Updating status
+Wed May 16 02:02:09 UTC 2018: Working
+Wed May 16 02:02:11 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest
+Wed May 16 02:02:11 UTC 2018: Setting lastTestMethodIndex: 56323
+Wed May 16 02:02:11 UTC 2018: Starting linking
+Wed May 16 02:02:11 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollectionEmpty
+Wed May 16 02:02:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:11 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:12 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:02:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:12 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:12 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:02:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:13 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateStrictQueryMultiCollection
+Wed May 16 02:02:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:13 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateStrictQueryMultiCollectionEmpty
+Wed May 16 02:02:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:13 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:13 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:14 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollection
+Wed May 16 02:02:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:14 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductSkuCodeSearchQueryBuilderTest
+Wed May 16 02:02:14 UTC 2018: Found element on the queue
+Wed May 16 02:02:14 UTC 2018: Updating status
+Wed May 16 02:02:14 UTC 2018: Working
+Wed May 16 02:02:17 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest
+Wed May 16 02:02:17 UTC 2018: Setting lastTestMethodIndex: 56326
+Wed May 16 02:02:17 UTC 2018: Starting linking
+Wed May 16 02:02:17 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:17 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:17 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateStrictQueryMultiCollection
+Wed May 16 02:02:17 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:17 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:17 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:17 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollection
+Wed May 16 02:02:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:18 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateStrictQueryMultiCollectionEmpty
+Wed May 16 02:02:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:18 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:02:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:18 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:19 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:19 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollectionEmpty
+Wed May 16 02:02:19 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:19 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:02:19 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:19 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:19 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:19 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductShopSearchQueryBuilderTest
+Wed May 16 02:02:20 UTC 2018: Found element on the queue
+Wed May 16 02:02:20 UTC 2018: Updating status
+Wed May 16 02:02:20 UTC 2018: Working
+Wed May 16 02:02:22 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest
+Wed May 16 02:02:22 UTC 2018: Setting lastTestMethodIndex: 56330
+Wed May 16 02:02:22 UTC 2018: Starting linking
+Wed May 16 02:02:23 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:23 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:02:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:23 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollection
+Wed May 16 02:02:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:23 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateStrictQueryMultiCollectionEmpty
+Wed May 16 02:02:24 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:24 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:24 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:24 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateStrictQueryMultiCollection
+Wed May 16 02:02:24 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:24 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:25 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:25 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:25 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:25 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:02:25 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:25 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollectionEmpty
+Wed May 16 02:02:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:26 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductIdSearchQueryBuilderTest
+Wed May 16 02:02:26 UTC 2018: Found element on the queue
+Wed May 16 02:02:26 UTC 2018: Updating status
+Wed May 16 02:02:26 UTC 2018: Working
+Wed May 16 02:02:29 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest
+Wed May 16 02:02:29 UTC 2018: Setting lastTestMethodIndex: 56334
+Wed May 16 02:02:29 UTC 2018: Starting linking
+Wed May 16 02:02:29 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateStrictQueryMultiCollection
+Wed May 16 02:02:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:29 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateStrictQueryMultiCollectionEmpty
+Wed May 16 02:02:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:29 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:29 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:30 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateRelaxedQueryMultiCollection
+Wed May 16 02:02:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:30 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:02:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:30 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateRelaxedQueryMultiCollectionEmpty
+Wed May 16 02:02:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:31 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:31 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:02:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:31 UTC 2018: Code found org.yes.cart.domain.query.impl.AbstractStrictFieldSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:31 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductCategorySearchQueryBuilderTest
+Wed May 16 02:02:32 UTC 2018: Found element on the queue
+Wed May 16 02:02:32 UTC 2018: Updating status
+Wed May 16 02:02:32 UTC 2018: Working
+Wed May 16 02:02:34 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest
+Wed May 16 02:02:34 UTC 2018: Setting lastTestMethodIndex: 56338
+Wed May 16 02:02:34 UTC 2018: Starting linking
+Wed May 16 02:02:34 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateStrictQueryMultiNone
+Wed May 16 02:02:35 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:35 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateRelaxedQueryMulti
+Wed May 16 02:02:35 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:35 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollectionEmpty
+Wed May 16 02:02:35 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:35 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:35 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:35 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:02:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:36 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateStrictQueryMultiCollection
+Wed May 16 02:02:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:36 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateStrictQueryMulti
+Wed May 16 02:02:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:36 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateRelaxedQueryMultiNone
+Wed May 16 02:02:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:37 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:37 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:37 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateRelaxedQueryMultiCollection
+Wed May 16 02:02:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:37 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:02:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:38 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateStrictQueryMultiCollectionEmpty
+Wed May 16 02:02:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:38 UTC 2018: Code found org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:38 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.ProductBrandSearchQueryBuilderTest
+Wed May 16 02:02:39 UTC 2018: Found element on the queue
+Wed May 16 02:02:39 UTC 2018: Updating status
+Wed May 16 02:02:39 UTC 2018: Working
+Wed May 16 02:02:41 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.PriceSearchQueryBuilderTest
+Wed May 16 02:02:41 UTC 2018: Setting lastTestMethodIndex: 56343
+Wed May 16 02:02:41 UTC 2018: Starting linking
+Wed May 16 02:02:41 UTC 2018: Code found org.yes.cart.domain.query.impl.PriceSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.PriceSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:41 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:41 UTC 2018: Code found org.yes.cart.domain.query.impl.PriceSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.PriceSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:42 UTC 2018: Code found org.yes.cart.domain.query.impl.PriceSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.PriceSearchQueryBuilderTest-testCreateRelaxedQuery
+Wed May 16 02:02:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:42 UTC 2018: Code found org.yes.cart.domain.query.impl.PriceSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.PriceSearchQueryBuilderTest-testCreateStrictQuery
+Wed May 16 02:02:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:42 UTC 2018: Code found org.yes.cart.domain.query.impl.PriceSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.PriceSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:43 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:43 UTC 2018: Code found org.yes.cart.domain.query.impl.PriceSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.PriceSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:43 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:43 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.PriceSearchQueryBuilderTest
+Wed May 16 02:02:43 UTC 2018: Found element on the queue
+Wed May 16 02:02:43 UTC 2018: Updating status
+Wed May 16 02:02:43 UTC 2018: Working
+Wed May 16 02:02:46 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest
+Wed May 16 02:02:46 UTC 2018: Setting lastTestMethodIndex: 56345
+Wed May 16 02:02:46 UTC 2018: Starting linking
+Wed May 16 02:02:46 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:02:46 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:46 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest-testCreateStrictQueryMulti
+Wed May 16 02:02:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:47 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest-testCreateRelaxedQueryMulti
+Wed May 16 02:02:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:47 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:47 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:02:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:48 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:48 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:48 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:48 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.KeywordProductSkuSearchQueryBuilderTest
+Wed May 16 02:02:49 UTC 2018: Found element on the queue
+Wed May 16 02:02:49 UTC 2018: Updating status
+Wed May 16 02:02:49 UTC 2018: Working
+Wed May 16 02:02:52 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest
+Wed May 16 02:02:52 UTC 2018: Setting lastTestMethodIndex: 56348
+Wed May 16 02:02:52 UTC 2018: Starting linking
+Wed May 16 02:02:52 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest-testCreateRelaxedQueryMulti
+Wed May 16 02:02:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:52 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:02:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:52 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest-testCreateStrictQueryMulti
+Wed May 16 02:02:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:52 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:02:53 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:53 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:02:53 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:53 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:02:53 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:53 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:02:54 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:54 UTC 2018: Code found org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:02:54 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:54 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.KeywordProductSearchQueryBuilderTest
+Wed May 16 02:02:54 UTC 2018: Found element on the queue
+Wed May 16 02:02:54 UTC 2018: Updating status
+Wed May 16 02:02:54 UTC 2018: Working
+Wed May 16 02:02:57 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.FeaturedProductSearchQueryBuilderTest
+Wed May 16 02:02:57 UTC 2018: Setting lastTestMethodIndex: 56353
+Wed May 16 02:02:57 UTC 2018: Starting linking
+Wed May 16 02:02:57 UTC 2018: Code found org.yes.cart.domain.query.impl.FeaturedProductSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.FeaturedProductSearchQueryBuilderTest-testCreateStrictQuery
+Wed May 16 02:02:57 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:02:57 UTC 2018: No link for: org.yes.cart.domain.query.impl.FeaturedProductSearchQueryBuilderTest-testCreateRelaxedQuery
+Wed May 16 02:02:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:02:58 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.FeaturedProductSearchQueryBuilderTest
+Wed May 16 02:02:58 UTC 2018: Found element on the queue
+Wed May 16 02:02:58 UTC 2018: Updating status
+Wed May 16 02:02:58 UTC 2018: Working
+Wed May 16 02:03:01 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest
+Wed May 16 02:03:01 UTC 2018: Setting lastTestMethodIndex: 56355
+Wed May 16 02:03:01 UTC 2018: Starting linking
+Wed May 16 02:03:01 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateStrictQueryRangeFrom
+Wed May 16 02:03:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:01 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:03:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:01 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:03:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:02 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateStrictQueryRangeTo
+Wed May 16 02:03:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:02 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateRelaxedQueryRangeTo
+Wed May 16 02:03:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:02 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:03:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:03 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:03:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:03 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:03:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:03 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateRelaxedQueryRangeFrom
+Wed May 16 02:03:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:03 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:03:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:04 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateStrictQueryRange
+Wed May 16 02:03:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:04 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest-testCreateRelaxedQueryRange
+Wed May 16 02:03:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:04 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.AttributeSkuSearchQueryBuilderTest
+Wed May 16 02:03:05 UTC 2018: Found element on the queue
+Wed May 16 02:03:05 UTC 2018: Updating status
+Wed May 16 02:03:05 UTC 2018: Working
+Wed May 16 02:03:07 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest
+Wed May 16 02:03:07 UTC 2018: Setting lastTestMethodIndex: 56361
+Wed May 16 02:03:07 UTC 2018: Starting linking
+Wed May 16 02:03:07 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateRelaxedQueryRangeFrom
+Wed May 16 02:03:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:08 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateRelaxedQueryNull
+Wed May 16 02:03:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:08 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateStrictQueryRange
+Wed May 16 02:03:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:08 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateRelaxedQueryBlank
+Wed May 16 02:03:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:09 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateStrictQueryBlank
+Wed May 16 02:03:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:09 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateStrictQuerySingle
+Wed May 16 02:03:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:09 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateStrictQueryRangeTo
+Wed May 16 02:03:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:09 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateRelaxedQueryRange
+Wed May 16 02:03:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:10 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateRelaxedQueryRangeTo
+Wed May 16 02:03:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:10 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateStrictQueryRangeFrom
+Wed May 16 02:03:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:10 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createStrictQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateStrictQueryNull
+Wed May 16 02:03:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:11 UTC 2018: Code found org.yes.cart.domain.query.impl.AttributeSearchQueryBuilder-createRelaxedQuery with org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest-testCreateRelaxedQuerySingle
+Wed May 16 02:03:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:11 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.AttributeSearchQueryBuilderTest
+Wed May 16 02:03:12 UTC 2018: Found element on the queue
+Wed May 16 02:03:12 UTC 2018: Updating status
+Wed May 16 02:03:12 UTC 2018: Working
+Wed May 16 02:03:14 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.AsIsAnalyzerImplTest
+Wed May 16 02:03:14 UTC 2018: Setting lastTestMethodIndex: 56366
+Wed May 16 02:03:14 UTC 2018: Starting linking
+Wed May 16 02:03:14 UTC 2018: No link for: org.yes.cart.domain.query.impl.AsIsAnalyzerImplTest-testThatQueryIsNotTransformedByAnalyzerWithMultipleFieldsQueryParser
+Wed May 16 02:03:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:14 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.query.impl.AsIsAnalyzerImplTest
+Wed May 16 02:03:15 UTC 2018: Found element on the queue
+Wed May 16 02:03:15 UTC 2018: Updating status
+Wed May 16 02:03:15 UTC 2018: Working
+Wed May 16 02:03:17 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.xml.ProductTypeRangeListXStreamProviderTest
+Wed May 16 02:03:17 UTC 2018: Setting lastTestMethodIndex: 56368
+Wed May 16 02:03:17 UTC 2018: Starting linking
+Wed May 16 02:03:17 UTC 2018: No link for: org.yes.cart.domain.entity.xml.ProductTypeRangeListXStreamProviderTest-testProvide
+Wed May 16 02:03:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:18 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.xml.ProductTypeRangeListXStreamProviderTest
+Wed May 16 02:03:18 UTC 2018: Found element on the queue
+Wed May 16 02:03:18 UTC 2018: Updating status
+Wed May 16 02:03:18 UTC 2018: Working
+Wed May 16 02:03:21 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.xml.CategoryPriceNavigationXStreamProviderTest
+Wed May 16 02:03:21 UTC 2018: Setting lastTestMethodIndex: 56370
+Wed May 16 02:03:21 UTC 2018: Starting linking
+Wed May 16 02:03:21 UTC 2018: No link for: org.yes.cart.domain.entity.xml.CategoryPriceNavigationXStreamProviderTest-testProvide
+Wed May 16 02:03:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:21 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.xml.CategoryPriceNavigationXStreamProviderTest
+Wed May 16 02:03:21 UTC 2018: Found element on the queue
+Wed May 16 02:03:21 UTC 2018: Updating status
+Wed May 16 02:03:21 UTC 2018: Working
+Wed May 16 02:03:24 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.impl.SkuPriceEntityTest
+Wed May 16 02:03:24 UTC 2018: Setting lastTestMethodIndex: 56373
+Wed May 16 02:03:24 UTC 2018: Starting linking
+Wed May 16 02:03:24 UTC 2018: Code found org.yes.cart.domain.entity.impl.SkuPriceEntity-getSalePriceForCalculation with org.yes.cart.domain.entity.impl.SkuPriceEntityTest-testGetSalePriceForCalculation
+Wed May 16 02:03:24 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:24 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.impl.SkuPriceEntityTest
+Wed May 16 02:03:25 UTC 2018: Found element on the queue
+Wed May 16 02:03:25 UTC 2018: Updating status
+Wed May 16 02:03:25 UTC 2018: Working
+Wed May 16 02:03:27 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest
+Wed May 16 02:03:27 UTC 2018: Setting lastTestMethodIndex: 56376
+Wed May 16 02:03:27 UTC 2018: Starting linking
+Wed May 16 02:03:27 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith1ItemWithMin
+Wed May 16 02:03:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:28 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith3ItemsWithMinMax
+Wed May 16 02:03:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:28 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith1ItemWithMinMaxStepDecimal
+Wed May 16 02:03:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:28 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartEmptyWithMinMaxStepDecimal
+Wed May 16 02:03:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:29 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith1ItemWithMinMaxStepInt
+Wed May 16 02:03:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:29 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith3ItemsWithMin
+Wed May 16 02:03:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:29 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith3Items
+Wed May 16 02:03:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:29 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartEmptyWithMin
+Wed May 16 02:03:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:30 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartEmpty
+Wed May 16 02:03:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:30 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith3ItemsWithMinMaxStepInt
+Wed May 16 02:03:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:30 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartEmptyWithMinMax
+Wed May 16 02:03:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:31 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith1ItemWithMinMax
+Wed May 16 02:03:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:31 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith3ItemsWithMinMaxStepDecimal
+Wed May 16 02:03:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:31 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartEmptyWithMinMaxStepInt
+Wed May 16 02:03:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:31 UTC 2018: No link for: org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest-testDefaultCartWith1Item
+Wed May 16 02:03:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:32 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.impl.ProductQuantityModelImplTest
+Wed May 16 02:03:32 UTC 2018: Found element on the queue
+Wed May 16 02:03:32 UTC 2018: Updating status
+Wed May 16 02:03:32 UTC 2018: Working
+Wed May 16 02:03:35 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.impl.ProductEntityTest
+Wed May 16 02:03:35 UTC 2018: Setting lastTestMethodIndex: 56381
+Wed May 16 02:03:35 UTC 2018: Starting linking
+Wed May 16 02:03:35 UTC 2018: Code found org.yes.cart.domain.entity.impl.ProductEntity-getLocale with org.yes.cart.domain.entity.impl.ProductEntityTest-testGetLocale
+Wed May 16 02:03:35 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:35 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.impl.ProductEntityTest
+Wed May 16 02:03:35 UTC 2018: Found element on the queue
+Wed May 16 02:03:35 UTC 2018: Updating status
+Wed May 16 02:03:36 UTC 2018: Working
+Wed May 16 02:03:38 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.bridge.RangeListImplTest
+Wed May 16 02:03:38 UTC 2018: Setting lastTestMethodIndex: 56384
+Wed May 16 02:03:38 UTC 2018: Starting linking
+Wed May 16 02:03:38 UTC 2018: No link for: org.yes.cart.domain.entity.bridge.RangeListImplTest-testXmlSerialization
+Wed May 16 02:03:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:38 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.bridge.RangeListImplTest
+Wed May 16 02:03:39 UTC 2018: Found element on the queue
+Wed May 16 02:03:39 UTC 2018: Updating status
+Wed May 16 02:03:39 UTC 2018: Working
+Wed May 16 02:03:41 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.bridge.PriceTierTreeTest
+Wed May 16 02:03:41 UTC 2018: Setting lastTestMethodIndex: 56386
+Wed May 16 02:03:41 UTC 2018: Starting linking
+Wed May 16 02:03:41 UTC 2018: No link for: org.yes.cart.domain.entity.bridge.PriceTierTreeTest-testXmlSerialization
+Wed May 16 02:03:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:41 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.bridge.PriceTierTreeTest
+Wed May 16 02:03:42 UTC 2018: Found element on the queue
+Wed May 16 02:03:42 UTC 2018: Updating status
+Wed May 16 02:03:42 UTC 2018: Working
+Wed May 16 02:03:44 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.bridge.BigDecimalBridgeTest
+Wed May 16 02:03:44 UTC 2018: Setting lastTestMethodIndex: 56389
+Wed May 16 02:03:44 UTC 2018: Starting linking
+Wed May 16 02:03:44 UTC 2018: Code found org.yes.cart.domain.entity.bridge.BigDecimalBridge-objectToString with org.yes.cart.domain.entity.bridge.BigDecimalBridgeTest-testObjectToString
+Wed May 16 02:03:45 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:03:45 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.domain.entity.bridge.BigDecimalBridgeTest
+Wed May 16 02:03:45 UTC 2018: Found element on the queue
+Wed May 16 02:03:45 UTC 2018: Updating status
+Wed May 16 02:03:45 UTC 2018: Working
+Wed May 16 02:03:48 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.ProductDAOTest
+Wed May 16 02:03:48 UTC 2018: Setting lastTestMethodIndex: 56392
+Wed May 16 02:03:48 UTC 2018: Starting linking
+Wed May 16 02:03:48 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testGetUniqueBrandsByCategoriesTest
+Wed May 16 02:03:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:48 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testCreateNewProductNoSkuNoCategory
+Wed May 16 02:03:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:48 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testCreateNewProductWithBackorderAvailabilityOutOfStock
+Wed May 16 02:03:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:49 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testCreateNewProductWithAlwaysAvailabilityOutOfStock
+Wed May 16 02:03:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:49 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testGetUniqueAttribValues
+Wed May 16 02:03:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:49 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testCreateNewProductWithSkuAndCategoryAndStandardAvailability
+Wed May 16 02:03:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:50 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testGetRankedUniqueCodeAttribValues
+Wed May 16 02:03:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:50 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testCreateNewProductWithStandardAvailabilityAndThenMakeItOutOfStock
+Wed May 16 02:03:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:50 UTC 2018: No link for: org.yes.cart.dao.impl.ProductDAOTest-testCreateNewProductWithPreorderAvailabilityOutOfStock
+Wed May 16 02:03:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:51 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.ProductDAOTest
+Wed May 16 02:03:51 UTC 2018: Found element on the queue
+Wed May 16 02:03:51 UTC 2018: Updating status
+Wed May 16 02:03:51 UTC 2018: Working
+Wed May 16 02:03:54 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.GenericDAOTest
+Wed May 16 02:03:54 UTC 2018: Setting lastTestMethodIndex: 56396
+Wed May 16 02:03:54 UTC 2018: Starting linking
+Wed May 16 02:03:54 UTC 2018: No link for: org.yes.cart.dao.impl.GenericDAOTest-testDeleteWithNativeQuery
+Wed May 16 02:03:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:54 UTC 2018: No link for: org.yes.cart.dao.impl.GenericDAOTest-testUpdateWithNativeQuery
+Wed May 16 02:03:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:54 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.GenericDAOTest
+Wed May 16 02:03:55 UTC 2018: Found element on the queue
+Wed May 16 02:03:55 UTC 2018: Updating status
+Wed May 16 02:03:55 UTC 2018: Working
+Wed May 16 02:03:57 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.EntityFactoryImplTest
+Wed May 16 02:03:57 UTC 2018: Setting lastTestMethodIndex: 56399
+Wed May 16 02:03:57 UTC 2018: Starting linking
+Wed May 16 02:03:57 UTC 2018: No link for: org.yes.cart.dao.impl.EntityFactoryImplTest-testGet
+Wed May 16 02:03:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:03:58 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.EntityFactoryImplTest
+Wed May 16 02:03:58 UTC 2018: Found element on the queue
+Wed May 16 02:03:58 UTC 2018: Updating status
+Wed May 16 02:03:58 UTC 2018: Working
+Wed May 16 02:04:01 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.CategoryDAOTest
+Wed May 16 02:04:01 UTC 2018: Setting lastTestMethodIndex: 56402
+Wed May 16 02:04:01 UTC 2018: Starting linking
+Wed May 16 02:04:01 UTC 2018: No link for: org.yes.cart.dao.impl.CategoryDAOTest-resovleCategoriesbyShop
+Wed May 16 02:04:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:04:01 UTC 2018: No link for: org.yes.cart.dao.impl.CategoryDAOTest-availableCriteriaTest
+Wed May 16 02:04:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:04:01 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.CategoryDAOTest
+Wed May 16 02:04:02 UTC 2018: Found element on the queue
+Wed May 16 02:04:02 UTC 2018: Updating status
+Wed May 16 02:04:02 UTC 2018: Working
+Wed May 16 02:04:04 UTC 2018: Start kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.BrandDAOTest
+Wed May 16 02:04:04 UTC 2018: Setting lastTestMethodIndex: 56405
+Wed May 16 02:04:04 UTC 2018: Starting linking
+Wed May 16 02:04:04 UTC 2018: No link for: org.yes.cart.dao.impl.BrandDAOTest-testAddEmptyBrand
+Wed May 16 02:04:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:04:05 UTC 2018: No link for: org.yes.cart.dao.impl.BrandDAOTest-testAddBrandWithAttributeValues
+Wed May 16 02:04:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:04:05 UTC 2018: Linking done for kesarinandanparashar__yes-car test class org.yes.cart.dao.impl.BrandDAOTest

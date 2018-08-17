@@ -1,0 +1,59 @@
+Wed May 16 06:51:47 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:51:47 UTC 2018: Starting
+Wed May 16 06:51:47 UTC 2018: Found element on the queue
+Wed May 16 06:51:47 UTC 2018: Updating status
+Wed May 16 06:51:47 UTC 2018: Working
+Wed May 16 06:51:47 UTC 2018: Create project parser
+Wed May 16 06:51:53 UTC 2018: Create slicer
+Wed May 16 06:51:55 UTC 2018: Create call graph
+Wed May 16 06:51:55 UTC 2018: Create point analysis
+Wed May 16 06:51:55 UTC 2018: Create call graph done
+Wed May 16 06:51:55 UTC 2018: Start msulej__blog-service test class com.msulej.blog.utils.PaginationTest
+Wed May 16 06:51:55 UTC 2018: Setting lastTestMethodIndex: 65742
+Wed May 16 06:51:55 UTC 2018: Starting linking
+Wed May 16 06:51:55 UTC 2018: Code found com.msulej.blog.utils.Pagination-getStart with com.msulej.blog.utils.PaginationTest-getStart_WithoutCurrentPageSet_ReturnsZero
+Wed May 16 06:51:56 UTC 2018: Code found com.msulej.blog.utils.Pagination-assignToRequest with com.msulej.blog.utils.PaginationTest-assignToRequest_FillsWithProperValues_WithCurrentPageSet
+Wed May 16 06:51:56 UTC 2018: Code found com.msulej.blog.utils.Pagination-assignToRequest with com.msulej.blog.utils.PaginationTest-assignToRequest_FillsWithProperValues_WithoutCurrentPageSet
+Wed May 16 06:51:57 UTC 2018: Code found com.msulej.blog.utils.Pagination-getStart with com.msulej.blog.utils.PaginationTest-getStart_WithCurrentPageSet_ReturnsCorrectStartIndex
+Wed May 16 06:51:57 UTC 2018: Linking done for msulej__blog-service test class com.msulej.blog.utils.PaginationTest
+Wed May 16 06:51:58 UTC 2018: Found element on the queue
+Wed May 16 06:51:58 UTC 2018: Updating status
+Wed May 16 06:51:58 UTC 2018: Working
+Wed May 16 06:52:00 UTC 2018: Start msulej__blog-service test class com.msulej.blog.services.ContentServiceTest
+Wed May 16 06:52:00 UTC 2018: Setting lastTestMethodIndex: 65744
+Wed May 16 06:52:00 UTC 2018: Starting linking
+Wed May 16 06:52:00 UTC 2018: Code found com.msulej.blog.services.ContentService-addNewPost with com.msulej.blog.services.ContentServiceTest-addNewPost_WithCorrectData_AddsPostToRepository
+Wed May 16 06:52:00 UTC 2018: Code found com.msulej.blog.services.ContentService-findPostById with com.msulej.blog.services.ContentServiceTest-findPostById_ForNotExistingPost_ThrowsNotFoundException
+Wed May 16 06:52:01 UTC 2018: Code found com.msulej.blog.services.ContentService-findCommentsForPost with com.msulej.blog.services.ContentServiceTest-findCommentsForPost_ForPostWithComments_ReturnsThem
+Wed May 16 06:52:01 UTC 2018: Code found com.msulej.blog.services.ContentService-searchPosts with com.msulej.blog.services.ContentServiceTest-searchPosts_ForNotExistingSequence_ReturnsEmptyMap
+Wed May 16 06:52:02 UTC 2018: Code found com.msulej.blog.services.ContentService-updatePost with com.msulej.blog.services.ContentServiceTest-updatePost_WithTooLongTitle_ThrowsValidationException
+Wed May 16 06:52:02 UTC 2018: Code found com.msulej.blog.services.ContentService-updatePost with com.msulej.blog.services.ContentServiceTest-updatePost_WithTitleAlreadyExisting_ThrowsValidationException
+Wed May 16 06:52:03 UTC 2018: Code found com.msulej.blog.services.ContentService-updatePost with com.msulej.blog.services.ContentServiceTest-updatePost_WithCorrectData_UpdatesPostInRepository
+Wed May 16 06:52:03 UTC 2018: Code found com.msulej.blog.services.ContentService-updatePost with com.msulej.blog.services.ContentServiceTest-updatePost_WithTooLongContent_ThrowsValidationException
+Wed May 16 06:52:04 UTC 2018: Code found com.msulej.blog.services.ContentService-addNewPost with com.msulej.blog.services.ContentServiceTest-addNewPost_WithTooLongContent_ThrowsValidationException
+Wed May 16 06:52:04 UTC 2018: Code found com.msulej.blog.services.ContentService-addNewPost with com.msulej.blog.services.ContentServiceTest-addNewPost_WithTooShortTitle_ThrowsValidationException
+Wed May 16 06:52:04 UTC 2018: Code found com.msulej.blog.services.ContentService-isAuthorOfComment with com.msulej.blog.services.ContentServiceTest-isAuthorOfComment_WithIncorrectIds_ReturnsFalse
+Wed May 16 06:52:05 UTC 2018: Code found com.msulej.blog.services.ContentService-getPosts with com.msulej.blog.services.ContentServiceTest-getPosts_WithExistingPostsInRepository_ReturnsThem
+Wed May 16 06:52:05 UTC 2018: Code found com.msulej.blog.services.ContentService-getPosts with com.msulej.blog.services.ContentServiceTest-getPostsInRange_fromLeftSide_ReturnsThem
+Wed May 16 06:52:06 UTC 2018: Code found com.msulej.blog.services.ContentService-getPosts with com.msulej.blog.services.ContentServiceTest-getPostsInRange_fromRightSide_ReturnsThem
+Wed May 16 06:52:06 UTC 2018: Code found com.msulej.blog.services.ContentService-addNewPost with com.msulej.blog.services.ContentServiceTest-addNewPost_WithTooLongTitle_ThrowsValidationException
+Wed May 16 06:52:07 UTC 2018: Code found com.msulej.blog.services.ContentService-updatePost with com.msulej.blog.services.ContentServiceTest-updatePost_WithTooShortTitle_ThrowsValidationException
+Wed May 16 06:52:07 UTC 2018: Code found com.msulej.blog.services.ContentService-getPosts with com.msulej.blog.services.ContentServiceTest-getPostsInRange_fromCenter_ReturnsThem
+Wed May 16 06:52:08 UTC 2018: Code found com.msulej.blog.services.ContentService-addCommentToPost with com.msulej.blog.services.ContentServiceTest-addCommentToPost_ForNotExistingPost_ThrowsNotFoundException
+Wed May 16 06:52:08 UTC 2018: Code found com.msulej.blog.services.ContentService-addCommentToPost with com.msulej.blog.services.ContentServiceTest-addCommentToPost_WithValidComment_AddsCommentToRepository
+Wed May 16 06:52:08 UTC 2018: Code found com.msulej.blog.services.ContentService-updatePost with com.msulej.blog.services.ContentServiceTest-updatePost_WithTooShortContent_ThrowsValidationException
+Wed May 16 06:52:09 UTC 2018: Code found com.msulej.blog.services.ContentService-deletePost with com.msulej.blog.services.ContentServiceTest-deletePost_WithInvalidId_ThrowsNotFoundException
+Wed May 16 06:52:09 UTC 2018: Code found com.msulej.blog.services.ContentService-deletePost with com.msulej.blog.services.ContentServiceTest-deletePost_WithCorrectId_DeletesFromRepository
+Wed May 16 06:52:10 UTC 2018: Code found com.msulej.blog.services.ContentService-getTotalPosts with com.msulej.blog.services.ContentServiceTest-getTotalPosts_ReturnsCorrectAmount
+Wed May 16 06:52:10 UTC 2018: Code found com.msulej.blog.services.ContentService-searchPosts with com.msulej.blog.services.ContentServiceTest-searchPosts_ForExistingSequence_ReturnsMapOfPostsWithCorrectOccurrencesNumber
+Wed May 16 06:52:11 UTC 2018: Code found com.msulej.blog.services.ContentService-getPosts with com.msulej.blog.services.ContentServiceTest-getPosts_WithoutAnyPostsInRepository_ReturnsEmptyList
+Wed May 16 06:52:11 UTC 2018: Code found com.msulej.blog.services.ContentService-addNewPost with com.msulej.blog.services.ContentServiceTest-addNewPost_WithTooShortContent_ThrowsValidationException
+Wed May 16 06:52:12 UTC 2018: Code found com.msulej.blog.services.ContentService-findPostByTitle with com.msulej.blog.services.ContentServiceTest-findPostByTitle_ForExistingPost_ReturnsIt
+Wed May 16 06:52:12 UTC 2018: Code found com.msulej.blog.services.ContentService-addNewPost with com.msulej.blog.services.ContentServiceTest-addNewPost_WithTitleAlreadyExisting_ThrowsValidationException
+Wed May 16 06:52:12 UTC 2018: Code found com.msulej.blog.services.ContentService-addCommentToPost with com.msulej.blog.services.ContentServiceTest-addCommentToPost_WithTooShortContent_ThrowsValidationException
+Wed May 16 06:52:13 UTC 2018: Code found com.msulej.blog.services.ContentService-isAuthorOfComment with com.msulej.blog.services.ContentServiceTest-isAuthorOfComment_WithCorrectIds_ReturnsTrue
+Wed May 16 06:52:13 UTC 2018: Code found com.msulej.blog.services.ContentService-findPostById with com.msulej.blog.services.ContentServiceTest-findPostById_ForExistingPost_ReturnsIt
+Wed May 16 06:52:14 UTC 2018: No link for: com.msulej.blog.services.ContentServiceTest-findPostsForAuthor_ForUsersWithPosts_ReturnsThem
+Wed May 16 06:52:14 UTC 2018: No link for: com.msulej.blog.services.ContentServiceTest-findPostByTitle_ForNotExistingPost_ThrowsNotFoundException
+Wed May 16 06:52:15 UTC 2018: No link for: com.msulej.blog.services.ContentServiceTest-findPostsForAuthor_ForUserWithoutAnyPosts_ReturnsEmptyList
+Wed May 16 06:52:15 UTC 2018: Linking done for msulej__blog-service test class com.msulej.blog.services.ContentServiceTest

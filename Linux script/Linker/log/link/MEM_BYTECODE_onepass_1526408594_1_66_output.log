@@ -1,0 +1,413 @@
+Wed May 16 03:41:04 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 03:41:04 UTC 2018: Starting
+Wed May 16 03:41:04 UTC 2018: Found element on the queue
+Wed May 16 03:41:04 UTC 2018: Updating status
+Wed May 16 03:41:04 UTC 2018: Working
+Wed May 16 03:41:04 UTC 2018: Create project parser
+Wed May 16 03:41:11 UTC 2018: Create slicer
+Wed May 16 03:41:12 UTC 2018: Create call graph
+Wed May 16 03:41:15 UTC 2018: Create point analysis
+Wed May 16 03:41:15 UTC 2018: Create call graph done
+Wed May 16 03:41:15 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.mr.GenericETLDriverTest
+Wed May 16 03:41:15 UTC 2018: Setting lastTestMethodIndex: 59905
+Wed May 16 03:41:15 UTC 2018: Starting linking
+Wed May 16 03:41:15 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.mr.GenericETLDriver-run with com.rackspace.volga.etl.mapreduce.mr.GenericETLDriverTest-whenRunningGenericDriverWithNoClass
+Wed May 16 03:41:16 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.mr.GenericETLDriver-run with com.rackspace.volga.etl.mapreduce.mr.GenericETLDriverTest-whenRunningGenericDriver
+Wed May 16 03:41:16 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.mr.GenericETLDriver-main with com.rackspace.volga.etl.mapreduce.mr.GenericETLDriverTest-testMainMethod
+Wed May 16 03:41:16 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.mr.GenericETLDriver-run with com.rackspace.volga.etl.mapreduce.mr.GenericETLDriverTest-whenRunningGenericDriverWithReducerClass
+Wed May 16 03:41:17 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.mr.GenericETLDriverTest
+Wed May 16 03:41:17 UTC 2018: Found element on the queue
+Wed May 16 03:41:17 UTC 2018: Updating status
+Wed May 16 03:41:17 UTC 2018: Working
+Wed May 16 03:41:20 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.mr.GenericETLMapReduceTest
+Wed May 16 03:41:20 UTC 2018: Setting lastTestMethodIndex: 59908
+Wed May 16 03:41:20 UTC 2018: Starting linking
+Wed May 16 03:41:20 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.mr.GenericETLMapReduceTest-testReducerWithNotification
+Wed May 16 03:41:20 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.mr.GenericETLMapReduceTest-testMapperWithConfigurations
+Wed May 16 03:41:20 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.mr.GenericETLMapReduceTest-testMapperWithBadJson
+Wed May 16 03:41:21 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.mr.GenericETLMapReduceTest-testMapperWithMetrics
+Wed May 16 03:41:21 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.mr.GenericETLMapReduceTest-testMapperWithNotifications
+Wed May 16 03:41:21 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.mr.GenericETLMapReduceTest
+Wed May 16 03:41:22 UTC 2018: Found element on the queue
+Wed May 16 03:41:22 UTC 2018: Updating status
+Wed May 16 03:41:22 UTC 2018: Working
+Wed May 16 03:41:24 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputConfigTest
+Wed May 16 03:41:25 UTC 2018: Setting lastTestMethodIndex: 59911
+Wed May 16 03:41:25 UTC 2018: Starting linking
+Wed May 16 03:41:25 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputConfigTest-whenConfiguring
+Wed May 16 03:41:25 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputConfigTest
+Wed May 16 03:41:25 UTC 2018: Found element on the queue
+Wed May 16 03:41:25 UTC 2018: Updating status
+Wed May 16 03:41:25 UTC 2018: Working
+Wed May 16 03:41:28 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.input.TextInputConfigTest
+Wed May 16 03:41:28 UTC 2018: Setting lastTestMethodIndex: 59914
+Wed May 16 03:41:28 UTC 2018: Starting linking
+Wed May 16 03:41:28 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.TextInputConfigTest-whenDoingSimpleConfig
+Wed May 16 03:41:28 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.TextInputConfigTest-whenGettingName
+Wed May 16 03:41:29 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.TextInputConfigTest-whenDoingConfigWithSelector
+Wed May 16 03:41:29 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.TextInputConfigTest-whenDoingConfigWithInputFilePath
+Wed May 16 03:41:29 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.TextInputConfigTest-whenDoingMixedConfig
+Wed May 16 03:41:30 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.TextInputConfigTest-whenDoingConfigWithPattern
+Wed May 16 03:41:30 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.input.TextInputConfigTest
+Wed May 16 03:41:30 UTC 2018: Found element on the queue
+Wed May 16 03:41:30 UTC 2018: Updating status
+Wed May 16 03:41:30 UTC 2018: Working
+Wed May 16 03:41:33 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.input.RegexPathFilterTest
+Wed May 16 03:41:33 UTC 2018: Setting lastTestMethodIndex: 59917
+Wed May 16 03:41:33 UTC 2018: Starting linking
+Wed May 16 03:41:33 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.RegexPathFilterTest-whenFilteringDirectory
+Wed May 16 03:41:33 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.RegexPathFilterTest-whenExceptionIsThrown
+Wed May 16 03:41:33 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.RegexPathFilterTest-whenTestingConfigurable
+Wed May 16 03:41:34 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.RegexPathFilterTest-whenFilteringFileWithNoInputPatternPresent
+Wed May 16 03:41:34 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.RegexPathFilterTest-whenFilteringFileMatching
+Wed May 16 03:41:34 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.input.RegexPathFilterTest
+Wed May 16 03:41:35 UTC 2018: Found element on the queue
+Wed May 16 03:41:35 UTC 2018: Updating status
+Wed May 16 03:41:35 UTC 2018: Working
+Wed May 16 03:41:38 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest
+Wed May 16 03:41:38 UTC 2018: Setting lastTestMethodIndex: 59919
+Wed May 16 03:41:38 UTC 2018: Starting linking
+Wed May 16 03:41:38 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest-whenGettingCurrentKey
+Wed May 16 03:41:38 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest-whenParsingJson
+Wed May 16 03:41:38 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest-whenCreatingRecordReader
+Wed May 16 03:41:39 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest-shouldNotBeSplittable
+Wed May 16 03:41:39 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest-whenGettingCurrentValue
+Wed May 16 03:41:39 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest-whenGettingProgress
+Wed May 16 03:41:39 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest-shouldBeSplittable
+Wed May 16 03:41:40 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.input.SingleLineJsonInputFormatTest
+Wed May 16 03:41:40 UTC 2018: Found element on the queue
+Wed May 16 03:41:40 UTC 2018: Updating status
+Wed May 16 03:41:40 UTC 2018: Working
+Wed May 16 03:41:43 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputConfigTest
+Wed May 16 03:41:43 UTC 2018: Setting lastTestMethodIndex: 59922
+Wed May 16 03:41:43 UTC 2018: Starting linking
+Wed May 16 03:41:43 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputConfigTest-whenGettingName
+Wed May 16 03:41:43 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputConfigTest-whenUsingNoOutputPath
+Wed May 16 03:41:43 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputConfigTest-whenConfiguring
+Wed May 16 03:41:44 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputConfigTest
+Wed May 16 03:41:44 UTC 2018: Found element on the queue
+Wed May 16 03:41:44 UTC 2018: Updating status
+Wed May 16 03:41:44 UTC 2018: Working
+Wed May 16 03:41:47 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.output.TextOutputConfigTest
+Wed May 16 03:41:47 UTC 2018: Setting lastTestMethodIndex: 59924
+Wed May 16 03:41:47 UTC 2018: Starting linking
+Wed May 16 03:41:47 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.TextOutputConfigTest-whenGettingFormatClass
+Wed May 16 03:41:47 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.TextOutputConfigTest-whenGettingName
+Wed May 16 03:41:48 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.TextOutputConfigTest-whenConfiguringWithBlankPath
+Wed May 16 03:41:48 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.output.TextOutputConfigTest
+Wed May 16 03:41:48 UTC 2018: Found element on the queue
+Wed May 16 03:41:48 UTC 2018: Updating status
+Wed May 16 03:41:48 UTC 2018: Working
+Wed May 16 03:41:51 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputFormatTest
+Wed May 16 03:41:51 UTC 2018: Setting lastTestMethodIndex: 59926
+Wed May 16 03:41:51 UTC 2018: Starting linking
+Wed May 16 03:41:51 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputFormat$CSVRecordWriter-write with com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputFormatTest-whenGettingRecordWriterCompressed
+Wed May 16 03:41:51 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputFormatTest-whenWriting
+Wed May 16 03:41:52 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputFormatTest-whenWritingWithSeparator
+Wed May 16 03:41:52 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputFormatTest-whenGettingRecordWriterUncompressed
+Wed May 16 03:41:52 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputFormatTest-whenWritingCompressed
+Wed May 16 03:41:52 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.output.CSVOutputFormatTest
+Wed May 16 03:41:53 UTC 2018: Found element on the queue
+Wed May 16 03:41:53 UTC 2018: Updating status
+Wed May 16 03:41:53 UTC 2018: Working
+Wed May 16 03:41:55 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.io.IOTest
+Wed May 16 03:41:55 UTC 2018: Setting lastTestMethodIndex: 59928
+Wed May 16 03:41:55 UTC 2018: Starting linking
+Wed May 16 03:41:55 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.io.IOTest-whenSettingUnknownInput
+Wed May 16 03:41:56 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.io.IOTest-whenSettingIO
+Wed May 16 03:41:56 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.io.IOTest-whenSettingUnknownOutput
+Wed May 16 03:41:56 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.io.IOTest
+Wed May 16 03:41:57 UTC 2018: Found element on the queue
+Wed May 16 03:41:57 UTC 2018: Updating status
+Wed May 16 03:41:57 UTC 2018: Working
+Wed May 16 03:42:00 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.selectors.DescendingDateSelectorTest
+Wed May 16 03:42:00 UTC 2018: Setting lastTestMethodIndex: 59931
+Wed May 16 03:42:00 UTC 2018: Starting linking
+Wed May 16 03:42:00 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.lib.selectors.DescendingDateSelector-select with com.rackspace.volga.etl.mapreduce.lib.selectors.DescendingDateSelectorTest-whenSelecting
+Wed May 16 03:42:00 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.lib.selectors.DescendingDateSelector-select with com.rackspace.volga.etl.mapreduce.lib.selectors.DescendingDateSelectorTest-whenSelectingWithoutAdirectory
+Wed May 16 03:42:00 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.selectors.DescendingDateSelectorTest
+Wed May 16 03:42:01 UTC 2018: Found element on the queue
+Wed May 16 03:42:01 UTC 2018: Updating status
+Wed May 16 03:42:01 UTC 2018: Working
+Wed May 16 03:42:03 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.selectors.SelectorsTest
+Wed May 16 03:42:03 UTC 2018: Setting lastTestMethodIndex: 59934
+Wed May 16 03:42:03 UTC 2018: Starting linking
+Wed May 16 03:42:03 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.lib.selectors.Selectors-get with com.rackspace.volga.etl.mapreduce.lib.selectors.SelectorsTest-whenGettingUnknownSelector
+Wed May 16 03:42:04 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.lib.selectors.Selectors-get with com.rackspace.volga.etl.mapreduce.lib.selectors.SelectorsTest-whenGettingSelector
+Wed May 16 03:42:04 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.lib.selectors.SelectorsTest-testConstructorPrivate
+Wed May 16 03:42:04 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.lib.selectors.SelectorsTest
+Wed May 16 03:42:05 UTC 2018: Found element on the queue
+Wed May 16 03:42:05 UTC 2018: Updating status
+Wed May 16 03:42:05 UTC 2018: Working
+Wed May 16 03:42:07 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.args.CommandLineBuilderTest
+Wed May 16 03:42:07 UTC 2018: Setting lastTestMethodIndex: 59937
+Wed May 16 03:42:07 UTC 2018: Starting linking
+Wed May 16 03:42:07 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.args.CommandLineBuilder-build with com.rackspace.volga.etl.mapreduce.args.CommandLineBuilderTest-whenBuildingWithOptionsEmptyArgs
+Wed May 16 03:42:08 UTC 2018: Code found com.rackspace.volga.etl.mapreduce.args.CommandLineBuilder-build with com.rackspace.volga.etl.mapreduce.args.CommandLineBuilderTest-whenBuildingWithOptions
+Wed May 16 03:42:08 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.args.CommandLineBuilderTest-checkErrorMessageIsPrinted
+Wed May 16 03:42:08 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.args.CommandLineBuilderTest-whenBuildindCommonOptionsNoExtras
+Wed May 16 03:42:09 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.args.CommandLineBuilderTest-whenBuildindCommonOptionsExtras
+Wed May 16 03:42:09 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.args.CommandLineBuilderTest
+Wed May 16 03:42:10 UTC 2018: Found element on the queue
+Wed May 16 03:42:10 UTC 2018: Updating status
+Wed May 16 03:42:10 UTC 2018: Working
+Wed May 16 03:42:12 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.etl.transform.hive.HiveJSONMultiOutputsJSONTransformerTest
+Wed May 16 03:42:12 UTC 2018: Setting lastTestMethodIndex: 59941
+Wed May 16 03:42:12 UTC 2018: Starting linking
+Wed May 16 03:42:12 UTC 2018: No link for: com.rackspace.volga.etl.mapreduce.etl.transform.hive.HiveJSONMultiOutputsJSONTransformerTest-testNotificationOutput
+Wed May 16 03:42:12 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.mapreduce.etl.transform.hive.HiveJSONMultiOutputsJSONTransformerTest
+Wed May 16 03:42:13 UTC 2018: Found element on the queue
+Wed May 16 03:42:13 UTC 2018: Updating status
+Wed May 16 03:42:13 UTC 2018: Working
+Wed May 16 03:42:15 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.mapreduce.NewRelicJSONDriverTest
+Wed May 16 03:42:15 UTC 2018: Setting lastTestMethodIndex: 59942
+Wed May 16 03:42:15 UTC 2018: Starting linking
+Wed May 16 03:42:15 UTC 2018: Code found com.rackspace.volga.etl.newrelic.mapreduce.NewRelicJSONDriver-main with com.rackspace.volga.etl.newrelic.mapreduce.NewRelicJSONDriverTest-testMainMethod
+Wed May 16 03:42:16 UTC 2018: No link for: com.rackspace.volga.etl.newrelic.mapreduce.NewRelicJSONDriverTest-whenSettingEventType
+Wed May 16 03:42:16 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.mapreduce.NewRelicJSONDriverTest
+Wed May 16 03:42:16 UTC 2018: Found element on the queue
+Wed May 16 03:42:16 UTC 2018: Updating status
+Wed May 16 03:42:16 UTC 2018: Working
+Wed May 16 03:42:19 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.transform.dozer.jackson.MonitorsJacksonConverterTest
+Wed May 16 03:42:19 UTC 2018: Setting lastTestMethodIndex: 59945
+Wed May 16 03:42:19 UTC 2018: Starting linking
+Wed May 16 03:42:19 UTC 2018: No link for: com.rackspace.volga.etl.newrelic.transform.dozer.jackson.MonitorsJacksonConverterTest-loadMonitor
+Wed May 16 03:42:19 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.transform.dozer.jackson.MonitorsJacksonConverterTest
+Wed May 16 03:42:20 UTC 2018: Found element on the queue
+Wed May 16 03:42:20 UTC 2018: Updating status
+Wed May 16 03:42:20 UTC 2018: Working
+Wed May 16 03:42:22 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.transform.dozer.jackson.PollsJacksonConverterTest
+Wed May 16 03:42:22 UTC 2018: Setting lastTestMethodIndex: 59947
+Wed May 16 03:42:22 UTC 2018: Starting linking
+Wed May 16 03:42:22 UTC 2018: No link for: com.rackspace.volga.etl.newrelic.transform.dozer.jackson.PollsJacksonConverterTest-loadPolls
+Wed May 16 03:42:23 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.transform.dozer.jackson.PollsJacksonConverterTest
+Wed May 16 03:42:23 UTC 2018: Found element on the queue
+Wed May 16 03:42:23 UTC 2018: Updating status
+Wed May 16 03:42:23 UTC 2018: Working
+Wed May 16 03:42:25 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.transform.dozer.hive.PollsMappedRowsConverterTest
+Wed May 16 03:42:25 UTC 2018: Setting lastTestMethodIndex: 59950
+Wed May 16 03:42:25 UTC 2018: Starting linking
+Wed May 16 03:42:25 UTC 2018: Code found com.rackspace.volga.etl.newrelic.transform.dozer.hive.PollsMappedRowsConverter-convertFrom with com.rackspace.volga.etl.newrelic.transform.dozer.hive.PollsMappedRowsConverterTest-testConvertFromPollsMappedRows
+Wed May 16 03:42:26 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.transform.dozer.hive.PollsMappedRowsConverterTest
+Wed May 16 03:42:26 UTC 2018: Found element on the queue
+Wed May 16 03:42:26 UTC 2018: Updating status
+Wed May 16 03:42:26 UTC 2018: Working
+Wed May 16 03:42:29 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.transform.dozer.hive.MonitorsMappedRowsConverterTest
+Wed May 16 03:42:29 UTC 2018: Setting lastTestMethodIndex: 59953
+Wed May 16 03:42:29 UTC 2018: Starting linking
+Wed May 16 03:42:29 UTC 2018: Code found com.rackspace.volga.etl.newrelic.transform.dozer.hive.MonitorsMappedRowsConverter-convertFrom with com.rackspace.volga.etl.newrelic.transform.dozer.hive.MonitorsMappedRowsConverterTest-testConvertFromMonitorMappedRows
+Wed May 16 03:42:29 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.newrelic.transform.dozer.hive.MonitorsMappedRowsConverterTest
+Wed May 16 03:42:30 UTC 2018: Found element on the queue
+Wed May 16 03:42:30 UTC 2018: Updating status
+Wed May 16 03:42:30 UTC 2018: Working
+Wed May 16 03:42:32 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.stacktach.StackDistillerTest
+Wed May 16 03:42:32 UTC 2018: Setting lastTestMethodIndex: 59955
+Wed May 16 03:42:32 UTC 2018: Starting linking
+Wed May 16 03:42:32 UTC 2018: Code found com.rackspace.volga.etl.stacktach.yaml.StackDistiller-distill with com.rackspace.volga.etl.stacktach.StackDistillerTest-whenDistilling
+Wed May 16 03:42:33 UTC 2018: No link for: com.rackspace.volga.etl.stacktach.StackDistillerTest-whenNoValidYamlFile
+Wed May 16 03:42:33 UTC 2018: No link for: com.rackspace.volga.etl.stacktach.StackDistillerTest-whenNullYamlFile
+Wed May 16 03:42:33 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.stacktach.StackDistillerTest
+Wed May 16 03:42:34 UTC 2018: Found element on the queue
+Wed May 16 03:42:34 UTC 2018: Updating status
+Wed May 16 03:42:34 UTC 2018: Working
+Wed May 16 03:42:36 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONPathDriverTest
+Wed May 16 03:42:36 UTC 2018: Setting lastTestMethodIndex: 59958
+Wed May 16 03:42:36 UTC 2018: Starting linking
+Wed May 16 03:42:36 UTC 2018: Code found com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONPathDriver-run with com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONPathDriverTest-whenRunningStackTachDriver
+Wed May 16 03:42:37 UTC 2018: Code found com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONPathDriver-main with com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONPathDriverTest-testMainMethod
+Wed May 16 03:42:37 UTC 2018: No link for: com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONPathDriverTest-wasInputTransformerSet
+Wed May 16 03:42:37 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONPathDriverTest
+Wed May 16 03:42:38 UTC 2018: Found element on the queue
+Wed May 16 03:42:38 UTC 2018: Updating status
+Wed May 16 03:42:38 UTC 2018: Working
+Wed May 16 03:42:40 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONDriverTest
+Wed May 16 03:42:40 UTC 2018: Setting lastTestMethodIndex: 59961
+Wed May 16 03:42:40 UTC 2018: Starting linking
+Wed May 16 03:42:40 UTC 2018: Code found com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONDriver-run with com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONDriverTest-whenRunningStackTachDriver
+Wed May 16 03:42:41 UTC 2018: Code found com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONDriver-main with com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONDriverTest-testMainMethod
+Wed May 16 03:42:41 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.stacktach.mapreduce.StackTachJSONDriverTest
+Wed May 16 03:42:41 UTC 2018: Found element on the queue
+Wed May 16 03:42:41 UTC 2018: Updating status
+Wed May 16 03:42:41 UTC 2018: Working
+Wed May 16 03:42:44 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.stacktach.dozer.SystemEventConverterTest
+Wed May 16 03:42:44 UTC 2018: Setting lastTestMethodIndex: 59963
+Wed May 16 03:42:44 UTC 2018: Starting linking
+Wed May 16 03:42:44 UTC 2018: Code found com.rackspace.volga.etl.stacktach.dozer.SystemEventConverter-convert with com.rackspace.volga.etl.stacktach.dozer.SystemEventConverterTest-testConvert
+Wed May 16 03:42:44 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.stacktach.dozer.SystemEventConverterTest
+Wed May 16 03:42:45 UTC 2018: Found element on the queue
+Wed May 16 03:42:45 UTC 2018: Updating status
+Wed May 16 03:42:45 UTC 2018: Working
+Wed May 16 03:42:47 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceErrorThresholdListenerTest
+Wed May 16 03:42:47 UTC 2018: Setting lastTestMethodIndex: 59965
+Wed May 16 03:42:47 UTC 2018: Starting linking
+Wed May 16 03:42:47 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceErrorThresholdListenerTest-whenMapReduceStepFail
+Wed May 16 03:42:48 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceErrorThresholdListenerTest-whenMapReduceStepNoFail
+Wed May 16 03:42:48 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceErrorThresholdListenerTest-whenNoMapReduceStep
+Wed May 16 03:42:48 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceErrorThresholdListenerTest
+Wed May 16 03:42:49 UTC 2018: Found element on the queue
+Wed May 16 03:42:49 UTC 2018: Updating status
+Wed May 16 03:42:49 UTC 2018: Working
+Wed May 16 03:42:51 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceStatsListenerTest
+Wed May 16 03:42:51 UTC 2018: Setting lastTestMethodIndex: 59968
+Wed May 16 03:42:51 UTC 2018: Starting linking
+Wed May 16 03:42:51 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceStatsListenerTest-whenNoMapReduceStepsArePresent
+Wed May 16 03:42:52 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceStatsListenerTest-whenItShouldNotRun
+Wed May 16 03:42:52 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceStatsListenerTest-whenSavingToDb
+Wed May 16 03:42:52 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.spring.batch.listeners.step.MapReduceStatsListenerTest
+Wed May 16 03:42:53 UTC 2018: Found element on the queue
+Wed May 16 03:42:53 UTC 2018: Updating status
+Wed May 16 03:42:53 UTC 2018: Working
+Wed May 16 03:42:55 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.spring.batch.listeners.job.VolgaETLJobListenerTest
+Wed May 16 03:42:55 UTC 2018: Setting lastTestMethodIndex: 59970
+Wed May 16 03:42:55 UTC 2018: Starting linking
+Wed May 16 03:42:55 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.job.VolgaETLJobListenerTest-whenReportingIncident
+Wed May 16 03:42:56 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.job.VolgaETLJobListenerTest-whenNotReportingIncident
+Wed May 16 03:42:56 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.job.VolgaETLJobListenerTest-whenReportingFailedJob
+Wed May 16 03:42:56 UTC 2018: No link for: com.rackspace.volga.etl.spring.batch.listeners.job.VolgaETLJobListenerTest-whenNoMapReduceStepsArePresent
+Wed May 16 03:42:57 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.spring.batch.listeners.job.VolgaETLJobListenerTest
+Wed May 16 03:42:57 UTC 2018: Found element on the queue
+Wed May 16 03:42:57 UTC 2018: Updating status
+Wed May 16 03:42:57 UTC 2018: Working
+Wed May 16 03:42:59 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.spring.run.JobRunnerTest
+Wed May 16 03:42:59 UTC 2018: Setting lastTestMethodIndex: 59972
+Wed May 16 03:42:59 UTC 2018: Starting linking
+Wed May 16 03:42:59 UTC 2018: No link for: com.rackspace.volga.etl.spring.run.JobRunnerTest-testMain
+Wed May 16 03:43:00 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.spring.run.JobRunnerTest
+Wed May 16 03:43:00 UTC 2018: Found element on the queue
+Wed May 16 03:43:00 UTC 2018: Updating status
+Wed May 16 03:43:00 UTC 2018: Working
+Wed May 16 03:43:03 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.mapreduce.MaasJSONDriverTest
+Wed May 16 03:43:03 UTC 2018: Setting lastTestMethodIndex: 59974
+Wed May 16 03:43:03 UTC 2018: Starting linking
+Wed May 16 03:43:03 UTC 2018: Code found com.rackspace.volga.etl.maas.mapreduce.MaasJSONDriver-main with com.rackspace.volga.etl.maas.mapreduce.MaasJSONDriverTest-testMainMethod
+Wed May 16 03:43:03 UTC 2018: No link for: com.rackspace.volga.etl.maas.mapreduce.MaasJSONDriverTest-whenSettingEventType
+Wed May 16 03:43:03 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.mapreduce.MaasJSONDriverTest
+Wed May 16 03:43:04 UTC 2018: Found element on the queue
+Wed May 16 03:43:04 UTC 2018: Updating status
+Wed May 16 03:43:04 UTC 2018: Working
+Wed May 16 03:43:07 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.jackson.NotificationJacksonConverterTest
+Wed May 16 03:43:07 UTC 2018: Setting lastTestMethodIndex: 59976
+Wed May 16 03:43:07 UTC 2018: Starting linking
+Wed May 16 03:43:07 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.jackson.NotificationJacksonConverterTest-loadNotifications
+Wed May 16 03:43:07 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.jackson.NotificationJacksonConverterTest
+Wed May 16 03:43:07 UTC 2018: Found element on the queue
+Wed May 16 03:43:07 UTC 2018: Updating status
+Wed May 16 03:43:07 UTC 2018: Working
+Wed May 16 03:43:10 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.jackson.ConfigurationJacksonConverterTest
+Wed May 16 03:43:10 UTC 2018: Setting lastTestMethodIndex: 59979
+Wed May 16 03:43:10 UTC 2018: Starting linking
+Wed May 16 03:43:10 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.jackson.ConfigurationJacksonConverterTest-loadConfigurations
+Wed May 16 03:43:10 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.jackson.ConfigurationJacksonConverterTest
+Wed May 16 03:43:11 UTC 2018: Found element on the queue
+Wed May 16 03:43:11 UTC 2018: Updating status
+Wed May 16 03:43:11 UTC 2018: Working
+Wed May 16 03:43:13 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.jackson.MetricsJacksonConverterTest
+Wed May 16 03:43:13 UTC 2018: Setting lastTestMethodIndex: 59981
+Wed May 16 03:43:13 UTC 2018: Starting linking
+Wed May 16 03:43:13 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.jackson.MetricsJacksonConverterTest-loadMetrics
+Wed May 16 03:43:14 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.jackson.MetricsJacksonConverterTest
+Wed May 16 03:43:14 UTC 2018: Found element on the queue
+Wed May 16 03:43:14 UTC 2018: Updating status
+Wed May 16 03:43:14 UTC 2018: Working
+Wed May 16 03:43:17 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.hive.ConfigurationMappedRowsConverterTest
+Wed May 16 03:43:17 UTC 2018: Setting lastTestMethodIndex: 59983
+Wed May 16 03:43:17 UTC 2018: Starting linking
+Wed May 16 03:43:17 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.ConfigurationMappedRowsConverterTest-testConvert
+Wed May 16 03:43:17 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.ConfigurationMappedRowsConverterTest-testLongerConvert
+Wed May 16 03:43:17 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.ConfigurationMappedRowsConverterTest-whenPassingExistingMappedRow
+Wed May 16 03:43:18 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.hive.ConfigurationMappedRowsConverterTest
+Wed May 16 03:43:18 UTC 2018: Found element on the queue
+Wed May 16 03:43:18 UTC 2018: Updating status
+Wed May 16 03:43:18 UTC 2018: Working
+Wed May 16 03:43:21 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest
+Wed May 16 03:43:21 UTC 2018: Setting lastTestMethodIndex: 59985
+Wed May 16 03:43:21 UTC 2018: Starting linking
+Wed May 16 03:43:21 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine6
+Wed May 16 03:43:21 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine7
+Wed May 16 03:43:21 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine10
+Wed May 16 03:43:22 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine4
+Wed May 16 03:43:22 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine5
+Wed May 16 03:43:22 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine2
+Wed May 16 03:43:23 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine3
+Wed May 16 03:43:23 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine1
+Wed May 16 03:43:23 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine8
+Wed May 16 03:43:24 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-whenPassingExistingMappedRow
+Wed May 16 03:43:24 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest-testLine9
+Wed May 16 03:43:24 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.hive.MetricsMappedRowsConverterTest
+Wed May 16 03:43:25 UTC 2018: Found element on the queue
+Wed May 16 03:43:25 UTC 2018: Updating status
+Wed May 16 03:43:25 UTC 2018: Working
+Wed May 16 03:43:27 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest
+Wed May 16 03:43:27 UTC 2018: Setting lastTestMethodIndex: 59991
+Wed May 16 03:43:27 UTC 2018: Starting linking
+Wed May 16 03:43:27 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testNoCheck
+Wed May 16 03:43:27 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine9
+Wed May 16 03:43:28 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-whenPassingExistingMappedRow
+Wed May 16 03:43:28 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine8
+Wed May 16 03:43:28 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine7
+Wed May 16 03:43:29 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testNotificationWithoutMetrics
+Wed May 16 03:43:29 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine6
+Wed May 16 03:43:29 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine5
+Wed May 16 03:43:30 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine4
+Wed May 16 03:43:30 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine3
+Wed May 16 03:43:30 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine2
+Wed May 16 03:43:31 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine1
+Wed May 16 03:43:31 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testNoEntity
+Wed May 16 03:43:31 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-whenUsingEntitySuppressionFields
+Wed May 16 03:43:32 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testNoAlarm
+Wed May 16 03:43:32 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-whenUsingAllSuppressionFields
+Wed May 16 03:43:32 UTC 2018: No link for: com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest-testLine10
+Wed May 16 03:43:33 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.maas.transform.dozer.hive.NotificationMappedRowsConverterTest
+Wed May 16 03:43:33 UTC 2018: Found element on the queue
+Wed May 16 03:43:33 UTC 2018: Updating status
+Wed May 16 03:43:33 UTC 2018: Working
+Wed May 16 03:43:35 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest
+Wed May 16 03:43:35 UTC 2018: Setting lastTestMethodIndex: 59996
+Wed May 16 03:43:35 UTC 2018: Starting linking
+Wed May 16 03:43:36 UTC 2018: Code found com.rackspace.volga.etl.common.hive.HiveFormatUtils-toStructMap with com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest-testToStructMap
+Wed May 16 03:43:36 UTC 2018: Code found com.rackspace.volga.etl.common.hive.HiveFormatUtils-mapToString with com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest-testMapToString
+Wed May 16 03:43:36 UTC 2018: Code found com.rackspace.volga.etl.common.hive.HiveFormatUtils-toStructMap with com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest-testToStructMapKeyed
+Wed May 16 03:43:37 UTC 2018: No link for: com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest-whenLowerCasingString
+Wed May 16 03:43:37 UTC 2018: No link for: com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest-testListToString
+Wed May 16 03:43:37 UTC 2018: No link for: com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest-testGetDistinctValuesForField
+Wed May 16 03:43:38 UTC 2018: No link for: com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest-testConstructorPrivate
+Wed May 16 03:43:38 UTC 2018: No link for: com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest-whenSanitizingJavaChars
+Wed May 16 03:43:38 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.hive.HiveFormatUtilsTest
+Wed May 16 03:43:39 UTC 2018: Found element on the queue
+Wed May 16 03:43:39 UTC 2018: Updating status
+Wed May 16 03:43:39 UTC 2018: Working
+Wed May 16 03:43:41 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.transform.JSONPathConverterTest
+Wed May 16 03:43:41 UTC 2018: Setting lastTestMethodIndex: 60000
+Wed May 16 03:43:41 UTC 2018: Starting linking
+Wed May 16 03:43:41 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.JSONPathConverterTest-whenLoadingJSON
+Wed May 16 03:43:41 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.JSONPathConverterTest-whenWritingJSON
+Wed May 16 03:43:42 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.transform.JSONPathConverterTest
+Wed May 16 03:43:42 UTC 2018: Found element on the queue
+Wed May 16 03:43:42 UTC 2018: Updating status
+Wed May 16 03:43:42 UTC 2018: Working
+Wed May 16 03:43:45 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.transform.JacksonConverterTest
+Wed May 16 03:43:45 UTC 2018: Setting lastTestMethodIndex: 60003
+Wed May 16 03:43:45 UTC 2018: Starting linking
+Wed May 16 03:43:45 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.JacksonConverterTest-whenReadingJsonIntoNullObject
+Wed May 16 03:43:45 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.JacksonConverterTest-whenExceptionIsThrown
+Wed May 16 03:43:46 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.JacksonConverterTest-whenConvertingBackToJson
+Wed May 16 03:43:46 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.JacksonConverterTest-whenExceptionIsThrown2
+Wed May 16 03:43:46 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.JacksonConverterTest-whenReadingJsonIntoExistingObject
+Wed May 16 03:43:47 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.transform.JacksonConverterTest
+Wed May 16 03:43:47 UTC 2018: Found element on the queue
+Wed May 16 03:43:47 UTC 2018: Updating status
+Wed May 16 03:43:47 UTC 2018: Working
+Wed May 16 03:43:50 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.transform.BaseConverterTest
+Wed May 16 03:43:50 UTC 2018: Setting lastTestMethodIndex: 60006
+Wed May 16 03:43:50 UTC 2018: Starting linking
+Wed May 16 03:43:50 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.BaseConverterTest-whenconvertingFrom
+Wed May 16 03:43:50 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.BaseConverterTest-whenconvertingTo
+Wed May 16 03:43:50 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.transform.BaseConverterTest
+Wed May 16 03:43:51 UTC 2018: Found element on the queue
+Wed May 16 03:43:51 UTC 2018: Updating status
+Wed May 16 03:43:51 UTC 2018: Working
+Wed May 16 03:43:53 UTC 2018: Start LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.transform.DozerTransformerTest
+Wed May 16 03:43:53 UTC 2018: Setting lastTestMethodIndex: 60009
+Wed May 16 03:43:53 UTC 2018: Starting linking
+Wed May 16 03:43:53 UTC 2018: No link for: com.rackspace.volga.etl.common.transform.DozerTransformerTest-whenCheckingMappingFiles
+Wed May 16 03:43:54 UTC 2018: Linking done for LavanyaUmapathi__Exp test class com.rackspace.volga.etl.common.transform.DozerTransformerTest

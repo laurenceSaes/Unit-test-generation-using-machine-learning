@@ -1,0 +1,120 @@
+Tue May 15 19:18:53 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 19:18:53 UTC 2018: Starting
+Tue May 15 19:18:54 UTC 2018: Found element on the queue
+Tue May 15 19:18:54 UTC 2018: Updating status
+Tue May 15 19:18:54 UTC 2018: Working
+Tue May 15 19:18:54 UTC 2018: Create project parser
+Tue May 15 19:19:00 UTC 2018: Create slicer
+Tue May 15 19:19:02 UTC 2018: Create call graph
+Tue May 15 19:19:04 UTC 2018: Create point analysis
+Tue May 15 19:19:04 UTC 2018: Create call graph done
+Tue May 15 19:19:04 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.parser.TextCommandParserTest
+Tue May 15 19:19:04 UTC 2018: Setting lastTestMethodIndex: 44437
+Tue May 15 19:19:04 UTC 2018: Starting linking
+Tue May 15 19:19:04 UTC 2018: No link for: gd.crowdmix.parser.TextCommandParserTest-parseRequestWallCommand
+Tue May 15 19:19:04 UTC 2018: No link for: gd.crowdmix.parser.TextCommandParserTest-parsePublishMessageCommand
+Tue May 15 19:19:04 UTC 2018: No link for: gd.crowdmix.parser.TextCommandParserTest-parseFollowUserCommand
+Tue May 15 19:19:04 UTC 2018: No link for: gd.crowdmix.parser.TextCommandParserTest-unparseableCommand
+Tue May 15 19:19:05 UTC 2018: No link for: gd.crowdmix.parser.TextCommandParserTest-parseRequestTimelineCommand
+Tue May 15 19:19:05 UTC 2018: No link for: gd.crowdmix.parser.TextCommandParserTest-parseExitCommand
+Tue May 15 19:19:05 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.parser.TextCommandParserTest
+Tue May 15 19:19:06 UTC 2018: Found element on the queue
+Tue May 15 19:19:06 UTC 2018: Updating status
+Tue May 15 19:19:06 UTC 2018: Working
+Tue May 15 19:19:09 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.main.ApplicationAssemblyTest
+Tue May 15 19:19:09 UTC 2018: Setting lastTestMethodIndex: 44443
+Tue May 15 19:19:09 UTC 2018: Starting linking
+Tue May 15 19:19:09 UTC 2018: No link for: gd.crowdmix.main.ApplicationAssemblyTest-parseAndExecuteCommandThenDisplayResult
+Tue May 15 19:19:09 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.main.ApplicationAssemblyTest
+Tue May 15 19:19:10 UTC 2018: Found element on the queue
+Tue May 15 19:19:10 UTC 2018: Updating status
+Tue May 15 19:19:10 UTC 2018: Working
+Tue May 15 19:19:13 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.PublishMessageTest
+Tue May 15 19:19:13 UTC 2018: Setting lastTestMethodIndex: 44446
+Tue May 15 19:19:13 UTC 2018: Starting linking
+Tue May 15 19:19:13 UTC 2018: No link for: gd.crowdmix.command.PublishMessageTest-addFollowedUserToInitialUserAndNoOutput
+Tue May 15 19:19:14 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.PublishMessageTest
+Tue May 15 19:19:14 UTC 2018: Found element on the queue
+Tue May 15 19:19:14 UTC 2018: Updating status
+Tue May 15 19:19:14 UTC 2018: Working
+Tue May 15 19:19:17 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.ExitTest
+Tue May 15 19:19:17 UTC 2018: Setting lastTestMethodIndex: 44451
+Tue May 15 19:19:17 UTC 2018: Starting linking
+Tue May 15 19:19:17 UTC 2018: No link for: gd.crowdmix.command.ExitTest-addFollowedUserToInitialUserAndNoOutput
+Tue May 15 19:19:18 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.ExitTest
+Tue May 15 19:19:18 UTC 2018: Found element on the queue
+Tue May 15 19:19:18 UTC 2018: Updating status
+Tue May 15 19:19:18 UTC 2018: Working
+Tue May 15 19:19:22 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.RequestTimelineTest
+Tue May 15 19:19:22 UTC 2018: Setting lastTestMethodIndex: 44456
+Tue May 15 19:19:22 UTC 2018: Starting linking
+Tue May 15 19:19:22 UTC 2018: No link for: gd.crowdmix.command.RequestTimelineTest-correctFormatting
+Tue May 15 19:19:22 UTC 2018: No link for: gd.crowdmix.command.RequestTimelineTest-displayTheTimelineOfTheUser
+Tue May 15 19:19:22 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.RequestTimelineTest
+Tue May 15 19:19:23 UTC 2018: Found element on the queue
+Tue May 15 19:19:23 UTC 2018: Updating status
+Tue May 15 19:19:23 UTC 2018: Working
+Tue May 15 19:19:26 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.FollowUserTest
+Tue May 15 19:19:26 UTC 2018: Setting lastTestMethodIndex: 44461
+Tue May 15 19:19:26 UTC 2018: Starting linking
+Tue May 15 19:19:26 UTC 2018: No link for: gd.crowdmix.command.FollowUserTest-addFollowedUserToInitialUserAndNoOutput
+Tue May 15 19:19:27 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.FollowUserTest
+Tue May 15 19:19:27 UTC 2018: Found element on the queue
+Tue May 15 19:19:27 UTC 2018: Updating status
+Tue May 15 19:19:28 UTC 2018: Working
+Tue May 15 19:19:31 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.RequestWallTest
+Tue May 15 19:19:31 UTC 2018: Setting lastTestMethodIndex: 44465
+Tue May 15 19:19:31 UTC 2018: Starting linking
+Tue May 15 19:19:31 UTC 2018: No link for: gd.crowdmix.command.RequestWallTest-displayTheWallOfTheUser
+Tue May 15 19:19:31 UTC 2018: No link for: gd.crowdmix.command.RequestWallTest-correctFormatting
+Tue May 15 19:19:31 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.command.RequestWallTest
+Tue May 15 19:19:32 UTC 2018: Found element on the queue
+Tue May 15 19:19:32 UTC 2018: Updating status
+Tue May 15 19:19:32 UTC 2018: Working
+Tue May 15 19:19:35 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.util.TimeUtilsTest
+Tue May 15 19:19:35 UTC 2018: Setting lastTestMethodIndex: 44469
+Tue May 15 19:19:35 UTC 2018: Starting linking
+Tue May 15 19:19:35 UTC 2018: No link for: gd.crowdmix.util.TimeUtilsTest-elapsedTimeSinceSpecificDate
+Tue May 15 19:19:35 UTC 2018: No link for: gd.crowdmix.util.TimeUtilsTest-elapsedTimeOnlyUsesTheBiggestUnitOfTime
+Tue May 15 19:19:35 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.util.TimeUtilsTest
+Tue May 15 19:19:36 UTC 2018: Found element on the queue
+Tue May 15 19:19:36 UTC 2018: Updating status
+Tue May 15 19:19:36 UTC 2018: Working
+Tue May 15 19:19:40 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.data.UserDetailsTest
+Tue May 15 19:19:40 UTC 2018: Setting lastTestMethodIndex: 44474
+Tue May 15 19:19:40 UTC 2018: Starting linking
+Tue May 15 19:19:40 UTC 2018: Code found gd.crowdmix.data.UserDetails-hashCode with gd.crowdmix.data.UserDetailsTest-equalsAndHashcodeDependOnName
+Tue May 15 19:19:40 UTC 2018: No link for: gd.crowdmix.data.UserDetailsTest-publishMessagesAndRetrieveThemCorrectlyOrderedByTimeInTimelineAndWall
+Tue May 15 19:19:40 UTC 2018: No link for: gd.crowdmix.data.UserDetailsTest-defaultStringRepresentation
+Tue May 15 19:19:41 UTC 2018: No link for: gd.crowdmix.data.UserDetailsTest-whenFollowingUsersTheirMessagesAreAddedToWallButNotTimeline
+Tue May 15 19:19:41 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.data.UserDetailsTest
+Tue May 15 19:19:42 UTC 2018: Found element on the queue
+Tue May 15 19:19:42 UTC 2018: Updating status
+Tue May 15 19:19:42 UTC 2018: Working
+Tue May 15 19:19:45 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.data.MessageTest
+Tue May 15 19:19:45 UTC 2018: Setting lastTestMethodIndex: 44479
+Tue May 15 19:19:45 UTC 2018: Starting linking
+Tue May 15 19:19:45 UTC 2018: Code found gd.crowdmix.util.CaseClassTwo-hashCode with gd.crowdmix.data.MessageTest-equalsAndHashcodeDependOnTimestampAndContent
+Tue May 15 19:19:46 UTC 2018: No link for: gd.crowdmix.data.MessageTest-defaultStringRepresentation
+Tue May 15 19:19:46 UTC 2018: No link for: gd.crowdmix.data.MessageTest-messageNaturalComparisonOrderIsTimestampStartingFromMostRecent
+Tue May 15 19:19:46 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.data.MessageTest
+Tue May 15 19:19:47 UTC 2018: Found element on the queue
+Tue May 15 19:19:47 UTC 2018: Updating status
+Tue May 15 19:19:47 UTC 2018: Working
+Tue May 15 19:19:50 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.data.WallMessageTest
+Tue May 15 19:19:50 UTC 2018: Setting lastTestMethodIndex: 44484
+Tue May 15 19:19:50 UTC 2018: Starting linking
+Tue May 15 19:19:50 UTC 2018: Code found gd.crowdmix.util.CaseClassTwo-hashCode with gd.crowdmix.data.WallMessageTest-equalsAndHashcodeDependOnUserAndMessage
+Tue May 15 19:19:50 UTC 2018: No link for: gd.crowdmix.data.WallMessageTest-defaultStringRepresentation
+Tue May 15 19:19:51 UTC 2018: No link for: gd.crowdmix.data.WallMessageTest-wallMessageNaturalComparisonOrderIsSameAsMessage
+Tue May 15 19:19:51 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.data.WallMessageTest
+Tue May 15 19:19:52 UTC 2018: Found element on the queue
+Tue May 15 19:19:52 UTC 2018: Updating status
+Tue May 15 19:19:52 UTC 2018: Working
+Tue May 15 19:19:56 UTC 2018: Start GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.data.InMemoryRepositoryTest
+Tue May 15 19:19:56 UTC 2018: Setting lastTestMethodIndex: 44489
+Tue May 15 19:19:56 UTC 2018: Starting linking
+Tue May 15 19:19:56 UTC 2018: No link for: gd.crowdmix.data.InMemoryRepositoryTest-userWallListsAllPublishedMessagesFromUserAndFollowedUsers
+Tue May 15 19:19:56 UTC 2018: No link for: gd.crowdmix.data.InMemoryRepositoryTest-createUserIfDoesNotExistWhenRequestingTimeline
+Tue May 15 19:19:56 UTC 2018: No link for: gd.crowdmix.data.InMemoryRepositoryTest-userTimelineListsAllPublishedMessages
+Tue May 15 19:19:57 UTC 2018: Linking done for GuillaumeDelarue__crowdmix-coding-exercise test class gd.crowdmix.data.InMemoryRepositoryTest

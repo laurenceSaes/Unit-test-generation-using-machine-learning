@@ -1,0 +1,52 @@
+Tue May 15 14:23:54 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 14:23:54 UTC 2018: Starting
+Tue May 15 14:23:55 UTC 2018: Found element on the queue
+Tue May 15 14:23:55 UTC 2018: Updating status
+Tue May 15 14:23:55 UTC 2018: Working
+Tue May 15 14:23:55 UTC 2018: Create project parser
+Tue May 15 14:23:59 UTC 2018: Create slicer
+Tue May 15 14:24:00 UTC 2018: Create call graph
+Tue May 15 14:24:02 UTC 2018: Create point analysis
+Tue May 15 14:24:02 UTC 2018: Create call graph done
+Tue May 15 14:24:02 UTC 2018: Start dennisTS__twitterage test class com.twitterage.model.SizeTest
+Tue May 15 14:24:02 UTC 2018: Setting lastTestMethodIndex: 35340
+Tue May 15 14:24:02 UTC 2018: Starting linking
+Tue May 15 14:24:02 UTC 2018: No link for: com.twitterage.model.SizeTest-shouldSetDimensionsZeroWhenPassedNullString
+Tue May 15 14:24:02 UTC 2018: No link for: com.twitterage.model.SizeTest-shouldSetDimensionsProperlyWhenPassedValidString
+Tue May 15 14:24:02 UTC 2018: No link for: com.twitterage.model.SizeTest-shouldSetDimensionsZeroWhenPassedInvalidString
+Tue May 15 14:24:02 UTC 2018: No link for: com.twitterage.model.SizeTest-shouldSetDimensionsZeroWhenPassedEmptyString
+Tue May 15 14:24:02 UTC 2018: Linking done for dennisTS__twitterage test class com.twitterage.model.SizeTest
+Tue May 15 14:24:02 UTC 2018: Found element on the queue
+Tue May 15 14:24:02 UTC 2018: Updating status
+Tue May 15 14:24:02 UTC 2018: Working
+Tue May 15 14:24:05 UTC 2018: Start dennisTS__twitterage test class com.twitterage.image.ImageProcessorParametrizedTest
+Tue May 15 14:24:05 UTC 2018: Setting lastTestMethodIndex: 35342
+Tue May 15 14:24:05 UTC 2018: Starting linking
+Tue May 15 14:24:05 UTC 2018: No link for: com.twitterage.image.ImageProcessorParametrizedTest-shouldThrowExceptionWhenPassedInvalidPercent
+Tue May 15 14:24:05 UTC 2018: Linking done for dennisTS__twitterage test class com.twitterage.image.ImageProcessorParametrizedTest
+Tue May 15 14:24:05 UTC 2018: Found element on the queue
+Tue May 15 14:24:05 UTC 2018: Updating status
+Tue May 15 14:24:05 UTC 2018: Working
+Tue May 15 14:24:08 UTC 2018: Start dennisTS__twitterage test class com.twitterage.image.ImageProcessorTest
+Tue May 15 14:24:08 UTC 2018: Setting lastTestMethodIndex: 35344
+Tue May 15 14:24:08 UTC 2018: Starting linking
+Tue May 15 14:24:08 UTC 2018: No link for: com.twitterage.image.ImageProcessorTest-shouldReturnValidImageOnDownload
+Tue May 15 14:24:08 UTC 2018: No link for: com.twitterage.image.ImageProcessorTest-shouldReturnNullWhenPassedInvalidURLOnDownload
+Tue May 15 14:24:08 UTC 2018: No link for: com.twitterage.image.ImageProcessorTest-shouldReturnNullWhenNoImageFoundOnDownload
+Tue May 15 14:24:08 UTC 2018: No link for: com.twitterage.image.ImageProcessorTest-shouldReturnProperlyResizedImageOnResizeWithHundredPercent
+Tue May 15 14:24:08 UTC 2018: No link for: com.twitterage.image.ImageProcessorTest-shouldReturnProperlyResizedImageOnResize
+Tue May 15 14:24:08 UTC 2018: No link for: com.twitterage.image.ImageProcessorTest-shouldReturnNullWhenPassedNullOrInvalidImageOnResize
+Tue May 15 14:24:08 UTC 2018: Linking done for dennisTS__twitterage test class com.twitterage.image.ImageProcessorTest
+Tue May 15 14:24:09 UTC 2018: Found element on the queue
+Tue May 15 14:24:09 UTC 2018: Updating status
+Tue May 15 14:24:09 UTC 2018: Working
+Tue May 15 14:24:11 UTC 2018: Start dennisTS__twitterage test class com.twitterage.collage.CollageCrossingTest
+Tue May 15 14:24:11 UTC 2018: Setting lastTestMethodIndex: 35346
+Tue May 15 14:24:11 UTC 2018: Starting linking
+Tue May 15 14:24:11 UTC 2018: Code found com.twitterage.collage.CollageCrossing$Builder-bottomBranch with com.twitterage.collage.CollageCrossingTest-shouldProperlySetLeftAndBottomBranches
+Tue May 15 14:24:11 UTC 2018: Code found com.twitterage.collage.CollageCrossing$Builder-rightBranch with com.twitterage.collage.CollageCrossingTest-shouldProperlySetTopAndRightBranches
+Tue May 15 14:24:11 UTC 2018: No link for: com.twitterage.collage.CollageCrossingTest-shouldThrowExceptionWhenSettingLessThanTwoBranches
+Tue May 15 14:24:11 UTC 2018: No link for: com.twitterage.collage.CollageCrossingTest-shouldThrowExceptionWhenSettingMoreThanTwoBranches
+Tue May 15 14:24:11 UTC 2018: No link for: com.twitterage.collage.CollageCrossingTest-shouldProperlySetPoint
+Tue May 15 14:24:11 UTC 2018: No link for: com.twitterage.collage.CollageCrossingTest-shouldThrowExceptionWhenSettingNoBranches
+Tue May 15 14:24:11 UTC 2018: Linking done for dennisTS__twitterage test class com.twitterage.collage.CollageCrossingTest

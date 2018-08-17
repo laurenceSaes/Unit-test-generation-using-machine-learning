@@ -1,0 +1,654 @@
+Wed May 16 00:58:55 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 00:58:55 UTC 2018: Starting
+Wed May 16 00:58:55 UTC 2018: Found element on the queue
+Wed May 16 00:58:55 UTC 2018: Updating status
+Wed May 16 00:58:55 UTC 2018: Working
+Wed May 16 00:58:55 UTC 2018: Create project parser
+Wed May 16 00:59:05 UTC 2018: Create slicer
+Wed May 16 00:59:06 UTC 2018: Create call graph
+Wed May 16 00:59:09 UTC 2018: Create point analysis
+Wed May 16 00:59:09 UTC 2018: Create call graph done
+Wed May 16 00:59:09 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.util.FileUtilTest
+Wed May 16 00:59:09 UTC 2018: Setting lastTestMethodIndex: 54153
+Wed May 16 00:59:09 UTC 2018: Starting linking
+Wed May 16 00:59:10 UTC 2018: Code found net.sf.uadetector.internal.util.FileUtil-isEmpty with net.sf.uadetector.internal.util.FileUtilTest-isEmpty_withFilledFile
+Wed May 16 00:59:10 UTC 2018: Code found net.sf.uadetector.internal.util.FileUtil-isEmpty with net.sf.uadetector.internal.util.FileUtilTest-isEmpty_withEmptyFile
+Wed May 16 00:59:10 UTC 2018: No link for: net.sf.uadetector.internal.util.FileUtilTest-testNullCheckBeforeClosing
+Wed May 16 00:59:10 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.util.FileUtilTest
+Wed May 16 00:59:11 UTC 2018: Found element on the queue
+Wed May 16 00:59:11 UTC 2018: Updating status
+Wed May 16 00:59:11 UTC 2018: Working
+Wed May 16 00:59:14 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.util.UrlUtilTest_read
+Wed May 16 00:59:14 UTC 2018: Setting lastTestMethodIndex: 54155
+Wed May 16 00:59:14 UTC 2018: Starting linking
+Wed May 16 00:59:14 UTC 2018: No link for: net.sf.uadetector.internal.util.UrlUtilTest_read-testNullCheckBeforeClosing
+Wed May 16 00:59:14 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.util.UrlUtilTest_read
+Wed May 16 00:59:14 UTC 2018: Found element on the queue
+Wed May 16 00:59:14 UTC 2018: Updating status
+Wed May 16 00:59:14 UTC 2018: Working
+Wed May 16 00:59:17 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.util.AlphanumComparatorTest
+Wed May 16 00:59:17 UTC 2018: Setting lastTestMethodIndex: 54158
+Wed May 16 00:59:17 UTC 2018: Starting linking
+Wed May 16 00:59:17 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_0_0
+Wed May 16 00:59:17 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_0_0000
+Wed May 16 00:59:17 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_0A_0000A
+Wed May 16 00:59:18 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compareDigits with net.sf.uadetector.internal.util.AlphanumComparatorTest-compareDigits_1_00
+Wed May 16 00:59:18 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_02_2
+Wed May 16 00:59:18 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compareDigits with net.sf.uadetector.internal.util.AlphanumComparatorTest-compareDigits_abc_xyz
+Wed May 16 00:59:18 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_00001_00001
+Wed May 16 00:59:19 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_same
+Wed May 16 00:59:19 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_02_20
+Wed May 16 00:59:19 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_differentFlags
+Wed May 16 00:59:19 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_null_2
+Wed May 16 00:59:20 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_null_3
+Wed May 16 00:59:20 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_null_1
+Wed May 16 00:59:20 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compare with net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_identical
+Wed May 16 00:59:20 UTC 2018: Code found net.sf.uadetector.internal.util.AlphanumComparator-compareDigits with net.sf.uadetector.internal.util.AlphanumComparatorTest-compareDigits_001_xyz
+Wed May 16 00:59:21 UTC 2018: No link for: net.sf.uadetector.internal.util.AlphanumComparatorTest-compare_list
+Wed May 16 00:59:21 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.util.AlphanumComparatorTest
+Wed May 16 00:59:21 UTC 2018: Found element on the queue
+Wed May 16 00:59:21 UTC 2018: Updating status
+Wed May 16 00:59:21 UTC 2018: Working
+Wed May 16 00:59:24 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.util.UrlUtilTest
+Wed May 16 00:59:24 UTC 2018: Setting lastTestMethodIndex: 54162
+Wed May 16 00:59:24 UTC 2018: Starting linking
+Wed May 16 00:59:24 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-read with net.sf.uadetector.internal.util.UrlUtilTest-read_url_null
+Wed May 16 00:59:24 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-toUrl with net.sf.uadetector.internal.util.UrlUtilTest-toUrl_empty
+Wed May 16 00:59:25 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-toUrl with net.sf.uadetector.internal.util.UrlUtilTest-toUrl_null
+Wed May 16 00:59:25 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-build with net.sf.uadetector.internal.util.UrlUtilTest-build_invalid_url
+Wed May 16 00:59:25 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-open with net.sf.uadetector.internal.util.UrlUtilTest-open_null
+Wed May 16 00:59:25 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-build with net.sf.uadetector.internal.util.UrlUtilTest-build_null
+Wed May 16 00:59:26 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-read with net.sf.uadetector.internal.util.UrlUtilTest-read_unreachable_url
+Wed May 16 00:59:26 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-read with net.sf.uadetector.internal.util.UrlUtilTest-read_charset_null
+Wed May 16 00:59:26 UTC 2018: Code found net.sf.uadetector.internal.util.UrlUtil-open with net.sf.uadetector.internal.util.UrlUtilTest-open_unreachable_url
+Wed May 16 00:59:26 UTC 2018: No link for: net.sf.uadetector.internal.util.UrlUtilTest-giveMeCoverageForMyPrivateConstructor
+Wed May 16 00:59:27 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.util.UrlUtilTest
+Wed May 16 00:59:27 UTC 2018: Found element on the queue
+Wed May 16 00:59:27 UTC 2018: Updating status
+Wed May 16 00:59:27 UTC 2018: Working
+Wed May 16 00:59:30 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.util.RegularExpressionConverterTest
+Wed May 16 00:59:30 UTC 2018: Setting lastTestMethodIndex: 54165
+Wed May 16 00:59:30 UTC 2018: Starting linking
+Wed May 16 00:59:30 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-convertPerlRegexToPattern with net.sf.uadetector.internal.util.RegularExpressionConverterTest-convertPerlRegexToPattern_NintendoDS
+Wed May 16 00:59:30 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-convertPerlRegexToPattern with net.sf.uadetector.internal.util.RegularExpressionConverterTest-convertPerlRegexToPattern_null
+Wed May 16 00:59:30 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-translateModifiers with net.sf.uadetector.internal.util.RegularExpressionConverterTest-translateModifiers_imsx
+Wed May 16 00:59:31 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-convertPerlRegexToPattern with net.sf.uadetector.internal.util.RegularExpressionConverterTest-convertPerlRegexToPattern_regexWithApparentlyIntersection
+Wed May 16 00:59:31 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-convertPerlRegexToPattern with net.sf.uadetector.internal.util.RegularExpressionConverterTest-convertPerlRegexToPattern_simpleRegex
+Wed May 16 00:59:31 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-convertPerlRegexToPattern with net.sf.uadetector.internal.util.RegularExpressionConverterTest-convertPerlRegexToPattern_regexWithModifiers
+Wed May 16 00:59:32 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-convertPerlRegexToPattern with net.sf.uadetector.internal.util.RegularExpressionConverterTest-convertPerlRegexToPattern_faultTolerantModifierRegexConverting_NintendoDS
+Wed May 16 00:59:32 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-convertPerlRegexToPattern with net.sf.uadetector.internal.util.RegularExpressionConverterTest-convertPerlRegexToPattern_regexWithWhitespace
+Wed May 16 00:59:32 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-translateModifiers with net.sf.uadetector.internal.util.RegularExpressionConverterTest-translateModifiers_null
+Wed May 16 00:59:32 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-convertPerlRegexToPattern with net.sf.uadetector.internal.util.RegularExpressionConverterTest-convertPerlRegexToPattern_swiftfoxRegex
+Wed May 16 00:59:33 UTC 2018: Code found net.sf.uadetector.internal.util.RegularExpressionConverter-translateModifiers with net.sf.uadetector.internal.util.RegularExpressionConverterTest-translateModifiers_si
+Wed May 16 00:59:33 UTC 2018: No link for: net.sf.uadetector.internal.util.RegularExpressionConverterTest-giveMeCoverageForMyPrivateConstructor
+Wed May 16 00:59:33 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.util.RegularExpressionConverterTest
+Wed May 16 00:59:34 UTC 2018: Found element on the queue
+Wed May 16 00:59:34 UTC 2018: Updating status
+Wed May 16 00:59:34 UTC 2018: Working
+Wed May 16 00:59:37 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.RobotBuilderTest
+Wed May 16 00:59:37 UTC 2018: Setting lastTestMethodIndex: 54168
+Wed May 16 00:59:37 UTC 2018: Starting linking
+Wed May 16 00:59:37 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setId with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setId_alphaString
+Wed May 16 00:59:37 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setFamily with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setFamily_null
+Wed May 16 00:59:38 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setId with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setId_null
+Wed May 16 00:59:38 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setUserAgentString with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setUserAgentString_null
+Wed May 16 00:59:38 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setId with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setId_numericString
+Wed May 16 00:59:38 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setProducerUrl with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setProducerUrl_null
+Wed May 16 00:59:39 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setProducer with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setProducer_null
+Wed May 16 00:59:39 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setUrl with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setUrl_null
+Wed May 16 00:59:39 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setInfoUrl with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setInfoUrl_null
+Wed May 16 00:59:40 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setId with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setId_toSmall
+Wed May 16 00:59:40 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setId with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setId_emptyString
+Wed May 16 00:59:40 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setName with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setName_null
+Wed May 16 00:59:40 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Robot$Builder-setIcon with net.sf.uadetector.internal.data.domain.RobotBuilderTest-setIcon_null
+Wed May 16 00:59:41 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotBuilderTest-testGetters
+Wed May 16 00:59:41 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.RobotBuilderTest
+Wed May 16 00:59:42 UTC 2018: Found element on the queue
+Wed May 16 00:59:42 UTC 2018: Updating status
+Wed May 16 00:59:42 UTC 2018: Working
+Wed May 16 00:59:44 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest
+Wed May 16 00:59:44 UTC 2018: Setting lastTestMethodIndex: 54174
+Wed May 16 00:59:44 UTC 2018: Starting linking
+Wed May 16 00:59:44 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserType$Builder-setName with net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest-setName_null
+Wed May 16 00:59:44 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserType$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest-setId_byString_invalid
+Wed May 16 00:59:45 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserType$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest-setId_byString_valid
+Wed May 16 00:59:45 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserType$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest-setId_toSmall
+Wed May 16 00:59:45 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserType$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest-setId_byString_toSmall
+Wed May 16 00:59:45 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserType$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest-setId_null
+Wed May 16 00:59:46 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest-testSettersAndGetters
+Wed May 16 00:59:46 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserTypeBuilderTest
+Wed May 16 00:59:47 UTC 2018: Found element on the queue
+Wed May 16 00:59:47 UTC 2018: Updating status
+Wed May 16 00:59:47 UTC 2018: Working
+Wed May 16 00:59:49 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest
+Wed May 16 00:59:49 UTC 2018: Setting lastTestMethodIndex: 54177
+Wed May 16 00:59:49 UTC 2018: Starting linking
+Wed May 16 00:59:49 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-compare_differentPatternFlags
+Wed May 16 00:59:49 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-compareTo_null
+Wed May 16 00:59:50 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-constructor_pattern_null
+Wed May 16 00:59:50 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-equals_different
+Wed May 16 00:59:50 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-testToString
+Wed May 16 00:59:51 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-compare_identicalPatternFlags
+Wed May 16 00:59:51 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-compareTo_differentPosition
+Wed May 16 00:59:51 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-constructor_order_toSmall
+Wed May 16 00:59:51 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-constructor_id_toSmall
+Wed May 16 00:59:52 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-testGetters
+Wed May 16 00:59:52 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-compareTo_same
+Wed May 16 00:59:52 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-equals_identical
+Wed May 16 00:59:52 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest-equals_same
+Wed May 16 00:59:53 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.OperatingSystemPatternTest
+Wed May 16 00:59:53 UTC 2018: Found element on the queue
+Wed May 16 00:59:53 UTC 2018: Updating status
+Wed May 16 00:59:53 UTC 2018: Working
+Wed May 16 00:59:56 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest
+Wed May 16 00:59:56 UTC 2018: Setting lastTestMethodIndex: 54181
+Wed May 16 00:59:56 UTC 2018: Starting linking
+Wed May 16 00:59:56 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setOperatingSystemId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setOperatingSystemId_abcString
+Wed May 16 00:59:56 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setBrowserId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setBrowserId_toSmall
+Wed May 16 00:59:56 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setBrowserId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setBrowserId_null
+Wed May 16 00:59:57 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setBrowserId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setBrowserId_successful
+Wed May 16 00:59:57 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setOperatingSystemId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setOperatingSystemId_null
+Wed May 16 00:59:57 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setOperatingSystemId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setOperatingSystemId_emptyString
+Wed May 16 00:59:57 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setOperatingSystemId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setOperatingSystemId_toSmall
+Wed May 16 00:59:58 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setBrowserId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setBrowserId_emptyString
+Wed May 16 00:59:58 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setBrowserId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setBrowserId_abcString
+Wed May 16 00:59:58 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMapping$Builder-setOperatingSystemId with net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-setOperatingSystemId_successful
+Wed May 16 00:59:59 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest-testGetters
+Wed May 16 00:59:59 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingBuilderTest
+Wed May 16 00:59:59 UTC 2018: Found element on the queue
+Wed May 16 00:59:59 UTC 2018: Updating status
+Wed May 16 01:00:00 UTC 2018: Working
+Wed May 16 01:00:03 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserTypeTest
+Wed May 16 01:00:03 UTC 2018: Setting lastTestMethodIndex: 54185
+Wed May 16 01:00:03 UTC 2018: Starting linking
+Wed May 16 01:00:03 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTypeTest-equals_different
+Wed May 16 01:00:03 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTypeTest-constructor_id_toSmall
+Wed May 16 01:00:03 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTypeTest-equals_same
+Wed May 16 01:00:03 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTypeTest-equals_identical
+Wed May 16 01:00:04 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTypeTest-constructor_name_null
+Wed May 16 01:00:04 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTypeTest-testToString
+Wed May 16 01:00:04 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserTypeTest
+Wed May 16 01:00:05 UTC 2018: Found element on the queue
+Wed May 16 01:00:05 UTC 2018: Updating status
+Wed May 16 01:00:05 UTC 2018: Working
+Wed May 16 01:00:07 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest
+Wed May 16 01:00:07 UTC 2018: Setting lastTestMethodIndex: 54189
+Wed May 16 01:00:07 UTC 2018: Starting linking
+Wed May 16 01:00:07 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-build with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-build_withoutPattern
+Wed May 16 01:00:08 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-build with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-build_withoutId
+Wed May 16 01:00:08 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setId_null
+Wed May 16 01:00:08 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPosition with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPosition_emptyString
+Wed May 16 01:00:09 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-build with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-build_withoutOrder
+Wed May 16 01:00:09 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setId_numericString
+Wed May 16 01:00:09 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPattern with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPattern_pattern_null
+Wed May 16 01:00:09 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPerlRegularExpression with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPerlRegularExpression_string_null
+Wed May 16 01:00:10 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPerlRegularExpression with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPerlRegularExpression_nonPerlStyleExpression
+Wed May 16 01:00:10 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setId_alphaString
+Wed May 16 01:00:10 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPosition with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPosition_null
+Wed May 16 01:00:10 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPosition with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPosition_alphaString
+Wed May 16 01:00:11 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setId_toSmall
+Wed May 16 01:00:11 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPerlRegularExpression with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPerlRegularExpression_emptyString
+Wed May 16 01:00:11 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPosition with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPosition_toSmall
+Wed May 16 01:00:12 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setId_emptyString
+Wed May 16 01:00:12 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystemPattern$Builder-setPerlRegularExpression with net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-setPerlRegularExpression_validPerlStyleExpression
+Wed May 16 01:00:12 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest-equality
+Wed May 16 01:00:12 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.OperatingSystemPatternBuilderTest
+Wed May 16 01:00:13 UTC 2018: Found element on the queue
+Wed May 16 01:00:13 UTC 2018: Updating status
+Wed May 16 01:00:13 UTC 2018: Working
+Wed May 16 01:00:16 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.RobotTest
+Wed May 16 01:00:16 UTC 2018: Setting lastTestMethodIndex: 54192
+Wed May 16 01:00:16 UTC 2018: Starting linking
+Wed May 16 01:00:16 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_producerUrl_null
+Wed May 16 01:00:16 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_successful
+Wed May 16 01:00:16 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentInfoUrl
+Wed May 16 01:00:16 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentFamily
+Wed May 16 01:00:17 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentProducer
+Wed May 16 01:00:17 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_family_null
+Wed May 16 01:00:17 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentName
+Wed May 16 01:00:17 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_otherClass
+Wed May 16 01:00:18 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_same
+Wed May 16 01:00:18 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentUserAgentString
+Wed May 16 01:00:18 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentId
+Wed May 16 01:00:19 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_infoUrl_null
+Wed May 16 01:00:19 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_producer_null
+Wed May 16 01:00:19 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_identical
+Wed May 16 01:00:19 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_icon_null
+Wed May 16 01:00:20 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentUrl
+Wed May 16 01:00:20 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_name_null
+Wed May 16 01:00:20 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_id_toSmall
+Wed May 16 01:00:20 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentProducerUrl
+Wed May 16 01:00:21 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-testGetters
+Wed May 16 01:00:21 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-testToString
+Wed May 16 01:00:21 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_url_null
+Wed May 16 01:00:21 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_null
+Wed May 16 01:00:22 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-copyTo_successful
+Wed May 16 01:00:22 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-construct_userAgentString_null
+Wed May 16 01:00:22 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.RobotTest-equals_differentIcon
+Wed May 16 01:00:23 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.RobotTest
+Wed May 16 01:00:23 UTC 2018: Found element on the queue
+Wed May 16 01:00:23 UTC 2018: Updating status
+Wed May 16 01:00:23 UTC 2018: Working
+Wed May 16 01:00:26 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.OperatingSystemTest
+Wed May 16 01:00:26 UTC 2018: Setting lastTestMethodIndex: 54198
+Wed May 16 01:00:26 UTC 2018: Starting linking
+Wed May 16 01:00:26 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentInfoUrl
+Wed May 16 01:00:26 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_successful
+Wed May 16 01:00:27 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentFamily
+Wed May 16 01:00:27 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_producerUrl_null
+Wed May 16 01:00:27 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_same
+Wed May 16 01:00:28 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_identical_withIdenticalPatternSet
+Wed May 16 01:00:28 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentIcon
+Wed May 16 01:00:28 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_identical_withSamePatternSet
+Wed May 16 01:00:28 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentProducerUrl
+Wed May 16 01:00:29 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentProducer
+Wed May 16 01:00:29 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_otherClass
+Wed May 16 01:00:29 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-testGetters
+Wed May 16 01:00:30 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_patternSet_null
+Wed May 16 01:00:30 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentUrl
+Wed May 16 01:00:30 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentPatternSet
+Wed May 16 01:00:30 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-testToString
+Wed May 16 01:00:31 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentId
+Wed May 16 01:00:31 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_icon_null
+Wed May 16 01:00:31 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_null
+Wed May 16 01:00:31 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-copyTo_successful
+Wed May 16 01:00:32 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-equals_differentName
+Wed May 16 01:00:32 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_family_null
+Wed May 16 01:00:32 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_url_null
+Wed May 16 01:00:33 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_name_null
+Wed May 16 01:00:33 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_infoUrl_null
+Wed May 16 01:00:33 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_producer_null
+Wed May 16 01:00:33 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemTest-construct_id_toSmall
+Wed May 16 01:00:34 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.OperatingSystemTest
+Wed May 16 01:00:34 UTC 2018: Found element on the queue
+Wed May 16 01:00:34 UTC 2018: Updating status
+Wed May 16 01:00:34 UTC 2018: Working
+Wed May 16 01:00:37 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest
+Wed May 16 01:00:37 UTC 2018: Setting lastTestMethodIndex: 54204
+Wed May 16 01:00:37 UTC 2018: Starting linking
+Wed May 16 01:00:37 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-construct_browserId_toSmall
+Wed May 16 01:00:37 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-construct_successful
+Wed May 16 01:00:37 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-testToString
+Wed May 16 01:00:38 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-construct_operatingSystemId_toSmall
+Wed May 16 01:00:38 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-equals_identical
+Wed May 16 01:00:38 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-equals_same
+Wed May 16 01:00:38 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-equals_otherClass
+Wed May 16 01:00:39 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-testGetters
+Wed May 16 01:00:39 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-equals_differentBrowserId
+Wed May 16 01:00:39 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-equals_differentOperatingSystemId
+Wed May 16 01:00:40 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest-equals_null
+Wed May 16 01:00:40 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserOperatingSystemMappingTest
+Wed May 16 01:00:40 UTC 2018: Found element on the queue
+Wed May 16 01:00:40 UTC 2018: Updating status
+Wed May 16 01:00:40 UTC 2018: Working
+Wed May 16 01:00:43 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserBuilderTest
+Wed May 16 01:00:43 UTC 2018: Setting lastTestMethodIndex: 54208
+Wed May 16 01:00:43 UTC 2018: Starting linking
+Wed May 16 01:00:43 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setFamily with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setFamily_null
+Wed May 16 01:00:43 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setId_null
+Wed May 16 01:00:43 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setTypeId with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setTypeId_emptyString
+Wed May 16 01:00:44 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setId_alphaString
+Wed May 16 01:00:44 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setPatternSet with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setPatternSet_null
+Wed May 16 01:00:44 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-copy with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-construct_copy_successful
+Wed May 16 01:00:44 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setUrl with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setUrl_null
+Wed May 16 01:00:45 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setId_numericString
+Wed May 16 01:00:45 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setInfoUrl with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setInfoUrl_null
+Wed May 16 01:00:45 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setProducer with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setProducer_null
+Wed May 16 01:00:46 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setProducerUrl with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setProducerUrl_null
+Wed May 16 01:00:46 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setId_toSmall
+Wed May 16 01:00:46 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setOperatingSystem with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setOperatingSystem_null
+Wed May 16 01:00:46 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setTypeId with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setTypeId_null
+Wed May 16 01:00:47 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setId_emptyString
+Wed May 16 01:00:47 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setType with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setType_null
+Wed May 16 01:00:47 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setTypeId with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setTypeId_toSmall
+Wed May 16 01:00:47 UTC 2018: Code found net.sf.uadetector.internal.data.domain.Browser$Builder-setIcon with net.sf.uadetector.internal.data.domain.BrowserBuilderTest-setIcon_null
+Wed May 16 01:00:48 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserBuilderTest-testGetters
+Wed May 16 01:00:48 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserBuilderTest-construct_builder_null
+Wed May 16 01:00:48 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserBuilderTest
+Wed May 16 01:00:49 UTC 2018: Found element on the queue
+Wed May 16 01:00:49 UTC 2018: Updating status
+Wed May 16 01:00:49 UTC 2018: Working
+Wed May 16 01:00:51 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserPatternTest
+Wed May 16 01:00:51 UTC 2018: Setting lastTestMethodIndex: 54213
+Wed May 16 01:00:51 UTC 2018: Starting linking
+Wed May 16 01:00:51 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-compareTo_differentPosition
+Wed May 16 01:00:52 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-compareTo_identical
+Wed May 16 01:00:52 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-testGetters
+Wed May 16 01:00:52 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-testToString
+Wed May 16 01:00:52 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-compare_identicalPatternFlags
+Wed May 16 01:00:53 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-compareTo_same
+Wed May 16 01:00:53 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-constructor_order_toSmall
+Wed May 16 01:00:53 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-constructor_id_toSmall
+Wed May 16 01:00:53 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-equals_identical
+Wed May 16 01:00:54 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-equals_same
+Wed May 16 01:00:54 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-compare_differentPatternFlags
+Wed May 16 01:00:54 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-compareTo_null
+Wed May 16 01:00:54 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-equals_different
+Wed May 16 01:00:55 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternTest-constructor_pattern_null
+Wed May 16 01:00:55 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserPatternTest
+Wed May 16 01:00:55 UTC 2018: Found element on the queue
+Wed May 16 01:00:55 UTC 2018: Updating status
+Wed May 16 01:00:55 UTC 2018: Working
+Wed May 16 01:00:58 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserTest
+Wed May 16 01:00:58 UTC 2018: Setting lastTestMethodIndex: 54216
+Wed May 16 01:00:58 UTC 2018: Starting linking
+Wed May 16 01:00:58 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-testGetters
+Wed May 16 01:00:58 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentUrl
+Wed May 16 01:00:59 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_icon_null
+Wed May 16 01:00:59 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_infoUrl_null
+Wed May 16 01:00:59 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_null
+Wed May 16 01:00:59 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_producer_null
+Wed May 16 01:01:00 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_id_toSmall
+Wed May 16 01:01:00 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentOperatingSystem
+Wed May 16 01:01:00 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_identical_nullOperatingSystem
+Wed May 16 01:01:01 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentPatternSet_differentEntries
+Wed May 16 01:01:01 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_operatingSystem_null
+Wed May 16 01:01:01 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_url_null
+Wed May 16 01:01:01 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_family_null
+Wed May 16 01:01:02 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentProducer
+Wed May 16 01:01:02 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentType
+Wed May 16 01:01:02 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_otherClass
+Wed May 16 01:01:03 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentIcon
+Wed May 16 01:01:03 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_type_null
+Wed May 16 01:01:03 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-copyTo_successful_withOperatingSystem
+Wed May 16 01:01:03 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-copyTo_successful_withoutOperatingSystem
+Wed May 16 01:01:04 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_producerUrl_null
+Wed May 16 01:01:04 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentProducerUrl
+Wed May 16 01:01:04 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentFamily
+Wed May 16 01:01:04 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_same
+Wed May 16 01:01:05 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-construct_patternSet_null
+Wed May 16 01:01:05 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentPatternSet_differentEntrySize
+Wed May 16 01:01:05 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-testToString
+Wed May 16 01:01:06 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentId
+Wed May 16 01:01:06 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentInfoUrl
+Wed May 16 01:01:06 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentPatternSet_identicalEntries
+Wed May 16 01:01:07 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserTest-equals_differentOperatingSystem_oneIsNull
+Wed May 16 01:01:07 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserTest
+Wed May 16 01:01:07 UTC 2018: Found element on the queue
+Wed May 16 01:01:07 UTC 2018: Updating status
+Wed May 16 01:01:07 UTC 2018: Working
+Wed May 16 01:01:10 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest
+Wed May 16 01:01:10 UTC 2018: Setting lastTestMethodIndex: 54222
+Wed May 16 01:01:10 UTC 2018: Starting linking
+Wed May 16 01:01:10 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-build with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-build_withoutId
+Wed May 16 01:01:10 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-build with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-build_withoutOrder
+Wed May 16 01:01:10 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setId_alphaString
+Wed May 16 01:01:10 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setPattern with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setPattern_pattern_null
+Wed May 16 01:01:11 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setPerlRegularExpression with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setPerlRegularExpression_validPerlStyleExpression
+Wed May 16 01:01:11 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setPerlRegularExpression with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setPerlRegularExpression_emptyString
+Wed May 16 01:01:11 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-build with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-build_withoutPattern
+Wed May 16 01:01:11 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setId_null
+Wed May 16 01:01:12 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setId_emptyString
+Wed May 16 01:01:12 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setId_toSmall
+Wed May 16 01:01:12 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setPerlRegularExpression with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setPerlRegularExpression_string_null
+Wed May 16 01:01:12 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setPerlRegularExpression with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setPerlRegularExpression_nonPerlStyleExpression
+Wed May 16 01:01:13 UTC 2018: Code found net.sf.uadetector.internal.data.domain.BrowserPattern$Builder-setId with net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setId_numericString
+Wed May 16 01:01:13 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setOrder_emptyString
+Wed May 16 01:01:13 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setOrder_null
+Wed May 16 01:01:13 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setOrder_alphaString
+Wed May 16 01:01:14 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-equality
+Wed May 16 01:01:14 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest-setOrder_toSmall
+Wed May 16 01:01:14 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.BrowserPatternBuilderTest
+Wed May 16 01:01:15 UTC 2018: Found element on the queue
+Wed May 16 01:01:15 UTC 2018: Updating status
+Wed May 16 01:01:15 UTC 2018: Working
+Wed May 16 01:01:17 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest
+Wed May 16 01:01:17 UTC 2018: Setting lastTestMethodIndex: 54226
+Wed May 16 01:01:17 UTC 2018: Starting linking
+Wed May 16 01:01:17 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setId_numericString
+Wed May 16 01:01:17 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setUrl with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setUrl_null
+Wed May 16 01:01:18 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setProducerUrl with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setProducerUrl_null
+Wed May 16 01:01:18 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-copy with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-construct_copy_successful
+Wed May 16 01:01:18 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setFamily with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setFamily_null
+Wed May 16 01:01:19 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setId_alphaString
+Wed May 16 01:01:19 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setName with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setName_null
+Wed May 16 01:01:19 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setIcon with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setIcon_null
+Wed May 16 01:01:19 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setProducer with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setProducer_null
+Wed May 16 01:01:20 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setInfoUrl with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setInfoUrl_null
+Wed May 16 01:01:20 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setId_null
+Wed May 16 01:01:20 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setId_toSmall
+Wed May 16 01:01:21 UTC 2018: Code found net.sf.uadetector.internal.data.domain.OperatingSystem$Builder-setId with net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setId_emptyString
+Wed May 16 01:01:21 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-construct_builder_null
+Wed May 16 01:01:21 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-testGetters
+Wed May 16 01:01:21 UTC 2018: No link for: net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest-setPatternSet_null
+Wed May 16 01:01:22 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.domain.OperatingSystemBuilderTest
+Wed May 16 01:01:22 UTC 2018: Found element on the queue
+Wed May 16 01:01:22 UTC 2018: Updating status
+Wed May 16 01:01:22 UTC 2018: Working
+Wed May 16 01:01:25 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.XmlDataHandlerTest
+Wed May 16 01:01:25 UTC 2018: Setting lastTestMethodIndex: 54232
+Wed May 16 01:01:25 UTC 2018: Starting linking
+Wed May 16 01:01:25 UTC 2018: Code found net.sf.uadetector.internal.data.XmlDataHandler-resolveEntity with net.sf.uadetector.internal.data.XmlDataHandlerTest-resolveEntity_knownUrl
+Wed May 16 01:01:25 UTC 2018: Code found net.sf.uadetector.internal.data.XmlDataHandler-resolveEntity with net.sf.uadetector.internal.data.XmlDataHandlerTest-resolveEntity_unknownUrl
+Wed May 16 01:01:25 UTC 2018: No link for: net.sf.uadetector.internal.data.XmlDataHandlerTest-constructor_null
+Wed May 16 01:01:26 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.XmlDataHandlerTest
+Wed May 16 01:01:26 UTC 2018: Found element on the queue
+Wed May 16 01:01:26 UTC 2018: Updating status
+Wed May 16 01:01:26 UTC 2018: Working
+Wed May 16 01:01:29 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.XmlDataHandlerTagTest
+Wed May 16 01:01:29 UTC 2018: Setting lastTestMethodIndex: 54235
+Wed May 16 01:01:29 UTC 2018: Starting linking
+Wed May 16 01:01:29 UTC 2018: No link for: net.sf.uadetector.internal.data.XmlDataHandlerTagTest-constructor_null
+Wed May 16 01:01:29 UTC 2018: No link for: net.sf.uadetector.internal.data.XmlDataHandlerTagTest-isTag
+Wed May 16 01:01:29 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.XmlDataHandlerTagTest
+Wed May 16 01:01:30 UTC 2018: Found element on the queue
+Wed May 16 01:01:30 UTC 2018: Updating status
+Wed May 16 01:01:30 UTC 2018: Working
+Wed May 16 01:01:32 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.DataTest
+Wed May 16 01:01:32 UTC 2018: Setting lastTestMethodIndex: 54238
+Wed May 16 01:01:32 UTC 2018: Starting linking
+Wed May 16 01:01:32 UTC 2018: No link for: net.sf.uadetector.internal.data.DataTest-construct_operatingSystems_null
+Wed May 16 01:01:33 UTC 2018: No link for: net.sf.uadetector.internal.data.DataTest-construct_patternBrowserMap_null
+Wed May 16 01:01:33 UTC 2018: No link for: net.sf.uadetector.internal.data.DataTest-construct_patternOsMap_null
+Wed May 16 01:01:33 UTC 2018: No link for: net.sf.uadetector.internal.data.DataTest-construct_version_null
+Wed May 16 01:01:33 UTC 2018: No link for: net.sf.uadetector.internal.data.DataTest-testToString
+Wed May 16 01:01:34 UTC 2018: No link for: net.sf.uadetector.internal.data.DataTest-testGetters
+Wed May 16 01:01:34 UTC 2018: No link for: net.sf.uadetector.internal.data.DataTest-construct_browsers_null
+Wed May 16 01:01:34 UTC 2018: No link for: net.sf.uadetector.internal.data.DataTest-construct_robots_null
+Wed May 16 01:01:34 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.DataTest
+Wed May 16 01:01:35 UTC 2018: Found element on the queue
+Wed May 16 01:01:35 UTC 2018: Updating status
+Wed May 16 01:01:35 UTC 2018: Working
+Wed May 16 01:01:38 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.internal.data.OrderedPatternComparatorTest
+Wed May 16 01:01:38 UTC 2018: Setting lastTestMethodIndex: 54241
+Wed May 16 01:01:38 UTC 2018: Starting linking
+Wed May 16 01:01:38 UTC 2018: Code found net.sf.uadetector.internal.data.OrderedPatternComparator-compare with net.sf.uadetector.internal.data.OrderedPatternComparatorTest-compare_null_2
+Wed May 16 01:01:38 UTC 2018: Code found net.sf.uadetector.internal.data.OrderedPatternComparator-compare with net.sf.uadetector.internal.data.OrderedPatternComparatorTest-compare_null_1
+Wed May 16 01:01:38 UTC 2018: Code found net.sf.uadetector.internal.data.OrderedPatternComparator-compare with net.sf.uadetector.internal.data.OrderedPatternComparatorTest-compare_null_3
+Wed May 16 01:01:38 UTC 2018: Code found net.sf.uadetector.internal.data.OrderedPatternComparator-compare with net.sf.uadetector.internal.data.OrderedPatternComparatorTest-compare_identical
+Wed May 16 01:01:39 UTC 2018: Code found net.sf.uadetector.internal.data.OrderedPatternComparator-compare with net.sf.uadetector.internal.data.OrderedPatternComparatorTest-compare_same
+Wed May 16 01:01:39 UTC 2018: Code found net.sf.uadetector.internal.data.OrderedPatternComparator-compare with net.sf.uadetector.internal.data.OrderedPatternComparatorTest-compare_differentFlags
+Wed May 16 01:01:39 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.internal.data.OrderedPatternComparatorTest
+Wed May 16 01:01:40 UTC 2018: Found element on the queue
+Wed May 16 01:01:40 UTC 2018: Updating status
+Wed May 16 01:01:40 UTC 2018: Working
+Wed May 16 01:01:42 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.UserAgentTypeTest
+Wed May 16 01:01:42 UTC 2018: Setting lastTestMethodIndex: 54244
+Wed May 16 01:01:42 UTC 2018: Starting linking
+Wed May 16 01:01:42 UTC 2018: No link for: net.sf.uadetector.UserAgentTypeTest-evaluateByType_unknownString
+Wed May 16 01:01:43 UTC 2018: No link for: net.sf.uadetector.UserAgentTypeTest-evaluateByType_knownString_ROBOT
+Wed May 16 01:01:43 UTC 2018: No link for: net.sf.uadetector.UserAgentTypeTest-evaluateByType_knownString_BROWSER
+Wed May 16 01:01:43 UTC 2018: No link for: net.sf.uadetector.UserAgentTypeTest-evaluateByType_emptyString
+Wed May 16 01:01:43 UTC 2018: No link for: net.sf.uadetector.UserAgentTypeTest-evaluateByType_null
+Wed May 16 01:01:44 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.UserAgentTypeTest
+Wed May 16 01:01:44 UTC 2018: Found element on the queue
+Wed May 16 01:01:44 UTC 2018: Updating status
+Wed May 16 01:01:44 UTC 2018: Working
+Wed May 16 01:01:47 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.OperatingSystemFamilyTest
+Wed May 16 01:01:47 UTC 2018: Setting lastTestMethodIndex: 54246
+Wed May 16 01:01:47 UTC 2018: Starting linking
+Wed May 16 01:01:47 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluateByName_knownString_IOS
+Wed May 16 01:01:47 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluate_emptyString
+Wed May 16 01:01:47 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluate_knownString_LINUX
+Wed May 16 01:01:47 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluateByName_null
+Wed May 16 01:01:48 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluateByName_unknownString
+Wed May 16 01:01:48 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluateByPattern_emptyString
+Wed May 16 01:01:48 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluateByPattern_unknownString
+Wed May 16 01:01:48 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluateByName_emptyString
+Wed May 16 01:01:49 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluateByPattern_null
+Wed May 16 01:01:49 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluate_null
+Wed May 16 01:01:49 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluateByPattern_knownString_IOS
+Wed May 16 01:01:49 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluate_unknownString
+Wed May 16 01:01:50 UTC 2018: No link for: net.sf.uadetector.OperatingSystemFamilyTest-evaluate_knownString_XMB
+Wed May 16 01:01:50 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.OperatingSystemFamilyTest
+Wed May 16 01:01:50 UTC 2018: Found element on the queue
+Wed May 16 01:01:50 UTC 2018: Updating status
+Wed May 16 01:01:50 UTC 2018: Working
+Wed May 16 01:01:53 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.VersionNumberTest
+Wed May 16 01:01:53 UTC 2018: Setting lastTestMethodIndex: 54249
+Wed May 16 01:01:53 UTC 2018: Starting linking
+Wed May 16 01:01:53 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_differentExtension
+Wed May 16 01:01:53 UTC 2018: Code found net.sf.uadetector.VersionNumber-compareTo with net.sf.uadetector.VersionNumberTest-compareTo_differentMajor
+Wed May 16 01:01:54 UTC 2018: Code found net.sf.uadetector.VersionNumber-compareTo with net.sf.uadetector.VersionNumberTest-compareTo_differentMinor
+Wed May 16 01:01:54 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_same
+Wed May 16 01:01:54 UTC 2018: Code found net.sf.uadetector.VersionNumber-compareTo with net.sf.uadetector.VersionNumberTest-compareTo_null
+Wed May 16 01:01:54 UTC 2018: Code found net.sf.uadetector.VersionNumber-compareTo with net.sf.uadetector.VersionNumberTest-compareTo_differentBugfix
+Wed May 16 01:01:55 UTC 2018: Code found net.sf.uadetector.VersionNumber-replaceNullValueWithEmptyGroup with net.sf.uadetector.VersionNumberTest-replaceNullValueWithEmptyGroup_withNullValues
+Wed May 16 01:01:55 UTC 2018: Code found net.sf.uadetector.VersionNumber-toString with net.sf.uadetector.VersionNumberTest-testToString
+Wed May 16 01:01:55 UTC 2018: Code found net.sf.uadetector.VersionNumber-replaceNullValueWithEmptyGroup with net.sf.uadetector.VersionNumberTest-replaceNullValueWithEmptyGroup_toShort
+Wed May 16 01:01:56 UTC 2018: Code found net.sf.uadetector.VersionNumber-compareTo with net.sf.uadetector.VersionNumberTest-compareTo_otherImplementation_getGroups_null
+Wed May 16 01:01:56 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_differentBugfix
+Wed May 16 01:01:56 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_differentRevisionNumber
+Wed May 16 01:01:56 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_differentMinor
+Wed May 16 01:01:57 UTC 2018: Code found net.sf.uadetector.VersionNumber-replaceNullValueWithEmptyGroup with net.sf.uadetector.VersionNumberTest-replaceNullValueWithEmptyGroup_null
+Wed May 16 01:01:57 UTC 2018: Code found net.sf.uadetector.VersionNumber-getGroups with net.sf.uadetector.VersionNumberTest-getGroups_unmodifiable
+Wed May 16 01:01:57 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_differentMajor
+Wed May 16 01:01:57 UTC 2018: Code found net.sf.uadetector.VersionNumber-replaceNullValueWithEmptyGroup with net.sf.uadetector.VersionNumberTest-replaceNullValueWithEmptyGroup_withoutNullValues
+Wed May 16 01:01:58 UTC 2018: Code found net.sf.uadetector.VersionNumber-compareTo with net.sf.uadetector.VersionNumberTest-compareTo_differentExtension
+Wed May 16 01:01:58 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_otherClass
+Wed May 16 01:01:58 UTC 2018: Code found net.sf.uadetector.VersionNumber-compareTo with net.sf.uadetector.VersionNumberTest-compareTo_differentRevisionNumber
+Wed May 16 01:01:58 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_identical
+Wed May 16 01:01:59 UTC 2018: Code found net.sf.uadetector.VersionNumber-equals with net.sf.uadetector.VersionNumberTest-equals_null
+Wed May 16 01:01:59 UTC 2018: Code found net.sf.uadetector.VersionNumber-getGroups with net.sf.uadetector.VersionNumberTest-getGroups
+Wed May 16 01:01:59 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_0_0_0
+Wed May 16 01:01:59 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_1_2_null
+Wed May 16 01:02:00 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_noVersion
+Wed May 16 01:02:00 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_0_0_0_001
+Wed May 16 01:02:00 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_invalid_version
+Wed May 16 01:02:01 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_1_2_0
+Wed May 16 01:02:01 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_minimal
+Wed May 16 01:02:01 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_1_2
+Wed May 16 01:02:01 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_1_2_EMPTY_GROUP
+Wed May 16 01:02:02 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_sizeOfListToSmall
+Wed May 16 01:02:02 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-compareTo_listOfVersions_1
+Wed May 16 01:02:02 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_1_2_minus1
+Wed May 16 01:02:02 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-compareTo_listOfVersions_2
+Wed May 16 01:02:03 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_major_toSmall
+Wed May 16 01:02:03 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_groups_null
+Wed May 16 01:02:03 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_groups_null_null_null_0
+Wed May 16 01:02:04 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_1_minus1_1
+Wed May 16 01:02:04 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_longVersion
+Wed May 16 01:02:04 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_minusNumbers
+Wed May 16 01:02:04 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_1_2_0_null
+Wed May 16 01:02:05 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_hasNullValues
+Wed May 16 01:02:05 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_minor_toSmall
+Wed May 16 01:02:05 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_extension_null
+Wed May 16 01:02:05 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_0
+Wed May 16 01:02:06 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_bugfix_toSmall
+Wed May 16 01:02:06 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_0
+Wed May 16 01:02:06 UTC 2018: No link for: net.sf.uadetector.VersionNumberTest-construct_version_1_null_1
+Wed May 16 01:02:06 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.VersionNumberTest
+Wed May 16 01:02:07 UTC 2018: Found element on the queue
+Wed May 16 01:02:07 UTC 2018: Updating status
+Wed May 16 01:02:07 UTC 2018: Working
+Wed May 16 01:02:09 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.UserAgentBuilderTest
+Wed May 16 01:02:09 UTC 2018: Setting lastTestMethodIndex: 54258
+Wed May 16 01:02:09 UTC 2018: Starting linking
+Wed May 16 01:02:09 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setFamily with net.sf.uadetector.UserAgentBuilderTest-setFamily_null
+Wed May 16 01:02:10 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setProducer with net.sf.uadetector.UserAgentBuilderTest-setProducer_null
+Wed May 16 01:02:10 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setUserAgentString with net.sf.uadetector.UserAgentBuilderTest-setUserAgentString
+Wed May 16 01:02:10 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setName with net.sf.uadetector.UserAgentBuilderTest-setName_null
+Wed May 16 01:02:11 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setTypeName with net.sf.uadetector.UserAgentBuilderTest-setTypeName_null
+Wed May 16 01:02:11 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setUserAgentString with net.sf.uadetector.UserAgentBuilderTest-setUserAgentString_null
+Wed May 16 01:02:11 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setOperatingSystem with net.sf.uadetector.UserAgentBuilderTest-setOperatingSystem_null
+Wed May 16 01:02:11 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setProducerUrl with net.sf.uadetector.UserAgentBuilderTest-setProducerUrl_null
+Wed May 16 01:02:12 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setOperatingSystem with net.sf.uadetector.UserAgentBuilderTest-setOperatingSystem_ReadableOperatingSystem_invalidFamily
+Wed May 16 01:02:12 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setVersionNumber with net.sf.uadetector.UserAgentBuilderTest-setVersionNumber_null
+Wed May 16 01:02:12 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setUrl with net.sf.uadetector.UserAgentBuilderTest-setUrl_null
+Wed May 16 01:02:12 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-build with net.sf.uadetector.UserAgentBuilderTest-build_custom
+Wed May 16 01:02:13 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setOperatingSystem with net.sf.uadetector.UserAgentBuilderTest-setOperatingSystem_ReadableOperatingSystem_null
+Wed May 16 01:02:13 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-build with net.sf.uadetector.UserAgentBuilderTest-build_empty
+Wed May 16 01:02:13 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setOperatingSystem with net.sf.uadetector.UserAgentBuilderTest-setOperatingSystem_ReadableOperatingSystem
+Wed May 16 01:02:14 UTC 2018: Code found net.sf.uadetector.UserAgent$Builder-setType with net.sf.uadetector.UserAgentBuilderTest-setType_null
+Wed May 16 01:02:14 UTC 2018: No link for: net.sf.uadetector.UserAgentBuilderTest-construct_null
+Wed May 16 01:02:14 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.UserAgentBuilderTest
+Wed May 16 01:02:15 UTC 2018: Found element on the queue
+Wed May 16 01:02:15 UTC 2018: Updating status
+Wed May 16 01:02:15 UTC 2018: Working
+Wed May 16 01:02:17 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.UserAgentTest
+Wed May 16 01:02:17 UTC 2018: Setting lastTestMethodIndex: 54263
+Wed May 16 01:02:17 UTC 2018: Starting linking
+Wed May 16 01:02:17 UTC 2018: Code found net.sf.uadetector.OperatingSystem-toString with net.sf.uadetector.UserAgentTest-testToString
+Wed May 16 01:02:17 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentName
+Wed May 16 01:02:18 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentTypeName
+Wed May 16 01:02:18 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentUrl
+Wed May 16 01:02:18 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_typeName_null
+Wed May 16 01:02:19 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-testGetters
+Wed May 16 01:02:19 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_url_null
+Wed May 16 01:02:19 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentVersionNumber
+Wed May 16 01:02:19 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_producer_null
+Wed May 16 01:02:20 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_name_null
+Wed May 16 01:02:20 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentFamily
+Wed May 16 01:02:20 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_os_null
+Wed May 16 01:02:20 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_identical
+Wed May 16 01:02:21 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_family_null
+Wed May 16 01:02:21 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_EMPTY
+Wed May 16 01:02:21 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-testHashCode
+Wed May 16 01:02:21 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_otherClass
+Wed May 16 01:02:22 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_type_null
+Wed May 16 01:02:22 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentType
+Wed May 16 01:02:22 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentOperatingSystem
+Wed May 16 01:02:23 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_version_null
+Wed May 16 01:02:23 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-testHashCode_EMPTY
+Wed May 16 01:02:23 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-empty
+Wed May 16 01:02:23 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentProducer
+Wed May 16 01:02:24 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_differentProducerUrl
+Wed May 16 01:02:24 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-equals_null
+Wed May 16 01:02:24 UTC 2018: No link for: net.sf.uadetector.UserAgentTest-construct_producerUrl_null
+Wed May 16 01:02:24 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.UserAgentTest
+Wed May 16 01:02:25 UTC 2018: Found element on the queue
+Wed May 16 01:02:25 UTC 2018: Updating status
+Wed May 16 01:02:25 UTC 2018: Working
+Wed May 16 01:02:27 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.exception.CanNotOpenStreamExceptionTest
+Wed May 16 01:02:27 UTC 2018: Setting lastTestMethodIndex: 54269
+Wed May 16 01:02:27 UTC 2018: Starting linking
+Wed May 16 01:02:27 UTC 2018: No link for: net.sf.uadetector.exception.CanNotOpenStreamExceptionTest-construct_url_null
+Wed May 16 01:02:28 UTC 2018: No link for: net.sf.uadetector.exception.CanNotOpenStreamExceptionTest-construct_cause_null
+Wed May 16 01:02:28 UTC 2018: No link for: net.sf.uadetector.exception.CanNotOpenStreamExceptionTest-construct_url_cause_null
+Wed May 16 01:02:28 UTC 2018: No link for: net.sf.uadetector.exception.CanNotOpenStreamExceptionTest-construct_url_successful
+Wed May 16 01:02:28 UTC 2018: No link for: net.sf.uadetector.exception.CanNotOpenStreamExceptionTest-construct_cause_successful
+Wed May 16 01:02:29 UTC 2018: No link for: net.sf.uadetector.exception.CanNotOpenStreamExceptionTest-construct_default_successful
+Wed May 16 01:02:29 UTC 2018: No link for: net.sf.uadetector.exception.CanNotOpenStreamExceptionTest-construct_url_cause_successful
+Wed May 16 01:02:29 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.exception.CanNotOpenStreamExceptionTest
+Wed May 16 01:02:30 UTC 2018: Found element on the queue
+Wed May 16 01:02:30 UTC 2018: Updating status
+Wed May 16 01:02:30 UTC 2018: Working
+Wed May 16 01:02:30 UTC 2018: Create project parser
+Wed May 16 01:02:32 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.ResourceModuleXmlDataStoreTest
+Wed May 16 01:02:32 UTC 2018: Setting lastTestMethodIndex: 54272
+Wed May 16 01:02:32 UTC 2018: Starting linking
+Wed May 16 01:02:32 UTC 2018: No link for: net.sf.uadetector.ResourceModuleXmlDataStoreTest-construct_successful
+Wed May 16 01:02:33 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.ResourceModuleXmlDataStoreTest
+Wed May 16 01:02:33 UTC 2018: Found element on the queue
+Wed May 16 01:02:33 UTC 2018: Updating status
+Wed May 16 01:02:33 UTC 2018: Working
+Wed May 16 01:02:36 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.UserAgentStringParserIntegrationTest
+Wed May 16 01:02:36 UTC 2018: Setting lastTestMethodIndex: 54275
+Wed May 16 01:02:36 UTC 2018: Starting linking
+Wed May 16 01:02:36 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.UserAgentStringParserIntegrationTest
+Wed May 16 01:02:36 UTC 2018: Found element on the queue
+Wed May 16 01:02:36 UTC 2018: Updating status
+Wed May 16 01:02:36 UTC 2018: Working
+Wed May 16 01:02:39 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.OperatingSystemSampleTest
+Wed May 16 01:02:39 UTC 2018: Setting lastTestMethodIndex: 54276
+Wed May 16 01:02:39 UTC 2018: Starting linking
+Wed May 16 01:02:39 UTC 2018: No link for: net.sf.uadetector.OperatingSystemSampleTest-test
+Wed May 16 01:02:39 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.OperatingSystemSampleTest
+Wed May 16 01:02:39 UTC 2018: Found element on the queue
+Wed May 16 01:02:39 UTC 2018: Updating status
+Wed May 16 01:02:39 UTC 2018: Working
+Wed May 16 01:02:42 UTC 2018: Start jolros__uadetector test class net.sf.uadetector.KnownAgentsIntegrationTest
+Wed May 16 01:02:42 UTC 2018: Setting lastTestMethodIndex: 54278
+Wed May 16 01:02:42 UTC 2018: Starting linking
+Wed May 16 01:02:42 UTC 2018: No link for: net.sf.uadetector.KnownAgentsIntegrationTest-testUserAgentExamples
+Wed May 16 01:02:42 UTC 2018: Linking done for jolros__uadetector test class net.sf.uadetector.KnownAgentsIntegrationTest

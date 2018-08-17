@@ -1,0 +1,328 @@
+Wed May 16 02:35:52 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:35:52 UTC 2018: Starting
+Wed May 16 02:35:53 UTC 2018: Found element on the queue
+Wed May 16 02:35:53 UTC 2018: Updating status
+Wed May 16 02:35:53 UTC 2018: Working
+Wed May 16 02:35:53 UTC 2018: Create project parser
+Wed May 16 02:35:57 UTC 2018: Create slicer
+Wed May 16 02:35:59 UTC 2018: Create call graph
+Wed May 16 02:36:02 UTC 2018: Create point analysis
+Wed May 16 02:36:02 UTC 2018: Create call graph done
+Wed May 16 02:36:02 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.domain.ReservationTest
+Wed May 16 02:36:02 UTC 2018: Setting lastTestMethodIndex: 57600
+Wed May 16 02:36:02 UTC 2018: Starting linking
+Wed May 16 02:36:02 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.ReservationTest-a_reservation_can_be_saved
+Wed May 16 02:36:03 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.ReservationTest-an_open_reservation_is_reported_as_being_open
+Wed May 16 02:36:03 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.domain.ReservationTest
+Wed May 16 02:36:03 UTC 2018: Found element on the queue
+Wed May 16 02:36:03 UTC 2018: Updating status
+Wed May 16 02:36:03 UTC 2018: Working
+Wed May 16 02:36:06 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.domain.GuestModelRepositoryTest
+Wed May 16 02:36:06 UTC 2018: Setting lastTestMethodIndex: 57603
+Wed May 16 02:36:06 UTC 2018: Starting linking
+Wed May 16 02:36:06 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.GuestModelRepositoryTest-find_all_returns_empty_collection_if_db_is_empty
+Wed May 16 02:36:06 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.GuestModelRepositoryTest-unknown_guests_cannot_result_in_an_empty_optional
+Wed May 16 02:36:07 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.GuestModelRepositoryTest-a_stored_guest_can_be_retrieved
+Wed May 16 02:36:07 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.GuestModelRepositoryTest-storing_a_guest_with_an_existing_publicid_fails
+Wed May 16 02:36:07 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.GuestModelRepositoryTest-a_guest_model_can_be_stored
+Wed May 16 02:36:08 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.GuestModelRepositoryTest-find_all_returns_all_stored_guests
+Wed May 16 02:36:08 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.domain.GuestModelRepositoryTest
+Wed May 16 02:36:08 UTC 2018: Found element on the queue
+Wed May 16 02:36:08 UTC 2018: Updating status
+Wed May 16 02:36:08 UTC 2018: Working
+Wed May 16 02:36:11 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.domain.GuestModelTest
+Wed May 16 02:36:11 UTC 2018: Setting lastTestMethodIndex: 57607
+Wed May 16 02:36:11 UTC 2018: Starting linking
+Wed May 16 02:36:11 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.GuestModelTest-a_valid_guest_string_can_be_unmarshalled
+Wed May 16 02:36:11 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.domain.GuestModelTest-marshal
+Wed May 16 02:36:12 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.domain.GuestModelTest
+Wed May 16 02:36:12 UTC 2018: Found element on the queue
+Wed May 16 02:36:12 UTC 2018: Updating status
+Wed May 16 02:36:12 UTC 2018: Working
+Wed May 16 02:36:14 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.json.ReservationBodyReaderTest
+Wed May 16 02:36:14 UTC 2018: Setting lastTestMethodIndex: 57610
+Wed May 16 02:36:14 UTC 2018: Starting linking
+Wed May 16 02:36:14 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.json.ReservationBodyReaderTest-a_json_reservation_can_be_read
+Wed May 16 02:36:15 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.json.ReservationBodyReaderTest
+Wed May 16 02:36:15 UTC 2018: Found element on the queue
+Wed May 16 02:36:15 UTC 2018: Updating status
+Wed May 16 02:36:15 UTC 2018: Working
+Wed May 16 02:36:19 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.GuestFeedSubscriberTest
+Wed May 16 02:36:19 UTC 2018: Setting lastTestMethodIndex: 57612
+Wed May 16 02:36:19 UTC 2018: Starting linking
+Wed May 16 02:36:19 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.GuestFeedSubscriberTest-if_the_environment_variable_is_unset_the_guest_url_defaults_to_localhost
+Wed May 16 02:36:19 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.GuestFeedSubscriberTest-the_guest_url_is_set_to_localhost_per_default
+Wed May 16 02:36:19 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.GuestFeedSubscriberTest-the_guest_url_includes_the_environment_config
+Wed May 16 02:36:20 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.GuestFeedSubscriberTest-if_the_environment_variable_is_set_the_guest_url_is_configured
+Wed May 16 02:36:20 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.GuestFeedSubscriberTest
+Wed May 16 02:36:20 UTC 2018: Found element on the queue
+Wed May 16 02:36:20 UTC 2018: Updating status
+Wed May 16 02:36:21 UTC 2018: Working
+Wed May 16 02:36:23 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.GuestDataUpdateReceiverTest
+Wed May 16 02:36:23 UTC 2018: Setting lastTestMethodIndex: 57616
+Wed May 16 02:36:23 UTC 2018: Starting linking
+Wed May 16 02:36:23 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.GuestDataUpdateReceiverTest-a_valid_text_message_gets_processed
+Wed May 16 02:36:23 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.GuestDataUpdateReceiverTest-valid_guest_models_are_stored
+Wed May 16 02:36:24 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.GuestDataUpdateReceiverTest-invalid_messages_are_not_stored
+Wed May 16 02:36:24 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.GuestDataUpdateReceiverTest
+Wed May 16 02:36:25 UTC 2018: Found element on the queue
+Wed May 16 02:36:25 UTC 2018: Updating status
+Wed May 16 02:36:25 UTC 2018: Working
+Wed May 16 02:36:27 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.events.BookingMessageTOTest
+Wed May 16 02:36:27 UTC 2018: Setting lastTestMethodIndex: 57617
+Wed May 16 02:36:27 UTC 2018: Starting linking
+Wed May 16 02:36:27 UTC 2018: Code found org.koenighotze.jee7hotel.booking.business.events.BookingMessageTO-fromJson with org.koenighotze.jee7hotel.booking.business.events.BookingMessageTOTest-fromJson
+Wed May 16 02:36:27 UTC 2018: Code found org.koenighotze.jee7hotel.booking.business.events.BookingMessageTO-toJson with org.koenighotze.jee7hotel.booking.business.events.BookingMessageTOTest-toJson
+Wed May 16 02:36:28 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.events.BookingMessageTOTest
+Wed May 16 02:36:28 UTC 2018: Found element on the queue
+Wed May 16 02:36:28 UTC 2018: Updating status
+Wed May 16 02:36:28 UTC 2018: Working
+Wed May 16 02:36:31 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.ReservationCostCalculatorTest
+Wed May 16 02:36:31 UTC 2018: Setting lastTestMethodIndex: 57620
+Wed May 16 02:36:31 UTC 2018: Starting linking
+Wed May 16 02:36:31 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.ReservationCostCalculatorTest-calcRate
+Wed May 16 02:36:31 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.ReservationCostCalculatorTest
+Wed May 16 02:36:31 UTC 2018: Found element on the queue
+Wed May 16 02:36:31 UTC 2018: Updating status
+Wed May 16 02:36:31 UTC 2018: Working
+Wed May 16 02:36:34 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.BookingServiceTest
+Wed May 16 02:36:34 UTC 2018: Setting lastTestMethodIndex: 57624
+Wed May 16 02:36:34 UTC 2018: Starting linking
+Wed May 16 02:36:34 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.BookingServiceTest-cancel_returns_false_if_reservation_was_not_found
+Wed May 16 02:36:34 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.BookingServiceTest-cancel_returns_true_if_reservation_was_cancelled
+Wed May 16 02:36:34 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.BookingServiceTest-booking_a_room_sets_the_reservation_number
+Wed May 16 02:36:35 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.BookingServiceTest-get_all_reservations_returns_the_reservations
+Wed May 16 02:36:35 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.BookingServiceTest-findReservationsForGuest
+Wed May 16 02:36:35 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.BookingServiceTest
+Wed May 16 02:36:36 UTC 2018: Found element on the queue
+Wed May 16 02:36:36 UTC 2018: Updating status
+Wed May 16 02:36:36 UTC 2018: Working
+Wed May 16 02:36:38 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.ReservationGenerationBeanTest
+Wed May 16 02:36:38 UTC 2018: Setting lastTestMethodIndex: 57627
+Wed May 16 02:36:38 UTC 2018: Starting linking
+Wed May 16 02:36:38 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.business.ReservationGenerationBeanTest-testIncomingReservationMessage
+Wed May 16 02:36:38 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.business.ReservationGenerationBeanTest
+Wed May 16 02:36:39 UTC 2018: Found element on the queue
+Wed May 16 02:36:39 UTC 2018: Updating status
+Wed May 16 02:36:39 UTC 2018: Working
+Wed May 16 02:36:41 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.persistence.converter.ReservationStatusConverterTest
+Wed May 16 02:36:41 UTC 2018: Setting lastTestMethodIndex: 57630
+Wed May 16 02:36:41 UTC 2018: Starting linking
+Wed May 16 02:36:41 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.persistence.converter.ReservationStatusConverterTest-the_conversion_of_a_value_uses_the_values_name
+Wed May 16 02:36:42 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.persistence.converter.ReservationStatusConverterTest-the_entity_value_of_an_unknown_string_results_in_an_exception
+Wed May 16 02:36:42 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.persistence.converter.ReservationStatusConverterTest-the_entity_value_of_a_known_string_is_the_enumeration
+Wed May 16 02:36:42 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.persistence.converter.ReservationStatusConverterTest-the_entity_value_of_a_null_is_null
+Wed May 16 02:36:42 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.persistence.converter.ReservationStatusConverterTest-the_conversion_of_a_null_is_the_empty_string
+Wed May 16 02:36:43 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.persistence.converter.ReservationStatusConverterTest
+Wed May 16 02:36:43 UTC 2018: Found element on the queue
+Wed May 16 02:36:43 UTC 2018: Updating status
+Wed May 16 02:36:43 UTC 2018: Working
+Wed May 16 02:36:46 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.frontend.addnewreservationflow.AddNewReservationWizardBeanTest
+Wed May 16 02:36:46 UTC 2018: Setting lastTestMethodIndex: 57633
+Wed May 16 02:36:46 UTC 2018: Starting linking
+Wed May 16 02:36:46 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.frontend.addnewreservationflow.AddNewReservationWizardBeanTest-after_initialization_the_list_of_rooms_is_not_null
+Wed May 16 02:36:46 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.frontend.addnewreservationflow.AddNewReservationWizardBeanTest-after_initialization_the_list_of_guests_is_not_null
+Wed May 16 02:36:46 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.frontend.addnewreservationflow.AddNewReservationWizardBeanTest-guests_entries_consist_of_name_and_public_id
+Wed May 16 02:36:47 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.frontend.addnewreservationflow.AddNewReservationWizardBeanTest
+Wed May 16 02:36:47 UTC 2018: Found element on the queue
+Wed May 16 02:36:47 UTC 2018: Updating status
+Wed May 16 02:36:47 UTC 2018: Working
+Wed May 16 02:36:50 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.frontend.NewReservationBeanTest
+Wed May 16 02:36:50 UTC 2018: Setting lastTestMethodIndex: 57635
+Wed May 16 02:36:50 UTC 2018: Starting linking
+Wed May 16 02:36:50 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.frontend.NewReservationBeanTest-the_booking_is_initialised_as_an_empty_booking
+Wed May 16 02:36:50 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.frontend.NewReservationBeanTest
+Wed May 16 02:36:51 UTC 2018: Found element on the queue
+Wed May 16 02:36:51 UTC 2018: Updating status
+Wed May 16 02:36:51 UTC 2018: Working
+Wed May 16 02:36:53 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.frontend.BookingDetailsBeanTest
+Wed May 16 02:36:53 UTC 2018: Setting lastTestMethodIndex: 57638
+Wed May 16 02:36:53 UTC 2018: Starting linking
+Wed May 16 02:36:53 UTC 2018: No link for: org.koenighotze.jee7hotel.booking.frontend.BookingDetailsBeanTest-an_open_reservation_can_be_cancelled
+Wed May 16 02:36:54 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.booking.frontend.BookingDetailsBeanTest
+Wed May 16 02:36:54 UTC 2018: Found element on the queue
+Wed May 16 02:36:54 UTC 2018: Updating status
+Wed May 16 02:36:54 UTC 2018: Working
+Wed May 16 02:36:54 UTC 2018: Create project parser
+Wed May 16 02:36:57 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.domain.RoomCacheTest
+Wed May 16 02:36:57 UTC 2018: Setting lastTestMethodIndex: 57640
+Wed May 16 02:36:57 UTC 2018: Starting linking
+Wed May 16 02:36:57 UTC 2018: No link for: org.koenighotze.jee7hotel.domain.RoomCacheTest-testTransientRoomsAreNotCached
+Wed May 16 02:36:57 UTC 2018: No link for: org.koenighotze.jee7hotel.domain.RoomCacheTest-testRoomsAreCached
+Wed May 16 02:36:57 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.domain.RoomCacheTest
+Wed May 16 02:36:58 UTC 2018: Found element on the queue
+Wed May 16 02:36:58 UTC 2018: Updating status
+Wed May 16 02:36:58 UTC 2018: Working
+Wed May 16 02:37:00 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.domain.converter.RoomEquipmentConverterTest
+Wed May 16 02:37:00 UTC 2018: Setting lastTestMethodIndex: 57644
+Wed May 16 02:37:00 UTC 2018: Starting linking
+Wed May 16 02:37:00 UTC 2018: No link for: org.koenighotze.jee7hotel.domain.converter.RoomEquipmentConverterTest-roomequipments_are_converted_to_their_respective_names
+Wed May 16 02:37:01 UTC 2018: No link for: org.koenighotze.jee7hotel.domain.converter.RoomEquipmentConverterTest-null_db_values_are_converted_to_null
+Wed May 16 02:37:01 UTC 2018: No link for: org.koenighotze.jee7hotel.domain.converter.RoomEquipmentConverterTest-known_values_are_converted_to_roomequipment
+Wed May 16 02:37:01 UTC 2018: No link for: org.koenighotze.jee7hotel.domain.converter.RoomEquipmentConverterTest-converting_unknown_values_results_in_an_exception
+Wed May 16 02:37:02 UTC 2018: No link for: org.koenighotze.jee7hotel.domain.converter.RoomEquipmentConverterTest-a_null_equipment_is_converted_to_null
+Wed May 16 02:37:02 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.domain.converter.RoomEquipmentConverterTest
+Wed May 16 02:37:02 UTC 2018: Found element on the queue
+Wed May 16 02:37:02 UTC 2018: Updating status
+Wed May 16 02:37:02 UTC 2018: Working
+Wed May 16 02:37:05 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.test.RoomServiceTest
+Wed May 16 02:37:05 UTC 2018: Setting lastTestMethodIndex: 57646
+Wed May 16 02:37:05 UTC 2018: Starting linking
+Wed May 16 02:37:05 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.test.RoomServiceTest-testGetAllRooms
+Wed May 16 02:37:05 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.test.RoomServiceTest-testFindByIdKnownRoom
+Wed May 16 02:37:06 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.test.RoomServiceTest-testFindByNumber
+Wed May 16 02:37:06 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.test.RoomServiceTest-testFindByIdUnkownRoom
+Wed May 16 02:37:06 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.test.RoomServiceTest
+Wed May 16 02:37:07 UTC 2018: Found element on the queue
+Wed May 16 02:37:07 UTC 2018: Updating status
+Wed May 16 02:37:07 UTC 2018: Working
+Wed May 16 02:37:07 UTC 2018: Create project parser
+Wed May 16 02:37:09 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.application.registry.ServiceRegistrationTest
+Wed May 16 02:37:09 UTC 2018: Setting lastTestMethodIndex: 57650
+Wed May 16 02:37:09 UTC 2018: Starting linking
+Wed May 16 02:37:09 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.application.registry.ServiceRegistrationTest-the_reservation_url_is_returned_if_available
+Wed May 16 02:37:10 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.application.registry.ServiceRegistrationTest-null_is_returned_if_the_service_is_not_found
+Wed May 16 02:37:10 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.application.registry.ServiceRegistrationTest
+Wed May 16 02:37:10 UTC 2018: Found element on the queue
+Wed May 16 02:37:10 UTC 2018: Updating status
+Wed May 16 02:37:10 UTC 2018: Working
+Wed May 16 02:37:13 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.application.jaxb.DateAdapterTest
+Wed May 16 02:37:13 UTC 2018: Setting lastTestMethodIndex: 57652
+Wed May 16 02:37:13 UTC 2018: Starting linking
+Wed May 16 02:37:13 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.application.jaxb.DateAdapterTest-a_string_can_be_converted_to_a_date
+Wed May 16 02:37:13 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.application.jaxb.DateAdapterTest-a_date_can_be_converted_to_a_string
+Wed May 16 02:37:14 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.application.jaxb.DateAdapterTest
+Wed May 16 02:37:14 UTC 2018: Found element on the queue
+Wed May 16 02:37:14 UTC 2018: Updating status
+Wed May 16 02:37:14 UTC 2018: Working
+Wed May 16 02:37:17 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.application.LoggerProducerTest
+Wed May 16 02:37:17 UTC 2018: Setting lastTestMethodIndex: 57655
+Wed May 16 02:37:17 UTC 2018: Starting linking
+Wed May 16 02:37:17 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.application.LoggerProducerTest-the_logger_uses_the_injection_points_declaring_class
+Wed May 16 02:37:17 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.application.LoggerProducerTest
+Wed May 16 02:37:17 UTC 2018: Found element on the queue
+Wed May 16 02:37:17 UTC 2018: Updating status
+Wed May 16 02:37:17 UTC 2018: Working
+Wed May 16 02:37:17 UTC 2018: Create project parser
+Wed May 16 02:37:20 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.frontend.converter.LocalDateConverterTest
+Wed May 16 02:37:20 UTC 2018: Setting lastTestMethodIndex: 57657
+Wed May 16 02:37:20 UTC 2018: Starting linking
+Wed May 16 02:37:20 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.frontend.converter.LocalDateConverterTest-empty_strings_are_converted_to_null_localdates
+Wed May 16 02:37:20 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.frontend.converter.LocalDateConverterTest-localdates_are_converted_to_strings_using_us_locale
+Wed May 16 02:37:21 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.frontend.converter.LocalDateConverterTest-invalid_date_strings_result_in_a_conversion_exception
+Wed May 16 02:37:21 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.frontend.converter.LocalDateConverterTest-null_strings_are_converted_to_null_localdates
+Wed May 16 02:37:21 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.frontend.converter.LocalDateConverterTest-null_localdates_are_converted_to_empty_strings
+Wed May 16 02:37:22 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.frontend.converter.LocalDateConverterTest-valid_strings_are_converted_to_matching_localdates
+Wed May 16 02:37:22 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.frontend.converter.LocalDateConverterTest
+Wed May 16 02:37:22 UTC 2018: Found element on the queue
+Wed May 16 02:37:22 UTC 2018: Updating status
+Wed May 16 02:37:22 UTC 2018: Working
+Wed May 16 02:37:25 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.frontend.ErrorBeanTest
+Wed May 16 02:37:25 UTC 2018: Setting lastTestMethodIndex: 57660
+Wed May 16 02:37:25 UTC 2018: Starting linking
+Wed May 16 02:37:25 UTC 2018: Code found org.koenighotze.jee7hotel.framework.frontend.ErrorBean-getExceptionStackTrace with org.koenighotze.jee7hotel.framework.frontend.ErrorBeanTest-testGetExceptionStackTrace
+Wed May 16 02:37:25 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.frontend.ErrorBeanTest
+Wed May 16 02:37:26 UTC 2018: Found element on the queue
+Wed May 16 02:37:26 UTC 2018: Updating status
+Wed May 16 02:37:26 UTC 2018: Working
+Wed May 16 02:37:29 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.frontend.component.BootstrappedMessagesTest
+Wed May 16 02:37:29 UTC 2018: Setting lastTestMethodIndex: 57661
+Wed May 16 02:37:29 UTC 2018: Starting linking
+Wed May 16 02:37:29 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.frontend.component.BootstrappedMessagesTest-the_message_list_does_not_contain_messages_that_belong_to_a_component
+Wed May 16 02:37:29 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.frontend.component.BootstrappedMessagesTest-the_message_list_contains_all_global_messages
+Wed May 16 02:37:29 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.frontend.component.BootstrappedMessagesTest
+Wed May 16 02:37:30 UTC 2018: Found element on the queue
+Wed May 16 02:37:30 UTC 2018: Updating status
+Wed May 16 02:37:30 UTC 2018: Working
+Wed May 16 02:37:30 UTC 2018: Create project parser
+Wed May 16 02:37:32 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateConverterTest
+Wed May 16 02:37:32 UTC 2018: Setting lastTestMethodIndex: 57663
+Wed May 16 02:37:32 UTC 2018: Starting linking
+Wed May 16 02:37:32 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateConverterTest-localdates_are_converted_to_simple_dates_keeping_only_the_datefields
+Wed May 16 02:37:33 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateConverterTest-null_values_are_converted_to_null
+Wed May 16 02:37:33 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateConverterTest-null_values_are_read_as_nulls
+Wed May 16 02:37:33 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateConverterTest-simple_dates_are_read_as_proper_localdates_without_timedata
+Wed May 16 02:37:34 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateConverterTest
+Wed May 16 02:37:34 UTC 2018: Found element on the queue
+Wed May 16 02:37:34 UTC 2018: Updating status
+Wed May 16 02:37:34 UTC 2018: Working
+Wed May 16 02:37:37 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateTimeConverterTest
+Wed May 16 02:37:37 UTC 2018: Setting lastTestMethodIndex: 57665
+Wed May 16 02:37:37 UTC 2018: Starting linking
+Wed May 16 02:37:37 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateTimeConverterTest-localdatetimes_are_converted_to_timestamps
+Wed May 16 02:37:37 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateTimeConverterTest-null_values_are_converted_to_null
+Wed May 16 02:37:37 UTC 2018: No link for: org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateTimeConverterTest-null_values_are_read_as_nulls
+Wed May 16 02:37:38 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.persistence.converter.LocalDateTimeConverterTest
+Wed May 16 02:37:38 UTC 2018: Found element on the queue
+Wed May 16 02:37:38 UTC 2018: Updating status
+Wed May 16 02:37:38 UTC 2018: Working
+Wed May 16 02:37:41 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.persistence.audit.AuditTest
+Wed May 16 02:37:41 UTC 2018: Setting lastTestMethodIndex: 57668
+Wed May 16 02:37:41 UTC 2018: Starting linking
+Wed May 16 02:37:41 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.framework.persistence.audit.AuditTest
+Wed May 16 02:37:41 UTC 2018: Found element on the queue
+Wed May 16 02:37:41 UTC 2018: Updating status
+Wed May 16 02:37:41 UTC 2018: Working
+Wed May 16 02:37:41 UTC 2018: Create project parser
+Wed May 16 02:37:44 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.domain.GuestTest
+Wed May 16 02:37:44 UTC 2018: Setting lastTestMethodIndex: 57671
+Wed May 16 02:37:44 UTC 2018: Starting linking
+Wed May 16 02:37:44 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.domain.GuestTest-persisting_a_guest_sets_the_last_update_field
+Wed May 16 02:37:45 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.domain.GuestTest-a_guest_can_be_persisted
+Wed May 16 02:37:45 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.domain.GuestTest-a_guest_can_be_transformed_to_xml
+Wed May 16 02:37:45 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.domain.GuestTest
+Wed May 16 02:37:46 UTC 2018: Found element on the queue
+Wed May 16 02:37:46 UTC 2018: Updating status
+Wed May 16 02:37:46 UTC 2018: Working
+Wed May 16 02:37:48 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.AtomMessageBodyWriterTest
+Wed May 16 02:37:48 UTC 2018: Setting lastTestMethodIndex: 57674
+Wed May 16 02:37:48 UTC 2018: Starting linking
+Wed May 16 02:37:48 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.AtomMessageBodyWriterTest-a_feed_is_converted_to_atom
+Wed May 16 02:37:49 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.AtomMessageBodyWriterTest
+Wed May 16 02:37:49 UTC 2018: Found element on the queue
+Wed May 16 02:37:49 UTC 2018: Updating status
+Wed May 16 02:37:49 UTC 2018: Working
+Wed May 16 02:37:52 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataReaderTest
+Wed May 16 02:37:52 UTC 2018: Setting lastTestMethodIndex: 57676
+Wed May 16 02:37:52 UTC 2018: Starting linking
+Wed May 16 02:37:52 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataReaderTest-testReadValidObject
+Wed May 16 02:37:52 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataReaderTest
+Wed May 16 02:37:52 UTC 2018: Found element on the queue
+Wed May 16 02:37:52 UTC 2018: Updating status
+Wed May 16 02:37:52 UTC 2018: Working
+Wed May 16 02:37:55 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataProcessorTest
+Wed May 16 02:37:55 UTC 2018: Setting lastTestMethodIndex: 57679
+Wed May 16 02:37:55 UTC 2018: Starting linking
+Wed May 16 02:37:55 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataProcessorTest-processReturnsGuest
+Wed May 16 02:37:55 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataProcessorTest-processThrowsExceptionIfInvalidEmail
+Wed May 16 02:37:56 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataProcessorTest
+Wed May 16 02:37:56 UTC 2018: Found element on the queue
+Wed May 16 02:37:56 UTC 2018: Updating status
+Wed May 16 02:37:56 UTC 2018: Working
+Wed May 16 02:37:58 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataWriterTest
+Wed May 16 02:37:58 UTC 2018: Setting lastTestMethodIndex: 57683
+Wed May 16 02:37:58 UTC 2018: Starting linking
+Wed May 16 02:37:58 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataWriterTest-testWriteItem
+Wed May 16 02:37:59 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.guestdataimport.GuestDataWriterTest
+Wed May 16 02:37:59 UTC 2018: Found element on the queue
+Wed May 16 02:37:59 UTC 2018: Updating status
+Wed May 16 02:37:59 UTC 2018: Working
+Wed May 16 02:38:02 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.GuestAtomFeedTest
+Wed May 16 02:38:02 UTC 2018: Setting lastTestMethodIndex: 57685
+Wed May 16 02:38:02 UTC 2018: Starting linking
+Wed May 16 02:38:02 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.GuestAtomFeedTest-the_feed_exposes_the_publicid
+Wed May 16 02:38:02 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.GuestAtomFeedTest
+Wed May 16 02:38:03 UTC 2018: Found element on the queue
+Wed May 16 02:38:03 UTC 2018: Updating status
+Wed May 16 02:38:03 UTC 2018: Working
+Wed May 16 02:38:05 UTC 2018: Start koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.GuestServiceTest
+Wed May 16 02:38:05 UTC 2018: Setting lastTestMethodIndex: 57688
+Wed May 16 02:38:05 UTC 2018: Starting linking
+Wed May 16 02:38:05 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.GuestServiceTest-finding_all_guests_does_not_return_null
+Wed May 16 02:38:05 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.GuestServiceTest-deleting_an_existing_guest_results_in_true
+Wed May 16 02:38:06 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.GuestServiceTest-deleting_a_unknown_guest_results_in_false
+Wed May 16 02:38:06 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.GuestServiceTest-an_unkown_guest_results_in_an_empty_optional
+Wed May 16 02:38:06 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.GuestServiceTest-updating_a_guest_sets_all_fields_and_increases_the_version
+Wed May 16 02:38:07 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.GuestServiceTest-saving_a_guest_sets_the_technical_id
+Wed May 16 02:38:07 UTC 2018: No link for: org.koenighotze.jee7hotel.guest.business.GuestServiceTest-a_known_guest_can_be_found_by_his_public_id
+Wed May 16 02:38:07 UTC 2018: Linking done for koenighotze__Hotel-Reservation-Tool test class org.koenighotze.jee7hotel.guest.business.GuestServiceTest

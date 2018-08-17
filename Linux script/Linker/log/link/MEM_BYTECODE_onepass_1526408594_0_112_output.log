@@ -1,0 +1,110 @@
+Wed May 16 06:10:51 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:10:51 UTC 2018: Starting
+Wed May 16 06:10:52 UTC 2018: Found element on the queue
+Wed May 16 06:10:52 UTC 2018: Updating status
+Wed May 16 06:10:52 UTC 2018: Working
+Wed May 16 06:10:52 UTC 2018: Create project parser
+Wed May 16 06:10:59 UTC 2018: Create slicer
+Wed May 16 06:10:59 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 529205248
+Wed May 16 06:10:59 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 529205248
+Wed May 16 06:10:59 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 529205248
+Wed May 16 06:11:01 UTC 2018: Create call graph
+Wed May 16 06:11:04 UTC 2018: Create point analysis
+Wed May 16 06:11:04 UTC 2018: Create call graph done
+Wed May 16 06:11:04 UTC 2018: Start MobiVM__robovm test class org.robovm.libimobiledevice.InstallationProxyClientTest
+Wed May 16 06:11:04 UTC 2018: Setting lastTestMethodIndex: 64577
+Wed May 16 06:11:04 UTC 2018: Starting linking
+Wed May 16 06:11:04 UTC 2018: Code found org.robovm.libimobiledevice.InstallationProxyClient-browse with org.robovm.libimobiledevice.InstallationProxyClientTest-testBrowse
+Wed May 16 06:11:04 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.libimobiledevice.InstallationProxyClientTest
+Wed May 16 06:11:05 UTC 2018: Found element on the queue
+Wed May 16 06:11:05 UTC 2018: Updating status
+Wed May 16 06:11:05 UTC 2018: Working
+Wed May 16 06:11:07 UTC 2018: Start MobiVM__robovm test class org.robovm.libimobiledevice.LockdowndClientTest
+Wed May 16 06:11:07 UTC 2018: Setting lastTestMethodIndex: 64579
+Wed May 16 06:11:07 UTC 2018: Starting linking
+Wed May 16 06:11:07 UTC 2018: Code found org.robovm.libimobiledevice.LockdowndClient-getValue with org.robovm.libimobiledevice.LockdowndClientTest-testGetValue
+Wed May 16 06:11:08 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.libimobiledevice.LockdowndClientTest
+Wed May 16 06:11:08 UTC 2018: Found element on the queue
+Wed May 16 06:11:08 UTC 2018: Updating status
+Wed May 16 06:11:08 UTC 2018: Working
+Wed May 16 06:11:11 UTC 2018: Start MobiVM__robovm test class org.robovm.libimobiledevice.AfcClientTest
+Wed May 16 06:11:11 UTC 2018: Setting lastTestMethodIndex: 64582
+Wed May 16 06:11:11 UTC 2018: Starting linking
+Wed May 16 06:11:11 UTC 2018: Code found org.robovm.libimobiledevice.AfcClient-makeDirectory with org.robovm.libimobiledevice.AfcClientTest-testMakeDirectory
+Wed May 16 06:11:12 UTC 2018: Code found org.robovm.libimobiledevice.AfcClient-upload with org.robovm.libimobiledevice.AfcClientTest-testUpload
+Wed May 16 06:11:12 UTC 2018: Code found org.robovm.libimobiledevice.AfcClient-getDeviceInfo with org.robovm.libimobiledevice.AfcClientTest-testGetDeviceInfo
+Wed May 16 06:11:12 UTC 2018: Code found org.robovm.libimobiledevice.AfcClient-readDirectory with org.robovm.libimobiledevice.AfcClientTest-testReadDirectory
+Wed May 16 06:11:13 UTC 2018: Code found org.robovm.libimobiledevice.AfcClient-makeLink with org.robovm.libimobiledevice.AfcClientTest-testMakeLink
+Wed May 16 06:11:13 UTC 2018: Code found org.robovm.libimobiledevice.AfcClient-upload with org.robovm.libimobiledevice.AfcClientTest-testUploadSpeed
+Wed May 16 06:11:14 UTC 2018: No link for: org.robovm.libimobiledevice.AfcClientTest-testReadWriteRemove
+Wed May 16 06:11:14 UTC 2018: No link for: org.robovm.libimobiledevice.AfcClientTest-testWriteSpeed
+Wed May 16 06:11:14 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.libimobiledevice.AfcClientTest
+Wed May 16 06:11:15 UTC 2018: Found element on the queue
+Wed May 16 06:11:15 UTC 2018: Updating status
+Wed May 16 06:11:15 UTC 2018: Working
+Wed May 16 06:11:18 UTC 2018: Start MobiVM__robovm test class org.robovm.libimobiledevice.IDeviceTest
+Wed May 16 06:11:18 UTC 2018: Setting lastTestMethodIndex: 64587
+Wed May 16 06:11:18 UTC 2018: Starting linking
+Wed May 16 06:11:18 UTC 2018: Code found org.robovm.libimobiledevice.IDevice-listUdids with org.robovm.libimobiledevice.IDeviceTest-testListUdids
+Wed May 16 06:11:18 UTC 2018: No link for: org.robovm.libimobiledevice.IDeviceTest-testNewIDevice
+Wed May 16 06:11:19 UTC 2018: No link for: org.robovm.libimobiledevice.IDeviceTest-testDeviceEvents
+Wed May 16 06:11:19 UTC 2018: No link for: org.robovm.libimobiledevice.IDeviceTest-testNewIDeviceThrows
+Wed May 16 06:11:19 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.libimobiledevice.IDeviceTest
+Wed May 16 06:11:20 UTC 2018: Found element on the queue
+Wed May 16 06:11:20 UTC 2018: Updating status
+Wed May 16 06:11:20 UTC 2018: Working
+Wed May 16 06:11:23 UTC 2018: Start MobiVM__robovm test class org.robovm.libimobiledevice.util.GdbRemoteParserTest
+Wed May 16 06:11:23 UTC 2018: Setting lastTestMethodIndex: 64590
+Wed May 16 06:11:23 UTC 2018: Starting linking
+Wed May 16 06:11:23 UTC 2018: Code found org.robovm.libimobiledevice.util.GdbRemoteParser-parse with org.robovm.libimobiledevice.util.GdbRemoteParserTest-testParser
+Wed May 16 06:11:23 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.libimobiledevice.util.GdbRemoteParserTest
+Wed May 16 06:11:24 UTC 2018: Found element on the queue
+Wed May 16 06:11:24 UTC 2018: Updating status
+Wed May 16 06:11:24 UTC 2018: Working
+Wed May 16 06:11:26 UTC 2018: Start MobiVM__robovm test class org.robovm.libimobiledevice.util.AppLauncherTest
+Wed May 16 06:11:26 UTC 2018: Setting lastTestMethodIndex: 64592
+Wed May 16 06:11:26 UTC 2018: Starting linking
+Wed May 16 06:11:26 UTC 2018: Code found org.robovm.libimobiledevice.util.AppLauncher-findDeveloperImage with org.robovm.libimobiledevice.util.AppLauncherTest-testFindDeveloperImage
+Wed May 16 06:11:27 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.libimobiledevice.util.AppLauncherTest
+Wed May 16 06:11:27 UTC 2018: Found element on the queue
+Wed May 16 06:11:27 UTC 2018: Updating status
+Wed May 16 06:11:27 UTC 2018: Working
+Wed May 16 06:11:27 UTC 2018: Create project parser
+Wed May 16 06:11:33 UTC 2018: Start MobiVM__robovm test class org.robovm.llvm.ModuleTest
+Wed May 16 06:11:33 UTC 2018: Setting lastTestMethodIndex: 64596
+Wed May 16 06:11:33 UTC 2018: Starting linking
+Wed May 16 06:11:33 UTC 2018: Code found org.robovm.llvm.Module-parseIR with org.robovm.llvm.ModuleTest-testParseIRString
+Wed May 16 06:11:33 UTC 2018: No link for: org.robovm.llvm.ModuleTest-testParseClangFile
+Wed May 16 06:11:33 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.llvm.ModuleTest
+Wed May 16 06:11:34 UTC 2018: Found element on the queue
+Wed May 16 06:11:34 UTC 2018: Updating status
+Wed May 16 06:11:34 UTC 2018: Working
+Wed May 16 06:11:37 UTC 2018: Start MobiVM__robovm test class org.robovm.llvm.TargetMachineTest
+Wed May 16 06:11:37 UTC 2018: Setting lastTestMethodIndex: 64598
+Wed May 16 06:11:37 UTC 2018: Starting linking
+Wed May 16 06:11:37 UTC 2018: Code found org.robovm.llvm.TargetMachine-assemble with org.robovm.llvm.TargetMachineTest-testAssemble
+Wed May 16 06:11:37 UTC 2018: Code found org.robovm.llvm.TargetMachine-emit with org.robovm.llvm.TargetMachineTest-testEmitToFile
+Wed May 16 06:11:38 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.llvm.TargetMachineTest
+Wed May 16 06:11:38 UTC 2018: Found element on the queue
+Wed May 16 06:11:38 UTC 2018: Updating status
+Wed May 16 06:11:38 UTC 2018: Working
+Wed May 16 06:11:41 UTC 2018: Start MobiVM__robovm test class org.robovm.llvm.TargetTest
+Wed May 16 06:11:41 UTC 2018: Setting lastTestMethodIndex: 64601
+Wed May 16 06:11:41 UTC 2018: Starting linking
+Wed May 16 06:11:41 UTC 2018: Code found org.robovm.llvm.Target-getTarget with org.robovm.llvm.TargetTest-testGetTarget
+Wed May 16 06:11:41 UTC 2018: Code found org.robovm.llvm.Target-getHostTarget with org.robovm.llvm.TargetTest-testGetHostTarget
+Wed May 16 06:11:41 UTC 2018: Code found org.robovm.llvm.Target-getTargets with org.robovm.llvm.TargetTest-testGetTargets
+Wed May 16 06:11:42 UTC 2018: Code found org.robovm.llvm.Target-getTargetsMap with org.robovm.llvm.TargetTest-testGetTargetsMap
+Wed May 16 06:11:42 UTC 2018: Code found org.robovm.llvm.Target-createTargetMachine with org.robovm.llvm.TargetTest-testCreateTargetMachine
+Wed May 16 06:11:43 UTC 2018: Code found org.robovm.llvm.Target-lookupTarget with org.robovm.llvm.TargetTest-testLookupTarget
+Wed May 16 06:11:43 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.llvm.TargetTest
+Wed May 16 06:11:44 UTC 2018: Found element on the queue
+Wed May 16 06:11:44 UTC 2018: Updating status
+Wed May 16 06:11:44 UTC 2018: Working
+Wed May 16 06:11:44 UTC 2018: Create project parser
+Wed May 16 06:11:47 UTC 2018: Start MobiVM__robovm test class org.robovm.junit.protocol.GsonTest
+Wed May 16 06:11:47 UTC 2018: Setting lastTestMethodIndex: 64605
+Wed May 16 06:11:47 UTC 2018: Starting linking
+Wed May 16 06:11:47 UTC 2018: No link for: org.robovm.junit.protocol.GsonTest-testResultObjectSerializationDeserialization
+Wed May 16 06:11:47 UTC 2018: No link for: org.robovm.junit.protocol.GsonTest-testNonDeserializableException
+Wed May 16 06:11:48 UTC 2018: Linking done for MobiVM__robovm test class org.robovm.junit.protocol.GsonTest

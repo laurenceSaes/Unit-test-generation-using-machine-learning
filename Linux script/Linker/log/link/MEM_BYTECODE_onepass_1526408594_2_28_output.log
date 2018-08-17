@@ -1,0 +1,71 @@
+Tue May 15 22:03:51 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:03:52 UTC 2018: Starting
+Tue May 15 22:03:53 UTC 2018: Found element on the queue
+Tue May 15 22:03:53 UTC 2018: Updating status
+Tue May 15 22:03:53 UTC 2018: Working
+Tue May 15 22:03:53 UTC 2018: Create project parser
+Tue May 15 22:04:00 UTC 2018: Create slicer
+Tue May 15 22:04:04 UTC 2018: Create call graph
+Tue May 15 22:04:05 UTC 2018: Create point analysis
+Tue May 15 22:04:05 UTC 2018: Create call graph done
+Tue May 15 22:04:05 UTC 2018: Start Ievgen-Kalko__CM test class com.cm.helpers.CoinsFileReaderTest
+Tue May 15 22:04:05 UTC 2018: Setting lastTestMethodIndex: 48799
+Tue May 15 22:04:05 UTC 2018: Starting linking
+Tue May 15 22:04:05 UTC 2018: No link for: com.cm.helpers.CoinsFileReaderTest-whenGetSubscriptionsInvokedWithNullArgThenExceptionIsThrown
+Tue May 15 22:04:06 UTC 2018: Linking done for Ievgen-Kalko__CM test class com.cm.helpers.CoinsFileReaderTest
+Tue May 15 22:04:06 UTC 2018: Found element on the queue
+Tue May 15 22:04:06 UTC 2018: Updating status
+Tue May 15 22:04:06 UTC 2018: Working
+Tue May 15 22:04:09 UTC 2018: Start Ievgen-Kalko__CM test class com.cm.helpers.EmailHelperTest
+Tue May 15 22:04:09 UTC 2018: Setting lastTestMethodIndex: 48800
+Tue May 15 22:04:09 UTC 2018: Starting linking
+Tue May 15 22:04:09 UTC 2018: No link for: com.cm.helpers.EmailHelperTest-whenSendMilInvokedWithoutMsgArgThenExceptionIsThrown
+Tue May 15 22:04:10 UTC 2018: No link for: com.cm.helpers.EmailHelperTest-whenGetUserByTypeInvokedThenUserRepositoryShouldInvoked
+Tue May 15 22:04:10 UTC 2018: No link for: com.cm.helpers.EmailHelperTest-whenSendMilInvokedWithoutFromArgThenExceptionIsThrown
+Tue May 15 22:04:10 UTC 2018: No link for: com.cm.helpers.EmailHelperTest-whenSendMilInvokedWithoutToArgThenExceptionIsThrown
+Tue May 15 22:04:11 UTC 2018: No link for: com.cm.helpers.EmailHelperTest-whenSendMilInvokedWithoutSubjectArgThenExceptionIsThrown
+Tue May 15 22:04:11 UTC 2018: Linking done for Ievgen-Kalko__CM test class com.cm.helpers.EmailHelperTest
+Tue May 15 22:04:12 UTC 2018: Found element on the queue
+Tue May 15 22:04:12 UTC 2018: Updating status
+Tue May 15 22:04:12 UTC 2018: Working
+Tue May 15 22:04:15 UTC 2018: Start Ievgen-Kalko__CM test class com.cm.processors.CoinProcessorTest
+Tue May 15 22:04:15 UTC 2018: Setting lastTestMethodIndex: 48802
+Tue May 15 22:04:15 UTC 2018: Starting linking
+Tue May 15 22:04:15 UTC 2018: Code found com.cm.processors.CoinProcessor-processNewCoin with com.cm.processors.CoinProcessorTest-whenNullArgumentPassedToProcessNewCoinThenExceptionIsThrown
+Tue May 15 22:04:15 UTC 2018: No link for: com.cm.processors.CoinProcessorTest-ifPriceNotExistsInCoinThenMessageForAdminShouldBeSent
+Tue May 15 22:04:16 UTC 2018: No link for: com.cm.processors.CoinProcessorTest-ifPriceExistsInCoinThenMessageForUserShouldBeSent
+Tue May 15 22:04:16 UTC 2018: Linking done for Ievgen-Kalko__CM test class com.cm.processors.CoinProcessorTest
+Tue May 15 22:04:17 UTC 2018: Found element on the queue
+Tue May 15 22:04:17 UTC 2018: Updating status
+Tue May 15 22:04:17 UTC 2018: Working
+Tue May 15 22:04:20 UTC 2018: Start Ievgen-Kalko__CM test class com.cm.service.EmailServiceImplTest
+Tue May 15 22:04:20 UTC 2018: Setting lastTestMethodIndex: 48804
+Tue May 15 22:04:20 UTC 2018: Starting linking
+Tue May 15 22:04:20 UTC 2018: Code found com.cm.service.impl.EmailServiceImpl-saveEmail with com.cm.service.EmailServiceImplTest-whenSaveEmailInvoked_thenEmailRepositoryShouldInvoked
+Tue May 15 22:04:21 UTC 2018: Code found com.cm.service.impl.EmailServiceImpl-composeEmail with com.cm.service.EmailServiceImplTest-whenComposeEmailForAdminInvokedThenComposeEmailShouldBeCalled
+Tue May 15 22:04:21 UTC 2018: Code found com.cm.service.impl.EmailServiceImpl-composeEmail with com.cm.service.EmailServiceImplTest-whenComposeEmailForClientInvokedThenComposeEmailShouldBeCalled
+Tue May 15 22:04:21 UTC 2018: Code found com.cm.service.impl.EmailServiceImpl-saveEmail with com.cm.service.EmailServiceImplTest-whenSaveEmailInvokedWithNullArgThenExceptionIsThrown
+Tue May 15 22:04:22 UTC 2018: Code found com.cm.service.impl.EmailServiceImpl-composeEmail with com.cm.service.EmailServiceImplTest-whenComposeEmailForAdminInvokedWithNullEmailAdressThenExceptionIsThrown
+Tue May 15 22:04:22 UTC 2018: Code found com.cm.service.impl.EmailServiceImpl-composeEmail with com.cm.service.EmailServiceImplTest-whenComposeEmailForClientInvokedWithNullEmailAdressThenExceptionIsThrown
+Tue May 15 22:04:22 UTC 2018: Code found com.cm.service.impl.EmailServiceImpl-composeEmail with com.cm.service.EmailServiceImplTest-whenComposeEmailForClientInvokedWithNullCoinThenExceptionIsThrown
+Tue May 15 22:04:22 UTC 2018: Code found com.cm.service.impl.EmailServiceImpl-composeEmail with com.cm.service.EmailServiceImplTest-whenComposeEmailForAdminInvokedWithNullCoinThenExceptionIsThrown
+Tue May 15 22:04:22 UTC 2018: Linking done for Ievgen-Kalko__CM test class com.cm.service.EmailServiceImplTest
+Tue May 15 22:04:23 UTC 2018: Found element on the queue
+Tue May 15 22:04:23 UTC 2018: Updating status
+Tue May 15 22:04:23 UTC 2018: Working
+Tue May 15 22:04:26 UTC 2018: Start Ievgen-Kalko__CM test class com.cm.service.SubscriptionServiceImplTest
+Tue May 15 22:04:26 UTC 2018: Setting lastTestMethodIndex: 48807
+Tue May 15 22:04:26 UTC 2018: Starting linking
+Tue May 15 22:04:26 UTC 2018: Code found com.cm.service.impl.SubscriptionServiceImpl-getSubscriptions with com.cm.service.SubscriptionServiceImplTest-whenGetSubscriptionsInvokedWithEmptyArgThenExceptionIsThrown
+Tue May 15 22:04:26 UTC 2018: Code found com.cm.service.impl.SubscriptionServiceImpl-getSubscriptions with com.cm.service.SubscriptionServiceImplTest-whenGetSubscriptionsInvokedWithNullArgThenExceptionIsThrown
+Tue May 15 22:04:27 UTC 2018: Code found com.cm.service.impl.SubscriptionServiceImpl-getSubscriptions with com.cm.service.SubscriptionServiceImplTest-whenGetSubscriptionsInvokedThenSubscriptionRepositoryShouldInvoked
+Tue May 15 22:04:27 UTC 2018: Linking done for Ievgen-Kalko__CM test class com.cm.service.SubscriptionServiceImplTest
+Tue May 15 22:04:28 UTC 2018: Found element on the queue
+Tue May 15 22:04:28 UTC 2018: Updating status
+Tue May 15 22:04:28 UTC 2018: Working
+Tue May 15 22:04:32 UTC 2018: Start Ievgen-Kalko__CM test class com.cm.service.UserServiceImplTest
+Tue May 15 22:04:32 UTC 2018: Setting lastTestMethodIndex: 48809
+Tue May 15 22:04:32 UTC 2018: Starting linking
+Tue May 15 22:04:32 UTC 2018: No link for: com.cm.service.UserServiceImplTest-whenGetUserByTypeInvoked_thenUserRepositoryShouldInvoked
+Tue May 15 22:04:32 UTC 2018: No link for: com.cm.service.UserServiceImplTest-whenGetUserByTypeInvokedWithNullArgThenExceptionIsThrown
+Tue May 15 22:04:32 UTC 2018: Linking done for Ievgen-Kalko__CM test class com.cm.service.UserServiceImplTest

@@ -1,0 +1,220 @@
+Tue May 15 15:50:15 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 15:50:15 UTC 2018: Starting
+Tue May 15 15:50:16 UTC 2018: Found element on the queue
+Tue May 15 15:50:16 UTC 2018: Updating status
+Tue May 15 15:50:16 UTC 2018: Working
+Tue May 15 15:50:16 UTC 2018: Create project parser
+Tue May 15 15:50:21 UTC 2018: Create slicer
+Tue May 15 15:50:23 UTC 2018: Create call graph
+Tue May 15 15:50:25 UTC 2018: Create point analysis
+Tue May 15 15:50:25 UTC 2018: Create call graph done
+Tue May 15 15:50:25 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.ProxyServerExceptionTest
+Tue May 15 15:50:25 UTC 2018: Setting lastTestMethodIndex: 37139
+Tue May 15 15:50:25 UTC 2018: Starting linking
+Tue May 15 15:50:25 UTC 2018: No link for: org.ebayopensource.scc.ProxyServerExceptionTest-test
+Tue May 15 15:50:25 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.ProxyServerExceptionTest
+Tue May 15 15:50:26 UTC 2018: Found element on the queue
+Tue May 15 15:50:26 UTC 2018: Updating status
+Tue May 15 15:50:26 UTC 2018: Working
+Tue May 15 15:50:28 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.AppCtxTest
+Tue May 15 15:50:28 UTC 2018: Setting lastTestMethodIndex: 37141
+Tue May 15 15:50:28 UTC 2018: Starting linking
+Tue May 15 15:50:28 UTC 2018: No link for: org.ebayopensource.scc.AppCtxTest-test
+Tue May 15 15:50:28 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.AppCtxTest
+Tue May 15 15:50:29 UTC 2018: Found element on the queue
+Tue May 15 15:50:29 UTC 2018: Updating status
+Tue May 15 15:50:29 UTC 2018: Working
+Tue May 15 15:50:32 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.LauncherTest
+Tue May 15 15:50:32 UTC 2018: Setting lastTestMethodIndex: 37143
+Tue May 15 15:50:32 UTC 2018: Starting linking
+Tue May 15 15:50:32 UTC 2018: Code found org.ebayopensource.scc.Launcher-available with org.ebayopensource.scc.LauncherTest-testAvailable
+Tue May 15 15:50:32 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.LauncherTest
+Tue May 15 15:50:32 UTC 2018: Found element on the queue
+Tue May 15 15:50:32 UTC 2018: Updating status
+Tue May 15 15:50:32 UTC 2018: Working
+Tue May 15 15:50:35 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.debug.DebugHttpFilterTest
+Tue May 15 15:50:35 UTC 2018: Setting lastTestMethodIndex: 37145
+Tue May 15 15:50:35 UTC 2018: Starting linking
+Tue May 15 15:50:35 UTC 2018: Code found org.ebayopensource.scc.debug.DebugHttpFilter-clientToProxyRequest with org.ebayopensource.scc.debug.DebugHttpFilterTest-testClientToProxyRequest
+Tue May 15 15:50:35 UTC 2018: Code found org.ebayopensource.scc.debug.DebugHttpFilter-serverToProxyResponse with org.ebayopensource.scc.debug.DebugHttpFilterTest-testServerToProxyResponse
+Tue May 15 15:50:35 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.debug.DebugHttpFilterTest
+Tue May 15 15:50:36 UTC 2018: Found element on the queue
+Tue May 15 15:50:36 UTC 2018: Updating status
+Tue May 15 15:50:36 UTC 2018: Working
+Tue May 15 15:50:38 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.debug.DebugClientHandlerTest
+Tue May 15 15:50:38 UTC 2018: Setting lastTestMethodIndex: 37147
+Tue May 15 15:50:38 UTC 2018: Starting linking
+Tue May 15 15:50:38 UTC 2018: Code found org.ebayopensource.scc.debug.DebugClientHandler-exceptionCaught with org.ebayopensource.scc.debug.DebugClientHandlerTest-testExceptionCaught
+Tue May 15 15:50:38 UTC 2018: Code found org.ebayopensource.scc.debug.DebugClientHandler-channelRead0 with org.ebayopensource.scc.debug.DebugClientHandlerTest-testChannelRead0_debugOnContent
+Tue May 15 15:50:38 UTC 2018: Code found org.ebayopensource.scc.debug.DebugClientHandler-channelRead0 with org.ebayopensource.scc.debug.DebugClientHandlerTest-testChannelRead0_debugOffContent
+Tue May 15 15:50:38 UTC 2018: Code found org.ebayopensource.scc.debug.DebugClientHandler-channelRead0 with org.ebayopensource.scc.debug.DebugClientHandlerTest-testChannelRead0_debugOnResponse
+Tue May 15 15:50:38 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.debug.DebugClientHandlerTest
+Tue May 15 15:50:39 UTC 2018: Found element on the queue
+Tue May 15 15:50:39 UTC 2018: Updating status
+Tue May 15 15:50:39 UTC 2018: Working
+Tue May 15 15:50:41 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.filter.CacheHttpFilterTest
+Tue May 15 15:50:41 UTC 2018: Setting lastTestMethodIndex: 37148
+Tue May 15 15:50:41 UTC 2018: Starting linking
+Tue May 15 15:50:41 UTC 2018: Code found org.ebayopensource.scc.filter.CacheHttpFilterSource$CacheHttpFilter-clientToProxyRequest with org.ebayopensource.scc.filter.CacheHttpFilterTest-testClientToProxyRequestHttpObject
+Tue May 15 15:50:41 UTC 2018: Code found org.ebayopensource.scc.filter.CacheHttpFilterSource$CacheHttpFilter-serverToProxyResponse with org.ebayopensource.scc.filter.CacheHttpFilterTest-testServerToProxyResponseHttpObject
+Tue May 15 15:50:41 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.filter.CacheHttpFilterTest
+Tue May 15 15:50:42 UTC 2018: Found element on the queue
+Tue May 15 15:50:42 UTC 2018: Updating status
+Tue May 15 15:50:42 UTC 2018: Working
+Tue May 15 15:50:44 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.filter.FilterManagerTest
+Tue May 15 15:50:44 UTC 2018: Setting lastTestMethodIndex: 37149
+Tue May 15 15:50:44 UTC 2018: Starting linking
+Tue May 15 15:50:44 UTC 2018: Code found org.ebayopensource.scc.filter.FilterManager-filterRequest with org.ebayopensource.scc.filter.FilterManagerTest-testFilterRequest
+Tue May 15 15:50:44 UTC 2018: Code found org.ebayopensource.scc.filter.FilterManager-filterResponse with org.ebayopensource.scc.filter.FilterManagerTest-testFilterResponse
+Tue May 15 15:50:45 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.filter.FilterManagerTest
+Tue May 15 15:50:45 UTC 2018: Found element on the queue
+Tue May 15 15:50:45 UTC 2018: Updating status
+Tue May 15 15:50:45 UTC 2018: Working
+Tue May 15 15:50:48 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.config.ConfigTest
+Tue May 15 15:50:48 UTC 2018: Setting lastTestMethodIndex: 37151
+Tue May 15 15:50:48 UTC 2018: Starting linking
+Tue May 15 15:50:48 UTC 2018: Code found org.ebayopensource.scc.config.Config-equals with org.ebayopensource.scc.config.ConfigTest-testEqualsObject
+Tue May 15 15:50:48 UTC 2018: Code found org.ebayopensource.scc.config.Config-hashCode with org.ebayopensource.scc.config.ConfigTest-testHashCode
+Tue May 15 15:50:48 UTC 2018: No link for: org.ebayopensource.scc.config.ConfigTest-test
+Tue May 15 15:50:48 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.config.ConfigTest
+Tue May 15 15:50:48 UTC 2018: Found element on the queue
+Tue May 15 15:50:48 UTC 2018: Updating status
+Tue May 15 15:50:48 UTC 2018: Working
+Tue May 15 15:50:51 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.config.AppConfigurationTest
+Tue May 15 15:50:51 UTC 2018: Setting lastTestMethodIndex: 37153
+Tue May 15 15:50:51 UTC 2018: Starting linking
+Tue May 15 15:50:51 UTC 2018: Code found org.ebayopensource.scc.config.AppConfiguration-getDouble with org.ebayopensource.scc.config.AppConfigurationTest-testGetDouble
+Tue May 15 15:50:51 UTC 2018: Code found org.ebayopensource.scc.config.AppConfiguration-getAdminPort with org.ebayopensource.scc.config.AppConfigurationTest-testGetAdminPort
+Tue May 15 15:50:51 UTC 2018: Code found org.ebayopensource.scc.config.AppConfiguration-getConfig with org.ebayopensource.scc.config.AppConfigurationTest-testGetConfig
+Tue May 15 15:50:51 UTC 2018: Code found org.ebayopensource.scc.config.AppConfiguration-isCacheEnabled with org.ebayopensource.scc.config.AppConfigurationTest-testIsCacheEnabled
+Tue May 15 15:50:51 UTC 2018: Code found org.ebayopensource.scc.config.AppConfiguration-getDebugPort with org.ebayopensource.scc.config.AppConfigurationTest-testGetDebugPort
+Tue May 15 15:50:51 UTC 2018: Code found org.ebayopensource.scc.config.AppConfiguration-getProxyPort with org.ebayopensource.scc.config.AppConfigurationTest-testGetProxyPort
+Tue May 15 15:50:51 UTC 2018: Code found org.ebayopensource.scc.config.AppConfiguration-getBoolean with org.ebayopensource.scc.config.AppConfigurationTest-testGetBoolean
+Tue May 15 15:50:51 UTC 2018: No link for: org.ebayopensource.scc.config.AppConfigurationTest-testGetAppInfo
+Tue May 15 15:50:51 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.config.AppConfigurationTest
+Tue May 15 15:50:52 UTC 2018: Found element on the queue
+Tue May 15 15:50:52 UTC 2018: Updating status
+Tue May 15 15:50:52 UTC 2018: Working
+Tue May 15 15:50:54 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.NettyResponseDeserializerTest
+Tue May 15 15:50:54 UTC 2018: Setting lastTestMethodIndex: 37155
+Tue May 15 15:50:54 UTC 2018: Starting linking
+Tue May 15 15:50:54 UTC 2018: Code found org.ebayopensource.scc.cache.NettyResponseDeserializer-deserialize with org.ebayopensource.scc.cache.NettyResponseDeserializerTest-testDeserialize
+Tue May 15 15:50:55 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.NettyResponseDeserializerTest
+Tue May 15 15:50:55 UTC 2018: Found element on the queue
+Tue May 15 15:50:55 UTC 2018: Updating status
+Tue May 15 15:50:55 UTC 2018: Working
+Tue May 15 15:50:58 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheStatsTest
+Tue May 15 15:50:58 UTC 2018: Setting lastTestMethodIndex: 37157
+Tue May 15 15:50:58 UTC 2018: Starting linking
+Tue May 15 15:50:58 UTC 2018: Code found org.ebayopensource.scc.cache.CacheStats-addCacheVerifiedResult with org.ebayopensource.scc.cache.CacheStatsTest-testAddCacheVerifiedResult
+Tue May 15 15:50:58 UTC 2018: Code found org.ebayopensource.scc.cache.CacheStats-getFalsedCacheVerifiedResultStats with org.ebayopensource.scc.cache.CacheStatsTest-testGetFalsedCacheVerifiedResultStats
+Tue May 15 15:50:58 UTC 2018: No link for: org.ebayopensource.scc.cache.CacheStatsTest-testHitMissedStats
+Tue May 15 15:50:58 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheStatsTest
+Tue May 15 15:50:59 UTC 2018: Found element on the queue
+Tue May 15 15:50:59 UTC 2018: Updating status
+Tue May 15 15:50:59 UTC 2018: Working
+Tue May 15 15:51:01 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.RequestKeyGeneratorTest
+Tue May 15 15:51:01 UTC 2018: Setting lastTestMethodIndex: 37159
+Tue May 15 15:51:01 UTC 2018: Starting linking
+Tue May 15 15:51:01 UTC 2018: No link for: org.ebayopensource.scc.cache.RequestKeyGeneratorTest-testHttpsReq
+Tue May 15 15:51:01 UTC 2018: No link for: org.ebayopensource.scc.cache.RequestKeyGeneratorTest-testURIMatchOnly
+Tue May 15 15:51:01 UTC 2018: No link for: org.ebayopensource.scc.cache.RequestKeyGeneratorTest-test
+Tue May 15 15:51:01 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.RequestKeyGeneratorTest
+Tue May 15 15:51:02 UTC 2018: Found element on the queue
+Tue May 15 15:51:02 UTC 2018: Updating status
+Tue May 15 15:51:02 UTC 2018: Working
+Tue May 15 15:51:04 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.ChunkResponsesSerializerTest
+Tue May 15 15:51:04 UTC 2018: Setting lastTestMethodIndex: 37160
+Tue May 15 15:51:04 UTC 2018: Starting linking
+Tue May 15 15:51:04 UTC 2018: Code found org.ebayopensource.scc.cache.ChunkResponsesSerializer-getContent with org.ebayopensource.scc.cache.ChunkResponsesSerializerTest-getContent
+Tue May 15 15:51:04 UTC 2018: Code found org.ebayopensource.scc.cache.ChunkResponsesSerializer-getType with org.ebayopensource.scc.cache.ChunkResponsesSerializerTest-testGetType
+Tue May 15 15:51:05 UTC 2018: Code found org.ebayopensource.scc.cache.ChunkResponsesSerializer-getHttpResponse with org.ebayopensource.scc.cache.ChunkResponsesSerializerTest-testGetHttpResponse
+Tue May 15 15:51:05 UTC 2018: Code found org.ebayopensource.scc.cache.ChunkResponsesSerializer-getTrailingHeaders with org.ebayopensource.scc.cache.ChunkResponsesSerializerTest-testGetTrailingHeaders
+Tue May 15 15:51:05 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.ChunkResponsesSerializerTest
+Tue May 15 15:51:05 UTC 2018: Found element on the queue
+Tue May 15 15:51:05 UTC 2018: Updating status
+Tue May 15 15:51:05 UTC 2018: Working
+Tue May 15 15:51:08 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheManagerTest
+Tue May 15 15:51:08 UTC 2018: Setting lastTestMethodIndex: 37162
+Tue May 15 15:51:08 UTC 2018: Starting linking
+Tue May 15 15:51:08 UTC 2018: Code found org.ebayopensource.scc.cache.CacheManager-get with org.ebayopensource.scc.cache.CacheManagerTest-testGet
+Tue May 15 15:51:08 UTC 2018: Code found org.ebayopensource.scc.cache.CacheManager-put with org.ebayopensource.scc.cache.CacheManagerTest-testPut
+Tue May 15 15:51:08 UTC 2018: No link for: org.ebayopensource.scc.cache.CacheManagerTest-test
+Tue May 15 15:51:08 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheManagerTest
+Tue May 15 15:51:09 UTC 2018: Found element on the queue
+Tue May 15 15:51:09 UTC 2018: Updating status
+Tue May 15 15:51:09 UTC 2018: Working
+Tue May 15 15:51:12 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheResponseTest
+Tue May 15 15:51:12 UTC 2018: Setting lastTestMethodIndex: 37164
+Tue May 15 15:51:12 UTC 2018: Starting linking
+Tue May 15 15:51:12 UTC 2018: No link for: org.ebayopensource.scc.cache.CacheResponseTest-test
+Tue May 15 15:51:12 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheResponseTest
+Tue May 15 15:51:13 UTC 2018: Found element on the queue
+Tue May 15 15:51:13 UTC 2018: Updating status
+Tue May 15 15:51:13 UTC 2018: Working
+Tue May 15 15:51:15 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.policy.PolicyManagerTest
+Tue May 15 15:51:15 UTC 2018: Setting lastTestMethodIndex: 37166
+Tue May 15 15:51:15 UTC 2018: Starting linking
+Tue May 15 15:51:15 UTC 2018: No link for: org.ebayopensource.scc.cache.policy.PolicyManagerTest-testOnlyIncludesInGlobalPolicy
+Tue May 15 15:51:15 UTC 2018: No link for: org.ebayopensource.scc.cache.policy.PolicyManagerTest-testNeitherIncludeNorExcludeSetInGlobalPolicy
+Tue May 15 15:51:15 UTC 2018: No link for: org.ebayopensource.scc.cache.policy.PolicyManagerTest-testOnlyExcludesInGlobalPolicy
+Tue May 15 15:51:15 UTC 2018: No link for: org.ebayopensource.scc.cache.policy.PolicyManagerTest-testCacheDisabledInGlobalPolicy
+Tue May 15 15:51:15 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.policy.PolicyManagerTest
+Tue May 15 15:51:16 UTC 2018: Found element on the queue
+Tue May 15 15:51:16 UTC 2018: Updating status
+Tue May 15 15:51:16 UTC 2018: Working
+Tue May 15 15:51:18 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheResultVerifierTest
+Tue May 15 15:51:18 UTC 2018: Setting lastTestMethodIndex: 37168
+Tue May 15 15:51:18 UTC 2018: Starting linking
+Tue May 15 15:51:18 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_vaStrictr
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_differentContent
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_sameContent
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_missHeader
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_differentStatus
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_invalidETag
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_sameHeader
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_diffHeaderValue
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult_differentContentLength
+Tue May 15 15:51:19 UTC 2018: Code found org.ebayopensource.scc.cache.CacheResultVerifier-fetchResult with org.ebayopensource.scc.cache.CacheResultVerifierTest-testFetchResult
+Tue May 15 15:51:19 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheResultVerifierTest
+Tue May 15 15:51:20 UTC 2018: Found element on the queue
+Tue May 15 15:51:20 UTC 2018: Updating status
+Tue May 15 15:51:20 UTC 2018: Working
+Tue May 15 15:51:22 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheEntryTest
+Tue May 15 15:51:22 UTC 2018: Setting lastTestMethodIndex: 37170
+Tue May 15 15:51:22 UTC 2018: Starting linking
+Tue May 15 15:51:22 UTC 2018: No link for: org.ebayopensource.scc.cache.CacheEntryTest-test
+Tue May 15 15:51:22 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.CacheEntryTest
+Tue May 15 15:51:23 UTC 2018: Found element on the queue
+Tue May 15 15:51:23 UTC 2018: Updating status
+Tue May 15 15:51:23 UTC 2018: Working
+Tue May 15 15:51:25 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.NettyResponseSerializerTest
+Tue May 15 15:51:25 UTC 2018: Setting lastTestMethodIndex: 37172
+Tue May 15 15:51:25 UTC 2018: Starting linking
+Tue May 15 15:51:25 UTC 2018: Code found org.ebayopensource.scc.cache.NettyResponseSerializer-serialize with org.ebayopensource.scc.cache.NettyResponseSerializerTest-testSerialize
+Tue May 15 15:51:25 UTC 2018: Code found org.ebayopensource.scc.cache.NettyResponseSerializer-getType with org.ebayopensource.scc.cache.NettyResponseSerializerTest-testGetType
+Tue May 15 15:51:26 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.cache.NettyResponseSerializerTest
+Tue May 15 15:51:26 UTC 2018: Found element on the queue
+Tue May 15 15:51:26 UTC 2018: Updating status
+Tue May 15 15:51:26 UTC 2018: Working
+Tue May 15 15:51:29 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.util.WildcardMatcherTest
+Tue May 15 15:51:29 UTC 2018: Setting lastTestMethodIndex: 37174
+Tue May 15 15:51:29 UTC 2018: Starting linking
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testWildcardWithNullPattern
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testWildcardMatchTrailingStar
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testWildcardNotMatchTrailingStar
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testWildcardOnlyStar
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testMatchingStartWith
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testWildcardNotMatchMiddleStar
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testMatchingEndWith
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testWildcardMatchMiddleStar
+Tue May 15 15:51:29 UTC 2018: No link for: org.ebayopensource.scc.util.WildcardMatcherTest-testWildcardWithNullText
+Tue May 15 15:51:29 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.util.WildcardMatcherTest
+Tue May 15 15:51:30 UTC 2018: Found element on the queue
+Tue May 15 15:51:30 UTC 2018: Updating status
+Tue May 15 15:51:30 UTC 2018: Working
+Tue May 15 15:51:32 UTC 2018: Start eBay__ServiceCOLDCache test class org.ebayopensource.scc.track.TrackerTest
+Tue May 15 15:51:32 UTC 2018: Setting lastTestMethodIndex: 37176
+Tue May 15 15:51:32 UTC 2018: Starting linking
+Tue May 15 15:51:32 UTC 2018: No link for: org.ebayopensource.scc.track.TrackerTest-test
+Tue May 15 15:51:33 UTC 2018: Linking done for eBay__ServiceCOLDCache test class org.ebayopensource.scc.track.TrackerTest

@@ -1,0 +1,635 @@
+Tue May 15 13:54:24 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:54:24 UTC 2018: Starting
+Tue May 15 13:54:25 UTC 2018: Found element on the queue
+Tue May 15 13:54:25 UTC 2018: Updating status
+Tue May 15 13:54:25 UTC 2018: Working
+Tue May 15 13:54:25 UTC 2018: Create project parser
+Tue May 15 13:54:30 UTC 2018: Create slicer
+Tue May 15 13:54:35 UTC 2018: Create call graph
+Tue May 15 13:54:41 UTC 2018: Create point analysis
+Tue May 15 13:54:41 UTC 2018: Create call graph done
+Tue May 15 13:54:41 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.alluxio.AlluxioInterpreterTest
+Tue May 15 13:54:42 UTC 2018: Setting lastTestMethodIndex: 34500
+Tue May 15 13:54:42 UTC 2018: Starting linking
+Tue May 15 13:54:42 UTC 2018: Code found org.apache.zeppelin.alluxio.AlluxioInterpreter-completion with org.apache.zeppelin.alluxio.AlluxioInterpreterTest-testCompletion
+Tue May 15 13:54:42 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-loadFileTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalTestWithFullURI
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirExistingTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-locationNotExistTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-fileinfoNotExistTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-loadDirTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-countTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyToLocalTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirInvalidPathTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catNotExistTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalLargeTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catDirectoryTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirShortPathTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-lsRecursiveTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-lsTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-countNotExistTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyToLocalLargeTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalFileToDstPathTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirComplexPathTest
+Tue May 15 13:54:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:42 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.alluxio.AlluxioInterpreterTest
+Tue May 15 13:54:42 UTC 2018: Found element on the queue
+Tue May 15 13:54:42 UTC 2018: Updating status
+Tue May 15 13:54:42 UTC 2018: Working
+Tue May 15 13:54:42 UTC 2018: Create project parser
+Tue May 15 13:54:46 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.cassandra.InterpreterLogicTest
+Tue May 15 13:54:46 UTC 2018: Setting lastTestMethodIndex: 34502
+Tue May 15 13:54:46 UTC 2018: Starting linking
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_serial_consistency_option
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_timestamp_option
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_retry_policy_option
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_generate_batch_statement
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_from_angular_object_registry
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_request_timeout_option
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_input_string_block
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_exception_while_parsing_input
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_and_default_value
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_and_choices
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_consistency_option
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_bound_values
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_simple_date
+Tue May 15 13:54:46 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_accurate_date
+Tue May 15 13:54:47 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_no_variable
+Tue May 15 13:54:47 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_error_if_incorrect_variable_definition
+Tue May 15 13:54:47 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_generate_simple_statement
+Tue May 15 13:54:47 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.cassandra.InterpreterLogicTest
+Tue May 15 13:54:47 UTC 2018: Found element on the queue
+Tue May 15 13:54:47 UTC 2018: Updating status
+Tue May 15 13:54:47 UTC 2018: Working
+Tue May 15 13:54:50 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.cassandra.CassandraInterpreterTest
+Tue May 15 13:54:50 UTC 2018: Setting lastTestMethodIndex: 34504
+Tue May 15 13:54:50 UTC 2018: Starting linking
+Tue May 15 13:54:51 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_multiple_statements_with_single_line_logged_batch
+Tue May 15 13:54:51 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_select_statement
+Tue May 15 13:54:51 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_simple_select
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_request_timeout
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_validate_statement
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_table
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_display_statistics_for_non_select_statement
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_throw_statement_not_having_semi_colon
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_udt_withing_logged_in_keyspace
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_describing_non_existing_table
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_prepared_and_bound_statements
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_function
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_materialized_view
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_bound_statement
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_timestamp_option
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_udt
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_bind_boolean_value
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_show_help
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_just_prepare_statement
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_create_cluster_and_session_upon_call_to_open
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_bound_statement_with_no_bound_value
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_and_display_stack_trace
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_keyspace
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_serial_consistency_option
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_bind_null_value
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_extract_variable_from_statement
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_aggregate
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_fail_when_executing_a_removed_prepared_statement
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_consistency_option
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_parse_date_value
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_cluster
+Tue May 15 13:54:51 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_exception_when_executing_unknown_bound_statement
+Tue May 15 13:54:52 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_describing_non_existing_udt
+Tue May 15 13:54:52 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_retry_policy
+Tue May 15 13:54:52 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_keyspaces
+Tue May 15 13:54:52 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.cassandra.CassandraInterpreterTest
+Tue May 15 13:54:52 UTC 2018: Found element on the queue
+Tue May 15 13:54:52 UTC 2018: Updating status
+Tue May 15 13:54:52 UTC 2018: Working
+Tue May 15 13:54:52 UTC 2018: Create project parser
+Tue May 15 13:54:55 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.file.HDFSFileInterpreterTest
+Tue May 15 13:54:55 UTC 2018: Setting lastTestMethodIndex: 34507
+Tue May 15 13:54:55 UTC 2018: Starting linking
+Tue May 15 13:54:55 UTC 2018: No link for: org.apache.zeppelin.file.HDFSFileInterpreterTest-testMaxLength
+Tue May 15 13:54:55 UTC 2018: No link for: org.apache.zeppelin.file.HDFSFileInterpreterTest-test
+Tue May 15 13:54:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:55 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.file.HDFSFileInterpreterTest
+Tue May 15 13:54:56 UTC 2018: Found element on the queue
+Tue May 15 13:54:56 UTC 2018: Updating status
+Tue May 15 13:54:56 UTC 2018: Working
+Tue May 15 13:54:56 UTC 2018: Create project parser
+Tue May 15 13:54:58 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.hbase.HbaseInterpreterTest
+Tue May 15 13:54:58 UTC 2018: Setting lastTestMethodIndex: 34508
+Tue May 15 13:54:58 UTC 2018: Starting linking
+Tue May 15 13:54:58 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-newObject
+Tue May 15 13:54:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:58 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-testException
+Tue May 15 13:54:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:58 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-putsTest
+Tue May 15 13:54:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:54:58 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.hbase.HbaseInterpreterTest
+Tue May 15 13:54:59 UTC 2018: Found element on the queue
+Tue May 15 13:54:59 UTC 2018: Updating status
+Tue May 15 13:54:59 UTC 2018: Working
+Tue May 15 13:54:59 UTC 2018: Create project parser
+Tue May 15 13:55:02 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.ignite.IgniteSqlInterpreterTest
+Tue May 15 13:55:02 UTC 2018: Setting lastTestMethodIndex: 34510
+Tue May 15 13:55:02 UTC 2018: Starting linking
+Tue May 15 13:55:02 UTC 2018: No link for: org.apache.zeppelin.ignite.IgniteSqlInterpreterTest-testSql
+Tue May 15 13:55:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:02 UTC 2018: No link for: org.apache.zeppelin.ignite.IgniteSqlInterpreterTest-testInvalidSql
+Tue May 15 13:55:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:02 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.ignite.IgniteSqlInterpreterTest
+Tue May 15 13:55:03 UTC 2018: Found element on the queue
+Tue May 15 13:55:03 UTC 2018: Updating status
+Tue May 15 13:55:03 UTC 2018: Working
+Tue May 15 13:55:06 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.ignite.IgniteInterpreterTest
+Tue May 15 13:55:06 UTC 2018: Setting lastTestMethodIndex: 34512
+Tue May 15 13:55:06 UTC 2018: Starting linking
+Tue May 15 13:55:06 UTC 2018: Code found org.apache.zeppelin.ignite.IgniteInterpreter-interpret with org.apache.zeppelin.ignite.IgniteInterpreterTest-testInterpretInvalidInput
+Tue May 15 13:55:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:55:06 UTC 2018: Code found org.apache.zeppelin.ignite.IgniteInterpreter-interpret with org.apache.zeppelin.ignite.IgniteInterpreterTest-testInterpret
+Tue May 15 13:55:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:55:06 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.ignite.IgniteInterpreterTest
+Tue May 15 13:55:07 UTC 2018: Found element on the queue
+Tue May 15 13:55:07 UTC 2018: Updating status
+Tue May 15 13:55:07 UTC 2018: Working
+Tue May 15 13:55:07 UTC 2018: Create project parser
+Tue May 15 13:55:10 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.jdbc.SqlCompleterTest
+Tue May 15 13:55:10 UTC 2018: Setting lastTestMethodIndex: 34514
+Tue May 15 13:55:10 UTC 2018: Starting linking
+Tue May 15 13:55:10 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.jdbc.SqlCompleterTest
+Tue May 15 13:55:11 UTC 2018: Found element on the queue
+Tue May 15 13:55:11 UTC 2018: Updating status
+Tue May 15 13:55:11 UTC 2018: Working
+Tue May 15 13:55:13 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.jdbc.JDBCInterpreterTest
+Tue May 15 13:55:13 UTC 2018: Setting lastTestMethodIndex: 34515
+Tue May 15 13:55:13 UTC 2018: Starting linking
+Tue May 15 13:55:13 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testExcludingComments
+Tue May 15 13:55:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:13 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQuery
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-concurrentSettingTest
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testDefaultSplitQuries
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testForMapPrefix
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testAutoCompletion
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testQueryWithEsсapedCharacters
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testPrecodeWithAnotherPrefix
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testForParsePropertyKey
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testPrecode
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQueryWithNull
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testDefaultProperties
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectMultipleQueries
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQueryMaxResult
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testIncorrectPrecode
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSplitSqlQuery
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testMultiTenant
+Tue May 15 13:55:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:14 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.jdbc.JDBCInterpreterTest
+Tue May 15 13:55:14 UTC 2018: Found element on the queue
+Tue May 15 13:55:14 UTC 2018: Updating status
+Tue May 15 13:55:14 UTC 2018: Working
+Tue May 15 13:55:14 UTC 2018: Create project parser
+Tue May 15 13:55:17 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.kylin.KylinInterpreterTest
+Tue May 15 13:55:17 UTC 2018: Setting lastTestMethodIndex: 34516
+Tue May 15 13:55:17 UTC 2018: Starting linking
+Tue May 15 13:55:17 UTC 2018: No link for: org.apache.zeppelin.kylin.KylinInterpreterTest-testWithProject
+Tue May 15 13:55:17 UTC 2018: No link for: org.apache.zeppelin.kylin.KylinInterpreterTest-testWithDefault
+Tue May 15 13:55:17 UTC 2018: No link for: org.apache.zeppelin.kylin.KylinInterpreterTest-testParseResult
+Tue May 15 13:55:17 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.kylin.KylinInterpreterTest
+Tue May 15 13:55:17 UTC 2018: Found element on the queue
+Tue May 15 13:55:17 UTC 2018: Updating status
+Tue May 15 13:55:17 UTC 2018: Working
+Tue May 15 13:55:17 UTC 2018: Create project parser
+Tue May 15 13:55:20 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.lens.LensInterpreterTest
+Tue May 15 13:55:20 UTC 2018: Setting lastTestMethodIndex: 34517
+Tue May 15 13:55:20 UTC 2018: Starting linking
+Tue May 15 13:55:20 UTC 2018: No link for: org.apache.zeppelin.lens.LensInterpreterTest-test
+Tue May 15 13:55:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:20 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.lens.LensInterpreterTest
+Tue May 15 13:55:21 UTC 2018: Found element on the queue
+Tue May 15 13:55:21 UTC 2018: Updating status
+Tue May 15 13:55:21 UTC 2018: Working
+Tue May 15 13:55:21 UTC 2018: Create project parser
+Tue May 15 13:55:24 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.livy.LivySQLInterpreterTest
+Tue May 15 13:55:24 UTC 2018: Setting lastTestMethodIndex: 34519
+Tue May 15 13:55:24 UTC 2018: Starting linking
+Tue May 15 13:55:24 UTC 2018: Code found org.apache.zeppelin.livy.LivySparkSQLInterpreter-parseSQLOutput with org.apache.zeppelin.livy.LivySQLInterpreterTest-testParseSQLOutput
+Tue May 15 13:55:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:55:24 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.livy.LivySQLInterpreterTest
+Tue May 15 13:55:25 UTC 2018: Found element on the queue
+Tue May 15 13:55:25 UTC 2018: Updating status
+Tue May 15 13:55:25 UTC 2018: Working
+Tue May 15 13:55:25 UTC 2018: Create project parser
+Tue May 15 13:55:28 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.markdown.PegdownParserTest
+Tue May 15 13:55:28 UTC 2018: Setting lastTestMethodIndex: 34521
+Tue May 15 13:55:28 UTC 2018: Starting linking
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testHeader
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testStrikethrough
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testYumlPlugin
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testBlockQuotes
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testUnorderedList
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testItalics
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testStrongEmphasis
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testOrderedList
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testLinks
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testInlineCode
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testAlignedTable
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testWebsequencePlugin
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testSimpleTable
+Tue May 15 13:55:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:28 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.markdown.PegdownParserTest
+Tue May 15 13:55:29 UTC 2018: Found element on the queue
+Tue May 15 13:55:29 UTC 2018: Updating status
+Tue May 15 13:55:29 UTC 2018: Working
+Tue May 15 13:55:31 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.markdown.Markdown4jParserTest
+Tue May 15 13:55:31 UTC 2018: Setting lastTestMethodIndex: 34523
+Tue May 15 13:55:31 UTC 2018: Starting linking
+Tue May 15 13:55:32 UTC 2018: No link for: org.apache.zeppelin.markdown.Markdown4jParserTest-testStrikethrough
+Tue May 15 13:55:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:32 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.markdown.Markdown4jParserTest
+Tue May 15 13:55:32 UTC 2018: Found element on the queue
+Tue May 15 13:55:32 UTC 2018: Updating status
+Tue May 15 13:55:32 UTC 2018: Working
+Tue May 15 13:55:32 UTC 2018: Create project parser
+Tue May 15 13:55:35 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.pig.PigInterpreterSparkTest
+Tue May 15 13:55:35 UTC 2018: Setting lastTestMethodIndex: 34525
+Tue May 15 13:55:35 UTC 2018: Starting linking
+Tue May 15 13:55:35 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterSparkTest-testIncludeJobStats
+Tue May 15 13:55:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:35 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterSparkTest-testBasics
+Tue May 15 13:55:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:35 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.pig.PigInterpreterSparkTest
+Tue May 15 13:55:36 UTC 2018: Found element on the queue
+Tue May 15 13:55:36 UTC 2018: Updating status
+Tue May 15 13:55:36 UTC 2018: Working
+Tue May 15 13:55:38 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.pig.PigQueryInterpreterTest
+Tue May 15 13:55:38 UTC 2018: Setting lastTestMethodIndex: 34527
+Tue May 15 13:55:38 UTC 2018: Starting linking
+Tue May 15 13:55:38 UTC 2018: No link for: org.apache.zeppelin.pig.PigQueryInterpreterTest-testBasics
+Tue May 15 13:55:39 UTC 2018: No link for: org.apache.zeppelin.pig.PigQueryInterpreterTest-testMaxResult
+Tue May 15 13:55:39 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.pig.PigQueryInterpreterTest
+Tue May 15 13:55:39 UTC 2018: Found element on the queue
+Tue May 15 13:55:39 UTC 2018: Updating status
+Tue May 15 13:55:39 UTC 2018: Working
+Tue May 15 13:55:42 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.pig.PigInterpreterTest
+Tue May 15 13:55:42 UTC 2018: Setting lastTestMethodIndex: 34529
+Tue May 15 13:55:42 UTC 2018: Starting linking
+Tue May 15 13:55:42 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTest-testIncludeJobStats
+Tue May 15 13:55:42 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTest-testBasics
+Tue May 15 13:55:42 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.pig.PigInterpreterTest
+Tue May 15 13:55:43 UTC 2018: Found element on the queue
+Tue May 15 13:55:43 UTC 2018: Updating status
+Tue May 15 13:55:43 UTC 2018: Working
+Tue May 15 13:55:46 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.pig.PigInterpreterTezTest
+Tue May 15 13:55:46 UTC 2018: Setting lastTestMethodIndex: 34531
+Tue May 15 13:55:46 UTC 2018: Starting linking
+Tue May 15 13:55:46 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTezTest-testBasics
+Tue May 15 13:55:46 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTezTest-testIncludeJobStats
+Tue May 15 13:55:46 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.pig.PigInterpreterTezTest
+Tue May 15 13:55:47 UTC 2018: Found element on the queue
+Tue May 15 13:55:47 UTC 2018: Updating status
+Tue May 15 13:55:47 UTC 2018: Working
+Tue May 15 13:55:47 UTC 2018: Create project parser
+Tue May 15 13:55:50 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.python.PythonCondaInterpreterTest
+Tue May 15 13:55:50 UTC 2018: Setting lastTestMethodIndex: 34533
+Tue May 15 13:55:50 UTC 2018: Starting linking
+Tue May 15 13:55:50 UTC 2018: Code found org.apache.zeppelin.python.PythonCondaInterpreter-parseCondaCommonStdout with org.apache.zeppelin.python.PythonCondaInterpreterTest-testParseCondaCommonStdout
+Tue May 15 13:55:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:55:50 UTC 2018: Code found org.apache.zeppelin.python.PythonCondaInterpreter-getRestArgsFromMatcher with org.apache.zeppelin.python.PythonCondaInterpreterTest-testGetRestArgsFromMatcher
+Tue May 15 13:55:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:55:50 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testListEnv
+Tue May 15 13:55:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:50 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testActivateEnv
+Tue May 15 13:55:50 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testDeactivate
+Tue May 15 13:55:50 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.python.PythonCondaInterpreterTest
+Tue May 15 13:55:50 UTC 2018: Found element on the queue
+Tue May 15 13:55:50 UTC 2018: Updating status
+Tue May 15 13:55:50 UTC 2018: Working
+Tue May 15 13:55:53 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.python.PythonDockerInterpreterTest
+Tue May 15 13:55:53 UTC 2018: Setting lastTestMethodIndex: 34535
+Tue May 15 13:55:53 UTC 2018: Starting linking
+Tue May 15 13:55:53 UTC 2018: No link for: org.apache.zeppelin.python.PythonDockerInterpreterTest-testDeactivate
+Tue May 15 13:55:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:53 UTC 2018: No link for: org.apache.zeppelin.python.PythonDockerInterpreterTest-testActivateEnv
+Tue May 15 13:55:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:53 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.python.PythonDockerInterpreterTest
+Tue May 15 13:55:54 UTC 2018: Found element on the queue
+Tue May 15 13:55:54 UTC 2018: Updating status
+Tue May 15 13:55:54 UTC 2018: Working
+Tue May 15 13:55:54 UTC 2018: Create project parser
+Tue May 15 13:55:56 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.shell.ShellInterpreterTest
+Tue May 15 13:55:56 UTC 2018: Setting lastTestMethodIndex: 34537
+Tue May 15 13:55:56 UTC 2018: Starting linking
+Tue May 15 13:55:56 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-testShellTimeout
+Tue May 15 13:55:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:56 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-testInvalidCommand
+Tue May 15 13:55:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:56 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-test
+Tue May 15 13:55:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:55:56 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.shell.ShellInterpreterTest
+Tue May 15 13:55:57 UTC 2018: Found element on the queue
+Tue May 15 13:55:57 UTC 2018: Updating status
+Tue May 15 13:55:57 UTC 2018: Working
+Tue May 15 13:55:57 UTC 2018: Create project parser
+Tue May 15 13:56:06 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.user.CredentialsTest
+Tue May 15 13:56:06 UTC 2018: Setting lastTestMethodIndex: 34540
+Tue May 15 13:56:06 UTC 2018: Starting linking
+Tue May 15 13:56:06 UTC 2018: No link for: org.apache.zeppelin.user.CredentialsTest-testDefaultProperty
+Tue May 15 13:56:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:06 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.user.CredentialsTest
+Tue May 15 13:56:07 UTC 2018: Found element on the queue
+Tue May 15 13:56:07 UTC 2018: Updating status
+Tue May 15 13:56:07 UTC 2018: Working
+Tue May 15 13:56:10 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.dep.DependencyResolverTest
+Tue May 15 13:56:10 UTC 2018: Setting lastTestMethodIndex: 34542
+Tue May 15 13:56:10 UTC 2018: Starting linking
+Tue May 15 13:56:10 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-addRepo with org.apache.zeppelin.dep.DependencyResolverTest-testAddRepo
+Tue May 15 13:56:10 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:56:10 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-delRepo with org.apache.zeppelin.dep.DependencyResolverTest-testDelRepo
+Tue May 15 13:56:10 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:56:10 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-load with org.apache.zeppelin.dep.DependencyResolverTest-testLoad
+Tue May 15 13:56:10 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:56:10 UTC 2018: No link for: org.apache.zeppelin.dep.DependencyResolverTest-should_throw_exception_if_dependency_not_found
+Tue May 15 13:56:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:10 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.dep.DependencyResolverTest
+Tue May 15 13:56:10 UTC 2018: Found element on the queue
+Tue May 15 13:56:10 UTC 2018: Updating status
+Tue May 15 13:56:10 UTC 2018: Working
+Tue May 15 13:56:13 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.dep.BooterTest
+Tue May 15 13:56:13 UTC 2018: Setting lastTestMethodIndex: 34544
+Tue May 15 13:56:13 UTC 2018: Starting linking
+Tue May 15 13:56:13 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_return_absolute_path
+Tue May 15 13:56:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:13 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_not_change_absolute_path
+Tue May 15 13:56:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:13 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_throw_exception_for_null
+Tue May 15 13:56:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:13 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.dep.BooterTest
+Tue May 15 13:56:13 UTC 2018: Found element on the queue
+Tue May 15 13:56:13 UTC 2018: Updating status
+Tue May 15 13:56:13 UTC 2018: Working
+Tue May 15 13:56:16 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.scheduler.ParallelSchedulerTest
+Tue May 15 13:56:16 UTC 2018: Setting lastTestMethodIndex: 34546
+Tue May 15 13:56:16 UTC 2018: Starting linking
+Tue May 15 13:56:16 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.scheduler.ParallelSchedulerTest
+Tue May 15 13:56:16 UTC 2018: Found element on the queue
+Tue May 15 13:56:16 UTC 2018: Updating status
+Tue May 15 13:56:16 UTC 2018: Working
+Tue May 15 13:56:19 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.scheduler.FIFOSchedulerTest
+Tue May 15 13:56:19 UTC 2018: Setting lastTestMethodIndex: 34548
+Tue May 15 13:56:19 UTC 2018: Starting linking
+Tue May 15 13:56:19 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.scheduler.FIFOSchedulerTest
+Tue May 15 13:56:20 UTC 2018: Found element on the queue
+Tue May 15 13:56:20 UTC 2018: Updating status
+Tue May 15 13:56:20 UTC 2018: Working
+Tue May 15 13:56:23 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.tabledata.InterpreterResultTableDataTest
+Tue May 15 13:56:23 UTC 2018: Setting lastTestMethodIndex: 34550
+Tue May 15 13:56:23 UTC 2018: Starting linking
+Tue May 15 13:56:23 UTC 2018: No link for: org.apache.zeppelin.tabledata.InterpreterResultTableDataTest-test
+Tue May 15 13:56:23 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.tabledata.InterpreterResultTableDataTest
+Tue May 15 13:56:24 UTC 2018: Found element on the queue
+Tue May 15 13:56:24 UTC 2018: Updating status
+Tue May 15 13:56:24 UTC 2018: Working
+Tue May 15 13:56:27 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.tabledata.TableDataProxyTest
+Tue May 15 13:56:27 UTC 2018: Setting lastTestMethodIndex: 34552
+Tue May 15 13:56:27 UTC 2018: Starting linking
+Tue May 15 13:56:27 UTC 2018: No link for: org.apache.zeppelin.tabledata.TableDataProxyTest-testProxyTable
+Tue May 15 13:56:27 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.tabledata.TableDataProxyTest
+Tue May 15 13:56:27 UTC 2018: Found element on the queue
+Tue May 15 13:56:27 UTC 2018: Updating status
+Tue May 15 13:56:28 UTC 2018: Working
+Tue May 15 13:56:30 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.display.InputTest
+Tue May 15 13:56:30 UTC 2018: Setting lastTestMethodIndex: 34554
+Tue May 15 13:56:30 UTC 2018: Starting linking
+Tue May 15 13:56:30 UTC 2018: No link for: org.apache.zeppelin.display.InputTest-testFormExtraction
+Tue May 15 13:56:30 UTC 2018: No link for: org.apache.zeppelin.display.InputTest-testFormSubstitution
+Tue May 15 13:56:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:30 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.display.InputTest
+Tue May 15 13:56:31 UTC 2018: Found element on the queue
+Tue May 15 13:56:31 UTC 2018: Updating status
+Tue May 15 13:56:31 UTC 2018: Working
+Tue May 15 13:56:34 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.display.AngularObjectTest
+Tue May 15 13:56:34 UTC 2018: Setting lastTestMethodIndex: 34556
+Tue May 15 13:56:34 UTC 2018: Starting linking
+Tue May 15 13:56:34 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testWatcher
+Tue May 15 13:56:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:34 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testEquals
+Tue May 15 13:56:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:34 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testListener
+Tue May 15 13:56:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:34 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.display.AngularObjectTest
+Tue May 15 13:56:34 UTC 2018: Found element on the queue
+Tue May 15 13:56:34 UTC 2018: Updating status
+Tue May 15 13:56:34 UTC 2018: Working
+Tue May 15 13:56:37 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.display.AngularObjectRegistryTest
+Tue May 15 13:56:37 UTC 2018: Setting lastTestMethodIndex: 34558
+Tue May 15 13:56:37 UTC 2018: Starting linking
+Tue May 15 13:56:37 UTC 2018: Code found org.apache.zeppelin.display.AngularObjectRegistry-get with org.apache.zeppelin.display.AngularObjectRegistryTest-testGetDependOnScope
+Tue May 15 13:56:37 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:56:37 UTC 2018: Code found org.apache.zeppelin.display.AngularObjectRegistry-getAll with org.apache.zeppelin.display.AngularObjectRegistryTest-testGetAllDependOnScope
+Tue May 15 13:56:37 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:56:37 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectRegistryTest-testBasic
+Tue May 15 13:56:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:37 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.display.AngularObjectRegistryTest
+Tue May 15 13:56:37 UTC 2018: Found element on the queue
+Tue May 15 13:56:37 UTC 2018: Updating status
+Tue May 15 13:56:37 UTC 2018: Working
+Tue May 15 13:56:40 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.display.GUITest
+Tue May 15 13:56:40 UTC 2018: Setting lastTestMethodIndex: 34559
+Tue May 15 13:56:40 UTC 2018: Starting linking
+Tue May 15 13:56:40 UTC 2018: No link for: org.apache.zeppelin.display.GUITest-testOldGson_1
+Tue May 15 13:56:40 UTC 2018: No link for: org.apache.zeppelin.display.GUITest-testGson
+Tue May 15 13:56:40 UTC 2018: No link for: org.apache.zeppelin.display.GUITest-testOldGson_3
+Tue May 15 13:56:40 UTC 2018: No link for: org.apache.zeppelin.display.GUITest-testOldGson_2
+Tue May 15 13:56:40 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.display.GUITest
+Tue May 15 13:56:40 UTC 2018: Found element on the queue
+Tue May 15 13:56:40 UTC 2018: Updating status
+Tue May 15 13:56:40 UTC 2018: Working
+Tue May 15 13:56:43 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.LazyOpenInterpreterTest
+Tue May 15 13:56:43 UTC 2018: Setting lastTestMethodIndex: 34561
+Tue May 15 13:56:43 UTC 2018: Starting linking
+Tue May 15 13:56:43 UTC 2018: Code found org.apache.zeppelin.interpreter.LazyOpenInterpreter-isOpen with org.apache.zeppelin.interpreter.LazyOpenInterpreterTest-isOpenTest
+Tue May 15 13:56:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:56:43 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.LazyOpenInterpreterTest
+Tue May 15 13:56:44 UTC 2018: Found element on the queue
+Tue May 15 13:56:44 UTC 2018: Updating status
+Tue May 15 13:56:44 UTC 2018: Working
+Tue May 15 13:56:46 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest
+Tue May 15 13:56:46 UTC 2018: Setting lastTestMethodIndex: 34563
+Tue May 15 13:56:46 UTC 2018: Starting linking
+Tue May 15 13:56:46 UTC 2018: No code found org.apache.zeppelin.interpreter.remote.RemoteInterpreterServer-start with org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest-testStartStop
+Tue May 15 13:56:46 UTC 2018: No code found org.apache.zeppelin.interpreter.remote.RemoteInterpreterServer-start with org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest-testStartStopWithQueuedEvents
+Tue May 15 13:56:46 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest
+Tue May 15 13:56:47 UTC 2018: Found element on the queue
+Tue May 15 13:56:47 UTC 2018: Updating status
+Tue May 15 13:56:47 UTC 2018: Working
+Tue May 15 13:56:49 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterResultTest
+Tue May 15 13:56:49 UTC 2018: Setting lastTestMethodIndex: 34565
+Tue May 15 13:56:49 UTC 2018: Starting linking
+Tue May 15 13:56:49 UTC 2018: Code found org.apache.zeppelin.interpreter.InterpreterResult-toString with org.apache.zeppelin.interpreter.InterpreterResultTest-testToString
+Tue May 15 13:56:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:56:49 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testSimpleMagicType
+Tue May 15 13:56:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:49 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testSimpleMagicData
+Tue May 15 13:56:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:49 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testComplexMagicData
+Tue May 15 13:56:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:49 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testTextType
+Tue May 15 13:56:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:49 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterResultTest
+Tue May 15 13:56:50 UTC 2018: Found element on the queue
+Tue May 15 13:56:50 UTC 2018: Updating status
+Tue May 15 13:56:50 UTC 2018: Working
+Tue May 15 13:56:52 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterContextTest
+Tue May 15 13:56:52 UTC 2018: Setting lastTestMethodIndex: 34566
+Tue May 15 13:56:52 UTC 2018: Starting linking
+Tue May 15 13:56:52 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterContextTest-testThreadLocal
+Tue May 15 13:56:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:52 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterContextTest
+Tue May 15 13:56:53 UTC 2018: Found element on the queue
+Tue May 15 13:56:53 UTC 2018: Updating status
+Tue May 15 13:56:53 UTC 2018: Working
+Tue May 15 13:56:56 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterOutputTest
+Tue May 15 13:56:56 UTC 2018: Setting lastTestMethodIndex: 34568
+Tue May 15 13:56:56 UTC 2018: Starting linking
+Tue May 15 13:56:56 UTC 2018: Code found org.apache.zeppelin.interpreter.InterpreterOutput-flush with org.apache.zeppelin.interpreter.InterpreterOutputTest-testFlush
+Tue May 15 13:56:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testDetectNewline
+Tue May 15 13:56:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeInTheBeginning
+Tue May 15 13:56:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testMagicData
+Tue May 15 13:56:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testType
+Tue May 15 13:56:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testTableCellFormatting
+Tue May 15 13:56:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeWithMultipleNewline
+Tue May 15 13:56:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testTruncate
+Tue May 15 13:56:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeWithoutData
+Tue May 15 13:56:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:56 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterOutputTest
+Tue May 15 13:56:56 UTC 2018: Found element on the queue
+Tue May 15 13:56:56 UTC 2018: Updating status
+Tue May 15 13:56:56 UTC 2018: Working
+Tue May 15 13:56:59 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterHookRegistryTest
+Tue May 15 13:56:59 UTC 2018: Setting lastTestMethodIndex: 34570
+Tue May 15 13:56:59 UTC 2018: Starting linking
+Tue May 15 13:56:59 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterHookRegistryTest-testBasic
+Tue May 15 13:56:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:59 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterHookRegistryTest-testValidEventCode
+Tue May 15 13:56:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:56:59 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterHookRegistryTest
+Tue May 15 13:57:00 UTC 2018: Found element on the queue
+Tue May 15 13:57:00 UTC 2018: Updating status
+Tue May 15 13:57:00 UTC 2018: Working
+Tue May 15 13:57:03 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest
+Tue May 15 13:57:03 UTC 2018: Setting lastTestMethodIndex: 34572
+Tue May 15 13:57:03 UTC 2018: Starting linking
+Tue May 15 13:57:03 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest-test
+Tue May 15 13:57:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:57:03 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest
+Tue May 15 13:57:04 UTC 2018: Found element on the queue
+Tue May 15 13:57:04 UTC 2018: Updating status
+Tue May 15 13:57:04 UTC 2018: Working
+Tue May 15 13:57:06 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterTest
+Tue May 15 13:57:06 UTC 2018: Setting lastTestMethodIndex: 34574
+Tue May 15 13:57:06 UTC 2018: Starting linking
+Tue May 15 13:57:06 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterTest-testDefaultProperty
+Tue May 15 13:57:06 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterTest-testPropertyWithReplacedContextFields
+Tue May 15 13:57:06 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterTest-testOverriddenProperty
+Tue May 15 13:57:06 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.interpreter.InterpreterTest
+Tue May 15 13:57:07 UTC 2018: Found element on the queue
+Tue May 15 13:57:07 UTC 2018: Updating status
+Tue May 15 13:57:07 UTC 2018: Working
+Tue May 15 13:57:09 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.resource.LocalResourcePoolTest
+Tue May 15 13:57:09 UTC 2018: Setting lastTestMethodIndex: 34575
+Tue May 15 13:57:09 UTC 2018: Starting linking
+Tue May 15 13:57:09 UTC 2018: Code found org.apache.zeppelin.resource.Resource-get with org.apache.zeppelin.resource.LocalResourcePoolTest-testGetPutResourcePool
+Tue May 15 13:57:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 13:57:09 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.resource.LocalResourcePoolTest
+Tue May 15 13:57:10 UTC 2018: Found element on the queue
+Tue May 15 13:57:10 UTC 2018: Updating status
+Tue May 15 13:57:10 UTC 2018: Working
+Tue May 15 13:57:13 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.resource.ResourceSetTest
+Tue May 15 13:57:13 UTC 2018: Setting lastTestMethodIndex: 34577
+Tue May 15 13:57:13 UTC 2018: Starting linking
+Tue May 15 13:57:13 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceSetTest-testFilterByName
+Tue May 15 13:57:13 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceSetTest-testFilterByClassName
+Tue May 15 13:57:13 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.resource.ResourceSetTest
+Tue May 15 13:57:13 UTC 2018: Found element on the queue
+Tue May 15 13:57:13 UTC 2018: Updating status
+Tue May 15 13:57:13 UTC 2018: Working
+Tue May 15 13:57:16 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.resource.ResourceTest
+Tue May 15 13:57:16 UTC 2018: Setting lastTestMethodIndex: 34579
+Tue May 15 13:57:16 UTC 2018: Starting linking
+Tue May 15 13:57:16 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceTest-testSerializeDeserialize
+Tue May 15 13:57:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 13:57:16 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.resource.ResourceTest
+Tue May 15 13:57:17 UTC 2018: Found element on the queue
+Tue May 15 13:57:17 UTC 2018: Updating status
+Tue May 15 13:57:17 UTC 2018: Working
+Tue May 15 13:57:19 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.helium.ApplicationLoaderTest
+Tue May 15 13:57:19 UTC 2018: Setting lastTestMethodIndex: 34581
+Tue May 15 13:57:19 UTC 2018: Starting linking
+Tue May 15 13:57:19 UTC 2018: No code found org.apache.zeppelin.helium.ApplicationLoader-load with org.apache.zeppelin.helium.ApplicationLoaderTest-loadUnloadApplication
+Tue May 15 13:57:19 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.helium.ApplicationLoaderTest
+Tue May 15 13:57:20 UTC 2018: Found element on the queue
+Tue May 15 13:57:20 UTC 2018: Updating status
+Tue May 15 13:57:20 UTC 2018: Working
+Tue May 15 13:57:22 UTC 2018: Start cttestid41__Apache_Zeppelin test class org.apache.zeppelin.helium.HeliumPackageTest
+Tue May 15 13:57:22 UTC 2018: Setting lastTestMethodIndex: 34583
+Tue May 15 13:57:22 UTC 2018: Starting linking
+Tue May 15 13:57:22 UTC 2018: No link for: org.apache.zeppelin.helium.HeliumPackageTest-parseSpellPackageInfo
+Tue May 15 13:57:22 UTC 2018: No link for: org.apache.zeppelin.helium.HeliumPackageTest-parseConfig
+Tue May 15 13:57:23 UTC 2018: Linking done for cttestid41__Apache_Zeppelin test class org.apache.zeppelin.helium.HeliumPackageTest

@@ -1,0 +1,190 @@
+Tue May 15 22:08:38 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:08:39 UTC 2018: Starting
+Tue May 15 22:08:40 UTC 2018: Found element on the queue
+Tue May 15 22:08:40 UTC 2018: Updating status
+Tue May 15 22:08:40 UTC 2018: Working
+Tue May 15 22:08:40 UTC 2018: Create project parser
+Tue May 15 22:08:46 UTC 2018: Create slicer
+Tue May 15 22:08:50 UTC 2018: Create call graph
+Tue May 15 22:08:56 UTC 2018: Create point analysis
+Tue May 15 22:08:56 UTC 2018: Create call graph done
+Tue May 15 22:08:56 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Images.QueryTest
+Tue May 15 22:08:56 UTC 2018: Setting lastTestMethodIndex: 48877
+Tue May 15 22:08:56 UTC 2018: Starting linking
+Tue May 15 22:08:56 UTC 2018: Code found io.imbo.client.Images.Query-limit with io.imbo.client.Images.QueryTest-testCanSetAndGetTheLimitValue
+Tue May 15 22:08:56 UTC 2018: Code found io.imbo.client.Images.Query-toHashMap with io.imbo.client.Images.QueryTest-testCanConvertToHashMapWithNoValues
+Tue May 15 22:08:57 UTC 2018: Code found io.imbo.client.Images.Query-from with io.imbo.client.Images.QueryTest-testCanSetAndGetTheFromValue
+Tue May 15 22:08:57 UTC 2018: Code found io.imbo.client.Images.Query-to with io.imbo.client.Images.QueryTest-testCanSetAndGetTheToValue
+Tue May 15 22:08:57 UTC 2018: Code found io.imbo.client.Images.Query-toHashMap with io.imbo.client.Images.QueryTest-testCanConvertToHashMapWithValues
+Tue May 15 22:08:57 UTC 2018: Code found io.imbo.client.Images.Query-to with io.imbo.client.Images.QueryTest-testSetsADefaultToValueOfNull
+Tue May 15 22:08:58 UTC 2018: Code found io.imbo.client.Images.Query-page with io.imbo.client.Images.QueryTest-testSetsADefaultPageValueOf1
+Tue May 15 22:08:58 UTC 2018: Code found io.imbo.client.Images.Query-returnMetadata with io.imbo.client.Images.QueryTest-testSetsADefaultReturnmetadataValueOfFalse
+Tue May 15 22:08:58 UTC 2018: Code found io.imbo.client.Images.Query-page with io.imbo.client.Images.QueryTest-testCanSetAndGetThePageValue
+Tue May 15 22:08:58 UTC 2018: Code found io.imbo.client.Images.Query-limit with io.imbo.client.Images.QueryTest-testSetsADefaultLimitValueOf20
+Tue May 15 22:08:59 UTC 2018: Code found io.imbo.client.Images.Query-from with io.imbo.client.Images.QueryTest-testSetsADefaultFromValueOfNull
+Tue May 15 22:08:59 UTC 2018: Code found io.imbo.client.Images.Query-returnMetadata with io.imbo.client.Images.QueryTest-testCanSetAndGetTheReturnmetadataValue
+Tue May 15 22:08:59 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Images.QueryTest
+Tue May 15 22:09:00 UTC 2018: Found element on the queue
+Tue May 15 22:09:00 UTC 2018: Updating status
+Tue May 15 22:09:00 UTC 2018: Working
+Tue May 15 22:09:03 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Images.ImageTest
+Tue May 15 22:09:03 UTC 2018: Setting lastTestMethodIndex: 48878
+Tue May 15 22:09:03 UTC 2018: Starting linking
+Tue May 15 22:09:04 UTC 2018: Code found io.imbo.client.Images.Image-getMimeType with io.imbo.client.Images.ImageTest-testCanGetMimeTypeAfterBeingPopulatedThroughConstructor
+Tue May 15 22:09:04 UTC 2018: Code found io.imbo.client.Images.Image-getSize with io.imbo.client.Images.ImageTest-testCanGetSizeAfterBeingPopulatedThroughConstructor
+Tue May 15 22:09:04 UTC 2018: Code found io.imbo.client.Images.Image-getExtension with io.imbo.client.Images.ImageTest-testCanGetExtensionAfterBeingPopulatedThroughConstructor
+Tue May 15 22:09:05 UTC 2018: Code found io.imbo.client.Images.Image-getWidth with io.imbo.client.Images.ImageTest-testCanGetWidthAfterBeingPopulatedThroughConstructor
+Tue May 15 22:09:05 UTC 2018: Code found io.imbo.client.Images.Image-getAddedDate with io.imbo.client.Images.ImageTest-testCanGetAddedDateAsDateInstanceAfterBeingPopulatedThroughConstructorAsFormattedString
+Tue May 15 22:09:05 UTC 2018: Code found io.imbo.client.Images.Image-getPublicKey with io.imbo.client.Images.ImageTest-testCanGetPublicKeyAfterBeingPopulatedThroughConstructor
+Tue May 15 22:09:05 UTC 2018: Code found io.imbo.client.Images.Image-getUpdatedDate with io.imbo.client.Images.ImageTest-testCanGetUpdatedDateAsDatetimeInstanceAfterBeingPopulatedThroughConstructorAsFormattedString
+Tue May 15 22:09:06 UTC 2018: Code found io.imbo.client.Images.Image-getHeight with io.imbo.client.Images.ImageTest-testCanGetHeightAfterBeingPopulatedThroughConstructor
+Tue May 15 22:09:06 UTC 2018: Code found io.imbo.client.Images.Image-getChecksum with io.imbo.client.Images.ImageTest-testCanGetChecksumAfterBeingPopulatedThroughConstructor
+Tue May 15 22:09:06 UTC 2018: No link for: io.imbo.client.Images.ImageTest-testCanGetImageIdentifierAfterBeingPopulatedThroughConstructor
+Tue May 15 22:09:06 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Images.ImageTest
+Tue May 15 22:09:07 UTC 2018: Found element on the queue
+Tue May 15 22:09:07 UTC 2018: Updating status
+Tue May 15 22:09:07 UTC 2018: Working
+Tue May 15 22:09:11 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Url.StatusTest
+Tue May 15 22:09:11 UTC 2018: Setting lastTestMethodIndex: 48879
+Tue May 15 22:09:11 UTC 2018: Starting linking
+Tue May 15 22:09:11 UTC 2018: No link for: io.imbo.client.Url.StatusTest-testCanGenerateACompleteUrlThatDoesNotIncludeAnAccessToken
+Tue May 15 22:09:11 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Url.StatusTest
+Tue May 15 22:09:12 UTC 2018: Found element on the queue
+Tue May 15 22:09:12 UTC 2018: Updating status
+Tue May 15 22:09:12 UTC 2018: Working
+Tue May 15 22:09:15 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Url.UserTest
+Tue May 15 22:09:15 UTC 2018: Setting lastTestMethodIndex: 48880
+Tue May 15 22:09:15 UTC 2018: Starting linking
+Tue May 15 22:09:15 UTC 2018: No link for: io.imbo.client.Url.UserTest-testCanGenerateACompleteUrlIncludingAnAccessToken
+Tue May 15 22:09:15 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Url.UserTest
+Tue May 15 22:09:16 UTC 2018: Found element on the queue
+Tue May 15 22:09:16 UTC 2018: Updating status
+Tue May 15 22:09:16 UTC 2018: Working
+Tue May 15 22:09:19 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Url.ImboUrlTest
+Tue May 15 22:09:19 UTC 2018: Setting lastTestMethodIndex: 48881
+Tue May 15 22:09:19 UTC 2018: Starting linking
+Tue May 15 22:09:19 UTC 2018: Code found io.imbo.client.Url.ImboUrl-reset with io.imbo.client.Url.ImboUrlTest-testAddMultipleQueryParamsAndReset
+Tue May 15 22:09:20 UTC 2018: Code found io.imbo.client.Url.ImboUrl-addQueryParam with io.imbo.client.Url.ImboUrlTest-testCanAddQueryParametersThatIsAddedInTheQueryString
+Tue May 15 22:09:20 UTC 2018: No link for: io.imbo.client.Url.ImboUrlTest-testCanAutomaticallyCreateAnAccessTokenInstanceIfOneIsNotSet
+Tue May 15 22:09:20 UTC 2018: No link for: io.imbo.client.Url.ImboUrlTest-testDoesNotAppendAccessTokenIfPublicOrPrivateKeyAreMissing
+Tue May 15 22:09:21 UTC 2018: No link for: io.imbo.client.Url.ImboUrlTest-testReturnsTheCompleteUrlWhenUsedInAStringContext
+Tue May 15 22:09:21 UTC 2018: No link for: io.imbo.client.Url.ImboUrlTest-testCanSetAndGetAnAccessTokenInstance
+Tue May 15 22:09:21 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Url.ImboUrlTest
+Tue May 15 22:09:22 UTC 2018: Found element on the queue
+Tue May 15 22:09:22 UTC 2018: Updating status
+Tue May 15 22:09:22 UTC 2018: Working
+Tue May 15 22:09:25 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Url.AccessTokenTest
+Tue May 15 22:09:25 UTC 2018: Setting lastTestMethodIndex: 48883
+Tue May 15 22:09:25 UTC 2018: Starting linking
+Tue May 15 22:09:25 UTC 2018: No link for: io.imbo.client.Url.AccessTokenTest-testWillGenerateDifferentTokensGivenDifferentKeys
+Tue May 15 22:09:25 UTC 2018: No link for: io.imbo.client.Url.AccessTokenTest-testWillGenerateTheSameKeyEveryTimeGivenTheSameUrlAndKey
+Tue May 15 22:09:26 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Url.AccessTokenTest
+Tue May 15 22:09:27 UTC 2018: Found element on the queue
+Tue May 15 22:09:27 UTC 2018: Updating status
+Tue May 15 22:09:27 UTC 2018: Working
+Tue May 15 22:09:30 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Url.ImageTest
+Tue May 15 22:09:30 UTC 2018: Setting lastTestMethodIndex: 48884
+Tue May 15 22:09:30 UTC 2018: Starting linking
+Tue May 15 22:09:30 UTC 2018: Code found io.imbo.client.Url.ImageUrl-border with io.imbo.client.Url.ImageTest-testCanApplyTheBorderTransformationUsingDefaultParameters
+Tue May 15 22:09:31 UTC 2018: Code found io.imbo.client.Url.ImageUrl-thumbnail with io.imbo.client.Url.ImageTest-testCanApplyTheThumbnailTransformationUsingCustomParameters
+Tue May 15 22:09:31 UTC 2018: Code found io.imbo.client.Url.ImageUrl-canvas with io.imbo.client.Url.ImageTest-testCanApplyTheCanvasTransformationUsingOnlyRequiredParameters
+Tue May 15 22:09:31 UTC 2018: Code found io.imbo.client.Url.ImageUrl-transverse with io.imbo.client.Url.ImageTest-testCanApplyTheTransverseTransformation
+Tue May 15 22:09:32 UTC 2018: Code found io.imbo.client.Url.ImageUrl-resize with io.imbo.client.Url.ImageTest-testCanApplyTheResizeTransformationUsingOnlyWidth
+Tue May 15 22:09:32 UTC 2018: Code found io.imbo.client.Url.ImageUrl-maxSize with io.imbo.client.Url.ImageTest-testCanApplyTheMaxSizeTransformationUsingOnlyWidth
+Tue May 15 22:09:32 UTC 2018: Code found io.imbo.client.Url.ImageUrl-png with io.imbo.client.Url.ImageTest-testCanApplyTheConvertTransformationUsingThePngConvenienceMethod
+Tue May 15 22:09:33 UTC 2018: Code found io.imbo.client.Url.ImageUrl-compress with io.imbo.client.Url.ImageTest-testCanApplyTheCompressTransformationUsingDefaultParameters
+Tue May 15 22:09:33 UTC 2018: Code found io.imbo.client.Url.ImageUrl-maxSize with io.imbo.client.Url.ImageTest-testCanApplyTheMaxSizeTransformationUsingOnlyHeight
+Tue May 15 22:09:33 UTC 2018: Code found io.imbo.client.Url.ImageUrl-reset with io.imbo.client.Url.ImageTest-testCanResetAllAppliedTransformations
+Tue May 15 22:09:34 UTC 2018: Code found io.imbo.client.Url.ImageUrl-crop with io.imbo.client.Url.ImageTest-testCanApplyTheCropTransformationWithParameters
+Tue May 15 22:09:34 UTC 2018: Code found io.imbo.client.Url.ImageUrl-maxSize with io.imbo.client.Url.ImageTest-testCanApplyTheMaxSizeTransformationUsingBothWidthAndHeight
+Tue May 15 22:09:34 UTC 2018: Code found io.imbo.client.Url.ImageUrl-canvas with io.imbo.client.Url.ImageTest-testCanApplyTheCanvasTransformationUsingAllParameters
+Tue May 15 22:09:35 UTC 2018: Code found io.imbo.client.Url.ImageUrl-thumbnail with io.imbo.client.Url.ImageTest-testCanApplyTheThumbnailTransformationUsingDefaultParameters
+Tue May 15 22:09:35 UTC 2018: Code found io.imbo.client.Url.ImageUrl-compress with io.imbo.client.Url.ImageTest-testCanApplyTheCompressTransformationUsingCustomParameters
+Tue May 15 22:09:35 UTC 2018: Code found io.imbo.client.Url.ImageUrl-gif with io.imbo.client.Url.ImageTest-testCanApplyTheConvertTransformationUsingTheGifConvenienceMethod
+Tue May 15 22:09:36 UTC 2018: Code found io.imbo.client.Url.ImageUrl-rotate with io.imbo.client.Url.ImageTest-testCanApplyTheRotateTransformationUsingAngleAndBackground
+Tue May 15 22:09:36 UTC 2018: Code found io.imbo.client.Url.ImageUrl-border with io.imbo.client.Url.ImageTest-testCanApplyTheBorderTransformationUsingCustomParameters
+Tue May 15 22:09:36 UTC 2018: Code found io.imbo.client.Url.ImageUrl-flipVertically with io.imbo.client.Url.ImageTest-testCanApplyTheFlipverticallyTransformation
+Tue May 15 22:09:37 UTC 2018: Code found io.imbo.client.Url.ImageUrl-transpose with io.imbo.client.Url.ImageTest-testCanApplyTheTransposeTransformation
+Tue May 15 22:09:37 UTC 2018: Code found io.imbo.client.Url.ImageUrl-convert with io.imbo.client.Url.ImageTest-testCanApplyTheConvertTransformationUsingACustomExtension
+Tue May 15 22:09:38 UTC 2018: Code found io.imbo.client.Url.ImageUrl-flipHorizontally with io.imbo.client.Url.ImageTest-testCanApplyTheFliphorizontallyTransformation
+Tue May 15 22:09:38 UTC 2018: Code found io.imbo.client.Url.ImageUrl-jpg with io.imbo.client.Url.ImageTest-testCanApplyTheConvertTransformationUsingTheJpgConvenienceMethod
+Tue May 15 22:09:39 UTC 2018: Code found io.imbo.client.Url.ImageUrl-desaturate with io.imbo.client.Url.ImageTest-testCanApplyTheDesaturateTransformation
+Tue May 15 22:09:39 UTC 2018: Code found io.imbo.client.Url.ImageUrl-resize with io.imbo.client.Url.ImageTest-testCanApplyTheResizeTransformationUsingOnlyHeight
+Tue May 15 22:09:39 UTC 2018: Code found io.imbo.client.Url.ImageUrl-rotate with io.imbo.client.Url.ImageTest-testCanApplyTheRotateTransformationUsingOnlyAngle
+Tue May 15 22:09:40 UTC 2018: Code found io.imbo.client.Url.ImageUrl-resize with io.imbo.client.Url.ImageTest-testCanApplyTheResizeTransformationUsingBothWidthAndHeight
+Tue May 15 22:09:40 UTC 2018: No link for: io.imbo.client.Url.ImageTest-testCanChainAllTransformations
+Tue May 15 22:09:40 UTC 2018: No link for: io.imbo.client.Url.ImageTest-testCanGenerateACompleteUrlIncludingAnAccessToken
+Tue May 15 22:09:41 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Url.ImageTest
+Tue May 15 22:09:42 UTC 2018: Found element on the queue
+Tue May 15 22:09:42 UTC 2018: Updating status
+Tue May 15 22:09:42 UTC 2018: Working
+Tue May 15 22:09:45 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Url.ImagesTest
+Tue May 15 22:09:45 UTC 2018: Setting lastTestMethodIndex: 48888
+Tue May 15 22:09:45 UTC 2018: Starting linking
+Tue May 15 22:09:45 UTC 2018: No link for: io.imbo.client.Url.ImagesTest-testCanGenerateACompleteUrlIncludingAnAccessToken
+Tue May 15 22:09:46 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Url.ImagesTest
+Tue May 15 22:09:47 UTC 2018: Found element on the queue
+Tue May 15 22:09:47 UTC 2018: Updating status
+Tue May 15 22:09:47 UTC 2018: Working
+Tue May 15 22:09:49 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Url.MetadataTest
+Tue May 15 22:09:49 UTC 2018: Setting lastTestMethodIndex: 48889
+Tue May 15 22:09:49 UTC 2018: Starting linking
+Tue May 15 22:09:49 UTC 2018: No link for: io.imbo.client.Url.MetadataTest-testCanGenerateACompleteUrlIncludingAnAccessToken
+Tue May 15 22:09:49 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Url.MetadataTest
+Tue May 15 22:09:50 UTC 2018: Found element on the queue
+Tue May 15 22:09:50 UTC 2018: Updating status
+Tue May 15 22:09:50 UTC 2018: Working
+Tue May 15 22:09:53 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.util.TextUtilsTest
+Tue May 15 22:09:53 UTC 2018: Setting lastTestMethodIndex: 48891
+Tue May 15 22:09:53 UTC 2018: Starting linking
+Tue May 15 22:09:53 UTC 2018: Code found io.imbo.client.util.TextUtils-join with io.imbo.client.util.TextUtilsTest-testJoinStringArrayWithSeveralCharactersAsDelimiter
+Tue May 15 22:09:53 UTC 2018: Code found io.imbo.client.util.TextUtils-join with io.imbo.client.util.TextUtilsTest-testJoinArrayListWithSeveralCharactersAsDelimiter
+Tue May 15 22:09:53 UTC 2018: Code found io.imbo.client.util.TextUtils-join with io.imbo.client.util.TextUtilsTest-testJoinArrayListWithSingleCharacterAsDelimiter
+Tue May 15 22:09:53 UTC 2018: Code found io.imbo.client.util.TextUtils-join with io.imbo.client.util.TextUtilsTest-testJoinStringArrayWithSingleCharacterAsDelimiter
+Tue May 15 22:09:54 UTC 2018: No link for: io.imbo.client.util.TextUtilsTest-testNormalizingStripsHashSymbol
+Tue May 15 22:09:54 UTC 2018: No link for: io.imbo.client.util.TextUtilsTest-testEncodingOnTransformationExample
+Tue May 15 22:09:54 UTC 2018: No link for: io.imbo.client.util.TextUtilsTest-testNormalizingLowercases
+Tue May 15 22:09:55 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.util.TextUtilsTest
+Tue May 15 22:09:56 UTC 2018: Found element on the queue
+Tue May 15 22:09:56 UTC 2018: Updating status
+Tue May 15 22:09:56 UTC 2018: Working
+Tue May 15 22:10:00 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Http.HttpClientTest
+Tue May 15 22:10:00 UTC 2018: Setting lastTestMethodIndex: 48894
+Tue May 15 22:10:00 UTC 2018: Starting linking
+Tue May 15 22:10:00 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-post with io.imbo.client.Http.HttpClientTest-testCanPostHttpResourceWithAnUrlClass
+Tue May 15 22:10:00 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-put with io.imbo.client.Http.HttpClientTest-testCanPutHttpResourceWithAnUrlClass
+Tue May 15 22:10:01 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-head with io.imbo.client.Http.HttpClientTest-testCanHeadHttpResource
+Tue May 15 22:10:01 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-get with io.imbo.client.Http.HttpClientTest-testCanGetHttpResource
+Tue May 15 22:10:01 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-get with io.imbo.client.Http.HttpClientTest-testCanGetHttpResourceWithAnUrlClass
+Tue May 15 22:10:02 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-delete with io.imbo.client.Http.HttpClientTest-testCanDeleteHttpResource
+Tue May 15 22:10:02 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-delete with io.imbo.client.Http.HttpClientTest-testCanDeleteHttpResourceWithAnUrlClass
+Tue May 15 22:10:02 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-getHttpClient with io.imbo.client.Http.HttpClientTest-testCanSetAndGetHttpClient
+Tue May 15 22:10:03 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-put with io.imbo.client.Http.HttpClientTest-testCanPutHttpResource
+Tue May 15 22:10:03 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-head with io.imbo.client.Http.HttpClientTest-testCanHeadHttpResourceWithAnUrlClass
+Tue May 15 22:10:04 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-getRequestHeaders with io.imbo.client.Http.HttpClientTest-testCanSetAndGetRequestHeaders
+Tue May 15 22:10:04 UTC 2018: Code found io.imbo.client.Http.ImboHttpClient-post with io.imbo.client.Http.HttpClientTest-testCanPostHttpResource
+Tue May 15 22:10:04 UTC 2018: No link for: io.imbo.client.Http.HttpClientTest-testResponeHandlerHandlesImagesProperly
+Tue May 15 22:10:05 UTC 2018: No link for: io.imbo.client.Http.HttpClientTest-testClientThrowsServerExceptionOnError
+Tue May 15 22:10:05 UTC 2018: No link for: io.imbo.client.Http.HttpClientTest-testCanGetDefaultWebClient
+Tue May 15 22:10:05 UTC 2018: No link for: io.imbo.client.Http.HttpClientTest-testResponseHandlerHandlesJsonRequests
+Tue May 15 22:10:06 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Http.HttpClientTest
+Tue May 15 22:10:07 UTC 2018: Found element on the queue
+Tue May 15 22:10:07 UTC 2018: Updating status
+Tue May 15 22:10:07 UTC 2018: Working
+Tue May 15 22:10:10 UTC 2018: Start imbo__imboclient-java test class io.imbo.client.Http.ResponseTest
+Tue May 15 22:10:10 UTC 2018: Setting lastTestMethodIndex: 48897
+Tue May 15 22:10:10 UTC 2018: Starting linking
+Tue May 15 22:10:10 UTC 2018: Code found io.imbo.client.Http.ImboResponse-getContentLength with io.imbo.client.Http.ResponseTest-testCanSetAndGetContentLength
+Tue May 15 22:10:11 UTC 2018: Code found io.imbo.client.Http.ImboResponse-getRawBody with io.imbo.client.Http.ResponseTest-testCanSetAndGetRawBody
+Tue May 15 22:10:11 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanTellWhetherOrNotTheResponseIsAnErrorBasedOnAnHttpStatusCode
+Tue May 15 22:10:11 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanReturnInformativeErrorDescription
+Tue May 15 22:10:11 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testReturnsTheBodyWhenUsedInAStringContext
+Tue May 15 22:10:12 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanReturnAnImboErrorCodeWhenTheBodyHasAnErrorElement
+Tue May 15 22:10:12 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanSetAndGetABody
+Tue May 15 22:10:12 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanSetAndGetAHeaders
+Tue May 15 22:10:13 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanFetchAnImageIdentifierIfItExistsAsAHeader
+Tue May 15 22:10:13 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanSetAndGetAContentType
+Tue May 15 22:10:13 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanTellWhetherOrNotTheResponseIsASuccessBasedOnAnHttpStatusCode
+Tue May 15 22:10:14 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanSetAndGetAStatusCode
+Tue May 15 22:10:14 UTC 2018: No link for: io.imbo.client.Http.ResponseTest-testCanReturnAJsonEncodedBodyAsAJsonObject
+Tue May 15 22:10:14 UTC 2018: Linking done for imbo__imboclient-java test class io.imbo.client.Http.ResponseTest

@@ -1,0 +1,1659 @@
+Tue May 15 17:36:37 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 17:36:38 UTC 2018: Starting
+Tue May 15 17:36:38 UTC 2018: Found element on the queue
+Tue May 15 17:36:38 UTC 2018: Updating status
+Tue May 15 17:36:38 UTC 2018: Working
+Tue May 15 17:36:38 UTC 2018: Create project parser
+Tue May 15 17:36:48 UTC 2018: Create slicer
+Tue May 15 17:36:52 UTC 2018: Create call graph
+Tue May 15 17:37:05 UTC 2018: Create point analysis
+Tue May 15 17:37:05 UTC 2018: Create call graph done
+Tue May 15 17:37:05 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.TestWatchmanTest
+Tue May 15 17:37:05 UTC 2018: Setting lastTestMethodIndex: 40437
+Tue May 15 17:37:05 UTC 2018: Starting linking
+Tue May 15 17:37:05 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.TestWatchmanTest
+Tue May 15 17:37:05 UTC 2018: Found element on the queue
+Tue May 15 17:37:05 UTC 2018: Updating status
+Tue May 15 17:37:05 UTC 2018: Working
+Tue May 15 17:37:07 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.TimeoutRuleTest
+Tue May 15 17:37:07 UTC 2018: Setting lastTestMethodIndex: 40439
+Tue May 15 17:37:07 UTC 2018: Starting linking
+Tue May 15 17:37:07 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.TimeoutRuleTest
+Tue May 15 17:37:08 UTC 2018: Found element on the queue
+Tue May 15 17:37:08 UTC 2018: Updating status
+Tue May 15 17:37:08 UTC 2018: Working
+Tue May 15 17:37:11 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.VerifierRuleTest
+Tue May 15 17:37:11 UTC 2018: Setting lastTestMethodIndex: 40441
+Tue May 15 17:37:11 UTC 2018: Starting linking
+Tue May 15 17:37:11 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.VerifierRuleTest
+Tue May 15 17:37:11 UTC 2018: Found element on the queue
+Tue May 15 17:37:11 UTC 2018: Updating status
+Tue May 15 17:37:11 UTC 2018: Working
+Tue May 15 17:37:13 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.model.FrameworkFieldTest
+Tue May 15 17:37:13 UTC 2018: Setting lastTestMethodIndex: 40442
+Tue May 15 17:37:13 UTC 2018: Starting linking
+Tue May 15 17:37:14 UTC 2018: Code found org.junit.runners.model.FrameworkField-toString with org.junit.runners.model.FrameworkFieldTest-hasToStringWhichPrintsFieldName
+Tue May 15 17:37:14 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:37:14 UTC 2018: No link for: org.junit.runners.model.FrameworkFieldTest-cannotBeCreatedWithoutUnderlyingField
+Tue May 15 17:37:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:14 UTC 2018: No link for: org.junit.runners.model.FrameworkFieldTest-presentAnnotationIsAvailable
+Tue May 15 17:37:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:14 UTC 2018: No link for: org.junit.runners.model.FrameworkFieldTest-missingAnnotationIsNotAvailable
+Tue May 15 17:37:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:14 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.model.FrameworkFieldTest
+Tue May 15 17:37:15 UTC 2018: Found element on the queue
+Tue May 15 17:37:15 UTC 2018: Updating status
+Tue May 15 17:37:15 UTC 2018: Working
+Tue May 15 17:37:17 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.model.FrameworkMethodTest
+Tue May 15 17:37:17 UTC 2018: Setting lastTestMethodIndex: 40444
+Tue May 15 17:37:17 UTC 2018: Starting linking
+Tue May 15 17:37:17 UTC 2018: Code found org.junit.runners.model.FrameworkMethod-toString with org.junit.runners.model.FrameworkMethodTest-hasToStringWhichPrintsMethodName
+Tue May 15 17:37:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:37:17 UTC 2018: No link for: org.junit.runners.model.FrameworkMethodTest-presentAnnotationIsAvailable
+Tue May 15 17:37:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:17 UTC 2018: No link for: org.junit.runners.model.FrameworkMethodTest-missingAnnotationIsNotAvailable
+Tue May 15 17:37:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:18 UTC 2018: No link for: org.junit.runners.model.FrameworkMethodTest-cannotBeCreatedWithoutUnderlyingField
+Tue May 15 17:37:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:18 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.model.FrameworkMethodTest
+Tue May 15 17:37:18 UTC 2018: Found element on the queue
+Tue May 15 17:37:18 UTC 2018: Updating status
+Tue May 15 17:37:18 UTC 2018: Working
+Tue May 15 17:37:20 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.model.InvalidTestClassErrorTest
+Tue May 15 17:37:20 UTC 2018: Setting lastTestMethodIndex: 40446
+Tue May 15 17:37:20 UTC 2018: Starting linking
+Tue May 15 17:37:20 UTC 2018: No link for: org.junit.runners.model.InvalidTestClassErrorTest-invalidTestClassErrorShouldListAllValidationErrorsInItsMessage
+Tue May 15 17:37:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:21 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.model.InvalidTestClassErrorTest
+Tue May 15 17:37:21 UTC 2018: Found element on the queue
+Tue May 15 17:37:21 UTC 2018: Updating status
+Tue May 15 17:37:21 UTC 2018: Working
+Tue May 15 17:37:23 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.model.TestClassTest
+Tue May 15 17:37:23 UTC 2018: Setting lastTestMethodIndex: 40449
+Tue May 15 17:37:23 UTC 2018: Starting linking
+Tue May 15 17:37:23 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.model.TestClassTest
+Tue May 15 17:37:24 UTC 2018: Found element on the queue
+Tue May 15 17:37:24 UTC 2018: Updating status
+Tue May 15 17:37:24 UTC 2018: Working
+Tue May 15 17:37:26 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParametersTest
+Tue May 15 17:37:26 UTC 2018: Setting lastTestMethodIndex: 40450
+Tue May 15 17:37:26 UTC 2018: Starting linking
+Tue May 15 17:37:26 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParametersTest
+Tue May 15 17:37:26 UTC 2018: Found element on the queue
+Tue May 15 17:37:26 UTC 2018: Updating status
+Tue May 15 17:37:26 UTC 2018: Working
+Tue May 15 17:37:29 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.parameterized.ParameterizedNamesTest
+Tue May 15 17:37:29 UTC 2018: Setting lastTestMethodIndex: 40452
+Tue May 15 17:37:29 UTC 2018: Starting linking
+Tue May 15 17:37:29 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.parameterized.ParameterizedNamesTest
+Tue May 15 17:37:29 UTC 2018: Found element on the queue
+Tue May 15 17:37:29 UTC 2018: Updating status
+Tue May 15 17:37:29 UTC 2018: Working
+Tue May 15 17:37:31 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.parameterized.TestWithParametersTest
+Tue May 15 17:37:31 UTC 2018: Setting lastTestMethodIndex: 40454
+Tue May 15 17:37:31 UTC 2018: Starting linking
+Tue May 15 17:37:31 UTC 2018: Code found org.junit.runners.parameterized.TestWithParameters-toString with org.junit.runners.parameterized.TestWithParametersTest-hasMeaningfulToString
+Tue May 15 17:37:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:37:31 UTC 2018: Code found org.junit.runners.parameterized.TestWithParameters-hashCode with org.junit.runners.parameterized.TestWithParametersTest-hasSameHashCodeAsEqualTest
+Tue May 15 17:37:32 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:37:32 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isNotEqualToTestWithDifferentName
+Tue May 15 17:37:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:32 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-cannotBeCreatedWithoutAName
+Tue May 15 17:37:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:32 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-cannotBeCreatedWithoutParameters
+Tue May 15 17:37:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:32 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isNotEqualToTestWithDifferentParameters
+Tue May 15 17:37:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:32 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-cannotBeCreatedWithoutTestClass
+Tue May 15 17:37:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:32 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isEqualToTestWithSameNameAndTestClassAndParameters
+Tue May 15 17:37:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:33 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-doesNotConsiderParametersWhichChangedAfterTestInstantiation
+Tue May 15 17:37:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:33 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-doesNotAllowToModifyProvidedParameters
+Tue May 15 17:37:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:33 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isNotEqualToTestWithDifferentTestClass
+Tue May 15 17:37:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:33 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isNotEqualToObjectWithDifferentClass
+Tue May 15 17:37:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:33 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.parameterized.TestWithParametersTest
+Tue May 15 17:37:34 UTC 2018: Found element on the queue
+Tue May 15 17:37:34 UTC 2018: Updating status
+Tue May 15 17:37:34 UTC 2018: Working
+Tue May 15 17:37:36 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.RuleContainerTest
+Tue May 15 17:37:36 UTC 2018: Setting lastTestMethodIndex: 40457
+Tue May 15 17:37:36 UTC 2018: Starting linking
+Tue May 15 17:37:36 UTC 2018: No link for: org.junit.runners.RuleContainerTest-testRuleAroundMethodRule
+Tue May 15 17:37:36 UTC 2018: No link for: org.junit.runners.RuleContainerTest-ordering2
+Tue May 15 17:37:36 UTC 2018: No link for: org.junit.runners.RuleContainerTest-ordering1
+Tue May 15 17:37:36 UTC 2018: No link for: org.junit.runners.RuleContainerTest-methodRulesOnly
+Tue May 15 17:37:37 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.RuleContainerTest
+Tue May 15 17:37:37 UTC 2018: Found element on the queue
+Tue May 15 17:37:37 UTC 2018: Updating status
+Tue May 15 17:37:37 UTC 2018: Working
+Tue May 15 17:37:40 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runners.CustomBlockJUnit4ClassRunnerTest
+Tue May 15 17:37:40 UTC 2018: Setting lastTestMethodIndex: 40459
+Tue May 15 17:37:40 UTC 2018: Starting linking
+Tue May 15 17:37:40 UTC 2018: No link for: org.junit.runners.CustomBlockJUnit4ClassRunnerTest-exceptionsFromMethodBlockMustNotResultInUnrootedTests
+Tue May 15 17:37:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:40 UTC 2018: No link for: org.junit.runners.CustomBlockJUnit4ClassRunnerTest-shouldPass
+Tue May 15 17:37:40 UTC 2018: No link for: org.junit.runners.CustomBlockJUnit4ClassRunnerTest-throwException
+Tue May 15 17:37:40 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runners.CustomBlockJUnit4ClassRunnerTest
+Tue May 15 17:37:41 UTC 2018: Found element on the queue
+Tue May 15 17:37:41 UTC 2018: Updating status
+Tue May 15 17:37:41 UTC 2018: Working
+Tue May 15 17:37:43 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runner.notification.ConcurrentRunNotifierTest
+Tue May 15 17:37:43 UTC 2018: Setting lastTestMethodIndex: 40461
+Tue May 15 17:37:43 UTC 2018: Starting linking
+Tue May 15 17:37:43 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runner.notification.ConcurrentRunNotifierTest
+Tue May 15 17:37:44 UTC 2018: Found element on the queue
+Tue May 15 17:37:44 UTC 2018: Updating status
+Tue May 15 17:37:44 UTC 2018: Working
+Tue May 15 17:37:46 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runner.notification.RunNotifierTest
+Tue May 15 17:37:46 UTC 2018: Setting lastTestMethodIndex: 40463
+Tue May 15 17:37:46 UTC 2018: Starting linking
+Tue May 15 17:37:46 UTC 2018: Code found org.junit.runner.notification.RunNotifier-wrapIfNotThreadSafe with org.junit.runner.notification.RunNotifierTest-wrapIfNotThreadSafeShouldNotWrapThreadSafeListeners
+Tue May 15 17:37:46 UTC 2018: Code found org.junit.runner.notification.RunNotifier-wrapIfNotThreadSafe with org.junit.runner.notification.RunNotifierTest-wrapIfNotThreadSafeShouldWrapNonThreadSafeListeners
+Tue May 15 17:37:47 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-notifiesSecondListenerIfFirstThrowsException
+Tue May 15 17:37:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:47 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-addAndRemoveWithNonThreadSafeListener
+Tue May 15 17:37:47 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-addAndRemoveWithThreadSafeListener
+Tue May 15 17:37:47 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-addFirstAndRemoveWithNonThreadSafeListener
+Tue May 15 17:37:47 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-addFirstAndRemoveWithThreadSafeListener
+Tue May 15 17:37:47 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-hasNoProblemsWithFailingListeners
+Tue May 15 17:37:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:47 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runner.notification.RunNotifierTest
+Tue May 15 17:37:48 UTC 2018: Found element on the queue
+Tue May 15 17:37:48 UTC 2018: Updating status
+Tue May 15 17:37:48 UTC 2018: Working
+Tue May 15 17:37:50 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runner.notification.SynchronizedRunListenerTest
+Tue May 15 17:37:50 UTC 2018: Setting lastTestMethodIndex: 40465
+Tue May 15 17:37:50 UTC 2018: Starting linking
+Tue May 15 17:37:50 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runner.notification.SynchronizedRunListenerTest
+Tue May 15 17:37:51 UTC 2018: Found element on the queue
+Tue May 15 17:37:51 UTC 2018: Updating status
+Tue May 15 17:37:51 UTC 2018: Working
+Tue May 15 17:37:53 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runner.FilterFactoriesTest
+Tue May 15 17:37:53 UTC 2018: Setting lastTestMethodIndex: 40467
+Tue May 15 17:37:53 UTC 2018: Starting linking
+Tue May 15 17:37:53 UTC 2018: Code found org.junit.runner.FilterFactories-createFilter with org.junit.runner.FilterFactoriesTest-shouldCreateFilter
+Tue May 15 17:37:53 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:37:53 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldThrowExceptionIfNotFilterFactory
+Tue May 15 17:37:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:54 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldPassOnDescriptionToFilterFactory
+Tue May 15 17:37:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:54 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-passes
+Tue May 15 17:37:54 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldCreateFilterWithArguments
+Tue May 15 17:37:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:54 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldThrowExceptionIfNotInstantiable
+Tue May 15 17:37:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:54 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldCreateFilterWithNoArguments
+Tue May 15 17:37:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:54 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runner.FilterFactoriesTest
+Tue May 15 17:37:55 UTC 2018: Found element on the queue
+Tue May 15 17:37:55 UTC 2018: Updating status
+Tue May 15 17:37:55 UTC 2018: Working
+Tue May 15 17:37:57 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runner.FilterOptionIntegrationTest
+Tue May 15 17:37:57 UTC 2018: Setting lastTestMethodIndex: 40469
+Tue May 15 17:37:57 UTC 2018: Starting linking
+Tue May 15 17:37:58 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-shouldIncludeSomeTests
+Tue May 15 17:37:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:58 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-shouldExcludeSomeTests
+Tue May 15 17:37:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:58 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-dummyTest
+Tue May 15 17:37:58 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-shouldCombineFilters
+Tue May 15 17:37:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:58 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-shouldRunAllTests
+Tue May 15 17:37:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:37:58 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runner.FilterOptionIntegrationTest
+Tue May 15 17:37:59 UTC 2018: Found element on the queue
+Tue May 15 17:37:59 UTC 2018: Updating status
+Tue May 15 17:37:59 UTC 2018: Working
+Tue May 15 17:38:01 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runner.JUnitCommandLineParseResultTest
+Tue May 15 17:38:01 UTC 2018: Setting lastTestMethodIndex: 40472
+Tue May 15 17:38:01 UTC 2018: Starting linking
+Tue May 15 17:38:01 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldStopParsingOptionsUponDoubleHyphenArg
+Tue May 15 17:38:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:01 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldStopParsingOptionsUponNonOption
+Tue May 15 17:38:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:02 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponUncreatedFilter
+Tue May 15 17:38:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:02 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponUnknownTestClass
+Tue May 15 17:38:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:02 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponUnfoundFilterFactory
+Tue May 15 17:38:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:02 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponUnknownOption
+Tue May 15 17:38:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:02 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponBaldFilterOptionNotFollowedByValue
+Tue May 15 17:38:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:02 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-dummyTest
+Tue May 15 17:38:02 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldParseFilterArgWithEqualsSyntax
+Tue May 15 17:38:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:03 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldParseFilterArgInWhichValueIsASeparateArg
+Tue May 15 17:38:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:03 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldAddToClasses
+Tue May 15 17:38:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:03 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runner.JUnitCommandLineParseResultTest
+Tue May 15 17:38:04 UTC 2018: Found element on the queue
+Tue May 15 17:38:04 UTC 2018: Updating status
+Tue May 15 17:38:04 UTC 2018: Working
+Tue May 15 17:38:06 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runner.JUnitCoreTest
+Tue May 15 17:38:06 UTC 2018: Setting lastTestMethodIndex: 40474
+Tue May 15 17:38:06 UTC 2018: Starting linking
+Tue May 15 17:38:06 UTC 2018: No link for: org.junit.runner.JUnitCoreTest-shouldAddFailuresToResult
+Tue May 15 17:38:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:06 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runner.JUnitCoreTest
+Tue May 15 17:38:07 UTC 2018: Found element on the queue
+Tue May 15 17:38:07 UTC 2018: Updating status
+Tue May 15 17:38:07 UTC 2018: Working
+Tue May 15 17:38:09 UTC 2018: Start FlakyTestDetection__jun test class org.junit.runner.RequestTest
+Tue May 15 17:38:09 UTC 2018: Setting lastTestMethodIndex: 40476
+Tue May 15 17:38:09 UTC 2018: Starting linking
+Tue May 15 17:38:09 UTC 2018: Code found org.junit.runner.Request-classes with org.junit.runner.RequestTest-createsADescriptionWithANameForClasses
+Tue May 15 17:38:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:38:09 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.runner.RequestTest
+Tue May 15 17:38:10 UTC 2018: Found element on the queue
+Tue May 15 17:38:10 UTC 2018: Updating status
+Tue May 15 17:38:10 UTC 2018: Working
+Tue May 15 17:38:12 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.BlockJUnit4ClassRunnerTest
+Tue May 15 17:38:12 UTC 2018: Setting lastTestMethodIndex: 40478
+Tue May 15 17:38:12 UTC 2018: Starting linking
+Tue May 15 17:38:12 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.BlockJUnit4ClassRunnerTest
+Tue May 15 17:38:13 UTC 2018: Found element on the queue
+Tue May 15 17:38:13 UTC 2018: Updating status
+Tue May 15 17:38:13 UTC 2018: Working
+Tue May 15 17:38:15 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest
+Tue May 15 17:38:15 UTC 2018: Setting lastTestMethodIndex: 40480
+Tue May 15 17:38:15 UTC 2018: Starting linking
+Tue May 15 17:38:15 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest
+Tue May 15 17:38:15 UTC 2018: Found element on the queue
+Tue May 15 17:38:15 UTC 2018: Updating status
+Tue May 15 17:38:15 UTC 2018: Working
+Tue May 15 17:38:18 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.EnclosedTest
+Tue May 15 17:38:18 UTC 2018: Setting lastTestMethodIndex: 40482
+Tue May 15 17:38:18 UTC 2018: Starting linking
+Tue May 15 17:38:18 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.EnclosedTest
+Tue May 15 17:38:18 UTC 2018: Found element on the queue
+Tue May 15 17:38:18 UTC 2018: Updating status
+Tue May 15 17:38:18 UTC 2018: Working
+Tue May 15 17:38:21 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.IgnoreClassTest
+Tue May 15 17:38:21 UTC 2018: Setting lastTestMethodIndex: 40484
+Tue May 15 17:38:21 UTC 2018: Starting linking
+Tue May 15 17:38:21 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.IgnoreClassTest
+Tue May 15 17:38:21 UTC 2018: Found element on the queue
+Tue May 15 17:38:21 UTC 2018: Updating status
+Tue May 15 17:38:21 UTC 2018: Working
+Tue May 15 17:38:23 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.ParameterizedTestTest
+Tue May 15 17:38:23 UTC 2018: Setting lastTestMethodIndex: 40486
+Tue May 15 17:38:23 UTC 2018: Starting linking
+Tue May 15 17:38:23 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.ParameterizedTestTest
+Tue May 15 17:38:24 UTC 2018: Found element on the queue
+Tue May 15 17:38:24 UTC 2018: Updating status
+Tue May 15 17:38:24 UTC 2018: Working
+Tue May 15 17:38:26 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.ParentRunnerFilteringTest
+Tue May 15 17:38:26 UTC 2018: Setting lastTestMethodIndex: 40488
+Tue May 15 17:38:26 UTC 2018: Starting linking
+Tue May 15 17:38:26 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.ParentRunnerFilteringTest
+Tue May 15 17:38:27 UTC 2018: Found element on the queue
+Tue May 15 17:38:27 UTC 2018: Updating status
+Tue May 15 17:38:27 UTC 2018: Working
+Tue May 15 17:38:29 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.ParentRunnerTest
+Tue May 15 17:38:29 UTC 2018: Setting lastTestMethodIndex: 40490
+Tue May 15 17:38:29 UTC 2018: Starting linking
+Tue May 15 17:38:29 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.ParentRunnerTest
+Tue May 15 17:38:30 UTC 2018: Found element on the queue
+Tue May 15 17:38:30 UTC 2018: Updating status
+Tue May 15 17:38:30 UTC 2018: Working
+Tue May 15 17:38:32 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.parent.ParentRunnerClassLoaderTest
+Tue May 15 17:38:32 UTC 2018: Setting lastTestMethodIndex: 40492
+Tue May 15 17:38:32 UTC 2018: Starting linking
+Tue May 15 17:38:32 UTC 2018: No link for: org.junit.tests.running.classes.parent.ParentRunnerClassLoaderTest-testClassRuleAccessToClassInAnotherClassLoader
+Tue May 15 17:38:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:32 UTC 2018: No link for: org.junit.tests.running.classes.parent.ParentRunnerClassLoaderTest-testBackwardCompatibilityWithOverrideGetName
+Tue May 15 17:38:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:32 UTC 2018: No link for: org.junit.tests.running.classes.parent.ParentRunnerClassLoaderTest-testDescriptionContainCorrectTestClass
+Tue May 15 17:38:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:38:32 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.parent.ParentRunnerClassLoaderTest
+Tue May 15 17:38:33 UTC 2018: Found element on the queue
+Tue May 15 17:38:33 UTC 2018: Updating status
+Tue May 15 17:38:33 UTC 2018: Working
+Tue May 15 17:38:35 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.RunWithTest
+Tue May 15 17:38:35 UTC 2018: Setting lastTestMethodIndex: 40493
+Tue May 15 17:38:35 UTC 2018: Starting linking
+Tue May 15 17:38:35 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.RunWithTest
+Tue May 15 17:38:36 UTC 2018: Found element on the queue
+Tue May 15 17:38:36 UTC 2018: Updating status
+Tue May 15 17:38:36 UTC 2018: Working
+Tue May 15 17:38:38 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.SuiteTest
+Tue May 15 17:38:38 UTC 2018: Setting lastTestMethodIndex: 40495
+Tue May 15 17:38:38 UTC 2018: Starting linking
+Tue May 15 17:38:38 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.SuiteTest
+Tue May 15 17:38:39 UTC 2018: Found element on the queue
+Tue May 15 17:38:39 UTC 2018: Updating status
+Tue May 15 17:38:39 UTC 2018: Working
+Tue May 15 17:38:41 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.classes.UseSuiteAsASuperclassTest
+Tue May 15 17:38:41 UTC 2018: Setting lastTestMethodIndex: 40497
+Tue May 15 17:38:41 UTC 2018: Starting linking
+Tue May 15 17:38:41 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.classes.UseSuiteAsASuperclassTest
+Tue May 15 17:38:42 UTC 2018: Found element on the queue
+Tue May 15 17:38:42 UTC 2018: Updating status
+Tue May 15 17:38:42 UTC 2018: Working
+Tue May 15 17:38:44 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.core.CommandLineTest
+Tue May 15 17:38:44 UTC 2018: Setting lastTestMethodIndex: 40499
+Tue May 15 17:38:44 UTC 2018: Starting linking
+Tue May 15 17:38:44 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.core.CommandLineTest
+Tue May 15 17:38:45 UTC 2018: Found element on the queue
+Tue May 15 17:38:45 UTC 2018: Updating status
+Tue May 15 17:38:45 UTC 2018: Working
+Tue May 15 17:38:47 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.core.JUnitCoreReturnsCorrectExitCodeTest
+Tue May 15 17:38:47 UTC 2018: Setting lastTestMethodIndex: 40501
+Tue May 15 17:38:47 UTC 2018: Starting linking
+Tue May 15 17:38:47 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.core.JUnitCoreReturnsCorrectExitCodeTest
+Tue May 15 17:38:48 UTC 2018: Found element on the queue
+Tue May 15 17:38:48 UTC 2018: Updating status
+Tue May 15 17:38:48 UTC 2018: Working
+Tue May 15 17:38:50 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.core.SystemExitTest
+Tue May 15 17:38:50 UTC 2018: Setting lastTestMethodIndex: 40503
+Tue May 15 17:38:50 UTC 2018: Starting linking
+Tue May 15 17:38:50 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.core.SystemExitTest
+Tue May 15 17:38:50 UTC 2018: Found element on the queue
+Tue May 15 17:38:50 UTC 2018: Updating status
+Tue May 15 17:38:50 UTC 2018: Working
+Tue May 15 17:38:53 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.methods.AnnotationTest
+Tue May 15 17:38:53 UTC 2018: Setting lastTestMethodIndex: 40505
+Tue May 15 17:38:53 UTC 2018: Starting linking
+Tue May 15 17:38:53 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.methods.AnnotationTest
+Tue May 15 17:38:53 UTC 2018: Found element on the queue
+Tue May 15 17:38:53 UTC 2018: Updating status
+Tue May 15 17:38:53 UTC 2018: Working
+Tue May 15 17:38:56 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.methods.ExpectedTest
+Tue May 15 17:38:56 UTC 2018: Setting lastTestMethodIndex: 40507
+Tue May 15 17:38:56 UTC 2018: Starting linking
+Tue May 15 17:38:56 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.methods.ExpectedTest
+Tue May 15 17:38:56 UTC 2018: Found element on the queue
+Tue May 15 17:38:56 UTC 2018: Updating status
+Tue May 15 17:38:56 UTC 2018: Working
+Tue May 15 17:38:58 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.methods.InheritedTestTest
+Tue May 15 17:38:58 UTC 2018: Setting lastTestMethodIndex: 40509
+Tue May 15 17:38:58 UTC 2018: Starting linking
+Tue May 15 17:38:58 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.methods.InheritedTestTest
+Tue May 15 17:38:59 UTC 2018: Found element on the queue
+Tue May 15 17:38:59 UTC 2018: Updating status
+Tue May 15 17:38:59 UTC 2018: Working
+Tue May 15 17:39:01 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.methods.ParameterizedTestMethodTest
+Tue May 15 17:39:01 UTC 2018: Setting lastTestMethodIndex: 40511
+Tue May 15 17:39:01 UTC 2018: Starting linking
+Tue May 15 17:39:01 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.methods.ParameterizedTestMethodTest
+Tue May 15 17:39:02 UTC 2018: Found element on the queue
+Tue May 15 17:39:02 UTC 2018: Updating status
+Tue May 15 17:39:02 UTC 2018: Working
+Tue May 15 17:39:04 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.methods.TestMethodTest
+Tue May 15 17:39:04 UTC 2018: Setting lastTestMethodIndex: 40512
+Tue May 15 17:39:04 UTC 2018: Starting linking
+Tue May 15 17:39:04 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.methods.TestMethodTest
+Tue May 15 17:39:05 UTC 2018: Found element on the queue
+Tue May 15 17:39:05 UTC 2018: Updating status
+Tue May 15 17:39:05 UTC 2018: Working
+Tue May 15 17:39:07 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.running.methods.TimeoutTest
+Tue May 15 17:39:07 UTC 2018: Setting lastTestMethodIndex: 40514
+Tue May 15 17:39:07 UTC 2018: Starting linking
+Tue May 15 17:39:07 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.running.methods.TimeoutTest
+Tue May 15 17:39:08 UTC 2018: Found element on the queue
+Tue May 15 17:39:08 UTC 2018: Updating status
+Tue May 15 17:39:08 UTC 2018: Working
+Tue May 15 17:39:10 UTC 2018: Start FlakyTestDetection__jun test class org.junit.samples.ListTest
+Tue May 15 17:39:10 UTC 2018: Setting lastTestMethodIndex: 40516
+Tue May 15 17:39:10 UTC 2018: Starting linking
+Tue May 15 17:39:10 UTC 2018: No link for: org.junit.samples.ListTest-removeAll
+Tue May 15 17:39:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:11 UTC 2018: No link for: org.junit.samples.ListTest-testCopy
+Tue May 15 17:39:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:11 UTC 2018: No link for: org.junit.samples.ListTest-elementAt
+Tue May 15 17:39:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:11 UTC 2018: No link for: org.junit.samples.ListTest-capacity
+Tue May 15 17:39:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:11 UTC 2018: No link for: org.junit.samples.ListTest-contains
+Tue May 15 17:39:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:11 UTC 2018: No link for: org.junit.samples.ListTest-removeElement
+Tue May 15 17:39:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:11 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.samples.ListTest
+Tue May 15 17:39:12 UTC 2018: Found element on the queue
+Tue May 15 17:39:12 UTC 2018: Updating status
+Tue May 15 17:39:12 UTC 2018: Working
+Tue May 15 17:39:14 UTC 2018: Start FlakyTestDetection__jun test class org.junit.samples.money.MoneyTest
+Tue May 15 17:39:14 UTC 2018: Setting lastTestMethodIndex: 40518
+Tue May 15 17:39:14 UTC 2018: Starting linking
+Tue May 15 17:39:14 UTC 2018: Code found junit.samples.money.Money-add with org.junit.samples.money.MoneyTest-testSimpleBagAdd
+Tue May 15 17:39:14 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:14 UTC 2018: Code found junit.samples.money.Money-negate with org.junit.samples.money.MoneyTest-testSimpleNegate
+Tue May 15 17:39:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:15 UTC 2018: Code found junit.samples.money.Money-multiply with org.junit.samples.money.MoneyTest-testSimpleMultiply
+Tue May 15 17:39:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:15 UTC 2018: Code found junit.samples.money.Money-equals with org.junit.samples.money.MoneyTest-testMoneyBagEquals
+Tue May 15 17:39:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:15 UTC 2018: Code found junit.samples.money.Money-equals with org.junit.samples.money.MoneyTest-testMoneyEquals
+Tue May 15 17:39:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:15 UTC 2018: Code found junit.samples.money.Money-add with org.junit.samples.money.MoneyTest-testSimpleAdd
+Tue May 15 17:39:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:15 UTC 2018: Code found junit.samples.money.Money-add with org.junit.samples.money.MoneyTest-testMixedSimpleAdd
+Tue May 15 17:39:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:15 UTC 2018: Code found junit.samples.money.Money-subtract with org.junit.samples.money.MoneyTest-testSimpleSubtract
+Tue May 15 17:39:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:15 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagSimpleAdd
+Tue May 15 17:39:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:16 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testMoneyBagHash
+Tue May 15 17:39:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:16 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testMoneyHash
+Tue May 15 17:39:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:16 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagSumAdd
+Tue May 15 17:39:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:16 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagNotEquals
+Tue May 15 17:39:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:16 UTC 2018: No link for: org.junit.samples.money.MoneyTest-zeroMoniesAreEqualRegardlessOfCurrency
+Tue May 15 17:39:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:16 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testIsZero
+Tue May 15 17:39:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:17 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testSimplify
+Tue May 15 17:39:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:17 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testNormalize2
+Tue May 15 17:39:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:17 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testNormalize3
+Tue May 15 17:39:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:17 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testNormalize4
+Tue May 15 17:39:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:17 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagMultiply
+Tue May 15 17:39:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:17 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagNegate
+Tue May 15 17:39:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:17 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagSubtract
+Tue May 15 17:39:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:17 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testPrint
+Tue May 15 17:39:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:18 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.samples.money.MoneyTest
+Tue May 15 17:39:18 UTC 2018: Found element on the queue
+Tue May 15 17:39:18 UTC 2018: Updating status
+Tue May 15 17:39:18 UTC 2018: Working
+Tue May 15 17:39:20 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.validation.BadlyFormedClassesTest
+Tue May 15 17:39:20 UTC 2018: Setting lastTestMethodIndex: 40521
+Tue May 15 17:39:20 UTC 2018: Starting linking
+Tue May 15 17:39:20 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.validation.BadlyFormedClassesTest
+Tue May 15 17:39:21 UTC 2018: Found element on the queue
+Tue May 15 17:39:21 UTC 2018: Updating status
+Tue May 15 17:39:21 UTC 2018: Working
+Tue May 15 17:39:23 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.validation.FailedConstructionTest
+Tue May 15 17:39:23 UTC 2018: Setting lastTestMethodIndex: 40523
+Tue May 15 17:39:23 UTC 2018: Starting linking
+Tue May 15 17:39:23 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.validation.FailedConstructionTest
+Tue May 15 17:39:24 UTC 2018: Found element on the queue
+Tue May 15 17:39:24 UTC 2018: Updating status
+Tue May 15 17:39:24 UTC 2018: Working
+Tue May 15 17:39:26 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.validation.ValidationTest
+Tue May 15 17:39:26 UTC 2018: Setting lastTestMethodIndex: 40525
+Tue May 15 17:39:26 UTC 2018: Starting linking
+Tue May 15 17:39:26 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.validation.ValidationTest
+Tue May 15 17:39:27 UTC 2018: Found element on the queue
+Tue May 15 17:39:27 UTC 2018: Updating status
+Tue May 15 17:39:27 UTC 2018: Working
+Tue May 15 17:39:29 UTC 2018: Start FlakyTestDetection__jun test class org.junit.validator.AnnotationsValidatorTest
+Tue May 15 17:39:29 UTC 2018: Setting lastTestMethodIndex: 40527
+Tue May 15 17:39:29 UTC 2018: Starting linking
+Tue May 15 17:39:29 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.validator.AnnotationsValidatorTest
+Tue May 15 17:39:30 UTC 2018: Found element on the queue
+Tue May 15 17:39:30 UTC 2018: Updating status
+Tue May 15 17:39:30 UTC 2018: Working
+Tue May 15 17:39:32 UTC 2018: Start FlakyTestDetection__jun test class org.junit.validator.AnnotationValidatorFactoryTest
+Tue May 15 17:39:32 UTC 2018: Setting lastTestMethodIndex: 40529
+Tue May 15 17:39:32 UTC 2018: Starting linking
+Tue May 15 17:39:32 UTC 2018: Code found org.junit.validator.AnnotationValidatorFactory-createAnnotationValidator with org.junit.validator.AnnotationValidatorFactoryTest-createAnnotationValidator
+Tue May 15 17:39:32 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:32 UTC 2018: No link for: org.junit.validator.AnnotationValidatorFactoryTest-exceptionWhenAnnotationValidatorCantBeCreated
+Tue May 15 17:39:32 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.validator.AnnotationValidatorFactoryTest
+Tue May 15 17:39:33 UTC 2018: Found element on the queue
+Tue May 15 17:39:33 UTC 2018: Updating status
+Tue May 15 17:39:33 UTC 2018: Working
+Tue May 15 17:39:35 UTC 2018: Start FlakyTestDetection__jun test class org.junit.validator.PublicClassValidatorTest
+Tue May 15 17:39:35 UTC 2018: Setting lastTestMethodIndex: 40531
+Tue May 15 17:39:35 UTC 2018: Starting linking
+Tue May 15 17:39:35 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.validator.PublicClassValidatorTest
+Tue May 15 17:39:36 UTC 2018: Found element on the queue
+Tue May 15 17:39:36 UTC 2018: Updating status
+Tue May 15 17:39:36 UTC 2018: Working
+Tue May 15 17:39:38 UTC 2018: Start FlakyTestDetection__jun test class org.junit.AssumptionViolatedExceptionTest
+Tue May 15 17:39:38 UTC 2018: Setting lastTestMethodIndex: 40533
+Tue May 15 17:39:38 UTC 2018: Starting linking
+Tue May 15 17:39:38 UTC 2018: No code found org.junit.AssumptionViolatedException-initCause with org.junit.AssumptionViolatedExceptionTest-canInitCauseWithInstanceCreatedWithString
+Tue May 15 17:39:39 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-canSetCauseWithInstanceCreatedWithMainConstructor
+Tue May 15 17:39:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:39 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-canSetCauseWithInstanceCreatedWithObjectAndMatcher
+Tue May 15 17:39:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:39 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-assumptionViolatedExceptionWithMatcherDescribesItself
+Tue May 15 17:39:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:39 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-canSetCauseWithInstanceCreatedWithAssumptionObjectAndMatcher
+Tue May 15 17:39:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:39 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-canSetCauseWithInstanceCreatedWithExplicitThrowableConstructor
+Tue May 15 17:39:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:39 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-simpleAssumptionViolatedExceptionDescribesItself
+Tue May 15 17:39:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:40 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.AssumptionViolatedExceptionTest
+Tue May 15 17:39:40 UTC 2018: Found element on the queue
+Tue May 15 17:39:40 UTC 2018: Updating status
+Tue May 15 17:39:40 UTC 2018: Working
+Tue May 15 17:39:42 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.ObjectContractTest
+Tue May 15 17:39:42 UTC 2018: Setting lastTestMethodIndex: 40535
+Tue May 15 17:39:42 UTC 2018: Starting linking
+Tue May 15 17:39:42 UTC 2018: No link for: org.junit.tests.ObjectContractTest-equalsThrowsNoException
+Tue May 15 17:39:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:43 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.ObjectContractTest
+Tue May 15 17:39:43 UTC 2018: Found element on the queue
+Tue May 15 17:39:43 UTC 2018: Updating status
+Tue May 15 17:39:43 UTC 2018: Working
+Tue May 15 17:39:46 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.assertion.AssertionTest
+Tue May 15 17:39:46 UTC 2018: Setting lastTestMethodIndex: 40537
+Tue May 15 17:39:46 UTC 2018: Starting linking
+Tue May 15 17:39:46 UTC 2018: Code found org.junit.Assert-fail with org.junit.tests.assertion.AssertionTest-fails
+Tue May 15 17:39:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:39:46 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsIgnoresDeltaOnNaN
+Tue May 15 17:39:46 UTC 2018: Code found org.junit.Assert-assertThat with org.junit.tests.assertion.AssertionTest-assertThatIncludesAdvancedMismatch
+Tue May 15 17:39:46 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsDetectsTypeMismatchesViaExplicitTypeHint
+Tue May 15 17:39:46 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsConsidersDeltaCorrectly
+Tue May 15 17:39:47 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsUsesCanonicalNameWhenRequiredExceptionNotThrown
+Tue May 15 17:39:47 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsUsesCanonicalNameUponTypeMismatch
+Tue May 15 17:39:47 UTC 2018: Code found org.junit.Assert-assertEquals with org.junit.tests.assertion.AssertionTest-nullMessageDisappearsWithAssertEquals
+Tue May 15 17:39:47 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsWorksWithPrimitiveTypes
+Tue May 15 17:39:47 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsIgnoresFloatDeltaOnNaN
+Tue May 15 17:39:47 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsUsesNameUponTypeMismatchWithAnonymousClass
+Tue May 15 17:39:48 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsConsidersFloatDeltaCorrectly
+Tue May 15 17:39:48 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsWrapsAndPropagatesUnexpectedExceptions
+Tue May 15 17:39:48 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsSuppliesACoherentErrorMessageUponTypeMismatch
+Tue May 15 17:39:48 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsIncludesCorrectMessage
+Tue May 15 17:39:48 UTC 2018: Code found org.junit.Assert-assertThat with org.junit.tests.assertion.AssertionTest-assertThatIncludesDescriptionOfTestedValueInErrorMessage
+Tue May 15 17:39:48 UTC 2018: Code found org.junit.Assert-fail with org.junit.tests.assertion.AssertionTest-failWithNoMessageToString
+Tue May 15 17:39:49 UTC 2018: Code found org.junit.Assert-assertThat with org.junit.tests.assertion.AssertionTest-assertThatDescriptionCanBeElided
+Tue May 15 17:39:49 UTC 2018: Code found org.junit.Assert-fail with org.junit.tests.assertion.AssertionTest-failWithMessageToString
+Tue May 15 17:39:49 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsRequiresAnExceptionToBeThrown
+Tue May 15 17:39:49 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsIncludesAnInformativeDefaultMessage
+Tue May 15 17:39:49 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsReturnsTheSameObjectThrown
+Tue May 15 17:39:49 UTC 2018: Code found org.junit.Assert-assertEquals with org.junit.tests.assertion.AssertionTest-nullMessageDisappearsWithStringAssertEquals
+Tue May 15 17:39:49 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsIncludesTheValueBeingTested
+Tue May 15 17:39:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-twoDimensionalArraysConvertedToStringCorrectly
+Tue May 15 17:39:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-objectsAreSame
+Tue May 15 17:39:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysAreNotEqual
+Tue May 15 17:39:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-charsNotEqual
+Tue May 15 17:39:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysElementsDiffer
+Tue May 15 17:39:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullAndStringNullPrintCorrectError
+Tue May 15 17:39:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-sameObjectIsNotEqual
+Tue May 15 17:39:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-bytesNotEqual
+Tue May 15 17:39:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferentLengthDifferingAtStartMessage
+Tue May 15 17:39:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notSameWithMessage
+Tue May 15 17:39:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullNullmessage
+Tue May 15 17:39:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notEqualsObjectWithNull
+Tue May 15 17:39:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysDeclaredAsOneDimensionalAreEqual
+Tue May 15 17:39:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-intsEqualLongs
+Tue May 15 17:39:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-objectsWithDiferentReferencesAreNotEqual
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-twoDimensionalArraysDifferentInnerLengthNotEqual
+Tue May 15 17:39:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-compareBigDecimalAndInteger
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferAtElement0nullMessage
+Tue May 15 17:39:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-doublesNotEqual
+Tue May 15 17:39:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysNotEqualWithMessage
+Tue May 15 17:39:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferentLengthDifferingAtEndAndExpectedArrayLongerMessage
+Tue May 15 17:39:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-objectsNotEquals
+Tue May 15 17:39:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysDifferentLengthNoMessage
+Tue May 15 17:39:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-objectsNotSame
+Tue May 15 17:39:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-booleansNotEqual
+Tue May 15 17:39:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-floatsNotDoublesInArrays
+Tue May 15 17:39:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-shortsNotEqual
+Tue May 15 17:39:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-stringNullAndNullWorksToo
+Tue May 15 17:39:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysEqual
+Tue May 15 17:39:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notEqualsObjectWithNullWithMessage
+Tue May 15 17:39:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullMessage
+Tue May 15 17:39:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullWithMessage
+Tue May 15 17:39:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-naNsAreEqual
+Tue May 15 17:39:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferAtElement0withMessage
+Tue May 15 17:39:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-bigDecimalsNotEqual
+Tue May 15 17:39:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notEqualsNullWithObjectWithMessage
+Tue May 15 17:39:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferAtElement1nullMessage
+Tue May 15 17:39:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalIntArraysAreEqual
+Tue May 15 17:39:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notSame
+Tue May 15 17:39:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-oneDimensionalBooleanArraysAreNotEqual
+Tue May 15 17:39:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysActualNullMessage
+Tue May 15 17:39:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysWithNullElementEqual
+Tue May 15 17:39:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-intsNotEqual
+Tue May 15 17:39:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-oneDimensionalFloatArraysAreNotEqual
+Tue May 15 17:39:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-sameNullMessage
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-stringsDifferWithUserMessage
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDeclaredAsObjectAreComparedAsObjects
+Tue May 15 17:39:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-oneDimensionalPrimitiveArraysAreEqual
+Tue May 15 17:39:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-stringsNotEqual
+Tue May 15 17:39:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullToString
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysNotEqual
+Tue May 15 17:39:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-longsNotEqual
+Tue May 15 17:39:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferentLengthDifferingAtEndMessage
+Tue May 15 17:39:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-sameWithMessage
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notSameNullMessage
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notEqualsNullWithObject
+Tue May 15 17:39:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-primitiveArraysConvertedToStringCorrectly
+Tue May 15 17:39:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysAreNotEqualNoMessage
+Tue May 15 17:39:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysExpectedNullMessage
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysEqualWithMessage
+Tue May 15 17:39:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-equals
+Tue May 15 17:39:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-IntegerDoesNotEqualLong
+Tue May 15 17:39:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferAtElement1withMessage
+Tue May 15 17:39:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-implicitTypecastEquality
+Tue May 15 17:39:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-floatsNotEqualWithoutDelta
+Tue May 15 17:39:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysAreEqual
+Tue May 15 17:39:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysDifferentLengthMessage
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-oneDimensionalDoubleArraysAreNotEqual
+Tue May 15 17:39:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-floatsNotEqual
+Tue May 15 17:39:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-same
+Tue May 15 17:39:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-errorMessageDistinguishesDifferentValuesWithSameToString
+Tue May 15 17:39:59 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-twoDimensionalArraysDifferentOuterLengthNotEqual
+Tue May 15 17:39:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:39:59 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.assertion.AssertionTest
+Tue May 15 17:39:59 UTC 2018: Found element on the queue
+Tue May 15 17:39:59 UTC 2018: Updating status
+Tue May 15 17:39:59 UTC 2018: Working
+Tue May 15 17:40:02 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.assertion.ComparisonFailureTest
+Tue May 15 17:40:02 UTC 2018: Setting lastTestMethodIndex: 40543
+Tue May 15 17:40:02 UTC 2018: Starting linking
+Tue May 15 17:40:02 UTC 2018: No link for: org.junit.tests.assertion.ComparisonFailureTest-compactFailureMessage
+Tue May 15 17:40:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:02 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.assertion.ComparisonFailureTest
+Tue May 15 17:40:02 UTC 2018: Found element on the queue
+Tue May 15 17:40:02 UTC 2018: Updating status
+Tue May 15 17:40:02 UTC 2018: Working
+Tue May 15 17:40:05 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.assertion.MultipleFailureExceptionTest
+Tue May 15 17:40:05 UTC 2018: Setting lastTestMethodIndex: 40545
+Tue May 15 17:40:05 UTC 2018: Starting linking
+Tue May 15 17:40:05 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyThrowsMultipleFailureExceptionForManyThrowables
+Tue May 15 17:40:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:05 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyRethrowsSingleError
+Tue May 15 17:40:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:05 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyDoesNotThrowForEmptyList
+Tue May 15 17:40:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:05 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyRethrowsSingleRuntimeException
+Tue May 15 17:40:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:05 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyWrapsAssumptionFailuresForManyThrowables
+Tue May 15 17:40:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:06 UTC 2018: No link for: org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyErrorListConstructorFailure
+Tue May 15 17:40:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:06 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.assertion.MultipleFailureExceptionTest
+Tue May 15 17:40:06 UTC 2018: Found element on the queue
+Tue May 15 17:40:06 UTC 2018: Updating status
+Tue May 15 17:40:06 UTC 2018: Working
+Tue May 15 17:40:09 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.deprecated.JUnit4ClassRunnerTest
+Tue May 15 17:40:09 UTC 2018: Setting lastTestMethodIndex: 40547
+Tue May 15 17:40:09 UTC 2018: Starting linking
+Tue May 15 17:40:09 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.deprecated.JUnit4ClassRunnerTest
+Tue May 15 17:40:09 UTC 2018: Found element on the queue
+Tue May 15 17:40:09 UTC 2018: Updating status
+Tue May 15 17:40:09 UTC 2018: Working
+Tue May 15 17:40:12 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.description.AnnotatedDescriptionTest
+Tue May 15 17:40:12 UTC 2018: Setting lastTestMethodIndex: 40549
+Tue May 15 17:40:12 UTC 2018: Starting linking
+Tue May 15 17:40:12 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.description.AnnotatedDescriptionTest
+Tue May 15 17:40:12 UTC 2018: Found element on the queue
+Tue May 15 17:40:12 UTC 2018: Updating status
+Tue May 15 17:40:12 UTC 2018: Working
+Tue May 15 17:40:15 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.description.SuiteDescriptionTest
+Tue May 15 17:40:15 UTC 2018: Setting lastTestMethodIndex: 40551
+Tue May 15 17:40:15 UTC 2018: Starting linking
+Tue May 15 17:40:15 UTC 2018: Code found org.junit.runner.Description-hashCode with org.junit.tests.description.SuiteDescriptionTest-hashCodeIsReasonable
+Tue May 15 17:40:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:15 UTC 2018: Code found org.junit.runner.Description-equals with org.junit.tests.description.SuiteDescriptionTest-equalsIsCorrect
+Tue May 15 17:40:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:15 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.description.SuiteDescriptionTest
+Tue May 15 17:40:15 UTC 2018: Found element on the queue
+Tue May 15 17:40:15 UTC 2018: Updating status
+Tue May 15 17:40:15 UTC 2018: Working
+Tue May 15 17:40:18 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.description.TestDescriptionMethodNameTest
+Tue May 15 17:40:18 UTC 2018: Setting lastTestMethodIndex: 40553
+Tue May 15 17:40:18 UTC 2018: Starting linking
+Tue May 15 17:40:18 UTC 2018: No link for: org.junit.tests.description.TestDescriptionMethodNameTest-methodNameTest
+Tue May 15 17:40:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:18 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.description.TestDescriptionMethodNameTest
+Tue May 15 17:40:19 UTC 2018: Found element on the queue
+Tue May 15 17:40:19 UTC 2018: Updating status
+Tue May 15 17:40:19 UTC 2018: Working
+Tue May 15 17:40:21 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.description.TestDescriptionTest
+Tue May 15 17:40:21 UTC 2018: Setting lastTestMethodIndex: 40555
+Tue May 15 17:40:21 UTC 2018: Starting linking
+Tue May 15 17:40:21 UTC 2018: Code found org.junit.runner.Description-equals with org.junit.tests.description.TestDescriptionTest-equalsIsFalseForNonTestDescription
+Tue May 15 17:40:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:21 UTC 2018: Code found org.junit.runner.Description-equals with org.junit.tests.description.TestDescriptionTest-equalsIsTrueForSameNameAndNoExplicitUniqueId
+Tue May 15 17:40:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:21 UTC 2018: Code found org.junit.runner.Description-equals with org.junit.tests.description.TestDescriptionTest-equalsIsFalseForSameNameAndDifferentUniqueId
+Tue May 15 17:40:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:21 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.description.TestDescriptionTest
+Tue May 15 17:40:22 UTC 2018: Found element on the queue
+Tue May 15 17:40:22 UTC 2018: Updating status
+Tue May 15 17:40:22 UTC 2018: Working
+Tue May 15 17:40:24 UTC 2018: Start FlakyTestDetection__jun test class org.junit.experimental.categories.CategoriesAndParameterizedTest
+Tue May 15 17:40:24 UTC 2018: Setting lastTestMethodIndex: 40557
+Tue May 15 17:40:24 UTC 2018: Starting linking
+Tue May 15 17:40:24 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.experimental.categories.CategoriesAndParameterizedTest
+Tue May 15 17:40:25 UTC 2018: Found element on the queue
+Tue May 15 17:40:25 UTC 2018: Updating status
+Tue May 15 17:40:25 UTC 2018: Working
+Tue May 15 17:40:27 UTC 2018: Start FlakyTestDetection__jun test class org.junit.experimental.categories.CategoryFilterFactoryTest
+Tue May 15 17:40:27 UTC 2018: Setting lastTestMethodIndex: 40559
+Tue May 15 17:40:27 UTC 2018: Starting linking
+Tue May 15 17:40:27 UTC 2018: Code found org.junit.experimental.categories.CategoryFilterFactory-createFilter with org.junit.experimental.categories.CategoryFilterFactoryTest-shouldCreateFilter
+Tue May 15 17:40:27 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:27 UTC 2018: No link for: org.junit.experimental.categories.CategoryFilterFactoryTest-shouldThrowException
+Tue May 15 17:40:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:27 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.experimental.categories.CategoryFilterFactoryTest
+Tue May 15 17:40:28 UTC 2018: Found element on the queue
+Tue May 15 17:40:28 UTC 2018: Updating status
+Tue May 15 17:40:28 UTC 2018: Working
+Tue May 15 17:40:31 UTC 2018: Start FlakyTestDetection__jun test class org.junit.experimental.categories.CategoryTest
+Tue May 15 17:40:31 UTC 2018: Setting lastTestMethodIndex: 40561
+Tue May 15 17:40:31 UTC 2018: Starting linking
+Tue May 15 17:40:31 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.experimental.categories.CategoryTest
+Tue May 15 17:40:31 UTC 2018: Found element on the queue
+Tue May 15 17:40:31 UTC 2018: Updating status
+Tue May 15 17:40:31 UTC 2018: Working
+Tue May 15 17:40:34 UTC 2018: Start FlakyTestDetection__jun test class org.junit.experimental.categories.CategoryValidatorTest
+Tue May 15 17:40:34 UTC 2018: Setting lastTestMethodIndex: 40562
+Tue May 15 17:40:34 UTC 2018: Starting linking
+Tue May 15 17:40:34 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.experimental.categories.CategoryValidatorTest
+Tue May 15 17:40:34 UTC 2018: Found element on the queue
+Tue May 15 17:40:34 UTC 2018: Updating status
+Tue May 15 17:40:34 UTC 2018: Working
+Tue May 15 17:40:37 UTC 2018: Start FlakyTestDetection__jun test class org.junit.experimental.categories.JavadocTest
+Tue May 15 17:40:37 UTC 2018: Setting lastTestMethodIndex: 40564
+Tue May 15 17:40:37 UTC 2018: Starting linking
+Tue May 15 17:40:37 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.experimental.categories.JavadocTest
+Tue May 15 17:40:37 UTC 2018: Found element on the queue
+Tue May 15 17:40:37 UTC 2018: Updating status
+Tue May 15 17:40:37 UTC 2018: Working
+Tue May 15 17:40:40 UTC 2018: Start FlakyTestDetection__jun test class org.junit.experimental.categories.MultiCategoryTest
+Tue May 15 17:40:40 UTC 2018: Setting lastTestMethodIndex: 40566
+Tue May 15 17:40:40 UTC 2018: Starting linking
+Tue May 15 17:40:40 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.experimental.categories.MultiCategoryTest
+Tue May 15 17:40:40 UTC 2018: Found element on the queue
+Tue May 15 17:40:40 UTC 2018: Updating status
+Tue May 15 17:40:40 UTC 2018: Working
+Tue May 15 17:40:43 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.max.DescriptionTest
+Tue May 15 17:40:43 UTC 2018: Setting lastTestMethodIndex: 40568
+Tue May 15 17:40:43 UTC 2018: Starting linking
+Tue May 15 17:40:43 UTC 2018: Code found org.junit.runner.Description-createSuiteDescription with org.junit.tests.experimental.max.DescriptionTest-createSuiteDescription_whenNull
+Tue May 15 17:40:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:43 UTC 2018: Code found org.junit.runner.Description-createSuiteDescription with org.junit.tests.experimental.max.DescriptionTest-createSuiteDescription_whenZeroLength
+Tue May 15 17:40:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:40:43 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-tessed
+Tue May 15 17:40:43 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseMethod_whenCantParse
+Tue May 15 17:40:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:44 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-sameNamesButDifferentUniqueIdAreNotEqual
+Tue May 15 17:40:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:44 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseClass_whenCantParse
+Tue May 15 17:40:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:44 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseClassAndMethodWithAnnotations
+Tue May 15 17:40:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:44 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseClassAndMethodNoAnnotations
+Tue May 15 17:40:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:44 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseClassNameAndMethodUniqueId
+Tue May 15 17:40:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:44 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-usesPassedInClassObject
+Tue May 15 17:40:45 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:40:45 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.max.DescriptionTest
+Tue May 15 17:40:45 UTC 2018: Found element on the queue
+Tue May 15 17:40:45 UTC 2018: Updating status
+Tue May 15 17:40:45 UTC 2018: Working
+Tue May 15 17:40:48 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.max.JUnit38SortingTest
+Tue May 15 17:40:48 UTC 2018: Setting lastTestMethodIndex: 40571
+Tue May 15 17:40:48 UTC 2018: Starting linking
+Tue May 15 17:40:48 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.max.JUnit38SortingTest
+Tue May 15 17:40:48 UTC 2018: Found element on the queue
+Tue May 15 17:40:48 UTC 2018: Updating status
+Tue May 15 17:40:48 UTC 2018: Working
+Tue May 15 17:40:50 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.max.MaxStarterTest
+Tue May 15 17:40:50 UTC 2018: Setting lastTestMethodIndex: 40573
+Tue May 15 17:40:50 UTC 2018: Starting linking
+Tue May 15 17:40:50 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.max.MaxStarterTest
+Tue May 15 17:40:51 UTC 2018: Found element on the queue
+Tue May 15 17:40:51 UTC 2018: Updating status
+Tue May 15 17:40:51 UTC 2018: Working
+Tue May 15 17:40:53 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.parallel.ParallelClassTest
+Tue May 15 17:40:53 UTC 2018: Setting lastTestMethodIndex: 40575
+Tue May 15 17:40:53 UTC 2018: Starting linking
+Tue May 15 17:40:53 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.parallel.ParallelClassTest
+Tue May 15 17:40:54 UTC 2018: Found element on the queue
+Tue May 15 17:40:54 UTC 2018: Updating status
+Tue May 15 17:40:54 UTC 2018: Working
+Tue May 15 17:40:56 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.parallel.ParallelMethodTest
+Tue May 15 17:40:56 UTC 2018: Setting lastTestMethodIndex: 40577
+Tue May 15 17:40:56 UTC 2018: Starting linking
+Tue May 15 17:40:56 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.parallel.ParallelMethodTest
+Tue May 15 17:40:57 UTC 2018: Found element on the queue
+Tue May 15 17:40:57 UTC 2018: Updating status
+Tue May 15 17:40:57 UTC 2018: Working
+Tue May 15 17:40:59 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.results.PrintableResultTest
+Tue May 15 17:40:59 UTC 2018: Setting lastTestMethodIndex: 40578
+Tue May 15 17:40:59 UTC 2018: Starting linking
+Tue May 15 17:40:59 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.results.PrintableResultTest
+Tue May 15 17:41:00 UTC 2018: Found element on the queue
+Tue May 15 17:41:00 UTC 2018: Updating status
+Tue May 15 17:41:00 UTC 2018: Working
+Tue May 15 17:41:02 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.results.ResultMatchersTest
+Tue May 15 17:41:02 UTC 2018: Setting lastTestMethodIndex: 40580
+Tue May 15 17:41:02 UTC 2018: Starting linking
+Tue May 15 17:41:02 UTC 2018: Code found org.junit.experimental.results.ResultMatchers-hasFailureContaining with org.junit.tests.experimental.results.ResultMatchersTest-hasFailureContaining_givenResultWithOneFailure
+Tue May 15 17:41:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:41:02 UTC 2018: Code found org.junit.experimental.results.ResultMatchers-hasFailureContaining with org.junit.tests.experimental.results.ResultMatchersTest-hasFailureContaining_givenResultWithNoFailures
+Tue May 15 17:41:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:41:02 UTC 2018: No link for: org.junit.tests.experimental.results.ResultMatchersTest-hasFailuresHasGoodDescription
+Tue May 15 17:41:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:41:03 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.results.ResultMatchersTest
+Tue May 15 17:41:03 UTC 2018: Found element on the queue
+Tue May 15 17:41:03 UTC 2018: Updating status
+Tue May 15 17:41:03 UTC 2018: Working
+Tue May 15 17:41:06 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.internal.AllMembersSupplierTest
+Tue May 15 17:41:06 UTC 2018: Setting lastTestMethodIndex: 40581
+Tue May 15 17:41:06 UTC 2018: Starting linking
+Tue May 15 17:41:06 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.internal.AllMembersSupplierTest
+Tue May 15 17:41:06 UTC 2018: Found element on the queue
+Tue May 15 17:41:06 UTC 2018: Updating status
+Tue May 15 17:41:06 UTC 2018: Working
+Tue May 15 17:41:09 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest
+Tue May 15 17:41:09 UTC 2018: Setting lastTestMethodIndex: 40583
+Tue May 15 17:41:09 UTC 2018: Starting linking
+Tue May 15 17:41:09 UTC 2018: Code found org.junit.experimental.theories.internal.ParameterizedAssertionError-join with org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest-canJoinWhenToStringFails
+Tue May 15 17:41:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:41:09 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest
+Tue May 15 17:41:10 UTC 2018: Found element on the queue
+Tue May 15 17:41:10 UTC 2018: Updating status
+Tue May 15 17:41:10 UTC 2018: Working
+Tue May 15 17:41:12 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest
+Tue May 15 17:41:12 UTC 2018: Setting lastTestMethodIndex: 40585
+Tue May 15 17:41:12 UTC 2018: Starting linking
+Tue May 15 17:41:12 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest
+Tue May 15 17:41:12 UTC 2018: Found element on the queue
+Tue May 15 17:41:12 UTC 2018: Updating status
+Tue May 15 17:41:13 UTC 2018: Working
+Tue May 15 17:41:15 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.FailingDataPointMethods
+Tue May 15 17:41:15 UTC 2018: Setting lastTestMethodIndex: 40587
+Tue May 15 17:41:15 UTC 2018: Starting linking
+Tue May 15 17:41:15 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.FailingDataPointMethods
+Tue May 15 17:41:15 UTC 2018: Found element on the queue
+Tue May 15 17:41:15 UTC 2018: Updating status
+Tue May 15 17:41:15 UTC 2018: Working
+Tue May 15 17:41:18 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.TheoriesPerformanceTest
+Tue May 15 17:41:18 UTC 2018: Setting lastTestMethodIndex: 40589
+Tue May 15 17:41:18 UTC 2018: Starting linking
+Tue May 15 17:41:18 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.TheoriesPerformanceTest
+Tue May 15 17:41:18 UTC 2018: Found element on the queue
+Tue May 15 17:41:18 UTC 2018: Updating status
+Tue May 15 17:41:18 UTC 2018: Working
+Tue May 15 17:41:21 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.TypeMatchingBetweenMultiDataPointsMethod
+Tue May 15 17:41:21 UTC 2018: Setting lastTestMethodIndex: 40591
+Tue May 15 17:41:21 UTC 2018: Starting linking
+Tue May 15 17:41:21 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.TypeMatchingBetweenMultiDataPointsMethod
+Tue May 15 17:41:21 UTC 2018: Found element on the queue
+Tue May 15 17:41:21 UTC 2018: Updating status
+Tue May 15 17:41:21 UTC 2018: Working
+Tue May 15 17:41:23 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields
+Tue May 15 17:41:23 UTC 2018: Setting lastTestMethodIndex: 40593
+Tue May 15 17:41:23 UTC 2018: Starting linking
+Tue May 15 17:41:23 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields
+Tue May 15 17:41:24 UTC 2018: Found element on the queue
+Tue May 15 17:41:24 UTC 2018: Updating status
+Tue May 15 17:41:24 UTC 2018: Working
+Tue May 15 17:41:26 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WhenNoParametersMatch
+Tue May 15 17:41:26 UTC 2018: Setting lastTestMethodIndex: 40595
+Tue May 15 17:41:26 UTC 2018: Starting linking
+Tue May 15 17:41:26 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WhenNoParametersMatch
+Tue May 15 17:41:27 UTC 2018: Found element on the queue
+Tue May 15 17:41:27 UTC 2018: Updating status
+Tue May 15 17:41:27 UTC 2018: Working
+Tue May 15 17:41:29 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints
+Tue May 15 17:41:29 UTC 2018: Setting lastTestMethodIndex: 40597
+Tue May 15 17:41:29 UTC 2018: Starting linking
+Tue May 15 17:41:29 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints
+Tue May 15 17:41:30 UTC 2018: Found element on the queue
+Tue May 15 17:41:30 UTC 2018: Updating status
+Tue May 15 17:41:30 UTC 2018: Working
+Tue May 15 17:41:32 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithDataPointMethod
+Tue May 15 17:41:32 UTC 2018: Setting lastTestMethodIndex: 40599
+Tue May 15 17:41:32 UTC 2018: Starting linking
+Tue May 15 17:41:32 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithDataPointMethod
+Tue May 15 17:41:32 UTC 2018: Found element on the queue
+Tue May 15 17:41:32 UTC 2018: Updating status
+Tue May 15 17:41:32 UTC 2018: Working
+Tue May 15 17:41:35 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithExtendedParameterSources
+Tue May 15 17:41:35 UTC 2018: Setting lastTestMethodIndex: 40600
+Tue May 15 17:41:35 UTC 2018: Starting linking
+Tue May 15 17:41:35 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithExtendedParameterSources
+Tue May 15 17:41:35 UTC 2018: Found element on the queue
+Tue May 15 17:41:35 UTC 2018: Updating status
+Tue May 15 17:41:35 UTC 2018: Working
+Tue May 15 17:41:38 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithNamedDataPoints
+Tue May 15 17:41:38 UTC 2018: Setting lastTestMethodIndex: 40602
+Tue May 15 17:41:38 UTC 2018: Starting linking
+Tue May 15 17:41:38 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithNamedDataPoints
+Tue May 15 17:41:38 UTC 2018: Found element on the queue
+Tue May 15 17:41:38 UTC 2018: Updating status
+Tue May 15 17:41:38 UTC 2018: Working
+Tue May 15 17:41:41 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations
+Tue May 15 17:41:41 UTC 2018: Setting lastTestMethodIndex: 40604
+Tue May 15 17:41:41 UTC 2018: Starting linking
+Tue May 15 17:41:41 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations
+Tue May 15 17:41:41 UTC 2018: Found element on the queue
+Tue May 15 17:41:41 UTC 2018: Updating status
+Tue May 15 17:41:42 UTC 2018: Working
+Tue May 15 17:41:44 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithParameterSupplier
+Tue May 15 17:41:44 UTC 2018: Setting lastTestMethodIndex: 40606
+Tue May 15 17:41:44 UTC 2018: Starting linking
+Tue May 15 17:41:44 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithParameterSupplier
+Tue May 15 17:41:45 UTC 2018: Found element on the queue
+Tue May 15 17:41:45 UTC 2018: Updating status
+Tue May 15 17:41:45 UTC 2018: Working
+Tue May 15 17:41:47 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms
+Tue May 15 17:41:47 UTC 2018: Setting lastTestMethodIndex: 40608
+Tue May 15 17:41:47 UTC 2018: Starting linking
+Tue May 15 17:41:47 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnTheoryParm
+Tue May 15 17:41:47 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnTheTheory
+Tue May 15 17:41:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:41:47 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnArrayTypeOnTheoryParm
+Tue May 15 17:41:47 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnTheoryClass
+Tue May 15 17:41:48 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariablesAbound
+Tue May 15 17:41:48 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnParameterizedTheoryParm
+Tue May 15 17:41:48 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnComponentOfArrayTypeOnTheoryParm
+Tue May 15 17:41:48 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnWildcardUpperBoundOnTheoryParm
+Tue May 15 17:41:48 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnWildcardLowerBoundOnTheoryParm
+Tue May 15 17:41:48 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms
+Tue May 15 17:41:49 UTC 2018: Found element on the queue
+Tue May 15 17:41:49 UTC 2018: Updating status
+Tue May 15 17:41:49 UTC 2018: Working
+Tue May 15 17:41:51 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.ParameterSignatureTest
+Tue May 15 17:41:51 UTC 2018: Setting lastTestMethodIndex: 40610
+Tue May 15 17:41:51 UTC 2018: Starting linking
+Tue May 15 17:41:51 UTC 2018: Code found org.junit.experimental.theories.ParameterSignature-getAnnotations with org.junit.tests.experimental.theories.ParameterSignatureTest-getAnnotations
+Tue May 15 17:41:51 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:41:51 UTC 2018: No link for: org.junit.tests.experimental.theories.ParameterSignatureTest-wrapperTypesShouldBeAcceptedAsPrimitiveTypes
+Tue May 15 17:41:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:41:51 UTC 2018: No link for: org.junit.tests.experimental.theories.ParameterSignatureTest-primitiveTypesShouldBeAcceptedAsWrapperTypes
+Tue May 15 17:41:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:41:52 UTC 2018: No link for: org.junit.tests.experimental.theories.ParameterSignatureTest-primitiveTypesShouldBeAcceptedAsWrapperTypeAssignables
+Tue May 15 17:41:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:41:52 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.ParameterSignatureTest
+Tue May 15 17:41:52 UTC 2018: Found element on the queue
+Tue May 15 17:41:52 UTC 2018: Updating status
+Tue May 15 17:41:52 UTC 2018: Working
+Tue May 15 17:41:54 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.TestedOnSupplierTest
+Tue May 15 17:41:54 UTC 2018: Setting lastTestMethodIndex: 40613
+Tue May 15 17:41:54 UTC 2018: Starting linking
+Tue May 15 17:41:54 UTC 2018: No link for: org.junit.tests.experimental.theories.TestedOnSupplierTest-descriptionStatesParameterName
+Tue May 15 17:41:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:41:55 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.TestedOnSupplierTest
+Tue May 15 17:41:55 UTC 2018: Found element on the queue
+Tue May 15 17:41:55 UTC 2018: Updating status
+Tue May 15 17:41:55 UTC 2018: Working
+Tue May 15 17:41:58 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.AssumingInTheoriesTest
+Tue May 15 17:41:58 UTC 2018: Setting lastTestMethodIndex: 40615
+Tue May 15 17:41:58 UTC 2018: Starting linking
+Tue May 15 17:41:58 UTC 2018: No link for: org.junit.tests.experimental.theories.AssumingInTheoriesTest-noTheoryAnnotationMeansAssumeShouldIgnore
+Tue May 15 17:41:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:41:58 UTC 2018: No link for: org.junit.tests.experimental.theories.AssumingInTheoriesTest-theoryMeansOnlyAssumeShouldFail
+Tue May 15 17:41:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:41:58 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.AssumingInTheoriesTest
+Tue May 15 17:41:59 UTC 2018: Found element on the queue
+Tue May 15 17:41:59 UTC 2018: Updating status
+Tue May 15 17:41:59 UTC 2018: Working
+Tue May 15 17:42:01 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.PotentialAssignmentTest
+Tue May 15 17:42:01 UTC 2018: Setting lastTestMethodIndex: 40617
+Tue May 15 17:42:01 UTC 2018: Starting linking
+Tue May 15 17:42:01 UTC 2018: No link for: org.junit.tests.experimental.theories.PotentialAssignmentTest-shouldIncludeFailureInDescriptionIfToStringFails
+Tue May 15 17:42:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:01 UTC 2018: No link for: org.junit.tests.experimental.theories.PotentialAssignmentTest-shouldUseQuotedValueInDescription
+Tue May 15 17:42:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:01 UTC 2018: No link for: org.junit.tests.experimental.theories.PotentialAssignmentTest-shouldReturnGivenValue
+Tue May 15 17:42:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:01 UTC 2018: No link for: org.junit.tests.experimental.theories.PotentialAssignmentTest-shouldNotUseQuotesForNullValueDescriptions
+Tue May 15 17:42:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:02 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.PotentialAssignmentTest
+Tue May 15 17:42:02 UTC 2018: Found element on the queue
+Tue May 15 17:42:02 UTC 2018: Updating status
+Tue May 15 17:42:02 UTC 2018: Working
+Tue May 15 17:42:05 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.AssumptionTest
+Tue May 15 17:42:05 UTC 2018: Setting lastTestMethodIndex: 40618
+Tue May 15 17:42:05 UTC 2018: Starting linking
+Tue May 15 17:42:05 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.AssumptionTest
+Tue May 15 17:42:05 UTC 2018: Found element on the queue
+Tue May 15 17:42:05 UTC 2018: Updating status
+Tue May 15 17:42:05 UTC 2018: Working
+Tue May 15 17:42:08 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.MatcherTest
+Tue May 15 17:42:08 UTC 2018: Setting lastTestMethodIndex: 40620
+Tue May 15 17:42:08 UTC 2018: Starting linking
+Tue May 15 17:42:08 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.MatcherTest
+Tue May 15 17:42:08 UTC 2018: Found element on the queue
+Tue May 15 17:42:08 UTC 2018: Updating status
+Tue May 15 17:42:08 UTC 2018: Working
+Tue May 15 17:42:11 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.experimental.theories.extendingwithstubs.StubbedTheoriesTest
+Tue May 15 17:42:11 UTC 2018: Setting lastTestMethodIndex: 40622
+Tue May 15 17:42:11 UTC 2018: Starting linking
+Tue May 15 17:42:11 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.experimental.theories.extendingwithstubs.StubbedTheoriesTest
+Tue May 15 17:42:11 UTC 2018: Found element on the queue
+Tue May 15 17:42:11 UTC 2018: Updating status
+Tue May 15 17:42:11 UTC 2018: Working
+Tue May 15 17:42:14 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.builders.AnnotatedBuilderTest
+Tue May 15 17:42:14 UTC 2018: Setting lastTestMethodIndex: 40624
+Tue May 15 17:42:14 UTC 2018: Starting linking
+Tue May 15 17:42:14 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-test
+Tue May 15 17:42:14 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-topLevelTestClassWithAnnotation_isRunWithAnnotatedRunner
+Tue May 15 17:42:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:14 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-topLevelTestClassWithoutAnnotation_isRunWithDefaultRunner
+Tue May 15 17:42:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:14 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-memberClassDeepInsideAnnotatedTopLevelClass_isRunWithTopLevelRunner
+Tue May 15 17:42:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:14 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-annotatedMemberClassInsideAnnotatedTopLevelClass_isRunWithOwnRunner
+Tue May 15 17:42:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:14 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-memberClassDeepInsideAnnotatedMemberClass_isRunWithParentMemberClassRunner
+Tue May 15 17:42:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:15 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-memberClassInsideAnnotatedTopLevelClass_isRunWithTopLevelRunner
+Tue May 15 17:42:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:15 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.builders.AnnotatedBuilderTest
+Tue May 15 17:42:15 UTC 2018: Found element on the queue
+Tue May 15 17:42:15 UTC 2018: Updating status
+Tue May 15 17:42:15 UTC 2018: Working
+Tue May 15 17:42:18 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.ChecksTest
+Tue May 15 17:42:18 UTC 2018: Setting lastTestMethodIndex: 40626
+Tue May 15 17:42:18 UTC 2018: Starting linking
+Tue May 15 17:42:18 UTC 2018: Code found org.junit.internal.Checks-notNull with org.junit.internal.ChecksTest-notNullWithNullMessageShouldThrowOnNullValues
+Tue May 15 17:42:18 UTC 2018: Code found org.junit.internal.Checks-notNull with org.junit.internal.ChecksTest-notNullShouldThrowOnNullValues
+Tue May 15 17:42:18 UTC 2018: Code found org.junit.internal.Checks-notNull with org.junit.internal.ChecksTest-notNullShouldReturnNonNullValues
+Tue May 15 17:42:18 UTC 2018: Code found org.junit.internal.Checks-notNull with org.junit.internal.ChecksTest-notNullWithMessageShouldReturnNonNullValues
+Tue May 15 17:42:18 UTC 2018: Code found org.junit.internal.Checks-notNull with org.junit.internal.ChecksTest-notNullWithMessageShouldThrowOnNullValues
+Tue May 15 17:42:18 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.ChecksTest
+Tue May 15 17:42:19 UTC 2018: Found element on the queue
+Tue May 15 17:42:19 UTC 2018: Updating status
+Tue May 15 17:42:19 UTC 2018: Working
+Tue May 15 17:42:21 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.runners.ErrorReportingRunnerTest
+Tue May 15 17:42:21 UTC 2018: Setting lastTestMethodIndex: 40628
+Tue May 15 17:42:21 UTC 2018: Starting linking
+Tue May 15 17:42:21 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-cannotCreateWithoutClass
+Tue May 15 17:42:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:22 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-cannotCreateWithNullClass
+Tue May 15 17:42:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:22 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-cannotCreateWithNullClass2
+Tue May 15 17:42:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:22 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-testMethodReturningString
+Tue May 15 17:42:22 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-givenInvalidTestClassErrorAsCause
+Tue May 15 17:42:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:22 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-cannotCreateWithNullClasses
+Tue May 15 17:42:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:22 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-givenInvalidTestClass_integrationTest
+Tue May 15 17:42:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:23 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.runners.ErrorReportingRunnerTest
+Tue May 15 17:42:23 UTC 2018: Found element on the queue
+Tue May 15 17:42:23 UTC 2018: Updating status
+Tue May 15 17:42:23 UTC 2018: Working
+Tue May 15 17:42:25 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.runners.statements.ExpectExceptionTest
+Tue May 15 17:42:25 UTC 2018: Setting lastTestMethodIndex: 40631
+Tue May 15 17:42:25 UTC 2018: Starting linking
+Tue May 15 17:42:25 UTC 2018: Code found org.junit.Assert-fail with org.junit.internal.runners.statements.ExpectExceptionTest-whenExpectingAssumptionViolatedExceptionStatementsThrowingDifferentExceptionShouldFail
+Tue May 15 17:42:26 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:42:26 UTC 2018: Code found org.junit.Assert-fail with org.junit.internal.runners.statements.ExpectExceptionTest-whenExpectingAssumptionViolatedExceptionStatementsPassingShouldFail
+Tue May 15 17:42:26 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:42:26 UTC 2018: No link for: org.junit.internal.runners.statements.ExpectExceptionTest-whenExpectingAssumptionViolatedExceptionStatementsThrowingItShouldPass
+Tue May 15 17:42:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:26 UTC 2018: No link for: org.junit.internal.runners.statements.ExpectExceptionTest-whenExpectingAssumptionViolatedExceptionStatementsThrowingSubclassShouldPass
+Tue May 15 17:42:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:26 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.runners.statements.ExpectExceptionTest
+Tue May 15 17:42:27 UTC 2018: Found element on the queue
+Tue May 15 17:42:27 UTC 2018: Updating status
+Tue May 15 17:42:27 UTC 2018: Working
+Tue May 15 17:42:29 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.runners.statements.FailOnTimeoutTest
+Tue May 15 17:42:29 UTC 2018: Setting lastTestMethodIndex: 40633
+Tue May 15 17:42:29 UTC 2018: Starting linking
+Tue May 15 17:42:29 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwTimeoutExceptionOnSecondCallAlthoughFirstCallThrowsException
+Tue May 15 17:42:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:29 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-stackTraceContainsRealCauseOfTimeout
+Tue May 15 17:42:29 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-sendUpExceptionThrownByStatement
+Tue May 15 17:42:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:29 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwsTestTimedOutException
+Tue May 15 17:42:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:30 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-stopEndlessStatement
+Tue May 15 17:42:30 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwExceptionIfTheSecondCallToEvaluateNeedsTooMuchTime
+Tue May 15 17:42:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:30 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwsExceptionWithTimeoutValueAndTimeUnitSet
+Tue May 15 17:42:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:30 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwExceptionWithNiceMessageOnTimeout
+Tue May 15 17:42:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:30 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.runners.statements.FailOnTimeoutTest
+Tue May 15 17:42:31 UTC 2018: Found element on the queue
+Tue May 15 17:42:31 UTC 2018: Updating status
+Tue May 15 17:42:31 UTC 2018: Working
+Tue May 15 17:42:33 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.MethodSorterTest
+Tue May 15 17:42:33 UTC 2018: Setting lastTestMethodIndex: 40635
+Tue May 15 17:42:33 UTC 2018: Starting linking
+Tue May 15 17:42:33 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.MethodSorterTest
+Tue May 15 17:42:34 UTC 2018: Found element on the queue
+Tue May 15 17:42:34 UTC 2018: Updating status
+Tue May 15 17:42:34 UTC 2018: Working
+Tue May 15 17:42:36 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.matchers.StacktracePrintingMatcherTest
+Tue May 15 17:42:36 UTC 2018: Setting lastTestMethodIndex: 40636
+Tue May 15 17:42:36 UTC 2018: Starting linking
+Tue May 15 17:42:36 UTC 2018: Code found org.junit.Assert-assertThat with org.junit.internal.matchers.StacktracePrintingMatcherTest-assertThatIncludesStacktrace
+Tue May 15 17:42:36 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:42:36 UTC 2018: No link for: org.junit.internal.matchers.StacktracePrintingMatcherTest-failsWhenInnerMatcherFails
+Tue May 15 17:42:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:36 UTC 2018: No link for: org.junit.internal.matchers.StacktracePrintingMatcherTest-succeedsWhenInnerMatcherSucceeds
+Tue May 15 17:42:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:36 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.matchers.StacktracePrintingMatcherTest
+Tue May 15 17:42:37 UTC 2018: Found element on the queue
+Tue May 15 17:42:37 UTC 2018: Updating status
+Tue May 15 17:42:37 UTC 2018: Working
+Tue May 15 17:42:40 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.StackTracesTest
+Tue May 15 17:42:40 UTC 2018: Setting lastTestMethodIndex: 40638
+Tue May 15 17:42:40 UTC 2018: Starting linking
+Tue May 15 17:42:40 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackWithSuppressedExceptions
+Tue May 15 17:42:40 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackForJUnit4TestFailingInBeforeMethod
+Tue May 15 17:42:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:40 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackForJUnit4TestFailingInMethodRule
+Tue May 15 17:42:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:40 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackForJUnit3TestFailingInSetupMethod
+Tue May 15 17:42:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:40 UTC 2018: No link for: org.junit.internal.StackTracesTest-alwaysThrows
+Tue May 15 17:42:40 UTC 2018: No link for: org.junit.internal.StackTracesTest-alwaysPasses
+Tue May 15 17:42:41 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackForJUnit4TestFailingInTestRule
+Tue May 15 17:42:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:41 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackForJUnit4TestFailingInTestMethodWithCause
+Tue May 15 17:42:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:41 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackForJUnit3TestFailingInTestMethod
+Tue May 15 17:42:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:41 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackForJUnit4TestFailingInTestMethod
+Tue May 15 17:42:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:41 UTC 2018: No link for: org.junit.internal.StackTracesTest-getTrimmedStackForJUnit4TestFailingInClassRule
+Tue May 15 17:42:41 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.StackTracesTest
+Tue May 15 17:42:42 UTC 2018: Found element on the queue
+Tue May 15 17:42:42 UTC 2018: Updating status
+Tue May 15 17:42:42 UTC 2018: Working
+Tue May 15 17:42:45 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.matchers.ThrowableCauseMatcherTest
+Tue May 15 17:42:45 UTC 2018: Setting lastTestMethodIndex: 40641
+Tue May 15 17:42:45 UTC 2018: Starting linking
+Tue May 15 17:42:45 UTC 2018: No link for: org.junit.internal.matchers.ThrowableCauseMatcherTest-shouldAllowCauseOfDifferentClassFromRoot
+Tue May 15 17:42:45 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:42:45 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.matchers.ThrowableCauseMatcherTest
+Tue May 15 17:42:45 UTC 2018: Found element on the queue
+Tue May 15 17:42:45 UTC 2018: Updating status
+Tue May 15 17:42:45 UTC 2018: Working
+Tue May 15 17:42:48 UTC 2018: Start FlakyTestDetection__jun test class org.junit.internal.ArrayComparisonFailureTest
+Tue May 15 17:42:48 UTC 2018: Setting lastTestMethodIndex: 40643
+Tue May 15 17:42:48 UTC 2018: Starting linking
+Tue May 15 17:42:48 UTC 2018: No link for: org.junit.internal.ArrayComparisonFailureTest-classShouldAccept411Version
+Tue May 15 17:42:48 UTC 2018: No link for: org.junit.internal.ArrayComparisonFailureTest-classShouldAccept412Version
+Tue May 15 17:42:48 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.internal.ArrayComparisonFailureTest
+Tue May 15 17:42:48 UTC 2018: Found element on the queue
+Tue May 15 17:42:48 UTC 2018: Updating status
+Tue May 15 17:42:48 UTC 2018: Working
+Tue May 15 17:42:51 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.AllTestsTest
+Tue May 15 17:42:51 UTC 2018: Setting lastTestMethodIndex: 40645
+Tue May 15 17:42:51 UTC 2018: Starting linking
+Tue May 15 17:42:51 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.AllTestsTest
+Tue May 15 17:42:51 UTC 2018: Found element on the queue
+Tue May 15 17:42:51 UTC 2018: Updating status
+Tue May 15 17:42:51 UTC 2018: Working
+Tue May 15 17:42:54 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.ClassRequestTest
+Tue May 15 17:42:54 UTC 2018: Setting lastTestMethodIndex: 40647
+Tue May 15 17:42:54 UTC 2018: Starting linking
+Tue May 15 17:42:54 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.ClassRequestTest
+Tue May 15 17:42:54 UTC 2018: Found element on the queue
+Tue May 15 17:42:54 UTC 2018: Updating status
+Tue May 15 17:42:54 UTC 2018: Working
+Tue May 15 17:42:57 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest
+Tue May 15 17:42:57 UTC 2018: Setting lastTestMethodIndex: 40649
+Tue May 15 17:42:57 UTC 2018: Starting linking
+Tue May 15 17:42:57 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest
+Tue May 15 17:42:58 UTC 2018: Found element on the queue
+Tue May 15 17:42:58 UTC 2018: Updating status
+Tue May 15 17:42:58 UTC 2018: Working
+Tue May 15 17:43:00 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.ForwardCompatibilityTest
+Tue May 15 17:43:00 UTC 2018: Setting lastTestMethodIndex: 40651
+Tue May 15 17:43:00 UTC 2018: Starting linking
+Tue May 15 17:43:00 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.ForwardCompatibilityTest
+Tue May 15 17:43:00 UTC 2018: Found element on the queue
+Tue May 15 17:43:00 UTC 2018: Updating status
+Tue May 15 17:43:00 UTC 2018: Working
+Tue May 15 17:43:03 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest
+Tue May 15 17:43:03 UTC 2018: Setting lastTestMethodIndex: 40653
+Tue May 15 17:43:03 UTC 2018: Starting linking
+Tue May 15 17:43:03 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest
+Tue May 15 17:43:04 UTC 2018: Found element on the queue
+Tue May 15 17:43:04 UTC 2018: Updating status
+Tue May 15 17:43:04 UTC 2018: Working
+Tue May 15 17:43:06 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest
+Tue May 15 17:43:06 UTC 2018: Setting lastTestMethodIndex: 40654
+Tue May 15 17:43:06 UTC 2018: Starting linking
+Tue May 15 17:43:06 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest
+Tue May 15 17:43:07 UTC 2018: Found element on the queue
+Tue May 15 17:43:07 UTC 2018: Updating status
+Tue May 15 17:43:07 UTC 2018: Working
+Tue May 15 17:43:09 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.JUnit4TestAdapterTest
+Tue May 15 17:43:09 UTC 2018: Setting lastTestMethodIndex: 40656
+Tue May 15 17:43:09 UTC 2018: Starting linking
+Tue May 15 17:43:09 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.JUnit4TestAdapterTest
+Tue May 15 17:43:10 UTC 2018: Found element on the queue
+Tue May 15 17:43:10 UTC 2018: Updating status
+Tue May 15 17:43:10 UTC 2018: Working
+Tue May 15 17:43:12 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.OldTestClassAdaptingListenerTest
+Tue May 15 17:43:12 UTC 2018: Setting lastTestMethodIndex: 40658
+Tue May 15 17:43:12 UTC 2018: Starting linking
+Tue May 15 17:43:12 UTC 2018: Code found org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener-addFailure with org.junit.tests.junit3compatibility.OldTestClassAdaptingListenerTest-addFailureDelegatesToNotifier
+Tue May 15 17:43:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:43:12 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.OldTestClassAdaptingListenerTest
+Tue May 15 17:43:13 UTC 2018: Found element on the queue
+Tue May 15 17:43:13 UTC 2018: Updating status
+Tue May 15 17:43:13 UTC 2018: Working
+Tue May 15 17:43:15 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.TestCaseTest
+Tue May 15 17:43:15 UTC 2018: Setting lastTestMethodIndex: 40660
+Tue May 15 17:43:15 UTC 2018: Starting linking
+Tue May 15 17:43:15 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.TestCaseTest
+Tue May 15 17:43:16 UTC 2018: Found element on the queue
+Tue May 15 17:43:16 UTC 2018: Updating status
+Tue May 15 17:43:16 UTC 2018: Working
+Tue May 15 17:43:18 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.SuiteTest
+Tue May 15 17:43:18 UTC 2018: Setting lastTestMethodIndex: 40662
+Tue May 15 17:43:18 UTC 2018: Starting linking
+Tue May 15 17:43:18 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.SuiteTest
+Tue May 15 17:43:19 UTC 2018: Found element on the queue
+Tue May 15 17:43:19 UTC 2018: Updating status
+Tue May 15 17:43:19 UTC 2018: Working
+Tue May 15 17:43:21 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.TestListenerTest
+Tue May 15 17:43:21 UTC 2018: Setting lastTestMethodIndex: 40663
+Tue May 15 17:43:21 UTC 2018: Starting linking
+Tue May 15 17:43:21 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.TestListenerTest
+Tue May 15 17:43:21 UTC 2018: Found element on the queue
+Tue May 15 17:43:21 UTC 2018: Updating status
+Tue May 15 17:43:21 UTC 2018: Working
+Tue May 15 17:43:23 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.AssertionFailedErrorTest
+Tue May 15 17:43:23 UTC 2018: Setting lastTestMethodIndex: 40665
+Tue May 15 17:43:23 UTC 2018: Starting linking
+Tue May 15 17:43:23 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.AssertionFailedErrorTest
+Tue May 15 17:43:24 UTC 2018: Found element on the queue
+Tue May 15 17:43:24 UTC 2018: Updating status
+Tue May 15 17:43:24 UTC 2018: Working
+Tue May 15 17:43:26 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.AssertTest
+Tue May 15 17:43:26 UTC 2018: Setting lastTestMethodIndex: 40667
+Tue May 15 17:43:26 UTC 2018: Starting linking
+Tue May 15 17:43:26 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.AssertTest
+Tue May 15 17:43:27 UTC 2018: Found element on the queue
+Tue May 15 17:43:27 UTC 2018: Updating status
+Tue May 15 17:43:27 UTC 2018: Working
+Tue May 15 17:43:29 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.TestImplementorTest
+Tue May 15 17:43:29 UTC 2018: Setting lastTestMethodIndex: 40669
+Tue May 15 17:43:29 UTC 2018: Starting linking
+Tue May 15 17:43:29 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.TestImplementorTest
+Tue May 15 17:43:30 UTC 2018: Found element on the queue
+Tue May 15 17:43:30 UTC 2018: Updating status
+Tue May 15 17:43:30 UTC 2018: Working
+Tue May 15 17:43:32 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.NoArgTestCaseTest
+Tue May 15 17:43:32 UTC 2018: Setting lastTestMethodIndex: 40671
+Tue May 15 17:43:32 UTC 2018: Starting linking
+Tue May 15 17:43:32 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.NoArgTestCaseTest
+Tue May 15 17:43:33 UTC 2018: Found element on the queue
+Tue May 15 17:43:33 UTC 2018: Updating status
+Tue May 15 17:43:33 UTC 2018: Working
+Tue May 15 17:43:35 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.ComparisonCompactorTest
+Tue May 15 17:43:35 UTC 2018: Setting lastTestMethodIndex: 40673
+Tue May 15 17:43:35 UTC 2018: Starting linking
+Tue May 15 17:43:35 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.ComparisonCompactorTest
+Tue May 15 17:43:36 UTC 2018: Found element on the queue
+Tue May 15 17:43:36 UTC 2018: Updating status
+Tue May 15 17:43:36 UTC 2018: Working
+Tue May 15 17:43:38 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.ComparisonFailureTest
+Tue May 15 17:43:38 UTC 2018: Setting lastTestMethodIndex: 40675
+Tue May 15 17:43:38 UTC 2018: Starting linking
+Tue May 15 17:43:38 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.ComparisonFailureTest
+Tue May 15 17:43:39 UTC 2018: Found element on the queue
+Tue May 15 17:43:39 UTC 2018: Updating status
+Tue May 15 17:43:39 UTC 2018: Working
+Tue May 15 17:43:41 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.DoublePrecisionAssertTest
+Tue May 15 17:43:41 UTC 2018: Setting lastTestMethodIndex: 40677
+Tue May 15 17:43:41 UTC 2018: Starting linking
+Tue May 15 17:43:41 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.DoublePrecisionAssertTest
+Tue May 15 17:43:42 UTC 2018: Found element on the queue
+Tue May 15 17:43:42 UTC 2018: Updating status
+Tue May 15 17:43:42 UTC 2018: Working
+Tue May 15 17:43:44 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.framework.FloatAssertTest
+Tue May 15 17:43:44 UTC 2018: Setting lastTestMethodIndex: 40678
+Tue May 15 17:43:44 UTC 2018: Starting linking
+Tue May 15 17:43:44 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.framework.FloatAssertTest
+Tue May 15 17:43:45 UTC 2018: Found element on the queue
+Tue May 15 17:43:45 UTC 2018: Updating status
+Tue May 15 17:43:45 UTC 2018: Working
+Tue May 15 17:43:47 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.runner.StackFilterTest
+Tue May 15 17:43:47 UTC 2018: Setting lastTestMethodIndex: 40680
+Tue May 15 17:43:47 UTC 2018: Starting linking
+Tue May 15 17:43:47 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.runner.StackFilterTest
+Tue May 15 17:43:47 UTC 2018: Found element on the queue
+Tue May 15 17:43:47 UTC 2018: Updating status
+Tue May 15 17:43:47 UTC 2018: Working
+Tue May 15 17:43:50 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.runner.ResultTest
+Tue May 15 17:43:50 UTC 2018: Setting lastTestMethodIndex: 40682
+Tue May 15 17:43:50 UTC 2018: Starting linking
+Tue May 15 17:43:50 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.runner.ResultTest
+Tue May 15 17:43:50 UTC 2018: Found element on the queue
+Tue May 15 17:43:50 UTC 2018: Updating status
+Tue May 15 17:43:50 UTC 2018: Working
+Tue May 15 17:43:52 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.runner.BaseTestRunnerTest
+Tue May 15 17:43:52 UTC 2018: Setting lastTestMethodIndex: 40684
+Tue May 15 17:43:52 UTC 2018: Starting linking
+Tue May 15 17:43:52 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.runner.BaseTestRunnerTest
+Tue May 15 17:43:53 UTC 2018: Found element on the queue
+Tue May 15 17:43:53 UTC 2018: Updating status
+Tue May 15 17:43:53 UTC 2018: Working
+Tue May 15 17:43:55 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.runner.TextFeedbackTest
+Tue May 15 17:43:55 UTC 2018: Setting lastTestMethodIndex: 40686
+Tue May 15 17:43:55 UTC 2018: Starting linking
+Tue May 15 17:43:55 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.runner.TextFeedbackTest
+Tue May 15 17:43:56 UTC 2018: Found element on the queue
+Tue May 15 17:43:56 UTC 2018: Updating status
+Tue May 15 17:43:56 UTC 2018: Working
+Tue May 15 17:43:58 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.runner.TextRunnerSingleMethodTest
+Tue May 15 17:43:58 UTC 2018: Setting lastTestMethodIndex: 40688
+Tue May 15 17:43:58 UTC 2018: Starting linking
+Tue May 15 17:43:58 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.runner.TextRunnerSingleMethodTest
+Tue May 15 17:43:59 UTC 2018: Found element on the queue
+Tue May 15 17:43:59 UTC 2018: Updating status
+Tue May 15 17:43:59 UTC 2018: Working
+Tue May 15 17:44:01 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.runner.TextRunnerTest
+Tue May 15 17:44:01 UTC 2018: Setting lastTestMethodIndex: 40690
+Tue May 15 17:44:01 UTC 2018: Starting linking
+Tue May 15 17:44:01 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.runner.TextRunnerTest
+Tue May 15 17:44:02 UTC 2018: Found element on the queue
+Tue May 15 17:44:02 UTC 2018: Updating status
+Tue May 15 17:44:02 UTC 2018: Working
+Tue May 15 17:44:05 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.extensions.ExtensionTest
+Tue May 15 17:44:05 UTC 2018: Setting lastTestMethodIndex: 40692
+Tue May 15 17:44:05 UTC 2018: Starting linking
+Tue May 15 17:44:05 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.extensions.ExtensionTest
+Tue May 15 17:44:05 UTC 2018: Found element on the queue
+Tue May 15 17:44:05 UTC 2018: Updating status
+Tue May 15 17:44:05 UTC 2018: Working
+Tue May 15 17:44:07 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.extensions.ActiveTestTest
+Tue May 15 17:44:07 UTC 2018: Setting lastTestMethodIndex: 40694
+Tue May 15 17:44:07 UTC 2018: Starting linking
+Tue May 15 17:44:07 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.extensions.ActiveTestTest
+Tue May 15 17:44:08 UTC 2018: Found element on the queue
+Tue May 15 17:44:08 UTC 2018: Updating status
+Tue May 15 17:44:08 UTC 2018: Working
+Tue May 15 17:44:11 UTC 2018: Start FlakyTestDetection__jun test class junit.tests.extensions.RepeatedTestTest
+Tue May 15 17:44:11 UTC 2018: Setting lastTestMethodIndex: 40695
+Tue May 15 17:44:11 UTC 2018: Starting linking
+Tue May 15 17:44:11 UTC 2018: Linking done for FlakyTestDetection__jun test class junit.tests.extensions.RepeatedTestTest
+Tue May 15 17:44:11 UTC 2018: Found element on the queue
+Tue May 15 17:44:11 UTC 2018: Updating status
+Tue May 15 17:44:11 UTC 2018: Working
+Tue May 15 17:44:14 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.SuiteMethodTest
+Tue May 15 17:44:14 UTC 2018: Setting lastTestMethodIndex: 40697
+Tue May 15 17:44:14 UTC 2018: Starting linking
+Tue May 15 17:44:14 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.junit3compatibility.SuiteMethodTest
+Tue May 15 17:44:14 UTC 2018: Found element on the queue
+Tue May 15 17:44:14 UTC 2018: Updating status
+Tue May 15 17:44:14 UTC 2018: Working
+Tue May 15 17:44:17 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.listening.ListenerTest
+Tue May 15 17:44:17 UTC 2018: Setting lastTestMethodIndex: 40699
+Tue May 15 17:44:17 UTC 2018: Starting linking
+Tue May 15 17:44:17 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.listening.ListenerTest
+Tue May 15 17:44:17 UTC 2018: Found element on the queue
+Tue May 15 17:44:17 UTC 2018: Updating status
+Tue May 15 17:44:17 UTC 2018: Working
+Tue May 15 17:44:19 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.listening.RunnerTest
+Tue May 15 17:44:19 UTC 2018: Setting lastTestMethodIndex: 40701
+Tue May 15 17:44:19 UTC 2018: Starting linking
+Tue May 15 17:44:19 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.listening.RunnerTest
+Tue May 15 17:44:20 UTC 2018: Found element on the queue
+Tue May 15 17:44:20 UTC 2018: Updating status
+Tue May 15 17:44:20 UTC 2018: Working
+Tue May 15 17:44:22 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.listening.TestListenerTest
+Tue May 15 17:44:22 UTC 2018: Setting lastTestMethodIndex: 40703
+Tue May 15 17:44:22 UTC 2018: Starting linking
+Tue May 15 17:44:22 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.listening.TestListenerTest
+Tue May 15 17:44:23 UTC 2018: Found element on the queue
+Tue May 15 17:44:23 UTC 2018: Updating status
+Tue May 15 17:44:23 UTC 2018: Working
+Tue May 15 17:44:25 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.listening.TextListenerTest
+Tue May 15 17:44:25 UTC 2018: Setting lastTestMethodIndex: 40705
+Tue May 15 17:44:25 UTC 2018: Starting linking
+Tue May 15 17:44:25 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.listening.TextListenerTest
+Tue May 15 17:44:26 UTC 2018: Found element on the queue
+Tue May 15 17:44:26 UTC 2018: Updating status
+Tue May 15 17:44:26 UTC 2018: Working
+Tue May 15 17:44:28 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.listening.UserStopTest
+Tue May 15 17:44:28 UTC 2018: Setting lastTestMethodIndex: 40707
+Tue May 15 17:44:28 UTC 2018: Starting linking
+Tue May 15 17:44:28 UTC 2018: Code found org.junit.internal.runners.ErrorReportingRunner-run with org.junit.tests.listening.UserStopTest-stopClassRunner
+Tue May 15 17:44:28 UTC 2018: No link for: org.junit.tests.listening.UserStopTest-userStop
+Tue May 15 17:44:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:44:29 UTC 2018: No link for: org.junit.tests.listening.UserStopTest-foo
+Tue May 15 17:44:29 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.listening.UserStopTest
+Tue May 15 17:44:29 UTC 2018: Found element on the queue
+Tue May 15 17:44:29 UTC 2018: Updating status
+Tue May 15 17:44:29 UTC 2018: Working
+Tue May 15 17:44:32 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.manipulation.FilterableTest
+Tue May 15 17:44:32 UTC 2018: Setting lastTestMethodIndex: 40709
+Tue May 15 17:44:32 UTC 2018: Starting linking
+Tue May 15 17:44:32 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.manipulation.FilterableTest
+Tue May 15 17:44:33 UTC 2018: Found element on the queue
+Tue May 15 17:44:33 UTC 2018: Updating status
+Tue May 15 17:44:33 UTC 2018: Working
+Tue May 15 17:44:35 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.manipulation.FilterTest
+Tue May 15 17:44:35 UTC 2018: Setting lastTestMethodIndex: 40711
+Tue May 15 17:44:35 UTC 2018: Starting linking
+Tue May 15 17:44:35 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.manipulation.FilterTest
+Tue May 15 17:44:36 UTC 2018: Found element on the queue
+Tue May 15 17:44:36 UTC 2018: Updating status
+Tue May 15 17:44:36 UTC 2018: Working
+Tue May 15 17:44:38 UTC 2018: Start FlakyTestDetection__jun test class org.junit.tests.manipulation.SingleMethodTest
+Tue May 15 17:44:39 UTC 2018: Setting lastTestMethodIndex: 40712
+Tue May 15 17:44:39 UTC 2018: Starting linking
+Tue May 15 17:44:39 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.tests.manipulation.SingleMethodTest
+Tue May 15 17:44:39 UTC 2018: Found element on the queue
+Tue May 15 17:44:39 UTC 2018: Updating status
+Tue May 15 17:44:39 UTC 2018: Working
+Tue May 15 17:44:42 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.BlockJUnit4ClassRunnerOverrideTest
+Tue May 15 17:44:42 UTC 2018: Setting lastTestMethodIndex: 40714
+Tue May 15 17:44:42 UTC 2018: Starting linking
+Tue May 15 17:44:42 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.BlockJUnit4ClassRunnerOverrideTest
+Tue May 15 17:44:43 UTC 2018: Found element on the queue
+Tue May 15 17:44:43 UTC 2018: Updating status
+Tue May 15 17:44:43 UTC 2018: Working
+Tue May 15 17:44:45 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.ClassRulesTest
+Tue May 15 17:44:45 UTC 2018: Setting lastTestMethodIndex: 40716
+Tue May 15 17:44:45 UTC 2018: Starting linking
+Tue May 15 17:44:45 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.ClassRulesTest
+Tue May 15 17:44:46 UTC 2018: Found element on the queue
+Tue May 15 17:44:46 UTC 2018: Updating status
+Tue May 15 17:44:46 UTC 2018: Working
+Tue May 15 17:44:48 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.DisableOnDebugTest
+Tue May 15 17:44:48 UTC 2018: Setting lastTestMethodIndex: 40718
+Tue May 15 17:44:48 UTC 2018: Starting linking
+Tue May 15 17:44:48 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.DisableOnDebugTest
+Tue May 15 17:44:49 UTC 2018: Found element on the queue
+Tue May 15 17:44:49 UTC 2018: Updating status
+Tue May 15 17:44:49 UTC 2018: Working
+Tue May 15 17:44:51 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.ExpectedExceptionTest
+Tue May 15 17:44:51 UTC 2018: Setting lastTestMethodIndex: 40719
+Tue May 15 17:44:51 UTC 2018: Starting linking
+Tue May 15 17:44:51 UTC 2018: Code found org.junit.runner.JUnitCore-run with org.junit.rules.ExpectedExceptionTest-runTestAndVerifyResult
+Tue May 15 17:44:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:44:52 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwsNullPointerExceptionWithMessage
+Tue May 15 17:44:52 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-doesntThrowNullPointerException
+Tue May 15 17:44:52 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwExceptionWithMatchingCause
+Tue May 15 17:44:52 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwsNullPointerException
+Tue May 15 17:44:52 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwsMore
+Tue May 15 17:44:52 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-fails
+Tue May 15 17:44:53 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-failedAssumption
+Tue May 15 17:44:53 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-doesntThrowAnything
+Tue May 15 17:44:53 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwWithCause
+Tue May 15 17:44:53 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwsNothing
+Tue May 15 17:44:53 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwExpectedNullCause
+Tue May 15 17:44:53 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-noThrow
+Tue May 15 17:44:53 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.ExpectedExceptionTest
+Tue May 15 17:44:54 UTC 2018: Found element on the queue
+Tue May 15 17:44:54 UTC 2018: Updating status
+Tue May 15 17:44:54 UTC 2018: Working
+Tue May 15 17:44:57 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.ExternalResourceRuleTest
+Tue May 15 17:44:57 UTC 2018: Setting lastTestMethodIndex: 40722
+Tue May 15 17:44:57 UTC 2018: Starting linking
+Tue May 15 17:44:57 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.ExternalResourceRuleTest
+Tue May 15 17:44:57 UTC 2018: Found element on the queue
+Tue May 15 17:44:57 UTC 2018: Updating status
+Tue May 15 17:44:57 UTC 2018: Working
+Tue May 15 17:45:00 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.MethodRulesTest
+Tue May 15 17:45:00 UTC 2018: Setting lastTestMethodIndex: 40724
+Tue May 15 17:45:00 UTC 2018: Starting linking
+Tue May 15 17:45:00 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.MethodRulesTest
+Tue May 15 17:45:00 UTC 2018: Found element on the queue
+Tue May 15 17:45:00 UTC 2018: Updating status
+Tue May 15 17:45:00 UTC 2018: Working
+Tue May 15 17:45:02 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.RuleChainTest
+Tue May 15 17:45:03 UTC 2018: Setting lastTestMethodIndex: 40726
+Tue May 15 17:45:03 UTC 2018: Starting linking
+Tue May 15 17:45:03 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.RuleChainTest
+Tue May 15 17:45:03 UTC 2018: Found element on the queue
+Tue May 15 17:45:03 UTC 2018: Updating status
+Tue May 15 17:45:03 UTC 2018: Working
+Tue May 15 17:45:06 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.RuleMemberValidatorTest
+Tue May 15 17:45:06 UTC 2018: Setting lastTestMethodIndex: 40728
+Tue May 15 17:45:06 UTC 2018: Starting linking
+Tue May 15 17:45:06 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptStaticTestRuleThatIsAlsoClassRule
+Tue May 15 17:45:06 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleMethodReturnsAnArbitraryObject
+Tue May 15 17:45:06 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-methodRejectNonStaticClassRule
+Tue May 15 17:45:06 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectStaticMethodRule
+Tue May 15 17:45:06 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptMethodRule
+Tue May 15 17:45:07 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleInNonPublicClass
+Tue May 15 17:45:07 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectStaticTestRule
+Tue May 15 17:45:07 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptNonStaticTestRule
+Tue May 15 17:45:07 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-methodAcceptMethodRuleMethod
+Tue May 15 17:45:07 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectProtectedClassRule
+Tue May 15 17:45:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:45:07 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-methodRejectArbitraryObjectWithRuleAnnotation
+Tue May 15 17:45:07 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptMethodStaticTestRuleThatIsAlsoClassRule
+Tue May 15 17:45:08 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectArbitraryObjectWithRuleAnnotation
+Tue May 15 17:45:08 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleIsAnArbitraryObject
+Tue May 15 17:45:08 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-methodRejectProtectedClassRule
+Tue May 15 17:45:08 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectNonStaticClassRule
+Tue May 15 17:45:08 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleThatIsImplemetationOfMethodRule
+Tue May 15 17:45:08 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleThatReturnsImplementationOfMethodRule
+Tue May 15 17:45:09 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectMethodStaticTestRule
+Tue May 15 17:45:09 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectMethodStaticMethodRule
+Tue May 15 17:45:09 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptMethodNonStaticTestRule
+Tue May 15 17:45:09 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.RuleMemberValidatorTest
+Tue May 15 17:45:10 UTC 2018: Found element on the queue
+Tue May 15 17:45:10 UTC 2018: Updating status
+Tue May 15 17:45:10 UTC 2018: Working
+Tue May 15 17:45:12 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.StopwatchTest
+Tue May 15 17:45:12 UTC 2018: Setting lastTestMethodIndex: 40730
+Tue May 15 17:45:12 UTC 2018: Starting linking
+Tue May 15 17:45:12 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.StopwatchTest
+Tue May 15 17:45:12 UTC 2018: Found element on the queue
+Tue May 15 17:45:12 UTC 2018: Updating status
+Tue May 15 17:45:12 UTC 2018: Working
+Tue May 15 17:45:15 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.TempFolderRuleTest
+Tue May 15 17:45:15 UTC 2018: Setting lastTestMethodIndex: 40732
+Tue May 15 17:45:15 UTC 2018: Starting linking
+Tue May 15 17:45:15 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.TempFolderRuleTest
+Tue May 15 17:45:15 UTC 2018: Found element on the queue
+Tue May 15 17:45:15 UTC 2018: Updating status
+Tue May 15 17:45:15 UTC 2018: Working
+Tue May 15 17:45:18 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.TemporaryFolderRuleAssuredDeletionTest
+Tue May 15 17:45:18 UTC 2018: Setting lastTestMethodIndex: 40734
+Tue May 15 17:45:18 UTC 2018: Starting linking
+Tue May 15 17:45:18 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.TemporaryFolderRuleAssuredDeletionTest
+Tue May 15 17:45:18 UTC 2018: Found element on the queue
+Tue May 15 17:45:18 UTC 2018: Updating status
+Tue May 15 17:45:18 UTC 2018: Working
+Tue May 15 17:45:21 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.TemporaryFolderUsageTest
+Tue May 15 17:45:21 UTC 2018: Setting lastTestMethodIndex: 40736
+Tue May 15 17:45:21 UTC 2018: Starting linking
+Tue May 15 17:45:21 UTC 2018: No code found org.junit.rules.TemporaryFolder-delete with org.junit.rules.TemporaryFolderUsageTest-deleteRemovesRootFolder
+Tue May 15 17:45:21 UTC 2018: No code found org.junit.rules.TemporaryFolder-getRoot with org.junit.rules.TemporaryFolderUsageTest-getRootShouldThrowIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 17:45:21 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenFolderThrowsIOExceptionIfFolderExists
+Tue May 15 17:45:21 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithPathContainingForwardSlashCreatesDirectories
+Tue May 15 17:45:21 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFile with org.junit.rules.TemporaryFolderUsageTest-newFileThrowsIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 17:45:21 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-newRandomFolderIsCreatedUnderRootFolder
+Tue May 15 17:45:22 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFile with org.junit.rules.TemporaryFolderUsageTest-newFileWithGivenFilenameThrowsIOExceptionIfFileExists
+Tue May 15 17:45:22 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-newNamedFileIsCreatedUnderRootFolder
+Tue May 15 17:45:22 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-newNestedFoldersCreatedUnderRootFolder
+Tue May 15 17:45:22 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenFolderThrowsIOExceptionIfFileExists
+Tue May 15 17:45:22 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenPathThrowsIOExceptionIfFolderExists
+Tue May 15 17:45:22 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithPathsContainingForwardSlashCreatesFullPath
+Tue May 15 17:45:22 UTC 2018: No code found org.junit.rules.TemporaryFolder-delete with org.junit.rules.TemporaryFolderUsageTest-deleteShouldDoNothingIfRootFolderWasNotInitialized
+Tue May 15 17:45:23 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithPathStartingWithFileSeparatorThrowsIOException
+Tue May 15 17:45:23 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenPathThrowsIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 17:45:23 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderThrowsIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 17:45:23 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithPathsContainingFileSeparatorCreatesFullPath
+Tue May 15 17:45:23 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-newRandomFileIsCreatedUnderRootFolder
+Tue May 15 17:45:23 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-createInitializesRootFolder
+Tue May 15 17:45:24 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithPathContainingFileSeparaterCreatesDirectories
+Tue May 15 17:45:24 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenEmptyArrayThrowsIllegalArgumentException
+Tue May 15 17:45:24 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFile with org.junit.rules.TemporaryFolderUsageTest-newFileWithGivenNameThrowsIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 17:45:24 UTC 2018: No link for: org.junit.rules.TemporaryFolderUsageTest-canSetTheBaseFileForATemporaryFolder
+Tue May 15 17:45:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:45:24 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.TemporaryFolderUsageTest
+Tue May 15 17:45:25 UTC 2018: Found element on the queue
+Tue May 15 17:45:25 UTC 2018: Updating status
+Tue May 15 17:45:25 UTC 2018: Working
+Tue May 15 17:45:27 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.TestRuleTest
+Tue May 15 17:45:27 UTC 2018: Setting lastTestMethodIndex: 40739
+Tue May 15 17:45:27 UTC 2018: Starting linking
+Tue May 15 17:45:27 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.TestRuleTest
+Tue May 15 17:45:27 UTC 2018: Found element on the queue
+Tue May 15 17:45:27 UTC 2018: Updating status
+Tue May 15 17:45:27 UTC 2018: Working
+Tue May 15 17:45:30 UTC 2018: Start FlakyTestDetection__jun test class org.junit.rules.TestWatcherTest
+Tue May 15 17:45:30 UTC 2018: Setting lastTestMethodIndex: 40741
+Tue May 15 17:45:30 UTC 2018: Starting linking
+Tue May 15 17:45:30 UTC 2018: Linking done for FlakyTestDetection__jun test class org.junit.rules.TestWatcherTest

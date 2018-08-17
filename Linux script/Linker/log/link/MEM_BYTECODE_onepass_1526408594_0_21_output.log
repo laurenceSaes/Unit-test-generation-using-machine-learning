@@ -1,0 +1,321 @@
+Tue May 15 20:10:15 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 20:10:15 UTC 2018: Starting
+Tue May 15 20:10:16 UTC 2018: Found element on the queue
+Tue May 15 20:10:16 UTC 2018: Updating status
+Tue May 15 20:10:16 UTC 2018: Working
+Tue May 15 20:10:16 UTC 2018: Create project parser
+Tue May 15 21:26:37 UTC 2018: Create slicer
+Tue May 15 21:27:06 UTC 2018: Create call graph
+Tue May 15 22:21:10 UTC 2018: Create point analysis
+Tue May 15 22:21:10 UTC 2018: Create call graph done
+Tue May 15 22:21:10 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.internal.partition.MigrationCorrectnessTest
+Tue May 15 22:21:10 UTC 2018: Setting lastTestMethodIndex: 49007
+Tue May 15 22:21:10 UTC 2018: Starting linking
+Tue May 15 22:21:10 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.internal.partition.MigrationCorrectnessTest
+Tue May 15 22:21:11 UTC 2018: Found element on the queue
+Tue May 15 22:21:11 UTC 2018: Updating status
+Tue May 15 22:21:11 UTC 2018: Working
+Tue May 15 22:21:14 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.internal.partition.DirtyBackupTest
+Tue May 15 22:21:14 UTC 2018: Setting lastTestMethodIndex: 49008
+Tue May 15 22:21:14 UTC 2018: Starting linking
+Tue May 15 22:21:15 UTC 2018: No link for: com.hazelcast.internal.partition.DirtyBackupTest-testPartitionData_withoutAntiEntropy
+Tue May 15 22:21:15 UTC 2018: No link for: com.hazelcast.internal.partition.DirtyBackupTest-testPartitionData_withAntiEntropy
+Tue May 15 22:21:15 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.internal.partition.DirtyBackupTest
+Tue May 15 22:21:16 UTC 2018: Found element on the queue
+Tue May 15 22:21:16 UTC 2018: Updating status
+Tue May 15 22:21:16 UTC 2018: Working
+Tue May 15 22:21:19 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.internal.partition.GracefulShutdownCorrectnessTest
+Tue May 15 22:21:19 UTC 2018: Setting lastTestMethodIndex: 49010
+Tue May 15 22:21:19 UTC 2018: Starting linking
+Tue May 15 22:21:19 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.internal.partition.GracefulShutdownCorrectnessTest
+Tue May 15 22:21:19 UTC 2018: Found element on the queue
+Tue May 15 22:21:19 UTC 2018: Updating status
+Tue May 15 22:21:19 UTC 2018: Working
+Tue May 15 22:21:22 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.internal.partition.AntiEntropyCorrectnessTest
+Tue May 15 22:21:22 UTC 2018: Setting lastTestMethodIndex: 49012
+Tue May 15 22:21:22 UTC 2018: Starting linking
+Tue May 15 22:21:22 UTC 2018: No link for: com.hazelcast.internal.partition.AntiEntropyCorrectnessTest-testPartitionData
+Tue May 15 22:21:23 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.internal.partition.AntiEntropyCorrectnessTest
+Tue May 15 22:21:23 UTC 2018: Found element on the queue
+Tue May 15 22:21:23 UTC 2018: Updating status
+Tue May 15 22:21:23 UTC 2018: Working
+Tue May 15 22:21:26 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.internal.partition.PartitionAssignmentsCorrectnessTest
+Tue May 15 22:21:26 UTC 2018: Setting lastTestMethodIndex: 49014
+Tue May 15 22:21:26 UTC 2018: Starting linking
+Tue May 15 22:21:26 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.internal.partition.PartitionAssignmentsCorrectnessTest
+Tue May 15 22:21:27 UTC 2018: Found element on the queue
+Tue May 15 22:21:27 UTC 2018: Updating status
+Tue May 15 22:21:27 UTC 2018: Working
+Tue May 15 22:21:30 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.internal.cluster.impl.ClusterRollingRestartTest
+Tue May 15 22:21:30 UTC 2018: Setting lastTestMethodIndex: 49016
+Tue May 15 22:21:30 UTC 2018: Starting linking
+Tue May 15 22:21:30 UTC 2018: No link for: com.hazelcast.internal.cluster.impl.ClusterRollingRestartTest-test_rollingRestart
+Tue May 15 22:21:30 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.internal.cluster.impl.ClusterRollingRestartTest
+Tue May 15 22:21:31 UTC 2018: Found element on the queue
+Tue May 15 22:21:31 UTC 2018: Updating status
+Tue May 15 22:21:31 UTC 2018: Working
+Tue May 15 22:21:34 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest
+Tue May 15 22:21:34 UTC 2018: Setting lastTestMethodIndex: 49017
+Tue May 15 22:21:34 UTC 2018: Starting linking
+Tue May 15 22:21:34 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-map_testConflictingDynamicConfig
+Tue May 15 22:21:34 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-map_whenConflictingWithStaticConfig_thenThrowConfigurationException
+Tue May 15 22:21:35 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-map_initialSubmitTest
+Tue May 15 22:21:35 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-map_testNonConflictingDynamicConfigWithTheSameName
+Tue May 15 22:21:35 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-mapConfig_withLiteMemberJoiningLater_isImmediatelyAvailable
+Tue May 15 22:21:36 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-map_initialSubmitTest_withWildcards
+Tue May 15 22:21:36 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-topic_initialSubmitTest
+Tue May 15 22:21:36 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-multimap_initialSubmitTest
+Tue May 15 22:21:37 UTC 2018: No link for: com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest-multimap_withNewMemberJoiningLater
+Tue May 15 22:21:37 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.internal.dynamicconfig.DynamicConfigSmokeTest
+Tue May 15 22:21:38 UTC 2018: Found element on the queue
+Tue May 15 22:21:38 UTC 2018: Updating status
+Tue May 15 22:21:38 UTC 2018: Working
+Tue May 15 22:21:42 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest
+Tue May 15 22:21:42 UTC 2018: Setting lastTestMethodIndex: 49018
+Tue May 15 22:21:42 UTC 2018: Starting linking
+Tue May 15 22:21:42 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-distinctValues with com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest-testDistinctValuesAggregation
+Tue May 15 22:21:42 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-count with com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest-testCountAggregation
+Tue May 15 22:21:43 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest-testCustomPredicateAggregation
+Tue May 15 22:21:43 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest-testKeyPredicateAggregation
+Tue May 15 22:21:43 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest-testKeyPredicateAndExtractionAggregation
+Tue May 15 22:21:44 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest-testPredicateAndExtractionAggregation
+Tue May 15 22:21:44 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest-testPredicateAggregation_customExtraction
+Tue May 15 22:21:45 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest-testPredicateAggregation
+Tue May 15 22:21:45 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MapBaseAggregationTest
+Tue May 15 22:21:46 UTC 2018: Found element on the queue
+Tue May 15 22:21:46 UTC 2018: Updating status
+Tue May 15 22:21:46 UTC 2018: Working
+Tue May 15 22:21:49 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MapAggregationLiteMemberTest
+Tue May 15 22:21:49 UTC 2018: Setting lastTestMethodIndex: 49019
+Tue May 15 22:21:49 UTC 2018: Starting linking
+Tue May 15 22:21:49 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MapAggregationLiteMemberTest-testMaxAggregation
+Tue May 15 22:21:49 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MapAggregationLiteMemberTest-testMaxAggregation_fromLite
+Tue May 15 22:21:50 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MapAggregationLiteMemberTest
+Tue May 15 22:21:51 UTC 2018: Found element on the queue
+Tue May 15 22:21:51 UTC 2018: Updating status
+Tue May 15 22:21:51 UTC 2018: Working
+Tue May 15 22:21:54 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MapCountAggregationPortableTest
+Tue May 15 22:21:54 UTC 2018: Setting lastTestMethodIndex: 49020
+Tue May 15 22:21:54 UTC 2018: Starting linking
+Tue May 15 22:21:54 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-count with com.hazelcast.mapreduce.aggregation.MapCountAggregationPortableTest-testCountAggregationWithPortable
+Tue May 15 22:21:54 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MapCountAggregationPortableTest
+Tue May 15 22:21:55 UTC 2018: Found element on the queue
+Tue May 15 22:21:55 UTC 2018: Updating status
+Tue May 15 22:21:55 UTC 2018: Working
+Tue May 15 22:21:59 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest
+Tue May 15 22:21:59 UTC 2018: Setting lastTestMethodIndex: 49021
+Tue May 15 22:21:59 UTC 2018: Starting linking
+Tue May 15 22:21:59 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-integerMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testIntegerMaxWithExtractor
+Tue May 15 22:22:00 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-integerMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testIntegerMax
+Tue May 15 22:22:00 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-bigDecimalMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testBigDecimalMax
+Tue May 15 22:22:00 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-bigIntegerMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testBigIntegerMaxWithExtractor
+Tue May 15 22:22:01 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-longMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testLongMax
+Tue May 15 22:22:01 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-longMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testLongMaxWithExtractor
+Tue May 15 22:22:01 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-bigDecimalMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testBigDecimalMaxWithExtractor
+Tue May 15 22:22:01 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-bigIntegerMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testBigIntegerMax
+Tue May 15 22:22:02 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-comparableMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testComparableMax
+Tue May 15 22:22:02 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-doubleMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testDoubleMax
+Tue May 15 22:22:02 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-doubleMax with com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest-testDoubleMaxWithExtractor
+Tue May 15 22:22:02 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MultiMapMaxAggregationTest
+Tue May 15 22:22:03 UTC 2018: Found element on the queue
+Tue May 15 22:22:03 UTC 2018: Updating status
+Tue May 15 22:22:03 UTC 2018: Working
+Tue May 15 22:22:06 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest
+Tue May 15 22:22:06 UTC 2018: Setting lastTestMethodIndex: 49022
+Tue May 15 22:22:06 UTC 2018: Starting linking
+Tue May 15 22:22:06 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-integerSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testIntegerSumWithExtractor
+Tue May 15 22:22:07 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-bigDecimalSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testBigDecimalSum
+Tue May 15 22:22:07 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-doubleSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testDoubleSum
+Tue May 15 22:22:07 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-longSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testLongSumWithExtractor
+Tue May 15 22:22:07 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-bigIntegerSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testBigIntegerSum
+Tue May 15 22:22:08 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-bigIntegerSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testBigIntegerSumWithExtractor
+Tue May 15 22:22:08 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-integerSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testIntegerSum
+Tue May 15 22:22:08 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-longSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testLongSum
+Tue May 15 22:22:08 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-bigDecimalSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testBigDecimalSumWithExtractor
+Tue May 15 22:22:09 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-doubleSum with com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest-testDoubleSumWithExtractor
+Tue May 15 22:22:09 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MultiMapSumAggregationTest
+Tue May 15 22:22:10 UTC 2018: Found element on the queue
+Tue May 15 22:22:10 UTC 2018: Updating status
+Tue May 15 22:22:10 UTC 2018: Working
+Tue May 15 22:22:13 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest
+Tue May 15 22:22:13 UTC 2018: Setting lastTestMethodIndex: 49023
+Tue May 15 22:22:13 UTC 2018: Starting linking
+Tue May 15 22:22:13 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-count with com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest-testCountAggregation
+Tue May 15 22:22:13 UTC 2018: Code found com.hazelcast.mapreduce.aggregation.Aggregations-distinctValues with com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest-testDistinctValuesAggregation
+Tue May 15 22:22:14 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest-testCustomPredicateAggregation
+Tue May 15 22:22:14 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest-testKeyPredicateAggregation
+Tue May 15 22:22:14 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest-testPredicateAggregation_customExtraction
+Tue May 15 22:22:15 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest-testPredicateAndExtractionAggregation
+Tue May 15 22:22:15 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest-testPredicateAggregation
+Tue May 15 22:22:15 UTC 2018: No link for: com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest-testKeyPredicateAndExtractionAggregation
+Tue May 15 22:22:16 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.mapreduce.aggregation.MultiMapBaseAggregationTest
+Tue May 15 22:22:16 UTC 2018: Found element on the queue
+Tue May 15 22:22:16 UTC 2018: Updating status
+Tue May 15 22:22:16 UTC 2018: Working
+Tue May 15 22:22:19 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.bounce.BounceMemberRuleStalenessTest
+Tue May 15 22:22:19 UTC 2018: Setting lastTestMethodIndex: 49024
+Tue May 15 22:22:19 UTC 2018: Starting linking
+Tue May 15 22:22:20 UTC 2018: No link for: com.hazelcast.test.bounce.BounceMemberRuleStalenessTest-stalenessIsDetected
+Tue May 15 22:22:20 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.bounce.BounceMemberRuleStalenessTest
+Tue May 15 22:22:21 UTC 2018: Found element on the queue
+Tue May 15 22:22:21 UTC 2018: Updating status
+Tue May 15 22:22:21 UTC 2018: Working
+Tue May 15 22:22:24 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.mocknetwork.TestNodeRegistryTest
+Tue May 15 22:22:24 UTC 2018: Setting lastTestMethodIndex: 49025
+Tue May 15 22:22:24 UTC 2018: Starting linking
+Tue May 15 22:22:24 UTC 2018: Code found com.hazelcast.test.TestHazelcastInstanceFactory-terminate with com.hazelcast.test.mocknetwork.TestNodeRegistryTest-testTerminate_clearsNodeReferences
+Tue May 15 22:22:24 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.mocknetwork.TestNodeRegistryTest
+Tue May 15 22:22:25 UTC 2018: Found element on the queue
+Tue May 15 22:22:25 UTC 2018: Updating status
+Tue May 15 22:22:25 UTC 2018: Working
+Tue May 15 22:22:28 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.mocknetwork.MockJoinerTest
+Tue May 15 22:22:28 UTC 2018: Setting lastTestMethodIndex: 49026
+Tue May 15 22:22:28 UTC 2018: Starting linking
+Tue May 15 22:22:28 UTC 2018: Code found com.hazelcast.test.TestHazelcastInstanceFactory-newInstances with com.hazelcast.test.mocknetwork.MockJoinerTest-serialJoin_withNewInstances
+Tue May 15 22:22:28 UTC 2018: No link for: com.hazelcast.test.mocknetwork.MockJoinerTest-restart_master
+Tue May 15 22:22:28 UTC 2018: No link for: com.hazelcast.test.mocknetwork.MockJoinerTest-parallelJoin
+Tue May 15 22:22:29 UTC 2018: No link for: com.hazelcast.test.mocknetwork.MockJoinerTest-restart_slave
+Tue May 15 22:22:29 UTC 2018: No link for: com.hazelcast.test.mocknetwork.MockJoinerTest-restart_multipleInParallel
+Tue May 15 22:22:29 UTC 2018: No link for: com.hazelcast.test.mocknetwork.MockJoinerTest-serialJoin
+Tue May 15 22:22:30 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.mocknetwork.MockJoinerTest
+Tue May 15 22:22:31 UTC 2018: Found element on the queue
+Tue May 15 22:22:31 UTC 2018: Updating status
+Tue May 15 22:22:31 UTC 2018: Working
+Tue May 15 22:22:34 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.starter.test.ConfigConstructorTest
+Tue May 15 22:22:34 UTC 2018: Setting lastTestMethodIndex: 49027
+Tue May 15 22:22:34 UTC 2018: Starting linking
+Tue May 15 22:22:34 UTC 2018: No link for: com.hazelcast.test.starter.test.ConfigConstructorTest-configCloneTest
+Tue May 15 22:22:34 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.starter.test.ConfigConstructorTest
+Tue May 15 22:22:35 UTC 2018: Found element on the queue
+Tue May 15 22:22:35 UTC 2018: Updating status
+Tue May 15 22:22:35 UTC 2018: Working
+Tue May 15 22:22:39 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.TestCategoriesTest_withSerialTest
+Tue May 15 22:22:39 UTC 2018: Setting lastTestMethodIndex: 49029
+Tue May 15 22:22:39 UTC 2018: Starting linking
+Tue May 15 22:22:39 UTC 2018: Code found com.hazelcast.test.HazelcastTestSupport-assertThatIsNoParallelTest with com.hazelcast.test.TestCategoriesTest_withSerialTest-testAssertThatIsNoParallelTest
+Tue May 15 22:22:39 UTC 2018: Code found com.hazelcast.test.HazelcastTestSupport-getTestCategories with com.hazelcast.test.TestCategoriesTest_withSerialTest-testGetTestCategories
+Tue May 15 22:22:40 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.TestCategoriesTest_withSerialTest
+Tue May 15 22:22:41 UTC 2018: Found element on the queue
+Tue May 15 22:22:41 UTC 2018: Updating status
+Tue May 15 22:22:41 UTC 2018: Working
+Tue May 15 22:22:45 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.OverridePropertyRuleTest
+Tue May 15 22:22:45 UTC 2018: Setting lastTestMethodIndex: 49031
+Tue May 15 22:22:45 UTC 2018: Starting linking
+Tue May 15 22:22:45 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRuleTest-testNonExistingProperty
+Tue May 15 22:22:45 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRuleTest-testCustomSystemProperty
+Tue May 15 22:22:45 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRuleTest-testHazelcastProperty
+Tue May 15 22:22:46 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRuleTest-testHazelcastPropertyWithGetBoolean
+Tue May 15 22:22:46 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.OverridePropertyRuleTest
+Tue May 15 22:22:47 UTC 2018: Found element on the queue
+Tue May 15 22:22:47 UTC 2018: Updating status
+Tue May 15 22:22:47 UTC 2018: Working
+Tue May 15 22:22:50 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.TestCategoriesTest_withParallelTest
+Tue May 15 22:22:50 UTC 2018: Setting lastTestMethodIndex: 49033
+Tue May 15 22:22:50 UTC 2018: Starting linking
+Tue May 15 22:22:50 UTC 2018: Code found com.hazelcast.test.HazelcastTestSupport-assertThatIsNoParallelTest with com.hazelcast.test.TestCategoriesTest_withParallelTest-testAssertThatIsNoParallelTest
+Tue May 15 22:22:50 UTC 2018: Code found com.hazelcast.test.HazelcastTestSupport-getTestCategories with com.hazelcast.test.TestCategoriesTest_withParallelTest-testGetTestCategories
+Tue May 15 22:22:51 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.TestCategoriesTest_withParallelTest
+Tue May 15 22:22:52 UTC 2018: Found element on the queue
+Tue May 15 22:22:52 UTC 2018: Updating status
+Tue May 15 22:22:52 UTC 2018: Working
+Tue May 15 22:22:55 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.JenkinsDetectorTest
+Tue May 15 22:22:55 UTC 2018: Setting lastTestMethodIndex: 49035
+Tue May 15 22:22:55 UTC 2018: Starting linking
+Tue May 15 22:22:55 UTC 2018: Code found com.hazelcast.test.JenkinsDetector-isOnJenkins with com.hazelcast.test.JenkinsDetectorTest-testIsOnJenkins
+Tue May 15 22:22:56 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.JenkinsDetectorTest
+Tue May 15 22:22:58 UTC 2018: Found element on the queue
+Tue May 15 22:22:58 UTC 2018: Updating status
+Tue May 15 22:22:58 UTC 2018: Working
+Tue May 15 22:23:01 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.SplitBrainAddMemberTest
+Tue May 15 22:23:01 UTC 2018: Setting lastTestMethodIndex: 49037
+Tue May 15 22:23:01 UTC 2018: Starting linking
+Tue May 15 22:23:01 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.SplitBrainAddMemberTest
+Tue May 15 22:23:01 UTC 2018: Found element on the queue
+Tue May 15 22:23:01 UTC 2018: Updating status
+Tue May 15 22:23:01 UTC 2018: Working
+Tue May 15 22:23:06 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.OverridePropertyRulePowerMockTest
+Tue May 15 22:23:06 UTC 2018: Setting lastTestMethodIndex: 49039
+Tue May 15 22:23:06 UTC 2018: Starting linking
+Tue May 15 22:23:06 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRulePowerMockTest-testHazelcastPropertyWithPowerMock
+Tue May 15 22:23:07 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRulePowerMockTest-testCustomSystemProperty
+Tue May 15 22:23:07 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRulePowerMockTest-testCustomPropertyWithPowerMock
+Tue May 15 22:23:07 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRulePowerMockTest-testHazelcastPropertyWithGetBoolean
+Tue May 15 22:23:08 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRulePowerMockTest-testHazelcastProperty
+Tue May 15 22:23:08 UTC 2018: No link for: com.hazelcast.test.OverridePropertyRulePowerMockTest-testNonExistingProperty
+Tue May 15 22:23:09 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.OverridePropertyRulePowerMockTest
+Tue May 15 22:23:10 UTC 2018: Found element on the queue
+Tue May 15 22:23:10 UTC 2018: Updating status
+Tue May 15 22:23:10 UTC 2018: Working
+Tue May 15 22:23:14 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.test.SplitBrainTestSupportTest
+Tue May 15 22:23:14 UTC 2018: Setting lastTestMethodIndex: 49043
+Tue May 15 22:23:14 UTC 2018: Starting linking
+Tue May 15 22:23:14 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.test.SplitBrainTestSupportTest
+Tue May 15 22:23:15 UTC 2018: Found element on the queue
+Tue May 15 22:23:15 UTC 2018: Updating status
+Tue May 15 22:23:15 UTC 2018: Working
+Tue May 15 22:23:18 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongBasicDistributedTest
+Tue May 15 22:23:18 UTC 2018: Setting lastTestMethodIndex: 49045
+Tue May 15 22:23:18 UTC 2018: Starting linking
+Tue May 15 22:23:18 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongBasicDistributedTest
+Tue May 15 22:23:19 UTC 2018: Found element on the queue
+Tue May 15 22:23:19 UTC 2018: Updating status
+Tue May 15 22:23:19 UTC 2018: Working
+Tue May 15 22:23:22 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongBasicLocalTest
+Tue May 15 22:23:23 UTC 2018: Setting lastTestMethodIndex: 49046
+Tue May 15 22:23:23 UTC 2018: Starting linking
+Tue May 15 22:23:23 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongBasicLocalTest
+Tue May 15 22:23:23 UTC 2018: Found element on the queue
+Tue May 15 22:23:23 UTC 2018: Updating status
+Tue May 15 22:23:23 UTC 2018: Working
+Tue May 15 22:23:27 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongSplitBrainTest
+Tue May 15 22:23:27 UTC 2018: Setting lastTestMethodIndex: 49048
+Tue May 15 22:23:27 UTC 2018: Starting linking
+Tue May 15 22:23:27 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongSplitBrainTest
+Tue May 15 22:23:27 UTC 2018: Found element on the queue
+Tue May 15 22:23:27 UTC 2018: Updating status
+Tue May 15 22:23:27 UTC 2018: Working
+Tue May 15 22:23:31 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongAdvancedTest
+Tue May 15 22:23:31 UTC 2018: Setting lastTestMethodIndex: 49050
+Tue May 15 22:23:31 UTC 2018: Starting linking
+Tue May 15 22:23:32 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongAdvancedTest-testAtomicLongSpawnNodeInParallel
+Tue May 15 22:23:32 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongAdvancedTest-testAtomicLongFailure
+Tue May 15 22:23:32 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongAdvancedTest-testMultipleThreadAtomicLong
+Tue May 15 22:23:33 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongAdvancedTest
+Tue May 15 22:23:34 UTC 2018: Found element on the queue
+Tue May 15 22:23:34 UTC 2018: Updating status
+Tue May 15 22:23:34 UTC 2018: Working
+Tue May 15 22:23:38 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest
+Tue May 15 22:23:38 UTC 2018: Setting lastTestMethodIndex: 49053
+Tue May 15 22:23:38 UTC 2018: Starting linking
+Tue May 15 22:23:38 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testSet
+Tue May 15 22:23:38 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testAlterAndGet
+Tue May 15 22:23:39 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testCompareAndSet
+Tue May 15 22:23:39 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testGetAndAlter
+Tue May 15 22:23:40 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testIncrementAndGet
+Tue May 15 22:23:40 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testDecrementAndGet
+Tue May 15 22:23:41 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testAlter
+Tue May 15 22:23:41 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testAddAndGet
+Tue May 15 22:23:42 UTC 2018: No link for: com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest-testGetAndAdd
+Tue May 15 22:23:42 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.concurrent.atomiclong.AtomicLongBackupTest
+Tue May 15 22:23:43 UTC 2018: Found element on the queue
+Tue May 15 22:23:43 UTC 2018: Updating status
+Tue May 15 22:23:43 UTC 2018: Working
+Tue May 15 22:23:48 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.concurrent.lock.ObjectNamespaceSerializationHelperTest
+Tue May 15 22:23:48 UTC 2018: Setting lastTestMethodIndex: 49057
+Tue May 15 22:23:48 UTC 2018: Starting linking
+Tue May 15 22:23:48 UTC 2018: No link for: com.hazelcast.concurrent.lock.ObjectNamespaceSerializationHelperTest-readNamespaceCompatibly
+Tue May 15 22:23:48 UTC 2018: No link for: com.hazelcast.concurrent.lock.ObjectNamespaceSerializationHelperTest-writeNamespaceCompatibly
+Tue May 15 22:23:49 UTC 2018: No link for: com.hazelcast.concurrent.lock.ObjectNamespaceSerializationHelperTest-testConstructor
+Tue May 15 22:23:49 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.concurrent.lock.ObjectNamespaceSerializationHelperTest
+Tue May 15 22:23:50 UTC 2018: Found element on the queue
+Tue May 15 22:23:50 UTC 2018: Updating status
+Tue May 15 22:23:50 UTC 2018: Working
+Tue May 15 22:23:53 UTC 2018: Start hazelcast__hazelcas test class com.hazelcast.concurrent.lock.ConditionAdvancedTest
+Tue May 15 22:23:53 UTC 2018: Setting lastTestMethodIndex: 49061
+Tue May 15 22:23:53 UTC 2018: Starting linking
+Tue May 15 22:23:53 UTC 2018: No link for: com.hazelcast.concurrent.lock.ConditionAdvancedTest-testDestroyLock_whenOtherWaitingOnConditionAwait
+Tue May 15 22:23:54 UTC 2018: No link for: com.hazelcast.concurrent.lock.ConditionAdvancedTest-testLockConditionSignalAllShutDownKeyOwner
+Tue May 15 22:23:54 UTC 2018: No link for: com.hazelcast.concurrent.lock.ConditionAdvancedTest-testShutDownNode_whenOtherWaitingOnConditionAwait
+Tue May 15 22:23:54 UTC 2018: No link for: com.hazelcast.concurrent.lock.ConditionAdvancedTest-testKeyOwnerDiesOnCondition
+Tue May 15 22:23:55 UTC 2018: No link for: com.hazelcast.concurrent.lock.ConditionAdvancedTest-testInterruptionDuringWaiting
+Tue May 15 22:23:56 UTC 2018: Linking done for hazelcast__hazelcas test class com.hazelcast.concurrent.lock.ConditionAdvancedTest

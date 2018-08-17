@@ -1,0 +1,331 @@
+Tue May 15 16:28:51 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 16:28:51 UTC 2018: Starting
+Tue May 15 16:28:51 UTC 2018: Found element on the queue
+Tue May 15 16:28:51 UTC 2018: Updating status
+Tue May 15 16:28:51 UTC 2018: Working
+Tue May 15 16:28:51 UTC 2018: Create project parser
+Tue May 15 16:29:07 UTC 2018: Create slicer
+Tue May 15 16:29:11 UTC 2018: Create call graph
+Tue May 15 16:29:14 UTC 2018: Create point analysis
+Tue May 15 16:29:14 UTC 2018: Create call graph done
+Tue May 15 16:29:14 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.ActiveMQMessageAuditNotSyncTest
+Tue May 15 16:29:14 UTC 2018: Setting lastTestMethodIndex: 38335
+Tue May 15 16:29:14 UTC 2018: Starting linking
+Tue May 15 16:29:14 UTC 2018: No link for: org.apache.activemq.ActiveMQMessageAuditNotSyncTest-testAuditDepth
+Tue May 15 16:29:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:14 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.ActiveMQMessageAuditNotSyncTest
+Tue May 15 16:29:14 UTC 2018: Found element on the queue
+Tue May 15 16:29:14 UTC 2018: Updating status
+Tue May 15 16:29:14 UTC 2018: Working
+Tue May 15 16:29:17 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.broker.scheduler.CronParserTest
+Tue May 15 16:29:17 UTC 2018: Setting lastTestMethodIndex: 38336
+Tue May 15 16:29:17 UTC 2018: Starting linking
+Tue May 15 16:29:17 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-validate with org.apache.activemq.broker.scheduler.CronParserTest-testValidate
+Tue May 15 16:29:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:17 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-getNext with org.apache.activemq.broker.scheduler.CronParserTest-testGetNextExact
+Tue May 15 16:29:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:17 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-tokenize with org.apache.activemq.broker.scheduler.CronParserTest-testTokenize
+Tue May 15 16:29:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:17 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-getNext with org.apache.activemq.broker.scheduler.CronParserTest-testGetNextRange
+Tue May 15 16:29:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:17 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-getNext with org.apache.activemq.broker.scheduler.CronParserTest-testGetNextCommaSeparated
+Tue May 15 16:29:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:17 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeMonthVariant
+Tue May 15 16:29:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:17 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeDayOfWeek
+Tue May 15 16:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:18 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeMonth
+Tue May 15 16:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:18 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeDayOfWeekVariant
+Tue May 15 16:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:18 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeHours
+Tue May 15 16:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:18 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeHoursZeroMin
+Tue May 15 16:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:18 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeDays
+Tue May 15 16:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:18 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetStartNextMonth
+Tue May 15 16:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:18 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextStartCurrMonth
+Tue May 15 16:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:18 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeMinutes
+Tue May 15 16:29:19 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.broker.scheduler.CronParserTest
+Tue May 15 16:29:19 UTC 2018: Found element on the queue
+Tue May 15 16:29:19 UTC 2018: Updating status
+Tue May 15 16:29:19 UTC 2018: Working
+Tue May 15 16:29:21 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.state.ConnectionStateTrackerTest
+Tue May 15 16:29:21 UTC 2018: Setting lastTestMethodIndex: 38339
+Tue May 15 16:29:21 UTC 2018: Starting linking
+Tue May 15 16:29:22 UTC 2018: No link for: org.apache.activemq.state.ConnectionStateTrackerTest-testCacheSizeWithMessagePulls
+Tue May 15 16:29:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:22 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.state.ConnectionStateTrackerTest
+Tue May 15 16:29:22 UTC 2018: Found element on the queue
+Tue May 15 16:29:22 UTC 2018: Updating status
+Tue May 15 16:29:22 UTC 2018: Working
+Tue May 15 16:29:25 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.thread.PooledTaskRunnerTest
+Tue May 15 16:29:25 UTC 2018: Setting lastTestMethodIndex: 38341
+Tue May 15 16:29:25 UTC 2018: Starting linking
+Tue May 15 16:29:25 UTC 2018: No link for: org.apache.activemq.thread.PooledTaskRunnerTest-testWakeupResultsInThreadSafeCalls
+Tue May 15 16:29:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:25 UTC 2018: No link for: org.apache.activemq.thread.PooledTaskRunnerTest-testNormalBehavior
+Tue May 15 16:29:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:25 UTC 2018: No link for: org.apache.activemq.thread.PooledTaskRunnerTest-testShutsDownAfterRunnerFailure
+Tue May 15 16:29:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:25 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.thread.PooledTaskRunnerTest
+Tue May 15 16:29:25 UTC 2018: Found element on the queue
+Tue May 15 16:29:25 UTC 2018: Updating status
+Tue May 15 16:29:25 UTC 2018: Working
+Tue May 15 16:29:28 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.thread.TaskRunnerTest
+Tue May 15 16:29:28 UTC 2018: Setting lastTestMethodIndex: 38343
+Tue May 15 16:29:28 UTC 2018: Starting linking
+Tue May 15 16:29:28 UTC 2018: No link for: org.apache.activemq.thread.TaskRunnerTest-testWakeupPooled
+Tue May 15 16:29:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:28 UTC 2018: No link for: org.apache.activemq.thread.TaskRunnerTest-testWakeupDedicated
+Tue May 15 16:29:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:28 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.thread.TaskRunnerTest
+Tue May 15 16:29:29 UTC 2018: Found element on the queue
+Tue May 15 16:29:29 UTC 2018: Updating status
+Tue May 15 16:29:29 UTC 2018: Working
+Tue May 15 16:29:31 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.usage.MemoryUsageTest
+Tue May 15 16:29:31 UTC 2018: Setting lastTestMethodIndex: 38344
+Tue May 15 16:29:31 UTC 2018: Starting linking
+Tue May 15 16:29:31 UTC 2018: Code found org.apache.activemq.usage.MemoryUsage-addUsageListener with org.apache.activemq.usage.MemoryUsageTest-testAddUsageListenerStartsThread
+Tue May 15 16:29:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:31 UTC 2018: No link for: org.apache.activemq.usage.MemoryUsageTest-testPercentOfJvmHeap
+Tue May 15 16:29:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:31 UTC 2018: No link for: org.apache.activemq.usage.MemoryUsageTest-testPercentUsageNeedsNoThread
+Tue May 15 16:29:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:31 UTC 2018: No link for: org.apache.activemq.usage.MemoryUsageTest-testParentPortion
+Tue May 15 16:29:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:32 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.usage.MemoryUsageTest
+Tue May 15 16:29:32 UTC 2018: Found element on the queue
+Tue May 15 16:29:32 UTC 2018: Updating status
+Tue May 15 16:29:32 UTC 2018: Working
+Tue May 15 16:29:35 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.BitArrayBinTest
+Tue May 15 16:29:35 UTC 2018: Setting lastTestMethodIndex: 38346
+Tue May 15 16:29:35 UTC 2018: Starting linking
+Tue May 15 16:29:35 UTC 2018: No link for: org.apache.activemq.util.BitArrayBinTest-testSetAroundLongSizeMultiplier
+Tue May 15 16:29:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:35 UTC 2018: No link for: org.apache.activemq.util.BitArrayBinTest-testLargeGapInData
+Tue May 15 16:29:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:35 UTC 2018: No link for: org.apache.activemq.util.BitArrayBinTest-testSetAroundWindow
+Tue May 15 16:29:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:35 UTC 2018: No link for: org.apache.activemq.util.BitArrayBinTest-testSetUnsetAroundWindow
+Tue May 15 16:29:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:35 UTC 2018: No link for: org.apache.activemq.util.BitArrayBinTest-testLargeNumber
+Tue May 15 16:29:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:35 UTC 2018: No link for: org.apache.activemq.util.BitArrayBinTest-testLastSeq
+Tue May 15 16:29:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:35 UTC 2018: No link for: org.apache.activemq.util.BitArrayBinTest-testSetHiLo
+Tue May 15 16:29:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:35 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.BitArrayBinTest
+Tue May 15 16:29:36 UTC 2018: Found element on the queue
+Tue May 15 16:29:36 UTC 2018: Updating status
+Tue May 15 16:29:36 UTC 2018: Working
+Tue May 15 16:29:38 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.DataByteArrayInputStreamTest
+Tue May 15 16:29:39 UTC 2018: Setting lastTestMethodIndex: 38348
+Tue May 15 16:29:39 UTC 2018: Starting linking
+Tue May 15 16:29:39 UTC 2018: No link for: org.apache.activemq.util.DataByteArrayInputStreamTest-testNonAscii
+Tue May 15 16:29:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:39 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.DataByteArrayInputStreamTest
+Tue May 15 16:29:39 UTC 2018: Found element on the queue
+Tue May 15 16:29:39 UTC 2018: Updating status
+Tue May 15 16:29:39 UTC 2018: Working
+Tue May 15 16:29:42 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.DataByteArrayOutputStreamTest
+Tue May 15 16:29:42 UTC 2018: Setting lastTestMethodIndex: 38350
+Tue May 15 16:29:42 UTC 2018: Starting linking
+Tue May 15 16:29:42 UTC 2018: No link for: org.apache.activemq.util.DataByteArrayOutputStreamTest-testResize
+Tue May 15 16:29:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:29:42 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.DataByteArrayOutputStreamTest
+Tue May 15 16:29:42 UTC 2018: Found element on the queue
+Tue May 15 16:29:42 UTC 2018: Updating status
+Tue May 15 16:29:42 UTC 2018: Working
+Tue May 15 16:29:45 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.IdGeneratorTest
+Tue May 15 16:29:45 UTC 2018: Setting lastTestMethodIndex: 38352
+Tue May 15 16:29:45 UTC 2018: Starting linking
+Tue May 15 16:29:45 UTC 2018: Code found org.apache.activemq.util.IdGenerator-sanitizeHostName with org.apache.activemq.util.IdGeneratorTest-testSanitizeHostName
+Tue May 15 16:29:45 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:45 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.IdGeneratorTest
+Tue May 15 16:29:45 UTC 2018: Found element on the queue
+Tue May 15 16:29:45 UTC 2018: Updating status
+Tue May 15 16:29:45 UTC 2018: Working
+Tue May 15 16:29:48 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.IntrospectionSupportTest
+Tue May 15 16:29:48 UTC 2018: Setting lastTestMethodIndex: 38354
+Tue May 15 16:29:48 UTC 2018: Starting linking
+Tue May 15 16:29:48 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.IntrospectionSupportTest
+Tue May 15 16:29:49 UTC 2018: Found element on the queue
+Tue May 15 16:29:49 UTC 2018: Updating status
+Tue May 15 16:29:49 UTC 2018: Working
+Tue May 15 16:29:51 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.LRUCacheTest
+Tue May 15 16:29:51 UTC 2018: Setting lastTestMethodIndex: 38356
+Tue May 15 16:29:51 UTC 2018: Starting linking
+Tue May 15 16:29:51 UTC 2018: No code found org.apache.activemq.util.LRUCache-size with org.apache.activemq.util.LRUCacheTest-testResize
+Tue May 15 16:29:51 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.LRUCacheTest
+Tue May 15 16:29:52 UTC 2018: Found element on the queue
+Tue May 15 16:29:52 UTC 2018: Updating status
+Tue May 15 16:29:52 UTC 2018: Working
+Tue May 15 16:29:54 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.MarshallingSupportTest
+Tue May 15 16:29:54 UTC 2018: Setting lastTestMethodIndex: 38357
+Tue May 15 16:29:54 UTC 2018: Starting linking
+Tue May 15 16:29:54 UTC 2018: Code found org.apache.activemq.util.MarshallingSupport-propertiesToString with org.apache.activemq.util.MarshallingSupportTest-testPropertiesToString
+Tue May 15 16:29:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:54 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.MarshallingSupportTest
+Tue May 15 16:29:55 UTC 2018: Found element on the queue
+Tue May 15 16:29:55 UTC 2018: Updating status
+Tue May 15 16:29:55 UTC 2018: Working
+Tue May 15 16:29:57 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.StopWatchTest
+Tue May 15 16:29:57 UTC 2018: Setting lastTestMethodIndex: 38359
+Tue May 15 16:29:57 UTC 2018: Starting linking
+Tue May 15 16:29:57 UTC 2018: Code found org.apache.activemq.util.StopWatch-stop with org.apache.activemq.util.StopWatchTest-testStopWatch
+Tue May 15 16:29:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:57 UTC 2018: Code found org.apache.activemq.util.StopWatch-restart with org.apache.activemq.util.StopWatchTest-testStopWatchRestart
+Tue May 15 16:29:58 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:58 UTC 2018: Code found org.apache.activemq.util.StopWatch-stop with org.apache.activemq.util.StopWatchTest-testStopWatchNotStarted
+Tue May 15 16:29:58 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:58 UTC 2018: Code found org.apache.activemq.util.StopWatch-taken with org.apache.activemq.util.StopWatchTest-testStopWatchTaken
+Tue May 15 16:29:58 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:29:58 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.StopWatchTest
+Tue May 15 16:29:58 UTC 2018: Found element on the queue
+Tue May 15 16:29:58 UTC 2018: Updating status
+Tue May 15 16:29:58 UTC 2018: Working
+Tue May 15 16:30:01 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.StringArrayConverterTest
+Tue May 15 16:30:01 UTC 2018: Setting lastTestMethodIndex: 38361
+Tue May 15 16:30:01 UTC 2018: Starting linking
+Tue May 15 16:30:01 UTC 2018: Code found org.apache.activemq.util.StringArrayConverter-convertToStringArray with org.apache.activemq.util.StringArrayConverterTest-testConvertToStringArray
+Tue May 15 16:30:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:30:01 UTC 2018: Code found org.apache.activemq.util.StringArrayConverter-convertToString with org.apache.activemq.util.StringArrayConverterTest-testConvertToString
+Tue May 15 16:30:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:30:01 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.StringArrayConverterTest
+Tue May 15 16:30:01 UTC 2018: Found element on the queue
+Tue May 15 16:30:01 UTC 2018: Updating status
+Tue May 15 16:30:01 UTC 2018: Working
+Tue May 15 16:30:04 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.StringToListOfActiveMQDestinationConverterTest
+Tue May 15 16:30:04 UTC 2018: Setting lastTestMethodIndex: 38363
+Tue May 15 16:30:04 UTC 2018: Starting linking
+Tue May 15 16:30:04 UTC 2018: Code found org.apache.activemq.util.StringToListOfActiveMQDestinationConverter-convertFromActiveMQDestination with org.apache.activemq.util.StringToListOfActiveMQDestinationConverterTest-testConvertFromActiveMQDestination
+Tue May 15 16:30:04 UTC 2018: Code found org.apache.activemq.util.StringToListOfActiveMQDestinationConverter-convertToActiveMQDestination with org.apache.activemq.util.StringToListOfActiveMQDestinationConverterTest-testConvertToActiveMQDestination
+Tue May 15 16:30:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:30:04 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.StringToListOfActiveMQDestinationConverterTest
+Tue May 15 16:30:05 UTC 2018: Found element on the queue
+Tue May 15 16:30:05 UTC 2018: Updating status
+Tue May 15 16:30:05 UTC 2018: Working
+Tue May 15 16:30:07 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.URISupportTest
+Tue May 15 16:30:07 UTC 2018: Setting lastTestMethodIndex: 38365
+Tue May 15 16:30:07 UTC 2018: Starting linking
+Tue May 15 16:30:07 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testCompositeWithComponentParam
+Tue May 15 16:30:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:07 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testParsingURI
+Tue May 15 16:30:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:07 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testCheckParenthesis
+Tue May 15 16:30:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:08 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testIsCompositeURIWithQueryAndSlashes
+Tue May 15 16:30:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:08 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testEmptyCompositeWithParenthesisInParam
+Tue May 15 16:30:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:08 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testParsingParams
+Tue May 15 16:30:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:08 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testIsCompositeURINoQueryNoSlashesNoParentheses
+Tue May 15 16:30:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:08 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testCompositeWithParenthesisInParam
+Tue May 15 16:30:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:08 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testCreateWithQuery
+Tue May 15 16:30:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:08 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testIsCompositeURIWithQueryNoSlashes
+Tue May 15 16:30:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:09 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testCompositeCreateURIWithQuery
+Tue May 15 16:30:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:09 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testSimpleComposite
+Tue May 15 16:30:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:09 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testIsCompositeURINoQueryWithSlashes
+Tue May 15 16:30:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:09 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testEmptyCompositePath
+Tue May 15 16:30:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:09 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testParsingCompositeURI
+Tue May 15 16:30:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:09 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testIsCompositeURINoQueryNoSlashes
+Tue May 15 16:30:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:10 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testCompositePath
+Tue May 15 16:30:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:10 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testComposite
+Tue May 15 16:30:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:10 UTC 2018: No link for: org.apache.activemq.util.URISupportTest-testApplyParameters
+Tue May 15 16:30:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:10 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.URISupportTest
+Tue May 15 16:30:10 UTC 2018: Found element on the queue
+Tue May 15 16:30:10 UTC 2018: Updating status
+Tue May 15 16:30:10 UTC 2018: Working
+Tue May 15 16:30:13 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.XASupportTest
+Tue May 15 16:30:13 UTC 2018: Setting lastTestMethodIndex: 38367
+Tue May 15 16:30:13 UTC 2018: Starting linking
+Tue May 15 16:30:13 UTC 2018: No link for: org.apache.activemq.util.XASupportTest-test
+Tue May 15 16:30:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:13 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.util.XASupportTest
+Tue May 15 16:30:13 UTC 2018: Found element on the queue
+Tue May 15 16:30:13 UTC 2018: Updating status
+Tue May 15 16:30:13 UTC 2018: Working
+Tue May 15 16:30:13 UTC 2018: Create project parser
+Tue May 15 16:30:16 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.UserPrincipalTest
+Tue May 15 16:30:16 UTC 2018: Setting lastTestMethodIndex: 38368
+Tue May 15 16:30:16 UTC 2018: Starting linking
+Tue May 15 16:30:16 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.UserPrincipalTest
+Tue May 15 16:30:17 UTC 2018: Found element on the queue
+Tue May 15 16:30:17 UTC 2018: Updating status
+Tue May 15 16:30:17 UTC 2018: Working
+Tue May 15 16:30:19 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.GroupPrincipalTest
+Tue May 15 16:30:19 UTC 2018: Setting lastTestMethodIndex: 38370
+Tue May 15 16:30:19 UTC 2018: Starting linking
+Tue May 15 16:30:19 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.GroupPrincipalTest
+Tue May 15 16:30:19 UTC 2018: Found element on the queue
+Tue May 15 16:30:19 UTC 2018: Updating status
+Tue May 15 16:30:19 UTC 2018: Working
+Tue May 15 16:30:22 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.LDAPModuleRoleExpansionTest
+Tue May 15 16:30:22 UTC 2018: Setting lastTestMethodIndex: 38372
+Tue May 15 16:30:22 UTC 2018: Starting linking
+Tue May 15 16:30:22 UTC 2018: No link for: org.apache.activemq.jaas.LDAPModuleRoleExpansionTest-testRunning
+Tue May 15 16:30:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:22 UTC 2018: No link for: org.apache.activemq.jaas.LDAPModuleRoleExpansionTest-testRoleExpansion
+Tue May 15 16:30:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:22 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.LDAPModuleRoleExpansionTest
+Tue May 15 16:30:23 UTC 2018: Found element on the queue
+Tue May 15 16:30:23 UTC 2018: Updating status
+Tue May 15 16:30:23 UTC 2018: Working
+Tue May 15 16:30:25 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.CertificateLoginModuleTest
+Tue May 15 16:30:25 UTC 2018: Setting lastTestMethodIndex: 38374
+Tue May 15 16:30:25 UTC 2018: Starting linking
+Tue May 15 16:30:25 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.CertificateLoginModuleTest
+Tue May 15 16:30:25 UTC 2018: Found element on the queue
+Tue May 15 16:30:25 UTC 2018: Updating status
+Tue May 15 16:30:25 UTC 2018: Working
+Tue May 15 16:30:28 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.GuestLoginModuleTest
+Tue May 15 16:30:28 UTC 2018: Setting lastTestMethodIndex: 38376
+Tue May 15 16:30:28 UTC 2018: Starting linking
+Tue May 15 16:30:28 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.GuestLoginModuleTest
+Tue May 15 16:30:28 UTC 2018: Found element on the queue
+Tue May 15 16:30:28 UTC 2018: Updating status
+Tue May 15 16:30:28 UTC 2018: Working
+Tue May 15 16:30:31 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.LDAPLoginModuleTest
+Tue May 15 16:30:31 UTC 2018: Setting lastTestMethodIndex: 38377
+Tue May 15 16:30:31 UTC 2018: Starting linking
+Tue May 15 16:30:31 UTC 2018: No link for: org.apache.activemq.jaas.LDAPLoginModuleTest-testRunning
+Tue May 15 16:30:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:31 UTC 2018: No link for: org.apache.activemq.jaas.LDAPLoginModuleTest-testEncryptedLogin
+Tue May 15 16:30:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:31 UTC 2018: No link for: org.apache.activemq.jaas.LDAPLoginModuleTest-testUnauthenticated
+Tue May 15 16:30:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:31 UTC 2018: No link for: org.apache.activemq.jaas.LDAPLoginModuleTest-testLogin
+Tue May 15 16:30:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 16:30:31 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.LDAPLoginModuleTest
+Tue May 15 16:30:32 UTC 2018: Found element on the queue
+Tue May 15 16:30:32 UTC 2018: Updating status
+Tue May 15 16:30:32 UTC 2018: Working
+Tue May 15 16:30:34 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.PropertiesLoginModuleRaceConditionTest
+Tue May 15 16:30:34 UTC 2018: Setting lastTestMethodIndex: 38379
+Tue May 15 16:30:34 UTC 2018: Starting linking
+Tue May 15 16:30:34 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.PropertiesLoginModuleRaceConditionTest
+Tue May 15 16:30:35 UTC 2018: Found element on the queue
+Tue May 15 16:30:35 UTC 2018: Updating status
+Tue May 15 16:30:35 UTC 2018: Working
+Tue May 15 16:30:37 UTC 2018: Start EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.PropertiesLoginModuleTest
+Tue May 15 16:30:37 UTC 2018: Setting lastTestMethodIndex: 38381
+Tue May 15 16:30:37 UTC 2018: Starting linking
+Tue May 15 16:30:37 UTC 2018: Linking done for EriclLee__ActiveMQ-On-Azure test class org.apache.activemq.jaas.PropertiesLoginModuleTest

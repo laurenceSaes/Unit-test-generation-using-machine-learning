@@ -1,0 +1,277 @@
+Tue May 15 16:30:39 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 16:30:40 UTC 2018: Starting
+Tue May 15 16:30:40 UTC 2018: Found element on the queue
+Tue May 15 16:30:40 UTC 2018: Updating status
+Tue May 15 16:30:40 UTC 2018: Working
+Tue May 15 16:30:40 UTC 2018: Create project parser
+Tue May 15 16:30:53 UTC 2018: Create slicer
+Tue May 15 16:30:55 UTC 2018: Create call graph
+Tue May 15 16:30:59 UTC 2018: Create point analysis
+Tue May 15 16:30:59 UTC 2018: Create call graph done
+Tue May 15 16:30:59 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.filters.SecurityWrapperRequestTest
+Tue May 15 16:30:59 UTC 2018: Setting lastTestMethodIndex: 38385
+Tue May 15 16:30:59 UTC 2018: Starting linking
+Tue May 15 16:30:59 UTC 2018: Code found org.owasp.esapi.filters.SecurityWrapperRequest-getQueryString with org.owasp.esapi.filters.SecurityWrapperRequestTest-testGetQueryStringCanonicalizeException
+Tue May 15 16:30:59 UTC 2018: Code found org.owasp.esapi.filters.SecurityWrapperRequest-getQueryString with org.owasp.esapi.filters.SecurityWrapperRequestTest-testGetQueryString
+Tue May 15 16:30:59 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.filters.SecurityWrapperRequestTest
+Tue May 15 16:31:00 UTC 2018: Found element on the queue
+Tue May 15 16:31:00 UTC 2018: Updating status
+Tue May 15 16:31:00 UTC 2018: Working
+Tue May 15 16:31:02 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.crypto.CryptoHelperTest
+Tue May 15 16:31:02 UTC 2018: Setting lastTestMethodIndex: 38386
+Tue May 15 16:31:02 UTC 2018: Starting linking
+Tue May 15 16:31:02 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-copyByteArray with org.owasp.esapi.crypto.CryptoHelperTest-testCopyByteArrayDestNullPointerException
+Tue May 15 16:31:02 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-copyByteArray with org.owasp.esapi.crypto.CryptoHelperTest-testCopyByteArrayIndexOutOfBoundsException
+Tue May 15 16:31:02 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-generateSecretKey with org.owasp.esapi.crypto.CryptoHelperTest-testGenerateSecretKeyEncryptionException
+Tue May 15 16:31:03 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-overwrite with org.owasp.esapi.crypto.CryptoHelperTest-testOverwriteByteArrayByte
+Tue May 15 16:31:03 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-generateSecretKey with org.owasp.esapi.crypto.CryptoHelperTest-testGenerateSecretKeySunnyDay
+Tue May 15 16:31:03 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-copyByteArray with org.owasp.esapi.crypto.CryptoHelperTest-testCopyByteArraySrcNullPointerException
+Tue May 15 16:31:03 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-arrayCompare with org.owasp.esapi.crypto.CryptoHelperTest-testArrayCompare
+Tue May 15 16:31:03 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-isValidKDFVersion with org.owasp.esapi.crypto.CryptoHelperTest-testIsValidKDFVersion
+Tue May 15 16:31:03 UTC 2018: Code found org.owasp.esapi.crypto.CryptoHelper-copyByteArray with org.owasp.esapi.crypto.CryptoHelperTest-testCopyByteArraySunnyDay
+Tue May 15 16:31:04 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.crypto.CryptoHelperTest
+Tue May 15 16:31:04 UTC 2018: Found element on the queue
+Tue May 15 16:31:04 UTC 2018: Updating status
+Tue May 15 16:31:04 UTC 2018: Working
+Tue May 15 16:31:06 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.crypto.SecurityProviderLoaderTest
+Tue May 15 16:31:06 UTC 2018: Setting lastTestMethodIndex: 38389
+Tue May 15 16:31:06 UTC 2018: Starting linking
+Tue May 15 16:31:06 UTC 2018: Code found org.owasp.esapi.crypto.SecurityProviderLoader-loadESAPIPreferredJCEProvider with org.owasp.esapi.crypto.SecurityProviderLoaderTest-testLoadESAPIPreferredJCEProvider
+Tue May 15 16:31:07 UTC 2018: Code found org.owasp.esapi.crypto.SecurityProviderLoader-insertProviderAt with org.owasp.esapi.crypto.SecurityProviderLoaderTest-testInsertProviderAt
+Tue May 15 16:31:07 UTC 2018: No link for: org.owasp.esapi.crypto.SecurityProviderLoaderTest-testBogusProviderWithFQCN
+Tue May 15 16:31:07 UTC 2018: No link for: org.owasp.esapi.crypto.SecurityProviderLoaderTest-testNoSuchProviderException
+Tue May 15 16:31:07 UTC 2018: No link for: org.owasp.esapi.crypto.SecurityProviderLoaderTest-testWithBouncyCastle
+Tue May 15 16:31:07 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.crypto.SecurityProviderLoaderTest
+Tue May 15 16:31:08 UTC 2018: Found element on the queue
+Tue May 15 16:31:08 UTC 2018: Updating status
+Tue May 15 16:31:08 UTC 2018: Working
+Tue May 15 16:31:10 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.crypto.PlainTextTest
+Tue May 15 16:31:10 UTC 2018: Setting lastTestMethodIndex: 38391
+Tue May 15 16:31:10 UTC 2018: Starting linking
+Tue May 15 16:31:10 UTC 2018: Code found org.owasp.esapi.crypto.PlainText-overwrite with org.owasp.esapi.crypto.PlainTextTest-testOverwrite
+Tue May 15 16:31:10 UTC 2018: No link for: org.owasp.esapi.crypto.PlainTextTest-testNullCase
+Tue May 15 16:31:11 UTC 2018: No link for: org.owasp.esapi.crypto.PlainTextTest-testEmptyString
+Tue May 15 16:31:11 UTC 2018: No link for: org.owasp.esapi.crypto.PlainTextTest-testUnicodeString
+Tue May 15 16:31:11 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.crypto.PlainTextTest
+Tue May 15 16:31:11 UTC 2018: Found element on the queue
+Tue May 15 16:31:11 UTC 2018: Updating status
+Tue May 15 16:31:11 UTC 2018: Working
+Tue May 15 16:31:14 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.crypto.CipherSpecTest
+Tue May 15 16:31:14 UTC 2018: Setting lastTestMethodIndex: 38393
+Tue May 15 16:31:14 UTC 2018: Starting linking
+Tue May 15 16:31:14 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testGetKeySize
+Tue May 15 16:31:14 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testGetCipherMode
+Tue May 15 16:31:14 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testCipherSpecByteArray
+Tue May 15 16:31:14 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testCipherSpec
+Tue May 15 16:31:14 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testSetIV
+Tue May 15 16:31:14 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testCipherSpecStringIntIntByteArray
+Tue May 15 16:31:15 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testCipherSpecCipherInt
+Tue May 15 16:31:15 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testSetBlockSize
+Tue May 15 16:31:15 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testGetBlockSize
+Tue May 15 16:31:15 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testRequiresIV
+Tue May 15 16:31:15 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testSerialization
+Tue May 15 16:31:15 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testGetCipherTransformation
+Tue May 15 16:31:15 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testGetCipherAlgorithm
+Tue May 15 16:31:15 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testSetCipherTransformation
+Tue May 15 16:31:16 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testSetKeySize
+Tue May 15 16:31:16 UTC 2018: No link for: org.owasp.esapi.crypto.CipherSpecTest-testGetPaddingScheme
+Tue May 15 16:31:16 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.crypto.CipherSpecTest
+Tue May 15 16:31:16 UTC 2018: Found element on the queue
+Tue May 15 16:31:16 UTC 2018: Updating status
+Tue May 15 16:31:16 UTC 2018: Working
+Tue May 15 16:31:19 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest
+Tue May 15 16:31:19 UTC 2018: Setting lastTestMethodIndex: 38395
+Tue May 15 16:31:19 UTC 2018: Starting linking
+Tue May 15 16:31:19 UTC 2018: Code found org.owasp.esapi.configuration.XmlEsapiPropertyLoader-getIntProp with org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testGetIntProp
+Tue May 15 16:31:19 UTC 2018: Code found org.owasp.esapi.configuration.XmlEsapiPropertyLoader-getStringProp with org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testGetStringProp
+Tue May 15 16:31:19 UTC 2018: Code found org.owasp.esapi.configuration.XmlEsapiPropertyLoader-getByteArrayProp with org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testGetByteArrayProp
+Tue May 15 16:31:19 UTC 2018: Code found org.owasp.esapi.configuration.XmlEsapiPropertyLoader-priority with org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testPriority
+Tue May 15 16:31:19 UTC 2018: Code found org.owasp.esapi.configuration.XmlEsapiPropertyLoader-getBooleanProp with org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testGetBooleanProp
+Tue May 15 16:31:19 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testGetBooleanNoProperty
+Tue May 15 16:31:20 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testStringPropertyNotFound
+Tue May 15 16:31:20 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testIncorrectIntPropertyType
+Tue May 15 16:31:20 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testInvalidPropertyFile
+Tue May 15 16:31:20 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testGetBooleanYesProperty
+Tue May 15 16:31:20 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testBooleanPropertyNotFound
+Tue May 15 16:31:20 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testByteArrayPropertyNotFound
+Tue May 15 16:31:20 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testLoadersAreEqual
+Tue May 15 16:31:21 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testCompareWithOtherLoaderWithHigherPriority
+Tue May 15 16:31:21 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testPropertiesLoaded
+Tue May 15 16:31:21 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testIntPropertyNotFound
+Tue May 15 16:31:21 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testIncorrectBooleanPropertyType
+Tue May 15 16:31:21 UTC 2018: No link for: org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest-testCompareWithOtherLoaderWithLowerPriority
+Tue May 15 16:31:21 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.configuration.XmlEsapiPropertyLoaderTest
+Tue May 15 16:31:22 UTC 2018: Found element on the queue
+Tue May 15 16:31:22 UTC 2018: Updating status
+Tue May 15 16:31:22 UTC 2018: Working
+Tue May 15 16:31:24 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.util.ByteConversionUtilTest
+Tue May 15 16:31:24 UTC 2018: Setting lastTestMethodIndex: 38398
+Tue May 15 16:31:24 UTC 2018: Starting linking
+Tue May 15 16:31:24 UTC 2018: No link for: org.owasp.esapi.util.ByteConversionUtilTest-testShortConversion
+Tue May 15 16:31:24 UTC 2018: No link for: org.owasp.esapi.util.ByteConversionUtilTest-testIntConversion
+Tue May 15 16:31:24 UTC 2018: No link for: org.owasp.esapi.util.ByteConversionUtilTest-testLongConversion
+Tue May 15 16:31:25 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.util.ByteConversionUtilTest
+Tue May 15 16:31:25 UTC 2018: Found element on the queue
+Tue May 15 16:31:25 UTC 2018: Updating status
+Tue May 15 16:31:25 UTC 2018: Working
+Tue May 15 16:31:27 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.PreparedStringTest
+Tue May 15 16:31:27 UTC 2018: Setting lastTestMethodIndex: 38400
+Tue May 15 16:31:27 UTC 2018: Starting linking
+Tue May 15 16:31:27 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.PreparedStringTest
+Tue May 15 16:31:28 UTC 2018: Found element on the queue
+Tue May 15 16:31:28 UTC 2018: Updating status
+Tue May 15 16:31:28 UTC 2018: Working
+Tue May 15 16:31:30 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestFatal
+Tue May 15 16:31:30 UTC 2018: Setting lastTestMethodIndex: 38401
+Tue May 15 16:31:30 UTC 2018: Starting linking
+Tue May 15 16:31:30 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestFatal
+Tue May 15 16:31:31 UTC 2018: Found element on the queue
+Tue May 15 16:31:31 UTC 2018: Updating status
+Tue May 15 16:31:31 UTC 2018: Working
+Tue May 15 16:31:33 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestInfo
+Tue May 15 16:31:33 UTC 2018: Setting lastTestMethodIndex: 38403
+Tue May 15 16:31:33 UTC 2018: Starting linking
+Tue May 15 16:31:33 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestInfo
+Tue May 15 16:31:34 UTC 2018: Found element on the queue
+Tue May 15 16:31:34 UTC 2018: Updating status
+Tue May 15 16:31:34 UTC 2018: Working
+Tue May 15 16:31:36 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestError
+Tue May 15 16:31:36 UTC 2018: Setting lastTestMethodIndex: 38404
+Tue May 15 16:31:36 UTC 2018: Starting linking
+Tue May 15 16:31:36 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestError
+Tue May 15 16:31:36 UTC 2018: Found element on the queue
+Tue May 15 16:31:36 UTC 2018: Updating status
+Tue May 15 16:31:36 UTC 2018: Working
+Tue May 15 16:31:39 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestTrace
+Tue May 15 16:31:39 UTC 2018: Setting lastTestMethodIndex: 38405
+Tue May 15 16:31:39 UTC 2018: Starting linking
+Tue May 15 16:31:39 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestTrace
+Tue May 15 16:31:39 UTC 2018: Found element on the queue
+Tue May 15 16:31:39 UTC 2018: Updating status
+Tue May 15 16:31:39 UTC 2018: Working
+Tue May 15 16:31:42 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestDebug
+Tue May 15 16:31:42 UTC 2018: Setting lastTestMethodIndex: 38406
+Tue May 15 16:31:42 UTC 2018: Starting linking
+Tue May 15 16:31:42 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestDebug
+Tue May 15 16:31:42 UTC 2018: Found element on the queue
+Tue May 15 16:31:42 UTC 2018: Updating status
+Tue May 15 16:31:42 UTC 2018: Working
+Tue May 15 16:31:45 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.ExtensiveEncoderURITest
+Tue May 15 16:31:45 UTC 2018: Setting lastTestMethodIndex: 38407
+Tue May 15 16:31:45 UTC 2018: Starting linking
+Tue May 15 16:31:45 UTC 2018: No link for: org.owasp.esapi.reference.ExtensiveEncoderURITest-testUrlsFromFile
+Tue May 15 16:31:45 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.ExtensiveEncoderURITest
+Tue May 15 16:31:46 UTC 2018: Found element on the queue
+Tue May 15 16:31:46 UTC 2018: Updating status
+Tue May 15 16:31:46 UTC 2018: Working
+Tue May 15 16:31:48 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestWarning
+Tue May 15 16:31:48 UTC 2018: Setting lastTestMethodIndex: 38409
+Tue May 15 16:31:48 UTC 2018: Starting linking
+Tue May 15 16:31:48 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestWarning
+Tue May 15 16:31:49 UTC 2018: Found element on the queue
+Tue May 15 16:31:49 UTC 2018: Updating status
+Tue May 15 16:31:49 UTC 2018: Working
+Tue May 15 16:31:51 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestUnspecified
+Tue May 15 16:31:51 UTC 2018: Setting lastTestMethodIndex: 38411
+Tue May 15 16:31:51 UTC 2018: Starting linking
+Tue May 15 16:31:51 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.TestUnspecified
+Tue May 15 16:31:52 UTC 2018: Found element on the queue
+Tue May 15 16:31:52 UTC 2018: Updating status
+Tue May 15 16:31:52 UTC 2018: Working
+Tue May 15 16:31:54 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.validation.StringValidationRuleTest
+Tue May 15 16:31:54 UTC 2018: Setting lastTestMethodIndex: 38413
+Tue May 15 16:31:54 UTC 2018: Starting linking
+Tue May 15 16:31:54 UTC 2018: Code found org.owasp.esapi.reference.validation.StringValidationRule-whitelist with org.owasp.esapi.reference.validation.StringValidationRuleTest-testWhitelist
+Tue May 15 16:31:54 UTC 2018: No link for: org.owasp.esapi.reference.validation.StringValidationRuleTest-testAllowNull
+Tue May 15 16:31:54 UTC 2018: No link for: org.owasp.esapi.reference.validation.StringValidationRuleTest-testBlacklistPattern_Invalid
+Tue May 15 16:31:54 UTC 2018: No link for: org.owasp.esapi.reference.validation.StringValidationRuleTest-testCheckLengths
+Tue May 15 16:31:55 UTC 2018: No link for: org.owasp.esapi.reference.validation.StringValidationRuleTest-testWhitelistPattern
+Tue May 15 16:31:55 UTC 2018: No link for: org.owasp.esapi.reference.validation.StringValidationRuleTest-testWhitelistPattern_Invalid
+Tue May 15 16:31:55 UTC 2018: No link for: org.owasp.esapi.reference.validation.StringValidationRuleTest-testBlacklistPattern
+Tue May 15 16:31:55 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.validation.StringValidationRuleTest
+Tue May 15 16:31:55 UTC 2018: Found element on the queue
+Tue May 15 16:31:55 UTC 2018: Updating status
+Tue May 15 16:31:56 UTC 2018: Working
+Tue May 15 16:31:58 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.validation.BaseValidationRuleTest
+Tue May 15 16:31:58 UTC 2018: Setting lastTestMethodIndex: 38415
+Tue May 15 16:31:58 UTC 2018: Starting linking
+Tue May 15 16:31:58 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.reference.validation.BaseValidationRuleTest
+Tue May 15 16:31:59 UTC 2018: Found element on the queue
+Tue May 15 16:31:59 UTC 2018: Updating status
+Tue May 15 16:31:59 UTC 2018: Working
+Tue May 15 16:32:01 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.StringUtilitiesTest
+Tue May 15 16:32:01 UTC 2018: Setting lastTestMethodIndex: 38417
+Tue May 15 16:32:01 UTC 2018: Starting linking
+Tue May 15 16:32:01 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.StringUtilitiesTest
+Tue May 15 16:32:02 UTC 2018: Found element on the queue
+Tue May 15 16:32:02 UTC 2018: Updating status
+Tue May 15 16:32:02 UTC 2018: Working
+Tue May 15 16:32:04 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.percent.PercentCodecKnownIssuesTest
+Tue May 15 16:32:04 UTC 2018: Setting lastTestMethodIndex: 38419
+Tue May 15 16:32:04 UTC 2018: Starting linking
+Tue May 15 16:32:04 UTC 2018: No link for: org.owasp.esapi.codecs.percent.PercentCodecKnownIssuesTest-failsUTF16Conversions
+Tue May 15 16:32:04 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.percent.PercentCodecKnownIssuesTest
+Tue May 15 16:32:05 UTC 2018: Found element on the queue
+Tue May 15 16:32:05 UTC 2018: Updating status
+Tue May 15 16:32:05 UTC 2018: Working
+Tue May 15 16:32:07 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.percent.PercentCodecCharacterTest
+Tue May 15 16:32:07 UTC 2018: Setting lastTestMethodIndex: 38420
+Tue May 15 16:32:07 UTC 2018: Starting linking
+Tue May 15 16:32:07 UTC 2018: No link for: org.owasp.esapi.codecs.percent.PercentCodecCharacterTest-testDecodePushbackSequence
+Tue May 15 16:32:07 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.percent.PercentCodecCharacterTest
+Tue May 15 16:32:08 UTC 2018: Found element on the queue
+Tue May 15 16:32:08 UTC 2018: Updating status
+Tue May 15 16:32:08 UTC 2018: Working
+Tue May 15 16:32:10 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.percent.PercentCodecStringTest
+Tue May 15 16:32:10 UTC 2018: Setting lastTestMethodIndex: 38422
+Tue May 15 16:32:10 UTC 2018: Starting linking
+Tue May 15 16:32:10 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.percent.PercentCodecStringTest
+Tue May 15 16:32:11 UTC 2018: Found element on the queue
+Tue May 15 16:32:11 UTC 2018: Updating status
+Tue May 15 16:32:11 UTC 2018: Working
+Tue May 15 16:32:13 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.CodecImmunityTest
+Tue May 15 16:32:13 UTC 2018: Setting lastTestMethodIndex: 38424
+Tue May 15 16:32:13 UTC 2018: Starting linking
+Tue May 15 16:32:13 UTC 2018: No link for: org.owasp.esapi.codecs.CodecImmunityTest-testImmuneEncode
+Tue May 15 16:32:13 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.CodecImmunityTest
+Tue May 15 16:32:14 UTC 2018: Found element on the queue
+Tue May 15 16:32:14 UTC 2018: Updating status
+Tue May 15 16:32:14 UTC 2018: Working
+Tue May 15 16:32:16 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.HTMLEntityCodecTest
+Tue May 15 16:32:16 UTC 2018: Setting lastTestMethodIndex: 38426
+Tue May 15 16:32:16 UTC 2018: Starting linking
+Tue May 15 16:32:16 UTC 2018: Code found org.owasp.esapi.codecs.AbstractIntegerCodec-decode with org.owasp.esapi.codecs.HTMLEntityCodecTest-testDecodeforChars
+Tue May 15 16:32:16 UTC 2018: No link for: org.owasp.esapi.codecs.HTMLEntityCodecTest-testMixedBmpAndNonBmp
+Tue May 15 16:32:17 UTC 2018: No link for: org.owasp.esapi.codecs.HTMLEntityCodecTest-test32BitCJKMixedWithBmp
+Tue May 15 16:32:17 UTC 2018: No link for: org.owasp.esapi.codecs.HTMLEntityCodecTest-testEntityDecoding
+Tue May 15 16:32:17 UTC 2018: No link for: org.owasp.esapi.codecs.HTMLEntityCodecTest-test32BitCJK
+Tue May 15 16:32:17 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.HTMLEntityCodecTest
+Tue May 15 16:32:17 UTC 2018: Found element on the queue
+Tue May 15 16:32:17 UTC 2018: Updating status
+Tue May 15 16:32:17 UTC 2018: Working
+Tue May 15 16:32:20 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.XMLEntityCodecTest
+Tue May 15 16:32:20 UTC 2018: Setting lastTestMethodIndex: 38428
+Tue May 15 16:32:20 UTC 2018: Starting linking
+Tue May 15 16:32:20 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.XMLEntityCodecTest
+Tue May 15 16:32:20 UTC 2018: Found element on the queue
+Tue May 15 16:32:20 UTC 2018: Updating status
+Tue May 15 16:32:20 UTC 2018: Working
+Tue May 15 16:32:23 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.PercentCodecTest
+Tue May 15 16:32:23 UTC 2018: Setting lastTestMethodIndex: 38430
+Tue May 15 16:32:23 UTC 2018: Starting linking
+Tue May 15 16:32:23 UTC 2018: Code found org.owasp.esapi.codecs.AbstractCharacterCodec-decode with org.owasp.esapi.codecs.PercentCodecTest-testPercentDecode
+Tue May 15 16:32:23 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.PercentCodecTest
+Tue May 15 16:32:23 UTC 2018: Found element on the queue
+Tue May 15 16:32:23 UTC 2018: Updating status
+Tue May 15 16:32:23 UTC 2018: Working
+Tue May 15 16:32:26 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.HashTrieTest
+Tue May 15 16:32:26 UTC 2018: Setting lastTestMethodIndex: 38432
+Tue May 15 16:32:26 UTC 2018: Starting linking
+Tue May 15 16:32:26 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.HashTrieTest
+Tue May 15 16:32:26 UTC 2018: Found element on the queue
+Tue May 15 16:32:26 UTC 2018: Updating status
+Tue May 15 16:32:26 UTC 2018: Working
+Tue May 15 16:32:29 UTC 2018: Start ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.AbstractCodecTest
+Tue May 15 16:32:29 UTC 2018: Setting lastTestMethodIndex: 38434
+Tue May 15 16:32:29 UTC 2018: Starting linking
+Tue May 15 16:32:29 UTC 2018: Linking done for ESAPI__esapi-java-legacy test class org.owasp.esapi.codecs.AbstractCodecTest

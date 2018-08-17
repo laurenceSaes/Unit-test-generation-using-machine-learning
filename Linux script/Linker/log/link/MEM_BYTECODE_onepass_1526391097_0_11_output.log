@@ -1,0 +1,175 @@
+Tue May 15 14:15:44 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 14:15:44 UTC 2018: Starting
+Tue May 15 14:15:45 UTC 2018: Found element on the queue
+Tue May 15 14:15:45 UTC 2018: Updating status
+Tue May 15 14:15:45 UTC 2018: Working
+Tue May 15 14:15:45 UTC 2018: Create project parser
+Tue May 15 14:15:49 UTC 2018: Create slicer
+Tue May 15 14:15:52 UTC 2018: Create call graph
+Tue May 15 14:15:54 UTC 2018: Create point analysis
+Tue May 15 14:15:54 UTC 2018: Create call graph done
+Tue May 15 14:15:54 UTC 2018: Start datasift__dropwizard-extra test class com.datasift.dropwizard.curator.ensemble.DynamicZooKeeperConfigurationTest
+Tue May 15 14:15:54 UTC 2018: Setting lastTestMethodIndex: 35069
+Tue May 15 14:15:54 UTC 2018: Starting linking
+Tue May 15 14:15:54 UTC 2018: No link for: com.datasift.dropwizard.curator.ensemble.DynamicZooKeeperConfigurationTest-parsesConnectionStringWithDefaultPort
+Tue May 15 14:15:54 UTC 2018: No link for: com.datasift.dropwizard.curator.ensemble.DynamicZooKeeperConfigurationTest-parsesFullConnectionString
+Tue May 15 14:15:54 UTC 2018: Linking done for datasift__dropwizard-extra test class com.datasift.dropwizard.curator.ensemble.DynamicZooKeeperConfigurationTest
+Tue May 15 14:15:55 UTC 2018: Found element on the queue
+Tue May 15 14:15:55 UTC 2018: Updating status
+Tue May 15 14:15:55 UTC 2018: Working
+Tue May 15 14:15:55 UTC 2018: Create project parser
+Tue May 15 14:16:00 UTC 2018: Start datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest
+Tue May 15 14:16:00 UTC 2018: Setting lastTestMethodIndex: 35073
+Tue May 15 14:16:00 UTC 2018: Starting linking
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-compareAndSet with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesStringCompareAndSets
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-compareAndSet with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesCompareAndSets
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-flush with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesFlushes
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-ensureTableExists with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesEnsureTableExists
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-increment with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesDurableIncrements
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-delete with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesDeletes
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-put with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesPuts
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-lockRow with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesLockRows
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-increment with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesIncrements
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-compareAndSet with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesCompareAndSets
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-delete with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesDeletes
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-create with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesCreates
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-ensureTableExists with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesEnsureTableExists
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-increment with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesDurableIncrements
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-increment with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesIncrements
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-compareAndSet with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesStringCompareAndSets
+Tue May 15 14:16:00 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-shutdown with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesShutdown
+Tue May 15 14:16:01 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-get with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesGets
+Tue May 15 14:16:01 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-lockRow with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesLockRows
+Tue May 15 14:16:01 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-flush with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesFlushes
+Tue May 15 14:16:01 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-lockRow with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesUnlockRows
+Tue May 15 14:16:01 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-get with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesGets
+Tue May 15 14:16:01 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-put with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesPuts
+Tue May 15 14:16:01 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-lockRow with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesUnlockRows
+Tue May 15 14:16:01 UTC 2018: Code found com.datasift.dropwizard.hbase.InstrumentedHBaseClient-create with com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesCreates
+Tue May 15 14:16:01 UTC 2018: No link for: com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-setsFlushInterval
+Tue May 15 14:16:01 UTC 2018: No link for: com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesEnsureStringTableExists
+Tue May 15 14:16:01 UTC 2018: No link for: com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-getsIncrementBufferSize
+Tue May 15 14:16:01 UTC 2018: No link for: com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-proxiesBufferedIncrements
+Tue May 15 14:16:01 UTC 2018: No link for: com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-getsFlushInterval
+Tue May 15 14:16:01 UTC 2018: No link for: com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-setsIncrementBufferSize
+Tue May 15 14:16:01 UTC 2018: No link for: com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesBufferedIncrements
+Tue May 15 14:16:01 UTC 2018: No link for: com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest-timesEnsureStringTableExists
+Tue May 15 14:16:01 UTC 2018: Linking done for datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.InstrumentedHBaseClientTest
+Tue May 15 14:16:02 UTC 2018: Found element on the queue
+Tue May 15 14:16:02 UTC 2018: Updating status
+Tue May 15 14:16:02 UTC 2018: Working
+Tue May 15 14:16:05 UTC 2018: Start datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.BoundedHBaseClientTest
+Tue May 15 14:16:05 UTC 2018: Setting lastTestMethodIndex: 35077
+Tue May 15 14:16:05 UTC 2018: Starting linking
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-increment with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-incrementBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-get with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-getsWithPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-increment with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-incrementWithPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-flush with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-flushBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-increment with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-durablyIncrementBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-delete with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-deletesWithPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-create with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-createsWithPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-create with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-createBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-increment with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-durablyIncrementWithPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-get with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-getBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-compareAndSet with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-compareAndSetBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-flush with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-flushesWithPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-compareAndSet with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-compareAndSetStringBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-delete with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-deleteBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-put with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-putWithPermit
+Tue May 15 14:16:05 UTC 2018: Code found com.datasift.dropwizard.hbase.BoundedHBaseClient-put with com.datasift.dropwizard.hbase.BoundedHBaseClientTest-putBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-buffersIncrementWithPermit
+Tue May 15 14:16:05 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-lockBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-unlockBlocksWithNoPermit
+Tue May 15 14:16:05 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-comparesAndSetsWithPermit
+Tue May 15 14:16:05 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-ensuresStringTableAndFamilyExistsWithPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-ensureTableExistBlocksWithNoPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-locksWithPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-bufferedIncrementBlocksWithNoPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-ensuresTableAndFamilyExistsWithPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-unlocksWithPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-ensureTableAndFamilyExistBlocksWithNoPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-ensureStringTableExistBlocksWithNoPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-ensuresStringTableExistsWithPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-comparesAndSetsStringsWithPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-ensureStringTableAndFamilyExistBlocksWithNoPermit
+Tue May 15 14:16:06 UTC 2018: No link for: com.datasift.dropwizard.hbase.BoundedHBaseClientTest-ensuresTableExistsWithPermit
+Tue May 15 14:16:06 UTC 2018: Linking done for datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.BoundedHBaseClientTest
+Tue May 15 14:16:07 UTC 2018: Found element on the queue
+Tue May 15 14:16:07 UTC 2018: Updating status
+Tue May 15 14:16:07 UTC 2018: Working
+Tue May 15 14:16:09 UTC 2018: Start datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.util.PermitReleasingCallbackTest
+Tue May 15 14:16:09 UTC 2018: Setting lastTestMethodIndex: 35081
+Tue May 15 14:16:09 UTC 2018: Starting linking
+Tue May 15 14:16:09 UTC 2018: No link for: com.datasift.dropwizard.hbase.util.PermitReleasingCallbackTest-releasesPermit
+Tue May 15 14:16:09 UTC 2018: No link for: com.datasift.dropwizard.hbase.util.PermitReleasingCallbackTest-returnsArg
+Tue May 15 14:16:09 UTC 2018: Linking done for datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.util.PermitReleasingCallbackTest
+Tue May 15 14:16:10 UTC 2018: Found element on the queue
+Tue May 15 14:16:10 UTC 2018: Updating status
+Tue May 15 14:16:10 UTC 2018: Working
+Tue May 15 14:16:13 UTC 2018: Start datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.util.TimerStoppingCallbackTest
+Tue May 15 14:16:13 UTC 2018: Setting lastTestMethodIndex: 35084
+Tue May 15 14:16:13 UTC 2018: Starting linking
+Tue May 15 14:16:13 UTC 2018: No link for: com.datasift.dropwizard.hbase.util.TimerStoppingCallbackTest-stopsTimer
+Tue May 15 14:16:13 UTC 2018: No link for: com.datasift.dropwizard.hbase.util.TimerStoppingCallbackTest-returnsArg
+Tue May 15 14:16:13 UTC 2018: Linking done for datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.util.TimerStoppingCallbackTest
+Tue May 15 14:16:13 UTC 2018: Found element on the queue
+Tue May 15 14:16:13 UTC 2018: Updating status
+Tue May 15 14:16:13 UTC 2018: Working
+Tue May 15 14:16:16 UTC 2018: Start datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.HBaseClientProxyTest
+Tue May 15 14:16:16 UTC 2018: Setting lastTestMethodIndex: 35087
+Tue May 15 14:16:16 UTC 2018: Starting linking
+Tue May 15 14:16:16 UTC 2018: Code found com.datasift.dropwizard.hbase.HBaseClientProxy-create with com.datasift.dropwizard.hbase.HBaseClientProxyTest-createsCell
+Tue May 15 14:16:16 UTC 2018: Code found com.datasift.dropwizard.hbase.HBaseClientProxy-increment with com.datasift.dropwizard.hbase.HBaseClientProxyTest-incrementsDurably
+Tue May 15 14:16:16 UTC 2018: Code found com.datasift.dropwizard.hbase.HBaseClientProxy-delete with com.datasift.dropwizard.hbase.HBaseClientProxyTest-deletes
+Tue May 15 14:16:16 UTC 2018: Code found com.datasift.dropwizard.hbase.HBaseClientProxy-stats with com.datasift.dropwizard.hbase.HBaseClientProxyTest-clientStats
+Tue May 15 14:16:16 UTC 2018: Code found com.datasift.dropwizard.hbase.HBaseClientProxy-get with com.datasift.dropwizard.hbase.HBaseClientProxyTest-gets
+Tue May 15 14:16:16 UTC 2018: Code found com.datasift.dropwizard.hbase.HBaseClientProxy-increment with com.datasift.dropwizard.hbase.HBaseClientProxyTest-increments
+Tue May 15 14:16:16 UTC 2018: Code found com.datasift.dropwizard.hbase.HBaseClientProxy-put with com.datasift.dropwizard.hbase.HBaseClientProxyTest-puts
+Tue May 15 14:16:16 UTC 2018: Code found com.datasift.dropwizard.hbase.HBaseClientProxy-flush with com.datasift.dropwizard.hbase.HBaseClientProxyTest-flushes
+Tue May 15 14:16:16 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-comparesAndSets
+Tue May 15 14:16:16 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-shutsdown
+Tue May 15 14:16:16 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-setsFlushInterval
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-buffersIncrement
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-locksRow
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-proxiesIncrementBufferSize
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-setsIncrementBufferSize
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-ensuresTableAndFamilyExist
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-timer
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-ensuresTableExists
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-proxiesFlushInterval
+Tue May 15 14:16:17 UTC 2018: No link for: com.datasift.dropwizard.hbase.HBaseClientProxyTest-unlocksRow
+Tue May 15 14:16:17 UTC 2018: Linking done for datasift__dropwizard-extra test class com.datasift.dropwizard.hbase.HBaseClientProxyTest
+Tue May 15 14:16:18 UTC 2018: Found element on the queue
+Tue May 15 14:16:18 UTC 2018: Updating status
+Tue May 15 14:16:18 UTC 2018: Working
+Tue May 15 14:16:18 UTC 2018: Create project parser
+Tue May 15 14:16:20 UTC 2018: Start datasift__dropwizard-extra test class com.datasift.dropwizard.util.ClassesTest
+Tue May 15 14:16:20 UTC 2018: Setting lastTestMethodIndex: 35090
+Tue May 15 14:16:20 UTC 2018: Starting linking
+Tue May 15 14:16:20 UTC 2018: Code found com.datasift.dropwizard.util.Classes-unsafeNewInstance with com.datasift.dropwizard.util.ClassesTest-unsafeNewInstance
+Tue May 15 14:16:20 UTC 2018: Code found com.datasift.dropwizard.util.Classes-isAssignableFrom with com.datasift.dropwizard.util.ClassesTest-isAssignableFrom
+Tue May 15 14:16:21 UTC 2018: Code found com.datasift.dropwizard.util.Classes-of with com.datasift.dropwizard.util.ClassesTest-classesOfPrimitives
+Tue May 15 14:16:21 UTC 2018: Code found com.datasift.dropwizard.util.Classes-newInstance with com.datasift.dropwizard.util.ClassesTest-newInstanceString
+Tue May 15 14:16:21 UTC 2018: Code found com.datasift.dropwizard.util.Classes-of with com.datasift.dropwizard.util.ClassesTest-classesOfObjects
+Tue May 15 14:16:21 UTC 2018: Code found com.datasift.dropwizard.util.Classes-newInstance with com.datasift.dropwizard.util.ClassesTest-newInstanceStringMultipleArgs
+Tue May 15 14:16:21 UTC 2018: Code found com.datasift.dropwizard.util.Classes-newInstanceFrom with com.datasift.dropwizard.util.ClassesTest-newInstanceFromTemplate
+Tue May 15 14:16:21 UTC 2018: Code found com.datasift.dropwizard.util.Classes-of with com.datasift.dropwizard.util.ClassesTest-classesOfNulls
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableConstructorProtected
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableConstructorNullary
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableConstructorComplex
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableMethodsNotExist
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-unsafeNewFromTemplate
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-resolveHeterogeneousArgsAsMultiple
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableConstructorNulls
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableConstructorNotExist
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-resolveStringArrayArgument
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableMethods
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-resolveByteArrayArgument
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableConstructorPrimitives
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-resolveArgListAsMultiple
+Tue May 15 14:16:21 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableConstructorSimple
+Tue May 15 14:16:22 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-resolveArgListNull
+Tue May 15 14:16:22 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableMethodsNotExistOverload
+Tue May 15 14:16:22 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-applicableConstructorPrimitivesNotAssignable
+Tue May 15 14:16:22 UTC 2018: No link for: com.datasift.dropwizard.util.ClassesTest-resolveHomogeneousArgsAsMultiple
+Tue May 15 14:16:22 UTC 2018: Linking done for datasift__dropwizard-extra test class com.datasift.dropwizard.util.ClassesTest

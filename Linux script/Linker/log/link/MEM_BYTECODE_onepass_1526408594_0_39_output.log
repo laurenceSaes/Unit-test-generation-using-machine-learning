@@ -1,0 +1,202 @@
+Tue May 15 23:59:25 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 23:59:25 UTC 2018: Starting
+Tue May 15 23:59:26 UTC 2018: Found element on the queue
+Tue May 15 23:59:26 UTC 2018: Updating status
+Tue May 15 23:59:26 UTC 2018: Working
+Tue May 15 23:59:26 UTC 2018: Create project parser
+Tue May 15 23:59:37 UTC 2018: Create slicer
+Tue May 15 23:59:39 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1347093252
+Tue May 15 23:59:41 UTC 2018: Create call graph
+Tue May 15 23:59:45 UTC 2018: Create point analysis
+Tue May 15 23:59:45 UTC 2018: Create call graph done
+Tue May 15 23:59:45 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.common.dao.WorkflowRunAttributeDAOTest
+Tue May 15 23:59:45 UTC 2018: Setting lastTestMethodIndex: 52177
+Tue May 15 23:59:45 UTC 2018: Starting linking
+Tue May 15 23:59:45 UTC 2018: No link for: net.sourceforge.seqware.common.dao.WorkflowRunAttributeDAOTest-test_add_missing_required_workflowRun_field_fails
+Tue May 15 23:59:45 UTC 2018: No link for: net.sourceforge.seqware.common.dao.WorkflowRunAttributeDAOTest-test_add_with_all_required_fields_succeeds
+Tue May 15 23:59:46 UTC 2018: No link for: net.sourceforge.seqware.common.dao.WorkflowRunAttributeDAOTest-test_add_missing_required_fields_fails
+Tue May 15 23:59:46 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.common.dao.WorkflowRunAttributeDAOTest
+Tue May 15 23:59:46 UTC 2018: Found element on the queue
+Tue May 15 23:59:46 UTC 2018: Updating status
+Tue May 15 23:59:46 UTC 2018: Working
+Tue May 15 23:59:49 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.common.dao.WorkflowAttributeDAOTest
+Tue May 15 23:59:49 UTC 2018: Setting lastTestMethodIndex: 52179
+Tue May 15 23:59:49 UTC 2018: Starting linking
+Tue May 15 23:59:49 UTC 2018: No link for: net.sourceforge.seqware.common.dao.WorkflowAttributeDAOTest-test_add_missing_required_workflow_field_fails
+Tue May 15 23:59:49 UTC 2018: No link for: net.sourceforge.seqware.common.dao.WorkflowAttributeDAOTest-test_add_missing_required_fields_fails
+Tue May 15 23:59:49 UTC 2018: No link for: net.sourceforge.seqware.common.dao.WorkflowAttributeDAOTest-test_add_with_all_required_fields_succeeds
+Tue May 15 23:59:50 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.common.dao.WorkflowAttributeDAOTest
+Tue May 15 23:59:50 UTC 2018: Found element on the queue
+Tue May 15 23:59:50 UTC 2018: Updating status
+Tue May 15 23:59:50 UTC 2018: Working
+Tue May 15 23:59:52 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.common.util.MD5GeneratorTest
+Tue May 15 23:59:52 UTC 2018: Setting lastTestMethodIndex: 52181
+Tue May 15 23:59:52 UTC 2018: Starting linking
+Tue May 15 23:59:52 UTC 2018: Code found net.sourceforge.seqware.common.util.MD5Generator-md5sum with net.sourceforge.seqware.common.util.MD5GeneratorTest-testMd5sum
+Tue May 15 23:59:53 UTC 2018: Code found net.sourceforge.seqware.common.util.MD5Generator-md5sum with net.sourceforge.seqware.common.util.MD5GeneratorTest-testMd5sum_leadingZero
+Tue May 15 23:59:53 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.common.util.MD5GeneratorTest
+Tue May 15 23:59:54 UTC 2018: Found element on the queue
+Tue May 15 23:59:54 UTC 2018: Updating status
+Tue May 15 23:59:54 UTC 2018: Working
+Tue May 15 23:59:57 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.common.util.configtools.ConfigToolsTest
+Tue May 15 23:59:57 UTC 2018: Setting lastTestMethodIndex: 52182
+Tue May 15 23:59:57 UTC 2018: Starting linking
+Tue May 15 23:59:57 UTC 2018: Code found net.sourceforge.seqware.common.util.configtools.ConfigTools-getSettings with net.sourceforge.seqware.common.util.configtools.ConfigToolsTest-testGetSettings
+Tue May 15 23:59:57 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.common.util.configtools.ConfigToolsTest
+Tue May 15 23:59:58 UTC 2018: Found element on the queue
+Tue May 15 23:59:58 UTC 2018: Updating status
+Tue May 15 23:59:58 UTC 2018: Working
+Wed May 16 00:00:00 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest
+Wed May 16 00:00:00 UTC 2018: Setting lastTestMethodIndex: 52185
+Wed May 16 00:00:00 UTC 2018: Starting linking
+Wed May 16 00:00:00 UTC 2018: Code found net.sourceforge.seqware.common.util.xmltools.JaxbObject-unMarshal with net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testUnMarshal
+Wed May 16 00:00:00 UTC 2018: Code found net.sourceforge.seqware.common.util.xmltools.JaxbObject-marshal with net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testMarshal
+Wed May 16 00:00:01 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testStudyJaxb
+Wed May 16 00:00:01 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testSampleJaxb
+Wed May 16 00:00:01 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testWorkflowListJaxb
+Wed May 16 00:00:01 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testWorkflowRunListJaxb
+Wed May 16 00:00:02 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testLaneJaxb
+Wed May 16 00:00:02 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testNullProcessingAttribute
+Wed May 16 00:00:02 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testProcessingJaxb
+Wed May 16 00:00:02 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testIUSJaxb
+Wed May 16 00:00:02 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testExperimentJaxb
+Wed May 16 00:00:03 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testSequencerRunJaxb
+Wed May 16 00:00:03 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testWorkflowRunJaxb
+Wed May 16 00:00:04 UTC 2018: No link for: net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest-testReturnValueJaxb
+Wed May 16 00:00:04 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.common.util.xmltools.JaxbObjectTest
+Wed May 16 00:00:05 UTC 2018: Found element on the queue
+Wed May 16 00:00:05 UTC 2018: Updating status
+Wed May 16 00:00:05 UTC 2018: Working
+Wed May 16 00:00:07 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.common.util.maptools.MapToolsTest
+Wed May 16 00:00:07 UTC 2018: Setting lastTestMethodIndex: 52188
+Wed May 16 00:00:07 UTC 2018: Starting linking
+Wed May 16 00:00:07 UTC 2018: Code found net.sourceforge.seqware.common.util.maptools.MapTools-expandVariables with net.sourceforge.seqware.common.util.maptools.MapToolsTest-testExpandVariables
+Wed May 16 00:00:08 UTC 2018: Code found net.sourceforge.seqware.common.util.maptools.MapTools-iniString2Map with net.sourceforge.seqware.common.util.maptools.MapToolsTest-testIniString2MapWithNovoalign
+Wed May 16 00:00:08 UTC 2018: Code found net.sourceforge.seqware.common.util.maptools.MapTools-iniString2Map with net.sourceforge.seqware.common.util.maptools.MapToolsTest-testIniString2MapWithBlanks
+Wed May 16 00:00:08 UTC 2018: No link for: net.sourceforge.seqware.common.util.maptools.MapToolsTest-testRichIni_valuesWithSpaces2
+Wed May 16 00:00:08 UTC 2018: No link for: net.sourceforge.seqware.common.util.maptools.MapToolsTest-testNormalRichIni
+Wed May 16 00:00:08 UTC 2018: No link for: net.sourceforge.seqware.common.util.maptools.MapToolsTest-testRichIni_novoalign
+Wed May 16 00:00:09 UTC 2018: No link for: net.sourceforge.seqware.common.util.maptools.MapToolsTest-testRichIni_valuesWithSpaces
+Wed May 16 00:00:09 UTC 2018: No link for: net.sourceforge.seqware.common.util.maptools.MapToolsTest-testRichIni_withBlanks
+Wed May 16 00:00:09 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.common.util.maptools.MapToolsTest
+Wed May 16 00:00:10 UTC 2018: Found element on the queue
+Wed May 16 00:00:10 UTC 2018: Updating status
+Wed May 16 00:00:10 UTC 2018: Working
+Wed May 16 00:00:12 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.common.util.filetools.FileToolsTest
+Wed May 16 00:00:12 UTC 2018: Setting lastTestMethodIndex: 52192
+Wed May 16 00:00:12 UTC 2018: Starting linking
+Wed May 16 00:00:12 UTC 2018: Code found net.sourceforge.seqware.common.util.filetools.FileTools-isFileOwner with net.sourceforge.seqware.common.util.filetools.FileToolsTest-testIsFileOwner
+Wed May 16 00:00:12 UTC 2018: Code found net.sourceforge.seqware.common.util.filetools.FileTools-whoAmI with net.sourceforge.seqware.common.util.filetools.FileToolsTest-testWhoAmI
+Wed May 16 00:00:13 UTC 2018: Code found net.sourceforge.seqware.common.util.filetools.FileTools-getFilename with net.sourceforge.seqware.common.util.filetools.FileToolsTest-testGetFilename
+Wed May 16 00:00:13 UTC 2018: No link for: net.sourceforge.seqware.common.util.filetools.FileToolsTest-testSEQWARE1410
+Wed May 16 00:00:13 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.common.util.filetools.FileToolsTest
+Wed May 16 00:00:14 UTC 2018: Found element on the queue
+Wed May 16 00:00:14 UTC 2018: Updating status
+Wed May 16 00:00:14 UTC 2018: Working
+Wed May 16 00:00:16 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.common.util.jsontools.JSONHelperTest
+Wed May 16 00:00:16 UTC 2018: Setting lastTestMethodIndex: 52194
+Wed May 16 00:00:16 UTC 2018: Starting linking
+Wed May 16 00:00:16 UTC 2018: No link for: net.sourceforge.seqware.common.util.jsontools.JSONHelperTest-noTestConfig
+Wed May 16 00:00:16 UTC 2018: No link for: net.sourceforge.seqware.common.util.jsontools.JSONHelperTest-badResourceNames
+Wed May 16 00:00:17 UTC 2018: No link for: net.sourceforge.seqware.common.util.jsontools.JSONHelperTest-missingRequired
+Wed May 16 00:00:17 UTC 2018: No link for: net.sourceforge.seqware.common.util.jsontools.JSONHelperTest-everythingIsPerfect
+Wed May 16 00:00:17 UTC 2018: No link for: net.sourceforge.seqware.common.util.jsontools.JSONHelperTest-environmentDataMalformed
+Wed May 16 00:00:18 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.common.util.jsontools.JSONHelperTest
+Wed May 16 00:00:18 UTC 2018: Found element on the queue
+Wed May 16 00:00:18 UTC 2018: Updating status
+Wed May 16 00:00:18 UTC 2018: Working
+Wed May 16 00:00:18 UTC 2018: Create project parser
+Wed May 16 00:00:25 UTC 2018: Start joansmith1__seqware test class io.seqware.cli.test.WorkflowRunTest
+Wed May 16 00:00:25 UTC 2018: Setting lastTestMethodIndex: 52197
+Wed May 16 00:00:25 UTC 2018: Starting linking
+Wed May 16 00:00:25 UTC 2018: Linking done for joansmith1__seqware test class io.seqware.cli.test.WorkflowRunTest
+Wed May 16 00:00:25 UTC 2018: Found element on the queue
+Wed May 16 00:00:25 UTC 2018: Updating status
+Wed May 16 00:00:25 UTC 2018: Working
+Wed May 16 00:00:28 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.DocumentationTest
+Wed May 16 00:00:28 UTC 2018: Setting lastTestMethodIndex: 52199
+Wed May 16 00:00:28 UTC 2018: Starting linking
+Wed May 16 00:00:28 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.DocumentationTest-ensurePluginDescriptions
+Wed May 16 00:00:28 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.DocumentationTest
+Wed May 16 00:00:29 UTC 2018: Found element on the queue
+Wed May 16 00:00:29 UTC 2018: Updating status
+Wed May 16 00:00:29 UTC 2018: Working
+Wed May 16 00:00:31 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.WorkflowStatusCheckerTest
+Wed May 16 00:00:31 UTC 2018: Setting lastTestMethodIndex: 52201
+Wed May 16 00:00:31 UTC 2018: Starting linking
+Wed May 16 00:00:31 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.WorkflowStatusCheckerTest-testShouldInjectMocks
+Wed May 16 00:00:31 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.WorkflowStatusCheckerTest-testEmptyRun
+Wed May 16 00:00:32 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.WorkflowStatusCheckerTest-testDoubleThreadedRun
+Wed May 16 00:00:32 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.WorkflowStatusCheckerTest-testNormalRun
+Wed May 16 00:00:32 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.WorkflowStatusCheckerTest-testManyThreadedRun
+Wed May 16 00:00:32 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.WorkflowStatusCheckerTest
+Wed May 16 00:00:33 UTC 2018: Found element on the queue
+Wed May 16 00:00:33 UTC 2018: Updating status
+Wed May 16 00:00:33 UTC 2018: Working
+Wed May 16 00:00:35 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.AttributeAnnotatorTest
+Wed May 16 00:00:35 UTC 2018: Setting lastTestMethodIndex: 52203
+Wed May 16 00:00:35 UTC 2018: Starting linking
+Wed May 16 00:00:35 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.AttributeAnnotatorTest-testInvalidSyntax
+Wed May 16 00:00:36 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.AttributeAnnotatorTest-testSequencerRun
+Wed May 16 00:00:36 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.AttributeAnnotatorTest-testBulkInsert
+Wed May 16 00:00:36 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.AttributeAnnotatorTest-testEveryX
+Wed May 16 00:00:37 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.AttributeAnnotatorTest
+Wed May 16 00:00:37 UTC 2018: Found element on the queue
+Wed May 16 00:00:37 UTC 2018: Updating status
+Wed May 16 00:00:37 UTC 2018: Working
+Wed May 16 00:00:40 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.WorkflowLauncherTest
+Wed May 16 00:00:40 UTC 2018: Setting lastTestMethodIndex: 52206
+Wed May 16 00:00:40 UTC 2018: Starting linking
+Wed May 16 00:00:40 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.WorkflowLauncherTest-testEmptyLifeCycle
+Wed May 16 00:00:40 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.WorkflowLauncherTest
+Wed May 16 00:00:41 UTC 2018: Found element on the queue
+Wed May 16 00:00:41 UTC 2018: Updating status
+Wed May 16 00:00:41 UTC 2018: Working
+Wed May 16 00:00:43 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.filelinker.FileLinkerParserTest
+Wed May 16 00:00:43 UTC 2018: Setting lastTestMethodIndex: 52208
+Wed May 16 00:00:43 UTC 2018: Starting linking
+Wed May 16 00:00:43 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.filelinker.FileLinkerParserTest-test_csv_to_entry_samples
+Wed May 16 00:00:44 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.filelinker.FileLinkerParserTest-test_parse_csv_bad_integer
+Wed May 16 00:00:45 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.filelinker.FileLinkerParserTest-test_parse_csv_full
+Wed May 16 00:00:45 UTC 2018: No link for: net.sourceforge.seqware.pipeline.plugins.filelinker.FileLinkerParserTest-test_parse_csv_missing_required_fields
+Wed May 16 00:00:45 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.plugins.filelinker.FileLinkerParserTest
+Wed May 16 00:00:46 UTC 2018: Found element on the queue
+Wed May 16 00:00:46 UTC 2018: Updating status
+Wed May 16 00:00:46 UTC 2018: Working
+Wed May 16 00:00:48 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.runner.RunnerTest
+Wed May 16 00:00:48 UTC 2018: Setting lastTestMethodIndex: 52210
+Wed May 16 00:00:48 UTC 2018: Starting linking
+Wed May 16 00:00:48 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.runner.RunnerTest
+Wed May 16 00:00:49 UTC 2018: Found element on the queue
+Wed May 16 00:00:49 UTC 2018: Updating status
+Wed May 16 00:00:49 UTC 2018: Working
+Wed May 16 00:00:51 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.module.ModuleMethodTest
+Wed May 16 00:00:51 UTC 2018: Setting lastTestMethodIndex: 52212
+Wed May 16 00:00:51 UTC 2018: Starting linking
+Wed May 16 00:00:51 UTC 2018: No link for: net.sourceforge.seqware.pipeline.module.ModuleMethodTest-testAnnotation
+Wed May 16 00:00:51 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.module.ModuleMethodTest
+Wed May 16 00:00:52 UTC 2018: Found element on the queue
+Wed May 16 00:00:52 UTC 2018: Updating status
+Wed May 16 00:00:52 UTC 2018: Working
+Wed May 16 00:00:54 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.deciders.BasicDeciderConditionsTest
+Wed May 16 00:00:54 UTC 2018: Setting lastTestMethodIndex: 52213
+Wed May 16 00:00:54 UTC 2018: Starting linking
+Wed May 16 00:00:54 UTC 2018: No link for: net.sourceforge.seqware.pipeline.deciders.BasicDeciderConditionsTest-testNegativeRerunConditions
+Wed May 16 00:00:54 UTC 2018: No link for: net.sourceforge.seqware.pipeline.deciders.BasicDeciderConditionsTest-testPositiveRerunConditions
+Wed May 16 00:00:55 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.deciders.BasicDeciderConditionsTest
+Wed May 16 00:00:55 UTC 2018: Found element on the queue
+Wed May 16 00:00:55 UTC 2018: Updating status
+Wed May 16 00:00:55 UTC 2018: Working
+Wed May 16 00:00:58 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.workflow.WorkflowTest
+Wed May 16 00:00:58 UTC 2018: Setting lastTestMethodIndex: 52216
+Wed May 16 00:00:58 UTC 2018: Starting linking
+Wed May 16 00:00:58 UTC 2018: No link for: net.sourceforge.seqware.pipeline.workflow.WorkflowTest-testDuplicateFileNames
+Wed May 16 00:00:59 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.workflow.WorkflowTest
+Wed May 16 00:00:59 UTC 2018: Found element on the queue
+Wed May 16 00:00:59 UTC 2018: Updating status
+Wed May 16 00:00:59 UTC 2018: Working
+Wed May 16 00:01:02 UTC 2018: Start joansmith1__seqware test class net.sourceforge.seqware.pipeline.tools.SetOperationsTest
+Wed May 16 00:01:02 UTC 2018: Setting lastTestMethodIndex: 52218
+Wed May 16 00:01:02 UTC 2018: Starting linking
+Wed May 16 00:01:02 UTC 2018: No link for: net.sourceforge.seqware.pipeline.tools.SetOperationsTest-ExternalTest
+Wed May 16 00:01:02 UTC 2018: Linking done for joansmith1__seqware test class net.sourceforge.seqware.pipeline.tools.SetOperationsTest

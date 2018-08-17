@@ -1,0 +1,341 @@
+Wed May 16 00:56:50 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 00:56:51 UTC 2018: Starting
+Wed May 16 00:56:51 UTC 2018: Found element on the queue
+Wed May 16 00:56:51 UTC 2018: Updating status
+Wed May 16 00:56:51 UTC 2018: Working
+Wed May 16 00:56:51 UTC 2018: Create project parser
+Wed May 16 00:56:58 UTC 2018: Create slicer
+Wed May 16 00:57:01 UTC 2018: Create call graph
+Wed May 16 00:57:05 UTC 2018: Create point analysis
+Wed May 16 00:57:05 UTC 2018: Create call graph done
+Wed May 16 00:57:05 UTC 2018: Start johnament__shaboopy test class feign.UtilTest
+Wed May 16 00:57:05 UTC 2018: Setting lastTestMethodIndex: 54087
+Wed May 16 00:57:05 UTC 2018: Starting linking
+Wed May 16 00:57:05 UTC 2018: Code found feign.Util-resolveLastTypeParameter with feign.UtilTest-resolveLastTypeParameterWhenNotSubtype
+Wed May 16 00:57:06 UTC 2018: Code found feign.Util-resolveLastTypeParameter with feign.UtilTest-resolveLastTypeParameterWhenWildcard
+Wed May 16 00:57:06 UTC 2018: Code found feign.Util-emptyValueOf with feign.UtilTest-emptyValueOf_nullForUndefined
+Wed May 16 00:57:07 UTC 2018: Code found feign.Util-emptyValueOf with feign.UtilTest-emptyValueOf_considersRawType
+Wed May 16 00:57:07 UTC 2018: Code found feign.Util-resolveLastTypeParameter with feign.UtilTest-resolveLastTypeParameterWhenParameterizedSubtype
+Wed May 16 00:57:07 UTC 2018: Code found feign.Util-emptyValueOf with feign.UtilTest-emptyValueOf
+Wed May 16 00:57:08 UTC 2018: No link for: feign.UtilTest-lastTypeFromInstance
+Wed May 16 00:57:08 UTC 2018: No link for: feign.UtilTest-unboundWildcardIsObject
+Wed May 16 00:57:08 UTC 2018: No link for: feign.UtilTest-lastTypeFromAnonymous
+Wed May 16 00:57:09 UTC 2018: Linking done for johnament__shaboopy test class feign.UtilTest
+Wed May 16 00:57:09 UTC 2018: Found element on the queue
+Wed May 16 00:57:09 UTC 2018: Updating status
+Wed May 16 00:57:09 UTC 2018: Working
+Wed May 16 00:57:12 UTC 2018: Start johnament__shaboopy test class feign.codec.DefaultDecoderTest
+Wed May 16 00:57:12 UTC 2018: Setting lastTestMethodIndex: 54089
+Wed May 16 00:57:12 UTC 2018: Starting linking
+Wed May 16 00:57:12 UTC 2018: Code found feign.codec.Decoder$Default-decode with feign.codec.DefaultDecoderTest-testDecodesToByteArray
+Wed May 16 00:57:12 UTC 2018: Code found feign.codec.Decoder$Default-decode with feign.codec.DefaultDecoderTest-testDecodesToString
+Wed May 16 00:57:12 UTC 2018: Code found feign.codec.Decoder$Default-decode with feign.codec.DefaultDecoderTest-testRefusesToDecodeOtherTypes
+Wed May 16 00:57:12 UTC 2018: Code found feign.codec.Decoder$Default-decode with feign.codec.DefaultDecoderTest-testDecodesNullBodyToNull
+Wed May 16 00:57:13 UTC 2018: Linking done for johnament__shaboopy test class feign.codec.DefaultDecoderTest
+Wed May 16 00:57:13 UTC 2018: Found element on the queue
+Wed May 16 00:57:13 UTC 2018: Updating status
+Wed May 16 00:57:13 UTC 2018: Working
+Wed May 16 00:57:16 UTC 2018: Start johnament__shaboopy test class feign.codec.DefaultEncoderTest
+Wed May 16 00:57:16 UTC 2018: Setting lastTestMethodIndex: 54091
+Wed May 16 00:57:16 UTC 2018: Starting linking
+Wed May 16 00:57:16 UTC 2018: Code found feign.codec.Encoder$Default-encode with feign.codec.DefaultEncoderTest-testEncodesByteArray
+Wed May 16 00:57:16 UTC 2018: Code found feign.codec.Encoder$Default-encode with feign.codec.DefaultEncoderTest-testRefusesToEncodeOtherTypes
+Wed May 16 00:57:16 UTC 2018: Code found feign.codec.Encoder$Default-encode with feign.codec.DefaultEncoderTest-testEncodesStrings
+Wed May 16 00:57:16 UTC 2018: Linking done for johnament__shaboopy test class feign.codec.DefaultEncoderTest
+Wed May 16 00:57:17 UTC 2018: Found element on the queue
+Wed May 16 00:57:17 UTC 2018: Updating status
+Wed May 16 00:57:17 UTC 2018: Working
+Wed May 16 00:57:19 UTC 2018: Start johnament__shaboopy test class feign.codec.DefaultErrorDecoderTest
+Wed May 16 00:57:19 UTC 2018: Setting lastTestMethodIndex: 54092
+Wed May 16 00:57:19 UTC 2018: Starting linking
+Wed May 16 00:57:19 UTC 2018: Code found feign.Response$Builder-body with feign.codec.DefaultErrorDecoderTest-throwsFeignExceptionIncludingBody
+Wed May 16 00:57:20 UTC 2018: Code found feign.Response$Builder-status with feign.codec.DefaultErrorDecoderTest-testFeignExceptionIncludesStatus
+Wed May 16 00:57:20 UTC 2018: No link for: feign.codec.DefaultErrorDecoderTest-throwsFeignException
+Wed May 16 00:57:20 UTC 2018: No link for: feign.codec.DefaultErrorDecoderTest-retryAfterHeaderThrowsRetryableException
+Wed May 16 00:57:20 UTC 2018: Linking done for johnament__shaboopy test class feign.codec.DefaultErrorDecoderTest
+Wed May 16 00:57:21 UTC 2018: Found element on the queue
+Wed May 16 00:57:21 UTC 2018: Updating status
+Wed May 16 00:57:21 UTC 2018: Working
+Wed May 16 00:57:23 UTC 2018: Start johnament__shaboopy test class feign.codec.RetryAfterDecoderTest
+Wed May 16 00:57:23 UTC 2018: Setting lastTestMethodIndex: 54094
+Wed May 16 00:57:23 UTC 2018: Starting linking
+Wed May 16 00:57:23 UTC 2018: No link for: feign.codec.RetryAfterDecoderTest-relativeSecondsParses
+Wed May 16 00:57:24 UTC 2018: No link for: feign.codec.RetryAfterDecoderTest-malformDateFailsGracefully
+Wed May 16 00:57:24 UTC 2018: No link for: feign.codec.RetryAfterDecoderTest-rfc822Parses
+Wed May 16 00:57:24 UTC 2018: Linking done for johnament__shaboopy test class feign.codec.RetryAfterDecoderTest
+Wed May 16 00:57:25 UTC 2018: Found element on the queue
+Wed May 16 00:57:25 UTC 2018: Updating status
+Wed May 16 00:57:25 UTC 2018: Working
+Wed May 16 00:57:27 UTC 2018: Start johnament__shaboopy test class feign.RequestTemplateTest
+Wed May 16 00:57:27 UTC 2018: Setting lastTestMethodIndex: 54096
+Wed May 16 00:57:27 UTC 2018: Starting linking
+Wed May 16 00:57:27 UTC 2018: Code found feign.RequestTemplate-expand with feign.RequestTemplateTest-expandNotUrlEncoded
+Wed May 16 00:57:27 UTC 2018: Code found feign.RequestTemplate-insert with feign.RequestTemplateTest-insertHasQueryParams
+Wed May 16 00:57:27 UTC 2018: Code found feign.RequestTemplate-bodyTemplate with feign.RequestTemplateTest-resolveTemplateWithBodyTemplateSetsBodyAndContentLength
+Wed May 16 00:57:28 UTC 2018: Code found feign.RequestTemplate-query with feign.RequestTemplateTest-encodedQueryClearedOnNull
+Wed May 16 00:57:28 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithMixedRequestLineParams
+Wed May 16 00:57:28 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithBaseAndParameterizedIterableQuery
+Wed May 16 00:57:28 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithHeaderSubstitutionsNotAtStart
+Wed May 16 00:57:29 UTC 2018: Code found feign.RequestTemplate-query with feign.RequestTemplateTest-encodedQueryWithUnsafeCharactersMixedWithUnencoded
+Wed May 16 00:57:29 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithParameterizedPathSkipsEncodingSlash
+Wed May 16 00:57:29 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithBaseAndParameterizedQuery
+Wed May 16 00:57:30 UTC 2018: Code found feign.RequestTemplate-insert with feign.RequestTemplateTest-canInsertAbsoluteHref
+Wed May 16 00:57:30 UTC 2018: Code found feign.RequestTemplate-expand with feign.RequestTemplateTest-expandMissingParamProceeds
+Wed May 16 00:57:30 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-skipUnresolvedQueries
+Wed May 16 00:57:30 UTC 2018: Code found feign.RequestTemplate-method with feign.RequestTemplateTest-uriStuffedIntoMethod
+Wed May 16 00:57:30 UTC 2018: Code found feign.RequestTemplate-bodyTemplate with feign.RequestTemplateTest-resolveTemplateWithBodyTemplateDoesNotDoubleDecode
+Wed May 16 00:57:31 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithHeaderWithEscapedCurlyBrace
+Wed May 16 00:57:31 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithHeaderIncludingSpecialCharacters
+Wed May 16 00:57:31 UTC 2018: Code found feign.RequestTemplate-query with feign.RequestTemplateTest-encodedQuery
+Wed May 16 00:57:31 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithHeaderSubstitutions
+Wed May 16 00:57:32 UTC 2018: Code found feign.RequestTemplate-resolve with feign.RequestTemplateTest-resolveTemplateWithHeaderEmptyResult
+Wed May 16 00:57:32 UTC 2018: Code found feign.RequestTemplate-expand with feign.RequestTemplateTest-expandMultipleParams
+Wed May 16 00:57:32 UTC 2018: Code found feign.RequestTemplate-expand with feign.RequestTemplateTest-expandParamKeyHyphen
+Wed May 16 00:57:33 UTC 2018: No link for: feign.RequestTemplateTest-allQueriesUnresolvable
+Wed May 16 00:57:33 UTC 2018: No link for: feign.RequestTemplateTest-encodeSlashTest
+Wed May 16 00:57:33 UTC 2018: No link for: feign.RequestTemplateTest-spaceEncodingInUrlParam
+Wed May 16 00:57:33 UTC 2018: Linking done for johnament__shaboopy test class feign.RequestTemplateTest
+Wed May 16 00:57:34 UTC 2018: Found element on the queue
+Wed May 16 00:57:34 UTC 2018: Updating status
+Wed May 16 00:57:34 UTC 2018: Working
+Wed May 16 00:57:36 UTC 2018: Start johnament__shaboopy test class feign.DefaultContractTest
+Wed May 16 00:57:36 UTC 2018: Setting lastTestMethodIndex: 54100
+Wed May 16 00:57:36 UTC 2018: Starting linking
+Wed May 16 00:57:36 UTC 2018: Code found feign.MethodMetadata-indexToName with feign.DefaultContractTest-headerParamsParseIntoIndexToNameNotAtStart
+Wed May 16 00:57:37 UTC 2018: Code found feign.MethodMetadata-queryMapEncoded with feign.DefaultContractTest-queryMapEncodedDefault
+Wed May 16 00:57:37 UTC 2018: Code found feign.MethodMetadata-indexToName with feign.DefaultContractTest-headerParamsParseIntoIndexToName
+Wed May 16 00:57:37 UTC 2018: Code found feign.MethodMetadata-queryMapEncoded with feign.DefaultContractTest-queryMapEncodedFalse
+Wed May 16 00:57:37 UTC 2018: Code found feign.MethodMetadata-queryMapEncoded with feign.DefaultContractTest-queryMapEncodedTrue
+Wed May 16 00:57:38 UTC 2018: Code found feign.MethodMetadata-indexToName with feign.DefaultContractTest-formParamsParseIntoIndexToName
+Wed May 16 00:57:38 UTC 2018: Code found feign.MethodMetadata-template with feign.DefaultContractTest-bodyWithTemplate
+Wed May 16 00:57:38 UTC 2018: Code found feign.MethodMetadata-bodyType with feign.DefaultContractTest-formParamsDoesNotSetBodyType
+Wed May 16 00:57:38 UTC 2018: No link for: feign.DefaultContractTest-parameterizedHeaderNotStartingWithCurlyBraceExpandApi
+Wed May 16 00:57:39 UTC 2018: No link for: feign.DefaultContractTest-queryMapMapSubclass
+Wed May 16 00:57:39 UTC 2018: No link for: feign.DefaultContractTest-pathAndQueryParams
+Wed May 16 00:57:39 UTC 2018: No link for: feign.DefaultContractTest-queryMapMustBeInstanceOfMap
+Wed May 16 00:57:39 UTC 2018: No link for: feign.DefaultContractTest-headersOnTypeAddsContentTypeHeader
+Wed May 16 00:57:40 UTC 2018: No link for: feign.DefaultContractTest-defaultMethodsOnInterfaceIgnored
+Wed May 16 00:57:40 UTC 2018: No link for: feign.DefaultContractTest-overrideBaseApiUnsupported
+Wed May 16 00:57:40 UTC 2018: No link for: feign.DefaultContractTest-parameterizedHeaderExpandApi
+Wed May 16 00:57:40 UTC 2018: No link for: feign.DefaultContractTest-bodyParamWithPathParam
+Wed May 16 00:57:41 UTC 2018: No link for: feign.DefaultContractTest-queryParamsInPathExtract
+Wed May 16 00:57:41 UTC 2018: No link for: feign.DefaultContractTest-tooManyBodies
+Wed May 16 00:57:41 UTC 2018: No link for: feign.DefaultContractTest-withPathAndURIParam
+Wed May 16 00:57:41 UTC 2018: No link for: feign.DefaultContractTest-parameterizedHeaderExpandApiBaseClass
+Wed May 16 00:57:42 UTC 2018: No link for: feign.DefaultContractTest-headersOnMethodAddsContentTypeHeader
+Wed May 16 00:57:42 UTC 2018: No link for: feign.DefaultContractTest-staticMethodsOnInterfaceIgnored
+Wed May 16 00:57:42 UTC 2018: No link for: feign.DefaultContractTest-onlyOneHeaderMapAnnotationPermitted
+Wed May 16 00:57:42 UTC 2018: No link for: feign.DefaultContractTest-bodyParamIsGeneric
+Wed May 16 00:57:43 UTC 2018: No link for: feign.DefaultContractTest-onlySingleLevelInheritanceSupported
+Wed May 16 00:57:43 UTC 2018: No link for: feign.DefaultContractTest-bodyWithoutParameters
+Wed May 16 00:57:43 UTC 2018: No link for: feign.DefaultContractTest-parameterizedBaseApi
+Wed May 16 00:57:43 UTC 2018: No link for: feign.DefaultContractTest-customMethodWithoutPath
+Wed May 16 00:57:44 UTC 2018: No link for: feign.DefaultContractTest-onlyOneQueryMapAnnotationPermitted
+Wed May 16 00:57:44 UTC 2018: No link for: feign.DefaultContractTest-queryMap
+Wed May 16 00:57:44 UTC 2018: No link for: feign.DefaultContractTest-simpleParameterizedBaseApi
+Wed May 16 00:57:44 UTC 2018: No link for: feign.DefaultContractTest-paramIsASubstringOfAQuery
+Wed May 16 00:57:45 UTC 2018: No link for: feign.DefaultContractTest-httpMethods
+Wed May 16 00:57:45 UTC 2018: No link for: feign.DefaultContractTest-missingMethod
+Wed May 16 00:57:45 UTC 2018: No link for: feign.DefaultContractTest-parameterizedApiUnsupported
+Wed May 16 00:57:45 UTC 2018: No link for: feign.DefaultContractTest-customExpander
+Wed May 16 00:57:45 UTC 2018: No link for: feign.DefaultContractTest-slashAreEncodedWhenNeeded
+Wed May 16 00:57:46 UTC 2018: Linking done for johnament__shaboopy test class feign.DefaultContractTest
+Wed May 16 00:57:46 UTC 2018: Found element on the queue
+Wed May 16 00:57:46 UTC 2018: Updating status
+Wed May 16 00:57:46 UTC 2018: Working
+Wed May 16 00:57:48 UTC 2018: Start johnament__shaboopy test class feign.auth.BasicAuthRequestInterceptorTest
+Wed May 16 00:57:48 UTC 2018: Setting lastTestMethodIndex: 54104
+Wed May 16 00:57:48 UTC 2018: Starting linking
+Wed May 16 00:57:48 UTC 2018: No link for: feign.auth.BasicAuthRequestInterceptorTest-addsAuthorizationHeader_longUserAndPassword
+Wed May 16 00:57:49 UTC 2018: No link for: feign.auth.BasicAuthRequestInterceptorTest-addsAuthorizationHeader
+Wed May 16 00:57:49 UTC 2018: Linking done for johnament__shaboopy test class feign.auth.BasicAuthRequestInterceptorTest
+Wed May 16 00:57:49 UTC 2018: Found element on the queue
+Wed May 16 00:57:49 UTC 2018: Updating status
+Wed May 16 00:57:49 UTC 2018: Working
+Wed May 16 00:57:52 UTC 2018: Start johnament__shaboopy test class feign.RetryerTest
+Wed May 16 00:57:52 UTC 2018: Setting lastTestMethodIndex: 54105
+Wed May 16 00:57:52 UTC 2018: Starting linking
+Wed May 16 00:57:52 UTC 2018: No link for: feign.RetryerTest-neverRetryAlwaysPropagates
+Wed May 16 00:57:52 UTC 2018: No link for: feign.RetryerTest-considersRetryAfterButNotMoreThanMaxPeriod
+Wed May 16 00:57:52 UTC 2018: No link for: feign.RetryerTest-only5TriesAllowedAndExponentialBackoff
+Wed May 16 00:57:53 UTC 2018: Linking done for johnament__shaboopy test class feign.RetryerTest
+Wed May 16 00:57:53 UTC 2018: Found element on the queue
+Wed May 16 00:57:53 UTC 2018: Updating status
+Wed May 16 00:57:53 UTC 2018: Working
+Wed May 16 00:57:55 UTC 2018: Start johnament__shaboopy test class feign.EmptyTargetTest
+Wed May 16 00:57:55 UTC 2018: Setting lastTestMethodIndex: 54106
+Wed May 16 00:57:55 UTC 2018: Starting linking
+Wed May 16 00:57:55 UTC 2018: Code found feign.Target$EmptyTarget-apply with feign.EmptyTargetTest-mustApplyToAbsoluteUrl
+Wed May 16 00:57:55 UTC 2018: Code found feign.Target$EmptyTarget-toString with feign.EmptyTargetTest-toString_withName
+Wed May 16 00:57:56 UTC 2018: Code found feign.Target$EmptyTarget-toString with feign.EmptyTargetTest-toString_withoutName
+Wed May 16 00:57:56 UTC 2018: No link for: feign.EmptyTargetTest-whenNameNotSupplied
+Wed May 16 00:57:56 UTC 2018: Linking done for johnament__shaboopy test class feign.EmptyTargetTest
+Wed May 16 00:57:57 UTC 2018: Found element on the queue
+Wed May 16 00:57:57 UTC 2018: Updating status
+Wed May 16 00:57:57 UTC 2018: Working
+Wed May 16 00:57:59 UTC 2018: Start johnament__shaboopy test class feign.ResponseTest
+Wed May 16 00:57:59 UTC 2018: Setting lastTestMethodIndex: 54110
+Wed May 16 00:57:59 UTC 2018: Starting linking
+Wed May 16 00:57:59 UTC 2018: No code found feign.Response-headers with feign.ResponseTest-canAccessHeadersCaseInsensitively
+Wed May 16 00:58:00 UTC 2018: No code found feign.Response-reason with feign.ResponseTest-reasonPhraseIsOptional
+Wed May 16 00:58:00 UTC 2018: No link for: feign.ResponseTest-headerValuesWithSameNameOnlyVaryingInCaseAreMerged
+Wed May 16 00:58:00 UTC 2018: Linking done for johnament__shaboopy test class feign.ResponseTest
+Wed May 16 00:58:01 UTC 2018: Found element on the queue
+Wed May 16 00:58:01 UTC 2018: Updating status
+Wed May 16 00:58:01 UTC 2018: Working
+Wed May 16 00:58:01 UTC 2018: Create project parser
+Wed May 16 00:58:03 UTC 2018: Start johnament__shaboopy test class feign.gson.GsonCodecTest
+Wed May 16 00:58:03 UTC 2018: Setting lastTestMethodIndex: 54113
+Wed May 16 00:58:03 UTC 2018: Starting linking
+Wed May 16 00:58:03 UTC 2018: Code found feign.gson.GsonDecoder-decode with feign.gson.GsonCodecTest-emptyBodyDecodesToNull
+Wed May 16 00:58:03 UTC 2018: Code found feign.gson.GsonDecoder-decode with feign.gson.GsonCodecTest-decodesMapObjectNumericalValuesAsInteger
+Wed May 16 00:58:04 UTC 2018: Code found feign.gson.GsonDecoder-decode with feign.gson.GsonCodecTest-customDecoder
+Wed May 16 00:58:04 UTC 2018: Code found feign.gson.GsonDecoder-decode with feign.gson.GsonCodecTest-notFoundDecodesToEmpty
+Wed May 16 00:58:04 UTC 2018: Code found feign.gson.GsonDecoder-decode with feign.gson.GsonCodecTest-nullBodyDecodesToNull
+Wed May 16 00:58:04 UTC 2018: Code found feign.gson.GsonDecoder-decode with feign.gson.GsonCodecTest-decodes
+Wed May 16 00:58:05 UTC 2018: No link for: feign.gson.GsonCodecTest-customEncoder
+Wed May 16 00:58:05 UTC 2018: No link for: feign.gson.GsonCodecTest-encodesMapObjectNumericalValuesAsInteger
+Wed May 16 00:58:05 UTC 2018: No link for: feign.gson.GsonCodecTest-encodesFormParams
+Wed May 16 00:58:05 UTC 2018: Linking done for johnament__shaboopy test class feign.gson.GsonCodecTest
+Wed May 16 00:58:06 UTC 2018: Found element on the queue
+Wed May 16 00:58:06 UTC 2018: Updating status
+Wed May 16 00:58:06 UTC 2018: Working
+Wed May 16 00:58:06 UTC 2018: Create project parser
+Wed May 16 00:58:08 UTC 2018: Start johnament__shaboopy test class feign.jackson.jaxb.JacksonJaxbCodecTest
+Wed May 16 00:58:08 UTC 2018: Setting lastTestMethodIndex: 54116
+Wed May 16 00:58:08 UTC 2018: Starting linking
+Wed May 16 00:58:08 UTC 2018: Code found feign.jackson.jaxb.JacksonJaxbJsonDecoder-decode with feign.jackson.jaxb.JacksonJaxbCodecTest-decodeTest
+Wed May 16 00:58:09 UTC 2018: Code found feign.jackson.jaxb.JacksonJaxbJsonDecoder-decode with feign.jackson.jaxb.JacksonJaxbCodecTest-notFoundDecodesToEmpty
+Wed May 16 00:58:09 UTC 2018: No link for: feign.jackson.jaxb.JacksonJaxbCodecTest-encodeTest
+Wed May 16 00:58:09 UTC 2018: Linking done for johnament__shaboopy test class feign.jackson.jaxb.JacksonJaxbCodecTest
+Wed May 16 00:58:10 UTC 2018: Found element on the queue
+Wed May 16 00:58:10 UTC 2018: Updating status
+Wed May 16 00:58:10 UTC 2018: Working
+Wed May 16 00:58:10 UTC 2018: Create project parser
+Wed May 16 00:58:13 UTC 2018: Start johnament__shaboopy test class feign.jackson.JacksonCodecTest
+Wed May 16 00:58:13 UTC 2018: Setting lastTestMethodIndex: 54119
+Wed May 16 00:58:13 UTC 2018: Starting linking
+Wed May 16 00:58:13 UTC 2018: Code found feign.jackson.JacksonDecoder-decode with feign.jackson.JacksonCodecTest-emptyBodyDecodesToNull
+Wed May 16 00:58:13 UTC 2018: Code found feign.jackson.JacksonDecoder-decode with feign.jackson.JacksonCodecTest-decodes
+Wed May 16 00:58:13 UTC 2018: Code found feign.jackson.JacksonDecoder-decode with feign.jackson.JacksonCodecTest-nullBodyDecodesToNull
+Wed May 16 00:58:13 UTC 2018: Code found feign.jackson.JacksonDecoder-decode with feign.jackson.JacksonCodecTest-customDecoder
+Wed May 16 00:58:14 UTC 2018: Code found feign.jackson.JacksonDecoder-decode with feign.jackson.JacksonCodecTest-notFoundDecodesToEmpty
+Wed May 16 00:58:14 UTC 2018: No link for: feign.jackson.JacksonCodecTest-encodesMapObjectNumericalValuesAsInteger
+Wed May 16 00:58:14 UTC 2018: No link for: feign.jackson.JacksonCodecTest-encodesFormParams
+Wed May 16 00:58:14 UTC 2018: No link for: feign.jackson.JacksonCodecTest-customEncoder
+Wed May 16 00:58:15 UTC 2018: Linking done for johnament__shaboopy test class feign.jackson.JacksonCodecTest
+Wed May 16 00:58:15 UTC 2018: Found element on the queue
+Wed May 16 00:58:15 UTC 2018: Updating status
+Wed May 16 00:58:15 UTC 2018: Working
+Wed May 16 00:58:15 UTC 2018: Create project parser
+Wed May 16 00:58:18 UTC 2018: Start johnament__shaboopy test class feign.jaxb.JAXBCodecTest
+Wed May 16 00:58:18 UTC 2018: Setting lastTestMethodIndex: 54123
+Wed May 16 00:58:18 UTC 2018: Starting linking
+Wed May 16 00:58:18 UTC 2018: Code found feign.jaxb.JAXBEncoder-encode with feign.jaxb.JAXBCodecTest-doesntEncodeParameterizedTypes
+Wed May 16 00:58:18 UTC 2018: Code found feign.jaxb.JAXBEncoder-encode with feign.jaxb.JAXBCodecTest-encodesXml
+Wed May 16 00:58:18 UTC 2018: Code found feign.jaxb.JAXBEncoder-encode with feign.jaxb.JAXBCodecTest-encodesXmlWithCustomJAXBNoNamespaceSchemaLocation
+Wed May 16 00:58:19 UTC 2018: Code found feign.jaxb.JAXBEncoder-encode with feign.jaxb.JAXBCodecTest-encodesXmlWithCustomJAXBFormattedOutput
+Wed May 16 00:58:19 UTC 2018: Code found feign.jaxb.JAXBEncoder-encode with feign.jaxb.JAXBCodecTest-encodesXmlWithCustomJAXBEncoding
+Wed May 16 00:58:19 UTC 2018: Code found feign.jaxb.JAXBEncoder-encode with feign.jaxb.JAXBCodecTest-encodesXmlWithCustomJAXBSchemaLocation
+Wed May 16 00:58:19 UTC 2018: No link for: feign.jaxb.JAXBCodecTest-decodesXml
+Wed May 16 00:58:20 UTC 2018: No link for: feign.jaxb.JAXBCodecTest-doesntDecodeParameterizedTypes
+Wed May 16 00:58:20 UTC 2018: No link for: feign.jaxb.JAXBCodecTest-notFoundDecodesToEmpty
+Wed May 16 00:58:20 UTC 2018: Linking done for johnament__shaboopy test class feign.jaxb.JAXBCodecTest
+Wed May 16 00:58:21 UTC 2018: Found element on the queue
+Wed May 16 00:58:21 UTC 2018: Updating status
+Wed May 16 00:58:21 UTC 2018: Working
+Wed May 16 00:58:23 UTC 2018: Start johnament__shaboopy test class feign.jaxb.JAXBContextFactoryTest
+Wed May 16 00:58:23 UTC 2018: Setting lastTestMethodIndex: 54126
+Wed May 16 00:58:23 UTC 2018: Starting linking
+Wed May 16 00:58:23 UTC 2018: Code found feign.jaxb.JAXBContextFactory$Builder-build with feign.jaxb.JAXBContextFactoryTest-buildsMarshallerWithSchemaLocationProperty
+Wed May 16 00:58:23 UTC 2018: Code found feign.jaxb.JAXBContextFactory$Builder-build with feign.jaxb.JAXBContextFactoryTest-buildsMarshallerWithJAXBEncodingProperty
+Wed May 16 00:58:24 UTC 2018: Code found feign.jaxb.JAXBContextFactory$Builder-build with feign.jaxb.JAXBContextFactoryTest-buildsMarshallerWithFragmentProperty
+Wed May 16 00:58:24 UTC 2018: Code found feign.jaxb.JAXBContextFactory$Builder-build with feign.jaxb.JAXBContextFactoryTest-buildsMarshallerWithNoNamespaceSchemaLocationProperty
+Wed May 16 00:58:24 UTC 2018: Code found feign.jaxb.JAXBContextFactory$Builder-build with feign.jaxb.JAXBContextFactoryTest-buildsMarshallerWithFormattedOutputProperty
+Wed May 16 00:58:24 UTC 2018: Linking done for johnament__shaboopy test class feign.jaxb.JAXBContextFactoryTest
+Wed May 16 00:58:25 UTC 2018: Found element on the queue
+Wed May 16 00:58:25 UTC 2018: Updating status
+Wed May 16 00:58:25 UTC 2018: Working
+Wed May 16 00:58:25 UTC 2018: Create project parser
+Wed May 16 00:58:28 UTC 2018: Start johnament__shaboopy test class feign.jaxrs.JAXRSContractTest
+Wed May 16 00:58:28 UTC 2018: Setting lastTestMethodIndex: 54129
+Wed May 16 00:58:28 UTC 2018: Starting linking
+Wed May 16 00:58:28 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-consumesNada
+Wed May 16 00:58:28 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-pathParamWithSpaces
+Wed May 16 00:58:28 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-pathsWithSomeOtherSlashesParseCorrectly
+Wed May 16 00:58:28 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-withPathAndURIParams
+Wed May 16 00:58:29 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-tooManyBodies
+Wed May 16 00:58:29 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-regexPathOnMethod
+Wed May 16 00:58:29 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-producesAddsAcceptHeader
+Wed May 16 00:58:30 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-emptyFormParam
+Wed May 16 00:58:30 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-httpMethods
+Wed May 16 00:58:30 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-consumesEmpty
+Wed May 16 00:58:30 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-emptyPathOnType
+Wed May 16 00:58:31 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-formParamsDoesNotSetBodyType
+Wed May 16 00:58:31 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-consumesAddsContentTypeHeader
+Wed May 16 00:58:31 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-emptyPathParam
+Wed May 16 00:58:31 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-headerParamsParseIntoIndexToName
+Wed May 16 00:58:32 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-queryParamsInPathExtract
+Wed May 16 00:58:32 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-customMethodWithoutPath
+Wed May 16 00:58:32 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-pathsWithSomeSlashesParseCorrectly
+Wed May 16 00:58:32 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-classPathWithTrailingSlashParsesCorrectly
+Wed May 16 00:58:33 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-methodPathWithoutLeadingSlashParsesCorrectly
+Wed May 16 00:58:33 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-parsePathMethod
+Wed May 16 00:58:33 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-producesAndConsumesOnClassAddsHeader
+Wed May 16 00:58:34 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-bodyParamIsGeneric
+Wed May 16 00:58:34 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-emptyHeaderParam
+Wed May 16 00:58:34 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-producesNada
+Wed May 16 00:58:34 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-emptyQueryParam
+Wed May 16 00:58:35 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-formParamsParseIntoIndexToName
+Wed May 16 00:58:35 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-emptyPathOnMethod
+Wed May 16 00:58:35 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-classWithRootPathParsesCorrectly
+Wed May 16 00:58:35 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-pathsWithoutSlashesParseCorrectly
+Wed May 16 00:58:36 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-producesEmpty
+Wed May 16 00:58:36 UTC 2018: No link for: feign.jaxrs.JAXRSContractTest-pathAndQueryParams
+Wed May 16 00:58:36 UTC 2018: Linking done for johnament__shaboopy test class feign.jaxrs.JAXRSContractTest
+Wed May 16 00:58:37 UTC 2018: Found element on the queue
+Wed May 16 00:58:37 UTC 2018: Updating status
+Wed May 16 00:58:37 UTC 2018: Working
+Wed May 16 00:58:37 UTC 2018: Create project parser
+Wed May 16 00:58:39 UTC 2018: Start johnament__shaboopy test class feign.ribbon.LBClientFactoryTest
+Wed May 16 00:58:39 UTC 2018: Setting lastTestMethodIndex: 54135
+Wed May 16 00:58:39 UTC 2018: Starting linking
+Wed May 16 00:58:40 UTC 2018: Code found feign.ribbon.LBClientFactory$Default-create with feign.ribbon.LBClientFactoryTest-testCreateLBClient
+Wed May 16 00:58:40 UTC 2018: Linking done for johnament__shaboopy test class feign.ribbon.LBClientFactoryTest
+Wed May 16 00:58:40 UTC 2018: Found element on the queue
+Wed May 16 00:58:40 UTC 2018: Updating status
+Wed May 16 00:58:40 UTC 2018: Working
+Wed May 16 00:58:43 UTC 2018: Start johnament__shaboopy test class feign.ribbon.PropagateFirstIOExceptionTest
+Wed May 16 00:58:43 UTC 2018: Setting lastTestMethodIndex: 54138
+Wed May 16 00:58:43 UTC 2018: Starting linking
+Wed May 16 00:58:43 UTC 2018: No link for: feign.ribbon.PropagateFirstIOExceptionTest-doesntPropagateWhenNotIOE
+Wed May 16 00:58:43 UTC 2018: No link for: feign.ribbon.PropagateFirstIOExceptionTest-propagatesDoubleNestedIOE
+Wed May 16 00:58:43 UTC 2018: No link for: feign.ribbon.PropagateFirstIOExceptionTest-propagatesNestedIOE
+Wed May 16 00:58:43 UTC 2018: No link for: feign.ribbon.PropagateFirstIOExceptionTest-propagatesFirstNestedIOE
+Wed May 16 00:58:44 UTC 2018: Linking done for johnament__shaboopy test class feign.ribbon.PropagateFirstIOExceptionTest
+Wed May 16 00:58:44 UTC 2018: Found element on the queue
+Wed May 16 00:58:44 UTC 2018: Updating status
+Wed May 16 00:58:44 UTC 2018: Working
+Wed May 16 00:58:44 UTC 2018: Create project parser
+Wed May 16 00:58:47 UTC 2018: Start johnament__shaboopy test class feign.sax.SAXDecoderTest
+Wed May 16 00:58:47 UTC 2018: Setting lastTestMethodIndex: 54139
+Wed May 16 00:58:47 UTC 2018: Starting linking
+Wed May 16 00:58:47 UTC 2018: Code found feign.sax.SAXDecoder-decode with feign.sax.SAXDecoderTest-notFoundDecodesToEmpty
+Wed May 16 00:58:47 UTC 2018: Code found feign.sax.SAXDecoder-decode with feign.sax.SAXDecoderTest-nullBodyDecodesToNull
+Wed May 16 00:58:47 UTC 2018: No link for: feign.sax.SAXDecoderTest-parsesConfiguredTypes
+Wed May 16 00:58:48 UTC 2018: No link for: feign.sax.SAXDecoderTest-niceErrorOnUnconfiguredType
+Wed May 16 00:58:48 UTC 2018: Linking done for johnament__shaboopy test class feign.sax.SAXDecoderTest
+Wed May 16 00:58:48 UTC 2018: Found element on the queue
+Wed May 16 00:58:48 UTC 2018: Updating status
+Wed May 16 00:58:48 UTC 2018: Working
+Wed May 16 00:58:48 UTC 2018: Create project parser
+Wed May 16 00:58:51 UTC 2018: Start johnament__shaboopy test class feign.slf4j.Slf4jLoggerTest
+Wed May 16 00:58:51 UTC 2018: Setting lastTestMethodIndex: 54142
+Wed May 16 00:58:51 UTC 2018: Starting linking
+Wed May 16 00:58:51 UTC 2018: Code found feign.slf4j.Slf4jLogger-log with feign.slf4j.Slf4jLoggerTest-useFeignLoggerByDefault
+Wed May 16 00:58:51 UTC 2018: Code found feign.slf4j.Slf4jLogger-log with feign.slf4j.Slf4jLoggerTest-useSpecifiedLoggerIfRequested
+Wed May 16 00:58:51 UTC 2018: Code found feign.slf4j.Slf4jLogger-log with feign.slf4j.Slf4jLoggerTest-useLoggerByNameIfRequested
+Wed May 16 00:58:52 UTC 2018: Code found feign.slf4j.Slf4jLogger-log with feign.slf4j.Slf4jLoggerTest-useLoggerByClassIfRequested
+Wed May 16 00:58:52 UTC 2018: Code found feign.slf4j.Slf4jLogger-logRequest with feign.slf4j.Slf4jLoggerTest-logRequestsAndResponses
+Wed May 16 00:58:52 UTC 2018: Code found feign.slf4j.Slf4jLogger-log with feign.slf4j.Slf4jLoggerTest-logOnlyIfDebugEnabled
+Wed May 16 00:58:52 UTC 2018: Linking done for johnament__shaboopy test class feign.slf4j.Slf4jLoggerTest

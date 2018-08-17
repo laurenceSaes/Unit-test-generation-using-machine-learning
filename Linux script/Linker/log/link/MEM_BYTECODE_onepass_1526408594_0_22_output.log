@@ -1,0 +1,609 @@
+Tue May 15 22:24:01 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:24:01 UTC 2018: Starting
+Tue May 15 22:24:02 UTC 2018: Found element on the queue
+Tue May 15 22:24:02 UTC 2018: Updating status
+Tue May 15 22:24:02 UTC 2018: Working
+Tue May 15 22:24:02 UTC 2018: Create project parser
+Tue May 15 22:24:17 UTC 2018: Create slicer
+Tue May 15 22:24:21 UTC 2018: Create call graph
+Tue May 15 22:24:29 UTC 2018: Create point analysis
+Tue May 15 22:24:29 UTC 2018: Create call graph done
+Tue May 15 22:24:29 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SpringNamespaceHandlerAnalyzer
+Tue May 15 22:24:29 UTC 2018: Setting lastTestMethodIndex: 49075
+Tue May 15 22:24:29 UTC 2018: Starting linking
+Tue May 15 22:24:29 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SpringNamespaceHandlerAnalyzer-shouldRecognizeDefinedNamespaceHandlers
+Tue May 15 22:24:30 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SpringNamespaceHandlerAnalyzer-handlesIOExceptionWhenAnalyzingFile
+Tue May 15 22:24:30 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SpringNamespaceHandlerAnalyzer
+Tue May 15 22:24:31 UTC 2018: Found element on the queue
+Tue May 15 22:24:31 UTC 2018: Updating status
+Tue May 15 22:24:31 UTC 2018: Working
+Tue May 15 22:24:35 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_XmlAnalyzer
+Tue May 15 22:24:35 UTC 2018: Setting lastTestMethodIndex: 49077
+Tue May 15 22:24:35 UTC 2018: Starting linking
+Tue May 15 22:24:35 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_XmlAnalyzer-handlesSaxExceptionInConstructor
+Tue May 15 22:24:36 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_XmlAnalyzer-parsesMatchingFile
+Tue May 15 22:24:36 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_XmlAnalyzer-handlesIOExceptionWhenAnalyzingFile
+Tue May 15 22:24:37 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_XmlAnalyzer-doesNotParseNonMatchingFile
+Tue May 15 22:24:37 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_XmlAnalyzer
+Tue May 15 22:24:39 UTC 2018: Found element on the queue
+Tue May 15 22:24:39 UTC 2018: Updating status
+Tue May 15 22:24:39 UTC 2018: Working
+Tue May 15 22:24:42 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_DeadCodeComputer
+Tue May 15 22:24:42 UTC 2018: Setting lastTestMethodIndex: 49080
+Tue May 15 22:24:42 UTC 2018: Starting linking
+Tue May 15 22:24:43 UTC 2018: No link for: de.is24.deadcode4j.A_DeadCodeComputer-recognizesASingleClassAsDeadCode
+Tue May 15 22:24:43 UTC 2018: No link for: de.is24.deadcode4j.A_DeadCodeComputer-recognizesDependencyChainAsPartlyDeadCode
+Tue May 15 22:24:43 UTC 2018: No link for: de.is24.deadcode4j.A_DeadCodeComputer-recognizesTwoInterdependentClassesAsLiveCode
+Tue May 15 22:24:44 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_DeadCodeComputer
+Tue May 15 22:24:46 UTC 2018: Found element on the queue
+Tue May 15 22:24:46 UTC 2018: Updating status
+Tue May 15 22:24:46 UTC 2018: Working
+Tue May 15 22:24:49 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_JerseyWebXmlAnalyzer
+Tue May 15 22:24:49 UTC 2018: Setting lastTestMethodIndex: 49082
+Tue May 15 22:24:49 UTC 2018: Starting linking
+Tue May 15 22:24:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_JerseyWebXmlAnalyzer-shouldParseWebXmlFiles
+Tue May 15 22:24:50 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_JerseyWebXmlAnalyzer
+Tue May 15 22:24:51 UTC 2018: Found element on the queue
+Tue May 15 22:24:51 UTC 2018: Updating status
+Tue May 15 22:24:51 UTC 2018: Working
+Tue May 15 22:24:55 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_Utils
+Tue May 15 22:24:55 UTC 2018: Setting lastTestMethodIndex: 49085
+Tue May 15 22:24:55 UTC 2018: Starting linking
+Tue May 15 22:24:55 UTC 2018: No link for: de.is24.deadcode4j.A_Utils-addsSetToMapIfNoMappedSetExists
+Tue May 15 22:24:55 UTC 2018: No link for: de.is24.deadcode4j.A_Utils-returnsMappedValue
+Tue May 15 22:24:56 UTC 2018: No link for: de.is24.deadcode4j.A_Utils-addsNotNullValue
+Tue May 15 22:24:56 UTC 2018: No link for: de.is24.deadcode4j.A_Utils-preservesExistingSetIfMappedSetExists
+Tue May 15 22:24:57 UTC 2018: No link for: de.is24.deadcode4j.A_Utils-returnsTheArgumentIfItsNonNull
+Tue May 15 22:24:57 UTC 2018: No link for: de.is24.deadcode4j.A_Utils-returnsDefaultValue
+Tue May 15 22:24:57 UTC 2018: No link for: de.is24.deadcode4j.A_Utils-doesNotAddNull
+Tue May 15 22:24:57 UTC 2018: No link for: de.is24.deadcode4j.A_Utils-throwsExceptionIfArgumentIsNull
+Tue May 15 22:24:58 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_Utils
+Tue May 15 22:24:59 UTC 2018: Found element on the queue
+Tue May 15 22:24:59 UTC 2018: Updating status
+Tue May 15 22:24:59 UTC 2018: Working
+Tue May 15 22:25:03 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_CustomInterfacesAnalyzer
+Tue May 15 22:25:03 UTC 2018: Setting lastTestMethodIndex: 49088
+Tue May 15 22:25:03 UTC 2018: Starting linking
+Tue May 15 22:25:03 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomInterfacesAnalyzer-logsObsoleteInterfaceEntry
+Tue May 15 22:25:03 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomInterfacesAnalyzer-doesNotLogInterfaceEntryFoundInClassPath
+Tue May 15 22:25:04 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_CustomInterfacesAnalyzer
+Tue May 15 22:25:05 UTC 2018: Found element on the queue
+Tue May 15 22:25:05 UTC 2018: Updating status
+Tue May 15 22:25:05 UTC 2018: Working
+Tue May 15 22:25:09 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_LogbackXmlAnalyzer
+Tue May 15 22:25:09 UTC 2018: Setting lastTestMethodIndex: 49091
+Tue May 15 22:25:09 UTC 2018: Starting linking
+Tue May 15 22:25:09 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_LogbackXmlAnalyzer-shouldParseLogbackFiles
+Tue May 15 22:25:10 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_LogbackXmlAnalyzer
+Tue May 15 22:25:11 UTC 2018: Found element on the queue
+Tue May 15 22:25:11 UTC 2018: Updating status
+Tue May 15 22:25:11 UTC 2018: Working
+Tue May 15 22:25:15 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.webxml.A_BaseWebXmlAnalyzer
+Tue May 15 22:25:15 UTC 2018: Setting lastTestMethodIndex: 49094
+Tue May 15 22:25:15 UTC 2018: Starting linking
+Tue May 15 22:25:15 UTC 2018: Code found de.is24.deadcode4j.analyzer.webxml.WebXmlHandler-filter with de.is24.deadcode4j.analyzer.webxml.A_BaseWebXmlAnalyzer-sendsFilterEventForAFilterNode
+Tue May 15 22:25:15 UTC 2018: Code found de.is24.deadcode4j.analyzer.webxml.WebXmlHandler-listener with de.is24.deadcode4j.analyzer.webxml.A_BaseWebXmlAnalyzer-sendsListenerEventForAListenerNode
+Tue May 15 22:25:15 UTC 2018: Code found de.is24.deadcode4j.analyzer.webxml.WebXmlHandler-contextParam with de.is24.deadcode4j.analyzer.webxml.A_BaseWebXmlAnalyzer-sendsContextParamEventForAContextParamNode
+Tue May 15 22:25:16 UTC 2018: Code found de.is24.deadcode4j.analyzer.webxml.WebXmlHandler-servlet with de.is24.deadcode4j.analyzer.webxml.A_BaseWebXmlAnalyzer-sendsServletEventForAServletNode
+Tue May 15 22:25:16 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.webxml.A_BaseWebXmlAnalyzer
+Tue May 15 22:25:17 UTC 2018: Found element on the queue
+Tue May 15 22:25:17 UTC 2018: Updating status
+Tue May 15 22:25:17 UTC 2018: Working
+Tue May 15 22:25:21 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.javaparser.A_Nodes
+Tue May 15 22:25:21 UTC 2018: Setting lastTestMethodIndex: 49097
+Tue May 15 22:25:21 UTC 2018: Starting linking
+Tue May 15 22:25:22 UTC 2018: Code found de.is24.javaparser.Nodes-prepend with de.is24.javaparser.A_Nodes-prependsQualifiedNameExpression
+Tue May 15 22:25:22 UTC 2018: Code found de.is24.javaparser.Nodes-prepend with de.is24.javaparser.A_Nodes-prependsNameExpression
+Tue May 15 22:25:22 UTC 2018: No link for: de.is24.javaparser.A_Nodes-calculatesTypeNames
+Tue May 15 22:25:23 UTC 2018: No link for: de.is24.javaparser.A_Nodes-prependsNothingForEmptyStringBuilder
+Tue May 15 22:25:23 UTC 2018: No link for: de.is24.javaparser.A_Nodes-prependsSeparator
+Tue May 15 22:25:24 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.javaparser.A_Nodes
+Tue May 15 22:25:25 UTC 2018: Found element on the queue
+Tue May 15 22:25:25 UTC 2018: Updating status
+Tue May 15 22:25:25 UTC 2018: Working
+Tue May 15 22:25:29 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_CustomSuperClassAnalyzer
+Tue May 15 22:25:29 UTC 2018: Setting lastTestMethodIndex: 49100
+Tue May 15 22:25:29 UTC 2018: Starting linking
+Tue May 15 22:25:29 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomSuperClassAnalyzer-logsObsoleteSuperClassEntry
+Tue May 15 22:25:30 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomSuperClassAnalyzer-doesNotLogSuperClassEntryFoundInClassPath
+Tue May 15 22:25:30 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_CustomSuperClassAnalyzer
+Tue May 15 22:25:31 UTC 2018: Found element on the queue
+Tue May 15 22:25:31 UTC 2018: Updating status
+Tue May 15 22:25:31 UTC 2018: Working
+Tue May 15 22:25:35 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.javaparser.An_ImportDeclarations
+Tue May 15 22:25:35 UTC 2018: Setting lastTestMethodIndex: 49103
+Tue May 15 22:25:35 UTC 2018: Starting linking
+Tue May 15 22:25:35 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.javaparser.An_ImportDeclarations
+Tue May 15 22:25:36 UTC 2018: Found element on the queue
+Tue May 15 22:25:36 UTC 2018: Updating status
+Tue May 15 22:25:36 UTC 2018: Working
+Tue May 15 22:25:40 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.javassist.A_CtClasses
+Tue May 15 22:25:40 UTC 2018: Setting lastTestMethodIndex: 49105
+Tue May 15 22:25:40 UTC 2018: Starting linking
+Tue May 15 22:25:40 UTC 2018: No link for: de.is24.deadcode4j.analyzer.javassist.A_CtClasses-silentlyFailsForMissingDeclaringClass
+Tue May 15 22:25:41 UTC 2018: No link for: de.is24.deadcode4j.analyzer.javassist.A_CtClasses-handlesClassLoadingIssuesSilently
+Tue May 15 22:25:41 UTC 2018: No link for: de.is24.deadcode4j.analyzer.javassist.A_CtClasses-retrievesAllImplementedInterfaces
+Tue May 15 22:25:41 UTC 2018: No link for: de.is24.deadcode4j.analyzer.javassist.A_CtClasses-silentlyFailsForMissingNestedClasses
+Tue May 15 22:25:42 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.javassist.A_CtClasses
+Tue May 15 22:25:43 UTC 2018: Found element on the queue
+Tue May 15 22:25:43 UTC 2018: Updating status
+Tue May 15 22:25:43 UTC 2018: Working
+Tue May 15 22:25:47 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.plugin.A_ModuleGenerator
+Tue May 15 22:25:47 UTC 2018: Setting lastTestMethodIndex: 49108
+Tue May 15 22:25:47 UTC 2018: Starting linking
+Tue May 15 22:25:47 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_ModuleGenerator-createsClassPathEntryForKnownProject
+Tue May 15 22:25:48 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_ModuleGenerator-createsModuleForMavenProjectWithOutputDirectory
+Tue May 15 22:25:48 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_ModuleGenerator-createsNoClassPathEntryForInvalidDependency
+Tue May 15 22:25:48 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_ModuleGenerator-createsModuleForMavenProjectWithoutOutputDirectory
+Tue May 15 22:25:49 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_ModuleGenerator-createsClassPathEntryForResolvedDependency
+Tue May 15 22:25:49 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_ModuleGenerator-createsClassPathEntryForUnresolvedDependency
+Tue May 15 22:25:49 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_ModuleGenerator-createsNoClassPathEntryForUnresolvableDependency
+Tue May 15 22:25:50 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.plugin.A_ModuleGenerator
+Tue May 15 22:25:51 UTC 2018: Found element on the queue
+Tue May 15 22:25:51 UTC 2018: Updating status
+Tue May 15 22:25:51 UTC 2018: Working
+Tue May 15 22:25:53 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_DeadCodeFinder
+Tue May 15 22:25:53 UTC 2018: Setting lastTestMethodIndex: 49110
+Tue May 15 22:25:53 UTC 2018: Starting linking
+Tue May 15 22:25:53 UTC 2018: No link for: de.is24.deadcode4j.A_DeadCodeFinder-computesDeadCode
+Tue May 15 22:25:53 UTC 2018: No link for: de.is24.deadcode4j.A_DeadCodeFinder-callsFinishAnalysisForProject
+Tue May 15 22:25:54 UTC 2018: No link for: de.is24.deadcode4j.A_DeadCodeFinder-callsFinishAnalysisForEachModule
+Tue May 15 22:25:54 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_DeadCodeFinder
+Tue May 15 22:25:55 UTC 2018: Found element on the queue
+Tue May 15 22:25:55 UTC 2018: Updating status
+Tue May 15 22:25:55 UTC 2018: Working
+Tue May 15 22:25:59 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SpringWebXmlAnalyzer
+Tue May 15 22:25:59 UTC 2018: Setting lastTestMethodIndex: 49112
+Tue May 15 22:25:59 UTC 2018: Starting linking
+Tue May 15 22:25:59 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SpringWebXmlAnalyzer-shouldParseWebXmlFiles
+Tue May 15 22:25:59 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SpringWebXmlAnalyzer
+Tue May 15 22:26:00 UTC 2018: Found element on the queue
+Tue May 15 22:26:00 UTC 2018: Updating status
+Tue May 15 22:26:00 UTC 2018: Working
+Tue May 15 22:26:06 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_Module
+Tue May 15 22:26:06 UTC 2018: Setting lastTestMethodIndex: 49115
+Tue May 15 22:26:06 UTC 2018: Starting linking
+Tue May 15 22:26:06 UTC 2018: Code found de.is24.deadcode4j.Module-sort with de.is24.deadcode4j.A_Module-throwsExceptionIfSortingFails
+Tue May 15 22:26:06 UTC 2018: Code found de.is24.deadcode4j.Module-sort with de.is24.deadcode4j.A_Module-sortsReallyComplexDependencyGraphCorrectly
+Tue May 15 22:26:07 UTC 2018: Code found de.is24.deadcode4j.Module-sort with de.is24.deadcode4j.A_Module-sortsModulesByDependency
+Tue May 15 22:26:07 UTC 2018: Code found de.is24.deadcode4j.Module-sort with de.is24.deadcode4j.A_Module-sortsUnrelatedModulesAlphabetically
+Tue May 15 22:26:07 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_Module
+Tue May 15 22:26:08 UTC 2018: Found element on the queue
+Tue May 15 22:26:08 UTC 2018: Updating status
+Tue May 15 22:26:08 UTC 2018: Working
+Tue May 15 22:26:12 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.plugin.A_DeadCodeLogger
+Tue May 15 22:26:12 UTC 2018: Setting lastTestMethodIndex: 49117
+Tue May 15 22:26:12 UTC 2018: Starting linking
+Tue May 15 22:26:12 UTC 2018: Code found de.is24.deadcode4j.plugin.DeadCodeLogger-log with de.is24.deadcode4j.plugin.A_DeadCodeLogger-logsThatAnExceptionOccurredDuringFileAnalysis
+Tue May 15 22:26:13 UTC 2018: Code found de.is24.deadcode4j.plugin.DeadCodeLogger-log with de.is24.deadcode4j.plugin.A_DeadCodeLogger-logsThatAnExceptionOccurredDuringDeadCodeAnalysis
+Tue May 15 22:26:13 UTC 2018: Code found de.is24.deadcode4j.plugin.DeadCodeLogger-log with de.is24.deadcode4j.plugin.A_DeadCodeLogger-logsThatAnExceptionOccurredDuringGeneralSetup
+Tue May 15 22:26:13 UTC 2018: Code found de.is24.deadcode4j.plugin.DeadCodeLogger-log with de.is24.deadcode4j.plugin.A_DeadCodeLogger-logsThatOneDeadClassOfThreeWasFound
+Tue May 15 22:26:14 UTC 2018: Code found de.is24.deadcode4j.plugin.DeadCodeLogger-log with de.is24.deadcode4j.plugin.A_DeadCodeLogger-logsThatNoDeadCodeWasFound
+Tue May 15 22:26:14 UTC 2018: Code found de.is24.deadcode4j.plugin.DeadCodeLogger-log with de.is24.deadcode4j.plugin.A_DeadCodeLogger-logsThatAnExceptionOccurredDuringModuleSetup
+Tue May 15 22:26:15 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.plugin.A_DeadCodeLogger
+Tue May 15 22:26:16 UTC 2018: Found element on the queue
+Tue May 15 22:26:16 UTC 2018: Updating status
+Tue May 15 22:26:16 UTC 2018: Working
+Tue May 15 22:26:20 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_TldAnalyzer
+Tue May 15 22:26:20 UTC 2018: Setting lastTestMethodIndex: 49121
+Tue May 15 22:26:20 UTC 2018: Starting linking
+Tue May 15 22:26:20 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TldAnalyzer-shouldParseTldFiles
+Tue May 15 22:26:20 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_TldAnalyzer
+Tue May 15 22:26:21 UTC 2018: Found element on the queue
+Tue May 15 22:26:21 UTC 2018: Updating status
+Tue May 15 22:26:21 UTC 2018: Working
+Tue May 15 22:26:26 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer
+Tue May 15 22:26:26 UTC 2018: Setting lastTestMethodIndex: 49124
+Tue May 15 22:26:26 UTC 2018: Starting linking
+Tue May 15 22:26:26 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer-selectsTheAttributeOfTheRestrictedNode
+Tue May 15 22:26:26 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer-failsIfInvalidXPathIsSpecified
+Tue May 15 22:26:27 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer-selectsTheTextOfTheRestrictedNode
+Tue May 15 22:26:27 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer-issuesNoWarningIfSomethingIsFound
+Tue May 15 22:26:27 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer-issuesWarningIfNothingIsFound
+Tue May 15 22:26:28 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer-selectsTheTextOfTheSpecifiedNode
+Tue May 15 22:26:28 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer-selectsTheAttributeOfTheSpecifiedNode
+Tue May 15 22:26:29 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_CustomXmlAnalyzer
+Tue May 15 22:26:30 UTC 2018: Found element on the queue
+Tue May 15 22:26:30 UTC 2018: Updating status
+Tue May 15 22:26:30 UTC 2018: Working
+Tue May 15 22:26:34 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.maven.slf4j.An_AbstractSlf4jMojo
+Tue May 15 22:26:34 UTC 2018: Setting lastTestMethodIndex: 49129
+Tue May 15 22:26:34 UTC 2018: Starting linking
+Tue May 15 22:26:34 UTC 2018: No link for: de.is24.maven.slf4j.An_AbstractSlf4jMojo-resetsMockEvenWhenExceptionOccurs
+Tue May 15 22:26:35 UTC 2018: No link for: de.is24.maven.slf4j.An_AbstractSlf4jMojo-wrapsMavenLogger
+Tue May 15 22:26:35 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.maven.slf4j.An_AbstractSlf4jMojo
+Tue May 15 22:26:36 UTC 2018: Found element on the queue
+Tue May 15 22:26:36 UTC 2018: Updating status
+Tue May 15 22:26:36 UTC 2018: Working
+Tue May 15 22:26:41 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SpringXmlAnalyzer
+Tue May 15 22:26:41 UTC 2018: Setting lastTestMethodIndex: 49132
+Tue May 15 22:26:41 UTC 2018: Starting linking
+Tue May 15 22:26:41 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SpringXmlAnalyzer-shouldParseSpringFiles
+Tue May 15 22:26:42 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SpringXmlAnalyzer
+Tue May 15 22:26:43 UTC 2018: Found element on the queue
+Tue May 15 22:26:43 UTC 2018: Updating status
+Tue May 15 22:26:43 UTC 2018: Working
+Tue May 15 22:26:47 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer
+Tue May 15 22:26:47 UTC 2018: Setting lastTestMethodIndex: 49135
+Tue May 15 22:26:47 UTC 2018: Starting linking
+Tue May 15 22:26:47 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-reportsMultipleFoundClasses
+Tue May 15 22:26:48 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-reportsTheClassFound_ForTheRegisteredElement_HavingASpecificAttributeValue
+Tue May 15 22:26:48 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-reportsTheClassFoundForTheRegisteredAttribute
+Tue May 15 22:26:48 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-parsesXmlFilesUsingNamespacePrefixes
+Tue May 15 22:26:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-reportsTheClassFound_ForTheRegisteredAttribute_HavingASpecificAttributeValue
+Tue May 15 22:26:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-reportsTheClassesFound_ForTheRegisteredElementAndForTheRegisteredAttribute_BothHavingASpecificAttributeValue
+Tue May 15 22:26:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-reportsClassesForDifferentRegistrations
+Tue May 15 22:26:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-ignoresFilesWithNonMatchingRootElement
+Tue May 15 22:26:50 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-reportsTheClassFoundForTheRegisteredElement
+Tue May 15 22:26:50 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer-usesTheSpecifiedDependerIdToReportDependencies
+Tue May 15 22:26:50 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SimpleXmlAnalyzer
+Tue May 15 22:26:51 UTC 2018: Found element on the queue
+Tue May 15 22:26:51 UTC 2018: Updating status
+Tue May 15 22:26:51 UTC 2018: Working
+Tue May 15 22:26:56 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.An_IntermediateResults
+Tue May 15 22:26:56 UTC 2018: Setting lastTestMethodIndex: 49139
+Tue May 15 22:26:56 UTC 2018: Starting linking
+Tue May 15 22:26:56 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResults-transfersIntermediateResultsForDependingModuleOfDependingModule
+Tue May 15 22:26:57 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResults-mergesIntermediateResultsOnSiblingLevel
+Tue May 15 22:26:57 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResults-nowAllTogether
+Tue May 15 22:26:58 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResults-transfersIntermediateResultsForDependingModule
+Tue May 15 22:26:58 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResults-mergesIntermediateResultsOnParentLevel
+Tue May 15 22:26:59 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.An_IntermediateResults
+Tue May 15 22:27:00 UTC 2018: Found element on the queue
+Tue May 15 22:27:00 UTC 2018: Updating status
+Tue May 15 22:27:00 UTC 2018: Working
+Tue May 15 22:27:03 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_Repository
+Tue May 15 22:27:03 UTC 2018: Setting lastTestMethodIndex: 49142
+Tue May 15 22:27:03 UTC 2018: Starting linking
+Tue May 15 22:27:03 UTC 2018: No link for: de.is24.deadcode4j.A_Repository-throwsAnExceptionIfTheRepositoryIsNull
+Tue May 15 22:27:04 UTC 2018: No link for: de.is24.deadcode4j.A_Repository-throwsAnExceptionIfTheRepositoryIsNoDirectory
+Tue May 15 22:27:05 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.A_Repository
+Tue May 15 22:27:06 UTC 2018: Found element on the queue
+Tue May 15 22:27:06 UTC 2018: Updating status
+Tue May 15 22:27:06 UTC 2018: Working
+Tue May 15 22:27:10 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.An_IntermediateResultSet
+Tue May 15 22:27:10 UTC 2018: Setting lastTestMethodIndex: 49145
+Tue May 15 22:27:10 UTC 2018: Starting linking
+Tue May 15 22:27:10 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultSet-createsCopyOfProvidedSet
+Tue May 15 22:27:10 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultSet-addsParentEntries
+Tue May 15 22:27:11 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultSet-addsSiblingEntries
+Tue May 15 22:27:11 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.An_IntermediateResultSet
+Tue May 15 22:27:12 UTC 2018: Found element on the queue
+Tue May 15 22:27:12 UTC 2018: Updating status
+Tue May 15 22:27:12 UTC 2018: Working
+Tue May 15 22:27:15 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.maven.slf4j.A_LoggerForMavenLog
+Tue May 15 22:27:16 UTC 2018: Setting lastTestMethodIndex: 49148
+Tue May 15 22:27:16 UTC 2018: Starting linking
+Tue May 15 22:27:16 UTC 2018: Code found de.is24.maven.slf4j.LoggerForMavenLog-info with de.is24.maven.slf4j.A_LoggerForMavenLog-handlesInfoMethods
+Tue May 15 22:27:16 UTC 2018: Code found de.is24.maven.slf4j.LoggerForMavenLog-warn with de.is24.maven.slf4j.A_LoggerForMavenLog-handlesWarnMethods
+Tue May 15 22:27:17 UTC 2018: Code found de.is24.maven.slf4j.LoggerForMavenLog-trace with de.is24.maven.slf4j.A_LoggerForMavenLog-handlesTraceMethods
+Tue May 15 22:27:17 UTC 2018: Code found de.is24.maven.slf4j.LoggerForMavenLog-error with de.is24.maven.slf4j.A_LoggerForMavenLog-handlesErrorMethods
+Tue May 15 22:27:18 UTC 2018: Code found de.is24.maven.slf4j.LoggerForMavenLog-debug with de.is24.maven.slf4j.A_LoggerForMavenLog-handlesDebugMethods
+Tue May 15 22:27:18 UTC 2018: No link for: de.is24.maven.slf4j.A_LoggerForMavenLog-shouldDelegateIsLevelEnabledMethods
+Tue May 15 22:27:18 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.maven.slf4j.A_LoggerForMavenLog
+Tue May 15 22:27:19 UTC 2018: Found element on the queue
+Tue May 15 22:27:19 UTC 2018: Updating status
+Tue May 15 22:27:19 UTC 2018: Working
+Tue May 15 22:27:23 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_MainClassAnalyzer
+Tue May 15 22:27:23 UTC 2018: Setting lastTestMethodIndex: 49152
+Tue May 15 22:27:23 UTC 2018: Starting linking
+Tue May 15 22:27:23 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_MainClassAnalyzer-doesNotReportNonMainClassAsBeingUsed
+Tue May 15 22:27:24 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_MainClassAnalyzer-reportsMainClassAsBeingUsed
+Tue May 15 22:27:24 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_MainClassAnalyzer
+Tue May 15 22:27:25 UTC 2018: Found element on the queue
+Tue May 15 22:27:25 UTC 2018: Updating status
+Tue May 15 22:27:25 UTC 2018: Working
+Tue May 15 22:27:29 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.guava.A_SequentialLoadingCacheTest
+Tue May 15 22:27:29 UTC 2018: Setting lastTestMethodIndex: 49155
+Tue May 15 22:27:29 UTC 2018: Starting linking
+Tue May 15 22:27:29 UTC 2018: No link for: de.is24.guava.A_SequentialLoadingCacheTest-usesCacheOnlyIfRequested
+Tue May 15 22:27:30 UTC 2018: No link for: de.is24.guava.A_SequentialLoadingCacheTest-cachesOnlyOneValue
+Tue May 15 22:27:31 UTC 2018: No link for: de.is24.guava.A_SequentialLoadingCacheTest-cachesValues
+Tue May 15 22:27:31 UTC 2018: No link for: de.is24.guava.A_SequentialLoadingCacheTest-usesKeysToCache
+Tue May 15 22:27:31 UTC 2018: No link for: de.is24.guava.A_SequentialLoadingCacheTest-usesFunctionToLoadValues
+Tue May 15 22:27:32 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.guava.A_SequentialLoadingCacheTest
+Tue May 15 22:27:33 UTC 2018: Found element on the queue
+Tue May 15 22:27:33 UTC 2018: Updating status
+Tue May 15 22:27:33 UTC 2018: Working
+Tue May 15 22:27:37 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_IgnoreClassesAnalyzer
+Tue May 15 22:27:37 UTC 2018: Setting lastTestMethodIndex: 49159
+Tue May 15 22:27:37 UTC 2018: Starting linking
+Tue May 15 22:27:37 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_IgnoreClassesAnalyzer-marksIgnoredClassAsLiveCode
+Tue May 15 22:27:38 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_IgnoreClassesAnalyzer-logsThatAnIgnoredClassIsRequiredAnyway
+Tue May 15 22:27:39 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_IgnoreClassesAnalyzer-logsThatAnIgnoredClassDoesNotExist
+Tue May 15 22:27:39 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_IgnoreClassesAnalyzer-doesNotMarkUnknownClassAsLiveCode
+Tue May 15 22:27:39 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_IgnoreClassesAnalyzer-logsThatAClassWasIgnored
+Tue May 15 22:27:40 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_IgnoreClassesAnalyzer
+Tue May 15 22:27:41 UTC 2018: Found element on the queue
+Tue May 15 22:27:41 UTC 2018: Updating status
+Tue May 15 22:27:41 UTC 2018: Working
+Tue May 15 22:27:46 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_AnnotationsAnalyzer
+Tue May 15 22:27:46 UTC 2018: Setting lastTestMethodIndex: 49162
+Tue May 15 22:27:46 UTC 2018: Starting linking
+Tue May 15 22:27:46 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_AnnotationsAnalyzer-doesNotReportUnannotatedClassAsBeingUsed
+Tue May 15 22:27:46 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_AnnotationsAnalyzer-reportsClassAnnotatedWithAnnotatedAnnotationAsBeingUsed
+Tue May 15 22:27:46 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_AnnotationsAnalyzer-reportsSubClassOfClassBeingAnnotatedWithAnnotationMarkedAsInheritedAsBeingUsed
+Tue May 15 22:27:47 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_AnnotationsAnalyzer-reportsAnnotatedClassAsBeingUsed
+Tue May 15 22:27:47 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_AnnotationsAnalyzer
+Tue May 15 22:27:48 UTC 2018: Found element on the queue
+Tue May 15 22:27:48 UTC 2018: Updating status
+Tue May 15 22:27:48 UTC 2018: Working
+Tue May 15 22:27:52 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_InterfacesAnalyzer
+Tue May 15 22:27:52 UTC 2018: Setting lastTestMethodIndex: 49165
+Tue May 15 22:27:52 UTC 2018: Starting linking
+Tue May 15 22:27:52 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_InterfacesAnalyzer-reportsImplementingClassAsBeingUsed
+Tue May 15 22:27:53 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_InterfacesAnalyzer-doesNotReportNonImplementingClassAsBeingUsed
+Tue May 15 22:27:53 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_InterfacesAnalyzer-reportsSubClassImplementingClassAsBeingUsed
+Tue May 15 22:27:53 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_InterfacesAnalyzer-reportsClassImplementingSubInterfaceAsBeingUsed
+Tue May 15 22:27:53 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_InterfacesAnalyzer
+Tue May 15 22:27:54 UTC 2018: Found element on the queue
+Tue May 15 22:27:54 UTC 2018: Updating status
+Tue May 15 22:27:54 UTC 2018: Working
+Tue May 15 22:27:58 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_ByteCodeAnalyzer
+Tue May 15 22:27:58 UTC 2018: Setting lastTestMethodIndex: 49169
+Tue May 15 22:27:58 UTC 2018: Starting linking
+Tue May 15 22:27:58 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ByteCodeAnalyzer-doesNotAnalyzeNonClassFile
+Tue May 15 22:27:58 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ByteCodeAnalyzer-analyzesAClassFile
+Tue May 15 22:27:59 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_ByteCodeAnalyzer
+Tue May 15 22:28:00 UTC 2018: Found element on the queue
+Tue May 15 22:28:00 UTC 2018: Updating status
+Tue May 15 22:28:00 UTC 2018: Working
+Tue May 15 22:28:05 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer
+Tue May 15 22:28:05 UTC 2018: Setting lastTestMethodIndex: 49172
+Tue May 15 22:28:05 UTC 2018: Starting linking
+Tue May 15 22:28:05 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-parsesXmlFilesUsingNamespacePrefixes
+Tue May 15 22:28:06 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassFoundForTheRegisteredAttribute
+Tue May 15 22:28:06 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassFoundForANestedElement_WithPathHavingSpecificAttributes
+Tue May 15 22:28:07 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-usesTheSpecifiedDependerIdToReportDependencies
+Tue May 15 22:28:07 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsAllClassesFound_ForTheRegisteredAttribute_HavingASpecificAttributeValue
+Tue May 15 22:28:08 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassFound_ForTheRegisteredElement_HavingASpecificAttributeValue
+Tue May 15 22:28:08 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassFoundForTheRegisteredElement
+Tue May 15 22:28:09 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-ignoresFilesWithNonMatchingRootElement
+Tue May 15 22:28:09 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsNothingIfElementHasNoText
+Tue May 15 22:28:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassFoundForANestedElement_WithPathHavingASpecificAttributeValue
+Tue May 15 22:28:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsAllTextAsFoundClasses
+Tue May 15 22:28:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassFoundForANestedElement
+Tue May 15 22:28:11 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsClassesForDifferentRegistrations
+Tue May 15 22:28:11 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassesFound_ForTheRegisteredElementAndForTheRegisteredAttribute_BothHavingASpecificAttributeValue
+Tue May 15 22:28:12 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsAllClassesFound_HavingASpecificAttributeValue
+Tue May 15 22:28:12 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsResultOfRegisteredDependeeExtractor
+Tue May 15 22:28:13 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassFoundForElementsInVariousPaths
+Tue May 15 22:28:13 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsNothingIfPathDoesNotMatchAttributeValue
+Tue May 15 22:28:14 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsAllClassesFoundForTheRegisteredAttribute
+Tue May 15 22:28:14 UTC 2018: No link for: de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer-reportsTheClassFound_ForTheRegisteredAttribute_HavingASpecificAttributeValue
+Tue May 15 22:28:15 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.An_ExtendedXmlAnalyzer
+Tue May 15 22:28:16 UTC 2018: Found element on the queue
+Tue May 15 22:28:16 UTC 2018: Updating status
+Tue May 15 22:28:16 UTC 2018: Working
+Tue May 15 22:28:20 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.guava.A_NonNullFunctions
+Tue May 15 22:28:20 UTC 2018: Setting lastTestMethodIndex: 49178
+Tue May 15 22:28:20 UTC 2018: Starting linking
+Tue May 15 22:28:20 UTC 2018: No link for: de.is24.guava.A_NonNullFunctions-stopsAfterResultIsPresent
+Tue May 15 22:28:20 UTC 2018: No link for: de.is24.guava.A_NonNullFunctions-callsEachFunction
+Tue May 15 22:28:21 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.guava.A_NonNullFunctions
+Tue May 15 22:28:22 UTC 2018: Found element on the queue
+Tue May 15 22:28:22 UTC 2018: Updating status
+Tue May 15 22:28:22 UTC 2018: Working
+Tue May 15 22:28:25 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_CustomAnnotationsAnalyzer
+Tue May 15 22:28:26 UTC 2018: Setting lastTestMethodIndex: 49181
+Tue May 15 22:28:26 UTC 2018: Starting linking
+Tue May 15 22:28:26 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomAnnotationsAnalyzer-logsObsoleteInterfaceEntry
+Tue May 15 22:28:26 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_CustomAnnotationsAnalyzer-doesNotLogInterfaceEntryFoundInClassPath
+Tue May 15 22:28:26 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_CustomAnnotationsAnalyzer
+Tue May 15 22:28:27 UTC 2018: Found element on the queue
+Tue May 15 22:28:27 UTC 2018: Updating status
+Tue May 15 22:28:27 UTC 2018: Working
+Tue May 15 22:28:31 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.An_IntermediateResultMap
+Tue May 15 22:28:31 UTC 2018: Setting lastTestMethodIndex: 49183
+Tue May 15 22:28:31 UTC 2018: Starting linking
+Tue May 15 22:28:31 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultMap-keepsOwnIfTheyCollideWithSiblingEntries
+Tue May 15 22:28:32 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultMap-createsCopyOfProvidedMap
+Tue May 15 22:28:33 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultMap-addsParentEntriesIfTheyDoNotCollide
+Tue May 15 22:28:33 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultMap-addsCollidingParentEntriesIfValueIsCollection
+Tue May 15 22:28:33 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultMap-addsSiblingEntriesIfTheyDoNotCollide
+Tue May 15 22:28:34 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultMap-keepsOwnIfTheyCollideWithParentEntries
+Tue May 15 22:28:34 UTC 2018: No link for: de.is24.deadcode4j.An_IntermediateResultMap-addsCollidingSiblingEntriesIfValueIsCollection
+Tue May 15 22:28:35 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.An_IntermediateResultMap
+Tue May 15 22:28:36 UTC 2018: Found element on the queue
+Tue May 15 22:28:36 UTC 2018: Updating status
+Tue May 15 22:28:36 UTC 2018: Working
+Tue May 15 22:28:41 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_ServletContainerInitializerAnalyzer
+Tue May 15 22:28:41 UTC 2018: Setting lastTestMethodIndex: 49187
+Tue May 15 22:28:41 UTC 2018: Starting linking
+Tue May 15 22:28:41 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ServletContainerInitializerAnalyzer-shouldRecognizeServletContainerInitializerClassesIfMetadataCompleteAttributeIsFalse
+Tue May 15 22:28:42 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ServletContainerInitializerAnalyzer-shouldRecognizeServletContainerInitializerClasses
+Tue May 15 22:28:42 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ServletContainerInitializerAnalyzer-shouldRecognizeMetadataCompleteAttribute
+Tue May 15 22:28:43 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_ServletContainerInitializerAnalyzer
+Tue May 15 22:28:45 UTC 2018: Found element on the queue
+Tue May 15 22:28:45 UTC 2018: Updating status
+Tue May 15 22:28:45 UTC 2018: Working
+Tue May 15 22:28:49 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer
+Tue May 15 22:28:49 UTC 2018: Setting lastTestMethodIndex: 49190
+Tue May 15 22:28:49 UTC 2018: Starting linking
+Tue May 15 22:28:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer-recognizesInheritedType
+Tue May 15 22:28:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer-recognizesAnonymousClasses
+Tue May 15 22:28:50 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer-recognizesDefaultPackageReference
+Tue May 15 22:28:50 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer-recognizesLambdaMethodReference
+Tue May 15 22:28:51 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer-gracefullyHandlesIrrelevantTypes
+Tue May 15 22:28:51 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer-recognizesLowerBoundOfWildCard
+Tue May 15 22:28:51 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer-recognizesUpperBoundOfWildCard
+Tue May 15 22:28:52 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer-recognizesClassTypeParameter
+Tue May 15 22:28:53 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_TypeErasureAnalyzer
+Tue May 15 22:28:53 UTC 2018: Found element on the queue
+Tue May 15 22:28:53 UTC 2018: Updating status
+Tue May 15 22:28:53 UTC 2018: Working
+Tue May 15 22:28:58 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_JavaFileAnalyzer
+Tue May 15 22:28:58 UTC 2018: Setting lastTestMethodIndex: 49195
+Tue May 15 22:28:58 UTC 2018: Starting linking
+Tue May 15 22:28:58 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_JavaFileAnalyzer-analyzesJavaFiles
+Tue May 15 22:28:59 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_JavaFileAnalyzer-doesNotAnalyzeNonJavaFile
+Tue May 15 22:28:59 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_JavaFileAnalyzer
+Tue May 15 22:29:00 UTC 2018: Found element on the queue
+Tue May 15 22:29:00 UTC 2018: Updating status
+Tue May 15 22:29:00 UTC 2018: Working
+Tue May 15 22:29:05 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SuperClassAnalyzer
+Tue May 15 22:29:05 UTC 2018: Setting lastTestMethodIndex: 49196
+Tue May 15 22:29:05 UTC 2018: Starting linking
+Tue May 15 22:29:05 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SuperClassAnalyzer-reportsASubClassAsLiveCode
+Tue May 15 22:29:05 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SuperClassAnalyzer-doesNotReportASubClassWithIrrelevantSuperClass
+Tue May 15 22:29:06 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SuperClassAnalyzer-reportsASubClassOfASubClassAsLiveCode
+Tue May 15 22:29:06 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SuperClassAnalyzer
+Tue May 15 22:29:07 UTC 2018: Found element on the queue
+Tue May 15 22:29:07 UTC 2018: Updating status
+Tue May 15 22:29:07 UTC 2018: Working
+Tue May 15 22:29:10 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SpringDataCustomRepositoriesAnalyzer
+Tue May 15 22:29:10 UTC 2018: Setting lastTestMethodIndex: 49199
+Tue May 15 22:29:10 UTC 2018: Starting linking
+Tue May 15 22:29:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SpringDataCustomRepositoriesAnalyzer-reportsImplementationsOfIntermediateResults
+Tue May 15 22:29:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SpringDataCustomRepositoriesAnalyzer-storesCustomRepositoryInterfacesAsIntermediateResults
+Tue May 15 22:29:11 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_SpringDataCustomRepositoriesAnalyzer-recognizesCustomRepository
+Tue May 15 22:29:11 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_SpringDataCustomRepositoriesAnalyzer
+Tue May 15 22:29:12 UTC 2018: Found element on the queue
+Tue May 15 22:29:12 UTC 2018: Updating status
+Tue May 15 22:29:12 UTC 2018: Working
+Tue May 15 22:29:16 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.plugin.packaginghandler.A_PackagingHandler
+Tue May 15 22:29:16 UTC 2018: Setting lastTestMethodIndex: 49202
+Tue May 15 22:29:16 UTC 2018: Starting linking
+Tue May 15 22:29:16 UTC 2018: No link for: de.is24.deadcode4j.plugin.packaginghandler.A_PackagingHandler-addsNoRepositoryIfThereAreNoCompileSourceRoots
+Tue May 15 22:29:16 UTC 2018: No link for: de.is24.deadcode4j.plugin.packaginghandler.A_PackagingHandler-addsCompileSourceRootsOnlyIfTheyExist
+Tue May 15 22:29:17 UTC 2018: No link for: de.is24.deadcode4j.plugin.packaginghandler.A_PackagingHandler-addsCompileSourceRootsAsCodeRepositories
+Tue May 15 22:29:17 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.plugin.packaginghandler.A_PackagingHandler
+Tue May 15 22:29:18 UTC 2018: Found element on the queue
+Tue May 15 22:29:18 UTC 2018: Updating status
+Tue May 15 22:29:18 UTC 2018: Working
+Tue May 15 22:29:21 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_WebXmlAnalyzer
+Tue May 15 22:29:21 UTC 2018: Setting lastTestMethodIndex: 49204
+Tue May 15 22:29:21 UTC 2018: Starting linking
+Tue May 15 22:29:21 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_WebXmlAnalyzer-shouldParseWebXmlFiles
+Tue May 15 22:29:22 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_WebXmlAnalyzer
+Tue May 15 22:29:22 UTC 2018: Found element on the queue
+Tue May 15 22:29:22 UTC 2018: Updating status
+Tue May 15 22:29:22 UTC 2018: Working
+Tue May 15 22:29:26 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.plugin.A_UsageStatisticsManager
+Tue May 15 22:29:26 UTC 2018: Setting lastTestMethodIndex: 49206
+Tue May 15 22:29:26 UTC 2018: Starting linking
+Tue May 15 22:29:26 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldDoNothingIfSoConfigured
+Tue May 15 22:29:27 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldAbortIfRequestedByUser
+Tue May 15 22:29:27 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldDoNothingIfInOfflineMode
+Tue May 15 22:29:28 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldHandleNon200ErrorCode
+Tue May 15 22:29:28 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldSendStatisticsWithConfiguredCommentIfUserAgrees
+Tue May 15 22:29:28 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-abortsIfPromptingFails
+Tue May 15 22:29:29 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldAbortIfInNonInteractiveModeAndNonConfigured
+Tue May 15 22:29:29 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldSimplySendStatisticsIfSoConfigured
+Tue May 15 22:29:29 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldSendStatisticsValues
+Tue May 15 22:29:30 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldSendStatisticsWithGivenCommentIfUserAgrees
+Tue May 15 22:29:30 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldHandleFailureInHttpTransfer
+Tue May 15 22:29:30 UTC 2018: No link for: de.is24.deadcode4j.plugin.A_UsageStatisticsManager-shouldHandleFailureOfMavenRuntime
+Tue May 15 22:29:31 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.plugin.A_UsageStatisticsManager
+Tue May 15 22:29:32 UTC 2018: Found element on the queue
+Tue May 15 22:29:32 UTC 2018: Updating status
+Tue May 15 22:29:32 UTC 2018: Working
+Tue May 15 22:29:35 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer
+Tue May 15 22:29:35 UTC 2018: Setting lastTestMethodIndex: 49208
+Tue May 15 22:29:35 UTC 2018: Starting linking
+Tue May 15 22:29:35 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageViaAsteriskImportInExpression
+Tue May 15 22:29:36 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantViaStaticImportInMethod
+Tue May 15 22:29:36 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToInnerClassInsteadOfPackageClass
+Tue May 15 22:29:36 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageViaAsteriskImportInField
+Tue May 15 22:29:37 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantInMethod
+Tue May 15 22:29:37 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfImplementedInterfaceUsedByInnerClassInExpression
+Tue May 15 22:29:38 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToFullyQualifiedConstantInExpression
+Tue May 15 22:29:38 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantForInnerClassesInField
+Tue May 15 22:29:39 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-ignoresReferencesToStaticMethodsOfNestedClasses
+Tue May 15 22:29:39 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageViaStaticImportIsOverwrittenByLocalVariableInStaticInitializer
+Tue May 15 22:29:40 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageViaStaticImportIsOverwrittenByInstanceFieldBeingDeclaredAfterItIsReferenced
+Tue May 15 22:29:40 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToNestedConstantOfImplementedInterfaceInExpression
+Tue May 15 22:29:40 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceOfInnerClassToOuterClassInFieldDirectly
+Tue May 15 22:29:41 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToFullyQualifiedConstantOfOtherPackageInMethod
+Tue May 15 22:29:41 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageViaAsteriskImportInMethod
+Tue May 15 22:29:41 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantInField
+Tue May 15 22:29:42 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantViaAsteriskStaticImportInField
+Tue May 15 22:29:42 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToNestedConstantOfImplementedInterfaceUsedByInnerClassInExpression
+Tue May 15 22:29:42 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageInMethod
+Tue May 15 22:29:42 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToNestedConstantOfSuperclassInMethod
+Tue May 15 22:29:43 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageIsOverwrittenByLocalVariable
+Tue May 15 22:29:43 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageViaStaticImportInMethod
+Tue May 15 22:29:43 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfSuperclassInMethod
+Tue May 15 22:29:44 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageIsOverwrittenByMethodParameter
+Tue May 15 22:29:45 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesAnnotationsDependencyToConstantAsDefault
+Tue May 15 22:29:45 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-doesNotRecognizeReferenceForInheritedNonConstantField
+Tue May 15 22:29:45 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageIsOverwrittenByCatchClauseParameter
+Tue May 15 22:29:46 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantForInnerClassViaStaticImportInField
+Tue May 15 22:29:46 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfImplementedInterfaceInField
+Tue May 15 22:29:46 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantViaStaticImportInExpression
+Tue May 15 22:29:47 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageIsOverwrittenByEnum
+Tue May 15 22:29:47 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageIsOverwrittenByConstructorParameter
+Tue May 15 22:29:47 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantInExpression
+Tue May 15 22:29:48 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-ignoresReferencesToStaticMethodsOfToStaticallyImportedClasses
+Tue May 15 22:29:48 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantForInnerClassViaAsteriskStaticImportInField
+Tue May 15 22:29:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfInnerClassViaStaticImportInField
+Tue May 15 22:29:49 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageIsOverwrittenByStaticVariable
+Tue May 15 22:29:50 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-ignoresReferencesToStaticMethods
+Tue May 15 22:29:50 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageViaStaticImportExistsAlthoughInnerClassDefinesInstanceFieldWithSameName
+Tue May 15 22:29:50 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageInExpression
+Tue May 15 22:29:51 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageViaStaticImportInField
+Tue May 15 22:29:51 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantBeingScopeOfAMethodCall
+Tue May 15 22:29:51 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageViaStaticImportInExpression
+Tue May 15 22:29:51 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceForInheritedConstantField
+Tue May 15 22:29:52 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageViaAsteriskStaticImportInField
+Tue May 15 22:29:52 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageInField
+Tue May 15 22:29:52 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageViaStaticImportIsOverwrittenByStaticField
+Tue May 15 22:29:53 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantOfOtherPackageForInnerClassesInField
+Tue May 15 22:29:54 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageViaStaticImportIsOverwrittenByLocalVariableInSuperiorBlock
+Tue May 15 22:29:54 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceOfAnonymousClassToOuterClassInFieldDirectly
+Tue May 15 22:29:55 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantViaStaticImportInSwitch
+Tue May 15 22:29:55 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToEnumerationInSwitch
+Tue May 15 22:29:56 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToFullyQualifiedConstantInField
+Tue May 15 22:29:57 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageViaStaticImportIsOverwrittenByLocalVariable
+Tue May 15 22:29:57 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesEnumsDependencyToConstantInField
+Tue May 15 22:29:58 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantOfOtherPackageIsOverwrittenByInstanceField
+Tue May 15 22:29:58 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToConstantBeingPartialScopeOfAMethodCall
+Tue May 15 22:29:59 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToFullyQualifiedConstantInMethod
+Tue May 15 22:29:59 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToFullyQualifiedConstantOfOtherPackageInExpression
+Tue May 15 22:29:59 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToFullyQualifiedConstantOfOtherPackageInField
+Tue May 15 22:30:00 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceOfInnerClassToOuterClassInFieldViaQualifier
+Tue May 15 22:30:00 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesReferenceToNestedConstantBeingPartialScopeOfAMethodCall
+Tue May 15 22:30:00 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer-recognizesDependencyToConstantViaStaticImportInField
+Tue May 15 22:30:01 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_ReferenceToConstantsAnalyzer
+Tue May 15 22:30:02 UTC 2018: Found element on the queue
+Tue May 15 22:30:02 UTC 2018: Updating status
+Tue May 15 22:30:02 UTC 2018: Working
+Tue May 15 22:30:06 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer
+Tue May 15 22:30:06 UTC 2018: Setting lastTestMethodIndex: 49217
+Tue May 15 22:30:06 UTC 2018: Starting linking
+Tue May 15 22:30:06 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-recognizesDependencyFromClassWithGeneratedValueAnnotatedMethodToGenericGeneratorAnnotatedPackage
+Tue May 15 22:30:06 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-prefersOwnGeneratorDefinitionsOverIntermediateResults
+Tue May 15 22:30:07 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-recognizesDependencyFromClassWithGeneratedValueAnnotatedFieldToGenericGeneratorAnnotatedClass
+Tue May 15 22:30:07 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-considersGeneratorDefinitionsFromIntermediateResults
+Tue May 15 22:30:07 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-ignoresTypeUsagesFromIntermediateResultsForTypeDefinitionsFromIntermediateResults
+Tue May 15 22:30:08 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-storesGeneratorDefinitionsAsIntermediateResults
+Tue May 15 22:30:08 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-recognizesDependencyFromClassWithTypeAnnotatedMethodToTypeDefAnnotatedClass
+Tue May 15 22:30:08 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-reportsDependencyToDefinedStrategyIfStrategyIsPartOfTheAnalysis
+Tue May 15 22:30:09 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-ignoresGeneratorUsagesFromIntermediateResultsForGeneratorDefinitionsFromIntermediateResults
+Tue May 15 22:30:09 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-doesNotReportDependencyToDefinedStrategyIfStrategyIsNoPartOfTheAnalysis
+Tue May 15 22:30:09 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-recognizesDependencyFromClassWithTypeAnnotatedFieldToTypeDefAnnotatedClass
+Tue May 15 22:30:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-issuesWarningForDuplicatedTypeDef
+Tue May 15 22:30:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-recognizesDependencyFromGeneratedValueAnnotatedClassesToGenericGeneratorAnnotatedPackage
+Tue May 15 22:30:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-considersGeneratorUsagesFromIntermediateResults
+Tue May 15 22:30:10 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-considersTypeDefinitionsFromIntermediateResults
+Tue May 15 22:30:11 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-prefersOwnTypeDefinitionsOverIntermediateResults
+Tue May 15 22:30:11 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-storesGeneratorUsagesAsIntermediateResults
+Tue May 15 22:30:11 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-storesTypeDefinitionsAsIntermediateResults
+Tue May 15 22:30:11 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-recognizesDependencyFromTypeAnnotatedClassesToTypeDefsAnnotatedPackage
+Tue May 15 22:30:12 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-storesTypeUsagesAsIntermediateResults
+Tue May 15 22:30:12 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-reportsDependencyFromPackageToDefinedStrategies
+Tue May 15 22:30:12 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-considersTypeUsagesFromIntermediateResults
+Tue May 15 22:30:12 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer-recognizesDependencyFromClassWithTypeAnnotatedMethodToReferencedClass
+Tue May 15 22:30:13 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_HibernateAnnotationsAnalyzer
+Tue May 15 22:30:13 UTC 2018: Found element on the queue
+Tue May 15 22:30:13 UTC 2018: Updating status
+Tue May 15 22:30:13 UTC 2018: Working
+Tue May 15 22:30:16 UTC 2018: Start ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_ClassDependencyAnalyzer
+Tue May 15 22:30:16 UTC 2018: Setting lastTestMethodIndex: 49219
+Tue May 15 22:30:16 UTC 2018: Starting linking
+Tue May 15 22:30:16 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ClassDependencyAnalyzer-reportsDependenciesToObject
+Tue May 15 22:30:16 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ClassDependencyAnalyzer-recognizesDependenciesToInnerClass
+Tue May 15 22:30:17 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ClassDependencyAnalyzer-reportsTheDependencyOfAClassToAnother
+Tue May 15 22:30:17 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ClassDependencyAnalyzer-recognizesDependencyOfInnerClassToParentClass
+Tue May 15 22:30:17 UTC 2018: No link for: de.is24.deadcode4j.analyzer.A_ClassDependencyAnalyzer-recognizesNoDependencyOfStaticInnerClassToParentClass
+Tue May 15 22:30:17 UTC 2018: Linking done for ImmobilienScout24__deadcode4j test class de.is24.deadcode4j.analyzer.A_ClassDependencyAnalyzer

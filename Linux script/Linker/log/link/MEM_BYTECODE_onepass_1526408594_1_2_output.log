@@ -1,0 +1,159 @@
+Tue May 15 18:30:14 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 18:30:14 UTC 2018: Starting
+Tue May 15 18:30:15 UTC 2018: Found element on the queue
+Tue May 15 18:30:15 UTC 2018: Updating status
+Tue May 15 18:30:15 UTC 2018: Working
+Tue May 15 18:30:15 UTC 2018: Create project parser
+Tue May 15 18:30:23 UTC 2018: Create slicer
+Tue May 15 18:30:25 UTC 2018: Create call graph
+Tue May 15 18:30:28 UTC 2018: Create point analysis
+Tue May 15 18:30:28 UTC 2018: Create call graph done
+Tue May 15 18:30:28 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.utils.RankUtilsTest
+Tue May 15 18:30:28 UTC 2018: Setting lastTestMethodIndex: 41872
+Tue May 15 18:30:28 UTC 2018: Starting linking
+Tue May 15 18:30:28 UTC 2018: Code found org.gbif.checklistbank.utils.RankUtils-nextHigherLinneanRank with org.gbif.checklistbank.utils.RankUtilsTest-testNextHigherLinneanRank
+Tue May 15 18:30:29 UTC 2018: Code found org.gbif.checklistbank.utils.RankUtils-nextLowerLinneanRank with org.gbif.checklistbank.utils.RankUtilsTest-testNextLowerLinneanRank
+Tue May 15 18:30:29 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.utils.RankUtilsTest
+Tue May 15 18:30:30 UTC 2018: Found element on the queue
+Tue May 15 18:30:30 UTC 2018: Updating status
+Tue May 15 18:30:30 UTC 2018: Working
+Tue May 15 18:30:33 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.registry.DatasetServiceFileImplTest
+Tue May 15 18:30:33 UTC 2018: Setting lastTestMethodIndex: 41874
+Tue May 15 18:30:33 UTC 2018: Starting linking
+Tue May 15 18:30:33 UTC 2018: Code found org.gbif.checklistbank.registry.DatasetServiceFileImpl-get with org.gbif.checklistbank.registry.DatasetServiceFileImplTest-get
+Tue May 15 18:30:33 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.registry.DatasetServiceFileImplTest
+Tue May 15 18:30:34 UTC 2018: Found element on the queue
+Tue May 15 18:30:34 UTC 2018: Updating status
+Tue May 15 18:30:34 UTC 2018: Working
+Tue May 15 18:30:38 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.utils.SciNameNormalizerTest
+Tue May 15 18:30:38 UTC 2018: Setting lastTestMethodIndex: 41878
+Tue May 15 18:30:38 UTC 2018: Starting linking
+Tue May 15 18:30:38 UTC 2018: Code found org.gbif.checklistbank.utils.SciNameNormalizer-normalize with org.gbif.checklistbank.utils.SciNameNormalizerTest-testNormalize
+Tue May 15 18:30:38 UTC 2018: Code found org.gbif.checklistbank.utils.SciNameNormalizer-normalizeAll with org.gbif.checklistbank.utils.SciNameNormalizerTest-testNormalizeAll
+Tue May 15 18:30:38 UTC 2018: No link for: org.gbif.checklistbank.utils.SciNameNormalizerTest-testEpithetStemming
+Tue May 15 18:30:38 UTC 2018: No link for: org.gbif.checklistbank.utils.SciNameNormalizerTest-testNonAscii
+Tue May 15 18:30:38 UTC 2018: No link for: org.gbif.checklistbank.utils.SciNameNormalizerTest-testHybridCross
+Tue May 15 18:30:39 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.utils.SciNameNormalizerTest
+Tue May 15 18:30:40 UTC 2018: Found element on the queue
+Tue May 15 18:30:40 UTC 2018: Updating status
+Tue May 15 18:30:40 UTC 2018: Working
+Tue May 15 18:30:42 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.utils.NameFormatterTest
+Tue May 15 18:30:42 UTC 2018: Setting lastTestMethodIndex: 41883
+Tue May 15 18:30:42 UTC 2018: Starting linking
+Tue May 15 18:30:42 UTC 2018: Code found org.gbif.checklistbank.utils.NameFormatter-scientificName with org.gbif.checklistbank.utils.NameFormatterTest-scientificName
+Tue May 15 18:30:43 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.utils.NameFormatterTest
+Tue May 15 18:30:44 UTC 2018: Found element on the queue
+Tue May 15 18:30:44 UTC 2018: Updating status
+Tue May 15 18:30:44 UTC 2018: Working
+Tue May 15 18:30:47 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.utils.KingdomUtilsTest
+Tue May 15 18:30:47 UTC 2018: Setting lastTestMethodIndex: 41887
+Tue May 15 18:30:47 UTC 2018: Starting linking
+Tue May 15 18:30:47 UTC 2018: Code found org.gbif.checklistbank.utils.KingdomUtils-match with org.gbif.checklistbank.utils.KingdomUtilsTest-match
+Tue May 15 18:30:47 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.utils.KingdomUtilsTest
+Tue May 15 18:30:48 UTC 2018: Found element on the queue
+Tue May 15 18:30:48 UTC 2018: Updating status
+Tue May 15 18:30:48 UTC 2018: Working
+Tue May 15 18:30:52 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.authorship.YearComparatorTest
+Tue May 15 18:30:52 UTC 2018: Setting lastTestMethodIndex: 41891
+Tue May 15 18:30:52 UTC 2018: Starting linking
+Tue May 15 18:30:52 UTC 2018: Code found org.gbif.checklistbank.authorship.YearComparator-compare with org.gbif.checklistbank.authorship.YearComparatorTest-compare
+Tue May 15 18:30:52 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.authorship.YearComparatorTest
+Tue May 15 18:30:53 UTC 2018: Found element on the queue
+Tue May 15 18:30:53 UTC 2018: Updating status
+Tue May 15 18:30:53 UTC 2018: Working
+Tue May 15 18:30:56 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.authorship.LongestCommonSubstringTest
+Tue May 15 18:30:56 UTC 2018: Setting lastTestMethodIndex: 41895
+Tue May 15 18:30:56 UTC 2018: Starting linking
+Tue May 15 18:30:56 UTC 2018: Code found org.gbif.checklistbank.authorship.LongestCommonSubstring-lcs with org.gbif.checklistbank.authorship.LongestCommonSubstringTest-testLcs
+Tue May 15 18:30:56 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.authorship.LongestCommonSubstringTest
+Tue May 15 18:30:57 UTC 2018: Found element on the queue
+Tue May 15 18:30:57 UTC 2018: Updating status
+Tue May 15 18:30:57 UTC 2018: Working
+Tue May 15 18:31:00 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.registry.FileRegistryModuleTest
+Tue May 15 18:31:00 UTC 2018: Setting lastTestMethodIndex: 41899
+Tue May 15 18:31:00 UTC 2018: Starting linking
+Tue May 15 18:31:00 UTC 2018: No link for: org.gbif.checklistbank.registry.FileRegistryModuleTest-configure
+Tue May 15 18:31:00 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.registry.FileRegistryModuleTest
+Tue May 15 18:31:01 UTC 2018: Found element on the queue
+Tue May 15 18:31:01 UTC 2018: Updating status
+Tue May 15 18:31:01 UTC 2018: Working
+Tue May 15 18:31:05 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.iterable.IntsTest
+Tue May 15 18:31:05 UTC 2018: Setting lastTestMethodIndex: 41903
+Tue May 15 18:31:05 UTC 2018: Starting linking
+Tue May 15 18:31:05 UTC 2018: Code found org.gbif.checklistbank.iterable.Ints-range with org.gbif.checklistbank.iterable.IntsTest-testInvalidRange
+Tue May 15 18:31:05 UTC 2018: Code found org.gbif.checklistbank.iterable.Ints-range with org.gbif.checklistbank.iterable.IntsTest-testRange
+Tue May 15 18:31:05 UTC 2018: Code found org.gbif.checklistbank.iterable.Ints-until with org.gbif.checklistbank.iterable.IntsTest-testUntil
+Tue May 15 18:31:06 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.iterable.IntsTest
+Tue May 15 18:31:06 UTC 2018: Found element on the queue
+Tue May 15 18:31:06 UTC 2018: Updating status
+Tue May 15 18:31:06 UTC 2018: Working
+Tue May 15 18:31:10 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.authorship.AuthorBucketerTest
+Tue May 15 18:31:10 UTC 2018: Setting lastTestMethodIndex: 41907
+Tue May 15 18:31:10 UTC 2018: Starting linking
+Tue May 15 18:31:10 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorBucketerTest-testAuthormap
+Tue May 15 18:31:10 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.authorship.AuthorBucketerTest
+Tue May 15 18:31:11 UTC 2018: Found element on the queue
+Tue May 15 18:31:11 UTC 2018: Updating status
+Tue May 15 18:31:11 UTC 2018: Working
+Tue May 15 18:31:14 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.authorship.BasionymSorterTest
+Tue May 15 18:31:14 UTC 2018: Setting lastTestMethodIndex: 41910
+Tue May 15 18:31:14 UTC 2018: Starting linking
+Tue May 15 18:31:14 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testGroupPlantBasionyms2
+Tue May 15 18:31:15 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testGroupPlantBasionyms3
+Tue May 15 18:31:15 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testGroupAuthorTeams
+Tue May 15 18:31:15 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testGroupAnimalBasionyms2
+Tue May 15 18:31:15 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testGroupAnimalBasionyms
+Tue May 15 18:31:16 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testGroupPlantBasionyms
+Tue May 15 18:31:16 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testAtrocincta
+Tue May 15 18:31:16 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testGroupWithDifferentInitials
+Tue May 15 18:31:16 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testPlumipes
+Tue May 15 18:31:17 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testMultipleBasionyms
+Tue May 15 18:31:17 UTC 2018: No link for: org.gbif.checklistbank.authorship.BasionymSorterTest-testGroupBasionymFiles
+Tue May 15 18:31:17 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.authorship.BasionymSorterTest
+Tue May 15 18:31:18 UTC 2018: Found element on the queue
+Tue May 15 18:31:18 UTC 2018: Updating status
+Tue May 15 18:31:18 UTC 2018: Working
+Tue May 15 18:31:21 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.utils.SymmetricIdentityMatrixTest
+Tue May 15 18:31:21 UTC 2018: Setting lastTestMethodIndex: 41914
+Tue May 15 18:31:21 UTC 2018: Starting linking
+Tue May 15 18:31:21 UTC 2018: Code found org.gbif.checklistbank.utils.SymmetricIdentityMatrix-add with org.gbif.checklistbank.utils.SymmetricIdentityMatrixTest-add
+Tue May 15 18:31:21 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.utils.SymmetricIdentityMatrixTest
+Tue May 15 18:31:22 UTC 2018: Found element on the queue
+Tue May 15 18:31:22 UTC 2018: Updating status
+Tue May 15 18:31:22 UTC 2018: Working
+Tue May 15 18:31:26 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.model.EqualityTest
+Tue May 15 18:31:26 UTC 2018: Setting lastTestMethodIndex: 41917
+Tue May 15 18:31:26 UTC 2018: Starting linking
+Tue May 15 18:31:26 UTC 2018: No link for: org.gbif.checklistbank.model.EqualityTest-testAnd
+Tue May 15 18:31:26 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.model.EqualityTest
+Tue May 15 18:31:27 UTC 2018: Found element on the queue
+Tue May 15 18:31:27 UTC 2018: Updating status
+Tue May 15 18:31:27 UTC 2018: Working
+Tue May 15 18:31:30 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.authorship.AuthorComparatorTest
+Tue May 15 18:31:30 UTC 2018: Setting lastTestMethodIndex: 41919
+Tue May 15 18:31:30 UTC 2018: Starting linking
+Tue May 15 18:31:30 UTC 2018: Code found org.gbif.checklistbank.authorship.AuthorComparator-normalize with org.gbif.checklistbank.authorship.AuthorComparatorTest-testNormalize
+Tue May 15 18:31:31 UTC 2018: Code found org.gbif.checklistbank.authorship.AuthorComparator-compare with org.gbif.checklistbank.authorship.AuthorComparatorTest-testCompareSanctioning
+Tue May 15 18:31:31 UTC 2018: Code found org.gbif.checklistbank.authorship.AuthorComparator-compare with org.gbif.checklistbank.authorship.AuthorComparatorTest-testCompareUnparsedAuthor
+Tue May 15 18:31:31 UTC 2018: Code found org.gbif.checklistbank.authorship.AuthorComparator-compare with org.gbif.checklistbank.authorship.AuthorComparatorTest-testCompareParsedName
+Tue May 15 18:31:32 UTC 2018: Code found org.gbif.checklistbank.authorship.AuthorComparator-lookup with org.gbif.checklistbank.authorship.AuthorComparatorTest-testLookup
+Tue May 15 18:31:32 UTC 2018: Code found org.gbif.checklistbank.authorship.AuthorComparator-compareStrict with org.gbif.checklistbank.authorship.AuthorComparatorTest-testCompareStrict
+Tue May 15 18:31:32 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-testTransliterations
+Tue May 15 18:31:32 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-testCompare
+Tue May 15 18:31:33 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-testEqualsWithBasionym
+Tue May 15 18:31:33 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-testAuthorParsing
+Tue May 15 18:31:33 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-testUnparsedAuthors
+Tue May 15 18:31:33 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-testBlattariaAuthors
+Tue May 15 18:31:33 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-testAlikeAuthors
+Tue May 15 18:31:34 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-testEqualsSubstring
+Tue May 15 18:31:34 UTC 2018: No link for: org.gbif.checklistbank.authorship.AuthorComparatorTest-firstInitialsDiffer
+Tue May 15 18:31:34 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.authorship.AuthorComparatorTest
+Tue May 15 18:31:35 UTC 2018: Found element on the queue
+Tue May 15 18:31:35 UTC 2018: Updating status
+Tue May 15 18:31:35 UTC 2018: Working
+Tue May 15 18:31:35 UTC 2018: Create project parser
+Tue May 15 18:31:39 UTC 2018: Start gbif__checklistbank test class org.gbif.checklistbank.lucene.ScientificNameAnalyzerTest
+Tue May 15 18:31:39 UTC 2018: Setting lastTestMethodIndex: 41925
+Tue May 15 18:31:39 UTC 2018: Starting linking
+Tue May 15 18:31:39 UTC 2018: No link for: org.gbif.checklistbank.lucene.ScientificNameAnalyzerTest-testAnalyzer
+Tue May 15 18:31:39 UTC 2018: Linking done for gbif__checklistbank test class org.gbif.checklistbank.lucene.ScientificNameAnalyzerTest

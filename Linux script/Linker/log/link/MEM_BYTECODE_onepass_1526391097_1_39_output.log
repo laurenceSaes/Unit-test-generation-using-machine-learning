@@ -1,0 +1,36 @@
+Tue May 15 14:54:47 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 14:54:47 UTC 2018: Starting
+Tue May 15 14:54:48 UTC 2018: Found element on the queue
+Tue May 15 14:54:48 UTC 2018: Updating status
+Tue May 15 14:54:48 UTC 2018: Working
+Tue May 15 14:54:48 UTC 2018: Create project parser
+Tue May 15 14:54:51 UTC 2018: Create slicer
+Tue May 15 14:54:53 UTC 2018: Create call graph
+Tue May 15 14:54:53 UTC 2018: Create point analysis
+Tue May 15 14:54:53 UTC 2018: Create call graph done
+Tue May 15 14:54:53 UTC 2018: Start dherges__aem-sling-contrib test class de.spektrakel.routing.sinatra.RouterTest
+Tue May 15 14:54:53 UTC 2018: Setting lastTestMethodIndex: 36201
+Tue May 15 14:54:53 UTC 2018: Starting linking
+Tue May 15 14:54:53 UTC 2018: Code found de.spektrakel.routing.sinatra.Router-findMatch with de.spektrakel.routing.sinatra.RouterTest-findMatch
+Tue May 15 14:54:53 UTC 2018: No link for: de.spektrakel.routing.sinatra.RouterTest-buildsNotNull
+Tue May 15 14:54:53 UTC 2018: Linking done for dherges__aem-sling-contrib test class de.spektrakel.routing.sinatra.RouterTest
+Tue May 15 14:54:54 UTC 2018: Found element on the queue
+Tue May 15 14:54:54 UTC 2018: Updating status
+Tue May 15 14:54:54 UTC 2018: Working
+Tue May 15 14:54:56 UTC 2018: Start dherges__aem-sling-contrib test class de.spektrakel.routing.sinatra.RouteTest
+Tue May 15 14:54:56 UTC 2018: Setting lastTestMethodIndex: 36202
+Tue May 15 14:54:56 UTC 2018: Starting linking
+Tue May 15 14:54:56 UTC 2018: Code found de.spektrakel.routing.sinatra.Route-matches with de.spektrakel.routing.sinatra.RouteTest-matchesReturnInput
+Tue May 15 14:54:56 UTC 2018: Code found de.spektrakel.routing.sinatra.Route-matches with de.spektrakel.routing.sinatra.RouteTest-matchesForPath
+Tue May 15 14:54:56 UTC 2018: Code found de.spektrakel.routing.sinatra.Route-matches with de.spektrakel.routing.sinatra.RouteTest-matchesReturnParamNames
+Tue May 15 14:54:56 UTC 2018: Code found de.spektrakel.routing.sinatra.Route-matches with de.spektrakel.routing.sinatra.RouteTest-matchesReturnParam
+Tue May 15 14:54:56 UTC 2018: Code found de.spektrakel.routing.sinatra.Route-matches with de.spektrakel.routing.sinatra.RouteTest-matchesReturnRoute
+Tue May 15 14:54:56 UTC 2018: Code found de.spektrakel.routing.sinatra.Route-matches with de.spektrakel.routing.sinatra.RouteTest-matchesForParams
+Tue May 15 14:54:56 UTC 2018: No link for: de.spektrakel.routing.sinatra.RouteTest-pathMustStartWithSlash
+Tue May 15 14:54:56 UTC 2018: No link for: de.spektrakel.routing.sinatra.RouteTest-pathParamsMustBeReturned
+Tue May 15 14:54:56 UTC 2018: No link for: de.spektrakel.routing.sinatra.RouteTest-testNotNull
+Tue May 15 14:54:56 UTC 2018: No link for: de.spektrakel.routing.sinatra.RouteTest-pathMustNotEndWithSlash
+Tue May 15 14:54:57 UTC 2018: No link for: de.spektrakel.routing.sinatra.RouteTest-pathParamsMustBeChecked
+Tue May 15 14:54:57 UTC 2018: No link for: de.spektrakel.routing.sinatra.RouteTest-pathMustBeReturned
+Tue May 15 14:54:57 UTC 2018: No link for: de.spektrakel.routing.sinatra.RouteTest-pathPartsMustBeReturned
+Tue May 15 14:54:57 UTC 2018: Linking done for dherges__aem-sling-contrib test class de.spektrakel.routing.sinatra.RouteTest

@@ -1,0 +1,1859 @@
+Wed May 16 02:38:10 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:38:10 UTC 2018: Starting
+Wed May 16 02:38:10 UTC 2018: Found element on the queue
+Wed May 16 02:38:10 UTC 2018: Updating status
+Wed May 16 02:38:11 UTC 2018: Working
+Wed May 16 02:38:11 UTC 2018: Create project parser
+Wed May 16 02:38:35 UTC 2018: Create slicer
+Wed May 16 02:38:36 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1347093252
+Wed May 16 02:38:55 UTC 2018: Create call graph
+Wed May 16 02:39:03 UTC 2018: Create point analysis
+Wed May 16 02:39:03 UTC 2018: Create call graph done
+Wed May 16 02:39:03 UTC 2018: Start kohsuke__jenkins test class jenkins.security.DefaultConfidentialStoreTest
+Wed May 16 02:39:03 UTC 2018: Setting lastTestMethodIndex: 57714
+Wed May 16 02:39:03 UTC 2018: Starting linking
+Wed May 16 02:39:03 UTC 2018: No link for: jenkins.security.DefaultConfidentialStoreTest-roundtrip
+Wed May 16 02:39:04 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.security.DefaultConfidentialStoreTest
+Wed May 16 02:39:04 UTC 2018: Found element on the queue
+Wed May 16 02:39:04 UTC 2018: Updating status
+Wed May 16 02:39:04 UTC 2018: Working
+Wed May 16 02:39:07 UTC 2018: Start kohsuke__jenkins test class jenkins.security.ClassFilterImplSanityTest
+Wed May 16 02:39:07 UTC 2018: Setting lastTestMethodIndex: 57717
+Wed May 16 02:39:07 UTC 2018: Starting linking
+Wed May 16 02:39:07 UTC 2018: No link for: jenkins.security.ClassFilterImplSanityTest-whitelistSanity
+Wed May 16 02:39:07 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.security.ClassFilterImplSanityTest
+Wed May 16 02:39:07 UTC 2018: Found element on the queue
+Wed May 16 02:39:07 UTC 2018: Updating status
+Wed May 16 02:39:07 UTC 2018: Working
+Wed May 16 02:39:10 UTC 2018: Start kohsuke__jenkins test class jenkins.xml.XMLUtilsTest
+Wed May 16 02:39:10 UTC 2018: Setting lastTestMethodIndex: 57718
+Wed May 16 02:39:10 UTC 2018: Starting linking
+Wed May 16 02:39:10 UTC 2018: Code found jenkins.util.xml.XMLUtils-safeTransform with jenkins.xml.XMLUtilsTest-testSafeTransformDoesNotProcessForeignResources
+Wed May 16 02:39:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:10 UTC 2018: Code found jenkins.util.xml.XMLUtils-getValue with jenkins.xml.XMLUtilsTest-testGetValue
+Wed May 16 02:39:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:11 UTC 2018: Code found jenkins.util.xml.XMLUtils-parse with jenkins.xml.XMLUtilsTest-testParse_with_XXE
+Wed May 16 02:39:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:11 UTC 2018: No link for: jenkins.xml.XMLUtilsTest-testUpdateByXmlIDoesNotFail
+Wed May 16 02:39:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:11 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.xml.XMLUtilsTest
+Wed May 16 02:39:12 UTC 2018: Found element on the queue
+Wed May 16 02:39:12 UTC 2018: Updating status
+Wed May 16 02:39:12 UTC 2018: Working
+Wed May 16 02:39:14 UTC 2018: Start kohsuke__jenkins test class jenkins.ResilientJsonObjectTest
+Wed May 16 02:39:14 UTC 2018: Setting lastTestMethodIndex: 57721
+Wed May 16 02:39:14 UTC 2018: Starting linking
+Wed May 16 02:39:14 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.ResilientJsonObjectTest
+Wed May 16 02:39:15 UTC 2018: Found element on the queue
+Wed May 16 02:39:15 UTC 2018: Updating status
+Wed May 16 02:39:15 UTC 2018: Working
+Wed May 16 02:39:17 UTC 2018: Start kohsuke__jenkins test class jenkins.triggers.SCMTriggerItemTest
+Wed May 16 02:39:17 UTC 2018: Setting lastTestMethodIndex: 57724
+Wed May 16 02:39:17 UTC 2018: Starting linking
+Wed May 16 02:39:17 UTC 2018: No code found jenkins.triggers.SCMTriggerItem-poll with jenkins.triggers.SCMTriggerItemTest-noVetoDelegatesPollingToAnSCMedItem
+Wed May 16 02:39:18 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.triggers.SCMTriggerItemTest
+Wed May 16 02:39:18 UTC 2018: Found element on the queue
+Wed May 16 02:39:18 UTC 2018: Updating status
+Wed May 16 02:39:18 UTC 2018: Working
+Wed May 16 02:39:21 UTC 2018: Start kohsuke__jenkins test class jenkins.model.CoreEnvironmentContributorTest
+Wed May 16 02:39:21 UTC 2018: Setting lastTestMethodIndex: 57727
+Wed May 16 02:39:21 UTC 2018: Starting linking
+Wed May 16 02:39:21 UTC 2018: Code found jenkins.model.CoreEnvironmentContributor-buildEnvironmentFor with jenkins.model.CoreEnvironmentContributorTest-buildEnvironmentForJobShouldntUseCurrentComputer
+Wed May 16 02:39:21 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:21 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.CoreEnvironmentContributorTest
+Wed May 16 02:39:22 UTC 2018: Found element on the queue
+Wed May 16 02:39:22 UTC 2018: Updating status
+Wed May 16 02:39:22 UTC 2018: Working
+Wed May 16 02:39:24 UTC 2018: Start kohsuke__jenkins test class jenkins.model.NewViewLinkTest
+Wed May 16 02:39:24 UTC 2018: Setting lastTestMethodIndex: 57730
+Wed May 16 02:39:24 UTC 2018: Starting linking
+Wed May 16 02:39:24 UTC 2018: No code found hudson.model.View-hasPermission with jenkins.model.NewViewLinkTest-getActionsHasPermission
+Wed May 16 02:39:25 UTC 2018: No link for: jenkins.model.NewViewLinkTest-getActionsNoPermission
+Wed May 16 02:39:25 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.NewViewLinkTest
+Wed May 16 02:39:25 UTC 2018: Found element on the queue
+Wed May 16 02:39:25 UTC 2018: Updating status
+Wed May 16 02:39:25 UTC 2018: Working
+Wed May 16 02:39:28 UTC 2018: Start kohsuke__jenkins test class jenkins.model.RunIdMigratorTest
+Wed May 16 02:39:28 UTC 2018: Setting lastTestMethodIndex: 57732
+Wed May 16 02:39:28 UTC 2018: Starting linking
+Wed May 16 02:39:28 UTC 2018: Code found jenkins.model.RunIdMigrator-move with jenkins.model.RunIdMigratorTest-move
+Wed May 16 02:39:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:28 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-newJob
+Wed May 16 02:39:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:29 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-legacy
+Wed May 16 02:39:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:29 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseAfterNewBuilds
+Wed May 16 02:39:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:29 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reRunMigration
+Wed May 16 02:39:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:30 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseMavenAfterNewBuilds
+Wed May 16 02:39:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:30 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseImmediately
+Wed May 16 02:39:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:30 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseMatrixAfterNewBuilds
+Wed May 16 02:39:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:30 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.RunIdMigratorTest
+Wed May 16 02:39:31 UTC 2018: Found element on the queue
+Wed May 16 02:39:31 UTC 2018: Updating status
+Wed May 16 02:39:31 UTC 2018: Working
+Wed May 16 02:39:33 UTC 2018: Start kohsuke__jenkins test class jenkins.model.JenkinsGetRootUrlTest
+Wed May 16 02:39:33 UTC 2018: Setting lastTestMethodIndex: 57735
+Wed May 16 02:39:33 UTC 2018: Starting linking
+Wed May 16 02:39:33 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-getConfiguredRootUrl
+Wed May 16 02:39:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:34 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-getAccessedRootUrl
+Wed May 16 02:39:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:34 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-doNotInheritProtocolWhenDispatchingRequest2
+Wed May 16 02:39:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:34 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-preferConfiguredOverAccessed
+Wed May 16 02:39:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:35 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-doNotInheritProtocolWhenDispatchingRequest
+Wed May 16 02:39:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:35 UTC 2018: No link for: jenkins.model.JenkinsGetRootUrlTest-useForwardedProtoWhenPresent
+Wed May 16 02:39:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:35 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.JenkinsGetRootUrlTest
+Wed May 16 02:39:36 UTC 2018: Found element on the queue
+Wed May 16 02:39:36 UTC 2018: Updating status
+Wed May 16 02:39:36 UTC 2018: Working
+Wed May 16 02:39:38 UTC 2018: Start kohsuke__jenkins test class jenkins.security.RSADigitalSignatureConfidentialKeyTest
+Wed May 16 02:39:38 UTC 2018: Setting lastTestMethodIndex: 57739
+Wed May 16 02:39:38 UTC 2018: Starting linking
+Wed May 16 02:39:38 UTC 2018: Code found jenkins.security.RSADigitalSignatureConfidentialKey-sign with jenkins.security.RSADigitalSignatureConfidentialKeyTest-dsigSignAndVerify
+Wed May 16 02:39:38 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.security.RSADigitalSignatureConfidentialKeyTest
+Wed May 16 02:39:39 UTC 2018: Found element on the queue
+Wed May 16 02:39:39 UTC 2018: Updating status
+Wed May 16 02:39:39 UTC 2018: Working
+Wed May 16 02:39:42 UTC 2018: Start kohsuke__jenkins test class jenkins.model.lazy.SortedIntListTest
+Wed May 16 02:39:42 UTC 2018: Setting lastTestMethodIndex: 57742
+Wed May 16 02:39:42 UTC 2018: Starting linking
+Wed May 16 02:39:42 UTC 2018: Code found jenkins.model.lazy.SortedIntList-ceil with jenkins.model.lazy.SortedIntListTest-ceil
+Wed May 16 02:39:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:42 UTC 2018: Code found jenkins.model.lazy.SortedIntList-max with jenkins.model.lazy.SortedIntListTest-max
+Wed May 16 02:39:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:42 UTC 2018: Code found jenkins.model.lazy.SortedIntList-lower with jenkins.model.lazy.SortedIntListTest-testLower
+Wed May 16 02:39:43 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:43 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.lazy.SortedIntListTest
+Wed May 16 02:39:43 UTC 2018: Found element on the queue
+Wed May 16 02:39:43 UTC 2018: Updating status
+Wed May 16 02:39:43 UTC 2018: Working
+Wed May 16 02:39:46 UTC 2018: Start kohsuke__jenkins test class jenkins.model.lazy.SortedListTest
+Wed May 16 02:39:46 UTC 2018: Setting lastTestMethodIndex: 57746
+Wed May 16 02:39:46 UTC 2018: Starting linking
+Wed May 16 02:39:46 UTC 2018: Code found jenkins.model.lazy.SortedList-floor with jenkins.model.lazy.SortedListTest-testFloor
+Wed May 16 02:39:46 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:46 UTC 2018: Code found jenkins.model.lazy.SortedList-remove with jenkins.model.lazy.SortedListTest-remove
+Wed May 16 02:39:46 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:46 UTC 2018: Code found jenkins.model.lazy.SortedList-ceil with jenkins.model.lazy.SortedListTest-testCeil
+Wed May 16 02:39:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:47 UTC 2018: Code found jenkins.model.lazy.SortedList-higher with jenkins.model.lazy.SortedListTest-testHigher
+Wed May 16 02:39:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:47 UTC 2018: Code found jenkins.model.lazy.SortedList-lower with jenkins.model.lazy.SortedListTest-testLower
+Wed May 16 02:39:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:47 UTC 2018: No link for: jenkins.model.lazy.SortedListTest-testRange
+Wed May 16 02:39:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:48 UTC 2018: No link for: jenkins.model.lazy.SortedListTest-testClone
+Wed May 16 02:39:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:48 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.lazy.SortedListTest
+Wed May 16 02:39:48 UTC 2018: Found element on the queue
+Wed May 16 02:39:48 UTC 2018: Updating status
+Wed May 16 02:39:48 UTC 2018: Working
+Wed May 16 02:39:51 UTC 2018: Start kohsuke__jenkins test class jenkins.model.IdStrategyTest
+Wed May 16 02:39:51 UTC 2018: Setting lastTestMethodIndex: 57749
+Wed May 16 02:39:51 UTC 2018: Starting linking
+Wed May 16 02:39:51 UTC 2018: No link for: jenkins.model.IdStrategyTest-caseSensitive
+Wed May 16 02:39:51 UTC 2018: No link for: jenkins.model.IdStrategyTest-caseInsensitive
+Wed May 16 02:39:52 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.IdStrategyTest
+Wed May 16 02:39:52 UTC 2018: Found element on the queue
+Wed May 16 02:39:52 UTC 2018: Updating status
+Wed May 16 02:39:52 UTC 2018: Working
+Wed May 16 02:39:55 UTC 2018: Start kohsuke__jenkins test class jenkins.model.JDKNameTest
+Wed May 16 02:39:55 UTC 2018: Setting lastTestMethodIndex: 57753
+Wed May 16 02:39:55 UTC 2018: Starting linking
+Wed May 16 02:39:55 UTC 2018: Code found hudson.model.JDK-isDefaultName with jenkins.model.JDKNameTest-nullIsDefaultName
+Wed May 16 02:39:55 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:39:55 UTC 2018: No link for: jenkins.model.JDKNameTest-othernameNotDefault
+Wed May 16 02:39:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:55 UTC 2018: No link for: jenkins.model.JDKNameTest-recognizeDefaultName
+Wed May 16 02:39:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:56 UTC 2018: No link for: jenkins.model.JDKNameTest-recognizeOldDefaultName
+Wed May 16 02:39:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:56 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.JDKNameTest
+Wed May 16 02:39:56 UTC 2018: Found element on the queue
+Wed May 16 02:39:56 UTC 2018: Updating status
+Wed May 16 02:39:56 UTC 2018: Working
+Wed May 16 02:39:59 UTC 2018: Start kohsuke__jenkins test class jenkins.RemotingJarSignatureTest
+Wed May 16 02:39:59 UTC 2018: Setting lastTestMethodIndex: 57756
+Wed May 16 02:39:59 UTC 2018: Starting linking
+Wed May 16 02:39:59 UTC 2018: No link for: jenkins.RemotingJarSignatureTest-testSignature
+Wed May 16 02:39:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:39:59 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.RemotingJarSignatureTest
+Wed May 16 02:40:00 UTC 2018: Found element on the queue
+Wed May 16 02:40:00 UTC 2018: Updating status
+Wed May 16 02:40:00 UTC 2018: Working
+Wed May 16 02:40:02 UTC 2018: Start kohsuke__jenkins test class jenkins.util.TimeDurationTest
+Wed May 16 02:40:02 UTC 2018: Setting lastTestMethodIndex: 57759
+Wed May 16 02:40:02 UTC 2018: Starting linking
+Wed May 16 02:40:02 UTC 2018: Code found jenkins.util.TimeDuration-fromString with jenkins.util.TimeDurationTest-fromString
+Wed May 16 02:40:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:03 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.TimeDurationTest
+Wed May 16 02:40:03 UTC 2018: Found element on the queue
+Wed May 16 02:40:03 UTC 2018: Updating status
+Wed May 16 02:40:03 UTC 2018: Working
+Wed May 16 02:40:06 UTC 2018: Start kohsuke__jenkins test class jenkins.util.MarkFindingOutputStreamTest
+Wed May 16 02:40:06 UTC 2018: Setting lastTestMethodIndex: 57761
+Wed May 16 02:40:06 UTC 2018: Starting linking
+Wed May 16 02:40:06 UTC 2018: No code found jenkins.util.MarkFindingOutputStreamTest$MarkCountingOutputStream-close with jenkins.util.MarkFindingOutputStreamTest-closeInTheMiddle
+Wed May 16 02:40:06 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-writeOneHoldOff
+Wed May 16 02:40:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:07 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-partialMatchTurnsOutToBeWrongIn2ndWrite
+Wed May 16 02:40:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:07 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-oneByOne
+Wed May 16 02:40:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:07 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-findTwice
+Wed May 16 02:40:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:08 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.MarkFindingOutputStreamTest
+Wed May 16 02:40:08 UTC 2018: Found element on the queue
+Wed May 16 02:40:08 UTC 2018: Updating status
+Wed May 16 02:40:08 UTC 2018: Working
+Wed May 16 02:40:10 UTC 2018: Start kohsuke__jenkins test class jenkins.util.ResourceBundleUtilTest
+Wed May 16 02:40:10 UTC 2018: Setting lastTestMethodIndex: 57763
+Wed May 16 02:40:10 UTC 2018: Starting linking
+Wed May 16 02:40:10 UTC 2018: No link for: jenkins.util.ResourceBundleUtilTest-test_unknown_bundle
+Wed May 16 02:40:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:11 UTC 2018: No link for: jenkins.util.ResourceBundleUtilTest-test_unknown_locale
+Wed May 16 02:40:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:11 UTC 2018: No link for: jenkins.util.ResourceBundleUtilTest-test_known_locale
+Wed May 16 02:40:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:11 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.ResourceBundleUtilTest
+Wed May 16 02:40:12 UTC 2018: Found element on the queue
+Wed May 16 02:40:12 UTC 2018: Updating status
+Wed May 16 02:40:12 UTC 2018: Working
+Wed May 16 02:40:14 UTC 2018: Start kohsuke__jenkins test class jenkins.util.TimerTest
+Wed May 16 02:40:14 UTC 2018: Setting lastTestMethodIndex: 57766
+Wed May 16 02:40:14 UTC 2018: Starting linking
+Wed May 16 02:40:14 UTC 2018: No link for: jenkins.util.TimerTest-timersArentBlocked
+Wed May 16 02:40:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:15 UTC 2018: No link for: jenkins.util.TimerTest-timerBogusClassloader
+Wed May 16 02:40:15 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.TimerTest
+Wed May 16 02:40:16 UTC 2018: Found element on the queue
+Wed May 16 02:40:16 UTC 2018: Updating status
+Wed May 16 02:40:16 UTC 2018: Working
+Wed May 16 02:40:18 UTC 2018: Start kohsuke__jenkins test class jenkins.util.xstream.XStreamDOMTest
+Wed May 16 02:40:18 UTC 2018: Setting lastTestMethodIndex: 57769
+Wed May 16 02:40:18 UTC 2018: Starting linking
+Wed May 16 02:40:18 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.xstream.XStreamDOMTest
+Wed May 16 02:40:19 UTC 2018: Found element on the queue
+Wed May 16 02:40:19 UTC 2018: Updating status
+Wed May 16 02:40:19 UTC 2018: Working
+Wed May 16 02:40:21 UTC 2018: Start kohsuke__jenkins test class jenkins.util.JenkinsJVMTest
+Wed May 16 02:40:21 UTC 2018: Setting lastTestMethodIndex: 57772
+Wed May 16 02:40:21 UTC 2018: Starting linking
+Wed May 16 02:40:21 UTC 2018: Code found jenkins.util.JenkinsJVM-checkNotJenkinsJVM with jenkins.util.JenkinsJVMTest-checkNotJenkinsJVM_WhenNotInAJenkinsJVM
+Wed May 16 02:40:21 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:21 UTC 2018: Code found jenkins.util.JenkinsJVM-checkNotJenkinsJVM with jenkins.util.JenkinsJVMTest-checkNotJenkinsJVM_WhenInAJenkinsJVM
+Wed May 16 02:40:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:22 UTC 2018: Code found jenkins.util.JenkinsJVM-checkJenkinsJVM with jenkins.util.JenkinsJVMTest-checkJenkinsJVM_WhenInAJenkinsJVM
+Wed May 16 02:40:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:22 UTC 2018: Code found jenkins.util.JenkinsJVM-checkJenkinsJVM with jenkins.util.JenkinsJVMTest-checkJenkinsJVM_WhenNotInAJenkinsJVM
+Wed May 16 02:40:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:23 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.JenkinsJVMTest
+Wed May 16 02:40:23 UTC 2018: Found element on the queue
+Wed May 16 02:40:23 UTC 2018: Updating status
+Wed May 16 02:40:23 UTC 2018: Working
+Wed May 16 02:40:25 UTC 2018: Start kohsuke__jenkins test class jenkins.util.AtmostOneTaskExecutorTest
+Wed May 16 02:40:25 UTC 2018: Setting lastTestMethodIndex: 57775
+Wed May 16 02:40:25 UTC 2018: Starting linking
+Wed May 16 02:40:26 UTC 2018: No link for: jenkins.util.AtmostOneTaskExecutorTest-doubleBooking
+Wed May 16 02:40:26 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.AtmostOneTaskExecutorTest
+Wed May 16 02:40:26 UTC 2018: Found element on the queue
+Wed May 16 02:40:26 UTC 2018: Updating status
+Wed May 16 02:40:26 UTC 2018: Working
+Wed May 16 02:40:29 UTC 2018: Start kohsuke__jenkins test class jenkins.util.TreeStringBuilderTest
+Wed May 16 02:40:29 UTC 2018: Setting lastTestMethodIndex: 57777
+Wed May 16 02:40:29 UTC 2018: Starting linking
+Wed May 16 02:40:29 UTC 2018: No link for: jenkins.util.TreeStringBuilderTest-testRandom
+Wed May 16 02:40:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:29 UTC 2018: No link for: jenkins.util.TreeStringBuilderTest-test
+Wed May 16 02:40:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:29 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.TreeStringBuilderTest
+Wed May 16 02:40:30 UTC 2018: Found element on the queue
+Wed May 16 02:40:30 UTC 2018: Updating status
+Wed May 16 02:40:30 UTC 2018: Working
+Wed May 16 02:40:33 UTC 2018: Start kohsuke__jenkins test class jenkins.util.VirtualFileTest
+Wed May 16 02:40:33 UTC 2018: Setting lastTestMethodIndex: 57779
+Wed May 16 02:40:33 UTC 2018: Starting linking
+Wed May 16 02:40:33 UTC 2018: No link for: jenkins.util.VirtualFileTest-outsideSymlinks
+Wed May 16 02:40:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:33 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.util.VirtualFileTest
+Wed May 16 02:40:34 UTC 2018: Found element on the queue
+Wed May 16 02:40:34 UTC 2018: Updating status
+Wed May 16 02:40:34 UTC 2018: Working
+Wed May 16 02:40:36 UTC 2018: Start kohsuke__jenkins test class hudson.UtilTest
+Wed May 16 02:40:36 UTC 2018: Setting lastTestMethodIndex: 57782
+Wed May 16 02:40:36 UTC 2018: Starting linking
+Wed May 16 02:40:36 UTC 2018: Code found hudson.Util-modeToPermissions with hudson.UtilTest-testModeToPermissions
+Wed May 16 02:40:36 UTC 2018: Code found hudson.Util-loadProperties with hudson.UtilTest-loadProperties
+Wed May 16 02:40:37 UTC 2018: Code found hudson.Util-deleteContentsRecursive with hudson.UtilTest-testDeleteContentsRecursive
+Wed May 16 02:40:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:37 UTC 2018: Code found hudson.Util-isSafeToRedirectTo with hudson.UtilTest-testIsSafeToRedirectTo
+Wed May 16 02:40:37 UTC 2018: Code found hudson.Util-isAbsoluteUri with hudson.UtilTest-testIsAbsoluteUri
+Wed May 16 02:40:38 UTC 2018: Code found hudson.Util-deleteFile with hudson.UtilTest-testDeleteFileDoesNotExist
+Wed May 16 02:40:38 UTC 2018: Code found hudson.Util-deleteFile with hudson.UtilTest-testDeleteFileReadOnly
+Wed May 16 02:40:39 UTC 2018: Code found hudson.Util-isDescendant with hudson.UtilTest-testIsDescendant
+Wed May 16 02:40:39 UTC 2018: Code found hudson.Util-deleteFile with hudson.UtilTest-testDeleteFile_onWindows
+Wed May 16 02:40:39 UTC 2018: Code found hudson.Util-permissionsToMode with hudson.UtilTest-testPermissionsToMode
+Wed May 16 02:40:40 UTC 2018: Code found hudson.Util-deleteRecursive with hudson.UtilTest-testDeleteRecursive_onWindows
+Wed May 16 02:40:40 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:40 UTC 2018: Code found hudson.Util-deleteFile with hudson.UtilTest-testDeleteFile
+Wed May 16 02:40:40 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:40 UTC 2018: Code found hudson.Util-replaceMacro with hudson.UtilTest-testReplaceMacro
+Wed May 16 02:40:41 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:41 UTC 2018: Code found hudson.Util-rawEncode with hudson.UtilTest-testRawEncode
+Wed May 16 02:40:41 UTC 2018: Code found hudson.Util-deleteContentsRecursive with hudson.UtilTest-testDeleteContentsRecursive_onWindows
+Wed May 16 02:40:41 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:41 UTC 2018: Code found hudson.Util-escape with hudson.UtilTest-testHtmlEscape
+Wed May 16 02:40:41 UTC 2018: Code found hudson.Util-deleteRecursive with hudson.UtilTest-testDeleteRecursive
+Wed May 16 02:40:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:42 UTC 2018: Code found hudson.Util-tryParseNumber with hudson.UtilTest-testTryParseNumber
+Wed May 16 02:40:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:42 UTC 2018: Code found hudson.Util-encode with hudson.UtilTest-testEncodeSpaces
+Wed May 16 02:40:42 UTC 2018: Code found hudson.Util-isSymlink with hudson.UtilTest-testIsSymlink
+Wed May 16 02:40:43 UTC 2018: Code found hudson.Util-isSymlink with hudson.UtilTest-testIsSymlink_onWindows_junction
+Wed May 16 02:40:43 UTC 2018: No link for: hudson.UtilTest-isRelativePathWindows
+Wed May 16 02:40:43 UTC 2018: No link for: hudson.UtilTest-testSymlink
+Wed May 16 02:40:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:44 UTC 2018: No link for: hudson.UtilTest-testDigestThreadSafety
+Wed May 16 02:40:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:44 UTC 2018: No link for: hudson.UtilTest-testTimeSpanString
+Wed May 16 02:40:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:44 UTC 2018: No link for: hudson.UtilTest-isRelativePathUnix
+Wed May 16 02:40:45 UTC 2018: Linking done for kohsuke__jenkins test class hudson.UtilTest
+Wed May 16 02:40:45 UTC 2018: Found element on the queue
+Wed May 16 02:40:45 UTC 2018: Updating status
+Wed May 16 02:40:45 UTC 2018: Working
+Wed May 16 02:40:48 UTC 2018: Start kohsuke__jenkins test class hudson.slaves.NodeListTest
+Wed May 16 02:40:48 UTC 2018: Setting lastTestMethodIndex: 57788
+Wed May 16 02:40:48 UTC 2018: Starting linking
+Wed May 16 02:40:48 UTC 2018: Linking done for kohsuke__jenkins test class hudson.slaves.NodeListTest
+Wed May 16 02:40:48 UTC 2018: Found element on the queue
+Wed May 16 02:40:48 UTC 2018: Updating status
+Wed May 16 02:40:48 UTC 2018: Working
+Wed May 16 02:40:51 UTC 2018: Start kohsuke__jenkins test class hudson.PluginWrapperTest
+Wed May 16 02:40:51 UTC 2018: Setting lastTestMethodIndex: 57790
+Wed May 16 02:40:51 UTC 2018: Starting linking
+Wed May 16 02:40:51 UTC 2018: No link for: hudson.PluginWrapperTest-dependencyOutdated
+Wed May 16 02:40:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:51 UTC 2018: No link for: hudson.PluginWrapperTest-jenkinsCoreTooOld
+Wed May 16 02:40:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:51 UTC 2018: No link for: hudson.PluginWrapperTest-dependencyFailedToLoad
+Wed May 16 02:40:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:52 UTC 2018: No link for: hudson.PluginWrapperTest-dependencyTest
+Wed May 16 02:40:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:52 UTC 2018: No link for: hudson.PluginWrapperTest-dependencyNotInstalled
+Wed May 16 02:40:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:52 UTC 2018: No link for: hudson.PluginWrapperTest-optionalDependencyTest
+Wed May 16 02:40:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:40:52 UTC 2018: Linking done for kohsuke__jenkins test class hudson.PluginWrapperTest
+Wed May 16 02:40:53 UTC 2018: Found element on the queue
+Wed May 16 02:40:53 UTC 2018: Updating status
+Wed May 16 02:40:53 UTC 2018: Working
+Wed May 16 02:40:55 UTC 2018: Start kohsuke__jenkins test class hudson.tasks.BuildStepCompatibilityLayerTest
+Wed May 16 02:40:55 UTC 2018: Setting lastTestMethodIndex: 57793
+Wed May 16 02:40:55 UTC 2018: Starting linking
+Wed May 16 02:40:55 UTC 2018: Code found hudson.tasks.BuildStepCompatibilityLayer-perform with hudson.tasks.BuildStepCompatibilityLayerTest-testPerform
+Wed May 16 02:40:56 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:56 UTC 2018: Code found hudson.tasks.BuildStepCompatibilityLayer-perform with hudson.tasks.BuildStepCompatibilityLayerTest-testPerformExpectAbstractMethodError
+Wed May 16 02:40:56 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:40:56 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tasks.BuildStepCompatibilityLayerTest
+Wed May 16 02:40:57 UTC 2018: Found element on the queue
+Wed May 16 02:40:57 UTC 2018: Updating status
+Wed May 16 02:40:57 UTC 2018: Working
+Wed May 16 02:40:59 UTC 2018: Start kohsuke__jenkins test class hudson.tasks._maven.Maven3MojoNoteTest
+Wed May 16 02:40:59 UTC 2018: Setting lastTestMethodIndex: 57796
+Wed May 16 02:40:59 UTC 2018: Starting linking
+Wed May 16 02:40:59 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateMavenPlugin
+Wed May 16 02:41:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:00 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateOtherPlugin
+Wed May 16 02:41:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:00 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateCodehausPlugin
+Wed May 16 02:41:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:00 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tasks._maven.Maven3MojoNoteTest
+Wed May 16 02:41:01 UTC 2018: Found element on the queue
+Wed May 16 02:41:01 UTC 2018: Updating status
+Wed May 16 02:41:01 UTC 2018: Working
+Wed May 16 02:41:03 UTC 2018: Start kohsuke__jenkins test class hudson.MarkupTextTest
+Wed May 16 02:41:03 UTC 2018: Setting lastTestMethodIndex: 57799
+Wed May 16 02:41:03 UTC 2018: Starting linking
+Wed May 16 02:41:03 UTC 2018: No code found hudson.MarkupText$SubText-findTokens with hudson.MarkupTextTest-findTokensOnSubText
+Wed May 16 02:41:03 UTC 2018: Code found hudson.MarkupText$SubText-subText with hudson.MarkupTextTest-subTextSubText
+Wed May 16 02:41:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:41:04 UTC 2018: No link for: hudson.MarkupTextTest-adjacent
+Wed May 16 02:41:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:04 UTC 2018: No link for: hudson.MarkupTextTest-test1
+Wed May 16 02:41:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:04 UTC 2018: No link for: hudson.MarkupTextTest-literalTextSurround
+Wed May 16 02:41:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:05 UTC 2018: No link for: hudson.MarkupTextTest-escape
+Wed May 16 02:41:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:05 UTC 2018: No link for: hudson.MarkupTextTest-preEscape
+Wed May 16 02:41:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:05 UTC 2018: No link for: hudson.MarkupTextTest-boundary
+Wed May 16 02:41:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:06 UTC 2018: Linking done for kohsuke__jenkins test class hudson.MarkupTextTest
+Wed May 16 02:41:06 UTC 2018: Found element on the queue
+Wed May 16 02:41:06 UTC 2018: Updating status
+Wed May 16 02:41:06 UTC 2018: Working
+Wed May 16 02:41:09 UTC 2018: Start kohsuke__jenkins test class hudson.triggers.TimerTriggerTest
+Wed May 16 02:41:09 UTC 2018: Setting lastTestMethodIndex: 57803
+Wed May 16 02:41:09 UTC 2018: Starting linking
+Wed May 16 02:41:09 UTC 2018: No link for: hudson.triggers.TimerTriggerTest-testTimeZoneOffset
+Wed May 16 02:41:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:09 UTC 2018: No link for: hudson.triggers.TimerTriggerTest-testNoNPE
+Wed May 16 02:41:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:09 UTC 2018: Linking done for kohsuke__jenkins test class hudson.triggers.TimerTriggerTest
+Wed May 16 02:41:10 UTC 2018: Found element on the queue
+Wed May 16 02:41:10 UTC 2018: Updating status
+Wed May 16 02:41:10 UTC 2018: Working
+Wed May 16 02:41:12 UTC 2018: Start kohsuke__jenkins test class hudson.FunctionsTest
+Wed May 16 02:41:12 UTC 2018: Setting lastTestMethodIndex: 57806
+Wed May 16 02:41:12 UTC 2018: Starting linking
+Wed May 16 02:41:12 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobContainedInView
+Wed May 16 02:41:13 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absolutePath
+Wed May 16 02:41:13 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absoluteUriWithoutAuthority
+Wed May 16 02:41:14 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_unparseable
+Wed May 16 02:41:14 UTC 2018: No code found hudson.Functions-printLogRecordHtml with hudson.FunctionsTest-printLogRecordHtml
+Wed May 16 02:41:14 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-getRelativeLinkTo_MavenModules
+Wed May 16 02:41:14 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_relativePath
+Wed May 16 02:41:15 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absoluteUriWithAuthority
+Wed May 16 02:41:15 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobFromComputer
+Wed May 16 02:41:15 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobNotContainedInView
+Wed May 16 02:41:16 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobContainedInViewWithinItemGroup
+Wed May 16 02:41:16 UTC 2018: No code found hudson.Functions-breakableString with hudson.FunctionsTest-testBreakableString
+Wed May 16 02:41:16 UTC 2018: No link for: hudson.FunctionsTest-printThrowable
+Wed May 16 02:41:17 UTC 2018: No link for: hudson.FunctionsTest-testGetRelativeDisplayNameInsideItemGroup
+Wed May 16 02:41:17 UTC 2018: No link for: hudson.FunctionsTest-testGetRelativeDisplayName
+Wed May 16 02:41:17 UTC 2018: No link for: hudson.FunctionsTest-testHumanReadableFileSize
+Wed May 16 02:41:18 UTC 2018: Linking done for kohsuke__jenkins test class hudson.FunctionsTest
+Wed May 16 02:41:18 UTC 2018: Found element on the queue
+Wed May 16 02:41:18 UTC 2018: Updating status
+Wed May 16 02:41:18 UTC 2018: Working
+Wed May 16 02:41:21 UTC 2018: Start kohsuke__jenkins test class hudson.scheduler.CronTabEventualityTest
+Wed May 16 02:41:21 UTC 2018: Setting lastTestMethodIndex: 57811
+Wed May 16 02:41:21 UTC 2018: Starting linking
+Wed May 16 02:41:21 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testHourlyWillBeEventuallyTriggeredWithinOneHour
+Wed May 16 02:41:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:21 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testYearlyWillBeEventuallyTriggeredWithinOneYear
+Wed May 16 02:41:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:21 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testWeeklyWillBeEventuallyTriggeredWithinOneWeek
+Wed May 16 02:41:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:22 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testMonthlyWillBeEventuallyTriggeredWithinOneMonth
+Wed May 16 02:41:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:22 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testFirstDayOfMonthWillBeEventuallyTriggeredWithinOneMonth
+Wed May 16 02:41:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:22 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testDailyWillBeEventuallyTriggeredWithinOneDay
+Wed May 16 02:41:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:22 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testMidnightWillBeEventuallyTriggeredWithinOneDay
+Wed May 16 02:41:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:23 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testFirstSundayOfMonthWillBeEventuallyTriggeredWithinOneMonthAndOneWeek
+Wed May 16 02:41:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:23 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testAnnuallyWillBeEventuallyTriggeredWithinOneYear
+Wed May 16 02:41:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:23 UTC 2018: Linking done for kohsuke__jenkins test class hudson.scheduler.CronTabEventualityTest
+Wed May 16 02:41:24 UTC 2018: Found element on the queue
+Wed May 16 02:41:24 UTC 2018: Updating status
+Wed May 16 02:41:24 UTC 2018: Working
+Wed May 16 02:41:26 UTC 2018: Start kohsuke__jenkins test class hudson.scheduler.CronTabTest
+Wed May 16 02:41:26 UTC 2018: Setting lastTestMethodIndex: 57813
+Wed May 16 02:41:26 UTC 2018: Starting linking
+Wed May 16 02:41:26 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil3_DoW7
+Wed May 16 02:41:27 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor1
+Wed May 16 02:41:27 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor3
+Wed May 16 02:41:27 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor2
+Wed May 16 02:41:28 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor4
+Wed May 16 02:41:28 UTC 2018: No code found hudson.scheduler.CronTab-checkSanity with hudson.scheduler.CronTabTest-checkSanity
+Wed May 16 02:41:28 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil5
+Wed May 16 02:41:29 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil3
+Wed May 16 02:41:29 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil4
+Wed May 16 02:41:29 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil1
+Wed May 16 02:41:30 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil2
+Wed May 16 02:41:30 UTC 2018: No link for: hudson.scheduler.CronTabTest-testHash2
+Wed May 16 02:41:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:30 UTC 2018: No link for: hudson.scheduler.CronTabTest-testTimezone
+Wed May 16 02:41:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:31 UTC 2018: No link for: hudson.scheduler.CronTabTest-hashedMinute
+Wed May 16 02:41:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:31 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckOK
+Wed May 16 02:41:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:31 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckFailHour
+Wed May 16 02:41:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:31 UTC 2018: No link for: hudson.scheduler.CronTabTest-test1
+Wed May 16 02:41:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:32 UTC 2018: No link for: hudson.scheduler.CronTabTest-repeatedHash
+Wed May 16 02:41:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:32 UTC 2018: No link for: hudson.scheduler.CronTabTest-hashSkips
+Wed May 16 02:41:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:32 UTC 2018: No link for: hudson.scheduler.CronTabTest-testHash1
+Wed May 16 02:41:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:33 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckFailMinute
+Wed May 16 02:41:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:33 UTC 2018: Linking done for kohsuke__jenkins test class hudson.scheduler.CronTabTest
+Wed May 16 02:41:33 UTC 2018: Found element on the queue
+Wed May 16 02:41:33 UTC 2018: Updating status
+Wed May 16 02:41:33 UTC 2018: Working
+Wed May 16 02:41:36 UTC 2018: Start kohsuke__jenkins test class hudson.scheduler.CronTabDayOfWeekLocaleTest
+Wed May 16 02:41:36 UTC 2018: Setting lastTestMethodIndex: 57819
+Wed May 16 02:41:36 UTC 2018: Starting linking
+Wed May 16 02:41:36 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsMonday
+Wed May 16 02:41:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:36 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsSaturday
+Wed May 16 02:41:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:36 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSaturdayAndNextRunIsSundayAsterisk
+Wed May 16 02:41:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:37 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsSaturdayAsterisk
+Wed May 16 02:41:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:37 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-hudson8658
+Wed May 16 02:41:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:37 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsThursday
+Wed May 16 02:41:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsNextSunday
+Wed May 16 02:41:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsWednesday
+Wed May 16 02:41:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsFriday
+Wed May 16 02:41:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsTuesday
+Wed May 16 02:41:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsThursday
+Wed May 16 02:41:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsFriday
+Wed May 16 02:41:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsMonday
+Wed May 16 02:41:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:40 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsPreviousSunday
+Wed May 16 02:41:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:40 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsNextSunday7
+Wed May 16 02:41:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:40 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsPreviousSunday7
+Wed May 16 02:41:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:40 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsTuesday
+Wed May 16 02:41:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:41 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsWednesday
+Wed May 16 02:41:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:41 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsSaturday
+Wed May 16 02:41:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:41 UTC 2018: Linking done for kohsuke__jenkins test class hudson.scheduler.CronTabDayOfWeekLocaleTest
+Wed May 16 02:41:42 UTC 2018: Found element on the queue
+Wed May 16 02:41:42 UTC 2018: Updating status
+Wed May 16 02:41:42 UTC 2018: Working
+Wed May 16 02:41:44 UTC 2018: Start kohsuke__jenkins test class hudson.model.BallColorTest
+Wed May 16 02:41:44 UTC 2018: Setting lastTestMethodIndex: 57824
+Wed May 16 02:41:44 UTC 2018: Starting linking
+Wed May 16 02:41:44 UTC 2018: No link for: hudson.model.BallColorTest-iconClassName
+Wed May 16 02:41:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:45 UTC 2018: No link for: hudson.model.BallColorTest-htmlColor
+Wed May 16 02:41:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:45 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.BallColorTest
+Wed May 16 02:41:45 UTC 2018: Found element on the queue
+Wed May 16 02:41:45 UTC 2018: Updating status
+Wed May 16 02:41:45 UTC 2018: Working
+Wed May 16 02:41:48 UTC 2018: Start kohsuke__jenkins test class hudson.model.ActionableTest
+Wed May 16 02:41:48 UTC 2018: Setting lastTestMethodIndex: 57827
+Wed May 16 02:41:48 UTC 2018: Starting linking
+Wed May 16 02:41:48 UTC 2018: Code found hudson.model.Actionable-addOrReplaceAction with hudson.model.ActionableTest-addOrReplaceAction_null
+Wed May 16 02:41:48 UTC 2018: Code found hudson.model.Actionable-addOrReplaceAction with hudson.model.ActionableTest-addOrReplaceAction
+Wed May 16 02:41:49 UTC 2018: Code found hudson.model.Actionable-addAction with hudson.model.ActionableTest-addAction
+Wed May 16 02:41:49 UTC 2018: Code found hudson.model.Actionable-replaceActions with hudson.model.ActionableTest-replaceActions
+Wed May 16 02:41:49 UTC 2018: Code found hudson.model.Actionable-addAction with hudson.model.ActionableTest-addAction_null
+Wed May 16 02:41:49 UTC 2018: Code found hudson.model.Actionable-removeActions with hudson.model.ActionableTest-removeActions_null
+Wed May 16 02:41:50 UTC 2018: Code found hudson.model.Actionable-replaceAction with hudson.model.ActionableTest-replaceAction_null
+Wed May 16 02:41:50 UTC 2018: Code found hudson.model.Actionable-replaceAction with hudson.model.ActionableTest-replaceAction
+Wed May 16 02:41:50 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:41:50 UTC 2018: Code found hudson.model.Actionable-removeAction with hudson.model.ActionableTest-removeAction
+Wed May 16 02:41:51 UTC 2018: Code found hudson.model.Actionable-replaceActions with hudson.model.ActionableTest-replaceActions_null_null
+Wed May 16 02:41:51 UTC 2018: Code found hudson.model.Actionable-removeAction with hudson.model.ActionableTest-removeAction_null
+Wed May 16 02:41:51 UTC 2018: Code found hudson.model.Actionable-removeActions with hudson.model.ActionableTest-removeActions
+Wed May 16 02:41:51 UTC 2018: Code found hudson.model.Actionable-replaceActions with hudson.model.ActionableTest-replaceActions_null
+Wed May 16 02:41:52 UTC 2018: No link for: hudson.model.ActionableTest-testExtensionOverrides
+Wed May 16 02:41:52 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.ActionableTest
+Wed May 16 02:41:53 UTC 2018: Found element on the queue
+Wed May 16 02:41:53 UTC 2018: Updating status
+Wed May 16 02:41:53 UTC 2018: Working
+Wed May 16 02:41:55 UTC 2018: Start kohsuke__jenkins test class hudson.slaves.DelegatingComputerLauncherTest
+Wed May 16 02:41:55 UTC 2018: Setting lastTestMethodIndex: 57831
+Wed May 16 02:41:55 UTC 2018: Starting linking
+Wed May 16 02:41:55 UTC 2018: Linking done for kohsuke__jenkins test class hudson.slaves.DelegatingComputerLauncherTest
+Wed May 16 02:41:56 UTC 2018: Found element on the queue
+Wed May 16 02:41:56 UTC 2018: Updating status
+Wed May 16 02:41:56 UTC 2018: Working
+Wed May 16 02:41:58 UTC 2018: Start kohsuke__jenkins test class hudson.model.RunParameterValueTest
+Wed May 16 02:41:58 UTC 2018: Setting lastTestMethodIndex: 57833
+Wed May 16 02:41:58 UTC 2018: Starting linking
+Wed May 16 02:41:58 UTC 2018: No link for: hudson.model.RunParameterValueTest-robustness
+Wed May 16 02:41:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:41:58 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.RunParameterValueTest
+Wed May 16 02:41:59 UTC 2018: Found element on the queue
+Wed May 16 02:41:59 UTC 2018: Updating status
+Wed May 16 02:41:59 UTC 2018: Working
+Wed May 16 02:42:01 UTC 2018: Start kohsuke__jenkins test class hudson.model.ChoiceParameterDefinitionTest
+Wed May 16 02:42:01 UTC 2018: Setting lastTestMethodIndex: 57835
+Wed May 16 02:42:01 UTC 2018: Starting linking
+Wed May 16 02:42:01 UTC 2018: No link for: hudson.model.ChoiceParameterDefinitionTest-testCheckChoices
+Wed May 16 02:42:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:02 UTC 2018: No link for: hudson.model.ChoiceParameterDefinitionTest-shouldValidateChoices
+Wed May 16 02:42:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:02 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.ChoiceParameterDefinitionTest
+Wed May 16 02:42:02 UTC 2018: Found element on the queue
+Wed May 16 02:42:02 UTC 2018: Updating status
+Wed May 16 02:42:02 UTC 2018: Working
+Wed May 16 02:42:05 UTC 2018: Start kohsuke__jenkins test class hudson.model.DisplayNameListenerTest
+Wed May 16 02:42:05 UTC 2018: Setting lastTestMethodIndex: 57838
+Wed May 16 02:42:05 UTC 2018: Starting linking
+Wed May 16 02:42:05 UTC 2018: Code found hudson.model.DisplayNameListener-onRenamed with hudson.model.DisplayNameListenerTest-testOnRenamedOldNameNotEqualDisplayName
+Wed May 16 02:42:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:05 UTC 2018: Code found hudson.model.DisplayNameListener-onCopied with hudson.model.DisplayNameListenerTest-testOnCopied
+Wed May 16 02:42:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:05 UTC 2018: Code found hudson.model.DisplayNameListener-onRenamed with hudson.model.DisplayNameListenerTest-testOnRenamedOldNameEqualsDisplayName
+Wed May 16 02:42:06 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:06 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.DisplayNameListenerTest
+Wed May 16 02:42:06 UTC 2018: Found element on the queue
+Wed May 16 02:42:06 UTC 2018: Updating status
+Wed May 16 02:42:06 UTC 2018: Working
+Wed May 16 02:42:09 UTC 2018: Start kohsuke__jenkins test class hudson.model.EnvironmentContributingActionTest
+Wed May 16 02:42:09 UTC 2018: Setting lastTestMethodIndex: 57840
+Wed May 16 02:42:09 UTC 2018: Starting linking
+Wed May 16 02:42:09 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.EnvironmentContributingActionTest
+Wed May 16 02:42:10 UTC 2018: Found element on the queue
+Wed May 16 02:42:10 UTC 2018: Updating status
+Wed May 16 02:42:10 UTC 2018: Working
+Wed May 16 02:42:12 UTC 2018: Start kohsuke__jenkins test class hudson.model.ResourceListTest
+Wed May 16 02:42:12 UTC 2018: Setting lastTestMethodIndex: 57842
+Wed May 16 02:42:12 UTC 2018: Starting linking
+Wed May 16 02:42:12 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-simpleR
+Wed May 16 02:42:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:13 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-multiReadN
+Wed May 16 02:42:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:13 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-simpleRW
+Wed May 16 02:42:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:13 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-multiWriteN
+Wed May 16 02:42:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:14 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-parentChildW
+Wed May 16 02:42:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:14 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-multiWrite1
+Wed May 16 02:42:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:14 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-multiRead1
+Wed May 16 02:42:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:14 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-simpleW
+Wed May 16 02:42:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:15 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-parentChildR3
+Wed May 16 02:42:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:15 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-parentChildW3
+Wed May 16 02:42:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:15 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-parentChildR
+Wed May 16 02:42:16 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:16 UTC 2018: No link for: hudson.model.ResourceListTest-emptyLists
+Wed May 16 02:42:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:16 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.ResourceListTest
+Wed May 16 02:42:16 UTC 2018: Found element on the queue
+Wed May 16 02:42:16 UTC 2018: Updating status
+Wed May 16 02:42:16 UTC 2018: Working
+Wed May 16 02:42:19 UTC 2018: Start kohsuke__jenkins test class hudson.model.TimeSeriesTest
+Wed May 16 02:42:19 UTC 2018: Setting lastTestMethodIndex: 57847
+Wed May 16 02:42:19 UTC 2018: Starting linking
+Wed May 16 02:42:19 UTC 2018: No link for: hudson.model.TimeSeriesTest-test1
+Wed May 16 02:42:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:19 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.TimeSeriesTest
+Wed May 16 02:42:20 UTC 2018: Found element on the queue
+Wed May 16 02:42:20 UTC 2018: Updating status
+Wed May 16 02:42:20 UTC 2018: Working
+Wed May 16 02:42:22 UTC 2018: Start kohsuke__jenkins test class hudson.model.FileParameterValueTest
+Wed May 16 02:42:22 UTC 2018: Setting lastTestMethodIndex: 57849
+Wed May 16 02:42:22 UTC 2018: Starting linking
+Wed May 16 02:42:22 UTC 2018: No link for: hudson.model.FileParameterValueTest-compareNullParams
+Wed May 16 02:42:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:22 UTC 2018: No link for: hudson.model.FileParameterValueTest-compareParamsWithSameName
+Wed May 16 02:42:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:23 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.FileParameterValueTest
+Wed May 16 02:42:23 UTC 2018: Found element on the queue
+Wed May 16 02:42:23 UTC 2018: Updating status
+Wed May 16 02:42:23 UTC 2018: Working
+Wed May 16 02:42:26 UTC 2018: Start kohsuke__jenkins test class hudson.model.AutoCompleteSeederTest
+Wed May 16 02:42:26 UTC 2018: Setting lastTestMethodIndex: 57852
+Wed May 16 02:42:26 UTC 2018: Starting linking
+Wed May 16 02:42:26 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.AutoCompleteSeederTest
+Wed May 16 02:42:26 UTC 2018: Found element on the queue
+Wed May 16 02:42:26 UTC 2018: Updating status
+Wed May 16 02:42:26 UTC 2018: Working
+Wed May 16 02:42:29 UTC 2018: Start kohsuke__jenkins test class hudson.model.ParametersActionTest
+Wed May 16 02:42:29 UTC 2018: Setting lastTestMethodIndex: 57855
+Wed May 16 02:42:29 UTC 2018: Starting linking
+Wed May 16 02:42:29 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldHandleNullOverrides
+Wed May 16 02:42:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:29 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldHandleEmptyOverrides
+Wed May 16 02:42:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:30 UTC 2018: Code found hudson.model.ParametersAction-createUpdated with hudson.model.ParametersActionTest-createUpdatedShouldReturnNewInstanceWithNullOverride
+Wed May 16 02:42:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:30 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldReturnNewInstanceWithOverride
+Wed May 16 02:42:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:30 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldOverrideParameters
+Wed May 16 02:42:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:31 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldCombineDisparateParameters
+Wed May 16 02:42:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:31 UTC 2018: No link for: hudson.model.ParametersActionTest-checkNullParameterValues
+Wed May 16 02:42:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:31 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.ParametersActionTest
+Wed May 16 02:42:32 UTC 2018: Found element on the queue
+Wed May 16 02:42:32 UTC 2018: Updating status
+Wed May 16 02:42:32 UTC 2018: Working
+Wed May 16 02:42:34 UTC 2018: Start kohsuke__jenkins test class hudson.model.BuildStatusSummaryTest
+Wed May 16 02:42:34 UTC 2018: Setting lastTestMethodIndex: 57858
+Wed May 16 02:42:34 UTC 2018: Starting linking
+Wed May 16 02:42:34 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testBecameUnstable
+Wed May 16 02:42:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:35 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNonTestRelatedUnstable
+Wed May 16 02:42:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:35 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testSuccess
+Wed May 16 02:42:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:35 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFailureSince
+Wed May 16 02:42:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:36 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFixed
+Wed May 16 02:42:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:36 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testBecameFailure
+Wed May 16 02:42:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:36 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testUnstableAfterFailure
+Wed May 16 02:42:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:36 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNotBuilt
+Wed May 16 02:42:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:37 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testAborted
+Wed May 16 02:42:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:37 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNonTestRelatedBecameUnstable
+Wed May 16 02:42:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:37 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testStatusUnknownIfRunIsStillBuilding
+Wed May 16 02:42:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:38 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFailure
+Wed May 16 02:42:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:38 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.BuildStatusSummaryTest
+Wed May 16 02:42:39 UTC 2018: Found element on the queue
+Wed May 16 02:42:39 UTC 2018: Updating status
+Wed May 16 02:42:39 UTC 2018: Working
+Wed May 16 02:42:41 UTC 2018: Start kohsuke__jenkins test class hudson.model.TaskActionTest
+Wed May 16 02:42:41 UTC 2018: Setting lastTestMethodIndex: 57863
+Wed May 16 02:42:41 UTC 2018: Starting linking
+Wed May 16 02:42:41 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.TaskActionTest
+Wed May 16 02:42:41 UTC 2018: Found element on the queue
+Wed May 16 02:42:41 UTC 2018: Updating status
+Wed May 16 02:42:41 UTC 2018: Working
+Wed May 16 02:42:44 UTC 2018: Start kohsuke__jenkins test class hudson.model.listeners.SCMListenerTest
+Wed May 16 02:42:44 UTC 2018: Setting lastTestMethodIndex: 57866
+Wed May 16 02:42:44 UTC 2018: Starting linking
+Wed May 16 02:42:44 UTC 2018: Code found hudson.model.listeners.SCMListenerTest$L1-onChangeLogParsed with hudson.model.listeners.SCMListenerTest-onChangeLogParsed
+Wed May 16 02:42:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:42:44 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.listeners.SCMListenerTest
+Wed May 16 02:42:45 UTC 2018: Found element on the queue
+Wed May 16 02:42:45 UTC 2018: Updating status
+Wed May 16 02:42:45 UTC 2018: Working
+Wed May 16 02:42:47 UTC 2018: Start kohsuke__jenkins test class hudson.model.queue.AbstractQueueTaskTest
+Wed May 16 02:42:47 UTC 2018: Setting lastTestMethodIndex: 57867
+Wed May 16 02:42:47 UTC 2018: Starting linking
+Wed May 16 02:42:47 UTC 2018: No link for: hudson.model.queue.AbstractQueueTaskTest-causeOfBlockageOverrides
+Wed May 16 02:42:47 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.queue.AbstractQueueTaskTest
+Wed May 16 02:42:48 UTC 2018: Found element on the queue
+Wed May 16 02:42:48 UTC 2018: Updating status
+Wed May 16 02:42:48 UTC 2018: Working
+Wed May 16 02:42:50 UTC 2018: Start kohsuke__jenkins test class hudson.logging.LogRecorderTest
+Wed May 16 02:42:51 UTC 2018: Setting lastTestMethodIndex: 57870
+Wed May 16 02:42:51 UTC 2018: Starting linking
+Wed May 16 02:42:51 UTC 2018: No link for: hudson.logging.LogRecorderTest-targetIncludes
+Wed May 16 02:42:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:51 UTC 2018: No link for: hudson.logging.LogRecorderTest-targetMatches
+Wed May 16 02:42:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:51 UTC 2018: No link for: hudson.logging.LogRecorderTest-testSpecificExclusion
+Wed May 16 02:42:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:51 UTC 2018: No link for: hudson.logging.LogRecorderTest-autocompletionTest
+Wed May 16 02:42:52 UTC 2018: No link for: hudson.logging.LogRecorderTest-testClearing
+Wed May 16 02:42:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:52 UTC 2018: Linking done for kohsuke__jenkins test class hudson.logging.LogRecorderTest
+Wed May 16 02:42:53 UTC 2018: Found element on the queue
+Wed May 16 02:42:53 UTC 2018: Updating status
+Wed May 16 02:42:53 UTC 2018: Working
+Wed May 16 02:42:55 UTC 2018: Start kohsuke__jenkins test class hudson.ProxyConfigurationTest
+Wed May 16 02:42:55 UTC 2018: Setting lastTestMethodIndex: 57874
+Wed May 16 02:42:55 UTC 2018: Starting linking
+Wed May 16 02:42:55 UTC 2018: No link for: hudson.ProxyConfigurationTest-noProxyHost
+Wed May 16 02:42:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:42:55 UTC 2018: Linking done for kohsuke__jenkins test class hudson.ProxyConfigurationTest
+Wed May 16 02:42:56 UTC 2018: Found element on the queue
+Wed May 16 02:42:56 UTC 2018: Updating status
+Wed May 16 02:42:56 UTC 2018: Working
+Wed May 16 02:42:59 UTC 2018: Start kohsuke__jenkins test class hudson.BulkChangeTest
+Wed May 16 02:42:59 UTC 2018: Setting lastTestMethodIndex: 57877
+Wed May 16 02:42:59 UTC 2018: Starting linking
+Wed May 16 02:42:59 UTC 2018: Linking done for kohsuke__jenkins test class hudson.BulkChangeTest
+Wed May 16 02:42:59 UTC 2018: Found element on the queue
+Wed May 16 02:42:59 UTC 2018: Updating status
+Wed May 16 02:42:59 UTC 2018: Working
+Wed May 16 02:43:02 UTC 2018: Start kohsuke__jenkins test class hudson.util.RunListTest
+Wed May 16 02:43:02 UTC 2018: Setting lastTestMethodIndex: 57879
+Wed May 16 02:43:02 UTC 2018: Starting linking
+Wed May 16 02:43:02 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampLastRun
+Wed May 16 02:43:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:43:02 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampFirstRun
+Wed May 16 02:43:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:43:02 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampAllRuns
+Wed May 16 02:43:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:43:03 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.RunListTest
+Wed May 16 02:43:03 UTC 2018: Found element on the queue
+Wed May 16 02:43:03 UTC 2018: Updating status
+Wed May 16 02:43:03 UTC 2018: Working
+Wed May 16 02:43:06 UTC 2018: Start kohsuke__jenkins test class hudson.util.IsOverriddenTest
+Wed May 16 02:43:06 UTC 2018: Setting lastTestMethodIndex: 57882
+Wed May 16 02:43:06 UTC 2018: Starting linking
+Wed May 16 02:43:06 UTC 2018: Code found hudson.Util-isOverridden with hudson.util.IsOverriddenTest-isOverriddenTest
+Wed May 16 02:43:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:43:07 UTC 2018: Code found hudson.Util-isOverridden with hudson.util.IsOverriddenTest-isOverriddenNegativeTest
+Wed May 16 02:43:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:43:07 UTC 2018: No link for: hudson.util.IsOverriddenTest-avoidPrivateMethodsInspection
+Wed May 16 02:43:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:07 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.IsOverriddenTest
+Wed May 16 02:43:08 UTC 2018: Found element on the queue
+Wed May 16 02:43:08 UTC 2018: Updating status
+Wed May 16 02:43:08 UTC 2018: Working
+Wed May 16 02:43:11 UTC 2018: Start kohsuke__jenkins test class hudson.util.CopyOnWriteMapTest
+Wed May 16 02:43:11 UTC 2018: Setting lastTestMethodIndex: 57884
+Wed May 16 02:43:11 UTC 2018: Starting linking
+Wed May 16 02:43:11 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.CopyOnWriteMapTest
+Wed May 16 02:43:11 UTC 2018: Found element on the queue
+Wed May 16 02:43:11 UTC 2018: Updating status
+Wed May 16 02:43:11 UTC 2018: Working
+Wed May 16 02:43:14 UTC 2018: Start kohsuke__jenkins test class hudson.util.CyclicGraphDetectorTest
+Wed May 16 02:43:14 UTC 2018: Setting lastTestMethodIndex: 57887
+Wed May 16 02:43:14 UTC 2018: Starting linking
+Wed May 16 02:43:14 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.CyclicGraphDetectorTest
+Wed May 16 02:43:14 UTC 2018: Found element on the queue
+Wed May 16 02:43:14 UTC 2018: Updating status
+Wed May 16 02:43:14 UTC 2018: Working
+Wed May 16 02:43:17 UTC 2018: Start kohsuke__jenkins test class hudson.util.SubClassGeneratorTest
+Wed May 16 02:43:17 UTC 2018: Setting lastTestMethodIndex: 57890
+Wed May 16 02:43:17 UTC 2018: Starting linking
+Wed May 16 02:43:17 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.SubClassGeneratorTest
+Wed May 16 02:43:17 UTC 2018: Found element on the queue
+Wed May 16 02:43:17 UTC 2018: Updating status
+Wed May 16 02:43:17 UTC 2018: Working
+Wed May 16 02:43:20 UTC 2018: Start kohsuke__jenkins test class hudson.util.SecretUtilTest
+Wed May 16 02:43:20 UTC 2018: Setting lastTestMethodIndex: 57893
+Wed May 16 02:43:20 UTC 2018: Starting linking
+Wed May 16 02:43:20 UTC 2018: Code found hudson.util.Secret-decrypt with hudson.util.SecretUtilTest-decryptWithSpace
+Wed May 16 02:43:20 UTC 2018: Code found hudson.util.Secret-decrypt with hudson.util.SecretUtilTest-decryptWithSpaces
+Wed May 16 02:43:21 UTC 2018: Code found hudson.util.Secret-decrypt with hudson.util.SecretUtilTest-decryptJustSpace
+Wed May 16 02:43:21 UTC 2018: Code found hudson.util.Secret-decrypt with hudson.util.SecretUtilTest-decrypt
+Wed May 16 02:43:21 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.SecretUtilTest
+Wed May 16 02:43:22 UTC 2018: Found element on the queue
+Wed May 16 02:43:22 UTC 2018: Updating status
+Wed May 16 02:43:22 UTC 2018: Working
+Wed May 16 02:43:24 UTC 2018: Start kohsuke__jenkins test class hudson.util.AtomicFileWriterTest
+Wed May 16 02:43:24 UTC 2018: Setting lastTestMethodIndex: 57896
+Wed May 16 02:43:24 UTC 2018: Starting linking
+Wed May 16 02:43:24 UTC 2018: Code found hudson.util.AtomicFileWriter-abort with hudson.util.AtomicFileWriterTest-abortDeletesTmpFile
+Wed May 16 02:43:25 UTC 2018: Code found hudson.util.AtomicFileWriter-write with hudson.util.AtomicFileWriterTest-writeToAtomicFile
+Wed May 16 02:43:25 UTC 2018: Code found hudson.util.AtomicFileWriter-commit with hudson.util.AtomicFileWriterTest-commitToFile
+Wed May 16 02:43:25 UTC 2018: No link for: hudson.util.AtomicFileWriterTest-indexOutOfBoundsLeavesOriginalUntouched
+Wed May 16 02:43:26 UTC 2018: No link for: hudson.util.AtomicFileWriterTest-createFile
+Wed May 16 02:43:26 UTC 2018: No link for: hudson.util.AtomicFileWriterTest-checkPermissionsRespectUmask
+Wed May 16 02:43:26 UTC 2018: No link for: hudson.util.AtomicFileWriterTest-badPath
+Wed May 16 02:43:27 UTC 2018: No link for: hudson.util.AtomicFileWriterTest-symlinkToDirectory
+Wed May 16 02:43:27 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.AtomicFileWriterTest
+Wed May 16 02:43:28 UTC 2018: Found element on the queue
+Wed May 16 02:43:28 UTC 2018: Updating status
+Wed May 16 02:43:28 UTC 2018: Working
+Wed May 16 02:43:30 UTC 2018: Start kohsuke__jenkins test class hudson.util.FormValidationTest
+Wed May 16 02:43:30 UTC 2018: Setting lastTestMethodIndex: 57899
+Wed May 16 02:43:30 UTC 2018: Starting linking
+Wed May 16 02:43:30 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_Null
+Wed May 16 02:43:31 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_OK
+Wed May 16 02:43:31 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_Empty
+Wed May 16 02:43:31 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateZeroValidations
+Wed May 16 02:43:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:32 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateSeveralValidations
+Wed May 16 02:43:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:32 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateSingleValidations
+Wed May 16 02:43:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:32 UTC 2018: No link for: hudson.util.FormValidationTest-formValidationException
+Wed May 16 02:43:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:33 UTC 2018: No link for: hudson.util.FormValidationTest-testMessage
+Wed May 16 02:43:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:33 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.FormValidationTest
+Wed May 16 02:43:33 UTC 2018: Found element on the queue
+Wed May 16 02:43:33 UTC 2018: Updating status
+Wed May 16 02:43:33 UTC 2018: Working
+Wed May 16 02:43:36 UTC 2018: Start kohsuke__jenkins test class hudson.util.MultipartFormDataParserTest
+Wed May 16 02:43:36 UTC 2018: Setting lastTestMethodIndex: 57904
+Wed May 16 02:43:36 UTC 2018: Starting linking
+Wed May 16 02:43:36 UTC 2018: No link for: hudson.util.MultipartFormDataParserTest-testIsMultipart
+Wed May 16 02:43:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:36 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.MultipartFormDataParserTest
+Wed May 16 02:43:37 UTC 2018: Found element on the queue
+Wed May 16 02:43:37 UTC 2018: Updating status
+Wed May 16 02:43:37 UTC 2018: Working
+Wed May 16 02:43:40 UTC 2018: Start kohsuke__jenkins test class hudson.util.ConsistentHashTest
+Wed May 16 02:43:40 UTC 2018: Setting lastTestMethodIndex: 57907
+Wed May 16 02:43:40 UTC 2018: Starting linking
+Wed May 16 02:43:40 UTC 2018: No link for: hudson.util.ConsistentHashTest-countAllPoints
+Wed May 16 02:43:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:40 UTC 2018: No link for: hudson.util.ConsistentHashTest-speed
+Wed May 16 02:43:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:40 UTC 2018: No link for: hudson.util.ConsistentHashTest-emptyBehavior
+Wed May 16 02:43:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:41 UTC 2018: No link for: hudson.util.ConsistentHashTest-defaultReplicationIsOneHundred
+Wed May 16 02:43:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:41 UTC 2018: No link for: hudson.util.ConsistentHashTest-usesCustomHash
+Wed May 16 02:43:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:41 UTC 2018: No link for: hudson.util.ConsistentHashTest-setCustomDefaultReplication
+Wed May 16 02:43:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:42 UTC 2018: No link for: hudson.util.ConsistentHashTest-removal
+Wed May 16 02:43:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:42 UTC 2018: No link for: hudson.util.ConsistentHashTest-basic
+Wed May 16 02:43:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:42 UTC 2018: No link for: hudson.util.ConsistentHashTest-unevenDistribution
+Wed May 16 02:43:43 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:43 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.ConsistentHashTest
+Wed May 16 02:43:43 UTC 2018: Found element on the queue
+Wed May 16 02:43:43 UTC 2018: Updating status
+Wed May 16 02:43:43 UTC 2018: Working
+Wed May 16 02:43:46 UTC 2018: Start kohsuke__jenkins test class hudson.util.QuotedStringTokenizerTest
+Wed May 16 02:43:46 UTC 2018: Setting lastTestMethodIndex: 57911
+Wed May 16 02:43:46 UTC 2018: Starting linking
+Wed May 16 02:43:46 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test1
+Wed May 16 02:43:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:46 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test3
+Wed May 16 02:43:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:46 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test2
+Wed May 16 02:43:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:47 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test5
+Wed May 16 02:43:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:47 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test4
+Wed May 16 02:43:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:48 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test7
+Wed May 16 02:43:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:48 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test6
+Wed May 16 02:43:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:48 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.QuotedStringTokenizerTest
+Wed May 16 02:43:49 UTC 2018: Found element on the queue
+Wed May 16 02:43:49 UTC 2018: Updating status
+Wed May 16 02:43:49 UTC 2018: Working
+Wed May 16 02:43:51 UTC 2018: Start kohsuke__jenkins test class hudson.util.JSONObjectResponseTest
+Wed May 16 02:43:51 UTC 2018: Setting lastTestMethodIndex: 57916
+Wed May 16 02:43:51 UTC 2018: Starting linking
+Wed May 16 02:43:51 UTC 2018: No link for: hudson.util.JSONObjectResponseTest-test
+Wed May 16 02:43:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:51 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.JSONObjectResponseTest
+Wed May 16 02:43:52 UTC 2018: Found element on the queue
+Wed May 16 02:43:52 UTC 2018: Updating status
+Wed May 16 02:43:52 UTC 2018: Working
+Wed May 16 02:43:54 UTC 2018: Start kohsuke__jenkins test class hudson.util.io.TarArchiverTest
+Wed May 16 02:43:54 UTC 2018: Setting lastTestMethodIndex: 57917
+Wed May 16 02:43:54 UTC 2018: Starting linking
+Wed May 16 02:43:54 UTC 2018: No code found hudson.FilePath-tar with hudson.util.io.TarArchiverTest-growingFileTar
+Wed May 16 02:43:55 UTC 2018: No link for: hudson.util.io.TarArchiverTest-brokenSymlinks
+Wed May 16 02:43:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:43:55 UTC 2018: No link for: hudson.util.io.TarArchiverTest-permission
+Wed May 16 02:43:56 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.io.TarArchiverTest
+Wed May 16 02:43:57 UTC 2018: Found element on the queue
+Wed May 16 02:43:57 UTC 2018: Updating status
+Wed May 16 02:43:57 UTC 2018: Working
+Wed May 16 02:43:59 UTC 2018: Start kohsuke__jenkins test class hudson.util.io.ZipArchiverTest
+Wed May 16 02:43:59 UTC 2018: Setting lastTestMethodIndex: 57920
+Wed May 16 02:43:59 UTC 2018: Starting linking
+Wed May 16 02:43:59 UTC 2018: No link for: hudson.util.io.ZipArchiverTest-backwardsSlashesOnWindows
+Wed May 16 02:44:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:00 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.io.ZipArchiverTest
+Wed May 16 02:44:00 UTC 2018: Found element on the queue
+Wed May 16 02:44:00 UTC 2018: Updating status
+Wed May 16 02:44:00 UTC 2018: Working
+Wed May 16 02:44:02 UTC 2018: Start kohsuke__jenkins test class hudson.util.io.RewindableRotatingFileOutputStreamTest
+Wed May 16 02:44:02 UTC 2018: Setting lastTestMethodIndex: 57922
+Wed May 16 02:44:02 UTC 2018: Starting linking
+Wed May 16 02:44:02 UTC 2018: No link for: hudson.util.io.RewindableRotatingFileOutputStreamTest-rotation
+Wed May 16 02:44:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:03 UTC 2018: No link for: hudson.util.io.RewindableRotatingFileOutputStreamTest-deletedFolder
+Wed May 16 02:44:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:03 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.io.RewindableRotatingFileOutputStreamTest
+Wed May 16 02:44:04 UTC 2018: Found element on the queue
+Wed May 16 02:44:04 UTC 2018: Updating status
+Wed May 16 02:44:04 UTC 2018: Working
+Wed May 16 02:44:06 UTC 2018: Start kohsuke__jenkins test class hudson.util.XStream2EncodingTest
+Wed May 16 02:44:06 UTC 2018: Setting lastTestMethodIndex: 57924
+Wed May 16 02:44:06 UTC 2018: Starting linking
+Wed May 16 02:44:06 UTC 2018: Code found hudson.util.XStream2-toXMLUTF8 with hudson.util.XStream2EncodingTest-toXMLUTF8
+Wed May 16 02:44:06 UTC 2018: Code found hudson.util.XStream2-toXML with hudson.util.XStream2EncodingTest-toXMLUnspecifiedEncoding
+Wed May 16 02:44:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:44:07 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.XStream2EncodingTest
+Wed May 16 02:44:07 UTC 2018: Found element on the queue
+Wed May 16 02:44:07 UTC 2018: Updating status
+Wed May 16 02:44:07 UTC 2018: Working
+Wed May 16 02:44:10 UTC 2018: Start kohsuke__jenkins test class hudson.util.SecretTest
+Wed May 16 02:44:10 UTC 2018: Setting lastTestMethodIndex: 57926
+Wed May 16 02:44:10 UTC 2018: Starting linking
+Wed May 16 02:44:10 UTC 2018: No link for: hudson.util.SecretTest-migrationFromLegacyKeyToConfidentialStore
+Wed May 16 02:44:10 UTC 2018: No link for: hudson.util.SecretTest-decrypt
+Wed May 16 02:44:10 UTC 2018: No link for: hudson.util.SecretTest-serialization
+Wed May 16 02:44:11 UTC 2018: No link for: hudson.util.SecretTest-testCompatibilityFromString
+Wed May 16 02:44:11 UTC 2018: No link for: hudson.util.SecretTest-encryptedValuePattern
+Wed May 16 02:44:11 UTC 2018: No link for: hudson.util.SecretTest-encrypt
+Wed May 16 02:44:12 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.SecretTest
+Wed May 16 02:44:12 UTC 2018: Found element on the queue
+Wed May 16 02:44:12 UTC 2018: Updating status
+Wed May 16 02:44:12 UTC 2018: Working
+Wed May 16 02:44:15 UTC 2018: Start kohsuke__jenkins test class hudson.util.IteratorsTest
+Wed May 16 02:44:15 UTC 2018: Setting lastTestMethodIndex: 57928
+Wed May 16 02:44:15 UTC 2018: Starting linking
+Wed May 16 02:44:15 UTC 2018: No code found hudson.util.Iterators-reverseSequence with hudson.util.IteratorsTest-reverseSequence
+Wed May 16 02:44:15 UTC 2018: No code found hudson.util.Iterators-wrap with hudson.util.IteratorsTest-wrap
+Wed May 16 02:44:15 UTC 2018: No code found hudson.util.Iterators-sequence with hudson.util.IteratorsTest-sequence
+Wed May 16 02:44:16 UTC 2018: No code found hudson.util.Iterators-limit with hudson.util.IteratorsTest-limit
+Wed May 16 02:44:16 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.IteratorsTest
+Wed May 16 02:44:17 UTC 2018: Found element on the queue
+Wed May 16 02:44:17 UTC 2018: Updating status
+Wed May 16 02:44:17 UTC 2018: Working
+Wed May 16 02:44:19 UTC 2018: Start kohsuke__jenkins test class hudson.util.DirScannerTest
+Wed May 16 02:44:19 UTC 2018: Setting lastTestMethodIndex: 57931
+Wed May 16 02:44:19 UTC 2018: Starting linking
+Wed May 16 02:44:19 UTC 2018: No link for: hudson.util.DirScannerTest-globShouldIgnoreDefaultExcludesByRequest
+Wed May 16 02:44:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:19 UTC 2018: No link for: hudson.util.DirScannerTest-globShouldUseDefaultExcludes
+Wed May 16 02:44:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:20 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.DirScannerTest
+Wed May 16 02:44:20 UTC 2018: Found element on the queue
+Wed May 16 02:44:20 UTC 2018: Updating status
+Wed May 16 02:44:20 UTC 2018: Working
+Wed May 16 02:44:23 UTC 2018: Start kohsuke__jenkins test class hudson.util.PackedMapTest
+Wed May 16 02:44:23 UTC 2018: Setting lastTestMethodIndex: 57933
+Wed May 16 02:44:23 UTC 2018: Starting linking
+Wed May 16 02:44:23 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.PackedMapTest
+Wed May 16 02:44:23 UTC 2018: Found element on the queue
+Wed May 16 02:44:23 UTC 2018: Updating status
+Wed May 16 02:44:23 UTC 2018: Working
+Wed May 16 02:44:26 UTC 2018: Start kohsuke__jenkins test class hudson.util.DescribableListTest
+Wed May 16 02:44:26 UTC 2018: Setting lastTestMethodIndex: 57935
+Wed May 16 02:44:26 UTC 2018: Starting linking
+Wed May 16 02:44:26 UTC 2018: No link for: hudson.util.DescribableListTest-exceptionDuringUnmarshalling
+Wed May 16 02:44:26 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.DescribableListTest
+Wed May 16 02:44:27 UTC 2018: Found element on the queue
+Wed May 16 02:44:27 UTC 2018: Updating status
+Wed May 16 02:44:27 UTC 2018: Working
+Wed May 16 02:44:30 UTC 2018: Start kohsuke__jenkins test class hudson.util.XStream2Test
+Wed May 16 02:44:30 UTC 2018: Setting lastTestMethodIndex: 57937
+Wed May 16 02:44:30 UTC 2018: Starting linking
+Wed May 16 02:44:30 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.XStream2Test
+Wed May 16 02:44:30 UTC 2018: Found element on the queue
+Wed May 16 02:44:30 UTC 2018: Updating status
+Wed May 16 02:44:30 UTC 2018: Working
+Wed May 16 02:44:33 UTC 2018: Start kohsuke__jenkins test class hudson.util.SecretRewriterTest
+Wed May 16 02:44:33 UTC 2018: Setting lastTestMethodIndex: 57939
+Wed May 16 02:44:33 UTC 2018: Starting linking
+Wed May 16 02:44:33 UTC 2018: No link for: hudson.util.SecretRewriterTest-singleFileRewrite
+Wed May 16 02:44:34 UTC 2018: No link for: hudson.util.SecretRewriterTest-recursionDetection
+Wed May 16 02:44:34 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.SecretRewriterTest
+Wed May 16 02:44:35 UTC 2018: Found element on the queue
+Wed May 16 02:44:35 UTC 2018: Updating status
+Wed May 16 02:44:35 UTC 2018: Working
+Wed May 16 02:44:38 UTC 2018: Start kohsuke__jenkins test class hudson.util.LineEndNormalizingWriterTest
+Wed May 16 02:44:38 UTC 2018: Setting lastTestMethodIndex: 57941
+Wed May 16 02:44:38 UTC 2018: Starting linking
+Wed May 16 02:44:38 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test1
+Wed May 16 02:44:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:38 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test2
+Wed May 16 02:44:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:39 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test3
+Wed May 16 02:44:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:39 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.LineEndNormalizingWriterTest
+Wed May 16 02:44:40 UTC 2018: Found element on the queue
+Wed May 16 02:44:40 UTC 2018: Updating status
+Wed May 16 02:44:40 UTC 2018: Working
+Wed May 16 02:44:42 UTC 2018: Start kohsuke__jenkins test class hudson.util.ProcessTreeTest
+Wed May 16 02:44:42 UTC 2018: Setting lastTestMethodIndex: 57943
+Wed May 16 02:44:42 UTC 2018: Starting linking
+Wed May 16 02:44:42 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.ProcessTreeTest
+Wed May 16 02:44:43 UTC 2018: Found element on the queue
+Wed May 16 02:44:43 UTC 2018: Updating status
+Wed May 16 02:44:43 UTC 2018: Working
+Wed May 16 02:44:46 UTC 2018: Start kohsuke__jenkins test class hudson.EnvVarsTest
+Wed May 16 02:44:46 UTC 2018: Setting lastTestMethodIndex: 57945
+Wed May 16 02:44:46 UTC 2018: Starting linking
+Wed May 16 02:44:46 UTC 2018: No code found hudson.EnvVars-overrideExpandingAll with hudson.EnvVarsTest-overrideExpandingAll
+Wed May 16 02:44:46 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorCyclic
+Wed May 16 02:44:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:47 UTC 2018: No link for: hudson.EnvVarsTest-caseInsensitive
+Wed May 16 02:44:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:47 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorSelfReference
+Wed May 16 02:44:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:48 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorMultiple
+Wed May 16 02:44:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:48 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorSimple
+Wed May 16 02:44:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:49 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorInOrder
+Wed May 16 02:44:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:49 UTC 2018: Linking done for kohsuke__jenkins test class hudson.EnvVarsTest
+Wed May 16 02:44:50 UTC 2018: Found element on the queue
+Wed May 16 02:44:50 UTC 2018: Updating status
+Wed May 16 02:44:50 UTC 2018: Working
+Wed May 16 02:44:53 UTC 2018: Start kohsuke__jenkins test class hudson.cli.handlers.ViewOptionHandlerTest
+Wed May 16 02:44:53 UTC 2018: Setting lastTestMethodIndex: 57948
+Wed May 16 02:44:53 UTC 2018: Starting linking
+Wed May 16 02:44:53 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentInnerView
+Wed May 16 02:44:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:53 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadNestedView
+Wed May 16 02:44:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:54 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveNestedView
+Wed May 16 02:44:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:54 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-ignoreLeadingAndTrailingSlashes
+Wed May 16 02:44:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:54 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportViewSpaceNameRequestAsIAE
+Wed May 16 02:44:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:55 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportTraversingViewThatIsNotAViewGroup
+Wed May 16 02:44:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:55 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNullViewAsNPE
+Wed May 16 02:44:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:55 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveOuterView
+Wed May 16 02:44:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:56 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentNestedView
+Wed May 16 02:44:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:56 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadOuterView
+Wed May 16 02:44:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:56 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportEmptyViewNameRequestAsNull
+Wed May 16 02:44:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:57 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentTopLevelView
+Wed May 16 02:44:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:57 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadInnerView
+Wed May 16 02:44:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:58 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveTopLevelView
+Wed May 16 02:44:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:44:58 UTC 2018: Linking done for kohsuke__jenkins test class hudson.cli.handlers.ViewOptionHandlerTest
+Wed May 16 02:44:59 UTC 2018: Found element on the queue
+Wed May 16 02:44:59 UTC 2018: Updating status
+Wed May 16 02:44:59 UTC 2018: Working
+Wed May 16 02:45:02 UTC 2018: Start kohsuke__jenkins test class hudson.util.TextFileTest
+Wed May 16 02:45:03 UTC 2018: Setting lastTestMethodIndex: 57952
+Wed May 16 02:45:03 UTC 2018: Starting linking
+Wed May 16 02:45:03 UTC 2018: Code found hudson.util.TextFile-head with hudson.util.TextFileTest-shortHead
+Wed May 16 02:45:03 UTC 2018: Code found hudson.util.TextFile-head with hudson.util.TextFileTest-head
+Wed May 16 02:45:03 UTC 2018: No link for: hudson.util.TextFileTest-shortTail
+Wed May 16 02:45:04 UTC 2018: No link for: hudson.util.TextFileTest-tail
+Wed May 16 02:45:04 UTC 2018: No link for: hudson.util.TextFileTest-tailShiftJIS
+Wed May 16 02:45:04 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.TextFileTest
+Wed May 16 02:45:05 UTC 2018: Found element on the queue
+Wed May 16 02:45:05 UTC 2018: Updating status
+Wed May 16 02:45:05 UTC 2018: Working
+Wed May 16 02:45:05 UTC 2018: Create project parser
+Wed May 16 02:45:15 UTC 2018: Start kohsuke__jenkins test class hudson.model.listeners.ItemListenerTest
+Wed May 16 02:45:15 UTC 2018: Setting lastTestMethodIndex: 57958
+Wed May 16 02:45:15 UTC 2018: Starting linking
+Wed May 16 02:45:15 UTC 2018: No link for: hudson.model.listeners.ItemListenerTest-onCreatedViaCLI
+Wed May 16 02:45:16 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.listeners.ItemListenerTest
+Wed May 16 02:45:16 UTC 2018: Found element on the queue
+Wed May 16 02:45:16 UTC 2018: Updating status
+Wed May 16 02:45:16 UTC 2018: Working
+Wed May 16 02:45:19 UTC 2018: Start kohsuke__jenkins test class hudson.model.queue.QueueTaskDispatcherTest
+Wed May 16 02:45:19 UTC 2018: Setting lastTestMethodIndex: 57961
+Wed May 16 02:45:19 UTC 2018: Starting linking
+Wed May 16 02:45:19 UTC 2018: No link for: hudson.model.queue.QueueTaskDispatcherTest-canRunBlockageIsDisplayed
+Wed May 16 02:45:19 UTC 2018: No link for: hudson.model.queue.QueueTaskDispatcherTest-canTakeBlockageIsDisplayed
+Wed May 16 02:45:20 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.queue.QueueTaskDispatcherTest
+Wed May 16 02:45:20 UTC 2018: Found element on the queue
+Wed May 16 02:45:20 UTC 2018: Updating status
+Wed May 16 02:45:20 UTC 2018: Working
+Wed May 16 02:45:23 UTC 2018: Start kohsuke__jenkins test class hudson.model.queue.LoadPredictorTest
+Wed May 16 02:45:23 UTC 2018: Setting lastTestMethodIndex: 57964
+Wed May 16 02:45:23 UTC 2018: Starting linking
+Wed May 16 02:45:23 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.queue.LoadPredictorTest
+Wed May 16 02:45:23 UTC 2018: Found element on the queue
+Wed May 16 02:45:23 UTC 2018: Updating status
+Wed May 16 02:45:23 UTC 2018: Working
+Wed May 16 02:45:26 UTC 2018: Start kohsuke__jenkins test class hudson.model.queue.WideExecutionTest
+Wed May 16 02:45:26 UTC 2018: Setting lastTestMethodIndex: 57965
+Wed May 16 02:45:26 UTC 2018: Starting linking
+Wed May 16 02:45:26 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.queue.WideExecutionTest
+Wed May 16 02:45:27 UTC 2018: Found element on the queue
+Wed May 16 02:45:27 UTC 2018: Updating status
+Wed May 16 02:45:27 UTC 2018: Working
+Wed May 16 02:45:29 UTC 2018: Start kohsuke__jenkins test class hudson.model.AbortedFreeStyleBuildTest
+Wed May 16 02:45:29 UTC 2018: Setting lastTestMethodIndex: 57968
+Wed May 16 02:45:29 UTC 2018: Starting linking
+Wed May 16 02:45:29 UTC 2018: No link for: hudson.model.AbortedFreeStyleBuildTest-buildWrapperSeesAbortedStatus
+Wed May 16 02:45:30 UTC 2018: No link for: hudson.model.AbortedFreeStyleBuildTest-interruptAsFailure
+Wed May 16 02:45:30 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.AbortedFreeStyleBuildTest
+Wed May 16 02:45:30 UTC 2018: Found element on the queue
+Wed May 16 02:45:30 UTC 2018: Updating status
+Wed May 16 02:45:30 UTC 2018: Working
+Wed May 16 02:45:33 UTC 2018: Start kohsuke__jenkins test class hudson.model.GetEnvironmentOutsideBuildTest
+Wed May 16 02:45:33 UTC 2018: Setting lastTestMethodIndex: 57970
+Wed May 16 02:45:33 UTC 2018: Starting linking
+Wed May 16 02:45:33 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.GetEnvironmentOutsideBuildTest
+Wed May 16 02:45:34 UTC 2018: Found element on the queue
+Wed May 16 02:45:34 UTC 2018: Updating status
+Wed May 16 02:45:34 UTC 2018: Working
+Wed May 16 02:45:36 UTC 2018: Start kohsuke__jenkins test class hudson.ExtensionListTest
+Wed May 16 02:45:36 UTC 2018: Setting lastTestMethodIndex: 57971
+Wed May 16 02:45:36 UTC 2018: Starting linking
+Wed May 16 02:45:36 UTC 2018: Linking done for kohsuke__jenkins test class hudson.ExtensionListTest
+Wed May 16 02:45:37 UTC 2018: Found element on the queue
+Wed May 16 02:45:37 UTC 2018: Updating status
+Wed May 16 02:45:37 UTC 2018: Working
+Wed May 16 02:45:40 UTC 2018: Start kohsuke__jenkins test class hudson.ExtensionListListenerTest
+Wed May 16 02:45:40 UTC 2018: Setting lastTestMethodIndex: 57973
+Wed May 16 02:45:40 UTC 2018: Starting linking
+Wed May 16 02:45:40 UTC 2018: No link for: hudson.ExtensionListListenerTest-test_onChange
+Wed May 16 02:45:40 UTC 2018: Linking done for kohsuke__jenkins test class hudson.ExtensionListListenerTest
+Wed May 16 02:45:41 UTC 2018: Found element on the queue
+Wed May 16 02:45:41 UTC 2018: Updating status
+Wed May 16 02:45:41 UTC 2018: Working
+Wed May 16 02:45:44 UTC 2018: Start kohsuke__jenkins test class hudson.init.impl.GroovyInitScriptTest
+Wed May 16 02:45:44 UTC 2018: Setting lastTestMethodIndex: 57975
+Wed May 16 02:45:44 UTC 2018: Starting linking
+Wed May 16 02:45:44 UTC 2018: No link for: hudson.init.impl.GroovyInitScriptTest-errorsHandled
+Wed May 16 02:45:44 UTC 2018: Linking done for kohsuke__jenkins test class hudson.init.impl.GroovyInitScriptTest
+Wed May 16 02:45:45 UTC 2018: Found element on the queue
+Wed May 16 02:45:45 UTC 2018: Updating status
+Wed May 16 02:45:45 UTC 2018: Working
+Wed May 16 02:45:47 UTC 2018: Start kohsuke__jenkins test class hudson.util.XStream2Security383Test
+Wed May 16 02:45:47 UTC 2018: Setting lastTestMethodIndex: 57978
+Wed May 16 02:45:47 UTC 2018: Starting linking
+Wed May 16 02:45:47 UTC 2018: No link for: hudson.util.XStream2Security383Test-testXmlLoad
+Wed May 16 02:45:48 UTC 2018: No link for: hudson.util.XStream2Security383Test-testPostJobXml
+Wed May 16 02:45:48 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.XStream2Security383Test
+Wed May 16 02:45:49 UTC 2018: Found element on the queue
+Wed May 16 02:45:49 UTC 2018: Updating status
+Wed May 16 02:45:49 UTC 2018: Working
+Wed May 16 02:45:51 UTC 2018: Start kohsuke__jenkins test class hudson.util.RingBufferLogHandlerTest
+Wed May 16 02:45:51 UTC 2018: Setting lastTestMethodIndex: 57980
+Wed May 16 02:45:51 UTC 2018: Starting linking
+Wed May 16 02:45:51 UTC 2018: No link for: hudson.util.RingBufferLogHandlerTest-tooMuchRecordsShouldNotCrashHandler
+Wed May 16 02:45:52 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.RingBufferLogHandlerTest
+Wed May 16 02:45:52 UTC 2018: Found element on the queue
+Wed May 16 02:45:52 UTC 2018: Updating status
+Wed May 16 02:45:52 UTC 2018: Working
+Wed May 16 02:45:55 UTC 2018: Start kohsuke__jenkins test class hudson.util.ProcessTreeKillerTest
+Wed May 16 02:45:55 UTC 2018: Setting lastTestMethodIndex: 57982
+Wed May 16 02:45:55 UTC 2018: Starting linking
+Wed May 16 02:45:55 UTC 2018: No link for: hudson.util.ProcessTreeKillerTest-doNotKillProcessWithCookie
+Wed May 16 02:45:56 UTC 2018: No link for: hudson.util.ProcessTreeKillerTest-considersKillingVetos
+Wed May 16 02:45:56 UTC 2018: No link for: hudson.util.ProcessTreeKillerTest-processProperlyKilledUnix
+Wed May 16 02:45:56 UTC 2018: No link for: hudson.util.ProcessTreeKillerTest-manualAbortProcess
+Wed May 16 02:45:57 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.ProcessTreeKillerTest
+Wed May 16 02:45:57 UTC 2018: Found element on the queue
+Wed May 16 02:45:57 UTC 2018: Updating status
+Wed May 16 02:45:57 UTC 2018: Working
+Wed May 16 02:46:00 UTC 2018: Start kohsuke__jenkins test class hudson.util.AtomicFileWriterPerfTest
+Wed May 16 02:46:00 UTC 2018: Setting lastTestMethodIndex: 57983
+Wed May 16 02:46:00 UTC 2018: Starting linking
+Wed May 16 02:46:00 UTC 2018: No link for: hudson.util.AtomicFileWriterPerfTest-poorManPerformanceTestBed
+Wed May 16 02:46:01 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.AtomicFileWriterPerfTest
+Wed May 16 02:46:01 UTC 2018: Found element on the queue
+Wed May 16 02:46:01 UTC 2018: Updating status
+Wed May 16 02:46:01 UTC 2018: Working
+Wed May 16 02:46:04 UTC 2018: Start kohsuke__jenkins test class hudson.util.BootFailureTest
+Wed May 16 02:46:04 UTC 2018: Setting lastTestMethodIndex: 57985
+Wed May 16 02:46:04 UTC 2018: Starting linking
+Wed May 16 02:46:04 UTC 2018: Linking done for kohsuke__jenkins test class hudson.util.BootFailureTest
+Wed May 16 02:46:04 UTC 2018: Found element on the queue
+Wed May 16 02:46:04 UTC 2018: Updating status
+Wed May 16 02:46:04 UTC 2018: Working
+Wed May 16 02:46:07 UTC 2018: Start kohsuke__jenkins test class hudson.console.ExceptionAnnotationTest
+Wed May 16 02:46:07 UTC 2018: Setting lastTestMethodIndex: 57986
+Wed May 16 02:46:07 UTC 2018: Starting linking
+Wed May 16 02:46:07 UTC 2018: No link for: hudson.console.ExceptionAnnotationTest-test
+Wed May 16 02:46:07 UTC 2018: Linking done for kohsuke__jenkins test class hudson.console.ExceptionAnnotationTest
+Wed May 16 02:46:08 UTC 2018: Found element on the queue
+Wed May 16 02:46:08 UTC 2018: Updating status
+Wed May 16 02:46:08 UTC 2018: Working
+Wed May 16 02:46:10 UTC 2018: Start kohsuke__jenkins test class hudson.console.AnnotatedLargeTextTest
+Wed May 16 02:46:10 UTC 2018: Setting lastTestMethodIndex: 57987
+Wed May 16 02:46:10 UTC 2018: Starting linking
+Wed May 16 02:46:10 UTC 2018: No link for: hudson.console.AnnotatedLargeTextTest-smokes
+Wed May 16 02:46:11 UTC 2018: No link for: hudson.console.AnnotatedLargeTextTest-oldDeserialization
+Wed May 16 02:46:11 UTC 2018: No link for: hudson.console.AnnotatedLargeTextTest-badMac
+Wed May 16 02:46:12 UTC 2018: Linking done for kohsuke__jenkins test class hudson.console.AnnotatedLargeTextTest
+Wed May 16 02:46:13 UTC 2018: Found element on the queue
+Wed May 16 02:46:13 UTC 2018: Updating status
+Wed May 16 02:46:13 UTC 2018: Working
+Wed May 16 02:46:15 UTC 2018: Start kohsuke__jenkins test class hudson.tools.ToolLocationTest
+Wed May 16 02:46:15 UTC 2018: Setting lastTestMethodIndex: 57990
+Wed May 16 02:46:15 UTC 2018: Starting linking
+Wed May 16 02:46:15 UTC 2018: No link for: hudson.tools.ToolLocationTest-toolCompatibility
+Wed May 16 02:46:16 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tools.ToolLocationTest
+Wed May 16 02:46:16 UTC 2018: Found element on the queue
+Wed May 16 02:46:16 UTC 2018: Updating status
+Wed May 16 02:46:16 UTC 2018: Working
+Wed May 16 02:46:19 UTC 2018: Start kohsuke__jenkins test class hudson.tools.CommandInstallerTest
+Wed May 16 02:46:19 UTC 2018: Setting lastTestMethodIndex: 57992
+Wed May 16 02:46:19 UTC 2018: Starting linking
+Wed May 16 02:46:19 UTC 2018: No link for: hudson.tools.CommandInstallerTest-validateCommandInstallerCommandEOL
+Wed May 16 02:46:20 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tools.CommandInstallerTest
+Wed May 16 02:46:20 UTC 2018: Found element on the queue
+Wed May 16 02:46:20 UTC 2018: Updating status
+Wed May 16 02:46:20 UTC 2018: Working
+Wed May 16 02:46:23 UTC 2018: Start kohsuke__jenkins test class hudson.tools.InstallerTranslatorTest
+Wed May 16 02:46:23 UTC 2018: Setting lastTestMethodIndex: 57994
+Wed May 16 02:46:23 UTC 2018: Starting linking
+Wed May 16 02:46:23 UTC 2018: No link for: hudson.tools.InstallerTranslatorTest-testNoMessageLoggedWhenAnyInstallerFound
+Wed May 16 02:46:23 UTC 2018: No link for: hudson.tools.InstallerTranslatorTest-offlineNodeForJDK
+Wed May 16 02:46:24 UTC 2018: No link for: hudson.tools.InstallerTranslatorTest-testMessageLoggedWhenNoInstallerFound
+Wed May 16 02:46:24 UTC 2018: No link for: hudson.tools.InstallerTranslatorTest-multipleSlavesAndTools
+Wed May 16 02:46:24 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tools.InstallerTranslatorTest
+Wed May 16 02:46:25 UTC 2018: Found element on the queue
+Wed May 16 02:46:25 UTC 2018: Updating status
+Wed May 16 02:46:25 UTC 2018: Working
+Wed May 16 02:46:28 UTC 2018: Start kohsuke__jenkins test class hudson.tools.BatchCommandInstallerTest
+Wed May 16 02:46:28 UTC 2018: Setting lastTestMethodIndex: 57997
+Wed May 16 02:46:28 UTC 2018: Starting linking
+Wed May 16 02:46:28 UTC 2018: No link for: hudson.tools.BatchCommandInstallerTest-validateBatchCommandInstallerCommandEOL
+Wed May 16 02:46:28 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tools.BatchCommandInstallerTest
+Wed May 16 02:46:29 UTC 2018: Found element on the queue
+Wed May 16 02:46:29 UTC 2018: Updating status
+Wed May 16 02:46:29 UTC 2018: Working
+Wed May 16 02:46:31 UTC 2018: Start kohsuke__jenkins test class hudson.bugs.DateConversionTest
+Wed May 16 02:46:31 UTC 2018: Setting lastTestMethodIndex: 57999
+Wed May 16 02:46:31 UTC 2018: Starting linking
+Wed May 16 02:46:31 UTC 2018: No link for: hudson.bugs.DateConversionTest-test
+Wed May 16 02:46:32 UTC 2018: Linking done for kohsuke__jenkins test class hudson.bugs.DateConversionTest
+Wed May 16 02:46:32 UTC 2018: Found element on the queue
+Wed May 16 02:46:32 UTC 2018: Updating status
+Wed May 16 02:46:32 UTC 2018: Working
+Wed May 16 02:46:35 UTC 2018: Start kohsuke__jenkins test class hudson.cli.EnableJobCommandTest
+Wed May 16 02:46:35 UTC 2018: Setting lastTestMethodIndex: 58000
+Wed May 16 02:46:35 UTC 2018: Starting linking
+Wed May 16 02:46:35 UTC 2018: No link for: hudson.cli.EnableJobCommandTest-smokes
+Wed May 16 02:46:35 UTC 2018: Linking done for kohsuke__jenkins test class hudson.cli.EnableJobCommandTest
+Wed May 16 02:46:36 UTC 2018: Found element on the queue
+Wed May 16 02:46:36 UTC 2018: Updating status
+Wed May 16 02:46:36 UTC 2018: Working
+Wed May 16 02:46:39 UTC 2018: Start kohsuke__jenkins test class hudson.cli.InstallPluginCommandTest
+Wed May 16 02:46:39 UTC 2018: Setting lastTestMethodIndex: 58002
+Wed May 16 02:46:39 UTC 2018: Starting linking
+Wed May 16 02:46:39 UTC 2018: No link for: hudson.cli.InstallPluginCommandTest-fromStdin
+Wed May 16 02:46:39 UTC 2018: Linking done for kohsuke__jenkins test class hudson.cli.InstallPluginCommandTest
+Wed May 16 02:46:39 UTC 2018: Found element on the queue
+Wed May 16 02:46:39 UTC 2018: Updating status
+Wed May 16 02:46:40 UTC 2018: Working
+Wed May 16 02:46:42 UTC 2018: Start kohsuke__jenkins test class hudson.cli.SetBuildDisplayNameCommandTest
+Wed May 16 02:46:42 UTC 2018: Setting lastTestMethodIndex: 58004
+Wed May 16 02:46:42 UTC 2018: Starting linking
+Wed May 16 02:46:42 UTC 2018: No link for: hudson.cli.SetBuildDisplayNameCommandTest-referencingBuildThatDoesNotExistsShouldFail
+Wed May 16 02:46:43 UTC 2018: No link for: hudson.cli.SetBuildDisplayNameCommandTest-setDescriptionSuccessfully
+Wed May 16 02:46:43 UTC 2018: Linking done for kohsuke__jenkins test class hudson.cli.SetBuildDisplayNameCommandTest
+Wed May 16 02:46:44 UTC 2018: Found element on the queue
+Wed May 16 02:46:44 UTC 2018: Updating status
+Wed May 16 02:46:44 UTC 2018: Working
+Wed May 16 02:46:46 UTC 2018: Start kohsuke__jenkins test class hudson.cli.CLIRegistererTest
+Wed May 16 02:46:46 UTC 2018: Setting lastTestMethodIndex: 58006
+Wed May 16 02:46:46 UTC 2018: Starting linking
+Wed May 16 02:46:46 UTC 2018: No link for: hudson.cli.CLIRegistererTest-testAuthWithSecurityRealmCLIAuthenticator
+Wed May 16 02:46:47 UTC 2018: Linking done for kohsuke__jenkins test class hudson.cli.CLIRegistererTest
+Wed May 16 02:46:47 UTC 2018: Found element on the queue
+Wed May 16 02:46:47 UTC 2018: Updating status
+Wed May 16 02:46:47 UTC 2018: Working
+Wed May 16 02:46:50 UTC 2018: Start kohsuke__jenkins test class jenkins.install.InstallStateTest
+Wed May 16 02:46:50 UTC 2018: Setting lastTestMethodIndex: 58007
+Wed May 16 02:46:50 UTC 2018: Starting linking
+Wed May 16 02:46:50 UTC 2018: No link for: jenkins.install.InstallStateTest-shouldPefromCorrectConversionForAllNames
+Wed May 16 02:46:50 UTC 2018: No link for: jenkins.install.InstallStateTest-shouldNotFailOnNullXMLField
+Wed May 16 02:46:51 UTC 2018: No link for: jenkins.install.InstallStateTest-shouldReturnUnknownStateForUnknownName
+Wed May 16 02:46:51 UTC 2018: No link for: jenkins.install.InstallStateTest-shouldNotFailOnEmptyName
+Wed May 16 02:46:51 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.install.InstallStateTest
+Wed May 16 02:46:52 UTC 2018: Found element on the queue
+Wed May 16 02:46:52 UTC 2018: Updating status
+Wed May 16 02:46:52 UTC 2018: Working
+Wed May 16 02:46:55 UTC 2018: Start kohsuke__jenkins test class jenkins.install.LoadDetachedPluginsTest
+Wed May 16 02:46:55 UTC 2018: Setting lastTestMethodIndex: 58009
+Wed May 16 02:46:55 UTC 2018: Starting linking
+Wed May 16 02:46:55 UTC 2018: No link for: jenkins.install.LoadDetachedPluginsTest-upgradeFromJenkins1
+Wed May 16 02:46:55 UTC 2018: No link for: jenkins.install.LoadDetachedPluginsTest-upgradeFromJenkins2WithNewerPlugin
+Wed May 16 02:46:55 UTC 2018: No link for: jenkins.install.LoadDetachedPluginsTest-upgradeFromJenkins2WithOlderDependency
+Wed May 16 02:46:56 UTC 2018: No link for: jenkins.install.LoadDetachedPluginsTest-newInstallation
+Wed May 16 02:46:56 UTC 2018: No link for: jenkins.install.LoadDetachedPluginsTest-upgradeFromJenkins2WithNewerDependency
+Wed May 16 02:46:57 UTC 2018: No link for: jenkins.install.LoadDetachedPluginsTest-upgradeFromJenkins2
+Wed May 16 02:46:57 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.install.LoadDetachedPluginsTest
+Wed May 16 02:46:58 UTC 2018: Found element on the queue
+Wed May 16 02:46:58 UTC 2018: Updating status
+Wed May 16 02:46:58 UTC 2018: Working
+Wed May 16 02:47:01 UTC 2018: Start kohsuke__jenkins test class jenkins.install.UpgradeWizardTest
+Wed May 16 02:47:01 UTC 2018: Setting lastTestMethodIndex: 58011
+Wed May 16 02:47:01 UTC 2018: Starting linking
+Wed May 16 02:47:01 UTC 2018: No link for: jenkins.install.UpgradeWizardTest-fullyUpgraded
+Wed May 16 02:47:01 UTC 2018: No link for: jenkins.install.UpgradeWizardTest-freshInstallation
+Wed May 16 02:47:01 UTC 2018: No link for: jenkins.install.UpgradeWizardTest-snooze
+Wed May 16 02:47:02 UTC 2018: No link for: jenkins.install.UpgradeWizardTest-upgrade
+Wed May 16 02:47:02 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.install.UpgradeWizardTest
+Wed May 16 02:47:03 UTC 2018: Found element on the queue
+Wed May 16 02:47:03 UTC 2018: Updating status
+Wed May 16 02:47:03 UTC 2018: Working
+Wed May 16 02:47:06 UTC 2018: Start kohsuke__jenkins test class jenkins.widgets.HistoryPageFilterCaseSensitiveSearchTest
+Wed May 16 02:47:06 UTC 2018: Setting lastTestMethodIndex: 58013
+Wed May 16 02:47:06 UTC 2018: Starting linking
+Wed May 16 02:47:06 UTC 2018: No link for: jenkins.widgets.HistoryPageFilterCaseSensitiveSearchTest-should_skip_result_with_different_capitalization_when_case_sensitively_search_is_enabled_for_user
+Wed May 16 02:47:06 UTC 2018: No link for: jenkins.widgets.HistoryPageFilterCaseSensitiveSearchTest-should_search_case_sensitively_when_enabled_for_user
+Wed May 16 02:47:07 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.widgets.HistoryPageFilterCaseSensitiveSearchTest
+Wed May 16 02:47:07 UTC 2018: Found element on the queue
+Wed May 16 02:47:07 UTC 2018: Updating status
+Wed May 16 02:47:07 UTC 2018: Working
+Wed May 16 02:47:10 UTC 2018: Start kohsuke__jenkins test class jenkins.scm.SCMCheckoutStrategyTest
+Wed May 16 02:47:10 UTC 2018: Setting lastTestMethodIndex: 58015
+Wed May 16 02:47:10 UTC 2018: Starting linking
+Wed May 16 02:47:10 UTC 2018: No link for: jenkins.scm.SCMCheckoutStrategyTest-configRoundtrip2
+Wed May 16 02:47:10 UTC 2018: No link for: jenkins.scm.SCMCheckoutStrategyTest-configRoundtrip1
+Wed May 16 02:47:11 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.scm.SCMCheckoutStrategyTest
+Wed May 16 02:47:11 UTC 2018: Found element on the queue
+Wed May 16 02:47:11 UTC 2018: Updating status
+Wed May 16 02:47:11 UTC 2018: Working
+Wed May 16 02:47:14 UTC 2018: Start kohsuke__jenkins test class jenkins.security.CustomClassFilterTest
+Wed May 16 02:47:14 UTC 2018: Setting lastTestMethodIndex: 58017
+Wed May 16 02:47:14 UTC 2018: Starting linking
+Wed May 16 02:47:14 UTC 2018: No link for: jenkins.security.CustomClassFilterTest-dynamicLoad
+Wed May 16 02:47:14 UTC 2018: No link for: jenkins.security.CustomClassFilterTest-smokes
+Wed May 16 02:47:15 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.security.CustomClassFilterTest
+Wed May 16 02:47:15 UTC 2018: Found element on the queue
+Wed May 16 02:47:15 UTC 2018: Updating status
+Wed May 16 02:47:15 UTC 2018: Working
+Wed May 16 02:47:18 UTC 2018: Start kohsuke__jenkins test class jenkins.security.s2m.AdminFilePathFilterTest
+Wed May 16 02:47:18 UTC 2018: Setting lastTestMethodIndex: 58019
+Wed May 16 02:47:18 UTC 2018: Starting linking
+Wed May 16 02:47:18 UTC 2018: No link for: jenkins.security.s2m.AdminFilePathFilterTest-matchBuildDir
+Wed May 16 02:47:18 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.security.s2m.AdminFilePathFilterTest
+Wed May 16 02:47:19 UTC 2018: Found element on the queue
+Wed May 16 02:47:19 UTC 2018: Updating status
+Wed May 16 02:47:19 UTC 2018: Working
+Wed May 16 02:47:22 UTC 2018: Start kohsuke__jenkins test class jenkins.security.csrf.CSRFAdministrativeMonitorTest
+Wed May 16 02:47:22 UTC 2018: Setting lastTestMethodIndex: 58022
+Wed May 16 02:47:22 UTC 2018: Starting linking
+Wed May 16 02:47:22 UTC 2018: No link for: jenkins.security.csrf.CSRFAdministrativeMonitorTest-testWithIssuer
+Wed May 16 02:47:22 UTC 2018: No link for: jenkins.security.csrf.CSRFAdministrativeMonitorTest-testWithoutIssuer
+Wed May 16 02:47:22 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.security.csrf.CSRFAdministrativeMonitorTest
+Wed May 16 02:47:23 UTC 2018: Found element on the queue
+Wed May 16 02:47:23 UTC 2018: Updating status
+Wed May 16 02:47:23 UTC 2018: Working
+Wed May 16 02:47:26 UTC 2018: Start kohsuke__jenkins test class jenkins.security.UserDetailsCacheTest
+Wed May 16 02:47:26 UTC 2018: Setting lastTestMethodIndex: 58023
+Wed May 16 02:47:26 UTC 2018: Starting linking
+Wed May 16 02:47:26 UTC 2018: No link for: jenkins.security.UserDetailsCacheTest-getCachedFalseNotFound
+Wed May 16 02:47:26 UTC 2018: No link for: jenkins.security.UserDetailsCacheTest-getCachedFalse
+Wed May 16 02:47:27 UTC 2018: No link for: jenkins.security.UserDetailsCacheTest-getCachedTrueNotFound
+Wed May 16 02:47:27 UTC 2018: No link for: jenkins.security.UserDetailsCacheTest-getCachedTrue
+Wed May 16 02:47:27 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.security.UserDetailsCacheTest
+Wed May 16 02:47:28 UTC 2018: Found element on the queue
+Wed May 16 02:47:28 UTC 2018: Updating status
+Wed May 16 02:47:28 UTC 2018: Working
+Wed May 16 02:47:31 UTC 2018: Start kohsuke__jenkins test class jenkins.security.ClassFilterImplTest
+Wed May 16 02:47:31 UTC 2018: Setting lastTestMethodIndex: 58025
+Wed May 16 02:47:31 UTC 2018: Starting linking
+Wed May 16 02:47:31 UTC 2018: No link for: jenkins.security.ClassFilterImplTest-masterToSlaveBypassesWhitelist
+Wed May 16 02:47:31 UTC 2018: No link for: jenkins.security.ClassFilterImplTest-moduleClassesShouldBeWhitelisted
+Wed May 16 02:47:31 UTC 2018: No link for: jenkins.security.ClassFilterImplTest-slaveToMasterRequiresWhitelist
+Wed May 16 02:47:32 UTC 2018: No link for: jenkins.security.ClassFilterImplTest-xstreamRequiresWhitelist
+Wed May 16 02:47:32 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.security.ClassFilterImplTest
+Wed May 16 02:47:33 UTC 2018: Found element on the queue
+Wed May 16 02:47:33 UTC 2018: Updating status
+Wed May 16 02:47:33 UTC 2018: Working
+Wed May 16 02:47:35 UTC 2018: Start kohsuke__jenkins test class jenkins.model.ContextMenuTest
+Wed May 16 02:47:35 UTC 2018: Setting lastTestMethodIndex: 58026
+Wed May 16 02:47:35 UTC 2018: Starting linking
+Wed May 16 02:47:35 UTC 2018: No link for: jenkins.model.ContextMenuTest-contextMenuVisibility
+Wed May 16 02:47:36 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.ContextMenuTest
+Wed May 16 02:47:36 UTC 2018: Found element on the queue
+Wed May 16 02:47:36 UTC 2018: Updating status
+Wed May 16 02:47:36 UTC 2018: Working
+Wed May 16 02:47:39 UTC 2018: Start kohsuke__jenkins test class jenkins.model.BuildDiscarderPropertyTest
+Wed May 16 02:47:39 UTC 2018: Setting lastTestMethodIndex: 58028
+Wed May 16 02:47:39 UTC 2018: Starting linking
+Wed May 16 02:47:39 UTC 2018: No link for: jenkins.model.BuildDiscarderPropertyTest-logRotatorField
+Wed May 16 02:47:40 UTC 2018: No link for: jenkins.model.BuildDiscarderPropertyTest-buildDiscarderField
+Wed May 16 02:47:40 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.BuildDiscarderPropertyTest
+Wed May 16 02:47:41 UTC 2018: Found element on the queue
+Wed May 16 02:47:41 UTC 2018: Updating status
+Wed May 16 02:47:41 UTC 2018: Working
+Wed May 16 02:47:43 UTC 2018: Start kohsuke__jenkins test class jenkins.model.StartupTest
+Wed May 16 02:47:43 UTC 2018: Setting lastTestMethodIndex: 58029
+Wed May 16 02:47:43 UTC 2018: Starting linking
+Wed May 16 02:47:44 UTC 2018: No link for: jenkins.model.StartupTest-noWarnings
+Wed May 16 02:47:44 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.StartupTest
+Wed May 16 02:47:44 UTC 2018: Found element on the queue
+Wed May 16 02:47:44 UTC 2018: Updating status
+Wed May 16 02:47:44 UTC 2018: Working
+Wed May 16 02:47:47 UTC 2018: Start kohsuke__jenkins test class jenkins.model.ExtensionTypeHierarchyTest
+Wed May 16 02:47:47 UTC 2018: Setting lastTestMethodIndex: 58030
+Wed May 16 02:47:47 UTC 2018: Starting linking
+Wed May 16 02:47:47 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.model.ExtensionTypeHierarchyTest
+Wed May 16 02:47:48 UTC 2018: Found element on the queue
+Wed May 16 02:47:48 UTC 2018: Updating status
+Wed May 16 02:47:48 UTC 2018: Working
+Wed May 16 02:47:51 UTC 2018: Start kohsuke__jenkins test class jenkins.AgentProtocolTest
+Wed May 16 02:47:51 UTC 2018: Setting lastTestMethodIndex: 58032
+Wed May 16 02:47:51 UTC 2018: Starting linking
+Wed May 16 02:47:51 UTC 2018: No link for: jenkins.AgentProtocolTest-testShouldDisableCLIProtocolsWhenCLIisDisabled
+Wed May 16 02:47:51 UTC 2018: No link for: jenkins.AgentProtocolTest-testShouldNotDisableProtocolsForMigratedInstances
+Wed May 16 02:47:51 UTC 2018: No link for: jenkins.AgentProtocolTest-testShouldNotOverrideUserConfiguration
+Wed May 16 02:47:52 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.AgentProtocolTest
+Wed May 16 02:47:52 UTC 2018: Found element on the queue
+Wed May 16 02:47:52 UTC 2018: Updating status
+Wed May 16 02:47:52 UTC 2018: Working
+Wed May 16 02:47:56 UTC 2018: Start kohsuke__jenkins test class jenkins.I18nTest
+Wed May 16 02:47:56 UTC 2018: Setting lastTestMethodIndex: 58033
+Wed May 16 02:47:56 UTC 2018: Starting linking
+Wed May 16 02:47:56 UTC 2018: No link for: jenkins.I18nTest-test_valid_region_variant
+Wed May 16 02:47:56 UTC 2018: No link for: jenkins.I18nTest-test_valid_fallback
+Wed May 16 02:47:57 UTC 2018: No link for: jenkins.I18nTest-test_baseName_plugin
+Wed May 16 02:47:57 UTC 2018: No link for: jenkins.I18nTest-test_valid_region
+Wed May 16 02:47:57 UTC 2018: No link for: jenkins.I18nTest-test_baseName_unknown
+Wed May 16 02:47:58 UTC 2018: No link for: jenkins.I18nTest-test_baseName_unspecified
+Wed May 16 02:47:58 UTC 2018: No link for: jenkins.I18nTest-test_valid
+Wed May 16 02:47:58 UTC 2018: Linking done for kohsuke__jenkins test class jenkins.I18nTest
+Wed May 16 02:47:59 UTC 2018: Found element on the queue
+Wed May 16 02:47:59 UTC 2018: Updating status
+Wed May 16 02:47:59 UTC 2018: Working
+Wed May 16 02:48:02 UTC 2018: Start kohsuke__jenkins test class hudson.FileSystemProvisionerTest
+Wed May 16 02:48:02 UTC 2018: Setting lastTestMethodIndex: 58036
+Wed May 16 02:48:02 UTC 2018: Starting linking
+Wed May 16 02:48:02 UTC 2018: No link for: hudson.FileSystemProvisionerTest-test
+Wed May 16 02:48:02 UTC 2018: Linking done for kohsuke__jenkins test class hudson.FileSystemProvisionerTest
+Wed May 16 02:48:03 UTC 2018: Found element on the queue
+Wed May 16 02:48:03 UTC 2018: Updating status
+Wed May 16 02:48:03 UTC 2018: Working
+Wed May 16 02:48:05 UTC 2018: Start kohsuke__jenkins test class hudson.views.GlobalDefaultViewConfigurationTest
+Wed May 16 02:48:05 UTC 2018: Setting lastTestMethodIndex: 58038
+Wed May 16 02:48:05 UTC 2018: Starting linking
+Wed May 16 02:48:05 UTC 2018: No link for: hudson.views.GlobalDefaultViewConfigurationTest-shouldNotFailIfTheDefaultViewIsMissing
+Wed May 16 02:48:06 UTC 2018: Linking done for kohsuke__jenkins test class hudson.views.GlobalDefaultViewConfigurationTest
+Wed May 16 02:48:06 UTC 2018: Found element on the queue
+Wed May 16 02:48:06 UTC 2018: Updating status
+Wed May 16 02:48:06 UTC 2018: Working
+Wed May 16 02:48:09 UTC 2018: Start kohsuke__jenkins test class hudson.scm.ChangeLogSetTest
+Wed May 16 02:48:09 UTC 2018: Setting lastTestMethodIndex: 58040
+Wed May 16 02:48:09 UTC 2018: Starting linking
+Wed May 16 02:48:09 UTC 2018: No link for: hudson.scm.ChangeLogSetTest-catchingExceptionDuringAnnotation
+Wed May 16 02:48:10 UTC 2018: Linking done for kohsuke__jenkins test class hudson.scm.ChangeLogSetTest
+Wed May 16 02:48:10 UTC 2018: Found element on the queue
+Wed May 16 02:48:10 UTC 2018: Updating status
+Wed May 16 02:48:10 UTC 2018: Working
+Wed May 16 02:48:13 UTC 2018: Start kohsuke__jenkins test class hudson.scm.ScmTest
+Wed May 16 02:48:13 UTC 2018: Setting lastTestMethodIndex: 58041
+Wed May 16 02:48:13 UTC 2018: Starting linking
+Wed May 16 02:48:13 UTC 2018: No link for: hudson.scm.ScmTest-abortDuringCheckoutMarksBuildAsAborted
+Wed May 16 02:48:13 UTC 2018: No link for: hudson.scm.ScmTest-projectDeletionAndCallback
+Wed May 16 02:48:14 UTC 2018: Linking done for kohsuke__jenkins test class hudson.scm.ScmTest
+Wed May 16 02:48:14 UTC 2018: Found element on the queue
+Wed May 16 02:48:14 UTC 2018: Updating status
+Wed May 16 02:48:14 UTC 2018: Working
+Wed May 16 02:48:17 UTC 2018: Start kohsuke__jenkins test class hudson.security.ACLTest
+Wed May 16 02:48:17 UTC 2018: Setting lastTestMethodIndex: 58044
+Wed May 16 02:48:17 UTC 2018: Starting linking
+Wed May 16 02:48:17 UTC 2018: No link for: hudson.security.ACLTest-bypassStrategyOnSystem
+Wed May 16 02:48:18 UTC 2018: Linking done for kohsuke__jenkins test class hudson.security.ACLTest
+Wed May 16 02:48:18 UTC 2018: Found element on the queue
+Wed May 16 02:48:18 UTC 2018: Updating status
+Wed May 16 02:48:18 UTC 2018: Working
+Wed May 16 02:48:21 UTC 2018: Start kohsuke__jenkins test class hudson.security.PermissionGroupTest
+Wed May 16 02:48:21 UTC 2018: Setting lastTestMethodIndex: 58046
+Wed May 16 02:48:21 UTC 2018: Starting linking
+Wed May 16 02:48:21 UTC 2018: No link for: hudson.security.PermissionGroupTest-duplicatedGroups
+Wed May 16 02:48:21 UTC 2018: No link for: hudson.security.PermissionGroupTest-order
+Wed May 16 02:48:22 UTC 2018: No link for: hudson.security.PermissionGroupTest-duplicatedPermissions
+Wed May 16 02:48:22 UTC 2018: Linking done for kohsuke__jenkins test class hudson.security.PermissionGroupTest
+Wed May 16 02:48:23 UTC 2018: Found element on the queue
+Wed May 16 02:48:23 UTC 2018: Updating status
+Wed May 16 02:48:23 UTC 2018: Working
+Wed May 16 02:48:25 UTC 2018: Start kohsuke__jenkins test class hudson.tasks.BuildTriggerTest
+Wed May 16 02:48:25 UTC 2018: Setting lastTestMethodIndex: 58047
+Wed May 16 02:48:25 UTC 2018: Starting linking
+Wed May 16 02:48:25 UTC 2018: No link for: hudson.tasks.BuildTriggerTest-mavenTriggerEvenWhenUnstable
+Wed May 16 02:48:26 UTC 2018: No link for: hudson.tasks.BuildTriggerTest-buildTrigger
+Wed May 16 02:48:26 UTC 2018: No link for: hudson.tasks.BuildTriggerTest-mavenBuildTrigger
+Wed May 16 02:48:27 UTC 2018: No link for: hudson.tasks.BuildTriggerTest-allDownstreamProjectsShouldObserveCompletedParent
+Wed May 16 02:48:27 UTC 2018: No link for: hudson.tasks.BuildTriggerTest-downstreamProjectSecurity
+Wed May 16 02:48:27 UTC 2018: No link for: hudson.tasks.BuildTriggerTest-triggerEvenWhenUnstable
+Wed May 16 02:48:28 UTC 2018: No link for: hudson.tasks.BuildTriggerTest-downstreamProjectShouldObserveCompletedParent
+Wed May 16 02:48:28 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tasks.BuildTriggerTest
+Wed May 16 02:48:29 UTC 2018: Found element on the queue
+Wed May 16 02:48:29 UTC 2018: Updating status
+Wed May 16 02:48:29 UTC 2018: Working
+Wed May 16 02:48:32 UTC 2018: Start kohsuke__jenkins test class hudson.tasks.LogRotatorTest
+Wed May 16 02:48:32 UTC 2018: Setting lastTestMethodIndex: 58050
+Wed May 16 02:48:32 UTC 2018: Starting linking
+Wed May 16 02:48:32 UTC 2018: No link for: hudson.tasks.LogRotatorTest-successVsFailure
+Wed May 16 02:48:32 UTC 2018: No link for: hudson.tasks.LogRotatorTest-stableVsUnstable
+Wed May 16 02:48:32 UTC 2018: No link for: hudson.tasks.LogRotatorTest-artifactsRetainedWhileBuilding
+Wed May 16 02:48:33 UTC 2018: No link for: hudson.tasks.LogRotatorTest-artifactDelete
+Wed May 16 02:48:33 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tasks.LogRotatorTest
+Wed May 16 02:48:34 UTC 2018: Found element on the queue
+Wed May 16 02:48:34 UTC 2018: Updating status
+Wed May 16 02:48:34 UTC 2018: Working
+Wed May 16 02:48:37 UTC 2018: Start kohsuke__jenkins test class hudson.tasks.UserAvatarResolverTest
+Wed May 16 02:48:37 UTC 2018: Setting lastTestMethodIndex: 58052
+Wed May 16 02:48:37 UTC 2018: Starting linking
+Wed May 16 02:48:37 UTC 2018: No link for: hudson.tasks.UserAvatarResolverTest-noResolverCanFindAvatar
+Wed May 16 02:48:37 UTC 2018: No link for: hudson.tasks.UserAvatarResolverTest-resolverIsUsed
+Wed May 16 02:48:37 UTC 2018: No link for: hudson.tasks.UserAvatarResolverTest-defaultImageIsReturnedIfRegexFails
+Wed May 16 02:48:38 UTC 2018: No link for: hudson.tasks.UserAvatarResolverTest-iconSizeRegex
+Wed May 16 02:48:38 UTC 2018: Linking done for kohsuke__jenkins test class hudson.tasks.UserAvatarResolverTest
+Wed May 16 02:48:39 UTC 2018: Found element on the queue
+Wed May 16 02:48:39 UTC 2018: Updating status
+Wed May 16 02:48:39 UTC 2018: Working
+Wed May 16 02:48:42 UTC 2018: Start kohsuke__jenkins test class hudson.triggers.TriggerTest
+Wed May 16 02:48:42 UTC 2018: Setting lastTestMethodIndex: 58054
+Wed May 16 02:48:42 UTC 2018: Starting linking
+Wed May 16 02:48:42 UTC 2018: No link for: hudson.triggers.TriggerTest-testNoNPE
+Wed May 16 02:48:42 UTC 2018: Linking done for kohsuke__jenkins test class hudson.triggers.TriggerTest
+Wed May 16 02:48:43 UTC 2018: Found element on the queue
+Wed May 16 02:48:43 UTC 2018: Updating status
+Wed May 16 02:48:43 UTC 2018: Working
+Wed May 16 02:48:46 UTC 2018: Start kohsuke__jenkins test class hudson.triggers.SafeTimerTaskTest
+Wed May 16 02:48:46 UTC 2018: Setting lastTestMethodIndex: 58056
+Wed May 16 02:48:46 UTC 2018: Starting linking
+Wed May 16 02:48:46 UTC 2018: No link for: hudson.triggers.SafeTimerTaskTest-changeLogsRoot
+Wed May 16 02:48:46 UTC 2018: Linking done for kohsuke__jenkins test class hudson.triggers.SafeTimerTaskTest
+Wed May 16 02:48:47 UTC 2018: Found element on the queue
+Wed May 16 02:48:47 UTC 2018: Updating status
+Wed May 16 02:48:47 UTC 2018: Working
+Wed May 16 02:48:49 UTC 2018: Start kohsuke__jenkins test class hudson.triggers.TriggerStartTest
+Wed May 16 02:48:49 UTC 2018: Setting lastTestMethodIndex: 58058
+Wed May 16 02:48:49 UTC 2018: Starting linking
+Wed May 16 02:48:49 UTC 2018: No link for: hudson.triggers.TriggerStartTest-updateByXmlCallsStartTrue
+Wed May 16 02:48:49 UTC 2018: No link for: hudson.triggers.TriggerStartTest-copyCallsStartTrue
+Wed May 16 02:48:50 UTC 2018: No link for: hudson.triggers.TriggerStartTest-submitCallsStartTrue
+Wed May 16 02:48:51 UTC 2018: No link for: hudson.triggers.TriggerStartTest-loadCallsStartFalse
+Wed May 16 02:48:51 UTC 2018: No link for: hudson.triggers.TriggerStartTest-createProjectFromXmlCallsStartTrue
+Wed May 16 02:48:51 UTC 2018: Linking done for kohsuke__jenkins test class hudson.triggers.TriggerStartTest
+Wed May 16 02:48:52 UTC 2018: Found element on the queue
+Wed May 16 02:48:52 UTC 2018: Updating status
+Wed May 16 02:48:52 UTC 2018: Working
+Wed May 16 02:48:55 UTC 2018: Start kohsuke__jenkins test class hudson.PluginManagerInstalledGUITest
+Wed May 16 02:48:55 UTC 2018: Setting lastTestMethodIndex: 58061
+Wed May 16 02:48:55 UTC 2018: Starting linking
+Wed May 16 02:48:55 UTC 2018: No link for: hudson.PluginManagerInstalledGUITest-test_enable_disable_uninstall
+Wed May 16 02:48:55 UTC 2018: Linking done for kohsuke__jenkins test class hudson.PluginManagerInstalledGUITest
+Wed May 16 02:48:55 UTC 2018: Found element on the queue
+Wed May 16 02:48:55 UTC 2018: Updating status
+Wed May 16 02:48:55 UTC 2018: Working
+Wed May 16 02:48:58 UTC 2018: Start kohsuke__jenkins test class hudson.model.FreeStyleProjectTest
+Wed May 16 02:48:58 UTC 2018: Setting lastTestMethodIndex: 58063
+Wed May 16 02:48:58 UTC 2018: Starting linking
+Wed May 16 02:48:58 UTC 2018: No link for: hudson.model.FreeStyleProjectTest-minimalConfigXml
+Wed May 16 02:48:58 UTC 2018: No link for: hudson.model.FreeStyleProjectTest-configSubmission
+Wed May 16 02:48:59 UTC 2018: No link for: hudson.model.FreeStyleProjectTest-customWorkspaceVariableExpansion
+Wed May 16 02:48:59 UTC 2018: No link for: hudson.model.FreeStyleProjectTest-buildStabilityReports
+Wed May 16 02:48:59 UTC 2018: No link for: hudson.model.FreeStyleProjectTest-customWorkspaceAllocation
+Wed May 16 02:49:00 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.FreeStyleProjectTest
+Wed May 16 02:49:00 UTC 2018: Found element on the queue
+Wed May 16 02:49:00 UTC 2018: Updating status
+Wed May 16 02:49:00 UTC 2018: Working
+Wed May 16 02:49:03 UTC 2018: Start kohsuke__jenkins test class hudson.model.AbstractBuildTest
+Wed May 16 02:49:03 UTC 2018: Setting lastTestMethodIndex: 58066
+Wed May 16 02:49:03 UTC 2018: Starting linking
+Wed May 16 02:49:03 UTC 2018: No link for: hudson.model.AbstractBuildTest-fixEmptyDisplayName
+Wed May 16 02:49:03 UTC 2018: No link for: hudson.model.AbstractBuildTest-fixBlankDisplayName
+Wed May 16 02:49:04 UTC 2018: No link for: hudson.model.AbstractBuildTest-culprits
+Wed May 16 02:49:04 UTC 2018: No link for: hudson.model.AbstractBuildTest-workspaceLock
+Wed May 16 02:49:04 UTC 2018: No link for: hudson.model.AbstractBuildTest-lastBuildNextBuild
+Wed May 16 02:49:05 UTC 2018: No link for: hudson.model.AbstractBuildTest-trimValidDisplayName
+Wed May 16 02:49:05 UTC 2018: No link for: hudson.model.AbstractBuildTest-doNotInterruptBuildAbruptlyWhenExceptionThrownFromBuildStep
+Wed May 16 02:49:06 UTC 2018: No link for: hudson.model.AbstractBuildTest-reportErrorShouldNotFailForNonPublisherClass
+Wed May 16 02:49:06 UTC 2018: No link for: hudson.model.AbstractBuildTest-variablesResolved
+Wed May 16 02:49:06 UTC 2018: No link for: hudson.model.AbstractBuildTest-rawConsoleOutput
+Wed May 16 02:49:06 UTC 2018: No link for: hudson.model.AbstractBuildTest-validDisplayName
+Wed May 16 02:49:07 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.AbstractBuildTest
+Wed May 16 02:49:07 UTC 2018: Found element on the queue
+Wed May 16 02:49:07 UTC 2018: Updating status
+Wed May 16 02:49:07 UTC 2018: Working
+Wed May 16 02:49:10 UTC 2018: Start kohsuke__jenkins test class hudson.model.QueueRestartTest
+Wed May 16 02:49:10 UTC 2018: Setting lastTestMethodIndex: 58070
+Wed May 16 02:49:10 UTC 2018: Starting linking
+Wed May 16 02:49:10 UTC 2018: No link for: hudson.model.QueueRestartTest-persistQueueOnRestart
+Wed May 16 02:49:10 UTC 2018: No link for: hudson.model.QueueRestartTest-persistQueueOnCrash
+Wed May 16 02:49:10 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.QueueRestartTest
+Wed May 16 02:49:11 UTC 2018: Found element on the queue
+Wed May 16 02:49:11 UTC 2018: Updating status
+Wed May 16 02:49:11 UTC 2018: Working
+Wed May 16 02:49:13 UTC 2018: Start kohsuke__jenkins test class hudson.model.SimpleJobTest
+Wed May 16 02:49:13 UTC 2018: Setting lastTestMethodIndex: 58073
+Wed May 16 02:49:13 UTC 2018: Starting linking
+Wed May 16 02:49:13 UTC 2018: No link for: hudson.model.SimpleJobTest-testGetEstimatedDurationWithOneRun
+Wed May 16 02:49:14 UTC 2018: No link for: hudson.model.SimpleJobTest-testGetEstimatedDuration
+Wed May 16 02:49:14 UTC 2018: No link for: hudson.model.SimpleJobTest-testGetEstimatedDurationWithNoRuns
+Wed May 16 02:49:14 UTC 2018: No link for: hudson.model.SimpleJobTest-testGetEstimatedDurationIfNoSuccessfulBuildTakeDurationOfFailedBuild
+Wed May 16 02:49:15 UTC 2018: No link for: hudson.model.SimpleJobTest-testGetEstimatedDurationIfPrevious3BuildsFailed
+Wed May 16 02:49:15 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.SimpleJobTest
+Wed May 16 02:49:16 UTC 2018: Found element on the queue
+Wed May 16 02:49:16 UTC 2018: Updating status
+Wed May 16 02:49:16 UTC 2018: Working
+Wed May 16 02:49:18 UTC 2018: Start kohsuke__jenkins test class hudson.model.JobQueueTest
+Wed May 16 02:49:18 UTC 2018: Setting lastTestMethodIndex: 58077
+Wed May 16 02:49:18 UTC 2018: Starting linking
+Wed May 16 02:49:18 UTC 2018: No link for: hudson.model.JobQueueTest-buildPendingWhenBuildRunning
+Wed May 16 02:49:18 UTC 2018: No link for: hudson.model.JobQueueTest-buildPendingWhenBuildInPostProduction
+Wed May 16 02:49:19 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.JobQueueTest
+Wed May 16 02:49:19 UTC 2018: Found element on the queue
+Wed May 16 02:49:19 UTC 2018: Updating status
+Wed May 16 02:49:19 UTC 2018: Working
+Wed May 16 02:49:22 UTC 2018: Start kohsuke__jenkins test class hudson.model.UpdateCenterPluginInstallTest
+Wed May 16 02:49:22 UTC 2018: Setting lastTestMethodIndex: 58080
+Wed May 16 02:49:22 UTC 2018: Starting linking
+Wed May 16 02:49:22 UTC 2018: No link for: hudson.model.UpdateCenterPluginInstallTest-test_installKnownPlugins
+Wed May 16 02:49:22 UTC 2018: No link for: hudson.model.UpdateCenterPluginInstallTest-test_installUnknownPlugin
+Wed May 16 02:49:22 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.UpdateCenterPluginInstallTest
+Wed May 16 02:49:23 UTC 2018: Found element on the queue
+Wed May 16 02:49:23 UTC 2018: Updating status
+Wed May 16 02:49:23 UTC 2018: Working
+Wed May 16 02:49:25 UTC 2018: Start kohsuke__jenkins test class hudson.model.BuildExecutionTest
+Wed May 16 02:49:25 UTC 2018: Setting lastTestMethodIndex: 58082
+Wed May 16 02:49:25 UTC 2018: Starting linking
+Wed May 16 02:49:25 UTC 2018: No link for: hudson.model.BuildExecutionTest-workspaceReliablyReleased
+Wed May 16 02:49:25 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.BuildExecutionTest
+Wed May 16 02:49:26 UTC 2018: Found element on the queue
+Wed May 16 02:49:26 UTC 2018: Updating status
+Wed May 16 02:49:26 UTC 2018: Working
+Wed May 16 02:49:28 UTC 2018: Start kohsuke__jenkins test class hudson.model.AutoCompletionCandidatesTest
+Wed May 16 02:49:29 UTC 2018: Setting lastTestMethodIndex: 58085
+Wed May 16 02:49:29 UTC 2018: Starting linking
+Wed May 16 02:49:29 UTC 2018: No link for: hudson.model.AutoCompletionCandidatesTest-completion
+Wed May 16 02:49:29 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.AutoCompletionCandidatesTest
+Wed May 16 02:49:29 UTC 2018: Found element on the queue
+Wed May 16 02:49:29 UTC 2018: Updating status
+Wed May 16 02:49:29 UTC 2018: Working
+Wed May 16 02:49:32 UTC 2018: Start kohsuke__jenkins test class hudson.model.DependencyGraphTest
+Wed May 16 02:49:32 UTC 2018: Setting lastTestMethodIndex: 58087
+Wed May 16 02:49:32 UTC 2018: Starting linking
+Wed May 16 02:49:32 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.DependencyGraphTest
+Wed May 16 02:49:32 UTC 2018: Found element on the queue
+Wed May 16 02:49:32 UTC 2018: Updating status
+Wed May 16 02:49:32 UTC 2018: Working
+Wed May 16 02:49:35 UTC 2018: Start kohsuke__jenkins test class hudson.model.LabelLoadStatisticsQueueLengthTest
+Wed May 16 02:49:35 UTC 2018: Setting lastTestMethodIndex: 58089
+Wed May 16 02:49:35 UTC 2018: Starting linking
+Wed May 16 02:49:35 UTC 2018: No link for: hudson.model.LabelLoadStatisticsQueueLengthTest-queueLengthReflectsBuildableItemsAssignedLabel
+Wed May 16 02:49:35 UTC 2018: No link for: hudson.model.LabelLoadStatisticsQueueLengthTest-queueLengthReflectsJobsAssignedLabel
+Wed May 16 02:49:35 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.LabelLoadStatisticsQueueLengthTest
+Wed May 16 02:49:36 UTC 2018: Found element on the queue
+Wed May 16 02:49:36 UTC 2018: Updating status
+Wed May 16 02:49:36 UTC 2018: Working
+Wed May 16 02:49:38 UTC 2018: Start kohsuke__jenkins test class hudson.model.EnvironmentContributorTest
+Wed May 16 02:49:38 UTC 2018: Setting lastTestMethodIndex: 58091
+Wed May 16 02:49:38 UTC 2018: Starting linking
+Wed May 16 02:49:38 UTC 2018: No link for: hudson.model.EnvironmentContributorTest-projectScoped
+Wed May 16 02:49:38 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.EnvironmentContributorTest
+Wed May 16 02:49:39 UTC 2018: Found element on the queue
+Wed May 16 02:49:39 UTC 2018: Updating status
+Wed May 16 02:49:39 UTC 2018: Working
+Wed May 16 02:49:41 UTC 2018: Start kohsuke__jenkins test class hudson.model.UserRestartTest
+Wed May 16 02:49:41 UTC 2018: Setting lastTestMethodIndex: 58093
+Wed May 16 02:49:41 UTC 2018: Starting linking
+Wed May 16 02:49:41 UTC 2018: No link for: hudson.model.UserRestartTest-persistedUsers
+Wed May 16 02:49:42 UTC 2018: No link for: hudson.model.UserRestartTest-badSerialization
+Wed May 16 02:49:42 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.UserRestartTest
+Wed May 16 02:49:42 UTC 2018: Found element on the queue
+Wed May 16 02:49:42 UTC 2018: Updating status
+Wed May 16 02:49:42 UTC 2018: Working
+Wed May 16 02:49:45 UTC 2018: Start kohsuke__jenkins test class hudson.model.ViewJobTest
+Wed May 16 02:49:45 UTC 2018: Setting lastTestMethodIndex: 58096
+Wed May 16 02:49:45 UTC 2018: Starting linking
+Wed May 16 02:49:45 UTC 2018: No code found hudson.model.ViewJobTest$J-removeRun with hudson.model.ViewJobTest-removeRun
+Wed May 16 02:49:45 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.ViewJobTest
+Wed May 16 02:49:46 UTC 2018: Found element on the queue
+Wed May 16 02:49:46 UTC 2018: Updating status
+Wed May 16 02:49:46 UTC 2018: Working
+Wed May 16 02:49:48 UTC 2018: Start kohsuke__jenkins test class hudson.model.AbstractItemSecurityTest
+Wed May 16 02:49:48 UTC 2018: Setting lastTestMethodIndex: 58099
+Wed May 16 02:49:48 UTC 2018: Starting linking
+Wed May 16 02:49:48 UTC 2018: No link for: hudson.model.AbstractItemSecurityTest-testUpdateByXmlDoesNotFail
+Wed May 16 02:49:49 UTC 2018: No link for: hudson.model.AbstractItemSecurityTest-testUpdateByXmlDoesNotProcessForeignResources
+Wed May 16 02:49:49 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.AbstractItemSecurityTest
+Wed May 16 02:49:49 UTC 2018: Found element on the queue
+Wed May 16 02:49:49 UTC 2018: Updating status
+Wed May 16 02:49:49 UTC 2018: Working
+Wed May 16 02:49:52 UTC 2018: Start kohsuke__jenkins test class hudson.model.UpdateSiteTest
+Wed May 16 02:49:52 UTC 2018: Setting lastTestMethodIndex: 58102
+Wed May 16 02:49:52 UTC 2018: Starting linking
+Wed May 16 02:49:52 UTC 2018: No link for: hudson.model.UpdateSiteTest-relativeURLs
+Wed May 16 02:49:52 UTC 2018: No link for: hudson.model.UpdateSiteTest-lackOfDataDoesNotFailWarningsCode
+Wed May 16 02:49:52 UTC 2018: No link for: hudson.model.UpdateSiteTest-incompleteWarningsJson
+Wed May 16 02:49:53 UTC 2018: No link for: hudson.model.UpdateSiteTest-updateDirectlyWithJson
+Wed May 16 02:49:53 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.UpdateSiteTest
+Wed May 16 02:49:53 UTC 2018: Found element on the queue
+Wed May 16 02:49:53 UTC 2018: Updating status
+Wed May 16 02:49:54 UTC 2018: Working
+Wed May 16 02:49:56 UTC 2018: Start kohsuke__jenkins test class hudson.model.RunMapTest
+Wed May 16 02:49:56 UTC 2018: Setting lastTestMethodIndex: 58105
+Wed May 16 02:49:56 UTC 2018: Starting linking
+Wed May 16 02:49:56 UTC 2018: No link for: hudson.model.RunMapTest-reloadWhileBuildIsInQueue
+Wed May 16 02:49:56 UTC 2018: No link for: hudson.model.RunMapTest-remove
+Wed May 16 02:49:56 UTC 2018: No link for: hudson.model.RunMapTest-reloadWhileBuildIsInProgress
+Wed May 16 02:49:57 UTC 2018: No link for: hudson.model.RunMapTest-runtimeExceptionInUnmarshalling
+Wed May 16 02:49:57 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.RunMapTest
+Wed May 16 02:49:58 UTC 2018: Found element on the queue
+Wed May 16 02:49:58 UTC 2018: Updating status
+Wed May 16 02:49:58 UTC 2018: Working
+Wed May 16 02:50:00 UTC 2018: Start kohsuke__jenkins test class hudson.model.UpdateCenterCustomTest
+Wed May 16 02:50:00 UTC 2018: Setting lastTestMethodIndex: 58109
+Wed May 16 02:50:00 UTC 2018: Starting linking
+Wed May 16 02:50:00 UTC 2018: No link for: hudson.model.UpdateCenterCustomTest-shouldStartupWithCustomUpdateCenter
+Wed May 16 02:50:00 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.UpdateCenterCustomTest
+Wed May 16 02:50:01 UTC 2018: Found element on the queue
+Wed May 16 02:50:01 UTC 2018: Updating status
+Wed May 16 02:50:01 UTC 2018: Working
+Wed May 16 02:50:04 UTC 2018: Start kohsuke__jenkins test class hudson.model.ItemGroupMixInTest
+Wed May 16 02:50:04 UTC 2018: Setting lastTestMethodIndex: 58111
+Wed May 16 02:50:04 UTC 2018: Starting linking
+Wed May 16 02:50:04 UTC 2018: No link for: hudson.model.ItemGroupMixInTest-xmlFileFailsToLoad
+Wed May 16 02:50:04 UTC 2018: No link for: hudson.model.ItemGroupMixInTest-xmlFileReadCannotResolveClassException
+Wed May 16 02:50:04 UTC 2018: No link for: hudson.model.ItemGroupMixInTest-createProjectFromXMLShouldNoCreateEntities
+Wed May 16 02:50:05 UTC 2018: No link for: hudson.model.ItemGroupMixInTest-xmlFileReadExceptionOnLoad
+Wed May 16 02:50:05 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.ItemGroupMixInTest
+Wed May 16 02:50:05 UTC 2018: Found element on the queue
+Wed May 16 02:50:05 UTC 2018: Updating status
+Wed May 16 02:50:05 UTC 2018: Working
+Wed May 16 02:50:08 UTC 2018: Start kohsuke__jenkins test class hudson.model.ViewDescriptorTest
+Wed May 16 02:50:08 UTC 2018: Setting lastTestMethodIndex: 58114
+Wed May 16 02:50:08 UTC 2018: Starting linking
+Wed May 16 02:50:08 UTC 2018: No link for: hudson.model.ViewDescriptorTest-canAdd
+Wed May 16 02:50:08 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.ViewDescriptorTest
+Wed May 16 02:50:09 UTC 2018: Found element on the queue
+Wed May 16 02:50:09 UTC 2018: Updating status
+Wed May 16 02:50:09 UTC 2018: Working
+Wed May 16 02:50:11 UTC 2018: Start kohsuke__jenkins test class hudson.model.FreestyleJobPublisherTest
+Wed May 16 02:50:11 UTC 2018: Setting lastTestMethodIndex: 58116
+Wed May 16 02:50:11 UTC 2018: Starting linking
+Wed May 16 02:50:11 UTC 2018: No link for: hudson.model.FreestyleJobPublisherTest-testFreestyleWithIOExceptionPublisher
+Wed May 16 02:50:11 UTC 2018: No link for: hudson.model.FreestyleJobPublisherTest-testFreestyleWithFalsePublisher
+Wed May 16 02:50:12 UTC 2018: No link for: hudson.model.FreestyleJobPublisherTest-testFreestyleWithExceptionPublisher
+Wed May 16 02:50:12 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.FreestyleJobPublisherTest
+Wed May 16 02:50:12 UTC 2018: Found element on the queue
+Wed May 16 02:50:12 UTC 2018: Updating status
+Wed May 16 02:50:12 UTC 2018: Working
+Wed May 16 02:50:15 UTC 2018: Start kohsuke__jenkins test class hudson.model.CauseTest
+Wed May 16 02:50:15 UTC 2018: Setting lastTestMethodIndex: 58118
+Wed May 16 02:50:15 UTC 2018: Starting linking
+Wed May 16 02:50:15 UTC 2018: No link for: hudson.model.CauseTest-userIdCausePrintTest
+Wed May 16 02:50:15 UTC 2018: No link for: hudson.model.CauseTest-deeplyNestedCauses
+Wed May 16 02:50:16 UTC 2018: No link for: hudson.model.CauseTest-broadlyNestedCauses
+Wed May 16 02:50:16 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.CauseTest
+Wed May 16 02:50:16 UTC 2018: Found element on the queue
+Wed May 16 02:50:16 UTC 2018: Updating status
+Wed May 16 02:50:16 UTC 2018: Working
+Wed May 16 02:50:19 UTC 2018: Start kohsuke__jenkins test class hudson.model.ParametersAction2Test
+Wed May 16 02:50:19 UTC 2018: Setting lastTestMethodIndex: 58120
+Wed May 16 02:50:19 UTC 2018: Starting linking
+Wed May 16 02:50:19 UTC 2018: No link for: hudson.model.ParametersAction2Test-whitelistedParameter
+Wed May 16 02:50:19 UTC 2018: No link for: hudson.model.ParametersAction2Test-noInnerClasses
+Wed May 16 02:50:19 UTC 2018: No link for: hudson.model.ParametersAction2Test-whitelistedParameterSameAfterChange
+Wed May 16 02:50:20 UTC 2018: No link for: hudson.model.ParametersAction2Test-undefinedParametersOverride
+Wed May 16 02:50:20 UTC 2018: No link for: hudson.model.ParametersAction2Test-undefinedParameters
+Wed May 16 02:50:20 UTC 2018: No link for: hudson.model.ParametersAction2Test-backwardCompatibility
+Wed May 16 02:50:21 UTC 2018: No link for: hudson.model.ParametersAction2Test-parametersDefinitionChange
+Wed May 16 02:50:21 UTC 2018: No link for: hudson.model.ParametersAction2Test-nonParameterizedJobButWhitelisted
+Wed May 16 02:50:21 UTC 2018: No link for: hudson.model.ParametersAction2Test-whitelistedParameterByOverride
+Wed May 16 02:50:21 UTC 2018: No link for: hudson.model.ParametersAction2Test-ensureNoListReuse
+Wed May 16 02:50:22 UTC 2018: No link for: hudson.model.ParametersAction2Test-nonParameterizedJob
+Wed May 16 02:50:22 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.ParametersAction2Test
+Wed May 16 02:50:23 UTC 2018: Found element on the queue
+Wed May 16 02:50:23 UTC 2018: Updating status
+Wed May 16 02:50:23 UTC 2018: Working
+Wed May 16 02:50:25 UTC 2018: Start kohsuke__jenkins test class hudson.model.RunActionTest
+Wed May 16 02:50:25 UTC 2018: Setting lastTestMethodIndex: 58123
+Wed May 16 02:50:25 UTC 2018: Starting linking
+Wed May 16 02:50:25 UTC 2018: No link for: hudson.model.RunActionTest-badSerialization
+Wed May 16 02:50:25 UTC 2018: Linking done for kohsuke__jenkins test class hudson.model.RunActionTest

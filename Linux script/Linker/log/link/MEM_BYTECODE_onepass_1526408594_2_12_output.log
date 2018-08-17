@@ -1,0 +1,41 @@
+Tue May 15 19:59:17 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 19:59:17 UTC 2018: Starting
+Tue May 15 19:59:18 UTC 2018: Found element on the queue
+Tue May 15 19:59:18 UTC 2018: Updating status
+Tue May 15 19:59:18 UTC 2018: Working
+Tue May 15 19:59:18 UTC 2018: Create project parser
+Tue May 15 19:59:22 UTC 2018: Create slicer
+Tue May 15 19:59:24 UTC 2018: Create call graph
+Tue May 15 19:59:24 UTC 2018: Create point analysis
+Tue May 15 19:59:24 UTC 2018: Create call graph done
+Tue May 15 19:59:24 UTC 2018: Start haodeyu__hdy test class org.apache.flink.metrics.MeterViewTest
+Tue May 15 19:59:24 UTC 2018: Setting lastTestMethodIndex: 46569
+Tue May 15 19:59:24 UTC 2018: Starting linking
+Tue May 15 19:59:24 UTC 2018: Code found org.apache.flink.metrics.MeterView-markEvent with org.apache.flink.metrics.MeterViewTest-testMarkEvent
+Tue May 15 19:59:24 UTC 2018: Code found org.apache.flink.metrics.MeterView-getCount with org.apache.flink.metrics.MeterViewTest-testGetCount
+Tue May 15 19:59:25 UTC 2018: Code found org.apache.flink.metrics.MeterView-getRate with org.apache.flink.metrics.MeterViewTest-testGetRate
+Tue May 15 19:59:25 UTC 2018: Linking done for haodeyu__hdy test class org.apache.flink.metrics.MeterViewTest
+Tue May 15 19:59:26 UTC 2018: Found element on the queue
+Tue May 15 19:59:26 UTC 2018: Updating status
+Tue May 15 19:59:26 UTC 2018: Working
+Tue May 15 19:59:26 UTC 2018: Create project parser
+Tue May 15 19:59:29 UTC 2018: Start haodeyu__hdy test class org.apache.flink.core.testutils.OneShotLatchTest
+Tue May 15 19:59:29 UTC 2018: Setting lastTestMethodIndex: 46573
+Tue May 15 19:59:29 UTC 2018: Starting linking
+Tue May 15 19:59:29 UTC 2018: Code found org.apache.flink.core.testutils.OneShotLatch-await with org.apache.flink.core.testutils.OneShotLatchTest-testAwaitWithTimeout
+Tue May 15 19:59:29 UTC 2018: Linking done for haodeyu__hdy test class org.apache.flink.core.testutils.OneShotLatchTest
+Tue May 15 19:59:30 UTC 2018: Found element on the queue
+Tue May 15 19:59:30 UTC 2018: Updating status
+Tue May 15 19:59:30 UTC 2018: Working
+Tue May 15 19:59:32 UTC 2018: Start haodeyu__hdy test class org.apache.flink.testutils.junit.RetryOnExceptionTest
+Tue May 15 19:59:32 UTC 2018: Setting lastTestMethodIndex: 46576
+Tue May 15 19:59:32 UTC 2018: Starting linking
+Tue May 15 19:59:32 UTC 2018: No link for: org.apache.flink.testutils.junit.RetryOnExceptionTest-testPassAfterOneFailure
+Tue May 15 19:59:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:33 UTC 2018: No link for: org.apache.flink.testutils.junit.RetryOnExceptionTest-testSubclassException
+Tue May 15 19:59:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:33 UTC 2018: No link for: org.apache.flink.testutils.junit.RetryOnExceptionTest-testSuccessfulTest
+Tue May 15 19:59:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:33 UTC 2018: No link for: org.apache.flink.testutils.junit.RetryOnExceptionTest-testMatchingException
+Tue May 15 19:59:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:59:33 UTC 2018: Linking done for haodeyu__hdy test class org.apache.flink.testutils.junit.RetryOnExceptionTest

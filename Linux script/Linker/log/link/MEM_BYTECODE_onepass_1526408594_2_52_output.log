@@ -1,0 +1,1618 @@
+Wed May 16 00:54:58 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 00:54:59 UTC 2018: Starting
+Wed May 16 00:54:59 UTC 2018: Found element on the queue
+Wed May 16 00:54:59 UTC 2018: Updating status
+Wed May 16 00:54:59 UTC 2018: Working
+Wed May 16 00:54:59 UTC 2018: Create project parser
+Wed May 16 00:55:06 UTC 2018: Create slicer
+Wed May 16 00:55:10 UTC 2018: Create call graph
+Wed May 16 00:55:18 UTC 2018: Create point analysis
+Wed May 16 00:55:18 UTC 2018: Create call graph done
+Wed May 16 00:55:18 UTC 2018: Start JoeChien23__tachyon test class tachyon.hadoop.UtilsTest
+Wed May 16 00:55:18 UTC 2018: Setting lastTestMethodIndex: 54032
+Wed May 16 00:55:18 UTC 2018: Starting linking
+Wed May 16 00:55:18 UTC 2018: No link for: tachyon.hadoop.UtilsTest-testGetPathWithoutSchema
+Wed May 16 00:55:19 UTC 2018: No link for: tachyon.hadoop.UtilsTest-testGetPathWithoutSchemaThatContainsSchema
+Wed May 16 00:55:19 UTC 2018: No link for: tachyon.hadoop.UtilsTest-testGetPathWithoutSchemaFromHDFSURI
+Wed May 16 00:55:19 UTC 2018: No link for: tachyon.hadoop.UtilsTest-testGetPathWithoutSchemaFromHDFS
+Wed May 16 00:55:20 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.hadoop.UtilsTest
+Wed May 16 00:55:20 UTC 2018: Found element on the queue
+Wed May 16 00:55:20 UTC 2018: Updating status
+Wed May 16 00:55:20 UTC 2018: Working
+Wed May 16 00:55:22 UTC 2018: Start JoeChien23__tachyon test class tachyon.hadoop.ConfUtilsTest
+Wed May 16 00:55:22 UTC 2018: Setting lastTestMethodIndex: 54034
+Wed May 16 00:55:22 UTC 2018: Starting linking
+Wed May 16 00:55:22 UTC 2018: Code found tachyon.hadoop.ConfUtils-loadFromHadoopConfiguration with tachyon.hadoop.ConfUtilsTest-loadFromHadoopConfigurationTest
+Wed May 16 00:55:23 UTC 2018: No link for: tachyon.hadoop.ConfUtilsTest-loadFromEmptyHadoopConfigurationTest
+Wed May 16 00:55:23 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.hadoop.ConfUtilsTest
+Wed May 16 00:55:24 UTC 2018: Found element on the queue
+Wed May 16 00:55:24 UTC 2018: Updating status
+Wed May 16 00:55:24 UTC 2018: Working
+Wed May 16 00:55:26 UTC 2018: Start JoeChien23__tachyon test class tachyon.hadoop.TFSTest
+Wed May 16 00:55:26 UTC 2018: Setting lastTestMethodIndex: 54036
+Wed May 16 00:55:26 UTC 2018: Starting linking
+Wed May 16 00:55:26 UTC 2018: No link for: tachyon.hadoop.TFSTest-hadoopShouldLoadTfsWhenConfigured
+Wed May 16 00:55:26 UTC 2018: No link for: tachyon.hadoop.TFSTest-hadoopShouldLoadTfsFtWhenConfigured
+Wed May 16 00:55:27 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.hadoop.TFSTest
+Wed May 16 00:55:27 UTC 2018: Found element on the queue
+Wed May 16 00:55:27 UTC 2018: Updating status
+Wed May 16 00:55:27 UTC 2018: Working
+Wed May 16 00:55:30 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.ListStatusOptionsTest
+Wed May 16 00:55:30 UTC 2018: Setting lastTestMethodIndex: 54038
+Wed May 16 00:55:30 UTC 2018: Starting linking
+Wed May 16 00:55:30 UTC 2018: Code found tachyon.client.file.options.ListStatusOptions$Builder-build with tachyon.client.file.options.ListStatusOptionsTest-builderTest
+Wed May 16 00:55:30 UTC 2018: No link for: tachyon.client.file.options.ListStatusOptionsTest-defaultsTest
+Wed May 16 00:55:30 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.ListStatusOptionsTest
+Wed May 16 00:55:31 UTC 2018: Found element on the queue
+Wed May 16 00:55:31 UTC 2018: Updating status
+Wed May 16 00:55:31 UTC 2018: Working
+Wed May 16 00:55:33 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.SetStateOptionsTest
+Wed May 16 00:55:33 UTC 2018: Setting lastTestMethodIndex: 54040
+Wed May 16 00:55:33 UTC 2018: Starting linking
+Wed May 16 00:55:33 UTC 2018: Code found tachyon.client.file.options.SetStateOptions$Builder-build with tachyon.client.file.options.SetStateOptionsTest-builderTest
+Wed May 16 00:55:34 UTC 2018: No link for: tachyon.client.file.options.SetStateOptionsTest-defaultsTest
+Wed May 16 00:55:34 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.SetStateOptionsTest
+Wed May 16 00:55:34 UTC 2018: Found element on the queue
+Wed May 16 00:55:34 UTC 2018: Updating status
+Wed May 16 00:55:34 UTC 2018: Working
+Wed May 16 00:55:37 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.GetInfoOptionsTest
+Wed May 16 00:55:37 UTC 2018: Setting lastTestMethodIndex: 54042
+Wed May 16 00:55:37 UTC 2018: Starting linking
+Wed May 16 00:55:37 UTC 2018: Code found tachyon.client.file.options.GetInfoOptions$Builder-build with tachyon.client.file.options.GetInfoOptionsTest-builderTest
+Wed May 16 00:55:37 UTC 2018: No link for: tachyon.client.file.options.GetInfoOptionsTest-defaultsTest
+Wed May 16 00:55:38 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.GetInfoOptionsTest
+Wed May 16 00:55:38 UTC 2018: Found element on the queue
+Wed May 16 00:55:38 UTC 2018: Updating status
+Wed May 16 00:55:38 UTC 2018: Working
+Wed May 16 00:55:41 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.RenameOptionsTest
+Wed May 16 00:55:41 UTC 2018: Setting lastTestMethodIndex: 54044
+Wed May 16 00:55:41 UTC 2018: Starting linking
+Wed May 16 00:55:41 UTC 2018: Code found tachyon.client.file.options.RenameOptions$Builder-build with tachyon.client.file.options.RenameOptionsTest-builderTest
+Wed May 16 00:55:41 UTC 2018: No link for: tachyon.client.file.options.RenameOptionsTest-defaultsTest
+Wed May 16 00:55:41 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.RenameOptionsTest
+Wed May 16 00:55:42 UTC 2018: Found element on the queue
+Wed May 16 00:55:42 UTC 2018: Updating status
+Wed May 16 00:55:42 UTC 2018: Working
+Wed May 16 00:55:44 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.UnmountOptionsTest
+Wed May 16 00:55:44 UTC 2018: Setting lastTestMethodIndex: 54046
+Wed May 16 00:55:44 UTC 2018: Starting linking
+Wed May 16 00:55:44 UTC 2018: Code found tachyon.client.file.options.UnmountOptions$Builder-build with tachyon.client.file.options.UnmountOptionsTest-builderTest
+Wed May 16 00:55:45 UTC 2018: No link for: tachyon.client.file.options.UnmountOptionsTest-defaultsTest
+Wed May 16 00:55:45 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.UnmountOptionsTest
+Wed May 16 00:55:45 UTC 2018: Found element on the queue
+Wed May 16 00:55:45 UTC 2018: Updating status
+Wed May 16 00:55:45 UTC 2018: Working
+Wed May 16 00:55:48 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.InStreamOptionsTest
+Wed May 16 00:55:48 UTC 2018: Setting lastTestMethodIndex: 54049
+Wed May 16 00:55:48 UTC 2018: Starting linking
+Wed May 16 00:55:48 UTC 2018: Code found tachyon.client.file.options.InStreamOptions$Builder-build with tachyon.client.file.options.InStreamOptionsTest-builderTest
+Wed May 16 00:55:48 UTC 2018: No link for: tachyon.client.file.options.InStreamOptionsTest-defaultsTest
+Wed May 16 00:55:48 UTC 2018: No link for: tachyon.client.file.options.InStreamOptionsTest-modifiedConfTest
+Wed May 16 00:55:49 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.InStreamOptionsTest
+Wed May 16 00:55:49 UTC 2018: Found element on the queue
+Wed May 16 00:55:49 UTC 2018: Updating status
+Wed May 16 00:55:49 UTC 2018: Working
+Wed May 16 00:55:52 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.MountOptionsTest
+Wed May 16 00:55:52 UTC 2018: Setting lastTestMethodIndex: 54052
+Wed May 16 00:55:52 UTC 2018: Starting linking
+Wed May 16 00:55:52 UTC 2018: Code found tachyon.client.file.options.MountOptions$Builder-build with tachyon.client.file.options.MountOptionsTest-builderTest
+Wed May 16 00:55:52 UTC 2018: No link for: tachyon.client.file.options.MountOptionsTest-defaultsTest
+Wed May 16 00:55:52 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.MountOptionsTest
+Wed May 16 00:55:53 UTC 2018: Found element on the queue
+Wed May 16 00:55:53 UTC 2018: Updating status
+Wed May 16 00:55:53 UTC 2018: Working
+Wed May 16 00:55:56 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.OpenOptionsTest
+Wed May 16 00:55:56 UTC 2018: Setting lastTestMethodIndex: 54054
+Wed May 16 00:55:56 UTC 2018: Starting linking
+Wed May 16 00:55:56 UTC 2018: Code found tachyon.client.file.options.OpenOptions$Builder-build with tachyon.client.file.options.OpenOptionsTest-builderTest
+Wed May 16 00:55:56 UTC 2018: No link for: tachyon.client.file.options.OpenOptionsTest-defaultsTest
+Wed May 16 00:55:56 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.OpenOptionsTest
+Wed May 16 00:55:57 UTC 2018: Found element on the queue
+Wed May 16 00:55:57 UTC 2018: Updating status
+Wed May 16 00:55:57 UTC 2018: Working
+Wed May 16 00:55:59 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.LoadMetadataOptionsTest
+Wed May 16 00:55:59 UTC 2018: Setting lastTestMethodIndex: 54058
+Wed May 16 00:55:59 UTC 2018: Starting linking
+Wed May 16 00:55:59 UTC 2018: Code found tachyon.client.file.options.LoadMetadataOptions$Builder-build with tachyon.client.file.options.LoadMetadataOptionsTest-builderTest
+Wed May 16 00:55:59 UTC 2018: No link for: tachyon.client.file.options.LoadMetadataOptionsTest-defaultsTest
+Wed May 16 00:56:00 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.LoadMetadataOptionsTest
+Wed May 16 00:56:00 UTC 2018: Found element on the queue
+Wed May 16 00:56:00 UTC 2018: Updating status
+Wed May 16 00:56:00 UTC 2018: Working
+Wed May 16 00:56:02 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.DeleteOptionsTest
+Wed May 16 00:56:02 UTC 2018: Setting lastTestMethodIndex: 54061
+Wed May 16 00:56:02 UTC 2018: Starting linking
+Wed May 16 00:56:02 UTC 2018: Code found tachyon.client.file.options.DeleteOptions$Builder-build with tachyon.client.file.options.DeleteOptionsTest-builderTest
+Wed May 16 00:56:03 UTC 2018: No link for: tachyon.client.file.options.DeleteOptionsTest-defaultsTest
+Wed May 16 00:56:03 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.DeleteOptionsTest
+Wed May 16 00:56:03 UTC 2018: Found element on the queue
+Wed May 16 00:56:03 UTC 2018: Updating status
+Wed May 16 00:56:03 UTC 2018: Working
+Wed May 16 00:56:06 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.OutStreamOptionsTest
+Wed May 16 00:56:06 UTC 2018: Setting lastTestMethodIndex: 54063
+Wed May 16 00:56:06 UTC 2018: Starting linking
+Wed May 16 00:56:06 UTC 2018: Code found tachyon.client.file.options.OutStreamOptions$Builder-build with tachyon.client.file.options.OutStreamOptionsTest-builderTest
+Wed May 16 00:56:06 UTC 2018: No link for: tachyon.client.file.options.OutStreamOptionsTest-defaultsTest
+Wed May 16 00:56:06 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.OutStreamOptionsTest
+Wed May 16 00:56:07 UTC 2018: Found element on the queue
+Wed May 16 00:56:07 UTC 2018: Updating status
+Wed May 16 00:56:07 UTC 2018: Working
+Wed May 16 00:56:09 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.CreateOptionsTest
+Wed May 16 00:56:09 UTC 2018: Setting lastTestMethodIndex: 54066
+Wed May 16 00:56:09 UTC 2018: Starting linking
+Wed May 16 00:56:09 UTC 2018: Code found tachyon.client.file.options.CreateOptions$Builder-build with tachyon.client.file.options.CreateOptionsTest-builderTest
+Wed May 16 00:56:09 UTC 2018: No link for: tachyon.client.file.options.CreateOptionsTest-defaultsTest
+Wed May 16 00:56:10 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.CreateOptionsTest
+Wed May 16 00:56:10 UTC 2018: Found element on the queue
+Wed May 16 00:56:10 UTC 2018: Updating status
+Wed May 16 00:56:10 UTC 2018: Working
+Wed May 16 00:56:12 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.MkdirOptionsTest
+Wed May 16 00:56:12 UTC 2018: Setting lastTestMethodIndex: 54068
+Wed May 16 00:56:12 UTC 2018: Starting linking
+Wed May 16 00:56:12 UTC 2018: Code found tachyon.client.file.options.MkdirOptions$Builder-build with tachyon.client.file.options.MkdirOptionsTest-builderTest
+Wed May 16 00:56:13 UTC 2018: No link for: tachyon.client.file.options.MkdirOptionsTest-defaultsTest
+Wed May 16 00:56:13 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.MkdirOptionsTest
+Wed May 16 00:56:13 UTC 2018: Found element on the queue
+Wed May 16 00:56:13 UTC 2018: Updating status
+Wed May 16 00:56:13 UTC 2018: Working
+Wed May 16 00:56:16 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.options.FreeOptionsTest
+Wed May 16 00:56:16 UTC 2018: Setting lastTestMethodIndex: 54070
+Wed May 16 00:56:16 UTC 2018: Starting linking
+Wed May 16 00:56:16 UTC 2018: Code found tachyon.client.file.options.FreeOptions$Builder-build with tachyon.client.file.options.FreeOptionsTest-builderTest
+Wed May 16 00:56:16 UTC 2018: No link for: tachyon.client.file.options.FreeOptionsTest-defaultsTest
+Wed May 16 00:56:16 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.options.FreeOptionsTest
+Wed May 16 00:56:17 UTC 2018: Found element on the queue
+Wed May 16 00:56:17 UTC 2018: Updating status
+Wed May 16 00:56:17 UTC 2018: Working
+Wed May 16 00:56:20 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.file.FileSystemContextTest
+Wed May 16 00:56:20 UTC 2018: Setting lastTestMethodIndex: 54071
+Wed May 16 00:56:20 UTC 2018: Starting linking
+Wed May 16 00:56:20 UTC 2018: No link for: tachyon.client.file.FileSystemContextTest-concurrencyTest
+Wed May 16 00:56:20 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.file.FileSystemContextTest
+Wed May 16 00:56:21 UTC 2018: Found element on the queue
+Wed May 16 00:56:21 UTC 2018: Updating status
+Wed May 16 00:56:21 UTC 2018: Working
+Wed May 16 00:56:23 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.block.BlockStoreContextTest
+Wed May 16 00:56:23 UTC 2018: Setting lastTestMethodIndex: 54073
+Wed May 16 00:56:23 UTC 2018: Starting linking
+Wed May 16 00:56:23 UTC 2018: No link for: tachyon.client.block.BlockStoreContextTest-concurrencyTest
+Wed May 16 00:56:24 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.block.BlockStoreContextTest
+Wed May 16 00:56:24 UTC 2018: Found element on the queue
+Wed May 16 00:56:24 UTC 2018: Updating status
+Wed May 16 00:56:24 UTC 2018: Working
+Wed May 16 00:56:27 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.block.BufferedBlockInStreamTest
+Wed May 16 00:56:27 UTC 2018: Setting lastTestMethodIndex: 54075
+Wed May 16 00:56:27 UTC 2018: Starting linking
+Wed May 16 00:56:27 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.block.BufferedBlockInStreamTest
+Wed May 16 00:56:27 UTC 2018: Found element on the queue
+Wed May 16 00:56:27 UTC 2018: Updating status
+Wed May 16 00:56:27 UTC 2018: Working
+Wed May 16 00:56:27 UTC 2018: Create project parser
+Wed May 16 00:56:40 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.UserTest
+Wed May 16 00:56:40 UTC 2018: Setting lastTestMethodIndex: 54079
+Wed May 16 00:56:40 UTC 2018: Starting linking
+Wed May 16 00:56:40 UTC 2018: No link for: tachyon.security.UserTest-usedInSecurityContextTest
+Wed May 16 00:56:41 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.UserTest
+Wed May 16 00:56:41 UTC 2018: Found element on the queue
+Wed May 16 00:56:41 UTC 2018: Updating status
+Wed May 16 00:56:41 UTC 2018: Working
+Wed May 16 00:56:44 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.authentication.CustomAuthenticationProviderImplTest
+Wed May 16 00:56:44 UTC 2018: Setting lastTestMethodIndex: 54080
+Wed May 16 00:56:44 UTC 2018: Starting linking
+Wed May 16 00:56:44 UTC 2018: No link for: tachyon.security.authentication.CustomAuthenticationProviderImplTest-classNotProviderTest
+Wed May 16 00:56:44 UTC 2018: No link for: tachyon.security.authentication.CustomAuthenticationProviderImplTest-mockCustomProviderTest
+Wed May 16 00:56:44 UTC 2018: No link for: tachyon.security.authentication.CustomAuthenticationProviderImplTest-classNotFoundTest
+Wed May 16 00:56:45 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.authentication.CustomAuthenticationProviderImplTest
+Wed May 16 00:56:45 UTC 2018: Found element on the queue
+Wed May 16 00:56:45 UTC 2018: Updating status
+Wed May 16 00:56:45 UTC 2018: Working
+Wed May 16 00:56:47 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.authentication.PlainClientCallbackHandlerTest
+Wed May 16 00:56:47 UTC 2018: Setting lastTestMethodIndex: 54082
+Wed May 16 00:56:47 UTC 2018: Starting linking
+Wed May 16 00:56:48 UTC 2018: Code found tachyon.security.authentication.PlainSaslUtils$PlainClientCallbackHandler-handle with tachyon.security.authentication.PlainClientCallbackHandlerTest-clientCallbackHandlerTest
+Wed May 16 00:56:48 UTC 2018: No link for: tachyon.security.authentication.PlainClientCallbackHandlerTest-nullCallbackTest
+Wed May 16 00:56:48 UTC 2018: No link for: tachyon.security.authentication.PlainClientCallbackHandlerTest-nullNameCallbackTest
+Wed May 16 00:56:48 UTC 2018: No link for: tachyon.security.authentication.PlainClientCallbackHandlerTest-unsupportCallbackTest
+Wed May 16 00:56:49 UTC 2018: No link for: tachyon.security.authentication.PlainClientCallbackHandlerTest-nullPasswordCallbackTest
+Wed May 16 00:56:49 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.authentication.PlainClientCallbackHandlerTest
+Wed May 16 00:56:49 UTC 2018: Found element on the queue
+Wed May 16 00:56:49 UTC 2018: Updating status
+Wed May 16 00:56:49 UTC 2018: Working
+Wed May 16 00:56:52 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.authentication.SimpleAuthenticationProviderImplTest
+Wed May 16 00:56:52 UTC 2018: Setting lastTestMethodIndex: 54083
+Wed May 16 00:56:52 UTC 2018: Starting linking
+Wed May 16 00:56:52 UTC 2018: No link for: tachyon.security.authentication.SimpleAuthenticationProviderImplTest-anyUserAllowConnectTest
+Wed May 16 00:56:52 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.authentication.SimpleAuthenticationProviderImplTest
+Wed May 16 00:56:53 UTC 2018: Found element on the queue
+Wed May 16 00:56:53 UTC 2018: Updating status
+Wed May 16 00:56:53 UTC 2018: Working
+Wed May 16 00:56:55 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.authentication.PlainSaslServerTest
+Wed May 16 00:56:55 UTC 2018: Setting lastTestMethodIndex: 54084
+Wed May 16 00:56:55 UTC 2018: Starting linking
+Wed May 16 00:56:55 UTC 2018: No link for: tachyon.security.authentication.PlainSaslServerTest-userPasswordReceiveTest
+Wed May 16 00:56:56 UTC 2018: No link for: tachyon.security.authentication.PlainSaslServerTest-userIsNotSetTest
+Wed May 16 00:56:56 UTC 2018: No link for: tachyon.security.authentication.PlainSaslServerTest-authenticationNotCompleteTest
+Wed May 16 00:56:56 UTC 2018: No link for: tachyon.security.authentication.PlainSaslServerTest-passwordIsNotSetTest
+Wed May 16 00:56:57 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.authentication.PlainSaslServerTest
+Wed May 16 00:56:57 UTC 2018: Found element on the queue
+Wed May 16 00:56:57 UTC 2018: Updating status
+Wed May 16 00:56:57 UTC 2018: Working
+Wed May 16 00:57:00 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.authentication.PlainServerCallbackHandlerTest
+Wed May 16 00:57:00 UTC 2018: Setting lastTestMethodIndex: 54085
+Wed May 16 00:57:00 UTC 2018: Starting linking
+Wed May 16 00:57:00 UTC 2018: No link for: tachyon.security.authentication.PlainServerCallbackHandlerTest-authenticateNameMatchTest
+Wed May 16 00:57:00 UTC 2018: No link for: tachyon.security.authentication.PlainServerCallbackHandlerTest-authenticateNameNotMatchTest
+Wed May 16 00:57:01 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.authentication.PlainServerCallbackHandlerTest
+Wed May 16 00:57:01 UTC 2018: Found element on the queue
+Wed May 16 00:57:01 UTC 2018: Updating status
+Wed May 16 00:57:01 UTC 2018: Working
+Wed May 16 00:57:04 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.authentication.PlainSaslServerProviderTest
+Wed May 16 00:57:04 UTC 2018: Setting lastTestMethodIndex: 54086
+Wed May 16 00:57:04 UTC 2018: Starting linking
+Wed May 16 00:57:04 UTC 2018: No link for: tachyon.security.authentication.PlainSaslServerProviderTest-plainSaslProviderHasRegisteredTest
+Wed May 16 00:57:04 UTC 2018: No link for: tachyon.security.authentication.PlainSaslServerProviderTest-createPlainSaslServerTest
+Wed May 16 00:57:05 UTC 2018: No link for: tachyon.security.authentication.PlainSaslServerProviderTest-createNoSupportSaslServerTest
+Wed May 16 00:57:05 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.authentication.PlainSaslServerProviderTest
+Wed May 16 00:57:06 UTC 2018: Found element on the queue
+Wed May 16 00:57:06 UTC 2018: Updating status
+Wed May 16 00:57:06 UTC 2018: Working
+Wed May 16 00:57:08 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.authentication.AuthenticationUtilsTest
+Wed May 16 00:57:08 UTC 2018: Setting lastTestMethodIndex: 54088
+Wed May 16 00:57:08 UTC 2018: Starting linking
+Wed May 16 00:57:08 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-simpleAuthenticationNullPasswordTest
+Wed May 16 00:57:09 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-nosaslAuthenticationTest
+Wed May 16 00:57:09 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-customAuthenticationEmptyPasswordTest
+Wed May 16 00:57:09 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-customAuthenticationExactNamePasswordMatchTest
+Wed May 16 00:57:10 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-customAuthenticationNullUserTest
+Wed May 16 00:57:10 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-customAuthenticationExactNamePasswordNotMatchTest
+Wed May 16 00:57:10 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-simpleAuthenticationEmptyPasswordTest
+Wed May 16 00:57:11 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-customAuthenticationNullPasswordTest
+Wed May 16 00:57:11 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-kerberosAuthenticationTest
+Wed May 16 00:57:11 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-simpleAuthenticationEmptyUserTest
+Wed May 16 00:57:12 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-simpleAuthenticationNullUserTest
+Wed May 16 00:57:12 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-simpleAuthenticationTest
+Wed May 16 00:57:12 UTC 2018: No link for: tachyon.security.authentication.AuthenticationUtilsTest-customAuthenticationEmptyUserTest
+Wed May 16 00:57:12 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.authentication.AuthenticationUtilsTest
+Wed May 16 00:57:13 UTC 2018: Found element on the queue
+Wed May 16 00:57:13 UTC 2018: Updating status
+Wed May 16 00:57:13 UTC 2018: Working
+Wed May 16 00:57:15 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.LoginUserTest
+Wed May 16 00:57:15 UTC 2018: Setting lastTestMethodIndex: 54090
+Wed May 16 00:57:15 UTC 2018: Starting linking
+Wed May 16 00:57:15 UTC 2018: Code found tachyon.security.LoginUser-get with tachyon.security.LoginUserTest-getCustomLoginUserWhenNotProvidedByAppTest
+Wed May 16 00:57:16 UTC 2018: Code found tachyon.security.LoginUser-get with tachyon.security.LoginUserTest-getSimpleLoginUserProvidedByAppTest
+Wed May 16 00:57:16 UTC 2018: Code found tachyon.security.LoginUser-get with tachyon.security.LoginUserTest-getCustomLoginUserTest
+Wed May 16 00:57:16 UTC 2018: Code found tachyon.security.LoginUser-get with tachyon.security.LoginUserTest-getCustomLoginUserProvidedByAppTest
+Wed May 16 00:57:16 UTC 2018: Code found tachyon.security.LoginUser-get with tachyon.security.LoginUserTest-getSimpleLoginUserWhenNotProvidedByAppTest
+Wed May 16 00:57:17 UTC 2018: Code found tachyon.security.LoginUser-get with tachyon.security.LoginUserTest-getSimpleLoginUserTest
+Wed May 16 00:57:17 UTC 2018: No link for: tachyon.security.LoginUserTest-securityEnabledTest
+Wed May 16 00:57:17 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.LoginUserTest
+Wed May 16 00:57:18 UTC 2018: Found element on the queue
+Wed May 16 00:57:18 UTC 2018: Updating status
+Wed May 16 00:57:18 UTC 2018: Working
+Wed May 16 00:57:20 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.login.LoginModuleTest
+Wed May 16 00:57:20 UTC 2018: Setting lastTestMethodIndex: 54093
+Wed May 16 00:57:20 UTC 2018: Starting linking
+Wed May 16 00:57:20 UTC 2018: No link for: tachyon.security.login.LoginModuleTest-simpleLoginTest
+Wed May 16 00:57:20 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.login.LoginModuleTest
+Wed May 16 00:57:21 UTC 2018: Found element on the queue
+Wed May 16 00:57:21 UTC 2018: Updating status
+Wed May 16 00:57:21 UTC 2018: Working
+Wed May 16 00:57:23 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.UnderFileSystemTest
+Wed May 16 00:57:23 UTC 2018: Setting lastTestMethodIndex: 54095
+Wed May 16 00:57:23 UTC 2018: Starting linking
+Wed May 16 00:57:23 UTC 2018: Code found tachyon.underfs.UnderFileSystem-parse with tachyon.underfs.UnderFileSystemTest-parseTest
+Wed May 16 00:57:24 UTC 2018: No link for: tachyon.underfs.UnderFileSystemTest-externalFactoryTest
+Wed May 16 00:57:24 UTC 2018: No link for: tachyon.underfs.UnderFileSystemTest-coreFactoryTest
+Wed May 16 00:57:24 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.UnderFileSystemTest
+Wed May 16 00:57:25 UTC 2018: Found element on the queue
+Wed May 16 00:57:25 UTC 2018: Updating status
+Wed May 16 00:57:25 UTC 2018: Working
+Wed May 16 00:57:27 UTC 2018: Start JoeChien23__tachyon test class tachyon.retry.ExponentialBackoffRetryTest
+Wed May 16 00:57:27 UTC 2018: Setting lastTestMethodIndex: 54097
+Wed May 16 00:57:27 UTC 2018: Starting linking
+Wed May 16 00:57:27 UTC 2018: No link for: tachyon.retry.ExponentialBackoffRetryTest-largeRetriesProducePositiveTime
+Wed May 16 00:57:27 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.retry.ExponentialBackoffRetryTest
+Wed May 16 00:57:28 UTC 2018: Found element on the queue
+Wed May 16 00:57:28 UTC 2018: Updating status
+Wed May 16 00:57:28 UTC 2018: Working
+Wed May 16 00:57:30 UTC 2018: Start JoeChien23__tachyon test class tachyon.conf.TachyonConfTest
+Wed May 16 00:57:30 UTC 2018: Setting lastTestMethodIndex: 54098
+Wed May 16 00:57:30 UTC 2018: Starting linking
+Wed May 16 00:57:30 UTC 2018: No link for: tachyon.conf.TachyonConfTest-masterDefaultTest
+Wed May 16 00:57:30 UTC 2018: No link for: tachyon.conf.TachyonConfTest-userDefaultTest
+Wed May 16 00:57:30 UTC 2018: No link for: tachyon.conf.TachyonConfTest-variableSubstitutionSimpleTest
+Wed May 16 00:57:31 UTC 2018: No link for: tachyon.conf.TachyonConfTest-variableSubstitutionRecursiveTest
+Wed May 16 00:57:31 UTC 2018: No link for: tachyon.conf.TachyonConfTest-commonDefaultTest
+Wed May 16 00:57:31 UTC 2018: No link for: tachyon.conf.TachyonConfTest-workerDefaultTest
+Wed May 16 00:57:31 UTC 2018: No link for: tachyon.conf.TachyonConfTest-systemVariableSubstitutionSampleTest
+Wed May 16 00:57:32 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.conf.TachyonConfTest
+Wed May 16 00:57:32 UTC 2018: Found element on the queue
+Wed May 16 00:57:32 UTC 2018: Updating status
+Wed May 16 00:57:32 UTC 2018: Working
+Wed May 16 00:57:35 UTC 2018: Start JoeChien23__tachyon test class tachyon.collections.PairTest
+Wed May 16 00:57:35 UTC 2018: Setting lastTestMethodIndex: 54099
+Wed May 16 00:57:35 UTC 2018: Starting linking
+Wed May 16 00:57:35 UTC 2018: No link for: tachyon.collections.PairTest-constructorTest
+Wed May 16 00:57:35 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.collections.PairTest
+Wed May 16 00:57:35 UTC 2018: Found element on the queue
+Wed May 16 00:57:35 UTC 2018: Updating status
+Wed May 16 00:57:35 UTC 2018: Working
+Wed May 16 00:57:38 UTC 2018: Start JoeChien23__tachyon test class tachyon.collections.PrefixListTest
+Wed May 16 00:57:38 UTC 2018: Setting lastTestMethodIndex: 54101
+Wed May 16 00:57:38 UTC 2018: Starting linking
+Wed May 16 00:57:38 UTC 2018: Code found tachyon.collections.PrefixList-toString with tachyon.collections.PrefixListTest-toStringTest
+Wed May 16 00:57:38 UTC 2018: No link for: tachyon.collections.PrefixListTest-prefixListTest2
+Wed May 16 00:57:38 UTC 2018: No link for: tachyon.collections.PrefixListTest-prefixListTest
+Wed May 16 00:57:39 UTC 2018: No link for: tachyon.collections.PrefixListTest-emptyPrefixTest
+Wed May 16 00:57:39 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.collections.PrefixListTest
+Wed May 16 00:57:39 UTC 2018: Found element on the queue
+Wed May 16 00:57:39 UTC 2018: Updating status
+Wed May 16 00:57:39 UTC 2018: Working
+Wed May 16 00:57:42 UTC 2018: Start JoeChien23__tachyon test class tachyon.collections.IndexedSetTest
+Wed May 16 00:57:42 UTC 2018: Setting lastTestMethodIndex: 54102
+Wed May 16 00:57:42 UTC 2018: Starting linking
+Wed May 16 00:57:42 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.collections.IndexedSetTest
+Wed May 16 00:57:42 UTC 2018: Found element on the queue
+Wed May 16 00:57:42 UTC 2018: Updating status
+Wed May 16 00:57:42 UTC 2018: Working
+Wed May 16 00:57:44 UTC 2018: Start JoeChien23__tachyon test class tachyon.TachyonURITest
+Wed May 16 00:57:44 UTC 2018: Setting lastTestMethodIndex: 54103
+Wed May 16 00:57:44 UTC 2018: Starting linking
+Wed May 16 00:57:44 UTC 2018: Code found tachyon.TachyonURI-getPort with tachyon.TachyonURITest-getPortTests
+Wed May 16 00:57:45 UTC 2018: Code found tachyon.TachyonURI-isAbsolute with tachyon.TachyonURITest-isAbsoluteTests
+Wed May 16 00:57:45 UTC 2018: Code found tachyon.TachyonURI-getAuthority with tachyon.TachyonURITest-getAuthorityTests
+Wed May 16 00:57:45 UTC 2018: Code found tachyon.TachyonURI-hasAuthority with tachyon.TachyonURITest-hasAuthorityTests
+Wed May 16 00:57:45 UTC 2018: Code found tachyon.TachyonURI-isRoot with tachyon.TachyonURITest-isRootTests
+Wed May 16 00:57:46 UTC 2018: Code found tachyon.TachyonURI-getHost with tachyon.TachyonURITest-getHostTests
+Wed May 16 00:57:46 UTC 2018: Code found tachyon.TachyonURI-compareTo with tachyon.TachyonURITest-compareToTests
+Wed May 16 00:57:46 UTC 2018: Code found tachyon.TachyonURI-hasScheme with tachyon.TachyonURITest-hasScheme
+Wed May 16 00:57:46 UTC 2018: Code found tachyon.TachyonURI-join with tachyon.TachyonURITest-joinTests
+Wed May 16 00:57:47 UTC 2018: Code found tachyon.TachyonURI-getName with tachyon.TachyonURITest-getNameTests
+Wed May 16 00:57:47 UTC 2018: Code found tachyon.TachyonURI-toString with tachyon.TachyonURITest-toStringTests
+Wed May 16 00:57:47 UTC 2018: Code found tachyon.TachyonURI-getDepth with tachyon.TachyonURITest-getDepthTests
+Wed May 16 00:57:47 UTC 2018: Code found tachyon.TachyonURI-getPath with tachyon.TachyonURITest-getPathTests
+Wed May 16 00:57:48 UTC 2018: Code found tachyon.TachyonURI-toString with tachyon.TachyonURITest-toStringWindowsTests
+Wed May 16 00:57:48 UTC 2018: Code found tachyon.TachyonURI-equals with tachyon.TachyonURITest-equalsTests
+Wed May 16 00:57:48 UTC 2018: Code found tachyon.TachyonURI-isPathAbsolute with tachyon.TachyonURITest-isPathAbsoluteTests
+Wed May 16 00:57:48 UTC 2018: Code found tachyon.TachyonURI-getScheme with tachyon.TachyonURITest-getSchemeTests
+Wed May 16 00:57:49 UTC 2018: Code found tachyon.TachyonURI-getParent with tachyon.TachyonURITest-getParentTests
+Wed May 16 00:57:49 UTC 2018: Code found tachyon.TachyonURI-getLeadingPath with tachyon.TachyonURITest-getLeadingPathTest
+Wed May 16 00:57:49 UTC 2018: No link for: tachyon.TachyonURITest-fileUriTests
+Wed May 16 00:57:49 UTC 2018: No link for: tachyon.TachyonURITest-invalidURISyntaxTest
+Wed May 16 00:57:50 UTC 2018: No link for: tachyon.TachyonURITest-basicTest1
+Wed May 16 00:57:50 UTC 2018: No link for: tachyon.TachyonURITest-basicTest2
+Wed May 16 00:57:50 UTC 2018: No link for: tachyon.TachyonURITest-constructFromComponentsTests
+Wed May 16 00:57:51 UTC 2018: No link for: tachyon.TachyonURITest-basicTests
+Wed May 16 00:57:51 UTC 2018: No link for: tachyon.TachyonURITest-constructFromParentAndChildTests
+Wed May 16 00:57:51 UTC 2018: No link for: tachyon.TachyonURITest-emptyURITest
+Wed May 16 00:57:51 UTC 2018: No link for: tachyon.TachyonURITest-normalizeWindowsTests
+Wed May 16 00:57:52 UTC 2018: No link for: tachyon.TachyonURITest-windowsPathTests
+Wed May 16 00:57:52 UTC 2018: No link for: tachyon.TachyonURITest-constructFromEmptyPathTest2
+Wed May 16 00:57:52 UTC 2018: No link for: tachyon.TachyonURITest-constructFromEmptyPathTest3
+Wed May 16 00:57:52 UTC 2018: No link for: tachyon.TachyonURITest-normalizeTests
+Wed May 16 00:57:53 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.TachyonURITest
+Wed May 16 00:57:53 UTC 2018: Found element on the queue
+Wed May 16 00:57:53 UTC 2018: Updating status
+Wed May 16 00:57:53 UTC 2018: Working
+Wed May 16 00:57:55 UTC 2018: Start JoeChien23__tachyon test class tachyon.resource.ResourcePoolTest
+Wed May 16 00:57:55 UTC 2018: Setting lastTestMethodIndex: 54107
+Wed May 16 00:57:55 UTC 2018: Starting linking
+Wed May 16 00:57:55 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.resource.ResourcePoolTest
+Wed May 16 00:57:56 UTC 2018: Found element on the queue
+Wed May 16 00:57:56 UTC 2018: Updating status
+Wed May 16 00:57:56 UTC 2018: Working
+Wed May 16 00:57:58 UTC 2018: Start JoeChien23__tachyon test class tachyon.util.CommonUtilsTest
+Wed May 16 00:57:58 UTC 2018: Setting lastTestMethodIndex: 54109
+Wed May 16 00:57:58 UTC 2018: Starting linking
+Wed May 16 00:57:58 UTC 2018: Code found tachyon.util.CommonUtils-createNewClassInstance with tachyon.util.CommonUtilsTest-createNewClassInstanceTest
+Wed May 16 00:57:58 UTC 2018: Code found tachyon.util.CommonUtils-toStringArray with tachyon.util.CommonUtilsTest-toStringArrayTest
+Wed May 16 00:57:59 UTC 2018: Code found tachyon.util.CommonUtils-listToString with tachyon.util.CommonUtilsTest-listToStringTest
+Wed May 16 00:57:59 UTC 2018: Code found tachyon.util.CommonUtils-getCurrentMs with tachyon.util.CommonUtilsTest-getCurrentMsAndSleepMsTest
+Wed May 16 00:57:59 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.util.CommonUtilsTest
+Wed May 16 00:58:00 UTC 2018: Found element on the queue
+Wed May 16 00:58:00 UTC 2018: Updating status
+Wed May 16 00:58:00 UTC 2018: Working
+Wed May 16 00:58:02 UTC 2018: Start JoeChien23__tachyon test class tachyon.util.network.NetworkAddressUtilsTest
+Wed May 16 00:58:02 UTC 2018: Setting lastTestMethodIndex: 54112
+Wed May 16 00:58:02 UTC 2018: Starting linking
+Wed May 16 00:58:02 UTC 2018: Code found tachyon.util.network.NetworkAddressUtils-getFqdnHost with tachyon.util.network.NetworkAddressUtilsTest-getFqdnHostTest
+Wed May 16 00:58:03 UTC 2018: Code found tachyon.util.network.NetworkAddressUtils-replaceHostName with tachyon.util.network.NetworkAddressUtilsTest-replaceHostNameTest
+Wed May 16 00:58:03 UTC 2018: Code found tachyon.util.network.NetworkAddressUtils-resolveHostName with tachyon.util.network.NetworkAddressUtilsTest-resolveHostNameTest
+Wed May 16 00:58:03 UTC 2018: No link for: tachyon.util.network.NetworkAddressUtilsTest-testGetBindAddress
+Wed May 16 00:58:04 UTC 2018: No link for: tachyon.util.network.NetworkAddressUtilsTest-testGetConnectAddress
+Wed May 16 00:58:04 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.util.network.NetworkAddressUtilsTest
+Wed May 16 00:58:04 UTC 2018: Found element on the queue
+Wed May 16 00:58:04 UTC 2018: Updating status
+Wed May 16 00:58:04 UTC 2018: Working
+Wed May 16 00:58:07 UTC 2018: Start JoeChien23__tachyon test class tachyon.util.network.GetMasterWorkerAddressTest
+Wed May 16 00:58:07 UTC 2018: Setting lastTestMethodIndex: 54114
+Wed May 16 00:58:07 UTC 2018: Starting linking
+Wed May 16 00:58:07 UTC 2018: No link for: tachyon.util.network.GetMasterWorkerAddressTest-getWorkerAddressTest
+Wed May 16 00:58:07 UTC 2018: No link for: tachyon.util.network.GetMasterWorkerAddressTest-getMasterAddressTest
+Wed May 16 00:58:07 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.util.network.GetMasterWorkerAddressTest
+Wed May 16 00:58:08 UTC 2018: Found element on the queue
+Wed May 16 00:58:08 UTC 2018: Updating status
+Wed May 16 00:58:08 UTC 2018: Working
+Wed May 16 00:58:10 UTC 2018: Start JoeChien23__tachyon test class tachyon.util.FormatUtilsTest
+Wed May 16 00:58:10 UTC 2018: Setting lastTestMethodIndex: 54117
+Wed May 16 00:58:10 UTC 2018: Starting linking
+Wed May 16 00:58:10 UTC 2018: Code found tachyon.util.FormatUtils-getSizeFromBytes with tachyon.util.FormatUtilsTest-getSizeFromBytesTest
+Wed May 16 00:58:11 UTC 2018: Code found tachyon.util.FormatUtils-formatTimeTakenNs with tachyon.util.FormatUtilsTest-formatTimeTakenNsTest
+Wed May 16 00:58:11 UTC 2018: Code found tachyon.util.FormatUtils-byteBufferToString with tachyon.util.FormatUtilsTest-byteBufferToStringTest
+Wed May 16 00:58:11 UTC 2018: Code found tachyon.util.FormatUtils-parametersToString with tachyon.util.FormatUtilsTest-parametersToStringTest
+Wed May 16 00:58:12 UTC 2018: Code found tachyon.util.FormatUtils-parseSpaceSize with tachyon.util.FormatUtilsTest-parseSpaceSizeTest
+Wed May 16 00:58:12 UTC 2018: Code found tachyon.util.FormatUtils-formatTimeTakenMs with tachyon.util.FormatUtilsTest-formatTimeTakenMsTest
+Wed May 16 00:58:12 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.util.FormatUtilsTest
+Wed May 16 00:58:13 UTC 2018: Found element on the queue
+Wed May 16 00:58:13 UTC 2018: Updating status
+Wed May 16 00:58:13 UTC 2018: Working
+Wed May 16 00:58:15 UTC 2018: Start JoeChien23__tachyon test class tachyon.util.io.BufferUtilsTest
+Wed May 16 00:58:15 UTC 2018: Setting lastTestMethodIndex: 54121
+Wed May 16 00:58:15 UTC 2018: Starting linking
+Wed May 16 00:58:15 UTC 2018: Code found tachyon.util.io.BufferUtils-cloneByteBuffer with tachyon.util.io.BufferUtilsTest-cloneByteBufferTest
+Wed May 16 00:58:15 UTC 2018: Code found tachyon.util.io.BufferUtils-generateNewByteBufferFromThriftRPCResults with tachyon.util.io.BufferUtilsTest-generateNewByteBufferFromThriftRPCResultsTest
+Wed May 16 00:58:16 UTC 2018: Code found tachyon.util.io.BufferUtils-getIncreasingIntBuffer with tachyon.util.io.BufferUtilsTest-getIncreasingIntBufferTest
+Wed May 16 00:58:16 UTC 2018: Code found tachyon.util.io.BufferUtils-cloneByteBufferList with tachyon.util.io.BufferUtilsTest-cloneByteBufferListTest
+Wed May 16 00:58:16 UTC 2018: Code found tachyon.util.io.BufferUtils-equalIncreasingByteBuffer with tachyon.util.io.BufferUtilsTest-equalIncreasingByteBufferTest
+Wed May 16 00:58:17 UTC 2018: Code found tachyon.util.io.BufferUtils-cleanDirectBuffer with tachyon.util.io.BufferUtilsTest-cleanDirectBufferTest
+Wed May 16 00:58:17 UTC 2018: Code found tachyon.util.io.BufferUtils-getIncreasingByteArray with tachyon.util.io.BufferUtilsTest-getIncreasingByteArrayTest
+Wed May 16 00:58:17 UTC 2018: Code found tachyon.util.io.BufferUtils-putIntByteBuffer with tachyon.util.io.BufferUtilsTest-putIntByteBufferTest
+Wed May 16 00:58:17 UTC 2018: Code found tachyon.util.io.BufferUtils-getIncreasingByteBuffer with tachyon.util.io.BufferUtilsTest-getIncreasingByteBufferTest
+Wed May 16 00:58:18 UTC 2018: Code found tachyon.util.io.BufferUtils-equalIncreasingByteArray with tachyon.util.io.BufferUtilsTest-equalIncreasingByteArrayTest
+Wed May 16 00:58:18 UTC 2018: No link for: tachyon.util.io.BufferUtilsTest-cloneDirectByteBufferListTest
+Wed May 16 00:58:18 UTC 2018: No link for: tachyon.util.io.BufferUtilsTest-cloneDirectByteBufferTest
+Wed May 16 00:58:18 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.util.io.BufferUtilsTest
+Wed May 16 00:58:19 UTC 2018: Found element on the queue
+Wed May 16 00:58:19 UTC 2018: Updating status
+Wed May 16 00:58:19 UTC 2018: Working
+Wed May 16 00:58:21 UTC 2018: Start JoeChien23__tachyon test class tachyon.util.io.FileUtilsTest
+Wed May 16 00:58:21 UTC 2018: Setting lastTestMethodIndex: 54124
+Wed May 16 00:58:21 UTC 2018: Starting linking
+Wed May 16 00:58:21 UTC 2018: Code found tachyon.util.io.FileUtils-createFile with tachyon.util.io.FileUtilsTest-createFileTest
+Wed May 16 00:58:22 UTC 2018: Code found tachyon.util.io.FileUtils-move with tachyon.util.io.FileUtilsTest-moveFileTest
+Wed May 16 00:58:22 UTC 2018: Code found tachyon.util.io.FileUtils-createDir with tachyon.util.io.FileUtilsTest-createDirTest
+Wed May 16 00:58:22 UTC 2018: Code found tachyon.util.io.FileUtils-setLocalDirStickyBit with tachyon.util.io.FileUtilsTest-setLocalDirStickyBitTest
+Wed May 16 00:58:22 UTC 2018: Code found tachyon.util.io.FileUtils-createBlockPath with tachyon.util.io.FileUtilsTest-createBlockPathTest
+Wed May 16 00:58:23 UTC 2018: Code found tachyon.util.io.FileUtils-changeLocalFilePermission with tachyon.util.io.FileUtilsTest-changeLocalFilePermissionTest
+Wed May 16 00:58:23 UTC 2018: Code found tachyon.util.io.FileUtils-move with tachyon.util.io.FileUtilsTest-moveNonExistentFileTest
+Wed May 16 00:58:23 UTC 2018: Code found tachyon.util.io.FileUtils-delete with tachyon.util.io.FileUtilsTest-deleteFileTest
+Wed May 16 00:58:24 UTC 2018: Code found tachyon.util.io.FileUtils-delete with tachyon.util.io.FileUtilsTest-deleteNonExistentFileTest
+Wed May 16 00:58:24 UTC 2018: No link for: tachyon.util.io.FileUtilsTest-changeNonExistentFileTest
+Wed May 16 00:58:24 UTC 2018: No link for: tachyon.util.io.FileUtilsTest-changeLocalDirPermissionTests
+Wed May 16 00:58:24 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.util.io.FileUtilsTest
+Wed May 16 00:58:25 UTC 2018: Found element on the queue
+Wed May 16 00:58:25 UTC 2018: Updating status
+Wed May 16 00:58:25 UTC 2018: Working
+Wed May 16 00:58:27 UTC 2018: Start JoeChien23__tachyon test class tachyon.util.io.PathUtilsTest
+Wed May 16 00:58:27 UTC 2018: Setting lastTestMethodIndex: 54128
+Wed May 16 00:58:27 UTC 2018: Starting linking
+Wed May 16 00:58:27 UTC 2018: Code found tachyon.util.io.PathUtils-hasPrefix with tachyon.util.io.PathUtilsTest-hasPrefixTest
+Wed May 16 00:58:28 UTC 2018: Code found tachyon.util.io.PathUtils-isRoot with tachyon.util.io.PathUtilsTest-isRootTest
+Wed May 16 00:58:28 UTC 2018: Code found tachyon.util.io.PathUtils-temporaryFileName with tachyon.util.io.PathUtilsTest-temporaryFileNameTest
+Wed May 16 00:58:28 UTC 2018: Code found tachyon.util.io.PathUtils-getParent with tachyon.util.io.PathUtilsTest-getParentTest
+Wed May 16 00:58:29 UTC 2018: Code found tachyon.util.io.PathUtils-cleanPath with tachyon.util.io.PathUtilsTest-cleanPathExceptionTest
+Wed May 16 00:58:29 UTC 2018: Code found tachyon.util.io.PathUtils-getPathComponents with tachyon.util.io.PathUtilsTest-getPathComponentsExceptionTest
+Wed May 16 00:58:29 UTC 2018: Code found tachyon.util.io.PathUtils-getPathComponents with tachyon.util.io.PathUtilsTest-getPathComponentsNoExceptionTest
+Wed May 16 00:58:29 UTC 2018: Code found tachyon.util.io.PathUtils-uniqPath with tachyon.util.io.PathUtilsTest-uniqPathTest
+Wed May 16 00:58:30 UTC 2018: Code found tachyon.util.io.PathUtils-validatePath with tachyon.util.io.PathUtilsTest-validatePathTest
+Wed May 16 00:58:30 UTC 2018: Code found tachyon.util.io.PathUtils-concatPath with tachyon.util.io.PathUtilsTest-concatPathTest
+Wed May 16 00:58:30 UTC 2018: Code found tachyon.util.io.PathUtils-cleanPath with tachyon.util.io.PathUtilsTest-cleanPathNoExceptionTest
+Wed May 16 00:58:30 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.util.io.PathUtilsTest
+Wed May 16 00:58:31 UTC 2018: Found element on the queue
+Wed May 16 00:58:31 UTC 2018: Updating status
+Wed May 16 00:58:31 UTC 2018: Working
+Wed May 16 00:58:33 UTC 2018: Start JoeChien23__tachyon test class tachyon.heartbeat.HeartbeatContextTest
+Wed May 16 00:58:33 UTC 2018: Setting lastTestMethodIndex: 54132
+Wed May 16 00:58:33 UTC 2018: Starting linking
+Wed May 16 00:58:33 UTC 2018: No link for: tachyon.heartbeat.HeartbeatContextTest-timerClassesCheckTest
+Wed May 16 00:58:34 UTC 2018: No link for: tachyon.heartbeat.HeartbeatContextTest-checkInstanceOfTest
+Wed May 16 00:58:34 UTC 2018: No link for: tachyon.heartbeat.HeartbeatContextTest-addNewTimerClassesTest
+Wed May 16 00:58:34 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.heartbeat.HeartbeatContextTest
+Wed May 16 00:58:35 UTC 2018: Found element on the queue
+Wed May 16 00:58:35 UTC 2018: Updating status
+Wed May 16 00:58:35 UTC 2018: Working
+Wed May 16 00:58:37 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.block.BlockIdTest
+Wed May 16 00:58:37 UTC 2018: Setting lastTestMethodIndex: 54134
+Wed May 16 00:58:37 UTC 2018: Starting linking
+Wed May 16 00:58:37 UTC 2018: Code found tachyon.master.block.BlockId-createBlockId with tachyon.master.block.BlockIdTest-createBlockIdTest
+Wed May 16 00:58:38 UTC 2018: Code found tachyon.master.block.BlockId-createBlockId with tachyon.master.block.BlockIdTest-createBlockIdWithMaxSequenceNumberTest
+Wed May 16 00:58:38 UTC 2018: Code found tachyon.master.block.BlockId-getContainerId with tachyon.master.block.BlockIdTest-getContainerIdAndSequenceNumberTest
+Wed May 16 00:58:38 UTC 2018: Code found tachyon.master.block.BlockId-getMaxSequenceNumber with tachyon.master.block.BlockIdTest-getMaxSequenceNumberTest
+Wed May 16 00:58:38 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.block.BlockIdTest
+Wed May 16 00:58:39 UTC 2018: Found element on the queue
+Wed May 16 00:58:39 UTC 2018: Updating status
+Wed May 16 00:58:39 UTC 2018: Working
+Wed May 16 00:58:39 UTC 2018: Create project parser
+Wed May 16 00:58:42 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.BlockServiceHandlerIntegrationTest
+Wed May 16 00:58:42 UTC 2018: Setting lastTestMethodIndex: 54137
+Wed May 16 00:58:42 UTC 2018: Starting linking
+Wed May 16 00:58:42 UTC 2018: No link for: tachyon.worker.BlockServiceHandlerIntegrationTest-cacheBlockTest
+Wed May 16 00:58:43 UTC 2018: No link for: tachyon.worker.BlockServiceHandlerIntegrationTest-requestSpaceTest
+Wed May 16 00:58:43 UTC 2018: No link for: tachyon.worker.BlockServiceHandlerIntegrationTest-totalOverCapacityRequestSpaceTest
+Wed May 16 00:58:43 UTC 2018: No link for: tachyon.worker.BlockServiceHandlerIntegrationTest-cancelBlockTest
+Wed May 16 00:58:43 UTC 2018: No link for: tachyon.worker.BlockServiceHandlerIntegrationTest-lockBlockFailureTest
+Wed May 16 00:58:44 UTC 2018: No link for: tachyon.worker.BlockServiceHandlerIntegrationTest-lockBlockTest
+Wed May 16 00:58:44 UTC 2018: No link for: tachyon.worker.BlockServiceHandlerIntegrationTest-evictionTest
+Wed May 16 00:58:44 UTC 2018: No link for: tachyon.worker.BlockServiceHandlerIntegrationTest-addCheckpointTest
+Wed May 16 00:58:44 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.BlockServiceHandlerIntegrationTest
+Wed May 16 00:58:45 UTC 2018: Found element on the queue
+Wed May 16 00:58:45 UTC 2018: Updating status
+Wed May 16 00:58:45 UTC 2018: Working
+Wed May 16 00:58:47 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.DataServerIntegrationTest
+Wed May 16 00:58:47 UTC 2018: Setting lastTestMethodIndex: 54140
+Wed May 16 00:58:47 UTC 2018: Starting linking
+Wed May 16 00:58:47 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-tooLargeOffset
+Wed May 16 00:58:48 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-lengthTooSmall
+Wed May 16 00:58:48 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-negativeOffset
+Wed May 16 00:58:48 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-readTooLarge
+Wed May 16 00:58:49 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-readThroughClientTest
+Wed May 16 00:58:49 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-multiReadTest
+Wed May 16 00:58:49 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-readTest
+Wed May 16 00:58:49 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-readPartialTest1
+Wed May 16 00:58:50 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-readMultiFiles
+Wed May 16 00:58:50 UTC 2018: No link for: tachyon.worker.DataServerIntegrationTest-readPartialTest2
+Wed May 16 00:58:50 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.DataServerIntegrationTest
+Wed May 16 00:58:51 UTC 2018: Found element on the queue
+Wed May 16 00:58:51 UTC 2018: Updating status
+Wed May 16 00:58:51 UTC 2018: Working
+Wed May 16 00:58:53 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.meta.TieredStoreIntegrationTest
+Wed May 16 00:58:53 UTC 2018: Setting lastTestMethodIndex: 54143
+Wed May 16 00:58:53 UTC 2018: Starting linking
+Wed May 16 00:58:53 UTC 2018: No link for: tachyon.worker.block.meta.TieredStoreIntegrationTest-pinFileTest
+Wed May 16 00:58:53 UTC 2018: No link for: tachyon.worker.block.meta.TieredStoreIntegrationTest-unpinFileTest
+Wed May 16 00:58:54 UTC 2018: No link for: tachyon.worker.block.meta.TieredStoreIntegrationTest-promoteBlock
+Wed May 16 00:58:54 UTC 2018: No link for: tachyon.worker.block.meta.TieredStoreIntegrationTest-deleteWhileReadTest
+Wed May 16 00:58:54 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.meta.TieredStoreIntegrationTest
+Wed May 16 00:58:55 UTC 2018: Found element on the queue
+Wed May 16 00:58:55 UTC 2018: Updating status
+Wed May 16 00:58:55 UTC 2018: Working
+Wed May 16 00:58:57 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.WorkerClientAuthenticationIntegrationTest
+Wed May 16 00:58:57 UTC 2018: Setting lastTestMethodIndex: 54146
+Wed May 16 00:58:57 UTC 2018: Starting linking
+Wed May 16 00:58:57 UTC 2018: No link for: tachyon.security.WorkerClientAuthenticationIntegrationTest-customAuthenticationOpenCloseTest
+Wed May 16 00:58:58 UTC 2018: No link for: tachyon.security.WorkerClientAuthenticationIntegrationTest-noAuthenticationOpenCloseTest
+Wed May 16 00:58:58 UTC 2018: No link for: tachyon.security.WorkerClientAuthenticationIntegrationTest-customAuthenticationDenyConnectTest
+Wed May 16 00:58:58 UTC 2018: No link for: tachyon.security.WorkerClientAuthenticationIntegrationTest-simpleAuthenticationOpenCloseTest
+Wed May 16 00:58:58 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.WorkerClientAuthenticationIntegrationTest
+Wed May 16 00:58:59 UTC 2018: Found element on the queue
+Wed May 16 00:58:59 UTC 2018: Updating status
+Wed May 16 00:58:59 UTC 2018: Working
+Wed May 16 00:59:01 UTC 2018: Start JoeChien23__tachyon test class tachyon.security.MasterClientAuthenticationIntegrationTest
+Wed May 16 00:59:01 UTC 2018: Setting lastTestMethodIndex: 54147
+Wed May 16 00:59:01 UTC 2018: Starting linking
+Wed May 16 00:59:01 UTC 2018: No link for: tachyon.security.MasterClientAuthenticationIntegrationTest-customAuthenticationOpenCloseTest
+Wed May 16 00:59:01 UTC 2018: No link for: tachyon.security.MasterClientAuthenticationIntegrationTest-customAuthenticationDenyConnectTest
+Wed May 16 00:59:02 UTC 2018: No link for: tachyon.security.MasterClientAuthenticationIntegrationTest-noAuthenticationOpenCloseTest
+Wed May 16 00:59:02 UTC 2018: No link for: tachyon.security.MasterClientAuthenticationIntegrationTest-simpleAuthenticationOpenCloseTest
+Wed May 16 00:59:02 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.security.MasterClientAuthenticationIntegrationTest
+Wed May 16 00:59:03 UTC 2018: Found element on the queue
+Wed May 16 00:59:03 UTC 2018: Updating status
+Wed May 16 00:59:03 UTC 2018: Working
+Wed May 16 00:59:05 UTC 2018: Start JoeChien23__tachyon test class tachyon.network.protocol.RPCMessageIntegrationTest
+Wed May 16 00:59:05 UTC 2018: Setting lastTestMethodIndex: 54150
+Wed May 16 00:59:05 UTC 2018: Starting linking
+Wed May 16 00:59:05 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.network.protocol.RPCMessageIntegrationTest
+Wed May 16 00:59:06 UTC 2018: Found element on the queue
+Wed May 16 00:59:06 UTC 2018: Updating status
+Wed May 16 00:59:06 UTC 2018: Working
+Wed May 16 00:59:09 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest
+Wed May 16 00:59:09 UTC 2018: Setting lastTestMethodIndex: 54152
+Wed May 16 00:59:09 UTC 2018: Starting linking
+Wed May 16 00:59:09 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testRenameFileToFolder
+Wed May 16 00:59:09 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testGetModTime
+Wed May 16 00:59:10 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-createOpenTest
+Wed May 16 00:59:10 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testIsFile
+Wed May 16 00:59:10 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testRenameFile
+Wed May 16 00:59:11 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testRenameFolderToFolder
+Wed May 16 00:59:11 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testGetFileSize
+Wed May 16 00:59:11 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testList
+Wed May 16 00:59:12 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testRenameFolder
+Wed May 16 00:59:12 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testExists
+Wed May 16 00:59:12 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-testMkdirs
+Wed May 16 00:59:13 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-deleteDirTest
+Wed May 16 00:59:13 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-createEmptyTest
+Wed May 16 00:59:13 UTC 2018: No link for: tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest-deleteFileTest
+Wed May 16 00:59:13 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.UnderStorageSystemInterfaceIntegrationTest
+Wed May 16 00:59:14 UTC 2018: Found element on the queue
+Wed May 16 00:59:14 UTC 2018: Updating status
+Wed May 16 00:59:14 UTC 2018: Working
+Wed May 16 00:59:16 UTC 2018: Start JoeChien23__tachyon test class tachyon.hadoop.TFSRenameIntegrationTest
+Wed May 16 00:59:16 UTC 2018: Setting lastTestMethodIndex: 54157
+Wed May 16 00:59:16 UTC 2018: Starting linking
+Wed May 16 00:59:16 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-basicRenameTest7
+Wed May 16 00:59:17 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-basicRenameTest5
+Wed May 16 00:59:17 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-errorRenameTest4
+Wed May 16 00:59:17 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-basicRenameTest6
+Wed May 16 00:59:18 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-errorRenameTest3
+Wed May 16 00:59:18 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-errorRenameTest2
+Wed May 16 00:59:18 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-errorRenameTest1
+Wed May 16 00:59:18 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-basicRenameTest3
+Wed May 16 00:59:19 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-basicRenameTest4
+Wed May 16 00:59:19 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-basicRenameTest1
+Wed May 16 00:59:19 UTC 2018: No link for: tachyon.hadoop.TFSRenameIntegrationTest-basicRenameTest2
+Wed May 16 00:59:19 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.hadoop.TFSRenameIntegrationTest
+Wed May 16 00:59:20 UTC 2018: Found element on the queue
+Wed May 16 00:59:20 UTC 2018: Updating status
+Wed May 16 00:59:20 UTC 2018: Working
+Wed May 16 00:59:22 UTC 2018: Start JoeChien23__tachyon test class tachyon.hadoop.TFSStatisticsTest
+Wed May 16 00:59:22 UTC 2018: Setting lastTestMethodIndex: 54160
+Wed May 16 00:59:22 UTC 2018: Starting linking
+Wed May 16 00:59:22 UTC 2018: No link for: tachyon.hadoop.TFSStatisticsTest-bytesReadStatisticsTest
+Wed May 16 00:59:23 UTC 2018: No link for: tachyon.hadoop.TFSStatisticsTest-bytesWrittenStatisticsTest
+Wed May 16 00:59:23 UTC 2018: No link for: tachyon.hadoop.TFSStatisticsTest-readWriteOperationsStatisticsTest
+Wed May 16 00:59:23 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.hadoop.TFSStatisticsTest
+Wed May 16 00:59:24 UTC 2018: Found element on the queue
+Wed May 16 00:59:24 UTC 2018: Updating status
+Wed May 16 00:59:24 UTC 2018: Working
+Wed May 16 00:59:26 UTC 2018: Start JoeChien23__tachyon test class tachyon.hadoop.HdfsFileInputStreamIntegrationTest
+Wed May 16 00:59:26 UTC 2018: Setting lastTestMethodIndex: 54163
+Wed May 16 00:59:26 UTC 2018: Starting linking
+Wed May 16 00:59:26 UTC 2018: No link for: tachyon.hadoop.HdfsFileInputStreamIntegrationTest-readTest3
+Wed May 16 00:59:26 UTC 2018: No link for: tachyon.hadoop.HdfsFileInputStreamIntegrationTest-readTest2
+Wed May 16 00:59:27 UTC 2018: No link for: tachyon.hadoop.HdfsFileInputStreamIntegrationTest-readTest1
+Wed May 16 00:59:27 UTC 2018: No link for: tachyon.hadoop.HdfsFileInputStreamIntegrationTest-seekTest
+Wed May 16 00:59:27 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.hadoop.HdfsFileInputStreamIntegrationTest
+Wed May 16 00:59:28 UTC 2018: Found element on the queue
+Wed May 16 00:59:28 UTC 2018: Updating status
+Wed May 16 00:59:28 UTC 2018: Working
+Wed May 16 00:59:30 UTC 2018: Start JoeChien23__tachyon test class tachyon.hadoop.fs.DFSIOIntegrationTest
+Wed May 16 00:59:30 UTC 2018: Setting lastTestMethodIndex: 54166
+Wed May 16 00:59:30 UTC 2018: Starting linking
+Wed May 16 00:59:30 UTC 2018: No link for: tachyon.hadoop.fs.DFSIOIntegrationTest-testRead
+Wed May 16 00:59:31 UTC 2018: No link for: tachyon.hadoop.fs.DFSIOIntegrationTest-testReadLargeSkip
+Wed May 16 00:59:31 UTC 2018: No link for: tachyon.hadoop.fs.DFSIOIntegrationTest-testReadRandom
+Wed May 16 00:59:31 UTC 2018: No link for: tachyon.hadoop.fs.DFSIOIntegrationTest-testReadBackward
+Wed May 16 00:59:32 UTC 2018: No link for: tachyon.hadoop.fs.DFSIOIntegrationTest-testReadSkip
+Wed May 16 00:59:32 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.hadoop.fs.DFSIOIntegrationTest
+Wed May 16 00:59:32 UTC 2018: Found element on the queue
+Wed May 16 00:59:32 UTC 2018: Updating status
+Wed May 16 00:59:32 UTC 2018: Working
+Wed May 16 00:59:35 UTC 2018: Start JoeChien23__tachyon test class tachyon.hadoop.TFSBlockLocationIntegrationTest
+Wed May 16 00:59:35 UTC 2018: Setting lastTestMethodIndex: 54167
+Wed May 16 00:59:35 UTC 2018: Starting linking
+Wed May 16 00:59:35 UTC 2018: No link for: tachyon.hadoop.TFSBlockLocationIntegrationTest-basicBlockLocationTest
+Wed May 16 00:59:36 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.hadoop.TFSBlockLocationIntegrationTest
+Wed May 16 00:59:36 UTC 2018: Found element on the queue
+Wed May 16 00:59:36 UTC 2018: Updating status
+Wed May 16 00:59:36 UTC 2018: Working
+Wed May 16 00:59:39 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.IsolatedTachyonFileSystemIntegrationTest
+Wed May 16 00:59:39 UTC 2018: Setting lastTestMethodIndex: 54170
+Wed May 16 00:59:39 UTC 2018: Starting linking
+Wed May 16 00:59:39 UTC 2018: No link for: tachyon.client.IsolatedTachyonFileSystemIntegrationTest-lockBlockTest1
+Wed May 16 00:59:39 UTC 2018: No link for: tachyon.client.IsolatedTachyonFileSystemIntegrationTest-lockBlockTest3
+Wed May 16 00:59:40 UTC 2018: No link for: tachyon.client.IsolatedTachyonFileSystemIntegrationTest-lockBlockTest2
+Wed May 16 00:59:40 UTC 2018: No link for: tachyon.client.IsolatedTachyonFileSystemIntegrationTest-unlockBlockTest3
+Wed May 16 00:59:40 UTC 2018: No link for: tachyon.client.IsolatedTachyonFileSystemIntegrationTest-unlockBlockTest2
+Wed May 16 00:59:40 UTC 2018: No link for: tachyon.client.IsolatedTachyonFileSystemIntegrationTest-unlockBlockTest1
+Wed May 16 00:59:41 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.IsolatedTachyonFileSystemIntegrationTest
+Wed May 16 00:59:41 UTC 2018: Found element on the queue
+Wed May 16 00:59:41 UTC 2018: Updating status
+Wed May 16 00:59:41 UTC 2018: Working
+Wed May 16 00:59:44 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.BufferedBlockInStreamIntegrationTest
+Wed May 16 00:59:44 UTC 2018: Setting lastTestMethodIndex: 54173
+Wed May 16 00:59:44 UTC 2018: Starting linking
+Wed May 16 00:59:44 UTC 2018: No link for: tachyon.client.BufferedBlockInStreamIntegrationTest-skipTest
+Wed May 16 00:59:44 UTC 2018: No link for: tachyon.client.BufferedBlockInStreamIntegrationTest-readTest2
+Wed May 16 00:59:44 UTC 2018: No link for: tachyon.client.BufferedBlockInStreamIntegrationTest-readTest1
+Wed May 16 00:59:45 UTC 2018: No link for: tachyon.client.BufferedBlockInStreamIntegrationTest-readTest3
+Wed May 16 00:59:45 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.BufferedBlockInStreamIntegrationTest
+Wed May 16 00:59:45 UTC 2018: Found element on the queue
+Wed May 16 00:59:45 UTC 2018: Updating status
+Wed May 16 00:59:45 UTC 2018: Working
+Wed May 16 00:59:48 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.FileInStreamIntegrationTest
+Wed May 16 00:59:48 UTC 2018: Setting lastTestMethodIndex: 54176
+Wed May 16 00:59:48 UTC 2018: Starting linking
+Wed May 16 00:59:48 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-seekExceptionTest1
+Wed May 16 00:59:48 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-skipTest
+Wed May 16 00:59:49 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-eofSeekTest
+Wed May 16 00:59:49 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-readTest1
+Wed May 16 00:59:49 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-seekTest
+Wed May 16 00:59:49 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-readTest2
+Wed May 16 00:59:50 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-readTest3
+Wed May 16 00:59:50 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-readEndOfFileTest
+Wed May 16 00:59:50 UTC 2018: No link for: tachyon.client.FileInStreamIntegrationTest-seekExceptionTest2
+Wed May 16 00:59:51 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.FileInStreamIntegrationTest
+Wed May 16 00:59:51 UTC 2018: Found element on the queue
+Wed May 16 00:59:51 UTC 2018: Updating status
+Wed May 16 00:59:51 UTC 2018: Working
+Wed May 16 00:59:54 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.table.RawTableIntegrationTest
+Wed May 16 00:59:54 UTC 2018: Setting lastTestMethodIndex: 54180
+Wed May 16 00:59:54 UTC 2018: Starting linking
+Wed May 16 00:59:54 UTC 2018: No link for: tachyon.client.table.RawTableIntegrationTest-getIdTest
+Wed May 16 00:59:54 UTC 2018: No link for: tachyon.client.table.RawTableIntegrationTest-getColumnsTest
+Wed May 16 00:59:54 UTC 2018: No link for: tachyon.client.table.RawTableIntegrationTest-rawtablePerfTest
+Wed May 16 00:59:55 UTC 2018: No link for: tachyon.client.table.RawTableIntegrationTest-getMetadataTest
+Wed May 16 00:59:55 UTC 2018: No link for: tachyon.client.table.RawTableIntegrationTest-getPathTest
+Wed May 16 00:59:55 UTC 2018: No link for: tachyon.client.table.RawTableIntegrationTest-updateMetadataTest
+Wed May 16 00:59:55 UTC 2018: No link for: tachyon.client.table.RawTableIntegrationTest-getNameTest
+Wed May 16 00:59:56 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.table.RawTableIntegrationTest
+Wed May 16 00:59:56 UTC 2018: Found element on the queue
+Wed May 16 00:59:56 UTC 2018: Updating status
+Wed May 16 00:59:56 UTC 2018: Working
+Wed May 16 00:59:59 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.table.RawColumnIntegrationTest
+Wed May 16 00:59:59 UTC 2018: Setting lastTestMethodIndex: 54183
+Wed May 16 00:59:59 UTC 2018: Starting linking
+Wed May 16 00:59:59 UTC 2018: No link for: tachyon.client.table.RawColumnIntegrationTest-basicTest
+Wed May 16 01:00:00 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.table.RawColumnIntegrationTest
+Wed May 16 01:00:00 UTC 2018: Found element on the queue
+Wed May 16 01:00:00 UTC 2018: Updating status
+Wed May 16 01:00:00 UTC 2018: Working
+Wed May 16 01:00:03 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.TachyonFileSystemUtilsIntegrationTest
+Wed May 16 01:00:03 UTC 2018: Setting lastTestMethodIndex: 54186
+Wed May 16 01:00:03 UTC 2018: Starting linking
+Wed May 16 01:00:03 UTC 2018: No link for: tachyon.client.TachyonFileSystemUtilsIntegrationTest-waitCompletedTest2
+Wed May 16 01:00:03 UTC 2018: No link for: tachyon.client.TachyonFileSystemUtilsIntegrationTest-waitCompletedTest1
+Wed May 16 01:00:04 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.TachyonFileSystemUtilsIntegrationTest
+Wed May 16 01:00:04 UTC 2018: Found element on the queue
+Wed May 16 01:00:04 UTC 2018: Updating status
+Wed May 16 01:00:04 UTC 2018: Working
+Wed May 16 01:00:07 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.TachyonFileSystemIntegrationTest
+Wed May 16 01:00:07 UTC 2018: Setting lastTestMethodIndex: 54188
+Wed May 16 01:00:07 UTC 2018: Starting linking
+Wed May 16 01:00:07 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-getFileStatusTest
+Wed May 16 01:00:07 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-mkdirTest
+Wed May 16 01:00:07 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-renameFileTest2
+Wed May 16 01:00:08 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-createFileWithInvalidPathExceptionTest
+Wed May 16 01:00:08 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-renameFileTest1
+Wed May 16 01:00:08 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-getRootTest
+Wed May 16 01:00:09 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-createFileTest
+Wed May 16 01:00:09 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-deleteFileTest
+Wed May 16 01:00:09 UTC 2018: No link for: tachyon.client.TachyonFileSystemIntegrationTest-createFileWithFileAlreadyExistsExceptionTest
+Wed May 16 01:00:10 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.TachyonFileSystemIntegrationTest
+Wed May 16 01:00:10 UTC 2018: Found element on the queue
+Wed May 16 01:00:10 UTC 2018: Updating status
+Wed May 16 01:00:10 UTC 2018: Working
+Wed May 16 01:00:13 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.LocalBlockInStreamIntegrationTest
+Wed May 16 01:00:13 UTC 2018: Setting lastTestMethodIndex: 54191
+Wed May 16 01:00:13 UTC 2018: Starting linking
+Wed May 16 01:00:13 UTC 2018: No link for: tachyon.client.LocalBlockInStreamIntegrationTest-readTest1
+Wed May 16 01:00:13 UTC 2018: No link for: tachyon.client.LocalBlockInStreamIntegrationTest-seekTest
+Wed May 16 01:00:13 UTC 2018: No link for: tachyon.client.LocalBlockInStreamIntegrationTest-readTest2
+Wed May 16 01:00:14 UTC 2018: No link for: tachyon.client.LocalBlockInStreamIntegrationTest-readTest3
+Wed May 16 01:00:14 UTC 2018: No link for: tachyon.client.LocalBlockInStreamIntegrationTest-skipTest
+Wed May 16 01:00:14 UTC 2018: No link for: tachyon.client.LocalBlockInStreamIntegrationTest-seekExceptionTest1
+Wed May 16 01:00:14 UTC 2018: No link for: tachyon.client.LocalBlockInStreamIntegrationTest-seekExceptionTest2
+Wed May 16 01:00:15 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.LocalBlockInStreamIntegrationTest
+Wed May 16 01:00:15 UTC 2018: Found element on the queue
+Wed May 16 01:00:15 UTC 2018: Updating status
+Wed May 16 01:00:15 UTC 2018: Working
+Wed May 16 01:00:18 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.UfsUtilsIntegrationTest
+Wed May 16 01:00:18 UTC 2018: Setting lastTestMethodIndex: 54193
+Wed May 16 01:00:18 UTC 2018: Starting linking
+Wed May 16 01:00:18 UTC 2018: No link for: tachyon.client.UfsUtilsIntegrationTest-loadUnderFsTest
+Wed May 16 01:00:18 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.UfsUtilsIntegrationTest
+Wed May 16 01:00:18 UTC 2018: Found element on the queue
+Wed May 16 01:00:18 UTC 2018: Updating status
+Wed May 16 01:00:18 UTC 2018: Working
+Wed May 16 01:00:21 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.RemoteBlockInStreamIntegrationTest
+Wed May 16 01:00:21 UTC 2018: Setting lastTestMethodIndex: 54196
+Wed May 16 01:00:21 UTC 2018: Starting linking
+Wed May 16 01:00:21 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-seekExceptionTest2
+Wed May 16 01:00:21 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-seekExceptionTest1
+Wed May 16 01:00:22 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-completeFileReadTriggersRecache
+Wed May 16 01:00:22 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-seekTest
+Wed May 16 01:00:22 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-incompleteFileReadCancelsRecache
+Wed May 16 01:00:23 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-readMultiBlockFile
+Wed May 16 01:00:23 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-skipTest
+Wed May 16 01:00:23 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-readTest7
+Wed May 16 01:00:23 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-readTest6
+Wed May 16 01:00:24 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-readTest5
+Wed May 16 01:00:24 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-readTest4
+Wed May 16 01:00:24 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-readTest3
+Wed May 16 01:00:24 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-readTest2
+Wed May 16 01:00:25 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-readTest1
+Wed May 16 01:00:25 UTC 2018: No link for: tachyon.client.RemoteBlockInStreamIntegrationTest-seekAroundLocalBlock
+Wed May 16 01:00:26 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.RemoteBlockInStreamIntegrationTest
+Wed May 16 01:00:26 UTC 2018: Found element on the queue
+Wed May 16 01:00:26 UTC 2018: Updating status
+Wed May 16 01:00:26 UTC 2018: Working
+Wed May 16 01:00:29 UTC 2018: Start JoeChien23__tachyon test class tachyon.client.FileOutStreamIntegrationTest
+Wed May 16 01:00:29 UTC 2018: Setting lastTestMethodIndex: 54200
+Wed May 16 01:00:29 UTC 2018: Starting linking
+Wed May 16 01:00:29 UTC 2018: No link for: tachyon.client.FileOutStreamIntegrationTest-longWriteChangesSessionId
+Wed May 16 01:00:29 UTC 2018: No link for: tachyon.client.FileOutStreamIntegrationTest-writeTest1
+Wed May 16 01:00:30 UTC 2018: No link for: tachyon.client.FileOutStreamIntegrationTest-writeTest2
+Wed May 16 01:00:30 UTC 2018: No link for: tachyon.client.FileOutStreamIntegrationTest-writeSpecifyLocalTest
+Wed May 16 01:00:30 UTC 2018: No link for: tachyon.client.FileOutStreamIntegrationTest-outOfOrderWriteTest
+Wed May 16 01:00:30 UTC 2018: No link for: tachyon.client.FileOutStreamIntegrationTest-writeTest3
+Wed May 16 01:00:31 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.client.FileOutStreamIntegrationTest
+Wed May 16 01:00:31 UTC 2018: Found element on the queue
+Wed May 16 01:00:31 UTC 2018: Updating status
+Wed May 16 01:00:31 UTC 2018: Working
+Wed May 16 01:00:34 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.JournalShutdownIntegrationTest
+Wed May 16 01:00:34 UTC 2018: Setting lastTestMethodIndex: 54202
+Wed May 16 01:00:34 UTC 2018: Starting linking
+Wed May 16 01:00:34 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.JournalShutdownIntegrationTest
+Wed May 16 01:00:34 UTC 2018: Found element on the queue
+Wed May 16 01:00:34 UTC 2018: Updating status
+Wed May 16 01:00:34 UTC 2018: Working
+Wed May 16 01:00:37 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.ServiceSocketBindIntegrationTest
+Wed May 16 01:00:37 UTC 2018: Setting lastTestMethodIndex: 54205
+Wed May 16 01:00:37 UTC 2018: Starting linking
+Wed May 16 01:00:37 UTC 2018: No link for: tachyon.master.ServiceSocketBindIntegrationTest-listenSameAddressTest
+Wed May 16 01:00:37 UTC 2018: No link for: tachyon.master.ServiceSocketBindIntegrationTest-listenEmptyTest
+Wed May 16 01:00:37 UTC 2018: No link for: tachyon.master.ServiceSocketBindIntegrationTest-listenWildcardTest
+Wed May 16 01:00:38 UTC 2018: No link for: tachyon.master.ServiceSocketBindIntegrationTest-connectDifferentAddressTest
+Wed May 16 01:00:38 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.ServiceSocketBindIntegrationTest
+Wed May 16 01:00:39 UTC 2018: Found element on the queue
+Wed May 16 01:00:39 UTC 2018: Updating status
+Wed May 16 01:00:39 UTC 2018: Working
+Wed May 16 01:00:41 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.rawtable.RawTableMasterIntegrationTest
+Wed May 16 01:00:41 UTC 2018: Setting lastTestMethodIndex: 54207
+Wed May 16 01:00:41 UTC 2018: Starting linking
+Wed May 16 01:00:41 UTC 2018: No link for: tachyon.master.rawtable.RawTableMasterIntegrationTest-negativeColumnTest
+Wed May 16 01:00:41 UTC 2018: No link for: tachyon.master.rawtable.RawTableMasterIntegrationTest-tooManyColumnsTest
+Wed May 16 01:00:42 UTC 2018: No link for: tachyon.master.rawtable.RawTableMasterIntegrationTest-createRawTableTest
+Wed May 16 01:00:42 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.rawtable.RawTableMasterIntegrationTest
+Wed May 16 01:00:42 UTC 2018: Found element on the queue
+Wed May 16 01:00:42 UTC 2018: Updating status
+Wed May 16 01:00:42 UTC 2018: Working
+Wed May 16 01:00:45 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.MasterFaultToleranceIntegrationTest
+Wed May 16 01:00:45 UTC 2018: Setting lastTestMethodIndex: 54210
+Wed May 16 01:00:45 UTC 2018: Starting linking
+Wed May 16 01:00:45 UTC 2018: No link for: tachyon.master.MasterFaultToleranceIntegrationTest-deleteFileFaultTest
+Wed May 16 01:00:45 UTC 2018: No link for: tachyon.master.MasterFaultToleranceIntegrationTest-createFileFaultTest
+Wed May 16 01:00:46 UTC 2018: No link for: tachyon.master.MasterFaultToleranceIntegrationTest-killStandbyTest
+Wed May 16 01:00:46 UTC 2018: No link for: tachyon.master.MasterFaultToleranceIntegrationTest-createFilesTest
+Wed May 16 01:00:46 UTC 2018: No link for: tachyon.master.MasterFaultToleranceIntegrationTest-workerReRegisterTest
+Wed May 16 01:00:46 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.MasterFaultToleranceIntegrationTest
+Wed May 16 01:00:47 UTC 2018: Found element on the queue
+Wed May 16 01:00:47 UTC 2018: Updating status
+Wed May 16 01:00:47 UTC 2018: Working
+Wed May 16 01:00:49 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.file.FileSystemMasterIntegrationTest
+Wed May 16 01:00:49 UTC 2018: Setting lastTestMethodIndex: 54212
+Wed May 16 01:00:49 UTC 2018: Starting linking
+Wed May 16 01:00:49 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.file.FileSystemMasterIntegrationTest
+Wed May 16 01:00:50 UTC 2018: Found element on the queue
+Wed May 16 01:00:50 UTC 2018: Updating status
+Wed May 16 01:00:50 UTC 2018: Working
+Wed May 16 01:00:52 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.JournalIntegrationTest
+Wed May 16 01:00:52 UTC 2018: Setting lastTestMethodIndex: 54214
+Wed May 16 01:00:52 UTC 2018: Starting linking
+Wed May 16 01:00:52 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-renameTest
+Wed May 16 01:00:53 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-fileDirectoryTest
+Wed May 16 01:00:53 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-fileTest
+Wed May 16 01:00:53 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-emptyImageTest
+Wed May 16 01:00:53 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-pinTest
+Wed May 16 01:00:54 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-loadMetadataTest
+Wed May 16 01:00:54 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-multiEditLogTest
+Wed May 16 01:00:54 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-deleteTest
+Wed May 16 01:00:54 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-rawTableTest
+Wed May 16 01:00:55 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-manyFileTest
+Wed May 16 01:00:55 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-addBlockTest
+Wed May 16 01:00:55 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-directoryTest
+Wed May 16 01:00:55 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-completedEditLogDeletionTest
+Wed May 16 01:00:56 UTC 2018: No link for: tachyon.master.JournalIntegrationTest-persistDirectoryLaterTest
+Wed May 16 01:00:56 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.JournalIntegrationTest
+Wed May 16 01:00:56 UTC 2018: Found element on the queue
+Wed May 16 01:00:56 UTC 2018: Updating status
+Wed May 16 01:00:56 UTC 2018: Working
+Wed May 16 01:00:59 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.FileSystemMasterClientIntegrationTest
+Wed May 16 01:00:59 UTC 2018: Setting lastTestMethodIndex: 54217
+Wed May 16 01:00:59 UTC 2018: Starting linking
+Wed May 16 01:00:59 UTC 2018: No link for: tachyon.master.FileSystemMasterClientIntegrationTest-user_getClientBlockInfoReturnsOnError
+Wed May 16 01:00:59 UTC 2018: No link for: tachyon.master.FileSystemMasterClientIntegrationTest-openCloseTest
+Wed May 16 01:01:00 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.FileSystemMasterClientIntegrationTest
+Wed May 16 01:01:00 UTC 2018: Found element on the queue
+Wed May 16 01:01:00 UTC 2018: Updating status
+Wed May 16 01:01:00 UTC 2018: Working
+Wed May 16 01:01:03 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.PinIntegrationTest
+Wed May 16 01:01:03 UTC 2018: Setting lastTestMethodIndex: 54219
+Wed May 16 01:01:03 UTC 2018: Starting linking
+Wed May 16 01:01:03 UTC 2018: No link for: tachyon.master.PinIntegrationTest-newFilesInheritPinness
+Wed May 16 01:01:03 UTC 2018: No link for: tachyon.master.PinIntegrationTest-recursivePinness
+Wed May 16 01:01:03 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.PinIntegrationTest
+Wed May 16 01:01:04 UTC 2018: Found element on the queue
+Wed May 16 01:01:04 UTC 2018: Updating status
+Wed May 16 01:01:04 UTC 2018: Working
+Wed May 16 01:01:04 UTC 2018: Create project parser
+Wed May 16 01:01:09 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.SpaceReserverTest
+Wed May 16 01:01:09 UTC 2018: Setting lastTestMethodIndex: 54221
+Wed May 16 01:01:09 UTC 2018: Starting linking
+Wed May 16 01:01:09 UTC 2018: No link for: tachyon.worker.block.SpaceReserverTest-reserveTest
+Wed May 16 01:01:10 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.SpaceReserverTest
+Wed May 16 01:01:10 UTC 2018: Found element on the queue
+Wed May 16 01:01:10 UTC 2018: Updating status
+Wed May 16 01:01:10 UTC 2018: Working
+Wed May 16 01:01:13 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.allocator.MaxFreeAllocatorTest
+Wed May 16 01:01:13 UTC 2018: Setting lastTestMethodIndex: 54224
+Wed May 16 01:01:13 UTC 2018: Starting linking
+Wed May 16 01:01:13 UTC 2018: No link for: tachyon.worker.block.allocator.MaxFreeAllocatorTest-allocateBlockTest
+Wed May 16 01:01:13 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.allocator.MaxFreeAllocatorTest
+Wed May 16 01:01:13 UTC 2018: Found element on the queue
+Wed May 16 01:01:13 UTC 2018: Updating status
+Wed May 16 01:01:13 UTC 2018: Working
+Wed May 16 01:01:16 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.allocator.RoundRobinAllocatorTest
+Wed May 16 01:01:16 UTC 2018: Setting lastTestMethodIndex: 54225
+Wed May 16 01:01:16 UTC 2018: Starting linking
+Wed May 16 01:01:16 UTC 2018: No link for: tachyon.worker.block.allocator.RoundRobinAllocatorTest-allocateBlockTest
+Wed May 16 01:01:16 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.allocator.RoundRobinAllocatorTest
+Wed May 16 01:01:16 UTC 2018: Found element on the queue
+Wed May 16 01:01:16 UTC 2018: Updating status
+Wed May 16 01:01:16 UTC 2018: Working
+Wed May 16 01:01:19 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.allocator.GreedyAllocatorTest
+Wed May 16 01:01:19 UTC 2018: Setting lastTestMethodIndex: 54228
+Wed May 16 01:01:19 UTC 2018: Starting linking
+Wed May 16 01:01:19 UTC 2018: No link for: tachyon.worker.block.allocator.GreedyAllocatorTest-allocateBlockTest
+Wed May 16 01:01:19 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.allocator.GreedyAllocatorTest
+Wed May 16 01:01:20 UTC 2018: Found element on the queue
+Wed May 16 01:01:20 UTC 2018: Updating status
+Wed May 16 01:01:20 UTC 2018: Working
+Wed May 16 01:01:22 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.allocator.AllocatorFactoryTest
+Wed May 16 01:01:22 UTC 2018: Setting lastTestMethodIndex: 54230
+Wed May 16 01:01:22 UTC 2018: Starting linking
+Wed May 16 01:01:22 UTC 2018: No link for: tachyon.worker.block.allocator.AllocatorFactoryTest-createGreedyAllocatorTest
+Wed May 16 01:01:23 UTC 2018: No link for: tachyon.worker.block.allocator.AllocatorFactoryTest-createMaxFreeAllocatorTest
+Wed May 16 01:01:23 UTC 2018: No link for: tachyon.worker.block.allocator.AllocatorFactoryTest-createRoundRobinAllocatorTest
+Wed May 16 01:01:23 UTC 2018: No link for: tachyon.worker.block.allocator.AllocatorFactoryTest-createDefaultAllocatorTest
+Wed May 16 01:01:24 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.allocator.AllocatorFactoryTest
+Wed May 16 01:01:24 UTC 2018: Found element on the queue
+Wed May 16 01:01:24 UTC 2018: Updating status
+Wed May 16 01:01:24 UTC 2018: Working
+Wed May 16 01:01:27 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.allocator.AllocatorContractTest
+Wed May 16 01:01:27 UTC 2018: Setting lastTestMethodIndex: 54233
+Wed May 16 01:01:27 UTC 2018: Starting linking
+Wed May 16 01:01:27 UTC 2018: No link for: tachyon.worker.block.allocator.AllocatorContractTest-shouldNotAllocateTest
+Wed May 16 01:01:27 UTC 2018: No link for: tachyon.worker.block.allocator.AllocatorContractTest-shouldAllocateTest
+Wed May 16 01:01:27 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.allocator.AllocatorContractTest
+Wed May 16 01:01:28 UTC 2018: Found element on the queue
+Wed May 16 01:01:28 UTC 2018: Updating status
+Wed May 16 01:01:28 UTC 2018: Working
+Wed May 16 01:01:30 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.BlockHeartbeatReporterTest
+Wed May 16 01:01:30 UTC 2018: Setting lastTestMethodIndex: 54237
+Wed May 16 01:01:30 UTC 2018: Starting linking
+Wed May 16 01:01:30 UTC 2018: Code found tachyon.worker.block.BlockHeartbeatReporter-generateReport with tachyon.worker.block.BlockHeartbeatReporterTest-generateReportRemoveTest
+Wed May 16 01:01:31 UTC 2018: Code found tachyon.worker.block.BlockHeartbeatReporter-generateReport with tachyon.worker.block.BlockHeartbeatReporterTest-generateReportEmptyTest
+Wed May 16 01:01:31 UTC 2018: Code found tachyon.worker.block.BlockHeartbeatReporter-generateReport with tachyon.worker.block.BlockHeartbeatReporterTest-generateReportStateClearTest
+Wed May 16 01:01:31 UTC 2018: Code found tachyon.worker.block.BlockHeartbeatReporter-generateReport with tachyon.worker.block.BlockHeartbeatReporterTest-generateReportMoveTest
+Wed May 16 01:01:31 UTC 2018: Code found tachyon.worker.block.BlockHeartbeatReporter-generateReport with tachyon.worker.block.BlockHeartbeatReporterTest-generateReportMoveThenRemoveTest
+Wed May 16 01:01:32 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.BlockHeartbeatReporterTest
+Wed May 16 01:01:32 UTC 2018: Found element on the queue
+Wed May 16 01:01:32 UTC 2018: Updating status
+Wed May 16 01:01:32 UTC 2018: Working
+Wed May 16 01:01:35 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.meta.TempBlockMetaTest
+Wed May 16 01:01:35 UTC 2018: Setting lastTestMethodIndex: 54240
+Wed May 16 01:01:35 UTC 2018: Starting linking
+Wed May 16 01:01:35 UTC 2018: Code found tachyon.worker.block.meta.TempBlockMeta-getPath with tachyon.worker.block.meta.TempBlockMetaTest-getPathTest
+Wed May 16 01:01:35 UTC 2018: Code found tachyon.worker.block.meta.TempBlockMeta-getSessionId with tachyon.worker.block.meta.TempBlockMetaTest-getSessionIdTest
+Wed May 16 01:01:35 UTC 2018: Code found tachyon.worker.block.meta.TempBlockMeta-getCommitPath with tachyon.worker.block.meta.TempBlockMetaTest-getCommitPathTest
+Wed May 16 01:01:36 UTC 2018: Code found tachyon.worker.block.meta.TempBlockMeta-setBlockSize with tachyon.worker.block.meta.TempBlockMetaTest-setBlockSizeTest
+Wed May 16 01:01:36 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.meta.TempBlockMetaTest
+Wed May 16 01:01:36 UTC 2018: Found element on the queue
+Wed May 16 01:01:36 UTC 2018: Updating status
+Wed May 16 01:01:36 UTC 2018: Working
+Wed May 16 01:01:39 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.meta.StorageTierViewTest
+Wed May 16 01:01:39 UTC 2018: Setting lastTestMethodIndex: 54242
+Wed May 16 01:01:39 UTC 2018: Starting linking
+Wed May 16 01:01:39 UTC 2018: Code found tachyon.worker.block.meta.StorageTierView-getDirViews with tachyon.worker.block.meta.StorageTierViewTest-getDirViewsTest
+Wed May 16 01:01:39 UTC 2018: Code found tachyon.worker.block.meta.StorageTierView-getTierViewAlias with tachyon.worker.block.meta.StorageTierViewTest-getTierViewAliasTest
+Wed May 16 01:01:40 UTC 2018: Code found tachyon.worker.block.meta.StorageTierView-getTierViewLevel with tachyon.worker.block.meta.StorageTierViewTest-getTierViewLevelTest
+Wed May 16 01:01:40 UTC 2018: Code found tachyon.worker.block.meta.StorageTierView-getDirView with tachyon.worker.block.meta.StorageTierViewTest-getDirViewTest
+Wed May 16 01:01:40 UTC 2018: Code found tachyon.worker.block.meta.StorageTierView-getDirView with tachyon.worker.block.meta.StorageTierViewTest-getDirViewBadIndexTest
+Wed May 16 01:01:40 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.meta.StorageTierViewTest
+Wed May 16 01:01:41 UTC 2018: Found element on the queue
+Wed May 16 01:01:41 UTC 2018: Updating status
+Wed May 16 01:01:41 UTC 2018: Working
+Wed May 16 01:01:44 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.meta.StorageDirTest
+Wed May 16 01:01:44 UTC 2018: Setting lastTestMethodIndex: 54245
+Wed May 16 01:01:44 UTC 2018: Starting linking
+Wed May 16 01:01:44 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-getDirPath with tachyon.worker.block.meta.StorageDirTest-getDirPathTest
+Wed May 16 01:01:44 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-getBlockMeta with tachyon.worker.block.meta.StorageDirTest-getBlockMetaNotExistingTest
+Wed May 16 01:01:44 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-addTempBlockMeta with tachyon.worker.block.meta.StorageDirTest-addTempBlockMetaTooBigTest
+Wed May 16 01:01:44 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-addTempBlockMeta with tachyon.worker.block.meta.StorageDirTest-addTempBlockMetaExistingTest
+Wed May 16 01:01:45 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-resizeTempBlockMeta with tachyon.worker.block.meta.StorageDirTest-resizeTempBlockMetaNoAvailableBytesTest
+Wed May 16 01:01:45 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-getParentTier with tachyon.worker.block.meta.StorageDirTest-getParentTierTest
+Wed May 16 01:01:45 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-resizeTempBlockMeta with tachyon.worker.block.meta.StorageDirTest-resizeTempBlockMetaInvalidStateExceptionTest
+Wed May 16 01:01:45 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-removeTempBlockMeta with tachyon.worker.block.meta.StorageDirTest-removeTempBlockMetaNotExistingTest
+Wed May 16 01:01:46 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-toBlockStoreLocation with tachyon.worker.block.meta.StorageDirTest-toBlockStoreLocationTest
+Wed May 16 01:01:46 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-removeBlockMeta with tachyon.worker.block.meta.StorageDirTest-removeBlockMetaNotExistingTest
+Wed May 16 01:01:46 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-addBlockMeta with tachyon.worker.block.meta.StorageDirTest-addBlockMetaTooBigTest
+Wed May 16 01:01:46 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-removeTempBlockMeta with tachyon.worker.block.meta.StorageDirTest-removeTempBlockMetaNotOwnerTest
+Wed May 16 01:01:47 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-getDirIndex with tachyon.worker.block.meta.StorageDirTest-getDirIndexTest
+Wed May 16 01:01:47 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-getBlockIds with tachyon.worker.block.meta.StorageDirTest-getBlockIdsTest
+Wed May 16 01:01:47 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-resizeTempBlockMeta with tachyon.worker.block.meta.StorageDirTest-resizeTempBlockMetaTest
+Wed May 16 01:01:47 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-getBlocks with tachyon.worker.block.meta.StorageDirTest-getBlocksTest
+Wed May 16 01:01:48 UTC 2018: Code found tachyon.worker.block.meta.StorageDir-addBlockMeta with tachyon.worker.block.meta.StorageDirTest-addBlockMetaExistingTest
+Wed May 16 01:01:48 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-getTempBlockMetaNotExistingTest
+Wed May 16 01:01:48 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-initializeMetaDeleteInappropriateFileTest
+Wed May 16 01:01:48 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-initializeMetaBlockLargerThanCapacityTest
+Wed May 16 01:01:49 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-cleanupSessionTest
+Wed May 16 01:01:49 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-tempBlockMetaTest
+Wed May 16 01:01:49 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-initializeMetaNoExceptionTest
+Wed May 16 01:01:49 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-getBytesTest
+Wed May 16 01:01:50 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-initializeMetaDeleteInappropriateDirTest
+Wed May 16 01:01:50 UTC 2018: No link for: tachyon.worker.block.meta.StorageDirTest-blockMetaTest
+Wed May 16 01:01:50 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.meta.StorageDirTest
+Wed May 16 01:01:51 UTC 2018: Found element on the queue
+Wed May 16 01:01:51 UTC 2018: Updating status
+Wed May 16 01:01:51 UTC 2018: Working
+Wed May 16 01:01:53 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.meta.BlockMetaTest
+Wed May 16 01:01:53 UTC 2018: Setting lastTestMethodIndex: 54250
+Wed May 16 01:01:53 UTC 2018: Starting linking
+Wed May 16 01:01:53 UTC 2018: Code found tachyon.worker.block.meta.BlockMeta-getBlockSize with tachyon.worker.block.meta.BlockMetaTest-getBlockSizeTest
+Wed May 16 01:01:54 UTC 2018: Code found tachyon.worker.block.meta.BlockMeta-getPath with tachyon.worker.block.meta.BlockMetaTest-getPathTest
+Wed May 16 01:01:54 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.meta.BlockMetaTest
+Wed May 16 01:01:54 UTC 2018: Found element on the queue
+Wed May 16 01:01:54 UTC 2018: Updating status
+Wed May 16 01:01:54 UTC 2018: Working
+Wed May 16 01:01:57 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.meta.StorageTierTest
+Wed May 16 01:01:57 UTC 2018: Setting lastTestMethodIndex: 54252
+Wed May 16 01:01:57 UTC 2018: Starting linking
+Wed May 16 01:01:57 UTC 2018: Code found tachyon.worker.block.meta.StorageTier-getAvailableBytes with tachyon.worker.block.meta.StorageTierTest-getAvailableBytesTest
+Wed May 16 01:01:57 UTC 2018: Code found tachyon.worker.block.meta.StorageTier-getCapacityBytes with tachyon.worker.block.meta.StorageTierTest-getCapacityBytesTest
+Wed May 16 01:01:57 UTC 2018: Code found tachyon.worker.block.meta.StorageTier-getDir with tachyon.worker.block.meta.StorageTierTest-getDirTest
+Wed May 16 01:01:58 UTC 2018: Code found tachyon.worker.block.meta.StorageTier-getTierLevel with tachyon.worker.block.meta.StorageTierTest-getTierLevelTest
+Wed May 16 01:01:58 UTC 2018: Code found tachyon.worker.block.meta.StorageTier-getTierAlias with tachyon.worker.block.meta.StorageTierTest-getTierAliasTest
+Wed May 16 01:01:58 UTC 2018: Code found tachyon.worker.block.meta.StorageTier-getStorageDirs with tachyon.worker.block.meta.StorageTierTest-getStorageDirsTest
+Wed May 16 01:01:58 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.meta.StorageTierTest
+Wed May 16 01:01:59 UTC 2018: Found element on the queue
+Wed May 16 01:01:59 UTC 2018: Updating status
+Wed May 16 01:01:59 UTC 2018: Working
+Wed May 16 01:02:01 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.meta.BlockMetaBaseTest
+Wed May 16 01:02:01 UTC 2018: Setting lastTestMethodIndex: 54254
+Wed May 16 01:02:01 UTC 2018: Starting linking
+Wed May 16 01:02:01 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.meta.BlockMetaBaseTest
+Wed May 16 01:02:02 UTC 2018: Found element on the queue
+Wed May 16 01:02:02 UTC 2018: Updating status
+Wed May 16 01:02:02 UTC 2018: Working
+Wed May 16 01:02:04 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.meta.StorageDirViewTest
+Wed May 16 01:02:04 UTC 2018: Setting lastTestMethodIndex: 54256
+Wed May 16 01:02:04 UTC 2018: Starting linking
+Wed May 16 01:02:04 UTC 2018: Code found tachyon.worker.block.meta.StorageDirView-getDirViewIndex with tachyon.worker.block.meta.StorageDirViewTest-getDirViewIndexTest
+Wed May 16 01:02:05 UTC 2018: Code found tachyon.worker.block.meta.StorageDirView-createTempBlockMeta with tachyon.worker.block.meta.StorageDirViewTest-createTempBlockMetaTest
+Wed May 16 01:02:05 UTC 2018: Code found tachyon.worker.block.meta.StorageDirView-getParentTierView with tachyon.worker.block.meta.StorageDirViewTest-getParentTierViewTest
+Wed May 16 01:02:05 UTC 2018: Code found tachyon.worker.block.meta.StorageDirView-toBlockStoreLocation with tachyon.worker.block.meta.StorageDirViewTest-toBlockStoreLocationTest
+Wed May 16 01:02:06 UTC 2018: Code found tachyon.worker.block.meta.StorageDirView-getCapacityBytes with tachyon.worker.block.meta.StorageDirViewTest-getCapacityBytesTest
+Wed May 16 01:02:06 UTC 2018: Code found tachyon.worker.block.meta.StorageDirView-getAvailableBytes with tachyon.worker.block.meta.StorageDirViewTest-getAvailableBytesTest
+Wed May 16 01:02:06 UTC 2018: Code found tachyon.worker.block.meta.StorageDirView-getCommittedBytes with tachyon.worker.block.meta.StorageDirViewTest-getCommittedBytesTest
+Wed May 16 01:02:06 UTC 2018: Code found tachyon.worker.block.meta.StorageDirView-getEvictableBlocks with tachyon.worker.block.meta.StorageDirViewTest-getEvictableBlocksTest
+Wed May 16 01:02:07 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.meta.StorageDirViewTest
+Wed May 16 01:02:07 UTC 2018: Found element on the queue
+Wed May 16 01:02:07 UTC 2018: Updating status
+Wed May 16 01:02:07 UTC 2018: Working
+Wed May 16 01:02:10 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.BlockMetadataManagerViewTest
+Wed May 16 01:02:10 UTC 2018: Setting lastTestMethodIndex: 54259
+Wed May 16 01:02:10 UTC 2018: Starting linking
+Wed May 16 01:02:10 UTC 2018: Code found tachyon.worker.block.BlockMetadataManagerView-getBlockMeta with tachyon.worker.block.BlockMetadataManagerViewTest-getBlockMetaTest
+Wed May 16 01:02:10 UTC 2018: Code found tachyon.worker.block.BlockMetadataManagerView-isBlockPinned with tachyon.worker.block.BlockMetadataManagerViewTest-isBlockPinnedOrLockedTest
+Wed May 16 01:02:10 UTC 2018: Code found tachyon.worker.block.BlockMetadataManagerView-getTierView with tachyon.worker.block.BlockMetadataManagerViewTest-getTierViewTest
+Wed May 16 01:02:10 UTC 2018: Code found tachyon.worker.block.BlockMetadataManagerView-getTierViews with tachyon.worker.block.BlockMetadataManagerViewTest-getTierViewsTest
+Wed May 16 01:02:11 UTC 2018: Code found tachyon.worker.block.BlockMetadataManagerView-getBlockMeta with tachyon.worker.block.BlockMetadataManagerViewTest-getBlockMetaNotExistingTest
+Wed May 16 01:02:11 UTC 2018: Code found tachyon.worker.block.BlockMetadataManagerView-getTierViewsBelow with tachyon.worker.block.BlockMetadataManagerViewTest-getTierViewsBelowTest
+Wed May 16 01:02:11 UTC 2018: Code found tachyon.worker.block.BlockMetadataManagerView-getAvailableBytes with tachyon.worker.block.BlockMetadataManagerViewTest-getAvailableBytesTest
+Wed May 16 01:02:11 UTC 2018: No link for: tachyon.worker.block.BlockMetadataManagerViewTest-sameTierViewTest
+Wed May 16 01:02:12 UTC 2018: No link for: tachyon.worker.block.BlockMetadataManagerViewTest-sameTierViewsBelowTest
+Wed May 16 01:02:12 UTC 2018: No link for: tachyon.worker.block.BlockMetadataManagerViewTest-getTierNotExistingTest
+Wed May 16 01:02:12 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.BlockMetadataManagerViewTest
+Wed May 16 01:02:13 UTC 2018: Found element on the queue
+Wed May 16 01:02:13 UTC 2018: Updating status
+Wed May 16 01:02:13 UTC 2018: Working
+Wed May 16 01:02:15 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.BlockStoreLocationTest
+Wed May 16 01:02:15 UTC 2018: Setting lastTestMethodIndex: 54262
+Wed May 16 01:02:15 UTC 2018: Starting linking
+Wed May 16 01:02:15 UTC 2018: Code found tachyon.worker.block.BlockStoreLocation-belongTo with tachyon.worker.block.BlockStoreLocationTest-testBelongTo
+Wed May 16 01:02:16 UTC 2018: No link for: tachyon.worker.block.BlockStoreLocationTest-newLocationTest
+Wed May 16 01:02:16 UTC 2018: No link for: tachyon.worker.block.BlockStoreLocationTest-equalsTest
+Wed May 16 01:02:16 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.BlockStoreLocationTest
+Wed May 16 01:02:17 UTC 2018: Found element on the queue
+Wed May 16 01:02:17 UTC 2018: Updating status
+Wed May 16 01:02:17 UTC 2018: Working
+Wed May 16 01:02:19 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.io.LocalFileBlockReaderTest
+Wed May 16 01:02:19 UTC 2018: Setting lastTestMethodIndex: 54265
+Wed May 16 01:02:19 UTC 2018: Starting linking
+Wed May 16 01:02:19 UTC 2018: Code found tachyon.worker.block.io.LocalFileBlockReader-getChannel with tachyon.worker.block.io.LocalFileBlockReaderTest-getChannelTest
+Wed May 16 01:02:19 UTC 2018: Code found tachyon.worker.block.io.LocalFileBlockReader-read with tachyon.worker.block.io.LocalFileBlockReaderTest-readWithInvalidArgumentTest
+Wed May 16 01:02:20 UTC 2018: Code found tachyon.worker.block.io.LocalFileBlockReader-close with tachyon.worker.block.io.LocalFileBlockReaderTest-closeTest
+Wed May 16 01:02:20 UTC 2018: Code found tachyon.worker.block.io.LocalFileBlockReader-read with tachyon.worker.block.io.LocalFileBlockReaderTest-readTest
+Wed May 16 01:02:20 UTC 2018: Code found tachyon.worker.block.io.LocalFileBlockReader-getLength with tachyon.worker.block.io.LocalFileBlockReaderTest-getLengthTest
+Wed May 16 01:02:20 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.io.LocalFileBlockReaderTest
+Wed May 16 01:02:21 UTC 2018: Found element on the queue
+Wed May 16 01:02:21 UTC 2018: Updating status
+Wed May 16 01:02:21 UTC 2018: Working
+Wed May 16 01:02:23 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.io.LocalFileBlockWriterTest
+Wed May 16 01:02:23 UTC 2018: Setting lastTestMethodIndex: 54267
+Wed May 16 01:02:23 UTC 2018: Starting linking
+Wed May 16 01:02:23 UTC 2018: Code found tachyon.worker.block.io.LocalFileBlockWriter-getChannel with tachyon.worker.block.io.LocalFileBlockWriterTest-getChannelTest
+Wed May 16 01:02:24 UTC 2018: Code found tachyon.worker.block.io.LocalFileBlockWriter-append with tachyon.worker.block.io.LocalFileBlockWriterTest-appendTest
+Wed May 16 01:02:24 UTC 2018: Code found tachyon.worker.block.io.LocalFileBlockWriter-close with tachyon.worker.block.io.LocalFileBlockWriterTest-closeTest
+Wed May 16 01:02:24 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.io.LocalFileBlockWriterTest
+Wed May 16 01:02:25 UTC 2018: Found element on the queue
+Wed May 16 01:02:25 UTC 2018: Updating status
+Wed May 16 01:02:25 UTC 2018: Working
+Wed May 16 01:02:27 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.BlockLockManagerTest
+Wed May 16 01:02:27 UTC 2018: Setting lastTestMethodIndex: 54268
+Wed May 16 01:02:27 UTC 2018: Starting linking
+Wed May 16 01:02:27 UTC 2018: Code found tachyon.worker.block.BlockLockManager-validateLock with tachyon.worker.block.BlockLockManagerTest-validateLockIdWithNoRecordTest
+Wed May 16 01:02:28 UTC 2018: Code found tachyon.worker.block.BlockLockManager-validateLock with tachyon.worker.block.BlockLockManagerTest-validateLockIdWithWrongBlockIdTest
+Wed May 16 01:02:28 UTC 2018: Code found tachyon.worker.block.BlockLockManager-validateLock with tachyon.worker.block.BlockLockManagerTest-validateLockIdWithWrongSessionIdTest
+Wed May 16 01:02:28 UTC 2018: Code found tachyon.worker.block.BlockLockManager-cleanupSession with tachyon.worker.block.BlockLockManagerTest-cleanupSessionTest
+Wed May 16 01:02:28 UTC 2018: Code found tachyon.worker.block.BlockLockManager-lockBlock with tachyon.worker.block.BlockLockManagerTest-lockBlockTest
+Wed May 16 01:02:29 UTC 2018: No link for: tachyon.worker.block.BlockLockManagerTest-unlockNonExistingLockTest
+Wed May 16 01:02:29 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.BlockLockManagerTest
+Wed May 16 01:02:29 UTC 2018: Found element on the queue
+Wed May 16 01:02:29 UTC 2018: Updating status
+Wed May 16 01:02:29 UTC 2018: Working
+Wed May 16 01:02:32 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.BlockDataManagerTest
+Wed May 16 01:02:32 UTC 2018: Setting lastTestMethodIndex: 54271
+Wed May 16 01:02:32 UTC 2018: Starting linking
+Wed May 16 01:02:32 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.BlockDataManagerTest
+Wed May 16 01:02:32 UTC 2018: Found element on the queue
+Wed May 16 01:02:32 UTC 2018: Updating status
+Wed May 16 01:02:32 UTC 2018: Working
+Wed May 16 01:02:35 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.evictor.LRFUEvictorTest
+Wed May 16 01:02:35 UTC 2018: Setting lastTestMethodIndex: 54274
+Wed May 16 01:02:35 UTC 2018: Starting linking
+Wed May 16 01:02:35 UTC 2018: No link for: tachyon.worker.block.evictor.LRFUEvictorTest-cascadingEvictionTest1
+Wed May 16 01:02:35 UTC 2018: No link for: tachyon.worker.block.evictor.LRFUEvictorTest-evictInBottomTierTest
+Wed May 16 01:02:36 UTC 2018: No link for: tachyon.worker.block.evictor.LRFUEvictorTest-cascadingEvictionTest2
+Wed May 16 01:02:36 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.evictor.LRFUEvictorTest
+Wed May 16 01:02:36 UTC 2018: Found element on the queue
+Wed May 16 01:02:36 UTC 2018: Updating status
+Wed May 16 01:02:36 UTC 2018: Working
+Wed May 16 01:02:39 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.evictor.EvictorFactoryTest
+Wed May 16 01:02:39 UTC 2018: Setting lastTestMethodIndex: 54277
+Wed May 16 01:02:39 UTC 2018: Starting linking
+Wed May 16 01:02:39 UTC 2018: No link for: tachyon.worker.block.evictor.EvictorFactoryTest-createDefaultEvictorTest
+Wed May 16 01:02:39 UTC 2018: No link for: tachyon.worker.block.evictor.EvictorFactoryTest-createLRUEvictorTest
+Wed May 16 01:02:39 UTC 2018: No link for: tachyon.worker.block.evictor.EvictorFactoryTest-createGreedyEvictorTest
+Wed May 16 01:02:40 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.evictor.EvictorFactoryTest
+Wed May 16 01:02:40 UTC 2018: Found element on the queue
+Wed May 16 01:02:40 UTC 2018: Updating status
+Wed May 16 01:02:40 UTC 2018: Working
+Wed May 16 01:02:43 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.BlockStoreMetaTest
+Wed May 16 01:02:43 UTC 2018: Setting lastTestMethodIndex: 54280
+Wed May 16 01:02:43 UTC 2018: Starting linking
+Wed May 16 01:02:43 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getCapacityBytes with tachyon.worker.block.BlockStoreMetaTest-getCapacityBytesTest
+Wed May 16 01:02:43 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getUsedBytesOnDirs with tachyon.worker.block.BlockStoreMetaTest-getUsedBytesOnDirsTest
+Wed May 16 01:02:43 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getUsedBytesOnTiers with tachyon.worker.block.BlockStoreMetaTest-getUsedBytesOnTiersTest
+Wed May 16 01:02:44 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getBlockList with tachyon.worker.block.BlockStoreMetaTest-getBlockListTest
+Wed May 16 01:02:44 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getUsedBytes with tachyon.worker.block.BlockStoreMetaTest-getUsedBytesTest
+Wed May 16 01:02:44 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getDirPaths with tachyon.worker.block.BlockStoreMetaTest-getDirPathsTest
+Wed May 16 01:02:44 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getNumberOfBlocks with tachyon.worker.block.BlockStoreMetaTest-getNumberOfBlocksTest
+Wed May 16 01:02:45 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getCapacityBytesOnTiers with tachyon.worker.block.BlockStoreMetaTest-getCapacityBytesOnTiersTest
+Wed May 16 01:02:45 UTC 2018: Code found tachyon.worker.block.BlockStoreMeta-getCapacityBytesOnDirs with tachyon.worker.block.BlockStoreMetaTest-getCapacityBytesOnDirsTest
+Wed May 16 01:02:45 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.BlockStoreMetaTest
+Wed May 16 01:02:46 UTC 2018: Found element on the queue
+Wed May 16 01:02:46 UTC 2018: Updating status
+Wed May 16 01:02:46 UTC 2018: Working
+Wed May 16 01:02:49 UTC 2018: Start JoeChien23__tachyon test class tachyon.worker.block.BlockMetadataManagerTest
+Wed May 16 01:02:49 UTC 2018: Setting lastTestMethodIndex: 54283
+Wed May 16 01:02:49 UTC 2018: Starting linking
+Wed May 16 01:02:49 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-moveBlockMeta with tachyon.worker.block.BlockMetadataManagerTest-moveBlockMetaDiffDirTest
+Wed May 16 01:02:49 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getBlockMeta with tachyon.worker.block.BlockMetadataManagerTest-getBlockMetaNotExistingTest
+Wed May 16 01:02:49 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-moveBlockMeta with tachyon.worker.block.BlockMetadataManagerTest-moveBlockMetaOutOfSpaceExceptionTest
+Wed May 16 01:02:50 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-moveBlockMeta with tachyon.worker.block.BlockMetadataManagerTest-moveBlockMetaSameDirTest
+Wed May 16 01:02:50 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getTiersBelow with tachyon.worker.block.BlockMetadataManagerTest-getTiersBelowTest
+Wed May 16 01:02:50 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getAvailableBytes with tachyon.worker.block.BlockMetadataManagerTest-getAvailableBytesTest
+Wed May 16 01:02:51 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-moveBlockMeta with tachyon.worker.block.BlockMetadataManagerTest-moveBlockMetaDeprecatedExceedCapacityTest
+Wed May 16 01:02:51 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getBlockStoreMeta with tachyon.worker.block.BlockMetadataManagerTest-getBlockStoreMetaTest
+Wed May 16 01:02:51 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getTier with tachyon.worker.block.BlockMetadataManagerTest-getTierTest
+Wed May 16 01:02:52 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getDir with tachyon.worker.block.BlockMetadataManagerTest-getDirTest
+Wed May 16 01:02:52 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getTier with tachyon.worker.block.BlockMetadataManagerTest-getTierNotExistingTest
+Wed May 16 01:02:52 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getTempBlockMeta with tachyon.worker.block.BlockMetadataManagerTest-getTempBlockMetaNotExistingTest
+Wed May 16 01:02:53 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-moveBlockMeta with tachyon.worker.block.BlockMetadataManagerTest-moveBlockMetaDeprecatedTest
+Wed May 16 01:02:53 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-getTiers with tachyon.worker.block.BlockMetadataManagerTest-getTiersTest
+Wed May 16 01:02:53 UTC 2018: Code found tachyon.worker.block.BlockMetadataManager-resizeTempBlockMeta with tachyon.worker.block.BlockMetadataManagerTest-resizeTempBlockMetaTest
+Wed May 16 01:02:54 UTC 2018: No link for: tachyon.worker.block.BlockMetadataManagerTest-blockMetaTest
+Wed May 16 01:02:54 UTC 2018: No link for: tachyon.worker.block.BlockMetadataManagerTest-cleanupSessionTest
+Wed May 16 01:02:54 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.worker.block.BlockMetadataManagerTest
+Wed May 16 01:02:55 UTC 2018: Found element on the queue
+Wed May 16 01:02:55 UTC 2018: Updating status
+Wed May 16 01:02:55 UTC 2018: Working
+Wed May 16 01:02:57 UTC 2018: Start JoeChien23__tachyon test class tachyon.network.protocol.RPCBlockReadRequestTest
+Wed May 16 01:02:57 UTC 2018: Setting lastTestMethodIndex: 54286
+Wed May 16 01:02:57 UTC 2018: Starting linking
+Wed May 16 01:02:57 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadRequestTest-negativeOffsetTest
+Wed May 16 01:02:58 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadRequestTest-encodedLengthTest
+Wed May 16 01:02:58 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadRequestTest-validateTest
+Wed May 16 01:02:58 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadRequestTest-validLengthTest
+Wed May 16 01:02:59 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadRequestTest-invalidLengthTest
+Wed May 16 01:02:59 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadRequestTest-encodeDecodeTest
+Wed May 16 01:02:59 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.network.protocol.RPCBlockReadRequestTest
+Wed May 16 01:03:00 UTC 2018: Found element on the queue
+Wed May 16 01:03:00 UTC 2018: Updating status
+Wed May 16 01:03:00 UTC 2018: Working
+Wed May 16 01:03:02 UTC 2018: Start JoeChien23__tachyon test class tachyon.network.protocol.databuffer.DataNettyBufferTest
+Wed May 16 01:03:02 UTC 2018: Setting lastTestMethodIndex: 54288
+Wed May 16 01:03:02 UTC 2018: Starting linking
+Wed May 16 01:03:02 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataNettyBufferTest-singleNioBufferCheckFailedTest
+Wed May 16 01:03:03 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataNettyBufferTest-getNettyOutputNotSupportedTest
+Wed May 16 01:03:03 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataNettyBufferTest-releaseBufferFailTest
+Wed May 16 01:03:03 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataNettyBufferTest-bufferAlreadyReleasedTest
+Wed May 16 01:03:04 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataNettyBufferTest-refCountCheckFailedTest
+Wed May 16 01:03:04 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataNettyBufferTest-lengthTest
+Wed May 16 01:03:04 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataNettyBufferTest-readOnlyByteBufferTest
+Wed May 16 01:03:05 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataNettyBufferTest-releaseBufferTest
+Wed May 16 01:03:05 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.network.protocol.databuffer.DataNettyBufferTest
+Wed May 16 01:03:06 UTC 2018: Found element on the queue
+Wed May 16 01:03:06 UTC 2018: Updating status
+Wed May 16 01:03:06 UTC 2018: Working
+Wed May 16 01:03:09 UTC 2018: Start JoeChien23__tachyon test class tachyon.network.protocol.databuffer.DataFileChannelTest
+Wed May 16 01:03:09 UTC 2018: Setting lastTestMethodIndex: 54291
+Wed May 16 01:03:09 UTC 2018: Starting linking
+Wed May 16 01:03:09 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataFileChannelTest-readOnlyByteBufferTest
+Wed May 16 01:03:09 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataFileChannelTest-nettyOutputTest
+Wed May 16 01:03:09 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataFileChannelTest-lengthTest
+Wed May 16 01:03:09 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.network.protocol.databuffer.DataFileChannelTest
+Wed May 16 01:03:10 UTC 2018: Found element on the queue
+Wed May 16 01:03:10 UTC 2018: Updating status
+Wed May 16 01:03:10 UTC 2018: Working
+Wed May 16 01:03:12 UTC 2018: Start JoeChien23__tachyon test class tachyon.network.protocol.databuffer.DataByteBufferTest
+Wed May 16 01:03:12 UTC 2018: Setting lastTestMethodIndex: 54292
+Wed May 16 01:03:12 UTC 2018: Starting linking
+Wed May 16 01:03:12 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataByteBufferTest-nettyOutputTest
+Wed May 16 01:03:13 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataByteBufferTest-lengthTest
+Wed May 16 01:03:13 UTC 2018: No link for: tachyon.network.protocol.databuffer.DataByteBufferTest-readOnlyByteBufferTest
+Wed May 16 01:03:13 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.network.protocol.databuffer.DataByteBufferTest
+Wed May 16 01:03:14 UTC 2018: Found element on the queue
+Wed May 16 01:03:14 UTC 2018: Updating status
+Wed May 16 01:03:14 UTC 2018: Working
+Wed May 16 01:03:16 UTC 2018: Start JoeChien23__tachyon test class tachyon.network.protocol.RPCBlockReadResponseTest
+Wed May 16 01:03:16 UTC 2018: Setting lastTestMethodIndex: 54294
+Wed May 16 01:03:16 UTC 2018: Starting linking
+Wed May 16 01:03:16 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadResponseTest-encodedLengthTest
+Wed May 16 01:03:16 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadResponseTest-createErrorResponseTest
+Wed May 16 01:03:17 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadResponseTest-encodeDecodeTest
+Wed May 16 01:03:17 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadResponseTest-getPayloadDataBufferTest
+Wed May 16 01:03:17 UTC 2018: No link for: tachyon.network.protocol.RPCBlockReadResponseTest-validateTest
+Wed May 16 01:03:18 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.network.protocol.RPCBlockReadResponseTest
+Wed May 16 01:03:19 UTC 2018: Found element on the queue
+Wed May 16 01:03:19 UTC 2018: Updating status
+Wed May 16 01:03:19 UTC 2018: Working
+Wed May 16 01:03:21 UTC 2018: Start JoeChien23__tachyon test class tachyon.metrics.MetricsSystemTest
+Wed May 16 01:03:21 UTC 2018: Setting lastTestMethodIndex: 54298
+Wed May 16 01:03:21 UTC 2018: Starting linking
+Wed May 16 01:03:21 UTC 2018: No link for: tachyon.metrics.MetricsSystemTest-metricsSystemTest
+Wed May 16 01:03:21 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.metrics.MetricsSystemTest
+Wed May 16 01:03:22 UTC 2018: Found element on the queue
+Wed May 16 01:03:22 UTC 2018: Updating status
+Wed May 16 01:03:22 UTC 2018: Working
+Wed May 16 01:03:24 UTC 2018: Start JoeChien23__tachyon test class tachyon.metrics.MetricsConfigTest
+Wed May 16 01:03:24 UTC 2018: Setting lastTestMethodIndex: 54301
+Wed May 16 01:03:24 UTC 2018: Starting linking
+Wed May 16 01:03:24 UTC 2018: Code found tachyon.metrics.MetricsConfig-subProperties with tachyon.metrics.MetricsConfigTest-subPropertiesTest
+Wed May 16 01:03:25 UTC 2018: No link for: tachyon.metrics.MetricsConfigTest-setPropertiesTest
+Wed May 16 01:03:25 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.metrics.MetricsConfigTest
+Wed May 16 01:03:26 UTC 2018: Found element on the queue
+Wed May 16 01:03:26 UTC 2018: Updating status
+Wed May 16 01:03:26 UTC 2018: Working
+Wed May 16 01:03:28 UTC 2018: Start JoeChien23__tachyon test class tachyon.SessionInfoTest
+Wed May 16 01:03:28 UTC 2018: Setting lastTestMethodIndex: 54304
+Wed May 16 01:03:28 UTC 2018: Starting linking
+Wed May 16 01:03:28 UTC 2018: Code found tachyon.SessionInfo-timeout with tachyon.SessionInfoTest-timeoutTest
+Wed May 16 01:03:29 UTC 2018: Code found tachyon.SessionInfo-toString with tachyon.SessionInfoTest-toStringTest
+Wed May 16 01:03:29 UTC 2018: Code found tachyon.SessionInfo-getSessionId with tachyon.SessionInfoTest-getSessionIdTest
+Wed May 16 01:03:29 UTC 2018: No link for: tachyon.SessionInfoTest-constructorWithExceptionTest
+Wed May 16 01:03:29 UTC 2018: No link for: tachyon.SessionInfoTest-constructorTest
+Wed May 16 01:03:30 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.SessionInfoTest
+Wed May 16 01:03:30 UTC 2018: Found element on the queue
+Wed May 16 01:03:30 UTC 2018: Updating status
+Wed May 16 01:03:30 UTC 2018: Working
+Wed May 16 01:03:33 UTC 2018: Start JoeChien23__tachyon test class tachyon.web.UtilsTest
+Wed May 16 01:03:33 UTC 2018: Setting lastTestMethodIndex: 54308
+Wed May 16 01:03:33 UTC 2018: Starting linking
+Wed May 16 01:03:33 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithOneDay
+Wed May 16 01:03:33 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithOneDay4Hours10Minutes45SecondsWithStopwatch
+Wed May 16 01:03:33 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithNegativeValue
+Wed May 16 01:03:34 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithOneMinute30Seconds
+Wed May 16 01:03:34 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithOneHour10Minutes45Seconds
+Wed May 16 01:03:34 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithShortValue
+Wed May 16 01:03:34 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithOneDay4Hours10Minutes45Seconds
+Wed May 16 01:03:35 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithOneSecond
+Wed May 16 01:03:35 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithOneMinute
+Wed May 16 01:03:35 UTC 2018: No link for: tachyon.web.UtilsTest-convertToClockTimeWithOneHour
+Wed May 16 01:03:35 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.web.UtilsTest
+Wed May 16 01:03:36 UTC 2018: Found element on the queue
+Wed May 16 01:03:36 UTC 2018: Updating status
+Wed May 16 01:03:36 UTC 2018: Working
+Wed May 16 01:03:39 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.journal.JsonJournalFormatterTest
+Wed May 16 01:03:39 UTC 2018: Setting lastTestMethodIndex: 54312
+Wed May 16 01:03:39 UTC 2018: Starting linking
+Wed May 16 01:03:39 UTC 2018: No link for: tachyon.master.journal.JsonJournalFormatterTest-entriesJsonTest
+Wed May 16 01:03:39 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.journal.JsonJournalFormatterTest
+Wed May 16 01:03:39 UTC 2018: Found element on the queue
+Wed May 16 01:03:39 UTC 2018: Updating status
+Wed May 16 01:03:39 UTC 2018: Working
+Wed May 16 01:03:42 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.lineage.checkpoint.CheckpointLatestSchedulerTest
+Wed May 16 01:03:42 UTC 2018: Setting lastTestMethodIndex: 54315
+Wed May 16 01:03:42 UTC 2018: Starting linking
+Wed May 16 01:03:42 UTC 2018: Code found tachyon.master.lineage.checkpoint.CheckpointLatestScheduler-schedule with tachyon.master.lineage.checkpoint.CheckpointLatestSchedulerTest-scheduleTest
+Wed May 16 01:03:42 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.lineage.checkpoint.CheckpointLatestSchedulerTest
+Wed May 16 01:03:43 UTC 2018: Found element on the queue
+Wed May 16 01:03:43 UTC 2018: Updating status
+Wed May 16 01:03:43 UTC 2018: Working
+Wed May 16 01:03:45 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.lineage.meta.LineageStoreTest
+Wed May 16 01:03:45 UTC 2018: Setting lastTestMethodIndex: 54316
+Wed May 16 01:03:45 UTC 2018: Starting linking
+Wed May 16 01:03:45 UTC 2018: Code found tachyon.master.lineage.meta.LineageStore-completeFile with tachyon.master.lineage.meta.LineageStoreTest-completeFileForAsyncWriteTest
+Wed May 16 01:03:46 UTC 2018: Code found tachyon.master.lineage.meta.LineageStore-createLineage with tachyon.master.lineage.meta.LineageStoreTest-createLineageTest
+Wed May 16 01:03:46 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.lineage.meta.LineageStoreTest
+Wed May 16 01:03:46 UTC 2018: Found element on the queue
+Wed May 16 01:03:46 UTC 2018: Updating status
+Wed May 16 01:03:46 UTC 2018: Working
+Wed May 16 01:03:49 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.lineage.recompute.RecomputePlannerTest
+Wed May 16 01:03:49 UTC 2018: Setting lastTestMethodIndex: 54319
+Wed May 16 01:03:49 UTC 2018: Starting linking
+Wed May 16 01:03:49 UTC 2018: No link for: tachyon.master.lineage.recompute.RecomputePlannerTest-twoLostLineagesTest
+Wed May 16 01:03:49 UTC 2018: No link for: tachyon.master.lineage.recompute.RecomputePlannerTest-oneLineageTest
+Wed May 16 01:03:50 UTC 2018: No link for: tachyon.master.lineage.recompute.RecomputePlannerTest-oneCheckointedLineageTest
+Wed May 16 01:03:50 UTC 2018: No link for: tachyon.master.lineage.recompute.RecomputePlannerTest-oneLostLineageTest
+Wed May 16 01:03:50 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.lineage.recompute.RecomputePlannerTest
+Wed May 16 01:03:51 UTC 2018: Found element on the queue
+Wed May 16 01:03:51 UTC 2018: Updating status
+Wed May 16 01:03:51 UTC 2018: Working
+Wed May 16 01:03:53 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.lineage.LineageMasterTest
+Wed May 16 01:03:53 UTC 2018: Setting lastTestMethodIndex: 54321
+Wed May 16 01:03:53 UTC 2018: Starting linking
+Wed May 16 01:03:53 UTC 2018: Code found tachyon.master.lineage.LineageMaster-createLineage with tachyon.master.lineage.LineageMasterTest-createLineageWithNonExistingFileTest
+Wed May 16 01:03:53 UTC 2018: No link for: tachyon.master.lineage.LineageMasterTest-listLineagesTest
+Wed May 16 01:03:54 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.lineage.LineageMasterTest
+Wed May 16 01:03:54 UTC 2018: Found element on the queue
+Wed May 16 01:03:54 UTC 2018: Updating status
+Wed May 16 01:03:54 UTC 2018: Working
+Wed May 16 01:03:57 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.file.meta.MountTableTest
+Wed May 16 01:03:57 UTC 2018: Setting lastTestMethodIndex: 54323
+Wed May 16 01:03:57 UTC 2018: Starting linking
+Wed May 16 01:03:57 UTC 2018: No link for: tachyon.master.file.meta.MountTableTest-uriTest
+Wed May 16 01:03:57 UTC 2018: No link for: tachyon.master.file.meta.MountTableTest-pathTest
+Wed May 16 01:03:57 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.file.meta.MountTableTest
+Wed May 16 01:03:58 UTC 2018: Found element on the queue
+Wed May 16 01:03:58 UTC 2018: Updating status
+Wed May 16 01:03:58 UTC 2018: Working
+Wed May 16 01:04:00 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.file.meta.InodeDirectoryTest
+Wed May 16 01:04:00 UTC 2018: Setting lastTestMethodIndex: 54326
+Wed May 16 01:04:00 UTC 2018: Starting linking
+Wed May 16 01:04:00 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-deleteInodeTest
+Wed May 16 01:04:01 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-addChildrenTest
+Wed May 16 01:04:01 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-setLastModificationTimeTest
+Wed May 16 01:04:01 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-isFileTest
+Wed May 16 01:04:01 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-getChildTest
+Wed May 16 01:04:02 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-generateClientFileInfoTest
+Wed May 16 01:04:02 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-setParentIdTest
+Wed May 16 01:04:02 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-isDirectoryTest
+Wed May 16 01:04:03 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-removeNonExistentChildTest
+Wed May 16 01:04:03 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-removeChildTest
+Wed May 16 01:04:03 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-sameIdChildrenTest
+Wed May 16 01:04:03 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-batchRemoveChildTest
+Wed May 16 01:04:04 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-setNameTest
+Wed May 16 01:04:04 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-getIdTest
+Wed May 16 01:04:04 UTC 2018: No link for: tachyon.master.file.meta.InodeDirectoryTest-equalsTest
+Wed May 16 01:04:04 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.file.meta.InodeDirectoryTest
+Wed May 16 01:04:05 UTC 2018: Found element on the queue
+Wed May 16 01:04:05 UTC 2018: Updating status
+Wed May 16 01:04:05 UTC 2018: Working
+Wed May 16 01:04:08 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.file.meta.options.CreatePathOptionsTest
+Wed May 16 01:04:08 UTC 2018: Setting lastTestMethodIndex: 54330
+Wed May 16 01:04:08 UTC 2018: Starting linking
+Wed May 16 01:04:08 UTC 2018: Code found tachyon.master.file.meta.options.CreatePathOptions$Builder-build with tachyon.master.file.meta.options.CreatePathOptionsTest-builderTest
+Wed May 16 01:04:08 UTC 2018: No link for: tachyon.master.file.meta.options.CreatePathOptionsTest-defaultsTest
+Wed May 16 01:04:08 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.file.meta.options.CreatePathOptionsTest
+Wed May 16 01:04:09 UTC 2018: Found element on the queue
+Wed May 16 01:04:09 UTC 2018: Updating status
+Wed May 16 01:04:09 UTC 2018: Working
+Wed May 16 01:04:11 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.file.meta.InodeFileTest
+Wed May 16 01:04:11 UTC 2018: Setting lastTestMethodIndex: 54333
+Wed May 16 01:04:11 UTC 2018: Starting linking
+Wed May 16 01:04:11 UTC 2018: No link for: tachyon.master.file.meta.InodeFileTest-getBlockIdByIndexTest
+Wed May 16 01:04:12 UTC 2018: No link for: tachyon.master.file.meta.InodeFileTest-equalsTest
+Wed May 16 01:04:12 UTC 2018: No link for: tachyon.master.file.meta.InodeFileTest-setLengthTest
+Wed May 16 01:04:12 UTC 2018: No link for: tachyon.master.file.meta.InodeFileTest-getIdTest
+Wed May 16 01:04:13 UTC 2018: No link for: tachyon.master.file.meta.InodeFileTest-setCompleteTest
+Wed May 16 01:04:13 UTC 2018: No link for: tachyon.master.file.meta.InodeFileTest-setLengthAfterCompleteTest
+Wed May 16 01:04:13 UTC 2018: No link for: tachyon.master.file.meta.InodeFileTest-getBlockSizeBytesTest
+Wed May 16 01:04:13 UTC 2018: No link for: tachyon.master.file.meta.InodeFileTest-setNegativeLengthTest
+Wed May 16 01:04:14 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.file.meta.InodeFileTest
+Wed May 16 01:04:14 UTC 2018: Found element on the queue
+Wed May 16 01:04:14 UTC 2018: Updating status
+Wed May 16 01:04:14 UTC 2018: Working
+Wed May 16 01:04:17 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.file.meta.InodeTreeTest
+Wed May 16 01:04:17 UTC 2018: Setting lastTestMethodIndex: 54337
+Wed May 16 01:04:17 UTC 2018: Starting linking
+Wed May 16 01:04:17 UTC 2018: Code found tachyon.master.file.meta.InodeTree-initializeRoot with tachyon.master.file.meta.InodeTreeTest-initializeRootTwiceTest
+Wed May 16 01:04:17 UTC 2018: Code found tachyon.master.file.meta.InodeTree-createPath with tachyon.master.file.meta.InodeTreeTest-createPathTest
+Wed May 16 01:04:17 UTC 2018: Code found tachyon.master.file.meta.InodeTree-addInodeFromJournal with tachyon.master.file.meta.InodeTreeTest-addInodeFromJournalTest
+Wed May 16 01:04:18 UTC 2018: Code found tachyon.master.file.meta.InodeTree-isRootId with tachyon.master.file.meta.InodeTreeTest-isRootIdTest
+Wed May 16 01:04:18 UTC 2018: Code found tachyon.master.file.meta.InodeTree-getInodeChildrenRecursive with tachyon.master.file.meta.InodeTreeTest-getInodeChildrenRecursiveTest
+Wed May 16 01:04:18 UTC 2018: Code found tachyon.master.file.meta.InodeTree-getPath with tachyon.master.file.meta.InodeTreeTest-getPathTest
+Wed May 16 01:04:18 UTC 2018: Code found tachyon.master.file.meta.InodeTree-setPinned with tachyon.master.file.meta.InodeTreeTest-setPinnedTest
+Wed May 16 01:04:19 UTC 2018: Code found tachyon.master.file.meta.InodeTree-deleteInode with tachyon.master.file.meta.InodeTreeTest-deleteInodeTest
+Wed May 16 01:04:19 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createRootPathTest
+Wed May 16 01:04:19 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-deleteNonexistingInodeTest
+Wed May 16 01:04:19 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createDirectoryTest
+Wed May 16 01:04:20 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createFileUnderPinnedDirectoryTest
+Wed May 16 01:04:20 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-getInodeByInvalidIdTest
+Wed May 16 01:04:20 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createFileWithInvalidBlockSizeTest
+Wed May 16 01:04:21 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-streamToJournalCheckpointTest
+Wed May 16 01:04:21 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-getInodeByNonexistingPathTest
+Wed May 16 01:04:21 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createFileTest
+Wed May 16 01:04:21 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createFileWithNegativeBlockSizeTest
+Wed May 16 01:04:22 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createFileTwiceTest
+Wed May 16 01:04:22 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-getInodeByNonexistingNestedPathTest
+Wed May 16 01:04:22 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createFileUnderNonexistingDirTest
+Wed May 16 01:04:23 UTC 2018: No link for: tachyon.master.file.meta.InodeTreeTest-createFileUnderFileTest
+Wed May 16 01:04:23 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.file.meta.InodeTreeTest
+Wed May 16 01:04:23 UTC 2018: Found element on the queue
+Wed May 16 01:04:23 UTC 2018: Updating status
+Wed May 16 01:04:23 UTC 2018: Working
+Wed May 16 01:04:26 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.file.options.CreateOptionsTest
+Wed May 16 01:04:26 UTC 2018: Setting lastTestMethodIndex: 54342
+Wed May 16 01:04:26 UTC 2018: Starting linking
+Wed May 16 01:04:26 UTC 2018: Code found tachyon.master.file.options.CreateOptions$Builder-build with tachyon.master.file.options.CreateOptionsTest-builderTest
+Wed May 16 01:04:26 UTC 2018: No link for: tachyon.master.file.options.CreateOptionsTest-defaultsTest
+Wed May 16 01:04:27 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.file.options.CreateOptionsTest
+Wed May 16 01:04:27 UTC 2018: Found element on the queue
+Wed May 16 01:04:27 UTC 2018: Updating status
+Wed May 16 01:04:27 UTC 2018: Working
+Wed May 16 01:04:30 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.file.options.MkdirOptionsTest
+Wed May 16 01:04:30 UTC 2018: Setting lastTestMethodIndex: 54345
+Wed May 16 01:04:30 UTC 2018: Starting linking
+Wed May 16 01:04:30 UTC 2018: Code found tachyon.master.file.options.MkdirOptions$Builder-build with tachyon.master.file.options.MkdirOptionsTest-builderTest
+Wed May 16 01:04:30 UTC 2018: No link for: tachyon.master.file.options.MkdirOptionsTest-defaultsTest
+Wed May 16 01:04:30 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.file.options.MkdirOptionsTest
+Wed May 16 01:04:31 UTC 2018: Found element on the queue
+Wed May 16 01:04:31 UTC 2018: Updating status
+Wed May 16 01:04:31 UTC 2018: Working
+Wed May 16 01:04:33 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.block.meta.MasterWorkerInfoTest
+Wed May 16 01:04:33 UTC 2018: Setting lastTestMethodIndex: 54347
+Wed May 16 01:04:33 UTC 2018: Starting linking
+Wed May 16 01:04:33 UTC 2018: Code found tachyon.master.block.meta.MasterWorkerInfo-register with tachyon.master.block.meta.MasterWorkerInfoTest-registerAgainTest
+Wed May 16 01:04:33 UTC 2018: Code found tachyon.master.block.meta.MasterWorkerInfo-getFreeBytesOnTiers with tachyon.master.block.meta.MasterWorkerInfoTest-getFreeBytesOnTiersTest
+Wed May 16 01:04:34 UTC 2018: Code found tachyon.master.block.meta.MasterWorkerInfo-register with tachyon.master.block.meta.MasterWorkerInfoTest-registerWithDifferentNumberOfTiersTest
+Wed May 16 01:04:34 UTC 2018: Code found tachyon.master.block.meta.MasterWorkerInfo-updateUsedBytes with tachyon.master.block.meta.MasterWorkerInfoTest-updateUsedBytesInTierTest
+Wed May 16 01:04:34 UTC 2018: Code found tachyon.master.block.meta.MasterWorkerInfo-updateToRemovedBlock with tachyon.master.block.meta.MasterWorkerInfoTest-updateToRemovedBlockTest
+Wed May 16 01:04:35 UTC 2018: Code found tachyon.master.block.meta.MasterWorkerInfo-updateUsedBytes with tachyon.master.block.meta.MasterWorkerInfoTest-updateUsedBytesTest
+Wed May 16 01:04:35 UTC 2018: No link for: tachyon.master.block.meta.MasterWorkerInfoTest-blockOperationTest
+Wed May 16 01:04:35 UTC 2018: No link for: tachyon.master.block.meta.MasterWorkerInfoTest-registerTest
+Wed May 16 01:04:35 UTC 2018: No link for: tachyon.master.block.meta.MasterWorkerInfoTest-workerInfoGenerationTest
+Wed May 16 01:04:36 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.block.meta.MasterWorkerInfoTest
+Wed May 16 01:04:36 UTC 2018: Found element on the queue
+Wed May 16 01:04:36 UTC 2018: Updating status
+Wed May 16 01:04:36 UTC 2018: Working
+Wed May 16 01:04:39 UTC 2018: Start JoeChien23__tachyon test class tachyon.master.block.meta.MasterBlockInfoTest
+Wed May 16 01:04:39 UTC 2018: Setting lastTestMethodIndex: 54351
+Wed May 16 01:04:39 UTC 2018: Starting linking
+Wed May 16 01:04:39 UTC 2018: Code found tachyon.master.block.meta.MasterBlockInfo-getBlockLocations with tachyon.master.block.meta.MasterBlockInfoTest-getBlockLocationsTest
+Wed May 16 01:04:39 UTC 2018: Code found tachyon.master.block.meta.MasterBlockInfo-isInMemory with tachyon.master.block.meta.MasterBlockInfoTest-isInMemoryTest
+Wed May 16 01:04:39 UTC 2018: Code found tachyon.master.block.meta.MasterBlockInfo-addWorker with tachyon.master.block.meta.MasterBlockInfoTest-addWorkerTest
+Wed May 16 01:04:40 UTC 2018: Code found tachyon.master.block.meta.MasterBlockInfo-getNumLocations with tachyon.master.block.meta.MasterBlockInfoTest-getNumLocationsTest
+Wed May 16 01:04:40 UTC 2018: Code found tachyon.master.block.meta.MasterBlockInfo-removeWorker with tachyon.master.block.meta.MasterBlockInfoTest-removeWorkerTest
+Wed May 16 01:04:40 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.master.block.meta.MasterBlockInfoTest
+Wed May 16 01:04:41 UTC 2018: Found element on the queue
+Wed May 16 01:04:41 UTC 2018: Updating status
+Wed May 16 01:04:41 UTC 2018: Working
+Wed May 16 01:04:41 UTC 2018: Create project parser
+Wed May 16 01:04:44 UTC 2018: Start JoeChien23__tachyon test class tachyon.shell.TfsShellUtilsTest
+Wed May 16 01:04:44 UTC 2018: Setting lastTestMethodIndex: 54354
+Wed May 16 01:04:44 UTC 2018: Starting linking
+Wed May 16 01:04:44 UTC 2018: Code found tachyon.shell.TfsShellUtils-match with tachyon.shell.TfsShellUtilsTest-matchTest
+Wed May 16 01:04:44 UTC 2018: Code found tachyon.shell.TfsShellUtils-getFilePath with tachyon.shell.TfsShellUtilsTest-getFilePathTest
+Wed May 16 01:04:44 UTC 2018: No link for: tachyon.shell.TfsShellUtilsTest-getPathTest
+Wed May 16 01:04:44 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.shell.TfsShellUtilsTest
+Wed May 16 01:04:45 UTC 2018: Found element on the queue
+Wed May 16 01:04:45 UTC 2018: Updating status
+Wed May 16 01:04:45 UTC 2018: Working
+Wed May 16 01:04:48 UTC 2018: Start JoeChien23__tachyon test class tachyon.shell.TfsShellTest
+Wed May 16 01:04:48 UTC 2018: Setting lastTestMethodIndex: 54357
+Wed May 16 01:04:48 UTC 2018: Starting linking
+Wed May 16 01:04:48 UTC 2018: Code found tachyon.shell.TfsShell-rename with tachyon.shell.TfsShellTest-renameTest
+Wed May 16 01:04:48 UTC 2018: Code found tachyon.shell.TfsShell-rename with tachyon.shell.TfsShellTest-renameToExistingFileTest
+Wed May 16 01:04:48 UTC 2018: Code found tachyon.shell.TfsShell-rename with tachyon.shell.TfsShellTest-renameParentDirectoryTest
+Wed May 16 01:04:48 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyToLocalTest
+Wed May 16 01:04:49 UTC 2018: No link for: tachyon.shell.TfsShellTest-lsWildcardTest
+Wed May 16 01:04:49 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyFromLocalTest
+Wed May 16 01:04:49 UTC 2018: No link for: tachyon.shell.TfsShellTest-fileinfoNotExistTest
+Wed May 16 01:04:49 UTC 2018: No link for: tachyon.shell.TfsShellTest-rmrTest
+Wed May 16 01:04:50 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyFromLocalFileToDstPathTest
+Wed May 16 01:04:50 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyFromLocalWildcardExistingDirTest
+Wed May 16 01:04:50 UTC 2018: No link for: tachyon.shell.TfsShellTest-tailSmallFileTest
+Wed May 16 01:04:51 UTC 2018: No link for: tachyon.shell.TfsShellTest-tailNotExistTest
+Wed May 16 01:04:51 UTC 2018: No link for: tachyon.shell.TfsShellTest-touchTestWithFullURI
+Wed May 16 01:04:51 UTC 2018: No link for: tachyon.shell.TfsShellTest-mkdirExistingTest
+Wed May 16 01:04:51 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyToLocalLargeTest
+Wed May 16 01:04:52 UTC 2018: No link for: tachyon.shell.TfsShellTest-loadDirTest
+Wed May 16 01:04:52 UTC 2018: No link for: tachyon.shell.TfsShellTest-rmWildCardTest
+Wed May 16 01:04:52 UTC 2018: No link for: tachyon.shell.TfsShellTest-rmNotExistingDirTest
+Wed May 16 01:04:52 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyFromLocalWildcardNotDirTest
+Wed May 16 01:04:53 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyFromLocalWildcardTest
+Wed May 16 01:04:53 UTC 2018: No link for: tachyon.shell.TfsShellTest-duTest
+Wed May 16 01:04:53 UTC 2018: No link for: tachyon.shell.TfsShellTest-loadFileTest
+Wed May 16 01:04:54 UTC 2018: No link for: tachyon.shell.TfsShellTest-lsTest
+Wed May 16 01:04:54 UTC 2018: No link for: tachyon.shell.TfsShellTest-freeWildCardTest
+Wed May 16 01:04:54 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyToLocalWildcardHierTest
+Wed May 16 01:04:54 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyFromLocalTestWithFullURI
+Wed May 16 01:04:55 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyToLocalDirTest
+Wed May 16 01:04:55 UTC 2018: No link for: tachyon.shell.TfsShellTest-countNotExistTest
+Wed May 16 01:04:55 UTC 2018: No link for: tachyon.shell.TfsShellTest-freeTest
+Wed May 16 01:04:55 UTC 2018: No link for: tachyon.shell.TfsShellTest-fileinfoWildCardTest
+Wed May 16 01:04:56 UTC 2018: No link for: tachyon.shell.TfsShellTest-tailWildcardTest
+Wed May 16 01:04:56 UTC 2018: No link for: tachyon.shell.TfsShellTest-rmrWildCardTest
+Wed May 16 01:04:56 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyToLocalWildcardExistingDirTest
+Wed May 16 01:04:56 UTC 2018: No link for: tachyon.shell.TfsShellTest-countTest
+Wed May 16 01:04:57 UTC 2018: No link for: tachyon.shell.TfsShellTest-tailLargeFileTest
+Wed May 16 01:04:57 UTC 2018: No link for: tachyon.shell.TfsShellTest-lsrTest
+Wed May 16 01:04:57 UTC 2018: No link for: tachyon.shell.TfsShellTest-mkdirInvalidPathTest
+Wed May 16 01:04:58 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyFromLocalLargeTest
+Wed May 16 01:04:58 UTC 2018: No link for: tachyon.shell.TfsShellTest-mkdirComplexPathTest
+Wed May 16 01:04:58 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyFromLocalWildcardHierTest
+Wed May 16 01:04:58 UTC 2018: No link for: tachyon.shell.TfsShellTest-mkdirShortPathTest
+Wed May 16 01:04:59 UTC 2018: No link for: tachyon.shell.TfsShellTest-catNotExistTest
+Wed May 16 01:04:59 UTC 2018: No link for: tachyon.shell.TfsShellTest-catDirectoryTest
+Wed May 16 01:04:59 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyToLocalWildcardNotDirTest
+Wed May 16 01:05:00 UTC 2018: No link for: tachyon.shell.TfsShellTest-touchTest
+Wed May 16 01:05:00 UTC 2018: No link for: tachyon.shell.TfsShellTest-rmNotExistingFileTest
+Wed May 16 01:05:00 UTC 2018: No link for: tachyon.shell.TfsShellTest-rmTest
+Wed May 16 01:05:00 UTC 2018: No link for: tachyon.shell.TfsShellTest-tailEmptyFileTest
+Wed May 16 01:05:01 UTC 2018: No link for: tachyon.shell.TfsShellTest-copyToLocalWildcardTest
+Wed May 16 01:05:01 UTC 2018: No link for: tachyon.shell.TfsShellTest-catTest
+Wed May 16 01:05:01 UTC 2018: No link for: tachyon.shell.TfsShellTest-mkdirTest
+Wed May 16 01:05:01 UTC 2018: No link for: tachyon.shell.TfsShellTest-catWildcardTest
+Wed May 16 01:05:02 UTC 2018: No link for: tachyon.shell.TfsShellTest-locationNotExistTest
+Wed May 16 01:05:02 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.shell.TfsShellTest
+Wed May 16 01:05:03 UTC 2018: Found element on the queue
+Wed May 16 01:05:03 UTC 2018: Updating status
+Wed May 16 01:05:03 UTC 2018: Working
+Wed May 16 01:05:03 UTC 2018: Create project parser
+Wed May 16 01:05:05 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.glusterfs.GlusterFSUnderFileSystemFactoryTest
+Wed May 16 01:05:05 UTC 2018: Setting lastTestMethodIndex: 54367
+Wed May 16 01:05:05 UTC 2018: Starting linking
+Wed May 16 01:05:05 UTC 2018: No link for: tachyon.underfs.glusterfs.GlusterFSUnderFileSystemFactoryTest-createGlusterFS
+Wed May 16 01:05:05 UTC 2018: No link for: tachyon.underfs.glusterfs.GlusterFSUnderFileSystemFactoryTest-factoryTest
+Wed May 16 01:05:06 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.glusterfs.GlusterFSUnderFileSystemFactoryTest
+Wed May 16 01:05:06 UTC 2018: Found element on the queue
+Wed May 16 01:05:06 UTC 2018: Updating status
+Wed May 16 01:05:06 UTC 2018: Working
+Wed May 16 01:05:06 UTC 2018: Create project parser
+Wed May 16 01:05:09 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.hdfs.HdfsUnderFileSystemUtilsTest
+Wed May 16 01:05:09 UTC 2018: Setting lastTestMethodIndex: 54369
+Wed May 16 01:05:09 UTC 2018: Starting linking
+Wed May 16 01:05:09 UTC 2018: Code found tachyon.underfs.hdfs.HdfsUnderFileSystemUtils-addKey with tachyon.underfs.hdfs.HdfsUnderFileSystemUtilsTest-addKeyTest
+Wed May 16 01:05:09 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.hdfs.HdfsUnderFileSystemUtilsTest
+Wed May 16 01:05:10 UTC 2018: Found element on the queue
+Wed May 16 01:05:10 UTC 2018: Updating status
+Wed May 16 01:05:10 UTC 2018: Working
+Wed May 16 01:05:12 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.hdfs.HdfsUnderFileSystemFactoryTest
+Wed May 16 01:05:12 UTC 2018: Setting lastTestMethodIndex: 54370
+Wed May 16 01:05:12 UTC 2018: Starting linking
+Wed May 16 01:05:12 UTC 2018: No link for: tachyon.underfs.hdfs.HdfsUnderFileSystemFactoryTest-factoryTest
+Wed May 16 01:05:12 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.hdfs.HdfsUnderFileSystemFactoryTest
+Wed May 16 01:05:13 UTC 2018: Found element on the queue
+Wed May 16 01:05:13 UTC 2018: Updating status
+Wed May 16 01:05:13 UTC 2018: Working
+Wed May 16 01:05:13 UTC 2018: Create project parser
+Wed May 16 01:05:15 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.local.LocalUnderFileSystemFactoryTest
+Wed May 16 01:05:15 UTC 2018: Setting lastTestMethodIndex: 54372
+Wed May 16 01:05:15 UTC 2018: Starting linking
+Wed May 16 01:05:15 UTC 2018: No link for: tachyon.underfs.local.LocalUnderFileSystemFactoryTest-factoryTest
+Wed May 16 01:05:16 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.local.LocalUnderFileSystemFactoryTest
+Wed May 16 01:05:17 UTC 2018: Found element on the queue
+Wed May 16 01:05:17 UTC 2018: Updating status
+Wed May 16 01:05:17 UTC 2018: Working
+Wed May 16 01:05:17 UTC 2018: Create project parser
+Wed May 16 01:05:19 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.s3.S3UnderFileSystemTest
+Wed May 16 01:05:19 UTC 2018: Setting lastTestMethodIndex: 54374
+Wed May 16 01:05:19 UTC 2018: Starting linking
+Wed May 16 01:05:19 UTC 2018: No link for: tachyon.underfs.s3.S3UnderFileSystemTest-getParentKeyTest
+Wed May 16 01:05:19 UTC 2018: No link for: tachyon.underfs.s3.S3UnderFileSystemTest-stripFolderSuffixIfPresentTest
+Wed May 16 01:05:20 UTC 2018: No link for: tachyon.underfs.s3.S3UnderFileSystemTest-stripPrefixIfPresentTest
+Wed May 16 01:05:20 UTC 2018: No link for: tachyon.underfs.s3.S3UnderFileSystemTest-convertToFolderNameTest
+Wed May 16 01:05:20 UTC 2018: No link for: tachyon.underfs.s3.S3UnderFileSystemTest-isRootTest
+Wed May 16 01:05:21 UTC 2018: No link for: tachyon.underfs.s3.S3UnderFileSystemTest-getChildNameTest
+Wed May 16 01:05:21 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.s3.S3UnderFileSystemTest
+Wed May 16 01:05:21 UTC 2018: Found element on the queue
+Wed May 16 01:05:21 UTC 2018: Updating status
+Wed May 16 01:05:22 UTC 2018: Working
+Wed May 16 01:05:24 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.s3.S3UnderFileSystemFactoryTest
+Wed May 16 01:05:24 UTC 2018: Setting lastTestMethodIndex: 54377
+Wed May 16 01:05:24 UTC 2018: Starting linking
+Wed May 16 01:05:24 UTC 2018: No link for: tachyon.underfs.s3.S3UnderFileSystemFactoryTest-factoryTest
+Wed May 16 01:05:24 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.s3.S3UnderFileSystemFactoryTest
+Wed May 16 01:05:25 UTC 2018: Found element on the queue
+Wed May 16 01:05:25 UTC 2018: Updating status
+Wed May 16 01:05:25 UTC 2018: Working
+Wed May 16 01:05:25 UTC 2018: Create project parser
+Wed May 16 01:05:27 UTC 2018: Start JoeChien23__tachyon test class tachyon.underfs.swift.SwiftUnderFileSystemTest
+Wed May 16 01:05:27 UTC 2018: Setting lastTestMethodIndex: 54380
+Wed May 16 01:05:27 UTC 2018: Starting linking
+Wed May 16 01:05:27 UTC 2018: No link for: tachyon.underfs.swift.SwiftUnderFileSystemTest-factoryTest
+Wed May 16 01:05:28 UTC 2018: Linking done for JoeChien23__tachyon test class tachyon.underfs.swift.SwiftUnderFileSystemTest

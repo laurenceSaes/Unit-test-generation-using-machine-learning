@@ -1,0 +1,68 @@
+Wed May 16 01:51:50 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 01:51:50 UTC 2018: Starting
+Wed May 16 01:51:51 UTC 2018: Found element on the queue
+Wed May 16 01:51:51 UTC 2018: Updating status
+Wed May 16 01:51:51 UTC 2018: Working
+Wed May 16 01:51:51 UTC 2018: Create project parser
+Wed May 16 01:52:08 UTC 2018: Create slicer
+Wed May 16 01:52:11 UTC 2018: Create call graph
+Wed May 16 01:52:12 UTC 2018: Create point analysis
+Wed May 16 01:52:12 UTC 2018: Create call graph done
+Wed May 16 01:52:12 UTC 2018: Start kaitoy__pcap4j test class org.pcap4j.core.BpfProgramTest
+Wed May 16 01:52:12 UTC 2018: Setting lastTestMethodIndex: 55941
+Wed May 16 01:52:12 UTC 2018: Starting linking
+Wed May 16 01:52:12 UTC 2018: No link for: org.pcap4j.core.BpfProgramTest-testOpenLive
+Wed May 16 01:52:13 UTC 2018: Linking done for kaitoy__pcap4j test class org.pcap4j.core.BpfProgramTest
+Wed May 16 01:52:13 UTC 2018: Found element on the queue
+Wed May 16 01:52:13 UTC 2018: Updating status
+Wed May 16 01:52:13 UTC 2018: Working
+Wed May 16 01:52:16 UTC 2018: Start kaitoy__pcap4j test class org.pcap4j.core.PcapDumperTest
+Wed May 16 01:52:16 UTC 2018: Setting lastTestMethodIndex: 55943
+Wed May 16 01:52:16 UTC 2018: Starting linking
+Wed May 16 01:52:16 UTC 2018: Code found org.pcap4j.core.PcapDumper-ftell with org.pcap4j.core.PcapDumperTest-testFtell
+Wed May 16 01:52:16 UTC 2018: Code found org.pcap4j.core.PcapDumper-dump with org.pcap4j.core.PcapDumperTest-testDump
+Wed May 16 01:52:16 UTC 2018: Linking done for kaitoy__pcap4j test class org.pcap4j.core.PcapDumperTest
+Wed May 16 01:52:17 UTC 2018: Found element on the queue
+Wed May 16 01:52:17 UTC 2018: Updating status
+Wed May 16 01:52:17 UTC 2018: Working
+Wed May 16 01:52:19 UTC 2018: Start kaitoy__pcap4j test class org.pcap4j.core.PcapsTest
+Wed May 16 01:52:19 UTC 2018: Setting lastTestMethodIndex: 55944
+Wed May 16 01:52:19 UTC 2018: Starting linking
+Wed May 16 01:52:19 UTC 2018: Code found org.pcap4j.core.Pcaps-dataLinkValToName with org.pcap4j.core.PcapsTest-testDataLinkValToName
+Wed May 16 01:52:20 UTC 2018: Code found org.pcap4j.core.Pcaps-dataLinkValToDescription with org.pcap4j.core.PcapsTest-testDataLinkValToDescription
+Wed May 16 01:52:20 UTC 2018: Code found org.pcap4j.core.Pcaps-openDead with org.pcap4j.core.PcapsTest-testOpenDeadWithTimestampPrecision
+Wed May 16 01:52:20 UTC 2018: Code found org.pcap4j.core.Pcaps-dataLinkTypeToDescription with org.pcap4j.core.PcapsTest-testDataLinkTypeToDescription
+Wed May 16 01:52:21 UTC 2018: Code found org.pcap4j.core.Pcaps-dataLinkTypeToName with org.pcap4j.core.PcapsTest-testDataLinkTypeToName
+Wed May 16 01:52:21 UTC 2018: Code found org.pcap4j.core.Pcaps-strError with org.pcap4j.core.PcapsTest-testStrError
+Wed May 16 01:52:21 UTC 2018: Code found org.pcap4j.core.Pcaps-lookupDev with org.pcap4j.core.PcapsTest-testLookupDev
+Wed May 16 01:52:22 UTC 2018: Code found org.pcap4j.core.Pcaps-libVersion with org.pcap4j.core.PcapsTest-testLibVersion
+Wed May 16 01:52:22 UTC 2018: Code found org.pcap4j.core.Pcaps-dataLinkNameToVal with org.pcap4j.core.PcapsTest-testDataLinkNameToVal
+Wed May 16 01:52:22 UTC 2018: Code found org.pcap4j.core.Pcaps-findAllDevs with org.pcap4j.core.PcapsTest-testFindAllDevs
+Wed May 16 01:52:22 UTC 2018: Code found org.pcap4j.core.Pcaps-openOffline with org.pcap4j.core.PcapsTest-testOpenOfflineWithTimestampPrecision
+Wed May 16 01:52:23 UTC 2018: No link for: org.pcap4j.core.PcapsTest-testGetNifByInetAddress
+Wed May 16 01:52:23 UTC 2018: No link for: org.pcap4j.core.PcapsTest-testOpenDead
+Wed May 16 01:52:23 UTC 2018: No link for: org.pcap4j.core.PcapsTest-testGetNifByString
+Wed May 16 01:52:24 UTC 2018: No link for: org.pcap4j.core.PcapsTest-testToBpfStringMacAddress
+Wed May 16 01:52:24 UTC 2018: No link for: org.pcap4j.core.PcapsTest-testToBpfStringInetAddress
+Wed May 16 01:52:24 UTC 2018: No link for: org.pcap4j.core.PcapsTest-testOpenOffline
+Wed May 16 01:52:25 UTC 2018: Linking done for kaitoy__pcap4j test class org.pcap4j.core.PcapsTest
+Wed May 16 01:52:25 UTC 2018: Found element on the queue
+Wed May 16 01:52:25 UTC 2018: Updating status
+Wed May 16 01:52:25 UTC 2018: Working
+Wed May 16 01:52:28 UTC 2018: Start kaitoy__pcap4j test class org.pcap4j.Pcap4jPropertiesLoaderTest
+Wed May 16 01:52:28 UTC 2018: Setting lastTestMethodIndex: 55949
+Wed May 16 01:52:28 UTC 2018: Starting linking
+Wed May 16 01:52:28 UTC 2018: No link for: org.pcap4j.Pcap4jPropertiesLoaderTest-testHasDefaultAfPacket
+Wed May 16 01:52:28 UTC 2018: No link for: org.pcap4j.Pcap4jPropertiesLoaderTest-testHasDefaultAfInet6
+Wed May 16 01:52:28 UTC 2018: No link for: org.pcap4j.Pcap4jPropertiesLoaderTest-testHasDefaultDltRaw
+Wed May 16 01:52:29 UTC 2018: No link for: org.pcap4j.Pcap4jPropertiesLoaderTest-testHasDefaultAfLink
+Wed May 16 01:52:29 UTC 2018: No link for: org.pcap4j.Pcap4jPropertiesLoaderTest-testHasDefaultAfInet
+Wed May 16 01:52:29 UTC 2018: Linking done for kaitoy__pcap4j test class org.pcap4j.Pcap4jPropertiesLoaderTest
+Wed May 16 01:52:30 UTC 2018: Found element on the queue
+Wed May 16 01:52:30 UTC 2018: Updating status
+Wed May 16 01:52:30 UTC 2018: Working
+Wed May 16 01:52:32 UTC 2018: Start kaitoy__pcap4j test class org.pcap4j.util.ByteArraysTest
+Wed May 16 01:52:32 UTC 2018: Setting lastTestMethodIndex: 55952
+Wed May 16 01:52:32 UTC 2018: Starting linking
+Wed May 16 01:52:32 UTC 2018: Code found org.pcap4j.util.ByteArrays-toHexString with org.pcap4j.util.ByteArraysTest-testToHexString
+Wed May 16 01:52:33 UTC 2018: Linking done for kaitoy__pcap4j test class org.pcap4j.util.ByteArraysTest

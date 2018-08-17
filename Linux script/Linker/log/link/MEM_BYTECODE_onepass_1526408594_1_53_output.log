@@ -1,0 +1,143 @@
+Tue May 15 23:35:10 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 23:35:11 UTC 2018: Starting
+Tue May 15 23:35:12 UTC 2018: Found element on the queue
+Tue May 15 23:35:12 UTC 2018: Updating status
+Tue May 15 23:35:12 UTC 2018: Working
+Tue May 15 23:35:12 UTC 2018: Create project parser
+Tue May 15 23:35:20 UTC 2018: Create slicer
+Tue May 15 23:35:22 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1347093252
+Tue May 15 23:35:24 UTC 2018: Create call graph
+Tue May 15 23:35:27 UTC 2018: Create point analysis
+Tue May 15 23:35:27 UTC 2018: Create call graph done
+Tue May 15 23:35:27 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GeneralTest
+Tue May 15 23:35:27 UTC 2018: Setting lastTestMethodIndex: 51296
+Tue May 15 23:35:27 UTC 2018: Starting linking
+Tue May 15 23:35:27 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkTriggerDescriptorForGetters
+Tue May 15 23:35:28 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkTriggerForGetters
+Tue May 15 23:35:28 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkPullRequestMergeForGetters
+Tue May 15 23:35:28 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkSimpleStatusForGetters
+Tue May 15 23:35:29 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkCommentFileForGetters
+Tue May 15 23:35:29 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkCancelBuildsOnUpdateForGetters
+Tue May 15 23:35:29 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkBuildStatusForGetters
+Tue May 15 23:35:30 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkBuildLogForGetters
+Tue May 15 23:35:30 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GeneralTest-checkBuildResultMessageForGetters
+Tue May 15 23:35:30 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GeneralTest
+Tue May 15 23:35:31 UTC 2018: Found element on the queue
+Tue May 15 23:35:31 UTC 2018: Updating status
+Tue May 15 23:35:31 UTC 2018: Working
+Tue May 15 23:35:33 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbBuildsTest
+Tue May 15 23:35:33 UTC 2018: Setting lastTestMethodIndex: 51300
+Tue May 15 23:35:33 UTC 2018: Starting linking
+Tue May 15 23:35:33 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbBuilds-commentOnBuildResult with org.jenkinsci.plugins.ghprb.GhprbBuildsTest-testCommentOnBuildResultNoSkip
+Tue May 15 23:35:33 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbBuilds-commentOnBuildResult with org.jenkinsci.plugins.ghprb.GhprbBuildsTest-testCommentOnBuildResultWithSkip
+Tue May 15 23:35:34 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbBuildsTest
+Tue May 15 23:35:34 UTC 2018: Found element on the queue
+Tue May 15 23:35:34 UTC 2018: Updating status
+Tue May 15 23:35:34 UTC 2018: Working
+Tue May 15 23:35:37 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbPullRequestMergeTest
+Tue May 15 23:35:37 UTC 2018: Setting lastTestMethodIndex: 51303
+Tue May 15 23:35:37 UTC 2018: Starting linking
+Tue May 15 23:35:37 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestMergeTest-testAdminMerge
+Tue May 15 23:35:37 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestMergeTest-testTriggerMerge
+Tue May 15 23:35:37 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestMergeTest-testOwnCodeMerge
+Tue May 15 23:35:38 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestMergeTest-testApproveMerge
+Tue May 15 23:35:39 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestMergeTest-testDenyMerge
+Tue May 15 23:35:39 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbPullRequestMergeTest
+Tue May 15 23:35:39 UTC 2018: Found element on the queue
+Tue May 15 23:35:39 UTC 2018: Updating status
+Tue May 15 23:35:39 UTC 2018: Working
+Tue May 15 23:35:42 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbPullRequestTest
+Tue May 15 23:35:42 UTC 2018: Setting lastTestMethodIndex: 51306
+Tue May 15 23:35:42 UTC 2018: Starting linking
+Tue May 15 23:35:42 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbPullRequest-init with org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testInitRepoNameNotNull
+Tue May 15 23:35:42 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbPullRequest-containsWatchedPaths with org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathsNotMatchingIncludedRegions
+Tue May 15 23:35:42 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbPullRequest-containsWatchedPaths with org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathsNoRegionsDefined
+Tue May 15 23:35:43 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbPullRequest-containsWatchedPaths with org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathsMatchingIncludedRegion
+Tue May 15 23:35:43 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbPullRequest-init with org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testInitRepoNameNull
+Tue May 15 23:35:43 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbPullRequest-containsWatchedPaths with org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathSomeExcludedWithInclude
+Tue May 15 23:35:43 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathAllExcluded
+Tue May 15 23:35:44 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathIncludeFileExtensionExcludeFolder
+Tue May 15 23:35:44 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathIncludeFileExtension
+Tue May 15 23:35:45 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testConstructorWhenAuthorIsWhitelisted
+Tue May 15 23:35:45 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathAllExcludedWithInclude
+Tue May 15 23:35:45 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-shouldNotAddDuplicateRequestForTestingComment
+Tue May 15 23:35:45 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-authorRepoGitUrlShouldBeSetWhenRepository
+Tue May 15 23:35:46 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-authorRepoGitUrlShouldBeNullWhenNoRepository
+Tue May 15 23:35:46 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbPullRequestTest-testContainsWatchedPathPartialExclusion
+Tue May 15 23:35:46 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbPullRequestTest
+Tue May 15 23:35:47 UTC 2018: Found element on the queue
+Tue May 15 23:35:47 UTC 2018: Updating status
+Tue May 15 23:35:47 UTC 2018: Working
+Tue May 15 23:35:49 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbRepositoryTest
+Tue May 15 23:35:49 UTC 2018: Setting lastTestMethodIndex: 51308
+Tue May 15 23:35:49 UTC 2018: Starting linking
+Tue May 15 23:35:49 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbRepository-check with org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testCheckMethodWithNoPR
+Tue May 15 23:35:49 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbRepository-check with org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testCheckMethodWhenUsingGitHubEnterprise
+Tue May 15 23:35:50 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbRepository-check with org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testCheckBuildWithBlackWhiteLabelsSet
+Tue May 15 23:35:50 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbRepository-check with org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testCheckMethodWhenPrWasUpdatedWithRetestPhrase
+Tue May 15 23:35:50 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbRepository-check with org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testCheckMethodWithNewPR
+Tue May 15 23:35:50 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbRepository-check with org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testCheckMethodWhenPrWasUpdatedWithNonKeyPhrase
+Tue May 15 23:35:51 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbRepository-check with org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testCheckMethodWithOnlyExistingPRs
+Tue May 15 23:35:51 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testShouldSkipBuildIfLabelInBlackListWithNewPR
+Tue May 15 23:35:51 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testShouldSkipBuildIfWhiteListLabelIsSetAndLabelNotInWhiteListWithNewPR
+Tue May 15 23:35:51 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testExceedRateLimit
+Tue May 15 23:35:52 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbRepositoryTest-testSignature
+Tue May 15 23:35:52 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbRepositoryTest
+Tue May 15 23:35:52 UTC 2018: Found element on the queue
+Tue May 15 23:35:52 UTC 2018: Updating status
+Tue May 15 23:35:52 UTC 2018: Working
+Tue May 15 23:35:55 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbTriggerTest
+Tue May 15 23:35:55 UTC 2018: Setting lastTestMethodIndex: 51310
+Tue May 15 23:35:55 UTC 2018: Starting linking
+Tue May 15 23:35:55 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbTrigger$DescriptorImpl-doCheckAdminlist with org.jenkinsci.plugins.ghprb.GhprbTriggerTest-testDoCheckAdminListWithUnderscore
+Tue May 15 23:35:55 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbTrigger$DescriptorImpl-doCheckAdminlist with org.jenkinsci.plugins.ghprb.GhprbTriggerTest-testDoCheckAdminListWithOnlyHyphens
+Tue May 15 23:35:56 UTC 2018: Code found org.jenkinsci.plugins.ghprb.GhprbTrigger$DescriptorImpl-doCheckAdminlist with org.jenkinsci.plugins.ghprb.GhprbTriggerTest-testDoCheckAdminListWithValidName
+Tue May 15 23:35:56 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbTriggerTest-testGlobalExtensions
+Tue May 15 23:35:57 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbTriggerTest-testCheckSkipBuild
+Tue May 15 23:35:57 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.GhprbTriggerTest-testCheckSkipBuildCommitAuthor
+Tue May 15 23:35:57 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.GhprbTriggerTest
+Tue May 15 23:35:58 UTC 2018: Found element on the queue
+Tue May 15 23:35:58 UTC 2018: Updating status
+Tue May 15 23:35:58 UTC 2018: Working
+Tue May 15 23:36:00 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.extensions.status.GhprbSimpleStatusTest
+Tue May 15 23:36:00 UTC 2018: Setting lastTestMethodIndex: 51312
+Tue May 15 23:36:00 UTC 2018: Starting linking
+Tue May 15 23:36:00 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.extensions.status.GhprbSimpleStatusTest-testUseDefaultContext
+Tue May 15 23:36:00 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.extensions.status.GhprbSimpleStatusTest-testMergeConflictMessage
+Tue May 15 23:36:01 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.extensions.status.GhprbSimpleStatusTest-testDoesNotSendEmptyContext
+Tue May 15 23:36:01 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.extensions.status.GhprbSimpleStatusTest-testMergedMessage
+Tue May 15 23:36:01 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.extensions.status.GhprbSimpleStatusTest
+Tue May 15 23:36:02 UTC 2018: Found element on the queue
+Tue May 15 23:36:02 UTC 2018: Updating status
+Tue May 15 23:36:02 UTC 2018: Working
+Tue May 15 23:36:05 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.manager.configuration.JobConfigurationTest
+Tue May 15 23:36:05 UTC 2018: Setting lastTestMethodIndex: 51314
+Tue May 15 23:36:05 UTC 2018: Starting linking
+Tue May 15 23:36:05 UTC 2018: Code found org.jenkinsci.plugins.ghprb.manager.configuration.JobConfiguration$JobConfigurationBuilder-printStackTrace with org.jenkinsci.plugins.ghprb.manager.configuration.JobConfigurationTest-shouldNotPrintStackTrace
+Tue May 15 23:36:05 UTC 2018: Code found org.jenkinsci.plugins.ghprb.manager.configuration.JobConfiguration$JobConfigurationBuilder-printStackTrace with org.jenkinsci.plugins.ghprb.manager.configuration.JobConfigurationTest-shouldPrintStackTrace
+Tue May 15 23:36:05 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.manager.configuration.JobConfigurationTest
+Tue May 15 23:36:06 UTC 2018: Found element on the queue
+Tue May 15 23:36:06 UTC 2018: Updating status
+Tue May 15 23:36:06 UTC 2018: Working
+Tue May 15 23:36:08 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.manager.factory.GhprbBuildManagerFactoryUtilTest
+Tue May 15 23:36:08 UTC 2018: Setting lastTestMethodIndex: 51317
+Tue May 15 23:36:08 UTC 2018: Starting linking
+Tue May 15 23:36:08 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.manager.factory.GhprbBuildManagerFactoryUtilTest-shouldReturnDefaultManager
+Tue May 15 23:36:09 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.manager.factory.GhprbBuildManagerFactoryUtilTest-shouldReturnBuildFlowManager
+Tue May 15 23:36:09 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.manager.factory.GhprbBuildManagerFactoryUtilTest
+Tue May 15 23:36:09 UTC 2018: Found element on the queue
+Tue May 15 23:36:09 UTC 2018: Updating status
+Tue May 15 23:36:09 UTC 2018: Working
+Tue May 15 23:36:12 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.manager.impl.GhprbDefaultBuildManagerTest
+Tue May 15 23:36:12 UTC 2018: Setting lastTestMethodIndex: 51320
+Tue May 15 23:36:12 UTC 2018: Starting linking
+Tue May 15 23:36:12 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.manager.impl.GhprbDefaultBuildManagerTest-shouldCalculateUrlFromDefault
+Tue May 15 23:36:12 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.manager.impl.GhprbDefaultBuildManagerTest
+Tue May 15 23:36:13 UTC 2018: Found element on the queue
+Tue May 15 23:36:13 UTC 2018: Updating status
+Tue May 15 23:36:13 UTC 2018: Working
+Tue May 15 23:36:15 UTC 2018: Start jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.manager.impl.downstreambuilds.BuildFlowBuildManagerTest
+Tue May 15 23:36:15 UTC 2018: Setting lastTestMethodIndex: 51322
+Tue May 15 23:36:15 UTC 2018: Starting linking
+Tue May 15 23:36:15 UTC 2018: No link for: org.jenkinsci.plugins.ghprb.manager.impl.downstreambuilds.BuildFlowBuildManagerTest-shouldCalculateUrlWithDownstreamBuilds
+Tue May 15 23:36:16 UTC 2018: Linking done for jenkinsci__ghprb-plugin test class org.jenkinsci.plugins.ghprb.manager.impl.downstreambuilds.BuildFlowBuildManagerTest

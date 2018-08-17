@@ -1,0 +1,402 @@
+Wed May 16 05:43:45 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 05:43:46 UTC 2018: Starting
+Wed May 16 05:43:46 UTC 2018: Found element on the queue
+Wed May 16 05:43:46 UTC 2018: Updating status
+Wed May 16 05:43:46 UTC 2018: Working
+Wed May 16 05:43:46 UTC 2018: Create project parser
+Wed May 16 05:43:52 UTC 2018: Create slicer
+Wed May 16 05:43:54 UTC 2018: Create call graph
+Wed May 16 05:43:57 UTC 2018: Create point analysis
+Wed May 16 05:43:57 UTC 2018: Create call graph done
+Wed May 16 05:43:57 UTC 2018: Start mayankdevops__onlinebankin test class actionForm.ActionFormSingleFileForAllTest
+Wed May 16 05:43:57 UTC 2018: Setting lastTestMethodIndex: 63556
+Wed May 16 05:43:57 UTC 2018: Starting linking
+Wed May 16 05:43:57 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testEmp_AddClientGetterSetter
+Wed May 16 05:43:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:43:57 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testClientViewGetterSetter
+Wed May 16 05:43:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:43:57 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testAdmin_LoginGetterSetter
+Wed May 16 05:43:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:43:58 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testEmp_LoginManGetterSetter
+Wed May 16 05:43:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:43:58 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testAdmin_AddEmpGetterSetter
+Wed May 16 05:43:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:43:59 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testAdmin_LoginManGetterSetter
+Wed May 16 05:43:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:43:59 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testBankDetailsGetterSetteer
+Wed May 16 05:43:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:43:59 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testAdmin_EmpChPwGetterSetter
+Wed May 16 05:44:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:00 UTC 2018: No link for: actionForm.ActionFormSingleFileForAllTest-testEmp_AddTansGetterSetter
+Wed May 16 05:44:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:00 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionForm.ActionFormSingleFileForAllTest
+Wed May 16 05:44:01 UTC 2018: Found element on the queue
+Wed May 16 05:44:01 UTC 2018: Updating status
+Wed May 16 05:44:01 UTC 2018: Working
+Wed May 16 05:44:03 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Admin_ClientChPW_ActionTest
+Wed May 16 05:44:03 UTC 2018: Setting lastTestMethodIndex: 63561
+Wed May 16 05:44:03 UTC 2018: Starting linking
+Wed May 16 05:44:03 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwWithequalCnewPwAndNewpw
+Wed May 16 05:44:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:04 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwWithemptyCnewPw
+Wed May 16 05:44:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:04 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwEmptyNewPw
+Wed May 16 05:44:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:04 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwWithemptyBankId
+Wed May 16 05:44:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:05 UTC 2018: No link for: actionClass.Admin_ClientChPW_ActionTest-changeEmpPwWithUnequalCnewPwAndNewpw
+Wed May 16 05:44:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:05 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Admin_ClientChPW_ActionTest
+Wed May 16 05:44:06 UTC 2018: Found element on the queue
+Wed May 16 05:44:06 UTC 2018: Updating status
+Wed May 16 05:44:06 UTC 2018: Working
+Wed May 16 05:44:08 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Emp_AddTrans_ActionTest
+Wed May 16 05:44:08 UTC 2018: Setting lastTestMethodIndex: 63565
+Wed May 16 05:44:08 UTC 2018: Starting linking
+Wed May 16 05:44:08 UTC 2018: Code found actionClass.Emp_AddTrans_Action-getWith with actionClass.Emp_AddTrans_ActionTest-testSetGetWithcoverage
+Wed May 16 05:44:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:09 UTC 2018: Code found actionClass.Emp_AddTrans_Action-deposit with actionClass.Emp_AddTrans_ActionTest-testEmpAddTransDeposit
+Wed May 16 05:44:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:09 UTC 2018: Code found actionClass.Emp_AddTrans_Action-viewcls with actionClass.Emp_AddTrans_ActionTest-testEmpAddTransviewcls
+Wed May 16 05:44:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:09 UTC 2018: No link for: actionClass.Emp_AddTrans_ActionTest-testEmpAddTransWithdrawTestfalse
+Wed May 16 05:44:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:10 UTC 2018: No link for: actionClass.Emp_AddTrans_ActionTest-testEmpAddTransWithdraw
+Wed May 16 05:44:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:10 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Emp_AddTrans_ActionTest
+Wed May 16 05:44:11 UTC 2018: Found element on the queue
+Wed May 16 05:44:11 UTC 2018: Updating status
+Wed May 16 05:44:11 UTC 2018: Working
+Wed May 16 05:44:13 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Emp_AddClientTest
+Wed May 16 05:44:13 UTC 2018: Setting lastTestMethodIndex: 63568
+Wed May 16 05:44:13 UTC 2018: Starting linking
+Wed May 16 05:44:13 UTC 2018: Code found actionClass.Emp_AddClient_Action-addClients with actionClass.Emp_AddClientTest-testEmp_AddClients
+Wed May 16 05:44:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:14 UTC 2018: Code found actionClass.Emp_AddClient_Action-editclient with actionClass.Emp_AddClientTest-testEmp_EditClient
+Wed May 16 05:44:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:14 UTC 2018: Code found actionClass.Emp_AddClient_Action-addClient with actionClass.Emp_AddClientTest-testEmp_AddClient
+Wed May 16 05:44:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:14 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Emp_AddClientTest
+Wed May 16 05:44:15 UTC 2018: Found element on the queue
+Wed May 16 05:44:15 UTC 2018: Updating status
+Wed May 16 05:44:15 UTC 2018: Working
+Wed May 16 05:44:17 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Bank_Detail_ActionTest
+Wed May 16 05:44:17 UTC 2018: Setting lastTestMethodIndex: 63570
+Wed May 16 05:44:17 UTC 2018: Starting linking
+Wed May 16 05:44:17 UTC 2018: Code found actionClass.Bank_Detail_Action-addBank with actionClass.Bank_Detail_ActionTest-testAddbank
+Wed May 16 05:44:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:18 UTC 2018: Code found actionClass.Bank_Detail_Action-execute with actionClass.Bank_Detail_ActionTest-testExecute
+Wed May 16 05:44:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:18 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Bank_Detail_ActionTest
+Wed May 16 05:44:19 UTC 2018: Found element on the queue
+Wed May 16 05:44:19 UTC 2018: Updating status
+Wed May 16 05:44:19 UTC 2018: Working
+Wed May 16 05:44:21 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Admin_Add_Emp_ActionTest
+Wed May 16 05:44:21 UTC 2018: Setting lastTestMethodIndex: 63573
+Wed May 16 05:44:21 UTC 2018: Starting linking
+Wed May 16 05:44:21 UTC 2018: Code found actionClass.Admin_AddEmp_Action-getAdd with actionClass.Admin_Add_Emp_ActionTest-testgetAdds
+Wed May 16 05:44:21 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:21 UTC 2018: Code found actionClass.Admin_AddEmp_Action-getXyz with actionClass.Admin_Add_Emp_ActionTest-testgetXYZ
+Wed May 16 05:44:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:22 UTC 2018: Code found actionClass.Admin_AddEmp_Action-addEmp with actionClass.Admin_Add_Emp_ActionTest-testAddEmp
+Wed May 16 05:44:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:22 UTC 2018: Code found actionClass.Admin_AddEmp_Action-addEmps with actionClass.Admin_Add_Emp_ActionTest-testAddEmps
+Wed May 16 05:44:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:23 UTC 2018: No link for: actionClass.Admin_Add_Emp_ActionTest-testgetAdd
+Wed May 16 05:44:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:23 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Admin_Add_Emp_ActionTest
+Wed May 16 05:44:23 UTC 2018: Found element on the queue
+Wed May 16 05:44:23 UTC 2018: Updating status
+Wed May 16 05:44:23 UTC 2018: Working
+Wed May 16 05:44:26 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Admin_Login_ActionTest
+Wed May 16 05:44:26 UTC 2018: Setting lastTestMethodIndex: 63577
+Wed May 16 05:44:26 UTC 2018: Starting linking
+Wed May 16 05:44:26 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLogintestCheckLoginSuccessBankIdEmpty
+Wed May 16 05:44:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:26 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLogintestCheckLoginfailBankIdEmpty
+Wed May 16 05:44:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:27 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwSuccess
+Wed May 16 05:44:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:27 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwFailnotmatch
+Wed May 16 05:44:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:27 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwSuccessTestnot
+Wed May 16 05:44:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:28 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLogintestCheckLoginErrorBankIdNull
+Wed May 16 05:44:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:28 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwFailNewPwEmpty
+Wed May 16 05:44:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:29 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLogintestCheckLoginfailPasswordEmpty
+Wed May 16 05:44:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:29 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwFailoldPwEmpty
+Wed May 16 05:44:29 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:29 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwFailCNewPwEmpty
+Wed May 16 05:44:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:30 UTC 2018: Code found actionClass.Admin_Login_Action-changepw with actionClass.Admin_Login_ActionTest-testChangePwSuccessTestgood
+Wed May 16 05:44:30 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:30 UTC 2018: Code found actionClass.Admin_Login_Action-execute with actionClass.Admin_Login_ActionTest-testExecute
+Wed May 16 05:44:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:31 UTC 2018: Code found actionClass.Admin_Login_Action-checkLogin with actionClass.Admin_Login_ActionTest-testCheckLoginfailUsNameEmpty
+Wed May 16 05:44:31 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:31 UTC 2018: No link for: actionClass.Admin_Login_ActionTest-testLogin
+Wed May 16 05:44:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:31 UTC 2018: No link for: actionClass.Admin_Login_ActionTest-testCheckLoginGetCoverage
+Wed May 16 05:44:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:32 UTC 2018: No link for: actionClass.Admin_Login_ActionTest-testEmplogout
+Wed May 16 05:44:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:32 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Admin_Login_ActionTest
+Wed May 16 05:44:32 UTC 2018: Found element on the queue
+Wed May 16 05:44:32 UTC 2018: Updating status
+Wed May 16 05:44:32 UTC 2018: Working
+Wed May 16 05:44:35 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Emp_Login_ActionTest
+Wed May 16 05:44:35 UTC 2018: Setting lastTestMethodIndex: 63584
+Wed May 16 05:44:35 UTC 2018: Starting linking
+Wed May 16 05:44:35 UTC 2018: Code found actionClass.Emp_Login_Action-logout with actionClass.Emp_Login_ActionTest-testEmplogout
+Wed May 16 05:44:35 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:35 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwFailoldPwEmpty
+Wed May 16 05:44:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:36 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwSuccessTestgood
+Wed May 16 05:44:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:36 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwSuccessTestnot
+Wed May 16 05:44:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:36 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLogintestCheckLoginErrorBankIdNull
+Wed May 16 05:44:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:37 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwFailCNewPwEmpty
+Wed May 16 05:44:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:37 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwFailnotmatch
+Wed May 16 05:44:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:37 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLogintestCheckLoginfailBankIdEmpty
+Wed May 16 05:44:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:38 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwFailNewPwEmpty
+Wed May 16 05:44:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:38 UTC 2018: Code found actionClass.Emp_Login_Action-changepw with actionClass.Emp_Login_ActionTest-testChangePwSuccess
+Wed May 16 05:44:39 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:39 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLogintestCheckLoginfailPasswordEmpty
+Wed May 16 05:44:39 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:39 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLoginfailUsNameEmpty
+Wed May 16 05:44:40 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:40 UTC 2018: Code found actionClass.Emp_Login_Action-checkLogin with actionClass.Emp_Login_ActionTest-testCheckLogintestCheckLoginSuccessBankIdEmpty
+Wed May 16 05:44:40 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:40 UTC 2018: Code found actionClass.Emp_Login_Action-execute with actionClass.Emp_Login_ActionTest-testExecuteEmp
+Wed May 16 05:44:41 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:41 UTC 2018: No link for: actionClass.Emp_Login_ActionTest-testCheckLoginGetCoverage
+Wed May 16 05:44:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:41 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Emp_Login_ActionTest
+Wed May 16 05:44:42 UTC 2018: Found element on the queue
+Wed May 16 05:44:42 UTC 2018: Updating status
+Wed May 16 05:44:42 UTC 2018: Working
+Wed May 16 05:44:45 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Client_View_ActionTest
+Wed May 16 05:44:45 UTC 2018: Setting lastTestMethodIndex: 63589
+Wed May 16 05:44:45 UTC 2018: Starting linking
+Wed May 16 05:44:45 UTC 2018: Code found actionClass.Client_View_Action-viewcl with actionClass.Client_View_ActionTest-testViewCl
+Wed May 16 05:44:45 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:45 UTC 2018: No link for: actionClass.Client_View_ActionTest-testViewClsetGetCoverage
+Wed May 16 05:44:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:46 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Client_View_ActionTest
+Wed May 16 05:44:46 UTC 2018: Found element on the queue
+Wed May 16 05:44:46 UTC 2018: Updating status
+Wed May 16 05:44:46 UTC 2018: Working
+Wed May 16 05:44:49 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Client_Login_ActionTest
+Wed May 16 05:44:49 UTC 2018: Setting lastTestMethodIndex: 63591
+Wed May 16 05:44:49 UTC 2018: Starting linking
+Wed May 16 05:44:49 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLoginfailUsNameEmpty
+Wed May 16 05:44:49 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:49 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwFailoldPwEmpty
+Wed May 16 05:44:50 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:50 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLogintestCheckLoginfailBankIdEmpty
+Wed May 16 05:44:50 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:50 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwFailCNewPwEmpty
+Wed May 16 05:44:50 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:50 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwFailNewPwEmpty
+Wed May 16 05:44:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:51 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwSuccessTestnot
+Wed May 16 05:44:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:51 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLogintestCheckLoginErrorBankIdNull
+Wed May 16 05:44:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:52 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLogintestCheckLoginSuccessBankIdEmpty
+Wed May 16 05:44:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:52 UTC 2018: Code found actionClass.Client_Login_Action-checkLogin with actionClass.Client_Login_ActionTest-testCheckLogintestCheckLoginfailPasswordEmpty
+Wed May 16 05:44:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:52 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwSuccessTestgood
+Wed May 16 05:44:53 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:53 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwFailnotmatch
+Wed May 16 05:44:53 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:53 UTC 2018: Code found actionClass.Client_Login_Action-changepw with actionClass.Client_Login_ActionTest-testChangePwSuccess
+Wed May 16 05:44:54 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:54 UTC 2018: Code found actionClass.Client_Login_Action-execute with actionClass.Client_Login_ActionTest-testExecuteEmp
+Wed May 16 05:44:54 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:54 UTC 2018: Code found actionClass.Client_Login_Action-logout with actionClass.Client_Login_ActionTest-testEmplogout
+Wed May 16 05:44:55 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:44:55 UTC 2018: No link for: actionClass.Client_Login_ActionTest-testCheckLoginGetCoverage
+Wed May 16 05:44:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:55 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Client_Login_ActionTest
+Wed May 16 05:44:56 UTC 2018: Found element on the queue
+Wed May 16 05:44:56 UTC 2018: Updating status
+Wed May 16 05:44:56 UTC 2018: Working
+Wed May 16 05:44:58 UTC 2018: Start mayankdevops__onlinebankin test class actionClass.Admin_EmpChPW_ActionTest
+Wed May 16 05:44:58 UTC 2018: Setting lastTestMethodIndex: 63595
+Wed May 16 05:44:58 UTC 2018: Starting linking
+Wed May 16 05:44:58 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwWithemptyBankId
+Wed May 16 05:44:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:58 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwWithemptyCnewPw
+Wed May 16 05:44:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:59 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwWithUnequalCnewPwAndNewpw
+Wed May 16 05:44:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:44:59 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwEmptyNewPw
+Wed May 16 05:45:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:45:00 UTC 2018: No link for: actionClass.Admin_EmpChPW_ActionTest-changeEmpPwWithequalCnewPwAndNewpw
+Wed May 16 05:45:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:45:00 UTC 2018: Linking done for mayankdevops__onlinebankin test class actionClass.Admin_EmpChPW_ActionTest
+Wed May 16 05:45:01 UTC 2018: Found element on the queue
+Wed May 16 05:45:01 UTC 2018: Updating status
+Wed May 16 05:45:01 UTC 2018: Working
+Wed May 16 05:45:03 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Admin_ClientChPW_DaoImplTest
+Wed May 16 05:45:03 UTC 2018: Setting lastTestMethodIndex: 63599
+Wed May 16 05:45:03 UTC 2018: Starting linking
+Wed May 16 05:45:03 UTC 2018: Code found daoImpl.Admin_ClientChPW_DaoImpl-changepw with daoImpl.Admin_ClientChPW_DaoImplTest-testchangepw
+Wed May 16 05:45:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:04 UTC 2018: Code found daoImpl.Admin_ClientChPW_DaoImpl-changepw with daoImpl.Admin_ClientChPW_DaoImplTest-testchangepwExceptionHandled
+Wed May 16 05:45:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:04 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Admin_ClientChPW_DaoImplTest
+Wed May 16 05:45:04 UTC 2018: Found element on the queue
+Wed May 16 05:45:04 UTC 2018: Updating status
+Wed May 16 05:45:05 UTC 2018: Working
+Wed May 16 05:45:07 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Emp_AddClient_DaoImplTest
+Wed May 16 05:45:07 UTC 2018: Setting lastTestMethodIndex: 63603
+Wed May 16 05:45:07 UTC 2018: Starting linking
+Wed May 16 05:45:07 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-list with daoImpl.Emp_AddClient_DaoImplTest-testlistClients
+Wed May 16 05:45:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:07 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-eclient with daoImpl.Emp_AddClient_DaoImplTest-testEClientsExceptionHanldled
+Wed May 16 05:45:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:08 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-list with daoImpl.Emp_AddClient_DaoImplTest-testlistClientsExceptionHanlded
+Wed May 16 05:45:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:08 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-eclient with daoImpl.Emp_AddClient_DaoImplTest-testEClients
+Wed May 16 05:45:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:09 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-addClient with daoImpl.Emp_AddClient_DaoImplTest-testAddClientExceptionHanlded
+Wed May 16 05:45:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:09 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-addClients with daoImpl.Emp_AddClient_DaoImplTest-testAddClients
+Wed May 16 05:45:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:09 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-addClients with daoImpl.Emp_AddClient_DaoImplTest-testAddClientsExceptionHanlded
+Wed May 16 05:45:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:10 UTC 2018: Code found daoImpl.Emp_AddClient_DaoImpl-addClient with daoImpl.Emp_AddClient_DaoImplTest-testAddClient
+Wed May 16 05:45:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:10 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Emp_AddClient_DaoImplTest
+Wed May 16 05:45:11 UTC 2018: Found element on the queue
+Wed May 16 05:45:11 UTC 2018: Updating status
+Wed May 16 05:45:11 UTC 2018: Working
+Wed May 16 05:45:14 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Emp_AddTrans_DaoImplTest
+Wed May 16 05:45:14 UTC 2018: Setting lastTestMethodIndex: 63606
+Wed May 16 05:45:14 UTC 2018: Starting linking
+Wed May 16 05:45:14 UTC 2018: Code found daoImpl.Emp_AddTrans_DaoImpl-vish with daoImpl.Emp_AddTrans_DaoImplTest-testVish
+Wed May 16 05:45:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:14 UTC 2018: Code found daoImpl.Emp_AddTrans_DaoImpl-deposit with daoImpl.Emp_AddTrans_DaoImplTest-testDeposit
+Wed May 16 05:45:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:15 UTC 2018: Code found daoImpl.Emp_AddTrans_DaoImpl-list with daoImpl.Emp_AddTrans_DaoImplTest-testList
+Wed May 16 05:45:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:15 UTC 2018: No link for: daoImpl.Emp_AddTrans_DaoImplTest-testWithDraw
+Wed May 16 05:45:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:45:16 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Emp_AddTrans_DaoImplTest
+Wed May 16 05:45:16 UTC 2018: Found element on the queue
+Wed May 16 05:45:16 UTC 2018: Updating status
+Wed May 16 05:45:16 UTC 2018: Working
+Wed May 16 05:45:19 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Admin_EmpChPW_DaoImplTest
+Wed May 16 05:45:19 UTC 2018: Setting lastTestMethodIndex: 63608
+Wed May 16 05:45:19 UTC 2018: Starting linking
+Wed May 16 05:45:19 UTC 2018: Code found daoImpl.Admin_EmpChPW_DaoImpl-changepw with daoImpl.Admin_EmpChPW_DaoImplTest-testchangepw
+Wed May 16 05:45:19 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:19 UTC 2018: Code found daoImpl.Admin_EmpChPW_DaoImpl-changepw with daoImpl.Admin_EmpChPW_DaoImplTest-testchangepwExceptionHandled
+Wed May 16 05:45:20 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:20 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Admin_EmpChPW_DaoImplTest
+Wed May 16 05:45:20 UTC 2018: Found element on the queue
+Wed May 16 05:45:20 UTC 2018: Updating status
+Wed May 16 05:45:20 UTC 2018: Working
+Wed May 16 05:45:23 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Bank_Detail_DaoImplTest
+Wed May 16 05:45:23 UTC 2018: Setting lastTestMethodIndex: 63611
+Wed May 16 05:45:23 UTC 2018: Starting linking
+Wed May 16 05:45:23 UTC 2018: Code found daoImpl.Bank_Detail_DaoImpl-list with daoImpl.Bank_Detail_DaoImplTest-testlist
+Wed May 16 05:45:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:23 UTC 2018: Code found daoImpl.Bank_Detail_DaoImpl-addBank with daoImpl.Bank_Detail_DaoImplTest-testaddBank
+Wed May 16 05:45:24 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:24 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Bank_Detail_DaoImplTest
+Wed May 16 05:45:24 UTC 2018: Found element on the queue
+Wed May 16 05:45:24 UTC 2018: Updating status
+Wed May 16 05:45:24 UTC 2018: Working
+Wed May 16 05:45:27 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Emp_Login_DaoImplTest
+Wed May 16 05:45:27 UTC 2018: Setting lastTestMethodIndex: 63614
+Wed May 16 05:45:27 UTC 2018: Starting linking
+Wed May 16 05:45:27 UTC 2018: Code found daoImpl.Emp_Login_DaoImpl-checkLogin with daoImpl.Emp_Login_DaoImplTest-testCheckLogin
+Wed May 16 05:45:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:27 UTC 2018: Code found daoImpl.Emp_Login_DaoImpl-checkLogin with daoImpl.Emp_Login_DaoImplTest-testCheckLoginHandleException
+Wed May 16 05:45:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:28 UTC 2018: Code found daoImpl.Emp_Login_DaoImpl-checkLogin with daoImpl.Emp_Login_DaoImplTest-testCheckLoginHandleException2
+Wed May 16 05:45:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:28 UTC 2018: No link for: daoImpl.Emp_Login_DaoImplTest-testChangpwExcpetionHanldled
+Wed May 16 05:45:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:45:28 UTC 2018: No link for: daoImpl.Emp_Login_DaoImplTest-testChangpw
+Wed May 16 05:45:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:45:29 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Emp_Login_DaoImplTest
+Wed May 16 05:45:29 UTC 2018: Found element on the queue
+Wed May 16 05:45:29 UTC 2018: Updating status
+Wed May 16 05:45:29 UTC 2018: Working
+Wed May 16 05:45:32 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Client_View_DaoImplTest
+Wed May 16 05:45:32 UTC 2018: Setting lastTestMethodIndex: 63617
+Wed May 16 05:45:32 UTC 2018: Starting linking
+Wed May 16 05:45:32 UTC 2018: Code found daoImpl.Client_View_DaoImpl-list with daoImpl.Client_View_DaoImplTest-testListHandleException
+Wed May 16 05:45:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:32 UTC 2018: Code found daoImpl.Client_View_DaoImpl-vish with daoImpl.Client_View_DaoImplTest-testVish
+Wed May 16 05:45:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:32 UTC 2018: Code found daoImpl.Client_View_DaoImpl-list with daoImpl.Client_View_DaoImplTest-testList
+Wed May 16 05:45:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:33 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Client_View_DaoImplTest
+Wed May 16 05:45:33 UTC 2018: Found element on the queue
+Wed May 16 05:45:33 UTC 2018: Updating status
+Wed May 16 05:45:33 UTC 2018: Working
+Wed May 16 05:45:36 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Admin_AddEmp_DaoImplTest
+Wed May 16 05:45:36 UTC 2018: Setting lastTestMethodIndex: 63618
+Wed May 16 05:45:36 UTC 2018: Starting linking
+Wed May 16 05:45:36 UTC 2018: Code found daoImpl.Admin_AddEmp_DaoImpl-addEmp with daoImpl.Admin_AddEmp_DaoImplTest-testAddEmp
+Wed May 16 05:45:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:36 UTC 2018: Code found daoImpl.Admin_AddEmp_DaoImpl-addEmps with daoImpl.Admin_AddEmp_DaoImplTest-testAddEmps
+Wed May 16 05:45:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:37 UTC 2018: Code found daoImpl.Admin_AddEmp_DaoImpl-addEmp with daoImpl.Admin_AddEmp_DaoImplTest-testAddEmpExceptionHandled
+Wed May 16 05:45:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:37 UTC 2018: Code found daoImpl.Admin_AddEmp_DaoImpl-addEmps with daoImpl.Admin_AddEmp_DaoImplTest-testAddEmpsExceptionHanlded
+Wed May 16 05:45:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:37 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Admin_AddEmp_DaoImplTest
+Wed May 16 05:45:38 UTC 2018: Found element on the queue
+Wed May 16 05:45:38 UTC 2018: Updating status
+Wed May 16 05:45:38 UTC 2018: Working
+Wed May 16 05:45:41 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Client_Login_DaoImplTest
+Wed May 16 05:45:41 UTC 2018: Setting lastTestMethodIndex: 63619
+Wed May 16 05:45:41 UTC 2018: Starting linking
+Wed May 16 05:45:41 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-changepw with daoImpl.Client_Login_DaoImplTest-changepwExceptionHanlded
+Wed May 16 05:45:41 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:41 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-checkLogin with daoImpl.Client_Login_DaoImplTest-testcheckLoginExceptionHanlded
+Wed May 16 05:45:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:42 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-checkLogin with daoImpl.Client_Login_DaoImplTest-testcheckLoginHasEmptyqeryResult
+Wed May 16 05:45:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:42 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-checkLogin with daoImpl.Client_Login_DaoImplTest-testcheckLoginExHandllewithlesslist
+Wed May 16 05:45:42 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:42 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-checkLogin with daoImpl.Client_Login_DaoImplTest-testcheckLogin
+Wed May 16 05:45:43 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:43 UTC 2018: Code found daoImpl.Client_Login_DaoImpl-changepw with daoImpl.Client_Login_DaoImplTest-changepw
+Wed May 16 05:45:43 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:43 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Client_Login_DaoImplTest
+Wed May 16 05:45:44 UTC 2018: Found element on the queue
+Wed May 16 05:45:44 UTC 2018: Updating status
+Wed May 16 05:45:44 UTC 2018: Working
+Wed May 16 05:45:46 UTC 2018: Start mayankdevops__onlinebankin test class daoImpl.Admin_Login_DaoImplTest
+Wed May 16 05:45:46 UTC 2018: Setting lastTestMethodIndex: 63622
+Wed May 16 05:45:46 UTC 2018: Starting linking
+Wed May 16 05:45:46 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-checkLogin with daoImpl.Admin_Login_DaoImplTest-testcheckLoginHasEmptyqeryResult
+Wed May 16 05:45:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:47 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-checkLogin with daoImpl.Admin_Login_DaoImplTest-testcheckLoginExHandllewithlesslist
+Wed May 16 05:45:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:47 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-checkLogin with daoImpl.Admin_Login_DaoImplTest-testcheckLoginExceptionHanlded
+Wed May 16 05:45:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:47 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-checkLogin with daoImpl.Admin_Login_DaoImplTest-testcheckLogin
+Wed May 16 05:45:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:48 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-changepw with daoImpl.Admin_Login_DaoImplTest-changepwExceptionHanlded
+Wed May 16 05:45:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:48 UTC 2018: Code found daoImpl.Admin_Login_DaoImpl-changepw with daoImpl.Admin_Login_DaoImplTest-changepw
+Wed May 16 05:45:49 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:45:49 UTC 2018: Linking done for mayankdevops__onlinebankin test class daoImpl.Admin_Login_DaoImplTest

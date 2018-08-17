@@ -1,0 +1,39 @@
+Mon May 07 12:32:03 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon May 07 12:32:23 UTC 2018: No package for: /home/laurence/storage/tech-projects/xiezequn__sharding-jdbc-tes/sharding-jdbc-example/sharding-jdbc-example-mybatis/src/main/test/BidingTest.java
+Mon May 07 12:32:23 UTC 2018: No package for: /home/laurence/storage/tech-projects/xiezequn__sharding-jdbc-tes/sharding-jdbc-example/sharding-jdbc-example-mybatis/src/main/test/TransactionalTest.java
+Mon May 07 12:32:23 UTC 2018: No package for: /home/laurence/storage/tech-projects/xiezequn__sharding-jdbc-tes/sharding-jdbc-example/sharding-jdbc-example-mybatis/src/main/test/MulitTest.java
+Mon May 07 12:32:23 UTC 2018: No package for: /home/laurence/storage/tech-projects/xiezequn__sharding-jdbc-tes/sharding-jdbc-example/sharding-jdbc-example-mybatis/src/main/test/JoinTest.java
+Mon May 07 12:32:23 UTC 2018: No package for: /home/laurence/storage/tech-projects/xiezequn__sharding-jdbc-tes/sharding-jdbc-example/sharding-jdbc-example-mybatis/src/main/test/CrudTest.java
+Mon May 07 12:32:23 UTC 2018: No package for: /home/laurence/storage/tech-projects/xiezequn__sharding-jdbc-tes/sharding-jdbc-example/sharding-jdbc-example-mybatis/src/main/test/DynamicTest.java
+Mon May 07 12:32:23 UTC 2018: No package for: /home/laurence/storage/tech-projects/xiezequn__sharding-jdbc-tes/sharding-jdbc-example/sharding-jdbc-example-mybatis/src/main/test/MasterSlaveTest.java
+Mon May 07 12:45:30 UTC 2018: No package for: /home/laurence/storage/tech-projects/joansmith1__netty/buffer/src/test/java/io/netty/buffer/EmptyByteBufTest.java
+java.io.IOException: Is a directory
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.FileDispatcherImpl.read(FileDispatcherImpl.java:46)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:159)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at report.analysis.ReportTools.readFile(ReportTools.java:133)
+	at report.analysis.AnalyzeExtractor.processProjectWithoutReport(AnalyzeExtractor.java:33)
+	at application.AddTestsToQueue.processProject(AddTestsToQueue.java:106)
+	at application.AddTestsToQueue.main(AddTestsToQueue.java:85)
+Mon May 07 12:46:49 UTC 2018: No package for: 
+Mon May 07 13:57:10 UTC 2018: No package for: /home/laurence/storage/tech-projects/hn5092__opentsdb-2.3.0-incremen/test/tsd/TestGraphHandler.java
+Mon May 07 14:08:56 UTC 2018: No package for: /home/laurence/storage/tech-projects/mpfdj__OpenTriviaAPI/CucumberTest/src/test/java/WireMock1Test.java
+Mon May 07 14:08:56 UTC 2018: No package for: /home/laurence/storage/tech-projects/mpfdj__OpenTriviaAPI/CucumberTest/src/test/java/WireMock2Test.java
+Mon May 07 14:25:13 UTC 2018: No package for: /home/laurence/storage/tech-projects/zhaoguoquan94__nettyTes/buffer/src/test/java/io/netty/buffer/EmptyByteBufTest.java
+Mon May 07 14:28:48 UTC 2018: No package for: /home/laurence/storage/tech-projects/Stratio__Explorer/ingestion/src/test/java/IngestionUtilsTest.java
+Mon May 07 14:28:48 UTC 2018: No package for: /home/laurence/storage/tech-projects/Stratio__Explorer/ingestion/src/test/java/IngestionSyntaxParserTest.java
+Mon May 07 14:28:48 UTC 2018: No package for: /home/laurence/storage/tech-projects/Stratio__Explorer/ingestion/src/test/java/IngestionInterpreterIT.java
+Mon May 07 14:48:58 UTC 2018: No package for: /home/laurence/storage/tech-projects/bruce-sha__sa-netty/buffer/src/test/java/io/netty/buffer/EmptyByteBufTest.java

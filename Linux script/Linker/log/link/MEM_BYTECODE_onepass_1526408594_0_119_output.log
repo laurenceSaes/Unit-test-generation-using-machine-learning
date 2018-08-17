@@ -1,0 +1,189 @@
+Wed May 16 06:50:10 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:50:10 UTC 2018: Starting
+Wed May 16 06:50:11 UTC 2018: Found element on the queue
+Wed May 16 06:50:11 UTC 2018: Updating status
+Wed May 16 06:50:11 UTC 2018: Working
+Wed May 16 06:50:11 UTC 2018: Create project parser
+Wed May 16 06:50:16 UTC 2018: Create slicer
+Wed May 16 06:50:17 UTC 2018: Create call graph
+Wed May 16 06:50:20 UTC 2018: Create point analysis
+Wed May 16 06:50:20 UTC 2018: Create call graph done
+Wed May 16 06:50:20 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.api.TagServiceTest
+Wed May 16 06:50:20 UTC 2018: Setting lastTestMethodIndex: 65688
+Wed May 16 06:50:20 UTC 2018: Starting linking
+Wed May 16 06:50:20 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.TagServiceTest-getAll_shouldGetAllTags
+Wed May 16 06:50:21 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.TagServiceTest-add_shouldAddTag
+Wed May 16 06:50:21 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.api.TagServiceTest
+Wed May 16 06:50:22 UTC 2018: Found element on the queue
+Wed May 16 06:50:22 UTC 2018: Updating status
+Wed May 16 06:50:22 UTC 2018: Working
+Wed May 16 06:50:24 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest
+Wed May 16 06:50:24 UTC 2018: Setting lastTestMethodIndex: 65690
+Wed May 16 06:50:24 UTC 2018: Starting linking
+Wed May 16 06:50:24 UTC 2018: Code found org.openmrs.module.muzimaforms.XFormBuilder-xForm with org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-importExisting_shouldSetConvertedXform
+Wed May 16 06:50:25 UTC 2018: Code found org.openmrs.module.muzimaforms.XFormBuilder-xForm with org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-importExisting_shouldRetrieveExistingXFormAndConvertItIntoHTML5AndPersistAMuzimaForm
+Wed May 16 06:50:25 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-save_shouldSaveExistingForm
+Wed May 16 06:50:26 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-getAll_shouldGetAllForms
+Wed May 16 06:50:26 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-findByUUID_shouldFindFormByUUID
+Wed May 16 06:50:27 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-validateODK
+Wed May 16 06:50:27 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-findById_shouldFindFormById
+Wed May 16 06:50:27 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-shouldNotCreateHTMLFormIfFormNameAlreadyExists
+Wed May 16 06:50:28 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-shouldNotCreateFormIfTheNameAlreadyExists
+Wed May 16 06:50:28 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-validateJavaRosa
+Wed May 16 06:50:29 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-getXform_shouldLoadXForm
+Wed May 16 06:50:29 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-importODKShouldTransformUsingTheODK2HTML5Pipeline
+Wed May 16 06:50:30 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-shouldNotInteractWithAnyTransformersWhileUploadingHTML
+Wed May 16 06:50:30 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest-shouldCreateFormIfSimilarNameExistsButNotExactMatch
+Wed May 16 06:50:31 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.api.MuzimaFormServiceImplTest
+Wed May 16 06:50:31 UTC 2018: Found element on the queue
+Wed May 16 06:50:31 UTC 2018: Updating status
+Wed May 16 06:50:31 UTC 2018: Working
+Wed May 16 06:50:34 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest
+Wed May 16 06:50:34 UTC 2018: Setting lastTestMethodIndex: 65696
+Wed May 16 06:50:34 UTC 2018: Starting linking
+Wed May 16 06:50:34 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest-getAll_shouldGetAll
+Wed May 16 06:50:34 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest-findByUUID_shouldFindByUUID
+Wed May 16 06:50:34 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest-getXForms_shouldGetXForms
+Wed May 16 06:50:35 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest-saveForm_shouldAssignAnExistingTag
+Wed May 16 06:50:35 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest-findById_shouldFindById
+Wed May 16 06:50:36 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest-saveForm_shouldSaveForm
+Wed May 16 06:50:36 UTC 2018: No link for: org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest-saveForm_shouldAssignANewTag
+Wed May 16 06:50:37 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.api.MuzimaFormDAOTest
+Wed May 16 06:50:37 UTC 2018: Found element on the queue
+Wed May 16 06:50:37 UTC 2018: Updating status
+Wed May 16 06:50:37 UTC 2018: Working
+Wed May 16 06:50:40 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest
+Wed May 16 06:50:40 UTC 2018: Setting lastTestMethodIndex: 65699
+Wed May 16 06:50:40 UTC 2018: Starting linking
+Wed May 16 06:50:40 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveTheTodayFieldBindingInTheJSON
+Wed May 16 06:50:40 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldContainSectionSubFormsInTheJSON
+Wed May 16 06:50:41 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveTheStreetFieldBindingInTheSubForm
+Wed May 16 06:50:41 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveTheTimeFieldInTheJSON
+Wed May 16 06:50:42 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveFieldsInSubForms
+Wed May 16 06:50:42 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveTheTimeFieldBindingInTheJSON
+Wed May 16 06:50:43 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldOnlyHaveTwoElementInTheFieldSection
+Wed May 16 06:50:43 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldOnlyOneFieldInTheSubForm
+Wed May 16 06:50:44 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldContainASubformWithBindTypeChild
+Wed May 16 06:50:44 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldContainASubformWithNameAddress
+Wed May 16 06:50:45 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveTheTodayFieldInTheJSON
+Wed May 16 06:50:45 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveTheDateFieldBindingInTheJSON
+Wed May 16 06:50:46 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveTheDateFieldInTheJSON
+Wed May 16 06:50:46 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest-shouldHaveTheStreetFieldInTheSubForm
+Wed May 16 06:50:47 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.xForm2MuzimaTransform.JavaRosaModelToJSONTest
+Wed May 16 06:50:47 UTC 2018: Found element on the queue
+Wed May 16 06:50:47 UTC 2018: Updating status
+Wed May 16 06:50:47 UTC 2018: Working
+Wed May 16 06:50:50 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest
+Wed May 16 06:50:50 UTC 2018: Setting lastTestMethodIndex: 65705
+Wed May 16 06:50:50 UTC 2018: Starting linking
+Wed May 16 06:50:50 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertHeadToHHead
+Wed May 16 06:50:50 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertTitleToHTitle
+Wed May 16 06:50:51 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertXfBodyToHBody
+Wed May 16 06:50:51 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-ignoreBindAttributeOnRepeatTag
+Wed May 16 06:50:52 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertMultipleAttributeToTemplate
+Wed May 16 06:50:52 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertInstanceTagAndRemoveInstanceId
+Wed May 16 06:50:53 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertXFormsToHHTML
+Wed May 16 06:50:53 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertAndRemoveHintTag
+Wed May 16 06:50:54 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertXfModelToHModel
+Wed May 16 06:50:54 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertBodyToHBody
+Wed May 16 06:50:54 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertBindAttributeToRef
+Wed May 16 06:50:55 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertXfTitleToHTitle
+Wed May 16 06:50:55 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertXfXFormsToHHTML
+Wed May 16 06:50:56 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertXfHeadToHHead
+Wed May 16 06:50:56 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertFormTagAndRemoveAllAttributes
+Wed May 16 06:50:57 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest-convertModelToHModel
+Wed May 16 06:50:57 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.xForm2MuzimaTransform.ODK2JavarosaTransformerTest
+Wed May 16 06:50:58 UTC 2018: Found element on the queue
+Wed May 16 06:50:58 UTC 2018: Updating status
+Wed May 16 06:50:58 UTC 2018: Working
+Wed May 16 06:51:00 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.xForm2MuzimaTransform.EnketoHttpClientTest
+Wed May 16 06:51:00 UTC 2018: Setting lastTestMethodIndex: 65711
+Wed May 16 06:51:00 UTC 2018: Starting linking
+Wed May 16 06:51:00 UTC 2018: Code found org.openmrs.module.muzimaforms.xForm2MuzimaTransform.EnketoHttpClient-transform with org.openmrs.module.muzimaforms.xForm2MuzimaTransform.EnketoHttpClientTest-transform_shouldCallEnketoServer
+Wed May 16 06:51:01 UTC 2018: Code found org.openmrs.module.muzimaforms.xForm2MuzimaTransform.EnketoHttpClient-transform with org.openmrs.module.muzimaforms.xForm2MuzimaTransform.EnketoHttpClientTest-transform_integrationTest
+Wed May 16 06:51:01 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.xForm2MuzimaTransform.EnketoHttpClientTest
+Wed May 16 06:51:02 UTC 2018: Found element on the queue
+Wed May 16 06:51:02 UTC 2018: Updating status
+Wed May 16 06:51:02 UTC 2018: Working
+Wed May 16 06:51:04 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.xForm2MuzimaTransform.XslTransformPipelineTest
+Wed May 16 06:51:04 UTC 2018: Setting lastTestMethodIndex: 65714
+Wed May 16 06:51:04 UTC 2018: Starting linking
+Wed May 16 06:51:04 UTC 2018: Code found org.openmrs.module.muzimaforms.xForm2MuzimaTransform.XslTransformPipeline-push with org.openmrs.module.muzimaforms.xForm2MuzimaTransform.XslTransformPipelineTest-push_shouldAddToTheList
+Wed May 16 06:51:05 UTC 2018: No link for: org.openmrs.module.muzimaforms.xForm2MuzimaTransform.XslTransformPipelineTest-shouldHaveAXForm2JavarosaXSLInThePipeline
+Wed May 16 06:51:05 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.xForm2MuzimaTransform.XslTransformPipelineTest
+Wed May 16 06:51:06 UTC 2018: Found element on the queue
+Wed May 16 06:51:06 UTC 2018: Updating status
+Wed May 16 06:51:06 UTC 2018: Working
+Wed May 16 06:51:09 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.MuzimaFormTest
+Wed May 16 06:51:09 UTC 2018: Setting lastTestMethodIndex: 65717
+Wed May 16 06:51:09 UTC 2018: Starting linking
+Wed May 16 06:51:09 UTC 2018: No link for: org.openmrs.module.muzimaforms.MuzimaFormTest-description_shouldReturnAnEmptyStringIfItIsNull
+Wed May 16 06:51:09 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.MuzimaFormTest
+Wed May 16 06:51:09 UTC 2018: Found element on the queue
+Wed May 16 06:51:09 UTC 2018: Updating status
+Wed May 16 06:51:09 UTC 2018: Working
+Wed May 16 06:51:12 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.AdminListExtensionTest
+Wed May 16 06:51:12 UTC 2018: Setting lastTestMethodIndex: 65719
+Wed May 16 06:51:12 UTC 2018: Starting linking
+Wed May 16 06:51:12 UTC 2018: No link for: org.openmrs.module.muzimaforms.AdminListExtensionTest-testMediaTypeIsHtml
+Wed May 16 06:51:13 UTC 2018: No link for: org.openmrs.module.muzimaforms.AdminListExtensionTest-testValidatesLinks
+Wed May 16 06:51:13 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.openmrs.module.muzimaforms.AdminListExtensionTest
+Wed May 16 06:51:14 UTC 2018: Found element on the queue
+Wed May 16 06:51:14 UTC 2018: Updating status
+Wed May 16 06:51:14 UTC 2018: Working
+Wed May 16 06:51:14 UTC 2018: Create project parser
+Wed May 16 06:51:22 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.javarosa.xform.parse.ValidationMessagesTest
+Wed May 16 06:51:22 UTC 2018: Setting lastTestMethodIndex: 65724
+Wed May 16 06:51:22 UTC 2018: Starting linking
+Wed May 16 06:51:22 UTC 2018: Code found org.javarosa.xform.parse.ValidationMessages-addError with org.javarosa.xform.parse.ValidationMessagesTest-addError_shouldAddAValidationMessageOfTypeError
+Wed May 16 06:51:23 UTC 2018: Code found org.javarosa.xform.parse.ValidationMessages-addWarning with org.javarosa.xform.parse.ValidationMessagesTest-addWarning_shouldAddAValidationMessageOfTypeWarning
+Wed May 16 06:51:23 UTC 2018: Code found org.javarosa.xform.parse.ValidationMessages-clear with org.javarosa.xform.parse.ValidationMessagesTest-clear_shouldDeleteAllExistingValidationMessages
+Wed May 16 06:51:24 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.javarosa.xform.parse.ValidationMessagesTest
+Wed May 16 06:51:24 UTC 2018: Found element on the queue
+Wed May 16 06:51:24 UTC 2018: Updating status
+Wed May 16 06:51:24 UTC 2018: Working
+Wed May 16 06:51:27 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.javarosa.xform.parse.ValidationMessageTest
+Wed May 16 06:51:27 UTC 2018: Setting lastTestMethodIndex: 65729
+Wed May 16 06:51:27 UTC 2018: Starting linking
+Wed May 16 06:51:27 UTC 2018: No link for: org.javarosa.xform.parse.ValidationMessageTest-shouldConfirmThatTwoValidationMessagesAreEqualIfTheMessagesAndTheTypesAreTheSame
+Wed May 16 06:51:27 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.javarosa.xform.parse.ValidationMessageTest
+Wed May 16 06:51:28 UTC 2018: Found element on the queue
+Wed May 16 06:51:28 UTC 2018: Updating status
+Wed May 16 06:51:28 UTC 2018: Working
+Wed May 16 06:51:31 UTC 2018: Start mssavai__openmrs-module-muzimaforms test class org.javarosa.xform.parse.XFormParserTest
+Wed May 16 06:51:31 UTC 2018: Setting lastTestMethodIndex: 65731
+Wed May 16 06:51:31 UTC 2018: Starting linking
+Wed May 16 06:51:31 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnWarningForTextInvalidAttribute
+Wed May 16 06:51:31 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfModelHasInvalidChild
+Wed May 16 06:51:32 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfTextHasInvalidChild
+Wed May 16 06:51:32 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfBindHasInvalidCalculateCondition
+Wed May 16 06:51:32 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfDocumentIsNotAValidXML
+Wed May 16 06:51:33 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnWarningIfBindNodesetHasAnInvalidXPathExpression
+Wed May 16 06:51:33 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfBindHasInvalidConstraintCondition
+Wed May 16 06:51:34 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfBindNodeSetHasAnInvalidXPath
+Wed May 16 06:51:34 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfModelTextIsInvalid
+Wed May 16 06:51:34 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfHadInvalidXMLSyntax
+Wed May 16 06:51:35 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnWarningIfModelHasInvalidAttribute
+Wed May 16 06:51:35 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfThereAreMultipleInstanceTags
+Wed May 16 06:51:36 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfSubmissionHasInvalidRef
+Wed May 16 06:51:36 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnWarningForTranslationInvalidAttribute
+Wed May 16 06:51:36 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfBindExistsWithoutAnInstance
+Wed May 16 06:51:37 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnWarningForTextChildInvalidAttribute
+Wed May 16 06:51:37 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfITextHasTranslationTagWithoutLanguageAttribute
+Wed May 16 06:51:38 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfSubmissionHasInvalidBind
+Wed May 16 06:51:38 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnWarningIfITextInvalidAttribute
+Wed May 16 06:51:39 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfBindHasInvalidRequiredCondition
+Wed May 16 06:51:39 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfITextHasNoTranslations
+Wed May 16 06:51:39 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfITextHasDuplicateLanguageDefault
+Wed May 16 06:51:40 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnWarningIfBindHasInvalidAttributes
+Wed May 16 06:51:40 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfControlHasInvalidBinding
+Wed May 16 06:51:41 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfBindingIDIsNotUnique
+Wed May 16 06:51:41 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfThereAreMultipleModels
+Wed May 16 06:51:42 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfTextDefinitionIsDuplicate
+Wed May 16 06:51:42 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfTextHasNoId
+Wed May 16 06:51:42 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfITextHasDuplicateTranslationTag
+Wed May 16 06:51:43 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfBindHasInvalidReadOnlyCondition
+Wed May 16 06:51:43 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfRootElementIsInvalid
+Wed May 16 06:51:44 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfInstanceHadMoreThanOneChild
+Wed May 16 06:51:44 UTC 2018: Code found org.javarosa.xform.parse.XFormParser-validate with org.javarosa.xform.parse.XFormParserTest-validate_shouldReturnErrorIfBindHasNoNodeSet
+Wed May 16 06:51:45 UTC 2018: Linking done for mssavai__openmrs-module-muzimaforms test class org.javarosa.xform.parse.XFormParserTest

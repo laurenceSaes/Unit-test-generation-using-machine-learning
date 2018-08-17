@@ -1,0 +1,1140 @@
+Tue May 15 23:38:44 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 23:38:45 UTC 2018: Starting
+Tue May 15 23:38:45 UTC 2018: Found element on the queue
+Tue May 15 23:38:45 UTC 2018: Updating status
+Tue May 15 23:38:45 UTC 2018: Working
+Tue May 15 23:38:45 UTC 2018: Create project parser
+Tue May 15 23:38:49 UTC 2018: Create slicer
+Tue May 15 23:38:51 UTC 2018: Create call graph
+Tue May 15 23:38:56 UTC 2018: Create point analysis
+Tue May 15 23:38:56 UTC 2018: Create call graph done
+Tue May 15 23:38:56 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest
+Tue May 15 23:38:56 UTC 2018: Setting lastTestMethodIndex: 51419
+Tue May 15 23:38:56 UTC 2018: Starting linking
+Tue May 15 23:38:56 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest-testInitNoMatchingProvider
+Tue May 15 23:38:57 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest-testInitNoProviders
+Tue May 15 23:38:57 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest-testInit
+Tue May 15 23:38:57 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest-testInitMultipleProviders
+Tue May 15 23:38:58 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.client.internal.ClientIPCPropertiesBuilderTest
+Tue May 15 23:38:58 UTC 2018: Found element on the queue
+Tue May 15 23:38:58 UTC 2018: Updating status
+Tue May 15 23:38:58 UTC 2018: Working
+Tue May 15 23:39:01 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest
+Tue May 15 23:39:01 UTC 2018: Setting lastTestMethodIndex: 51422
+Tue May 15 23:39:01 UTC 2018: Starting linking
+Tue May 15 23:39:01 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest-testInit
+Tue May 15 23:39:01 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest-testInitMultipleProviders
+Tue May 15 23:39:02 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest-testInitNoMatchingProvider
+Tue May 15 23:39:02 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest-testInitNoProviders
+Tue May 15 23:39:02 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.client.ClientIPCServiceImplTest
+Tue May 15 23:39:03 UTC 2018: Found element on the queue
+Tue May 15 23:39:03 UTC 2018: Updating status
+Tue May 15 23:39:03 UTC 2018: Working
+Tue May 15 23:39:03 UTC 2018: Create project parser
+Tue May 15 23:39:06 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest
+Tue May 15 23:39:06 UTC 2018: Setting lastTestMethodIndex: 51425
+Tue May 15 23:39:06 UTC 2018: Starting linking
+Tue May 15 23:39:06 UTC 2018: Code found com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilder-getProperties with com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testGetProperties
+Tue May 15 23:39:06 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testGetPropertiesBadType
+Tue May 15 23:39:07 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testCloseOnLoadException
+Tue May 15 23:39:07 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testNoCloseOnNullStream
+Tue May 15 23:39:07 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest-testGetPropertiesNoType
+Tue May 15 23:39:07 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesBuilderTest
+Tue May 15 23:39:08 UTC 2018: Found element on the queue
+Tue May 15 23:39:08 UTC 2018: Updating status
+Tue May 15 23:39:08 UTC 2018: Working
+Tue May 15 23:39:10 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest
+Tue May 15 23:39:10 UTC 2018: Setting lastTestMethodIndex: 51428
+Tue May 15 23:39:10 UTC 2018: Starting linking
+Tue May 15 23:39:10 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testFromConfigValueMapImmutable
+Tue May 15 23:39:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testFromConfigValueMapNoUnknown
+Tue May 15 23:39:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testFromConfigValueBad
+Tue May 15 23:39:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testGetConfigValue
+Tue May 15 23:39:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest-testFromConfigValue
+Tue May 15 23:39:12 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.common.internal.IPCTypeTest
+Tue May 15 23:39:12 UTC 2018: Found element on the queue
+Tue May 15 23:39:12 UTC 2018: Updating status
+Tue May 15 23:39:12 UTC 2018: Working
+Tue May 15 23:39:15 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest
+Tue May 15 23:39:15 UTC 2018: Setting lastTestMethodIndex: 51430
+Tue May 15 23:39:15 UTC 2018: Starting linking
+Tue May 15 23:39:15 UTC 2018: Code found com.redhat.thermostat.agent.ipc.common.internal.IPCProperties-getPropertiesFile with com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest-testGetPropertiesFile
+Tue May 15 23:39:15 UTC 2018: Code found com.redhat.thermostat.agent.ipc.common.internal.IPCProperties-getType with com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest-testGetType
+Tue May 15 23:39:16 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest-testNullFile
+Tue May 15 23:39:16 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest-testNullType
+Tue May 15 23:39:16 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.common.internal.IPCPropertiesTest
+Tue May 15 23:39:17 UTC 2018: Found element on the queue
+Tue May 15 23:39:17 UTC 2018: Updating status
+Tue May 15 23:39:17 UTC 2018: Working
+Tue May 15 23:39:17 UTC 2018: Create project parser
+Tue May 15 23:39:20 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest
+Tue May 15 23:39:20 UTC 2018: Setting lastTestMethodIndex: 51432
+Tue May 15 23:39:20 UTC 2018: Starting linking
+Tue May 15 23:39:20 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannel-close with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest-testClose
+Tue May 15 23:39:20 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannel-isOpen with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest-testIsOpen
+Tue May 15 23:39:21 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannel-writeMessage with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest-testWriteMessage
+Tue May 15 23:39:21 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannel-readMessage with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest-testReadMessage
+Tue May 15 23:39:21 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketMessageChannelTest
+Tue May 15 23:39:22 UTC 2018: Found element on the queue
+Tue May 15 23:39:22 UTC 2018: Updating status
+Tue May 15 23:39:22 UTC 2018: Working
+Tue May 15 23:39:24 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest
+Tue May 15 23:39:24 UTC 2018: Setting lastTestMethodIndex: 51434
+Tue May 15 23:39:24 UTC 2018: Starting linking
+Tue May 15 23:39:24 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest-testConnectToServer
+Tue May 15 23:39:25 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest-testConnectToServerBadSocket
+Tue May 15 23:39:25 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest-testBadProperties
+Tue May 15 23:39:25 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.client.internal.TcpSocketTransportImplTest
+Tue May 15 23:39:26 UTC 2018: Found element on the queue
+Tue May 15 23:39:26 UTC 2018: Updating status
+Tue May 15 23:39:26 UTC 2018: Working
+Tue May 15 23:39:26 UTC 2018: Create project parser
+Tue May 15 23:39:30 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest
+Tue May 15 23:39:30 UTC 2018: Setting lastTestMethodIndex: 51437
+Tue May 15 23:39:30 UTC 2018: Starting linking
+Tue May 15 23:39:30 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteDataSplitMessage
+Tue May 15 23:39:30 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteDataSingle
+Tue May 15 23:39:31 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:39:31 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteDataSplitHeader
+Tue May 15 23:39:31 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:39:32 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageWriterTest
+Tue May 15 23:39:32 UTC 2018: Found element on the queue
+Tue May 15 23:39:32 UTC 2018: Updating status
+Tue May 15 23:39:32 UTC 2018: Working
+Tue May 15 23:39:35 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest
+Tue May 15 23:39:35 UTC 2018: Setting lastTestMethodIndex: 51438
+Tue May 15 23:39:35 UTC 2018: Starting linking
+Tue May 15 23:39:35 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-read with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testReadSingle
+Tue May 15 23:39:35 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-write with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testWriteSingle
+Tue May 15 23:39:35 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-isOpen with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testIsOpen
+Tue May 15 23:39:35 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-read with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testReadEOF
+Tue May 15 23:39:36 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-close with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testClose
+Tue May 15 23:39:36 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl$TcpSocketChannelHelper-open with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest-testOpen
+Tue May 15 23:39:36 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImplTest
+Tue May 15 23:39:37 UTC 2018: Found element on the queue
+Tue May 15 23:39:37 UTC 2018: Updating status
+Tue May 15 23:39:37 UTC 2018: Working
+Tue May 15 23:39:40 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest
+Tue May 15 23:39:40 UTC 2018: Setting lastTestMethodIndex: 51440
+Tue May 15 23:39:40 UTC 2018: Starting linking
+Tue May 15 23:39:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferShortProtocolVersion
+Tue May 15 23:39:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1
+Tue May 15 23:39:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBuffer
+Tue May 15 23:39:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMoreData
+Tue May 15 23:39:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferShortHeaderSize
+Tue May 15 23:39:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1NegativeMessageSize
+Tue May 15 23:39:42 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferZeroHeaderSize
+Tue May 15 23:39:42 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMessageSize
+Tue May 15 23:39:42 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferNegativeProtocolVersion
+Tue May 15 23:39:43 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferZeroProtocolVersion
+Tue May 15 23:39:43 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferNegativeHeaderSize
+Tue May 15 23:39:43 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV0
+Tue May 15 23:39:44 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testFromByteBufferShortMagic
+Tue May 15 23:39:44 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ZeroMessageSize
+Tue May 15 23:39:45 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testToBytesBase
+Tue May 15 23:39:45 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testToBytesV1
+Tue May 15 23:39:45 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testNewHeaderV1
+Tue May 15 23:39:46 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest-testNewHeaderBase
+Tue May 15 23:39:46 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageHeaderTest
+Tue May 15 23:39:46 UTC 2018: Found element on the queue
+Tue May 15 23:39:46 UTC 2018: Updating status
+Tue May 15 23:39:47 UTC 2018: Working
+Tue May 15 23:39:49 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReaderTest
+Tue May 15 23:39:49 UTC 2018: Setting lastTestMethodIndex: 51442
+Tue May 15 23:39:49 UTC 2018: Starting linking
+Tue May 15 23:39:49 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:39:50 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:39:50 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.SyncMessageReaderTest
+Tue May 15 23:39:50 UTC 2018: Found element on the queue
+Tue May 15 23:39:50 UTC 2018: Updating status
+Tue May 15 23:39:50 UTC 2018: Working
+Tue May 15 23:39:53 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest
+Tue May 15 23:39:53 UTC 2018: Setting lastTestMethodIndex: 51444
+Tue May 15 23:39:53 UTC 2018: Starting linking
+Tue May 15 23:39:53 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest-testType
+Tue May 15 23:39:53 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest-testBadPort
+Tue May 15 23:39:53 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest-testBadServer
+Tue May 15 23:39:54 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.TcpSocketIPCPropertiesTest
+Tue May 15 23:39:54 UTC 2018: Found element on the queue
+Tue May 15 23:39:54 UTC 2018: Updating status
+Tue May 15 23:39:54 UTC 2018: Working
+Tue May 15 23:39:58 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest
+Tue May 15 23:39:58 UTC 2018: Setting lastTestMethodIndex: 51445
+Tue May 15 23:39:58 UTC 2018: Starting linking
+Tue May 15 23:39:58 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest-testWriteDataNotFullHeader
+Tue May 15 23:39:58 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:39:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest-testWriteDataNotFullMessage
+Tue May 15 23:39:59 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:39:59 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageWriterTest
+Tue May 15 23:40:00 UTC 2018: Found element on the queue
+Tue May 15 23:40:00 UTC 2018: Updating status
+Tue May 15 23:40:00 UTC 2018: Working
+Tue May 15 23:40:02 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriterTest
+Tue May 15 23:40:02 UTC 2018: Setting lastTestMethodIndex: 51446
+Tue May 15 23:40:02 UTC 2018: Starting linking
+Tue May 15 23:40:02 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriterTest-testGetNextMessageSingle
+Tue May 15 23:40:02 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriterTest-testGetNextMessageMulti
+Tue May 15 23:40:03 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageWriterTest
+Tue May 15 23:40:04 UTC 2018: Found element on the queue
+Tue May 15 23:40:04 UTC 2018: Updating status
+Tue May 15 23:40:04 UTC 2018: Working
+Tue May 15 23:40:06 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageReaderTest
+Tue May 15 23:40:06 UTC 2018: Setting lastTestMethodIndex: 51447
+Tue May 15 23:40:06 UTC 2018: Starting linking
+Tue May 15 23:40:06 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl-read with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:40:07 UTC 2018: Code found com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.ThermostatSocketChannelImpl-read with com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:40:07 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.AsyncMessageReaderTest
+Tue May 15 23:40:07 UTC 2018: Found element on the queue
+Tue May 15 23:40:07 UTC 2018: Updating status
+Tue May 15 23:40:07 UTC 2018: Working
+Tue May 15 23:40:10 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest
+Tue May 15 23:40:10 UTC 2018: Setting lastTestMethodIndex: 51449
+Tue May 15 23:40:10 UTC 2018: Starting linking
+Tue May 15 23:40:10 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testThreeReadGotTwoMessages
+Tue May 15 23:40:10 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testFiveReadGotFullHeader
+Tue May 15 23:40:10 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testMessagePartTooLarge
+Tue May 15 23:40:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testFourReadGotMinHeader
+Tue May 15 23:40:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testSixReadGotFullMessage
+Tue May 15 23:40:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testTwoRead
+Tue May 15 23:40:12 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testTwoReadGotTwoMessages
+Tue May 15 23:40:12 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testThreeReadGotMinHeader
+Tue May 15 23:40:12 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testFourReadGotThreeMessagesOneContinued
+Tue May 15 23:40:13 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testOneRead
+Tue May 15 23:40:13 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testMessageTooLarge
+Tue May 15 23:40:13 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testHeaderTooLarge
+Tue May 15 23:40:14 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest-testThreeReadGotTwoMessagesNotContinued
+Tue May 15 23:40:14 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.tcpsocket.common.internal.MessageReaderTest
+Tue May 15 23:40:15 UTC 2018: Found element on the queue
+Tue May 15 23:40:15 UTC 2018: Updating status
+Tue May 15 23:40:15 UTC 2018: Working
+Tue May 15 23:40:15 UTC 2018: Create project parser
+Tue May 15 23:40:18 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest
+Tue May 15 23:40:18 UTC 2018: Setting lastTestMethodIndex: 51451
+Tue May 15 23:40:18 UTC 2018: Starting linking
+Tue May 15 23:40:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testConnectToServer
+Tue May 15 23:40:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testConnectToServerBadSocket
+Tue May 15 23:40:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testConnectToServerFileNotExist
+Tue May 15 23:40:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImpl-connect with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testConnectToServerDirNotExist
+Tue May 15 23:40:19 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest-testBadProperties
+Tue May 15 23:40:19 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketTransportImplTest
+Tue May 15 23:40:20 UTC 2018: Found element on the queue
+Tue May 15 23:40:20 UTC 2018: Updating status
+Tue May 15 23:40:20 UTC 2018: Working
+Tue May 15 23:40:22 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest
+Tue May 15 23:40:22 UTC 2018: Setting lastTestMethodIndex: 51453
+Tue May 15 23:40:22 UTC 2018: Starting linking
+Tue May 15 23:40:22 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannel-writeMessage with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest-testWriteMessage
+Tue May 15 23:40:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:23 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannel-close with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest-testClose
+Tue May 15 23:40:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:23 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannel-isOpen with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest-testIsOpen
+Tue May 15 23:40:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:23 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannel-readMessage with com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest-testReadMessage
+Tue May 15 23:40:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:23 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.client.internal.UnixSocketMessageChannelTest
+Tue May 15 23:40:24 UTC 2018: Found element on the queue
+Tue May 15 23:40:24 UTC 2018: Updating status
+Tue May 15 23:40:24 UTC 2018: Working
+Tue May 15 23:40:24 UTC 2018: Create project parser
+Tue May 15 23:40:27 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest
+Tue May 15 23:40:27 UTC 2018: Setting lastTestMethodIndex: 51455
+Tue May 15 23:40:27 UTC 2018: Starting linking
+Tue May 15 23:40:27 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteDataSingle
+Tue May 15 23:40:27 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:27 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:40:27 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:27 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteDataSplitHeader
+Tue May 15 23:40:28 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:28 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteDataSplitMessage
+Tue May 15 23:40:28 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:28 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:40:28 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageWriterTest
+Tue May 15 23:40:29 UTC 2018: Found element on the queue
+Tue May 15 23:40:29 UTC 2018: Updating status
+Tue May 15 23:40:29 UTC 2018: Working
+Tue May 15 23:40:31 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest
+Tue May 15 23:40:32 UTC 2018: Setting lastTestMethodIndex: 51457
+Tue May 15 23:40:32 UTC 2018: Starting linking
+Tue May 15 23:40:32 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferShortMagic
+Tue May 15 23:40:32 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:32 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ZeroMessageSize
+Tue May 15 23:40:32 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:32 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferNegativeProtocolVersion
+Tue May 15 23:40:32 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:32 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferZeroHeaderSize
+Tue May 15 23:40:33 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:33 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferShortProtocolVersion
+Tue May 15 23:40:33 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:33 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMessageSize
+Tue May 15 23:40:33 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:33 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBuffer
+Tue May 15 23:40:33 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:33 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMoreData
+Tue May 15 23:40:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:34 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferNegativeHeaderSize
+Tue May 15 23:40:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:34 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV0
+Tue May 15 23:40:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:34 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1
+Tue May 15 23:40:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:34 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferZeroProtocolVersion
+Tue May 15 23:40:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:35 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testFromByteBufferShortHeaderSize
+Tue May 15 23:40:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:35 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testSetRemainingFieldsV1NegativeMessageSize
+Tue May 15 23:40:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:35 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testNewHeaderBase
+Tue May 15 23:40:35 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testToBytesBase
+Tue May 15 23:40:36 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testToBytesV1
+Tue May 15 23:40:36 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest-testNewHeaderV1
+Tue May 15 23:40:36 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageHeaderTest
+Tue May 15 23:40:37 UTC 2018: Found element on the queue
+Tue May 15 23:40:37 UTC 2018: Updating status
+Tue May 15 23:40:37 UTC 2018: Working
+Tue May 15 23:40:40 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest
+Tue May 15 23:40:40 UTC 2018: Setting lastTestMethodIndex: 51462
+Tue May 15 23:40:40 UTC 2018: Starting linking
+Tue May 15 23:40:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-open with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testOpen
+Tue May 15 23:40:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-isOpen with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testIsOpen
+Tue May 15 23:40:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-read with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testReadEOF
+Tue May 15 23:40:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-write with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testWriteSingle
+Tue May 15 23:40:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-read with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testReadSingle
+Tue May 15 23:40:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImpl$UnixSocketChannelHelper-close with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest-testClose
+Tue May 15 23:40:42 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.ThermostatLocalSocketChannelImplTest
+Tue May 15 23:40:42 UTC 2018: Found element on the queue
+Tue May 15 23:40:42 UTC 2018: Updating status
+Tue May 15 23:40:42 UTC 2018: Working
+Tue May 15 23:40:46 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReaderTest
+Tue May 15 23:40:46 UTC 2018: Setting lastTestMethodIndex: 51465
+Tue May 15 23:40:46 UTC 2018: Starting linking
+Tue May 15 23:40:46 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:40:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:46 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:40:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:46 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.SyncMessageReaderTest
+Tue May 15 23:40:47 UTC 2018: Found element on the queue
+Tue May 15 23:40:47 UTC 2018: Updating status
+Tue May 15 23:40:47 UTC 2018: Working
+Tue May 15 23:40:49 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest
+Tue May 15 23:40:49 UTC 2018: Setting lastTestMethodIndex: 51467
+Tue May 15 23:40:49 UTC 2018: Starting linking
+Tue May 15 23:40:49 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest-testWriteDataNotFullMessage
+Tue May 15 23:40:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:50 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest-testWriteDataNotFullHeader
+Tue May 15 23:40:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:50 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:40:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:50 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:40:51 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageWriterTest
+Tue May 15 23:40:51 UTC 2018: Found element on the queue
+Tue May 15 23:40:51 UTC 2018: Updating status
+Tue May 15 23:40:51 UTC 2018: Working
+Tue May 15 23:40:54 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriterTest
+Tue May 15 23:40:54 UTC 2018: Setting lastTestMethodIndex: 51470
+Tue May 15 23:40:54 UTC 2018: Starting linking
+Tue May 15 23:40:54 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriterTest-testGetNextMessageSingle
+Tue May 15 23:40:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:54 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriterTest-testGetNextMessageMulti
+Tue May 15 23:40:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:54 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageWriterTest
+Tue May 15 23:40:55 UTC 2018: Found element on the queue
+Tue May 15 23:40:55 UTC 2018: Updating status
+Tue May 15 23:40:55 UTC 2018: Working
+Tue May 15 23:40:58 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest
+Tue May 15 23:40:58 UTC 2018: Setting lastTestMethodIndex: 51473
+Tue May 15 23:40:58 UTC 2018: Starting linking
+Tue May 15 23:40:58 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtils-getCurrentUser with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest-testGetCurrentUserGetOwnerNull
+Tue May 15 23:40:58 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtils-getCurrentUser with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest-testGetCurrentUser
+Tue May 15 23:40:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtils-getCurrentUser with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest-testGetCurrentUserCreateFileException
+Tue May 15 23:40:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtils-getCurrentUser with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest-testGetCurrentUserGetOwnerException
+Tue May 15 23:40:59 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UserPrincipalUtilsTest
+Tue May 15 23:41:00 UTC 2018: Found element on the queue
+Tue May 15 23:41:00 UTC 2018: Updating status
+Tue May 15 23:41:00 UTC 2018: Working
+Tue May 15 23:41:03 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest
+Tue May 15 23:41:03 UTC 2018: Setting lastTestMethodIndex: 51476
+Tue May 15 23:41:03 UTC 2018: Starting linking
+Tue May 15 23:41:03 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest-testType
+Tue May 15 23:41:03 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest-testDefaultSocketDirectoryTmp
+Tue May 15 23:41:04 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest-testNoXDGNoTmp
+Tue May 15 23:41:04 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest-testSocketDirectory
+Tue May 15 23:41:05 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.UnixSocketIPCPropertiesTest
+Tue May 15 23:41:05 UTC 2018: Found element on the queue
+Tue May 15 23:41:05 UTC 2018: Updating status
+Tue May 15 23:41:05 UTC 2018: Working
+Tue May 15 23:41:08 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReaderTest
+Tue May 15 23:41:08 UTC 2018: Setting lastTestMethodIndex: 51479
+Tue May 15 23:41:08 UTC 2018: Starting linking
+Tue May 15 23:41:08 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReader-readData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:41:08 UTC 2018: Code found com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReader-readData with com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:41:08 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.AsyncMessageReaderTest
+Tue May 15 23:41:09 UTC 2018: Found element on the queue
+Tue May 15 23:41:09 UTC 2018: Updating status
+Tue May 15 23:41:09 UTC 2018: Working
+Tue May 15 23:41:11 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest
+Tue May 15 23:41:11 UTC 2018: Setting lastTestMethodIndex: 51482
+Tue May 15 23:41:11 UTC 2018: Starting linking
+Tue May 15 23:41:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testMessageTooLarge
+Tue May 15 23:41:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testTwoReadGotTwoMessages
+Tue May 15 23:41:11 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testThreeReadGotTwoMessages
+Tue May 15 23:41:12 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testThreeReadGotTwoMessagesNotContinued
+Tue May 15 23:41:12 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testTwoRead
+Tue May 15 23:41:12 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testHeaderTooLarge
+Tue May 15 23:41:12 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testOneRead
+Tue May 15 23:41:13 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testSixReadGotFullMessage
+Tue May 15 23:41:13 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testThreeReadGotMinHeader
+Tue May 15 23:41:13 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testFiveReadGotFullHeader
+Tue May 15 23:41:13 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testMessagePartTooLarge
+Tue May 15 23:41:14 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testFourReadGotMinHeader
+Tue May 15 23:41:14 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest-testFourReadGotThreeMessagesOneContinued
+Tue May 15 23:41:14 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.unixsocket.common.internal.MessageReaderTest
+Tue May 15 23:41:15 UTC 2018: Found element on the queue
+Tue May 15 23:41:15 UTC 2018: Updating status
+Tue May 15 23:41:15 UTC 2018: Working
+Tue May 15 23:41:15 UTC 2018: Create project parser
+Tue May 15 23:41:17 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannelTest
+Tue May 15 23:41:17 UTC 2018: Setting lastTestMethodIndex: 51485
+Tue May 15 23:41:17 UTC 2018: Starting linking
+Tue May 15 23:41:17 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannel-isOpen with com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannelTest-testIsOpen
+Tue May 15 23:41:17 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannel-writeMessage with com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannelTest-testWriteMessage
+Tue May 15 23:41:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannel-readMessage with com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannelTest-testReadMessage
+Tue May 15 23:41:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:18 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannel-close with com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannelTest-testClose
+Tue May 15 23:41:18 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesMessageChannelTest
+Tue May 15 23:41:19 UTC 2018: Found element on the queue
+Tue May 15 23:41:19 UTC 2018: Updating status
+Tue May 15 23:41:19 UTC 2018: Working
+Tue May 15 23:41:21 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportImplTest
+Tue May 15 23:41:21 UTC 2018: Setting lastTestMethodIndex: 51486
+Tue May 15 23:41:21 UTC 2018: Starting linking
+Tue May 15 23:41:21 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportImpl-connect with com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportImplTest-testConnectToServer
+Tue May 15 23:41:22 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportImpl-connect with com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportImplTest-testConnectToServerBadSocket
+Tue May 15 23:41:22 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportImplTest
+Tue May 15 23:41:22 UTC 2018: Found element on the queue
+Tue May 15 23:41:22 UTC 2018: Updating status
+Tue May 15 23:41:22 UTC 2018: Working
+Tue May 15 23:41:25 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportProviderTest
+Tue May 15 23:41:25 UTC 2018: Setting lastTestMethodIndex: 51489
+Tue May 15 23:41:25 UTC 2018: Starting linking
+Tue May 15 23:41:25 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportProviderTest-testBadProperties
+Tue May 15 23:41:25 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.client.internal.WinPipesTransportProviderTest
+Tue May 15 23:41:25 UTC 2018: Found element on the queue
+Tue May 15 23:41:25 UTC 2018: Updating status
+Tue May 15 23:41:25 UTC 2018: Working
+Tue May 15 23:41:25 UTC 2018: Create project parser
+Tue May 15 23:41:28 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriterTest
+Tue May 15 23:41:28 UTC 2018: Setting lastTestMethodIndex: 51492
+Tue May 15 23:41:28 UTC 2018: Starting linking
+Tue May 15 23:41:28 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:41:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:29 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriterTest-testWriteDataSplitHeader
+Tue May 15 23:41:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:29 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriterTest-testWriteDataSplitMessage
+Tue May 15 23:41:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:29 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriterTest-testWriteDataSingle
+Tue May 15 23:41:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:29 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:41:30 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageWriterTest
+Tue May 15 23:41:30 UTC 2018: Found element on the queue
+Tue May 15 23:41:30 UTC 2018: Updating status
+Tue May 15 23:41:30 UTC 2018: Working
+Tue May 15 23:41:33 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesIPCPropertiesTest
+Tue May 15 23:41:33 UTC 2018: Setting lastTestMethodIndex: 51495
+Tue May 15 23:41:33 UTC 2018: Starting linking
+Tue May 15 23:41:33 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesIPCPropertiesTest-testPrefixFromProps
+Tue May 15 23:41:33 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesIPCPropertiesTest-testDefaultPrefix
+Tue May 15 23:41:33 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesIPCPropertiesTest-testType
+Tue May 15 23:41:34 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesIPCPropertiesTest-testFullPath
+Tue May 15 23:41:34 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesIPCPropertiesTest
+Tue May 15 23:41:34 UTC 2018: Found element on the queue
+Tue May 15 23:41:34 UTC 2018: Updating status
+Tue May 15 23:41:34 UTC 2018: Working
+Tue May 15 23:41:37 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest
+Tue May 15 23:41:37 UTC 2018: Setting lastTestMethodIndex: 51498
+Tue May 15 23:41:37 UTC 2018: Starting linking
+Tue May 15 23:41:37 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testFromByteBufferNegativeProtocolVersion
+Tue May 15 23:41:38 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:38 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ZeroMessageSize
+Tue May 15 23:41:38 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:38 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testFromByteBufferShortMagic
+Tue May 15 23:41:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:39 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testFromByteBufferZeroHeaderSize
+Tue May 15 23:41:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:39 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testFromByteBuffer
+Tue May 15 23:41:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:39 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testSetRemainingFieldsV0
+Tue May 15 23:41:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:39 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testFromByteBufferShortProtocolVersion
+Tue May 15 23:41:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testSetRemainingFieldsV1
+Tue May 15 23:41:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testFromByteBufferShortHeaderSize
+Tue May 15 23:41:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testFromByteBufferNegativeHeaderSize
+Tue May 15 23:41:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:40 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMoreData
+Tue May 15 23:41:41 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-fromByteBuffer with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testFromByteBufferZeroProtocolVersion
+Tue May 15 23:41:41 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testSetRemainingFieldsV1NegativeMessageSize
+Tue May 15 23:41:41 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:41 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeader-setRemainingFields with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testSetRemainingFieldsV1ShortMessageSize
+Tue May 15 23:41:42 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testNewHeaderV1
+Tue May 15 23:41:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testNewHeaderBase
+Tue May 15 23:41:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testToBytesBase
+Tue May 15 23:41:42 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest-testToBytesV1
+Tue May 15 23:41:43 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageHeaderTest
+Tue May 15 23:41:43 UTC 2018: Found element on the queue
+Tue May 15 23:41:43 UTC 2018: Updating status
+Tue May 15 23:41:43 UTC 2018: Working
+Tue May 15 23:41:46 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageReaderTest
+Tue May 15 23:41:46 UTC 2018: Setting lastTestMethodIndex: 51503
+Tue May 15 23:41:46 UTC 2018: Starting linking
+Tue May 15 23:41:46 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageReaderTest-testReadDataSingle
+Tue May 15 23:41:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:47 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageReader-readData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageReaderTest-testReadDataMulti
+Tue May 15 23:41:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:47 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.SyncMessageReaderTest
+Tue May 15 23:41:47 UTC 2018: Found element on the queue
+Tue May 15 23:41:47 UTC 2018: Updating status
+Tue May 15 23:41:47 UTC 2018: Working
+Tue May 15 23:41:50 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriterTest
+Tue May 15 23:41:50 UTC 2018: Setting lastTestMethodIndex: 51506
+Tue May 15 23:41:50 UTC 2018: Starting linking
+Tue May 15 23:41:50 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriterTest-testWriteDataNotFullMessage
+Tue May 15 23:41:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:50 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriterTest-testWriteDataMulti
+Tue May 15 23:41:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:50 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriter-writeData with com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriterTest-testWriteDataNotFullHeader
+Tue May 15 23:41:51 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:51 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriterTest-testWriteMessageTooLarge
+Tue May 15 23:41:51 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.AsyncMessageWriterTest
+Tue May 15 23:41:51 UTC 2018: Found element on the queue
+Tue May 15 23:41:51 UTC 2018: Updating status
+Tue May 15 23:41:51 UTC 2018: Working
+Tue May 15 23:41:54 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageWriterTest
+Tue May 15 23:41:54 UTC 2018: Setting lastTestMethodIndex: 51509
+Tue May 15 23:41:54 UTC 2018: Starting linking
+Tue May 15 23:41:54 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageWriterTest-testGetNextMessageMulti
+Tue May 15 23:41:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:54 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageWriter-getNextMessage with com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageWriterTest-testGetNextMessageSingle
+Tue May 15 23:41:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:41:54 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageWriterTest
+Tue May 15 23:41:55 UTC 2018: Found element on the queue
+Tue May 15 23:41:55 UTC 2018: Updating status
+Tue May 15 23:41:55 UTC 2018: Working
+Tue May 15 23:41:58 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImplTest
+Tue May 15 23:41:58 UTC 2018: Setting lastTestMethodIndex: 51510
+Tue May 15 23:41:58 UTC 2018: Starting linking
+Tue May 15 23:41:58 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImpl$WinPipesChannelHelper-write with com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImplTest-testWriteSingle
+Tue May 15 23:41:58 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImpl$WinPipesChannelHelper-close with com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImplTest-testClose
+Tue May 15 23:41:58 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImpl$WinPipesChannelHelper-open with com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImplTest-testOpen
+Tue May 15 23:41:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImpl$WinPipesChannelHelper-read with com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImplTest-testReadSingle
+Tue May 15 23:41:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImpl$WinPipesChannelHelper-read with com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImplTest-testReadEOF
+Tue May 15 23:41:59 UTC 2018: Code found com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImpl$WinPipesChannelHelper-isOpen with com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImplTest-testIsOpen
+Tue May 15 23:42:00 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.WinPipesChannelImplTest
+Tue May 15 23:42:00 UTC 2018: Found element on the queue
+Tue May 15 23:42:00 UTC 2018: Updating status
+Tue May 15 23:42:00 UTC 2018: Working
+Tue May 15 23:42:03 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest
+Tue May 15 23:42:03 UTC 2018: Setting lastTestMethodIndex: 51513
+Tue May 15 23:42:03 UTC 2018: Starting linking
+Tue May 15 23:42:03 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testFourReadGotThreeMessagesOneContinued
+Tue May 15 23:42:03 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testTwoReadGotTwoMessages
+Tue May 15 23:42:04 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testMessageTooLarge
+Tue May 15 23:42:04 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testHeaderTooLarge
+Tue May 15 23:42:05 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testThreeReadGotTwoMessages
+Tue May 15 23:42:05 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testOneRead
+Tue May 15 23:42:05 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testThreeReadGotTwoMessagesNotContinued
+Tue May 15 23:42:05 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testTwoRead
+Tue May 15 23:42:05 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testSixReadGotFullMessage
+Tue May 15 23:42:06 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testMessagePartTooLarge
+Tue May 15 23:42:06 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testFourReadGotMinHeader
+Tue May 15 23:42:06 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testThreeReadGotMinHeader
+Tue May 15 23:42:06 UTC 2018: No link for: com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest-testFiveReadGotFullHeader
+Tue May 15 23:42:07 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.agent.ipc.winpipes.common.internal.MessageReaderTest
+Tue May 15 23:42:07 UTC 2018: Found element on the queue
+Tue May 15 23:42:07 UTC 2018: Updating status
+Tue May 15 23:42:07 UTC 2018: Working
+Tue May 15 23:42:07 UTC 2018: Create project parser
+Tue May 15 23:42:10 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest
+Tue May 15 23:42:10 UTC 2018: Setting lastTestMethodIndex: 51517
+Tue May 15 23:42:10 UTC 2018: Starting linking
+Tue May 15 23:42:10 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testHeadingConversion
+Tue May 15 23:42:10 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testComplexJavadoc
+Tue May 15 23:42:10 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testSeeAlsoSections
+Tue May 15 23:42:11 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testParagraphs
+Tue May 15 23:42:11 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest-testCodeSegments
+Tue May 15 23:42:11 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.annotations.internal.JavadocToXmlConverterTest
+Tue May 15 23:42:12 UTC 2018: Found element on the queue
+Tue May 15 23:42:12 UTC 2018: Updating status
+Tue May 15 23:42:12 UTC 2018: Working
+Tue May 15 23:42:14 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.annotations.internal.AnnotationProcessorTest
+Tue May 15 23:42:14 UTC 2018: Setting lastTestMethodIndex: 51520
+Tue May 15 23:42:14 UTC 2018: Starting linking
+Tue May 15 23:42:14 UTC 2018: Code found com.redhat.thermostat.annotations.internal.AnnotationProcessor-process with com.redhat.thermostat.annotations.internal.AnnotationProcessorTest-testProcessOnServiceClass
+Tue May 15 23:42:15 UTC 2018: Code found com.redhat.thermostat.annotations.internal.AnnotationProcessor-process with com.redhat.thermostat.annotations.internal.AnnotationProcessorTest-testProcessOnExtensionPointClass
+Tue May 15 23:42:15 UTC 2018: No link for: com.redhat.thermostat.annotations.internal.AnnotationProcessorTest-testNoAnnotationProducesNoFile
+Tue May 15 23:42:15 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.annotations.internal.AnnotationProcessorTest
+Tue May 15 23:42:16 UTC 2018: Found element on the queue
+Tue May 15 23:42:16 UTC 2018: Updating status
+Tue May 15 23:42:16 UTC 2018: Working
+Tue May 15 23:42:16 UTC 2018: Create project parser
+Tue May 15 23:42:19 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.testutils.StubBundleContextTest
+Tue May 15 23:42:19 UTC 2018: Setting lastTestMethodIndex: 51523
+Tue May 15 23:42:19 UTC 2018: Starting linking
+Tue May 15 23:42:19 UTC 2018: Code found com.redhat.thermostat.testutils.StubServiceRegistration-unregister with com.redhat.thermostat.testutils.StubBundleContextTest-testUngetServiceOnUnregisteredService
+Tue May 15 23:42:19 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddingSameListenerReplacedTheOldOne
+Tue May 15 23:42:19 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceUsingClassObject
+Tue May 15 23:42:19 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testInstallBundleFromLocation
+Tue May 15 23:42:20 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceUsingClassName
+Tue May 15 23:42:20 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testSetAndGetContextBundle
+Tue May 15 23:42:20 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddingAndRemovingListenerWorks
+Tue May 15 23:42:20 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testIsServiceRegisteredForUnregisteredService
+Tue May 15 23:42:21 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testInstallBundleFromInputStream
+Tue May 15 23:42:21 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceReferenceReturnsNullForNoMatch
+Tue May 15 23:42:21 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetPropertyDelegatesToSystemProperties
+Tue May 15 23:42:21 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetBundleByLocation
+Tue May 15 23:42:22 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddRemoveBundleListener
+Tue May 15 23:42:22 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAllServiceReferencesWithoutFilter
+Tue May 15 23:42:22 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testRemovingAnUnknownListenerIsANoOp
+Tue May 15 23:42:22 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testSetAndGetBundles
+Tue May 15 23:42:23 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetBundleByLargeId
+Tue May 15 23:42:23 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAllServiceReferencesNoMatch
+Tue May 15 23:42:23 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddRemoveFrameworkListener
+Tue May 15 23:42:23 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddServiceThatDoesNotImplementInterfaceClass2
+Tue May 15 23:42:24 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testIsServiceRegisteredForRegisteredService
+Tue May 15 23:42:24 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testFilterCreationReturnsASaneFilter
+Tue May 15 23:42:24 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddServiceWithNonIntegerRanking
+Tue May 15 23:42:24 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceReferenceReturnsServiceWithHighestServiceRanking
+Tue May 15 23:42:25 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAndSetProperty
+Tue May 15 23:42:25 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceReferences
+Tue May 15 23:42:25 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetDataFile
+Tue May 15 23:42:25 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testReferenceExportCountIsCorrect
+Tue May 15 23:42:26 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddServiceThatDoesNotImplementInterfaceClass
+Tue May 15 23:42:26 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetServiceReferenceReturnsServiceWithLowerServiceId
+Tue May 15 23:42:26 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddRemoveService
+Tue May 15 23:42:26 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testAddServiceWithProperties
+Tue May 15 23:42:27 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAllServiceReferencesWithNoClassNameJustFilter
+Tue May 15 23:42:27 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testServiceListenersWithoutFiltersWork
+Tue May 15 23:42:27 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testGetAllServiceReferencesWithFilter
+Tue May 15 23:42:27 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testServiceListenersWithFiltersWork
+Tue May 15 23:42:28 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testRemoveUnknownService
+Tue May 15 23:42:28 UTC 2018: No link for: com.redhat.thermostat.testutils.StubBundleContextTest-testUngetService
+Tue May 15 23:42:28 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.testutils.StubBundleContextTest
+Tue May 15 23:42:29 UTC 2018: Found element on the queue
+Tue May 15 23:42:29 UTC 2018: Updating status
+Tue May 15 23:42:29 UTC 2018: Working
+Tue May 15 23:42:29 UTC 2018: Create project parser
+Tue May 15 23:42:32 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.locale.TranslateTest
+Tue May 15 23:42:32 UTC 2018: Setting lastTestMethodIndex: 51531
+Tue May 15 23:42:32 UTC 2018: Starting linking
+Tue May 15 23:42:32 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.locale.TranslateTest
+Tue May 15 23:42:32 UTC 2018: Found element on the queue
+Tue May 15 23:42:32 UTC 2018: Updating status
+Tue May 15 23:42:32 UTC 2018: Working
+Tue May 15 23:42:35 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.locale.LocaleResourcesTest
+Tue May 15 23:42:35 UTC 2018: Setting lastTestMethodIndex: 51532
+Tue May 15 23:42:35 UTC 2018: Starting linking
+Tue May 15 23:42:35 UTC 2018: No link for: com.redhat.thermostat.shared.locale.LocaleResourcesTest-testLocalizedStringsArePresent
+Tue May 15 23:42:35 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.locale.LocaleResourcesTest
+Tue May 15 23:42:35 UTC 2018: Found element on the queue
+Tue May 15 23:42:35 UTC 2018: Updating status
+Tue May 15 23:42:35 UTC 2018: Working
+Tue May 15 23:42:39 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest
+Tue May 15 23:42:39 UTC 2018: Setting lastTestMethodIndex: 51535
+Tue May 15 23:42:39 UTC 2018: Starting linking
+Tue May 15 23:42:39 UTC 2018: Code found com.redhat.thermostat.shared.config.internal.SSLConfigurationImpl-getKeystoreFile with com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest-canGetKeystoreFileFromProps
+Tue May 15 23:42:39 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest-userHomeConfigCanBeUsedWithSystemMissing
+Tue May 15 23:42:39 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest-canInitFromSystemHomeConfig
+Tue May 15 23:42:39 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest-canGetSSLEnabledConfigs
+Tue May 15 23:42:40 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest-userHomeConfigOverridesSystem
+Tue May 15 23:42:40 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest-noSSLConfigProvidesReasonableDefaults
+Tue May 15 23:42:40 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest-notExistingPropertiesFileReturnsNull
+Tue May 15 23:42:40 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.config.internal.SSLConfigurationImplTest
+Tue May 15 23:42:41 UTC 2018: Found element on the queue
+Tue May 15 23:42:41 UTC 2018: Updating status
+Tue May 15 23:42:41 UTC 2018: Working
+Tue May 15 23:42:44 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.config.internal.ActivatorTest
+Tue May 15 23:42:44 UTC 2018: Setting lastTestMethodIndex: 51538
+Tue May 15 23:42:44 UTC 2018: Starting linking
+Tue May 15 23:42:44 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.ActivatorTest-verifyServicesRegistered
+Tue May 15 23:42:44 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.config.internal.ActivatorTest
+Tue May 15 23:42:45 UTC 2018: Found element on the queue
+Tue May 15 23:42:45 UTC 2018: Updating status
+Tue May 15 23:42:45 UTC 2018: Working
+Tue May 15 23:42:47 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.config.internal.CommonPathsImplTest
+Tue May 15 23:42:47 UTC 2018: Setting lastTestMethodIndex: 51541
+Tue May 15 23:42:47 UTC 2018: Starting linking
+Tue May 15 23:42:47 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.CommonPathsImplTest-testPrivilegedUserLocationsWithPrefix
+Tue May 15 23:42:48 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.CommonPathsImplTest-instantiationThrowsExceptionThermostatHomeNotReadable
+Tue May 15 23:42:48 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.CommonPathsImplTest-instantiationThrowsExceptionUndefinedThermostatHome
+Tue May 15 23:42:48 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.CommonPathsImplTest-testUserLocations
+Tue May 15 23:42:48 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.CommonPathsImplTest-instantiationThrowsExceptionThermostatHomeNotExists
+Tue May 15 23:42:49 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.CommonPathsImplTest-testSystemLocations
+Tue May 15 23:42:49 UTC 2018: No link for: com.redhat.thermostat.shared.config.internal.CommonPathsImplTest-testPrivilegedUserLocations
+Tue May 15 23:42:49 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.config.internal.CommonPathsImplTest
+Tue May 15 23:42:50 UTC 2018: Found element on the queue
+Tue May 15 23:42:50 UTC 2018: Updating status
+Tue May 15 23:42:50 UTC 2018: Working
+Tue May 15 23:42:52 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.config.DirectoryStructureCreatorTest
+Tue May 15 23:42:52 UTC 2018: Setting lastTestMethodIndex: 51544
+Tue May 15 23:42:52 UTC 2018: Starting linking
+Tue May 15 23:42:52 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.config.DirectoryStructureCreatorTest
+Tue May 15 23:42:53 UTC 2018: Found element on the queue
+Tue May 15 23:42:53 UTC 2018: Updating status
+Tue May 15 23:42:53 UTC 2018: Working
+Tue May 15 23:42:55 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.config.NativeLibraryResolverTest
+Tue May 15 23:42:55 UTC 2018: Setting lastTestMethodIndex: 51546
+Tue May 15 23:42:55 UTC 2018: Starting linking
+Tue May 15 23:42:55 UTC 2018: Code found com.redhat.thermostat.shared.config.NativeLibraryResolver-getAbsoluteLibraryPath with com.redhat.thermostat.shared.config.NativeLibraryResolverTest-testGetAbsoluteLibraryPath
+Tue May 15 23:42:56 UTC 2018: No link for: com.redhat.thermostat.shared.config.NativeLibraryResolverTest-testExceptionThrownOnMissingPaths
+Tue May 15 23:42:56 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.config.NativeLibraryResolverTest
+Tue May 15 23:42:57 UTC 2018: Found element on the queue
+Tue May 15 23:42:57 UTC 2018: Updating status
+Tue May 15 23:42:57 UTC 2018: Working
+Tue May 15 23:42:59 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.perflog.internal.PerfomanceLogFormatterImplTest
+Tue May 15 23:42:59 UTC 2018: Setting lastTestMethodIndex: 51548
+Tue May 15 23:42:59 UTC 2018: Starting linking
+Tue May 15 23:42:59 UTC 2018: No link for: com.redhat.thermostat.shared.perflog.internal.PerfomanceLogFormatterImplTest-verifyLogTagLoggingCallsToStringOnValue
+Tue May 15 23:43:00 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.perflog.internal.PerfomanceLogFormatterImplTest
+Tue May 15 23:43:00 UTC 2018: Found element on the queue
+Tue May 15 23:43:00 UTC 2018: Updating status
+Tue May 15 23:43:00 UTC 2018: Working
+Tue May 15 23:43:03 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.perflog.internal.TimeStampProviderTest
+Tue May 15 23:43:03 UTC 2018: Setting lastTestMethodIndex: 51549
+Tue May 15 23:43:03 UTC 2018: Starting linking
+Tue May 15 23:43:03 UTC 2018: No link for: com.redhat.thermostat.shared.perflog.internal.TimeStampProviderTest-getsTimestamp
+Tue May 15 23:43:03 UTC 2018: No link for: com.redhat.thermostat.shared.perflog.internal.TimeStampProviderTest-multipleCallsProducesFreshTimestamp
+Tue May 15 23:43:04 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.perflog.internal.TimeStampProviderTest
+Tue May 15 23:43:05 UTC 2018: Found element on the queue
+Tue May 15 23:43:05 UTC 2018: Updating status
+Tue May 15 23:43:05 UTC 2018: Working
+Tue May 15 23:43:07 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.shared.perflog.PerformanceLogFormatterTest
+Tue May 15 23:43:07 UTC 2018: Setting lastTestMethodIndex: 51551
+Tue May 15 23:43:07 UTC 2018: Starting linking
+Tue May 15 23:43:07 UTC 2018: No link for: com.redhat.thermostat.shared.perflog.PerformanceLogFormatterTest-logTagsAreCorrect
+Tue May 15 23:43:08 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.shared.perflog.PerformanceLogFormatterTest
+Tue May 15 23:43:08 UTC 2018: Found element on the queue
+Tue May 15 23:43:08 UTC 2018: Updating status
+Tue May 15 23:43:08 UTC 2018: Working
+Tue May 15 23:43:08 UTC 2018: Create project parser
+Tue May 15 23:43:11 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilderTest
+Tue May 15 23:43:11 UTC 2018: Setting lastTestMethodIndex: 51553
+Tue May 15 23:43:11 UTC 2018: Starting linking
+Tue May 15 23:43:11 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilder$StatsParserImpl-parse with com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilderTest-canParseLogFileWithMultipleLogTags
+Tue May 15 23:43:11 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilder$StatsParserImpl-extractMessage with com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilderTest-canExtractMessageFromLogEntry
+Tue May 15 23:43:12 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilder$StatsParserImpl-parse with com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilderTest-canParseBasicLogFile
+Tue May 15 23:43:12 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilderTest-canParseBasicTokensNoDuration
+Tue May 15 23:43:12 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilderTest-canParseBasicTokensWithDuration
+Tue May 15 23:43:12 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilderTest-ignoreNonPerfLogEntries
+Tue May 15 23:43:13 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.StatsParserBuilderTest
+Tue May 15 23:43:13 UTC 2018: Found element on the queue
+Tue May 15 23:43:13 UTC 2018: Updating status
+Tue May 15 23:43:13 UTC 2018: Working
+Tue May 15 23:43:15 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest
+Tue May 15 23:43:15 UTC 2018: Setting lastTestMethodIndex: 51556
+Tue May 15 23:43:15 UTC 2018: Starting linking
+Tue May 15 23:43:15 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-testQueueMax
+Tue May 15 23:43:16 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-canGetStats
+Tue May 15 23:43:16 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-verifyQueueStatsSummaryPrinting
+Tue May 15 23:43:16 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-testNoRecords
+Tue May 15 23:43:17 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-testQueueMin
+Tue May 15 23:43:17 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-testQueueAvg
+Tue May 15 23:43:17 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-testStatsNull
+Tue May 15 23:43:17 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-testNumberRecords
+Tue May 15 23:43:18 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest-verifyNoArgConstructor
+Tue May 15 23:43:18 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.QueueStatsTest
+Tue May 15 23:43:18 UTC 2018: Found element on the queue
+Tue May 15 23:43:18 UTC 2018: Updating status
+Tue May 15 23:43:18 UTC 2018: Working
+Tue May 15 23:43:21 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest
+Tue May 15 23:43:21 UTC 2018: Setting lastTestMethodIndex: 51560
+Tue May 15 23:43:21 UTC 2018: Starting linking
+Tue May 15 23:43:21 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParser-parse with com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-canParseBasic
+Tue May 15 23:43:21 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-illegalSortValue
+Tue May 15 23:43:21 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-directionWithoutSortUsesDefaultSort
+Tue May 15 23:43:22 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-unknownOptionThrowsException
+Tue May 15 23:43:22 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-multipleDirectionFail
+Tue May 15 23:43:22 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-allOptionsSpecifiedFileNameFirst
+Tue May 15 23:43:23 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-illegalDirectionValue
+Tue May 15 23:43:23 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-multipleSortFail
+Tue May 15 23:43:23 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-noShowBackingUsesDefault
+Tue May 15 23:43:23 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-allOptionsSpecifiedFileNameLast
+Tue May 15 23:43:24 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-sortWithoutDirectionUsesDefaultDirection
+Tue May 15 23:43:24 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-oneArgOption
+Tue May 15 23:43:24 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest-multipleShowBackingFail
+Tue May 15 23:43:24 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.StatsConfigParserTest
+Tue May 15 23:43:25 UTC 2018: Found element on the queue
+Tue May 15 23:43:25 UTC 2018: Updating status
+Tue May 15 23:43:25 UTC 2018: Working
+Tue May 15 23:43:28 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LogTagTest
+Tue May 15 23:43:28 UTC 2018: Setting lastTestMethodIndex: 51564
+Tue May 15 23:43:28 UTC 2018: Starting linking
+Tue May 15 23:43:28 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.LogTagTest-assertKnownLogTags
+Tue May 15 23:43:28 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.LogTagTest-canParseLogTag
+Tue May 15 23:43:28 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LogTagTest
+Tue May 15 23:43:29 UTC 2018: Found element on the queue
+Tue May 15 23:43:29 UTC 2018: Updating status
+Tue May 15 23:43:29 UTC 2018: Working
+Tue May 15 23:43:31 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LineStatsFactoryTest
+Tue May 15 23:43:31 UTC 2018: Setting lastTestMethodIndex: 51566
+Tue May 15 23:43:31 UTC 2018: Starting linking
+Tue May 15 23:43:31 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.LineStatsFactory-create with com.redhat.thermostat.dev.perf.logs.internal.LineStatsFactoryTest-canCreateStatementStats
+Tue May 15 23:43:32 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.LineStatsFactory-create with com.redhat.thermostat.dev.perf.logs.internal.LineStatsFactoryTest-canCreateQueueStats
+Tue May 15 23:43:32 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LineStatsFactoryTest
+Tue May 15 23:43:32 UTC 2018: Found element on the queue
+Tue May 15 23:43:32 UTC 2018: Updating status
+Tue May 15 23:43:32 UTC 2018: Working
+Tue May 15 23:43:35 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.BasicStatsTest
+Tue May 15 23:43:35 UTC 2018: Setting lastTestMethodIndex: 51568
+Tue May 15 23:43:35 UTC 2018: Starting linking
+Tue May 15 23:43:35 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.BasicStatsTest-canGetTotalNumberEmpty
+Tue May 15 23:43:35 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.BasicStatsTest-canSetValues
+Tue May 15 23:43:35 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.BasicStatsTest
+Tue May 15 23:43:36 UTC 2018: Found element on the queue
+Tue May 15 23:43:36 UTC 2018: Updating status
+Tue May 15 23:43:36 UTC 2018: Working
+Tue May 15 23:43:39 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LogTagStatsFilterDecoratorTest
+Tue May 15 23:43:39 UTC 2018: Setting lastTestMethodIndex: 51571
+Tue May 15 23:43:39 UTC 2018: Starting linking
+Tue May 15 23:43:39 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.LogTagStatsFilterDecorator-matches with com.redhat.thermostat.dev.perf.logs.internal.LogTagStatsFilterDecoratorTest-verifyFilterMatches
+Tue May 15 23:43:39 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.LogTagStatsFilterDecoratorTest-verifyStatsClass
+Tue May 15 23:43:39 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.LogTagStatsFilterDecoratorTest-verifyBucketName
+Tue May 15 23:43:40 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LogTagStatsFilterDecoratorTest
+Tue May 15 23:43:40 UTC 2018: Found element on the queue
+Tue May 15 23:43:40 UTC 2018: Updating status
+Tue May 15 23:43:40 UTC 2018: Working
+Tue May 15 23:43:43 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest
+Tue May 15 23:43:43 UTC 2018: Setting lastTestMethodIndex: 51573
+Tue May 15 23:43:43 UTC 2018: Starting linking
+Tue May 15 23:43:43 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.StatementStats-getNumWrites with com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetNumWrites
+Tue May 15 23:43:43 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.StatementStats-getDistinctStatements with com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetDistinctStatements
+Tue May 15 23:43:43 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.StatementStats-getNumReads with com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetNumReads
+Tue May 15 23:43:44 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-testNumberRecords
+Tue May 15 23:43:45 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetCountPerDescriptor
+Tue May 15 23:43:45 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetMinForDescriptors
+Tue May 15 23:43:45 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetMaxForDescriptors
+Tue May 15 23:43:46 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetStats
+Tue May 15 23:43:46 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetAvgForDescriptors
+Tue May 15 23:43:46 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-canGetSortedDistincts
+Tue May 15 23:43:46 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-verifyNoArgConstructor
+Tue May 15 23:43:47 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest-verifySummaryPrinting
+Tue May 15 23:43:47 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.StatementStatsTest
+Tue May 15 23:43:47 UTC 2018: Found element on the queue
+Tue May 15 23:43:47 UTC 2018: Updating status
+Tue May 15 23:43:47 UTC 2018: Working
+Tue May 15 23:43:50 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.SharedStatementStateTest
+Tue May 15 23:43:50 UTC 2018: Setting lastTestMethodIndex: 51575
+Tue May 15 23:43:50 UTC 2018: Starting linking
+Tue May 15 23:43:50 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.SharedStatementStateTest-canGetDescId
+Tue May 15 23:43:50 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.SharedStatementStateTest-mapUnmapDesc
+Tue May 15 23:43:51 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.SharedStatementStateTest
+Tue May 15 23:43:52 UTC 2018: Found element on the queue
+Tue May 15 23:43:52 UTC 2018: Updating status
+Tue May 15 23:43:52 UTC 2018: Working
+Tue May 15 23:43:54 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.parsers.ReadStatementStatParserTest
+Tue May 15 23:43:54 UTC 2018: Setting lastTestMethodIndex: 51577
+Tue May 15 23:43:54 UTC 2018: Starting linking
+Tue May 15 23:43:54 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.parsers.ReadStatementStatParser-parse with com.redhat.thermostat.dev.perf.logs.internal.parsers.ReadStatementStatParserTest-canParseBasic
+Tue May 15 23:43:55 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.parsers.ReadStatementStatParserTest-refusesToMatchForWrongLine
+Tue May 15 23:43:55 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.parsers.ReadStatementStatParserTest
+Tue May 15 23:43:56 UTC 2018: Found element on the queue
+Tue May 15 23:43:56 UTC 2018: Updating status
+Tue May 15 23:43:56 UTC 2018: Working
+Tue May 15 23:43:59 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.parsers.QueueStatParserTest
+Tue May 15 23:43:59 UTC 2018: Setting lastTestMethodIndex: 51580
+Tue May 15 23:43:59 UTC 2018: Starting linking
+Tue May 15 23:43:59 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.parsers.QueueStatParser-parse with com.redhat.thermostat.dev.perf.logs.internal.parsers.QueueStatParserTest-canParseBasic
+Tue May 15 23:43:59 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.parsers.QueueStatParserTest-refusesToMatchForWrongLine
+Tue May 15 23:43:59 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.parsers.QueueStatParserTest
+Tue May 15 23:44:00 UTC 2018: Found element on the queue
+Tue May 15 23:44:00 UTC 2018: Updating status
+Tue May 15 23:44:00 UTC 2018: Working
+Tue May 15 23:44:02 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.parsers.WriteStatementStatParserTest
+Tue May 15 23:44:02 UTC 2018: Setting lastTestMethodIndex: 51584
+Tue May 15 23:44:02 UTC 2018: Starting linking
+Tue May 15 23:44:02 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.parsers.WriteStatementStatParser-parse with com.redhat.thermostat.dev.perf.logs.internal.parsers.WriteStatementStatParserTest-canParseBasic
+Tue May 15 23:44:02 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.parsers.WriteStatementStatParserTest-refusesToMatchForWrongLine
+Tue May 15 23:44:03 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.parsers.WriteStatementStatParserTest
+Tue May 15 23:44:04 UTC 2018: Found element on the queue
+Tue May 15 23:44:04 UTC 2018: Updating status
+Tue May 15 23:44:04 UTC 2018: Working
+Tue May 15 23:44:08 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.QueueStatsFilterTest
+Tue May 15 23:44:08 UTC 2018: Setting lastTestMethodIndex: 51585
+Tue May 15 23:44:08 UTC 2018: Starting linking
+Tue May 15 23:44:08 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.QueueStatsFilter-matches with com.redhat.thermostat.dev.perf.logs.internal.QueueStatsFilterTest-verifyFilterMatches
+Tue May 15 23:44:08 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsFilterTest-verifyBucketName
+Tue May 15 23:44:09 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.QueueStatsFilterTest-verifyStatsClass
+Tue May 15 23:44:09 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.QueueStatsFilterTest
+Tue May 15 23:44:10 UTC 2018: Found element on the queue
+Tue May 15 23:44:10 UTC 2018: Updating status
+Tue May 15 23:44:10 UTC 2018: Working
+Tue May 15 23:44:12 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.StatementStatsFilterTest
+Tue May 15 23:44:12 UTC 2018: Setting lastTestMethodIndex: 51587
+Tue May 15 23:44:12 UTC 2018: Starting linking
+Tue May 15 23:44:12 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsFilterTest-verifyBucketName
+Tue May 15 23:44:12 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsFilterTest-verifyStatsClass
+Tue May 15 23:44:13 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.StatementStatsFilterTest-verifyMatch
+Tue May 15 23:44:13 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.StatementStatsFilterTest
+Tue May 15 23:44:13 UTC 2018: Found element on the queue
+Tue May 15 23:44:13 UTC 2018: Updating status
+Tue May 15 23:44:13 UTC 2018: Working
+Tue May 15 23:44:16 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LogFileStatsTest
+Tue May 15 23:44:16 UTC 2018: Setting lastTestMethodIndex: 51589
+Tue May 15 23:44:16 UTC 2018: Starting linking
+Tue May 15 23:44:16 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.LogFileStatsTest-canRegisterMultipleUniqueFilters
+Tue May 15 23:44:16 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.LogFileStatsTest-verifyDuplicateRegisterFilterThrowsException
+Tue May 15 23:44:16 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LogFileStatsTest
+Tue May 15 23:44:17 UTC 2018: Found element on the queue
+Tue May 15 23:44:17 UTC 2018: Updating status
+Tue May 15 23:44:17 UTC 2018: Working
+Tue May 15 23:44:19 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LogAnalyzerImplTest
+Tue May 15 23:44:19 UTC 2018: Setting lastTestMethodIndex: 51591
+Tue May 15 23:44:19 UTC 2018: Starting linking
+Tue May 15 23:44:19 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.internal.LogAnalyzerImplTest-verifyBasicAnalysis
+Tue May 15 23:44:20 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.LogAnalyzerImplTest
+Tue May 15 23:44:20 UTC 2018: Found element on the queue
+Tue May 15 23:44:20 UTC 2018: Updating status
+Tue May 15 23:44:20 UTC 2018: Working
+Tue May 15 23:44:23 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.DurationTest
+Tue May 15 23:44:23 UTC 2018: Setting lastTestMethodIndex: 51593
+Tue May 15 23:44:23 UTC 2018: Starting linking
+Tue May 15 23:44:23 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.Duration-hashCode with com.redhat.thermostat.dev.perf.logs.internal.DurationTest-testHashCode
+Tue May 15 23:44:23 UTC 2018: Code found com.redhat.thermostat.dev.perf.logs.internal.Duration-equals with com.redhat.thermostat.dev.perf.logs.internal.DurationTest-testEquals
+Tue May 15 23:44:23 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.internal.DurationTest
+Tue May 15 23:44:24 UTC 2018: Found element on the queue
+Tue May 15 23:44:24 UTC 2018: Updating status
+Tue May 15 23:44:24 UTC 2018: Working
+Tue May 15 23:44:26 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.PerfLogAnalyzerTest
+Tue May 15 23:44:26 UTC 2018: Setting lastTestMethodIndex: 51595
+Tue May 15 23:44:26 UTC 2018: Starting linking
+Tue May 15 23:44:26 UTC 2018: No link for: com.redhat.thermostat.dev.perf.logs.PerfLogAnalyzerTest-testUsage
+Tue May 15 23:44:26 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.dev.perf.logs.PerfLogAnalyzerTest
+Tue May 15 23:44:27 UTC 2018: Found element on the queue
+Tue May 15 23:44:27 UTC 2018: Updating status
+Tue May 15 23:44:27 UTC 2018: Working
+Tue May 15 23:44:27 UTC 2018: Create project parser
+Tue May 15 23:44:29 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.beans.property.IntegerPropertyTest
+Tue May 15 23:44:29 UTC 2018: Setting lastTestMethodIndex: 51598
+Tue May 15 23:44:29 UTC 2018: Starting linking
+Tue May 15 23:44:29 UTC 2018: Code found com.redhat.thermostat.beans.property.IntegerProperty-get with com.redhat.thermostat.beans.property.IntegerPropertyTest-testIntegerPropertySetAndGet
+Tue May 15 23:44:30 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.beans.property.IntegerPropertyTest
+Tue May 15 23:44:30 UTC 2018: Found element on the queue
+Tue May 15 23:44:30 UTC 2018: Updating status
+Tue May 15 23:44:30 UTC 2018: Working
+Tue May 15 23:44:33 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.beans.property.BooleanPropertyTest
+Tue May 15 23:44:33 UTC 2018: Setting lastTestMethodIndex: 51601
+Tue May 15 23:44:33 UTC 2018: Starting linking
+Tue May 15 23:44:33 UTC 2018: Code found com.redhat.thermostat.beans.property.BooleanProperty-set with com.redhat.thermostat.beans.property.BooleanPropertyTest-testBooleanPropertySetAndGet
+Tue May 15 23:44:33 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.beans.property.BooleanPropertyTest
+Tue May 15 23:44:34 UTC 2018: Found element on the queue
+Tue May 15 23:44:34 UTC 2018: Updating status
+Tue May 15 23:44:34 UTC 2018: Working
+Tue May 15 23:44:36 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.beans.property.BasePropertyTest
+Tue May 15 23:44:36 UTC 2018: Setting lastTestMethodIndex: 51603
+Tue May 15 23:44:36 UTC 2018: Starting linking
+Tue May 15 23:44:36 UTC 2018: Code found com.redhat.thermostat.beans.property.BaseProperty-bind with com.redhat.thermostat.beans.property.BasePropertyTest-testBindingListener
+Tue May 15 23:44:36 UTC 2018: Code found com.redhat.thermostat.beans.property.BaseProperty-bind with com.redhat.thermostat.beans.property.BasePropertyTest-testBinding
+Tue May 15 23:44:37 UTC 2018: No link for: com.redhat.thermostat.beans.property.BasePropertyTest-testListeners
+Tue May 15 23:44:37 UTC 2018: No link for: com.redhat.thermostat.beans.property.BasePropertyTest-testSetOnBoundThrowException
+Tue May 15 23:44:37 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.beans.property.BasePropertyTest
+Tue May 15 23:44:38 UTC 2018: Found element on the queue
+Tue May 15 23:44:38 UTC 2018: Updating status
+Tue May 15 23:44:38 UTC 2018: Working
+Tue May 15 23:44:41 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.beans.property.DoublePropertyTest
+Tue May 15 23:44:41 UTC 2018: Setting lastTestMethodIndex: 51604
+Tue May 15 23:44:41 UTC 2018: Starting linking
+Tue May 15 23:44:41 UTC 2018: Code found com.redhat.thermostat.beans.property.DoubleProperty-get with com.redhat.thermostat.beans.property.DoublePropertyTest-testDoublePropertySetAndGet
+Tue May 15 23:44:41 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.beans.property.DoublePropertyTest
+Tue May 15 23:44:41 UTC 2018: Found element on the queue
+Tue May 15 23:44:41 UTC 2018: Updating status
+Tue May 15 23:44:41 UTC 2018: Working
+Tue May 15 23:44:41 UTC 2018: Create project parser
+Tue May 15 23:44:45 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.collections.graph.RelationshipTest
+Tue May 15 23:44:45 UTC 2018: Setting lastTestMethodIndex: 51606
+Tue May 15 23:44:45 UTC 2018: Starting linking
+Tue May 15 23:44:45 UTC 2018: No link for: com.redhat.thermostat.collections.graph.RelationshipTest-testCreateRelationship
+Tue May 15 23:44:45 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.collections.graph.RelationshipTest
+Tue May 15 23:44:46 UTC 2018: Found element on the queue
+Tue May 15 23:44:46 UTC 2018: Updating status
+Tue May 15 23:44:46 UTC 2018: Working
+Tue May 15 23:44:48 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.collections.graph.DepthFirstSearchTest
+Tue May 15 23:44:48 UTC 2018: Setting lastTestMethodIndex: 51609
+Tue May 15 23:44:48 UTC 2018: Starting linking
+Tue May 15 23:44:48 UTC 2018: No link for: com.redhat.thermostat.collections.graph.DepthFirstSearchTest-testDFSTraversal
+Tue May 15 23:44:49 UTC 2018: No link for: com.redhat.thermostat.collections.graph.DepthFirstSearchTest-testBackNodes2
+Tue May 15 23:44:49 UTC 2018: No link for: com.redhat.thermostat.collections.graph.DepthFirstSearchTest-testBackNodes
+Tue May 15 23:44:49 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.collections.graph.DepthFirstSearchTest
+Tue May 15 23:44:50 UTC 2018: Found element on the queue
+Tue May 15 23:44:50 UTC 2018: Updating status
+Tue May 15 23:44:50 UTC 2018: Working
+Tue May 15 23:44:52 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.collections.graph.GraphTest
+Tue May 15 23:44:52 UTC 2018: Setting lastTestMethodIndex: 51611
+Tue May 15 23:44:52 UTC 2018: Starting linking
+Tue May 15 23:44:52 UTC 2018: Code found com.redhat.thermostat.collections.graph.HashGraph-clear with com.redhat.thermostat.collections.graph.GraphTest-testClear
+Tue May 15 23:44:52 UTC 2018: No link for: com.redhat.thermostat.collections.graph.GraphTest-testGraphRelationship
+Tue May 15 23:44:53 UTC 2018: No link for: com.redhat.thermostat.collections.graph.GraphTest-testGraphRelationship1
+Tue May 15 23:44:53 UTC 2018: No link for: com.redhat.thermostat.collections.graph.GraphTest-testGraphCreation
+Tue May 15 23:44:53 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.collections.graph.GraphTest
+Tue May 15 23:44:53 UTC 2018: Found element on the queue
+Tue May 15 23:44:53 UTC 2018: Updating status
+Tue May 15 23:44:54 UTC 2018: Working
+Tue May 15 23:44:57 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.collections.graph.BreadthFirstSearchTest
+Tue May 15 23:44:57 UTC 2018: Setting lastTestMethodIndex: 51612
+Tue May 15 23:44:57 UTC 2018: Starting linking
+Tue May 15 23:44:57 UTC 2018: No link for: com.redhat.thermostat.collections.graph.BreadthFirstSearchTest-testBFSTraversal
+Tue May 15 23:44:57 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.collections.graph.BreadthFirstSearchTest
+Tue May 15 23:44:57 UTC 2018: Found element on the queue
+Tue May 15 23:44:57 UTC 2018: Updating status
+Tue May 15 23:44:57 UTC 2018: Working
+Tue May 15 23:44:57 UTC 2018: Create project parser
+Tue May 15 23:45:00 UTC 2018: Start jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.UtilsTest
+Tue May 15 23:45:00 UTC 2018: Setting lastTestMethodIndex: 51615
+Tue May 15 23:45:00 UTC 2018: Starting linking
+Tue May 15 23:45:00 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-toMap with org.jboss.byteman.thermostat.helper.UtilsTest-toMapOdd
+Tue May 15 23:45:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:00 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-sleep with org.jboss.byteman.thermostat.helper.UtilsTest-testSleep
+Tue May 15 23:45:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:01 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-escapeQuotes with org.jboss.byteman.thermostat.helper.UtilsTest-testEscapeQuotes
+Tue May 15 23:45:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:01 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-toMap with org.jboss.byteman.thermostat.helper.UtilsTest-testToMap
+Tue May 15 23:45:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:01 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-createTmpDir with org.jboss.byteman.thermostat.helper.UtilsTest-testCreateTmpDir
+Tue May 15 23:45:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:01 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Utils-toMap with org.jboss.byteman.thermostat.helper.UtilsTest-toMapIllegalType
+Tue May 15 23:45:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:02 UTC 2018: Linking done for jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.UtilsTest
+Tue May 15 23:45:02 UTC 2018: Found element on the queue
+Tue May 15 23:45:02 UTC 2018: Updating status
+Tue May 15 23:45:02 UTC 2018: Working
+Tue May 15 23:45:05 UTC 2018: Start jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.BytemanMetricTest
+Tue May 15 23:45:05 UTC 2018: Setting lastTestMethodIndex: 51618
+Tue May 15 23:45:05 UTC 2018: Starting linking
+Tue May 15 23:45:05 UTC 2018: Code found org.jboss.byteman.thermostat.helper.BytemanMetric-toJson with org.jboss.byteman.thermostat.helper.BytemanMetricTest-testToJsonMapDataNonNull
+Tue May 15 23:45:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:06 UTC 2018: Code found org.jboss.byteman.thermostat.helper.BytemanMetric-toJson with org.jboss.byteman.thermostat.helper.BytemanMetricTest-testToJsonNull
+Tue May 15 23:45:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:06 UTC 2018: Code found org.jboss.byteman.thermostat.helper.BytemanMetric-toJson with org.jboss.byteman.thermostat.helper.BytemanMetricTest-testToJsonMarkerNullDataNonNull
+Tue May 15 23:45:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:06 UTC 2018: Code found org.jboss.byteman.thermostat.helper.BytemanMetric-toJson with org.jboss.byteman.thermostat.helper.BytemanMetricTest-testToJsonMarkerNullDataNull
+Tue May 15 23:45:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:06 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.BytemanMetricTest-markerContainsQuotes
+Tue May 15 23:45:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:45:07 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.BytemanMetricTest-testDataKeyContainsQuotes
+Tue May 15 23:45:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:45:07 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.BytemanMetricTest-testUnsupportedObjectJson
+Tue May 15 23:45:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:45:07 UTC 2018: Linking done for jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.BytemanMetricTest
+Tue May 15 23:45:08 UTC 2018: Found element on the queue
+Tue May 15 23:45:08 UTC 2018: Updating status
+Tue May 15 23:45:08 UTC 2018: Working
+Tue May 15 23:45:10 UTC 2018: Start jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.TransportFactoryTest
+Tue May 15 23:45:10 UTC 2018: Setting lastTestMethodIndex: 51621
+Tue May 15 23:45:10 UTC 2018: Starting linking
+Tue May 15 23:45:10 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.TransportFactoryTest-throwsExceptionOnUnknownTransport
+Tue May 15 23:45:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:45:11 UTC 2018: Linking done for jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.TransportFactoryTest
+Tue May 15 23:45:11 UTC 2018: Found element on the queue
+Tue May 15 23:45:11 UTC 2018: Updating status
+Tue May 15 23:45:11 UTC 2018: Working
+Tue May 15 23:45:14 UTC 2018: Start jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.ThermostatHelperTest
+Tue May 15 23:45:14 UTC 2018: Setting lastTestMethodIndex: 51624
+Tue May 15 23:45:14 UTC 2018: Starting linking
+Tue May 15 23:45:14 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-canSendSimpleValueMultiple2
+Tue May 15 23:45:14 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:14 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-canSendSimpleValue
+Tue May 15 23:45:14 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:14 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-activated with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-testActivatedNonNull
+Tue May 15 23:45:14 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:14 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-deactivated with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-testDeactivated
+Tue May 15 23:45:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:15 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-canSendMapMultiple
+Tue May 15 23:45:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:15 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-setTransport with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-testConstructorDoesNotSetTransport
+Tue May 15 23:45:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:15 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-verifyMultipleCallsToSend
+Tue May 15 23:45:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:15 UTC 2018: Code found org.jboss.byteman.thermostat.helper.ThermostatHelper-send with org.jboss.byteman.thermostat.helper.ThermostatHelperTest-canSendSimpleValueMultiple3
+Tue May 15 23:45:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:16 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.ThermostatHelperTest-testBasicWithStdoutTransport
+Tue May 15 23:45:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:45:16 UTC 2018: Linking done for jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.ThermostatHelperTest
+Tue May 15 23:45:16 UTC 2018: Found element on the queue
+Tue May 15 23:45:16 UTC 2018: Updating status
+Tue May 15 23:45:16 UTC 2018: Working
+Tue May 15 23:45:19 UTC 2018: Start jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest
+Tue May 15 23:45:19 UTC 2018: Setting lastTestMethodIndex: 51627
+Tue May 15 23:45:19 UTC 2018: Starting linking
+Tue May 15 23:45:19 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Transport-close with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest-closeClosesChannel
+Tue May 15 23:45:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:19 UTC 2018: Code found org.jboss.byteman.thermostat.helper.Transport-send with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest-sendWritesToChannelInBatches
+Tue May 15 23:45:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:19 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest-instantiationFailureOfChannelOpeningUsesNoopChannelInstead
+Tue May 15 23:45:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:45:20 UTC 2018: No link for: org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest-instantiationOpensChannel
+Tue May 15 23:45:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:45:20 UTC 2018: Linking done for jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportTest
+Tue May 15 23:45:20 UTC 2018: Found element on the queue
+Tue May 15 23:45:20 UTC 2018: Updating status
+Tue May 15 23:45:20 UTC 2018: Working
+Tue May 15 23:45:23 UTC 2018: Start jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportFactoryTest
+Tue May 15 23:45:23 UTC 2018: Setting lastTestMethodIndex: 51629
+Tue May 15 23:45:23 UTC 2018: Starting linking
+Tue May 15 23:45:23 UTC 2018: Code found org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportFactory-create with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportFactoryTest-createReadsProperties
+Tue May 15 23:45:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:23 UTC 2018: Linking done for jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketTransportFactoryTest
+Tue May 15 23:45:24 UTC 2018: Found element on the queue
+Tue May 15 23:45:24 UTC 2018: Updating status
+Tue May 15 23:45:24 UTC 2018: Working
+Tue May 15 23:45:26 UTC 2018: Start jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImplTest
+Tue May 15 23:45:26 UTC 2018: Setting lastTestMethodIndex: 51632
+Tue May 15 23:45:26 UTC 2018: Starting linking
+Tue May 15 23:45:26 UTC 2018: Code found org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImpl-close with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImplTest-closeClosesChannel
+Tue May 15 23:45:27 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:27 UTC 2018: Code found org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImpl-write with org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImplTest-writeWritesToChannel
+Tue May 15 23:45:27 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:45:27 UTC 2018: Linking done for jerboaa__thermosta test class org.jboss.byteman.thermostat.helper.transport.ipc.LocalSocketChannelImplTest
+Tue May 15 23:45:28 UTC 2018: Found element on the queue
+Tue May 15 23:45:28 UTC 2018: Updating status
+Tue May 15 23:45:28 UTC 2018: Working
+Tue May 15 23:45:28 UTC 2018: Create project parser
+Tue May 15 23:45:30 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.vm.profiler.agent.jvm.MainTest
+Tue May 15 23:45:30 UTC 2018: Setting lastTestMethodIndex: 51635
+Tue May 15 23:45:30 UTC 2018: Starting linking
+Tue May 15 23:45:30 UTC 2018: No link for: com.redhat.thermostat.vm.profiler.agent.jvm.MainTest-registersAnMXBean
+Tue May 15 23:45:31 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.vm.profiler.agent.jvm.MainTest
+Tue May 15 23:45:31 UTC 2018: Found element on the queue
+Tue May 15 23:45:31 UTC 2018: Updating status
+Tue May 15 23:45:31 UTC 2018: Working
+Tue May 15 23:45:34 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.vm.profiler.agent.jvm.DebugTest
+Tue May 15 23:45:34 UTC 2018: Setting lastTestMethodIndex: 51637
+Tue May 15 23:45:34 UTC 2018: Starting linking
+Tue May 15 23:45:34 UTC 2018: No link for: com.redhat.thermostat.vm.profiler.agent.jvm.DebugTest-verifyOutputWhenPrintingIsEnabled
+Tue May 15 23:45:35 UTC 2018: No link for: com.redhat.thermostat.vm.profiler.agent.jvm.DebugTest-verifyNoOutputWhenPrintingIsDisabled
+Tue May 15 23:45:35 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.vm.profiler.agent.jvm.DebugTest
+Tue May 15 23:45:36 UTC 2018: Found element on the queue
+Tue May 15 23:45:36 UTC 2018: Updating status
+Tue May 15 23:45:36 UTC 2018: Working
+Tue May 15 23:45:40 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.vm.profiler.agent.jvm.ProfileRecorderTest
+Tue May 15 23:45:40 UTC 2018: Setting lastTestMethodIndex: 51640
+Tue May 15 23:45:40 UTC 2018: Starting linking
+Tue May 15 23:45:40 UTC 2018: No link for: com.redhat.thermostat.vm.profiler.agent.jvm.ProfileRecorderTest-testName
+Tue May 15 23:45:40 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.vm.profiler.agent.jvm.ProfileRecorderTest
+Tue May 15 23:45:40 UTC 2018: Found element on the queue
+Tue May 15 23:45:40 UTC 2018: Updating status
+Tue May 15 23:45:40 UTC 2018: Working
+Tue May 15 23:45:43 UTC 2018: Start jerboaa__thermosta test class com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest
+Tue May 15 23:45:43 UTC 2018: Setting lastTestMethodIndex: 51643
+Tue May 15 23:45:43 UTC 2018: Starting linking
+Tue May 15 23:45:43 UTC 2018: Code found com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControl-stopProfiling with com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest-stopProfilingClearsProfilingData
+Tue May 15 23:45:43 UTC 2018: Code found com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControl-stopProfiling with com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest-stopProfilingInstrumentsAllCode
+Tue May 15 23:45:44 UTC 2018: Code found com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControl-stopProfiling with com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest-stopProfilingSavesProfilingResultsToDisk
+Tue May 15 23:45:45 UTC 2018: Code found com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControl-startProfiling with com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest-startProfilingInstrumentAllCode
+Tue May 15 23:45:45 UTC 2018: Code found com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControl-isProfiling with com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest-isProfilingRepresentsCurrentProfilingState
+Tue May 15 23:45:45 UTC 2018: No link for: com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest-stoppingProfilingWhenNotRunningThrowException
+Tue May 15 23:45:45 UTC 2018: No link for: com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest-vmShutdownSaveDataToDisk
+Tue May 15 23:45:46 UTC 2018: No link for: com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest-startingProfilingTwiceThrowsException
+Tue May 15 23:45:46 UTC 2018: Linking done for jerboaa__thermosta test class com.redhat.thermostat.vm.profiler.agent.jvm.InstrumentationControlTest

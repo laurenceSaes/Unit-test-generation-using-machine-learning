@@ -1,0 +1,130 @@
+Tue May 15 19:59:48 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 19:59:49 UTC 2018: Starting
+Tue May 15 19:59:50 UTC 2018: Found element on the queue
+Tue May 15 19:59:50 UTC 2018: Updating status
+Tue May 15 19:59:50 UTC 2018: Working
+Tue May 15 19:59:50 UTC 2018: Create project parser
+Tue May 15 19:59:54 UTC 2018: Create slicer
+Tue May 15 19:59:57 UTC 2018: Create call graph
+Tue May 15 19:59:59 UTC 2018: Create point analysis
+Tue May 15 19:59:59 UTC 2018: Create call graph done
+Tue May 15 19:59:59 UTC 2018: Start harshadura__platform-communications test class org.motechproject.server.alerts.domain.CriterionTest
+Tue May 15 19:59:59 UTC 2018: Setting lastTestMethodIndex: 46594
+Tue May 15 19:59:59 UTC 2018: Starting linking
+Tue May 15 19:59:59 UTC 2018: No link for: org.motechproject.server.alerts.domain.CriterionTest-fetchAlerts_GivenADateRangeCriteria
+Tue May 15 19:59:59 UTC 2018: No link for: org.motechproject.server.alerts.domain.CriterionTest-filterAlerts_GivenADateRangeCriteria
+Tue May 15 20:00:00 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.server.alerts.domain.CriterionTest
+Tue May 15 20:00:00 UTC 2018: Found element on the queue
+Tue May 15 20:00:00 UTC 2018: Updating status
+Tue May 15 20:00:00 UTC 2018: Working
+Tue May 15 20:00:03 UTC 2018: Start harshadura__platform-communications test class org.motechproject.server.alerts.service.AlertFilterTest
+Tue May 15 20:00:03 UTC 2018: Setting lastTestMethodIndex: 46598
+Tue May 15 20:00:03 UTC 2018: Starting linking
+Tue May 15 20:00:04 UTC 2018: Code found org.motechproject.server.alerts.service.AlertFilter-search with org.motechproject.server.alerts.service.AlertFilterTest-shouldSearchByPrimaryCriterion_AsDateRange
+Tue May 15 20:00:04 UTC 2018: Code found org.motechproject.server.alerts.service.AlertFilter-search with org.motechproject.server.alerts.service.AlertFilterTest-shouldSearchByPrimaryCriterion
+Tue May 15 20:00:04 UTC 2018: No link for: org.motechproject.server.alerts.service.AlertFilterTest-shouldMakeRepositoryCallForPrimaryCriteriaOnly
+Tue May 15 20:00:04 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.server.alerts.service.AlertFilterTest
+Tue May 15 20:00:05 UTC 2018: Found element on the queue
+Tue May 15 20:00:05 UTC 2018: Updating status
+Tue May 15 20:00:05 UTC 2018: Working
+Tue May 15 20:00:08 UTC 2018: Start harshadura__platform-communications test class org.motechproject.server.alerts.service.AlertServiceImplTest
+Tue May 15 20:00:08 UTC 2018: Setting lastTestMethodIndex: 46603
+Tue May 15 20:00:08 UTC 2018: Starting linking
+Tue May 15 20:00:08 UTC 2018: Code found org.motechproject.server.alerts.service.AlertServiceImpl-search with org.motechproject.server.alerts.service.AlertServiceImplTest-shouldSearchForAlerts
+Tue May 15 20:00:08 UTC 2018: Code found org.motechproject.server.alerts.service.AlertServiceImpl-create with org.motechproject.server.alerts.service.AlertServiceImplTest-shouldCreateANewAlert
+Tue May 15 20:00:08 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.server.alerts.service.AlertServiceImplTest
+Tue May 15 20:00:09 UTC 2018: Found element on the queue
+Tue May 15 20:00:09 UTC 2018: Updating status
+Tue May 15 20:00:09 UTC 2018: Working
+Tue May 15 20:00:12 UTC 2018: Start harshadura__platform-communications test class org.motechproject.server.alerts.service.AlertEventHandlerTest
+Tue May 15 20:00:12 UTC 2018: Setting lastTestMethodIndex: 46607
+Tue May 15 20:00:12 UTC 2018: Starting linking
+Tue May 15 20:00:12 UTC 2018: Code found org.motechproject.server.alerts.service.AlertServiceImpl-create with org.motechproject.server.alerts.service.AlertEventHandlerTest-shouldCreateAlertFromEvent
+Tue May 15 20:00:12 UTC 2018: No link for: org.motechproject.server.alerts.service.AlertEventHandlerTest-shouldChangeStatusForRead
+Tue May 15 20:00:12 UTC 2018: No link for: org.motechproject.server.alerts.service.AlertEventHandlerTest-shouldChangeStatusForClose
+Tue May 15 20:00:13 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.server.alerts.service.AlertEventHandlerTest
+Tue May 15 20:00:13 UTC 2018: Found element on the queue
+Tue May 15 20:00:13 UTC 2018: Updating status
+Tue May 15 20:00:13 UTC 2018: Working
+Tue May 15 20:00:16 UTC 2018: Start harshadura__platform-communications test class perf.AlertServiceLoadTest
+Tue May 15 20:00:16 UTC 2018: Setting lastTestMethodIndex: 46611
+Tue May 15 20:00:16 UTC 2018: Starting linking
+Tue May 15 20:00:16 UTC 2018: No link for: perf.AlertServiceLoadTest-getByLoadTest
+Tue May 15 20:00:16 UTC 2018: Linking done for harshadura__platform-communications test class perf.AlertServiceLoadTest
+Tue May 15 20:00:17 UTC 2018: Found element on the queue
+Tue May 15 20:00:17 UTC 2018: Updating status
+Tue May 15 20:00:17 UTC 2018: Working
+Tue May 15 20:00:17 UTC 2018: Create project parser
+Tue May 15 20:00:20 UTC 2018: Start harshadura__platform-communications test class org.motechproject.ivr.event.CallEventCustomDataTest
+Tue May 15 20:00:20 UTC 2018: Setting lastTestMethodIndex: 46615
+Tue May 15 20:00:20 UTC 2018: Starting linking
+Tue May 15 20:00:20 UTC 2018: Code found org.motechproject.ivr.domain.CallEventCustomData-update with org.motechproject.ivr.event.CallEventCustomDataTest-update
+Tue May 15 20:00:20 UTC 2018: Code found org.motechproject.ivr.domain.CallEventCustomData-getFirst with org.motechproject.ivr.event.CallEventCustomDataTest-getFirst
+Tue May 15 20:00:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 20:00:21 UTC 2018: No link for: org.motechproject.ivr.event.CallEventCustomDataTest-add
+Tue May 15 20:00:21 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.ivr.event.CallEventCustomDataTest
+Tue May 15 20:00:21 UTC 2018: Found element on the queue
+Tue May 15 20:00:21 UTC 2018: Updating status
+Tue May 15 20:00:21 UTC 2018: Working
+Tue May 15 20:00:24 UTC 2018: Start harshadura__platform-communications test class org.motechproject.ivr.event.CallEventTest
+Tue May 15 20:00:24 UTC 2018: Setting lastTestMethodIndex: 46619
+Tue May 15 20:00:24 UTC 2018: Starting linking
+Tue May 15 20:00:24 UTC 2018: No link for: org.motechproject.ivr.event.CallEventTest-appendData
+Tue May 15 20:00:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:24 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.ivr.event.CallEventTest
+Tue May 15 20:00:25 UTC 2018: Found element on the queue
+Tue May 15 20:00:25 UTC 2018: Updating status
+Tue May 15 20:00:25 UTC 2018: Working
+Tue May 15 20:00:28 UTC 2018: Start harshadura__platform-communications test class org.motechproject.ivr.TestInitiateCallData
+Tue May 15 20:00:28 UTC 2018: Setting lastTestMethodIndex: 46622
+Tue May 15 20:00:28 UTC 2018: Starting linking
+Tue May 15 20:00:28 UTC 2018: No link for: org.motechproject.ivr.TestInitiateCallData-TestConstructor
+Tue May 15 20:00:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:28 UTC 2018: No link for: org.motechproject.ivr.TestInitiateCallData-TestConstructorNullPhone
+Tue May 15 20:00:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 20:00:28 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.ivr.TestInitiateCallData
+Tue May 15 20:00:29 UTC 2018: Found element on the queue
+Tue May 15 20:00:29 UTC 2018: Updating status
+Tue May 15 20:00:29 UTC 2018: Working
+Tue May 15 20:00:29 UTC 2018: Create project parser
+Tue May 15 20:00:32 UTC 2018: Start harshadura__platform-communications test class org.motechproject.mtraining.service.CourseServiceImplTest
+Tue May 15 20:00:32 UTC 2018: Setting lastTestMethodIndex: 46625
+Tue May 15 20:00:32 UTC 2018: Starting linking
+Tue May 15 20:00:32 UTC 2018: Code found org.motechproject.mtraining.service.CourseServiceImpl-addCourse with org.motechproject.mtraining.service.CourseServiceImplTest-shouldAddCourse
+Tue May 15 20:00:32 UTC 2018: No link for: org.motechproject.mtraining.service.CourseServiceImplTest-shouldHaveAnEmptyCourseListOnCreation
+Tue May 15 20:00:32 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.mtraining.service.CourseServiceImplTest
+Tue May 15 20:00:33 UTC 2018: Found element on the queue
+Tue May 15 20:00:33 UTC 2018: Updating status
+Tue May 15 20:00:33 UTC 2018: Working
+Tue May 15 20:00:33 UTC 2018: Create project parser
+Tue May 15 20:00:36 UTC 2018: Start harshadura__platform-communications test class org.motechproject.sms.configs.ConfigsTest
+Tue May 15 20:00:36 UTC 2018: Setting lastTestMethodIndex: 46630
+Tue May 15 20:00:36 UTC 2018: Starting linking
+Tue May 15 20:00:36 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldThrowWhenGettingDefaultConfigWithConfigsWhileNoneSetEven
+Tue May 15 20:00:37 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldReturnDefaultConfig
+Tue May 15 20:00:37 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldReturnDefaultConfigWhenGivenNonNull
+Tue May 15 20:00:37 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldThrowWhenGettingDefaultConfigWhileNoneSet
+Tue May 15 20:00:38 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldNotHaveConfig
+Tue May 15 20:00:38 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldReturnDefaultConfigWhenGivenNull
+Tue May 15 20:00:38 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldHaveConfig
+Tue May 15 20:00:39 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldReturnConfig
+Tue May 15 20:00:39 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldThrowWhenGettingInvalidConfig
+Tue May 15 20:00:39 UTC 2018: No link for: org.motechproject.sms.configs.ConfigsTest-shouldThrowWhenGettingInvalidConfigOrDefault
+Tue May 15 20:00:39 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.sms.configs.ConfigsTest
+Tue May 15 20:00:40 UTC 2018: Found element on the queue
+Tue May 15 20:00:40 UTC 2018: Updating status
+Tue May 15 20:00:40 UTC 2018: Working
+Tue May 15 20:00:43 UTC 2018: Start harshadura__platform-communications test class org.motechproject.sms.configs.ConfigTest
+Tue May 15 20:00:43 UTC 2018: Setting lastTestMethodIndex: 46637
+Tue May 15 20:00:43 UTC 2018: Starting linking
+Tue May 15 20:00:43 UTC 2018: No link for: org.motechproject.sms.configs.ConfigTest-shouldReturnRetryThenAbortSubject
+Tue May 15 20:00:43 UTC 2018: No link for: org.motechproject.sms.configs.ConfigTest-shouldReturnRetryThenAbortStatus
+Tue May 15 20:00:43 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.sms.configs.ConfigTest
+Tue May 15 20:00:45 UTC 2018: Found element on the queue
+Tue May 15 20:00:45 UTC 2018: Updating status
+Tue May 15 20:00:45 UTC 2018: Working
+Tue May 15 20:00:48 UTC 2018: Start harshadura__platform-communications test class org.motechproject.sms.service.SmsServiceTest
+Tue May 15 20:00:48 UTC 2018: Setting lastTestMethodIndex: 46640
+Tue May 15 20:00:48 UTC 2018: Starting linking
+Tue May 15 20:00:48 UTC 2018: No link for: org.motechproject.sms.service.SmsServiceTest-shouldSendSms
+Tue May 15 20:00:48 UTC 2018: Linking done for harshadura__platform-communications test class org.motechproject.sms.service.SmsServiceTest

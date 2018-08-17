@@ -1,0 +1,431 @@
+Tue May 15 13:33:04 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:33:05 UTC 2018: Starting
+Tue May 15 13:33:06 UTC 2018: Found element on the queue
+Tue May 15 13:33:06 UTC 2018: Updating status
+Tue May 15 13:33:06 UTC 2018: Working
+Tue May 15 13:33:06 UTC 2018: Create project parser
+Tue May 15 13:33:22 UTC 2018: Create slicer
+Tue May 15 13:33:28 UTC 2018: Create call graph
+Tue May 15 13:33:40 UTC 2018: Create point analysis
+Tue May 15 13:33:40 UTC 2018: Create call graph done
+Tue May 15 13:33:40 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.commitlock.GenericCommitLockPolicyTest
+Tue May 15 13:33:40 UTC 2018: Setting lastTestMethodIndex: 34041
+Tue May 15 13:33:40 UTC 2018: Starting linking
+Tue May 15 13:33:40 UTC 2018: Code found org.multiverse.api.commitlock.GenericCommitLockPolicy-toString with org.multiverse.api.commitlock.GenericCommitLockPolicyTest-testToString
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-construction
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-constructWithTooSmallRetryCount
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-tryLock_succeedsWithNullLock
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-tryLockAll_nullTransactionFails
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-tryLockAll_nullLocksSucceeds
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-tryLock_failsIfLockOwnerIsNull
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-constructWithTooSmallSpinAttemptsPerLock
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-tryLockAll_emptyLocksSucceeds
+Tue May 15 13:33:40 UTC 2018: No link for: org.multiverse.api.commitlock.GenericCommitLockPolicyTest-tryLock
+Tue May 15 13:33:40 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.commitlock.GenericCommitLockPolicyTest
+Tue May 15 13:33:41 UTC 2018: Found element on the queue
+Tue May 15 13:33:41 UTC 2018: Updating status
+Tue May 15 13:33:41 UTC 2018: Working
+Tue May 15 13:33:45 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.commitlock.PassAllCommitLockFilterTest
+Tue May 15 13:33:45 UTC 2018: Setting lastTestMethodIndex: 34043
+Tue May 15 13:33:45 UTC 2018: Starting linking
+Tue May 15 13:33:45 UTC 2018: No link for: org.multiverse.api.commitlock.PassAllCommitLockFilterTest-test
+Tue May 15 13:33:45 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.commitlock.PassAllCommitLockFilterTest
+Tue May 15 13:33:46 UTC 2018: Found element on the queue
+Tue May 15 13:33:46 UTC 2018: Updating status
+Tue May 15 13:33:46 UTC 2018: Working
+Tue May 15 13:33:49 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.clock.StrictPrimitiveClock_tickToTest
+Tue May 15 13:33:49 UTC 2018: Setting lastTestMethodIndex: 34045
+Tue May 15 13:33:49 UTC 2018: Starting linking
+Tue May 15 13:33:49 UTC 2018: No link for: org.multiverse.api.clock.StrictPrimitiveClock_tickToTest-whenValueTheSame
+Tue May 15 13:33:49 UTC 2018: No link for: org.multiverse.api.clock.StrictPrimitiveClock_tickToTest-whenClockHasSmallerValue
+Tue May 15 13:33:49 UTC 2018: No link for: org.multiverse.api.clock.StrictPrimitiveClock_tickToTest-whenClockAlreadyHasHigherValue
+Tue May 15 13:33:49 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.clock.StrictPrimitiveClock_tickToTest
+Tue May 15 13:33:50 UTC 2018: Found element on the queue
+Tue May 15 13:33:50 UTC 2018: Updating status
+Tue May 15 13:33:50 UTC 2018: Working
+Tue May 15 13:33:53 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.clock.RelaxedPrimitiveClock_tickToTest
+Tue May 15 13:33:53 UTC 2018: Setting lastTestMethodIndex: 34047
+Tue May 15 13:33:53 UTC 2018: Starting linking
+Tue May 15 13:33:53 UTC 2018: No link for: org.multiverse.api.clock.RelaxedPrimitiveClock_tickToTest-whenClockAlreadyHasHigherValue
+Tue May 15 13:33:53 UTC 2018: No link for: org.multiverse.api.clock.RelaxedPrimitiveClock_tickToTest-whenClockHasSmallerValue
+Tue May 15 13:33:53 UTC 2018: No link for: org.multiverse.api.clock.RelaxedPrimitiveClock_tickToTest-whenValueTheSame
+Tue May 15 13:33:53 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.clock.RelaxedPrimitiveClock_tickToTest
+Tue May 15 13:33:54 UTC 2018: Found element on the queue
+Tue May 15 13:33:54 UTC 2018: Updating status
+Tue May 15 13:33:54 UTC 2018: Working
+Tue May 15 13:33:57 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.clock.StrictPrimitiveClockTest
+Tue May 15 13:33:57 UTC 2018: Setting lastTestMethodIndex: 34048
+Tue May 15 13:33:57 UTC 2018: Starting linking
+Tue May 15 13:33:57 UTC 2018: Code found org.multiverse.api.clock.StrictPrimitiveClock-tick with org.multiverse.api.clock.StrictPrimitiveClockTest-testTick
+Tue May 15 13:33:57 UTC 2018: Code found org.multiverse.api.clock.StrictPrimitiveClock-toString with org.multiverse.api.clock.StrictPrimitiveClockTest-testToString
+Tue May 15 13:33:57 UTC 2018: No link for: org.multiverse.api.clock.StrictPrimitiveClockTest-whenNegativeClock
+Tue May 15 13:33:57 UTC 2018: No link for: org.multiverse.api.clock.StrictPrimitiveClockTest-testNoArgConstructor
+Tue May 15 13:33:57 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.clock.StrictPrimitiveClockTest
+Tue May 15 13:33:58 UTC 2018: Found element on the queue
+Tue May 15 13:33:58 UTC 2018: Updating status
+Tue May 15 13:33:58 UTC 2018: Working
+Tue May 15 13:34:01 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.clock.RelaxedPrimitiveClockTest
+Tue May 15 13:34:01 UTC 2018: Setting lastTestMethodIndex: 34049
+Tue May 15 13:34:01 UTC 2018: Starting linking
+Tue May 15 13:34:01 UTC 2018: Code found org.multiverse.api.clock.RelaxedPrimitiveClock-toString with org.multiverse.api.clock.RelaxedPrimitiveClockTest-testToString
+Tue May 15 13:34:01 UTC 2018: Code found org.multiverse.api.clock.RelaxedPrimitiveClock-tick with org.multiverse.api.clock.RelaxedPrimitiveClockTest-testTick
+Tue May 15 13:34:01 UTC 2018: No link for: org.multiverse.api.clock.RelaxedPrimitiveClockTest-testConstructor
+Tue May 15 13:34:01 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.clock.RelaxedPrimitiveClockTest
+Tue May 15 13:34:02 UTC 2018: Found element on the queue
+Tue May 15 13:34:02 UTC 2018: Updating status
+Tue May 15 13:34:02 UTC 2018: Working
+Tue May 15 13:34:05 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.backoff.ExponentialBackoffPolicyTest
+Tue May 15 13:34:05 UTC 2018: Setting lastTestMethodIndex: 34050
+Tue May 15 13:34:05 UTC 2018: Starting linking
+Tue May 15 13:34:05 UTC 2018: No link for: org.multiverse.api.backoff.ExponentialBackoffPolicyTest-noDelayForZeroIteration
+Tue May 15 13:34:05 UTC 2018: No link for: org.multiverse.api.backoff.ExponentialBackoffPolicyTest-construction_INSTANCE
+Tue May 15 13:34:05 UTC 2018: No link for: org.multiverse.api.backoff.ExponentialBackoffPolicyTest-minimumDelayCantBeLargerThanMaximumDelay
+Tue May 15 13:34:05 UTC 2018: No link for: org.multiverse.api.backoff.ExponentialBackoffPolicyTest-happyFlow
+Tue May 15 13:34:05 UTC 2018: No link for: org.multiverse.api.backoff.ExponentialBackoffPolicyTest-minimumDelay
+Tue May 15 13:34:05 UTC 2018: No link for: org.multiverse.api.backoff.ExponentialBackoffPolicyTest-tooLargeValueTruncated
+Tue May 15 13:34:05 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.backoff.ExponentialBackoffPolicyTest
+Tue May 15 13:34:06 UTC 2018: Found element on the queue
+Tue May 15 13:34:06 UTC 2018: Updating status
+Tue May 15 13:34:06 UTC 2018: Working
+Tue May 15 13:34:09 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.ThreadLocalTransaction_getThreadLocalTransactionTest
+Tue May 15 13:34:09 UTC 2018: Setting lastTestMethodIndex: 34051
+Tue May 15 13:34:09 UTC 2018: Starting linking
+Tue May 15 13:34:09 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_getThreadLocalTransactionTest-whenAvailable_thenReturned
+Tue May 15 13:34:09 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_getThreadLocalTransactionTest-whenNotAvailable_thenNullReturned
+Tue May 15 13:34:09 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.ThreadLocalTransaction_getThreadLocalTransactionTest
+Tue May 15 13:34:10 UTC 2018: Found element on the queue
+Tue May 15 13:34:10 UTC 2018: Updating status
+Tue May 15 13:34:10 UTC 2018: Working
+Tue May 15 13:34:13 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.ThreadLocalTransaction_setThreadLocalTransactionTest
+Tue May 15 13:34:13 UTC 2018: Setting lastTestMethodIndex: 34052
+Tue May 15 13:34:13 UTC 2018: Starting linking
+Tue May 15 13:34:13 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_setThreadLocalTransactionTest-whenTransactionAvailable_thenNotAborted
+Tue May 15 13:34:13 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_setThreadLocalTransactionTest-whenNewTransactionNull_thenCleared
+Tue May 15 13:34:13 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_setThreadLocalTransactionTest-whenNewTransactionNotNull_thenValueUpdated
+Tue May 15 13:34:13 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.ThreadLocalTransaction_setThreadLocalTransactionTest
+Tue May 15 13:34:14 UTC 2018: Found element on the queue
+Tue May 15 13:34:14 UTC 2018: Updating status
+Tue May 15 13:34:14 UTC 2018: Working
+Tue May 15 13:34:17 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.StmUtilsTest
+Tue May 15 13:34:17 UTC 2018: Setting lastTestMethodIndex: 34053
+Tue May 15 13:34:17 UTC 2018: Starting linking
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-commit with org.multiverse.api.StmUtilsTest-commit_whenNoTransactionActive_thenNoTransactionFoundException
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-scheduleCompensatingTask with org.multiverse.api.StmUtilsTest-scheduleCompensatingTask_whenTransactionAvailable
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-prepare with org.multiverse.api.StmUtilsTest-prepare_whenNoTransactionActive_thenNoTransactionFoundException
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-prepare with org.multiverse.api.StmUtilsTest-prepare_whenTransactionActive_thenTransactionPrepared
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-commit with org.multiverse.api.StmUtilsTest-commit_whenTransactionActive_thenTransactionCommitted
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-scheduleDeferredTask with org.multiverse.api.StmUtilsTest-scheduleDeferredTask_whenTaskNull_thenNullPointerException
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-scheduleCompensatingTask with org.multiverse.api.StmUtilsTest-scheduleCompensatingTask_whenTaskNull_thenNullPointerException
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-abort with org.multiverse.api.StmUtilsTest-abort_whenTransactionActive_thenTransactionAborted
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-abort with org.multiverse.api.StmUtilsTest-abort_whenNoTransactionActive_thenNoTransactionFoundException
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-scheduleCompensatingTask with org.multiverse.api.StmUtilsTest-scheduleCompensatingTask_whenNoTransactionAvailable_thenNoTransactionFoundException
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-retry with org.multiverse.api.StmUtilsTest-retryWithoutTransactionFails
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-scheduleDeferredTask with org.multiverse.api.StmUtilsTest-scheduleDeferredTask_whenNoTransactionAvailable_thenNoTransactionFoundException
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-scheduleDeferredTask with org.multiverse.api.StmUtilsTest-scheduleDeferredTask_whenTransactionAvailable
+Tue May 15 13:34:17 UTC 2018: Code found org.multiverse.api.StmUtils-retry with org.multiverse.api.StmUtilsTest-retryWithTransactionThrowsRetryError
+Tue May 15 13:34:17 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.StmUtilsTest
+Tue May 15 13:34:18 UTC 2018: Found element on the queue
+Tue May 15 13:34:18 UTC 2018: Updating status
+Tue May 15 13:34:18 UTC 2018: Working
+Tue May 15 13:34:21 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.ThreadLocalTransaction_getRequiredThreadLocalTransactionTest
+Tue May 15 13:34:21 UTC 2018: Setting lastTestMethodIndex: 34054
+Tue May 15 13:34:21 UTC 2018: Starting linking
+Tue May 15 13:34:21 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_getRequiredThreadLocalTransactionTest-whenTransactionAvailable_thenItIsReturned
+Tue May 15 13:34:21 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_getRequiredThreadLocalTransactionTest-whenNoTransactionAvailable_thenNoTransactionFoundException
+Tue May 15 13:34:21 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.ThreadLocalTransaction_getRequiredThreadLocalTransactionTest
+Tue May 15 13:34:22 UTC 2018: Found element on the queue
+Tue May 15 13:34:22 UTC 2018: Updating status
+Tue May 15 13:34:22 UTC 2018: Working
+Tue May 15 13:34:25 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.LogLevelTest
+Tue May 15 13:34:25 UTC 2018: Setting lastTestMethodIndex: 34056
+Tue May 15 13:34:25 UTC 2018: Starting linking
+Tue May 15 13:34:25 UTC 2018: No link for: org.multiverse.api.LogLevelTest-test
+Tue May 15 13:34:25 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.LogLevelTest
+Tue May 15 13:34:27 UTC 2018: Found element on the queue
+Tue May 15 13:34:27 UTC 2018: Updating status
+Tue May 15 13:34:27 UTC 2018: Working
+Tue May 15 13:34:30 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.ThreadLocalTransaction_clearThreadLocalTransactionTest
+Tue May 15 13:34:30 UTC 2018: Setting lastTestMethodIndex: 34058
+Tue May 15 13:34:30 UTC 2018: Starting linking
+Tue May 15 13:34:30 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_clearThreadLocalTransactionTest-whenTransactionAvailable_thenItIsNotAborted
+Tue May 15 13:34:30 UTC 2018: No link for: org.multiverse.api.ThreadLocalTransaction_clearThreadLocalTransactionTest-whenTransactionAvailable_thenItIsCleared
+Tue May 15 13:34:30 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.ThreadLocalTransaction_clearThreadLocalTransactionTest
+Tue May 15 13:34:31 UTC 2018: Found element on the queue
+Tue May 15 13:34:31 UTC 2018: Updating status
+Tue May 15 13:34:31 UTC 2018: Working
+Tue May 15 13:34:35 UTC 2018: Start codehaus__multiverse test class org.multiverse.api.ListenersTest
+Tue May 15 13:34:35 UTC 2018: Setting lastTestMethodIndex: 34060
+Tue May 15 13:34:35 UTC 2018: Starting linking
+Tue May 15 13:34:35 UTC 2018: Code found org.multiverse.api.Listeners-openAll with org.multiverse.api.ListenersTest-testOpenAllOnClosedListeners
+Tue May 15 13:34:35 UTC 2018: Code found org.multiverse.api.Listeners-openAll with org.multiverse.api.ListenersTest-testOpenAllOnOpenListeners
+Tue May 15 13:34:35 UTC 2018: Code found org.multiverse.api.Listeners-getNext with org.multiverse.api.ListenersTest-getNext
+Tue May 15 13:34:35 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.api.ListenersTest
+Tue May 15 13:34:36 UTC 2018: Found element on the queue
+Tue May 15 13:34:36 UTC 2018: Updating status
+Tue May 15 13:34:36 UTC 2018: Working
+Tue May 15 13:34:39 UTC 2018: Start codehaus__multiverse test class org.multiverse.utils.StandardThreadFactory_setPriorityTest
+Tue May 15 13:34:39 UTC 2018: Setting lastTestMethodIndex: 34062
+Tue May 15 13:34:39 UTC 2018: Starting linking
+Tue May 15 13:34:39 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_setPriorityTest-testSuccess
+Tue May 15 13:34:39 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_setPriorityTest-testIllegalPriorityForThroudGroup
+Tue May 15 13:34:39 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_setPriorityTest-testIllegalPriority
+Tue May 15 13:34:39 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.utils.StandardThreadFactory_setPriorityTest
+Tue May 15 13:34:40 UTC 2018: Found element on the queue
+Tue May 15 13:34:40 UTC 2018: Updating status
+Tue May 15 13:34:40 UTC 2018: Working
+Tue May 15 13:34:44 UTC 2018: Start codehaus__multiverse test class org.multiverse.utils.StandardThreadFactory_createTest
+Tue May 15 13:34:44 UTC 2018: Setting lastTestMethodIndex: 34064
+Tue May 15 13:34:44 UTC 2018: Starting linking
+Tue May 15 13:34:45 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_createTest-testPriorityIsHigherThanThreadgroupAllows
+Tue May 15 13:34:45 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_createTest-testArguments
+Tue May 15 13:34:45 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_createTest-testSuccess
+Tue May 15 13:34:45 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.utils.StandardThreadFactory_createTest
+Tue May 15 13:34:46 UTC 2018: Found element on the queue
+Tue May 15 13:34:46 UTC 2018: Updating status
+Tue May 15 13:34:46 UTC 2018: Working
+Tue May 15 13:34:49 UTC 2018: Start codehaus__multiverse test class org.multiverse.utils.StandardThreadFactory_ConstructorTest
+Tue May 15 13:34:49 UTC 2018: Setting lastTestMethodIndex: 34066
+Tue May 15 13:34:49 UTC 2018: Starting linking
+Tue May 15 13:34:49 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_ConstructorTest-test_String
+Tue May 15 13:34:49 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_ConstructorTest-testNoArg
+Tue May 15 13:34:49 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_ConstructorTest-test_int_ThreadGroup
+Tue May 15 13:34:49 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_ConstructorTest-test_int
+Tue May 15 13:34:49 UTC 2018: No link for: org.multiverse.utils.StandardThreadFactory_ConstructorTest-test_int_String
+Tue May 15 13:34:49 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.utils.StandardThreadFactory_ConstructorTest
+Tue May 15 13:34:50 UTC 2018: Found element on the queue
+Tue May 15 13:34:50 UTC 2018: Updating status
+Tue May 15 13:34:50 UTC 2018: Working
+Tue May 15 13:34:53 UTC 2018: Start codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_abortTest
+Tue May 15 13:34:53 UTC 2018: Setting lastTestMethodIndex: 34068
+Tue May 15 13:34:53 UTC 2018: Starting linking
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_abortTest-whenPreAbortTaskFails_thenStillAborted
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_abortTest-whenAbort_thenPreAndPostCommitTasksAreCalled
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_abortTest-whenAlreadyCommitted_thenDeadTransactionException
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_abortTest-whenPrepared_thenAbort
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_abortTest-whenDoAbortThrowsError
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_abortTest-whenPostAbortTaskFails_exceptionThrown
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_abortTest-whenActive_thenAbort
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-doAbortPrepared with org.multiverse.stms.AbstractTransaction_abortTest-whenPreparedAndPreAbortTaskFails_thenDoAbortPreparedNotSkipped
+Tue May 15 13:34:53 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_abortTest-whenAborted_thenIgnored
+Tue May 15 13:34:53 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_abortTest
+Tue May 15 13:34:54 UTC 2018: Found element on the queue
+Tue May 15 13:34:54 UTC 2018: Updating status
+Tue May 15 13:34:54 UTC 2018: Working
+Tue May 15 13:34:57 UTC 2018: Start codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_resetTest
+Tue May 15 13:34:57 UTC 2018: Setting lastTestMethodIndex: 34069
+Tue May 15 13:34:57 UTC 2018: Starting linking
+Tue May 15 13:34:57 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_resetTest-whenPreparedAndPostAbortListenerFails_thenTransactionAborted
+Tue May 15 13:34:57 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_resetTest-whenCommitted_thenTransactionIsRestarted
+Tue May 15 13:34:57 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_resetTest-whenPreparedAndPreAbortListenerFails_thenTransactionAborted
+Tue May 15 13:34:57 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_resetTest-whenCommitted_thenNoScheduledTasksAreExecuted
+Tue May 15 13:34:57 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_resetTest-whenPrepared_thenTransactionIsRestarted
+Tue May 15 13:34:57 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_resetTest-whenAbortedTransactionIsRestarted
+Tue May 15 13:34:57 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_resetTest-whenAborted_thenNoListenersExecuted
+Tue May 15 13:34:57 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_resetTest-whenActive
+Tue May 15 13:34:57 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_resetTest-whenNew
+Tue May 15 13:34:57 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_resetTest-whenActiveAndPreAbortListenerFails_thenTransactionAborted
+Tue May 15 13:34:57 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_resetTest-whenActiveAndPostAbortListenerFails_thenTransactionAborted
+Tue May 15 13:34:57 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_resetTest-whenActive_thenListenersAreNotified
+Tue May 15 13:34:57 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_resetTest
+Tue May 15 13:34:59 UTC 2018: Found element on the queue
+Tue May 15 13:34:59 UTC 2018: Updating status
+Tue May 15 13:34:59 UTC 2018: Working
+Tue May 15 13:35:03 UTC 2018: Start codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_startTest
+Tue May 15 13:35:03 UTC 2018: Setting lastTestMethodIndex: 34071
+Tue May 15 13:35:03 UTC 2018: Starting linking
+Tue May 15 13:35:03 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-start with org.multiverse.stms.AbstractTransaction_startTest-whenNew_thenStart
+Tue May 15 13:35:03 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_startTest-whenPrepared
+Tue May 15 13:35:03 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_startTest-whenAborted_thenDeadTransactionException
+Tue May 15 13:35:03 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_startTest-whenCommitted_thenDeadTransactionException
+Tue May 15 13:35:03 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_startTest-whenActive_thenIgnore
+Tue May 15 13:35:03 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_startTest
+Tue May 15 13:35:04 UTC 2018: Found element on the queue
+Tue May 15 13:35:04 UTC 2018: Updating status
+Tue May 15 13:35:04 UTC 2018: Working
+Tue May 15 13:35:08 UTC 2018: Start codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_registerLifecycleListenerTest
+Tue May 15 13:35:08 UTC 2018: Setting lastTestMethodIndex: 34073
+Tue May 15 13:35:08 UTC 2018: Starting linking
+Tue May 15 13:35:09 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_registerLifecycleListenerTest-whenAlreadyCommitted_thenDeadTransactionException
+Tue May 15 13:35:09 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_registerLifecycleListenerTest-whenCommit_thenPreAndPostCommitTasksAreCalled
+Tue May 15 13:35:09 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_registerLifecycleListenerTest-whenPrepared_thenPreparedTransactionException
+Tue May 15 13:35:09 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_registerLifecycleListenerTest-whenAlreadyAborted_thenDeadTransactionException
+Tue May 15 13:35:09 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_registerLifecycleListenerTest-scheduleFailsWithNullTask
+Tue May 15 13:35:09 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_registerLifecycleListenerTest
+Tue May 15 13:35:10 UTC 2018: Found element on the queue
+Tue May 15 13:35:10 UTC 2018: Updating status
+Tue May 15 13:35:10 UTC 2018: Working
+Tue May 15 13:35:13 UTC 2018: Start codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_registerRetryLatchTest
+Tue May 15 13:35:13 UTC 2018: Setting lastTestMethodIndex: 34075
+Tue May 15 13:35:13 UTC 2018: Starting linking
+Tue May 15 13:35:13 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-doRegisterRetryLatch with org.multiverse.stms.AbstractTransaction_registerRetryLatchTest-whenPreparedAndDoRegisterRetryLatchReturnsTrue_thenSuccess
+Tue May 15 13:35:13 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-doRegisterRetryLatch with org.multiverse.stms.AbstractTransaction_registerRetryLatchTest-whenActiveAndDoRegisterRetryLatchReturnsFalse_thenNoRetryPossibleException
+Tue May 15 13:35:13 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-doRegisterRetryLatch with org.multiverse.stms.AbstractTransaction_registerRetryLatchTest-whenPreparedAndDoRegisterRetryLatchReturnsFalse_thenNoRetryPossibleException
+Tue May 15 13:35:13 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-doRegisterRetryLatch with org.multiverse.stms.AbstractTransaction_registerRetryLatchTest-whenActiveAndDoRegisterRetryLatchReturnsTrue_thenSuccess
+Tue May 15 13:35:13 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_registerRetryLatchTest-whenCommitted_thenDeadTransactionException
+Tue May 15 13:35:13 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_registerRetryLatchTest-whenAborted_thenDeadTransactionException
+Tue May 15 13:35:13 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_registerRetryLatchTest-whenActiveAndNullLatch_thenNullPointerException
+Tue May 15 13:35:13 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_registerRetryLatchTest
+Tue May 15 13:35:14 UTC 2018: Found element on the queue
+Tue May 15 13:35:14 UTC 2018: Updating status
+Tue May 15 13:35:14 UTC 2018: Working
+Tue May 15 13:35:18 UTC 2018: Start codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_commitTest
+Tue May 15 13:35:18 UTC 2018: Setting lastTestMethodIndex: 34077
+Tue May 15 13:35:18 UTC 2018: Starting linking
+Tue May 15 13:35:18 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_commitTest-whenAborted_thenDeadTransactionException
+Tue May 15 13:35:18 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_commitTest-whenPrepared
+Tue May 15 13:35:18 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_commitTest-whenCommitted_thenIgnore
+Tue May 15 13:35:18 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_commitTest-whenDoCommitPreparedFails_thenAbort
+Tue May 15 13:35:18 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_commitTest-whenPreCommitTaskFails_thenAbort
+Tue May 15 13:35:18 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_commitTest-whenPostCommitTaskFails_exceptionThrown
+Tue May 15 13:35:18 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_commitTest-whenActive_listenersAreNotified
+Tue May 15 13:35:18 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_commitTest-whenPrepareThrowsException_thenAbort
+Tue May 15 13:35:18 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_commitTest
+Tue May 15 13:35:19 UTC 2018: Found element on the queue
+Tue May 15 13:35:19 UTC 2018: Updating status
+Tue May 15 13:35:19 UTC 2018: Working
+Tue May 15 13:35:23 UTC 2018: Start codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_prepareTest
+Tue May 15 13:35:23 UTC 2018: Setting lastTestMethodIndex: 34079
+Tue May 15 13:35:23 UTC 2018: Starting linking
+Tue May 15 13:35:23 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_prepareTest-whenNew_thenPrepared
+Tue May 15 13:35:23 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-commit with org.multiverse.stms.AbstractTransaction_prepareTest-whenCommitted_thenDeadTransactionException
+Tue May 15 13:35:23 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-abort with org.multiverse.stms.AbstractTransaction_prepareTest-whenAborted_thenDeadTransactionException
+Tue May 15 13:35:23 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_prepareTest-whenAlreadyPrepared_noLifecycleListenersCalled
+Tue May 15 13:35:23 UTC 2018: Code found org.multiverse.stms.AbstractTransaction-prepare with org.multiverse.stms.AbstractTransaction_prepareTest-whenAlreadyPrepared_callIgnored
+Tue May 15 13:35:23 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_prepareTest-whenLifecycleListenerRegistered_thenPreCommitIsCalled
+Tue May 15 13:35:23 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_prepareTest-whenExceptionThrown_thenAbort
+Tue May 15 13:35:23 UTC 2018: No link for: org.multiverse.stms.AbstractTransaction_prepareTest-whenPreCommitTaskFails_thenAborted
+Tue May 15 13:35:23 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.stms.AbstractTransaction_prepareTest
+Tue May 15 13:35:24 UTC 2018: Found element on the queue
+Tue May 15 13:35:24 UTC 2018: Updating status
+Tue May 15 13:35:24 UTC 2018: Working
+Tue May 15 13:35:24 UTC 2018: Create project parser
+Tue May 15 13:35:30 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_InterfaceTest
+Tue May 15 13:35:30 UTC 2018: Setting lastTestMethodIndex: 34081
+Tue May 15 13:35:30 UTC 2018: Starting linking
+Tue May 15 13:35:30 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_InterfaceTest-whenInterfaceExtendsTransactionalInterface
+Tue May 15 13:35:30 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_InterfaceTest-whenEmptyTransactionalInterface
+Tue May 15 13:35:30 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_InterfaceTest-whenNonEmptyTransactionalInterface
+Tue May 15 13:35:30 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_InterfaceTest-whenNonTransactionalInterface
+Tue May 15 13:35:30 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_InterfaceTest
+Tue May 15 13:35:31 UTC 2018: Found element on the queue
+Tue May 15 13:35:31 UTC 2018: Updating status
+Tue May 15 13:35:31 UTC 2018: Working
+Tue May 15 13:35:34 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_ObjectTest
+Tue May 15 13:35:34 UTC 2018: Setting lastTestMethodIndex: 34082
+Tue May 15 13:35:34 UTC 2018: Starting linking
+Tue May 15 13:35:34 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_ObjectTest-whenObjectImplementingTransactionalInterface
+Tue May 15 13:35:34 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_ObjectTest-whenNonTransactionalObject
+Tue May 15 13:35:34 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_ObjectTest-whenObjectTransactional
+Tue May 15 13:35:34 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_ObjectTest-whenObjectExtendsTransactionalObject
+Tue May 15 13:35:34 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_ObjectTest
+Tue May 15 13:35:35 UTC 2018: Found element on the queue
+Tue May 15 13:35:35 UTC 2018: Updating status
+Tue May 15 13:35:35 UTC 2018: Working
+Tue May 15 13:35:38 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest
+Tue May 15 13:35:38 UTC 2018: Setting lastTestMethodIndex: 34083
+Tue May 15 13:35:38 UTC 2018: Starting linking
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-whenStrangeName_thenStillSetter
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-regressionTest
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-whenPrimitiveSetter
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-whenSetterDoesMore
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-whenSetterThrowsException
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-whenAbstractSetter
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-whenSetterWithUnboxing
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-whenObjectSetter
+Tue May 15 13:35:38 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest-whenSetterReturnsValue
+Tue May 15 13:35:38 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_SetterTest
+Tue May 15 13:35:39 UTC 2018: Found element on the queue
+Tue May 15 13:35:39 UTC 2018: Updating status
+Tue May 15 13:35:39 UTC 2018: Working
+Tue May 15 13:35:43 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest
+Tue May 15 13:35:43 UTC 2018: Setting lastTestMethodIndex: 34084
+Tue May 15 13:35:43 UTC 2018: Starting linking
+Tue May 15 13:35:43 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest-whenAbstractGetter
+Tue May 15 13:35:43 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest-whenGetterHasArgument_thenNoGetter
+Tue May 15 13:35:43 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest-whenGetterIsConstant_thenNoGetter
+Tue May 15 13:35:43 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest-nameDoesntMatterForGetter
+Tue May 15 13:35:43 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest-whenSimpleGetter
+Tue May 15 13:35:43 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest-whenGetterIsMoreComplex_thenNoGetter
+Tue May 15 13:35:43 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest-whenVoidGetter_thenNoGetter
+Tue May 15 13:35:43 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_GetterTest
+Tue May 15 13:35:44 UTC 2018: Found element on the queue
+Tue May 15 13:35:44 UTC 2018: Updating status
+Tue May 15 13:35:44 UTC 2018: Working
+Tue May 15 13:35:47 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest
+Tue May 15 13:35:47 UTC 2018: Setting lastTestMethodIndex: 34085
+Tue May 15 13:35:47 UTC 2018: Starting linking
+Tue May 15 13:35:47 UTC 2018: Code found org.multiverse.instrumentation.metadata.CompactFamilyNameStrategy-getPackages with org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest-testGetPackages
+Tue May 15 13:35:47 UTC 2018: No link for: org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest-testPrimitiveArg
+Tue May 15 13:35:47 UTC 2018: No link for: org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest-testNoArgMethod
+Tue May 15 13:35:47 UTC 2018: No link for: org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest-testCompactOwner
+Tue May 15 13:35:47 UTC 2018: No link for: org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest-testNoPackage
+Tue May 15 13:35:47 UTC 2018: No link for: org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest-testAllJavaLangObjects
+Tue May 15 13:35:47 UTC 2018: No link for: org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest-testCompactArguments
+Tue May 15 13:35:47 UTC 2018: No link for: org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest-testComplex
+Tue May 15 13:35:47 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.CompactFamilyNameStrategyTest
+Tue May 15 13:35:48 UTC 2018: Found element on the queue
+Tue May 15 13:35:48 UTC 2018: Updating status
+Tue May 15 13:35:48 UTC 2018: Working
+Tue May 15 13:35:51 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_MethodTest
+Tue May 15 13:35:51 UTC 2018: Setting lastTestMethodIndex: 34087
+Tue May 15 13:35:51 UTC 2018: Starting linking
+Tue May 15 13:35:51 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_MethodTest-whenTransactionalInterfaceWithMethod
+Tue May 15 13:35:51 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_MethodTest-whenTransactionalObjectWithExcludedMethod
+Tue May 15 13:35:51 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_MethodTest-whenTransactionalObjectWithMethod
+Tue May 15 13:35:51 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_MethodTest-whenObjectWithTransactionalMethod
+Tue May 15 13:35:51 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_MethodTest
+Tue May 15 13:35:52 UTC 2018: Found element on the queue
+Tue May 15 13:35:52 UTC 2018: Updating status
+Tue May 15 13:35:52 UTC 2018: Working
+Tue May 15 13:35:55 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest
+Tue May 15 13:35:55 UTC 2018: Setting lastTestMethodIndex: 34089
+Tue May 15 13:35:55 UTC 2018: Starting linking
+Tue May 15 13:35:56 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest-whenTransactionalObjectWithField
+Tue May 15 13:35:56 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest-whenTransactionalObjectWithExcludedField
+Tue May 15 13:35:56 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest-whenTransactionalObjectWithFieldGranularityField
+Tue May 15 13:35:56 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest-whenTransactionalObjectWithVolatileField
+Tue May 15 13:35:56 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest-whenTransactionalObjectMixedGranularityFields
+Tue May 15 13:35:56 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest-nonTransactionalObject
+Tue May 15 13:35:56 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest-whenTransactionalObjectWithFinalField
+Tue May 15 13:35:56 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_FieldTest
+Tue May 15 13:35:57 UTC 2018: Found element on the queue
+Tue May 15 13:35:57 UTC 2018: Updating status
+Tue May 15 13:35:57 UTC 2018: Working
+Tue May 15 13:35:59 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.MultikeyTest
+Tue May 15 13:35:59 UTC 2018: Setting lastTestMethodIndex: 34090
+Tue May 15 13:35:59 UTC 2018: Starting linking
+Tue May 15 13:35:59 UTC 2018: Code found org.multiverse.instrumentation.metadata.Multikey-toString with org.multiverse.instrumentation.metadata.MultikeyTest-testToString
+Tue May 15 13:35:59 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MultikeyTest-whenNoFields
+Tue May 15 13:35:59 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MultikeyTest-test
+Tue May 15 13:35:59 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MultikeyTest-whenFieldsNotMatch
+Tue May 15 13:35:59 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MultikeyTest-whenFieldsMatch
+Tue May 15 13:35:59 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MultikeyTest-whenDifferenceInFieldNumber
+Tue May 15 13:35:59 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.MultikeyTest
+Tue May 15 13:36:00 UTC 2018: Found element on the queue
+Tue May 15 13:36:00 UTC 2018: Updating status
+Tue May 15 13:36:00 UTC 2018: Working
+Tue May 15 13:36:03 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.FullFamilynameStrategyTest
+Tue May 15 13:36:03 UTC 2018: Setting lastTestMethodIndex: 34091
+Tue May 15 13:36:03 UTC 2018: Starting linking
+Tue May 15 13:36:03 UTC 2018: No link for: org.multiverse.instrumentation.metadata.FullFamilynameStrategyTest-testComplex
+Tue May 15 13:36:03 UTC 2018: No link for: org.multiverse.instrumentation.metadata.FullFamilynameStrategyTest-testNoPackage
+Tue May 15 13:36:03 UTC 2018: No link for: org.multiverse.instrumentation.metadata.FullFamilynameStrategyTest-testPrimitiveArg
+Tue May 15 13:36:03 UTC 2018: No link for: org.multiverse.instrumentation.metadata.FullFamilynameStrategyTest-testAllObjects
+Tue May 15 13:36:03 UTC 2018: No link for: org.multiverse.instrumentation.metadata.FullFamilynameStrategyTest-testNoArgMethod
+Tue May 15 13:36:03 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.FullFamilynameStrategyTest
+Tue May 15 13:36:04 UTC 2018: Found element on the queue
+Tue May 15 13:36:04 UTC 2018: Updating status
+Tue May 15 13:36:04 UTC 2018: Working
+Tue May 15 13:36:07 UTC 2018: Start codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest
+Tue May 15 13:36:07 UTC 2018: Setting lastTestMethodIndex: 34092
+Tue May 15 13:36:07 UTC 2018: Starting linking
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenAutomaticReadTracking
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenDefaultSettings
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenLogLevel
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenUpdateMethod
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenWriteSkewAllowed
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenTimeout
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenReadonlyMethod
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenMaxRetryCount
+Tue May 15 13:36:07 UTC 2018: No link for: org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest-whenInterrupted
+Tue May 15 13:36:07 UTC 2018: Linking done for codehaus__multiverse test class org.multiverse.instrumentation.metadata.MetadataRepository_TransactionTest

@@ -1,0 +1,698 @@
+Wed May 16 06:09:51 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:09:51 UTC 2018: Starting
+Wed May 16 06:09:52 UTC 2018: Found element on the queue
+Wed May 16 06:09:52 UTC 2018: Updating status
+Wed May 16 06:09:52 UTC 2018: Working
+Wed May 16 06:09:52 UTC 2018: Create project parser
+Wed May 16 06:09:57 UTC 2018: Create slicer
+Wed May 16 06:09:59 UTC 2018: Create call graph
+Wed May 16 06:10:03 UTC 2018: Create point analysis
+Wed May 16 06:10:03 UTC 2018: Create call graph done
+Wed May 16 06:10:03 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryDaoByFileTest
+Wed May 16 06:10:03 UTC 2018: Setting lastTestMethodIndex: 64541
+Wed May 16 06:10:03 UTC 2018: Starting linking
+Wed May 16 06:10:03 UTC 2018: Code found org.ferris.tweial.console.database.DatabaseDirectoryDaoByFile-getDatabaseDirectory with org.ferris.tweial.console.database.DatabaseDirectoryDaoByFileTest-getDatabaseDirectoryReturnsNull
+Wed May 16 06:10:03 UTC 2018: Code found org.ferris.tweial.console.database.DatabaseDirectoryDaoByFile-setDatabaseDirectory with org.ferris.tweial.console.database.DatabaseDirectoryDaoByFileTest-setDatabaseDirectoryOk
+Wed May 16 06:10:04 UTC 2018: Code found org.ferris.tweial.console.database.DatabaseDirectoryDaoByFile-getDatabaseDirectory with org.ferris.tweial.console.database.DatabaseDirectoryDaoByFileTest-getDatabaseDirectoryReturnsDirectory
+Wed May 16 06:10:04 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryDaoByFileTest
+Wed May 16 06:10:05 UTC 2018: Found element on the queue
+Wed May 16 06:10:05 UTC 2018: Updating status
+Wed May 16 06:10:05 UTC 2018: Working
+Wed May 16 06:10:07 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryTest
+Wed May 16 06:10:07 UTC 2018: Setting lastTestMethodIndex: 64544
+Wed May 16 06:10:07 UTC 2018: Starting linking
+Wed May 16 06:10:07 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryTest-directoryIsRequiredSpecificallyUsingTheRequiredClass
+Wed May 16 06:10:08 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryTest-directoryDoesNotExist
+Wed May 16 06:10:08 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryTest-getDerbyDirectoryWhenParentIsTheDerbyDirectory
+Wed May 16 06:10:09 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryTest-directoryIsRequiredBecauseOfGroupSequence
+Wed May 16 06:10:09 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryTest-getDerbyDirectoryWhenParentIsNotTheDerbyDirectory
+Wed May 16 06:10:10 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryTest
+Wed May 16 06:10:10 UTC 2018: Found element on the queue
+Wed May 16 06:10:10 UTC 2018: Updating status
+Wed May 16 06:10:10 UTC 2018: Working
+Wed May 16 06:10:13 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryMgrBeanTest
+Wed May 16 06:10:13 UTC 2018: Setting lastTestMethodIndex: 64548
+Wed May 16 06:10:13 UTC 2018: Starting linking
+Wed May 16 06:10:13 UTC 2018: Code found org.ferris.tweial.console.database.DatabaseDirectoryMgrBean-get with org.ferris.tweial.console.database.DatabaseDirectoryMgrBeanTest-get
+Wed May 16 06:10:13 UTC 2018: Code found org.ferris.tweial.console.database.DatabaseDirectoryMgrBean-set with org.ferris.tweial.console.database.DatabaseDirectoryMgrBeanTest-set
+Wed May 16 06:10:14 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryMgrBeanTest
+Wed May 16 06:10:14 UTC 2018: Found element on the queue
+Wed May 16 06:10:14 UTC 2018: Updating status
+Wed May 16 06:10:14 UTC 2018: Working
+Wed May 16 06:10:17 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountPortTest
+Wed May 16 06:10:17 UTC 2018: Setting lastTestMethodIndex: 64551
+Wed May 16 06:10:17 UTC 2018: Starting linking
+Wed May 16 06:10:17 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountPortTest-test_port_Min
+Wed May 16 06:10:18 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountPortTest-test_port_Max
+Wed May 16 06:10:18 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountPortTest-test_port_NotNull_when_NAN
+Wed May 16 06:10:19 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountPortTest-test_port_NotNull_when_property_is_missing
+Wed May 16 06:10:19 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountPortTest
+Wed May 16 06:10:20 UTC 2018: Found element on the queue
+Wed May 16 06:10:20 UTC 2018: Updating status
+Wed May 16 06:10:20 UTC 2018: Working
+Wed May 16 06:10:23 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountConstructorTest
+Wed May 16 06:10:23 UTC 2018: Setting lastTestMethodIndex: 64553
+Wed May 16 06:10:23 UTC 2018: Starting linking
+Wed May 16 06:10:23 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountConstructorTest-test_constructor_sets_all_values
+Wed May 16 06:10:23 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountConstructorTest
+Wed May 16 06:10:24 UTC 2018: Found element on the queue
+Wed May 16 06:10:24 UTC 2018: Updating status
+Wed May 16 06:10:24 UTC 2018: Working
+Wed May 16 06:10:26 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountSslEnabledTest
+Wed May 16 06:10:26 UTC 2018: Setting lastTestMethodIndex: 64557
+Wed May 16 06:10:26 UTC 2018: Starting linking
+Wed May 16 06:10:26 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountSslEnabledTest-test_sslEnabled_true
+Wed May 16 06:10:27 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountSslEnabledTest-test_sslEnabled_NotNull_not_given
+Wed May 16 06:10:27 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountSslEnabledTest-test_sslEnabled_NotNull_not_true_or_false
+Wed May 16 06:10:28 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountSslEnabledTest-test_sslEnabled_false
+Wed May 16 06:10:28 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountSslEnabledTest
+Wed May 16 06:10:28 UTC 2018: Found element on the queue
+Wed May 16 06:10:28 UTC 2018: Updating status
+Wed May 16 06:10:28 UTC 2018: Working
+Wed May 16 06:10:31 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountUsernameTest
+Wed May 16 06:10:31 UTC 2018: Setting lastTestMethodIndex: 64560
+Wed May 16 06:10:31 UTC 2018: Starting linking
+Wed May 16 06:10:31 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountUsernameTest-test_accountUsername_Size_min
+Wed May 16 06:10:32 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountUsernameTest-test_accountUsername_Size_max
+Wed May 16 06:10:32 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountUsernameTest-test_accountUsername_NotNull
+Wed May 16 06:10:32 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountUsernameTest
+Wed May 16 06:10:33 UTC 2018: Found element on the queue
+Wed May 16 06:10:33 UTC 2018: Updating status
+Wed May 16 06:10:33 UTC 2018: Working
+Wed May 16 06:10:36 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountHostTest
+Wed May 16 06:10:36 UTC 2018: Setting lastTestMethodIndex: 64562
+Wed May 16 06:10:36 UTC 2018: Starting linking
+Wed May 16 06:10:36 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountHostTest-test_host_Size_min
+Wed May 16 06:10:36 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountHostTest-test_host_Size_max
+Wed May 16 06:10:36 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountHostTest-test_host_NotNull
+Wed May 16 06:10:37 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountHostTest
+Wed May 16 06:10:37 UTC 2018: Found element on the queue
+Wed May 16 06:10:37 UTC 2018: Updating status
+Wed May 16 06:10:37 UTC 2018: Working
+Wed May 16 06:10:40 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailHandlerTest
+Wed May 16 06:10:40 UTC 2018: Setting lastTestMethodIndex: 64566
+Wed May 16 06:10:40 UTC 2018: Starting linking
+Wed May 16 06:10:40 UTC 2018: Code found org.ferris.tweial.console.email.EmailHandler-validate with org.ferris.tweial.console.email.EmailHandlerTest-test_validate
+Wed May 16 06:10:40 UTC 2018: No link for: org.ferris.tweial.console.email.EmailHandlerTest-test_getting_email_account
+Wed May 16 06:10:41 UTC 2018: No link for: org.ferris.tweial.console.email.EmailHandlerTest-test_email_data_source
+Wed May 16 06:10:41 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailHandlerTest
+Wed May 16 06:10:42 UTC 2018: Found element on the queue
+Wed May 16 06:10:42 UTC 2018: Updating status
+Wed May 16 06:10:42 UTC 2018: Working
+Wed May 16 06:10:44 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountEmailAddressTest
+Wed May 16 06:10:44 UTC 2018: Setting lastTestMethodIndex: 64568
+Wed May 16 06:10:44 UTC 2018: Starting linking
+Wed May 16 06:10:44 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountEmailAddressTest-test_emailAddress_OK
+Wed May 16 06:10:45 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountEmailAddressTest-test_emailAddress_NotNull
+Wed May 16 06:10:45 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountEmailAddressTest-test_emailAddress_Pattern
+Wed May 16 06:10:46 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountEmailAddressTest
+Wed May 16 06:10:46 UTC 2018: Found element on the queue
+Wed May 16 06:10:46 UTC 2018: Updating status
+Wed May 16 06:10:46 UTC 2018: Working
+Wed May 16 06:10:49 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountPasswordTest
+Wed May 16 06:10:49 UTC 2018: Setting lastTestMethodIndex: 64571
+Wed May 16 06:10:49 UTC 2018: Starting linking
+Wed May 16 06:10:49 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountPasswordTest-test_accountPassword_NotNull
+Wed May 16 06:10:49 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountPasswordTest-test_accountPassword_Size_min
+Wed May 16 06:10:50 UTC 2018: No link for: org.ferris.tweial.console.email.EmailAccountPasswordTest-test_accountPassword_Size_max
+Wed May 16 06:10:50 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailAccountPasswordTest
+Wed May 16 06:10:51 UTC 2018: Found element on the queue
+Wed May 16 06:10:51 UTC 2018: Updating status
+Wed May 16 06:10:51 UTC 2018: Working
+Wed May 16 06:10:53 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailRendererTest
+Wed May 16 06:10:53 UTC 2018: Setting lastTestMethodIndex: 64573
+Wed May 16 06:10:53 UTC 2018: Starting linking
+Wed May 16 06:10:53 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-testStatusId
+Wed May 16 06:10:54 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-test_retweet_image_when_isRetweet_is_false
+Wed May 16 06:10:54 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-testUserScreenName
+Wed May 16 06:10:55 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-testUserProfileImageUrl
+Wed May 16 06:10:55 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-testStatusCreatedAt2
+Wed May 16 06:10:56 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-test_retweet_user_when_isRetweet_is_false
+Wed May 16 06:10:56 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-testStatusCreatedAt1
+Wed May 16 06:10:57 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-testStatusText
+Wed May 16 06:10:57 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-testUserName
+Wed May 16 06:10:58 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-test_retweet_user_when_isRetweet_is_true
+Wed May 16 06:10:58 UTC 2018: No link for: org.ferris.tweial.console.email.EmailRendererTest-test_retweet_image_when_isRetweet_is_true
+Wed May 16 06:10:59 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailRendererTest
+Wed May 16 06:10:59 UTC 2018: Found element on the queue
+Wed May 16 06:10:59 UTC 2018: Updating status
+Wed May 16 06:10:59 UTC 2018: Working
+Wed May 16 06:11:02 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailStartupObserverTest
+Wed May 16 06:11:02 UTC 2018: Setting lastTestMethodIndex: 64576
+Wed May 16 06:11:02 UTC 2018: Starting linking
+Wed May 16 06:11:02 UTC 2018: No link for: org.ferris.tweial.console.email.EmailStartupObserverTest-test_what_to_do_if_data_source_is_missing
+Wed May 16 06:11:03 UTC 2018: No link for: org.ferris.tweial.console.email.EmailStartupObserverTest-test_what_to_do_if_there_are_account_violations
+Wed May 16 06:11:04 UTC 2018: No link for: org.ferris.tweial.console.email.EmailStartupObserverTest-keep
+Wed May 16 06:11:04 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailStartupObserverTest
+Wed May 16 06:11:05 UTC 2018: Found element on the queue
+Wed May 16 06:11:05 UTC 2018: Updating status
+Wed May 16 06:11:05 UTC 2018: Working
+Wed May 16 06:11:07 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailPropertiesFileTest
+Wed May 16 06:11:07 UTC 2018: Setting lastTestMethodIndex: 64580
+Wed May 16 06:11:07 UTC 2018: Starting linking
+Wed May 16 06:11:07 UTC 2018: Code found org.ferris.tweial.consolex.io.AbstractPropertiesFile-toProperties with org.ferris.tweial.console.email.EmailPropertiesFileTest-test_toProperties_throws_RuntimeException
+Wed May 16 06:11:08 UTC 2018: Code found org.ferris.tweial.consolex.io.AbstractPropertiesFile-toProperties with org.ferris.tweial.console.email.EmailPropertiesFileTest-test_toProperties
+Wed May 16 06:11:08 UTC 2018: No link for: org.ferris.tweial.console.email.EmailPropertiesFileTest-test_path_and_file_name_are_correct
+Wed May 16 06:11:09 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailPropertiesFileTest
+Wed May 16 06:11:09 UTC 2018: Found element on the queue
+Wed May 16 06:11:09 UTC 2018: Updating status
+Wed May 16 06:11:09 UTC 2018: Working
+Wed May 16 06:11:12 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailPageTest
+Wed May 16 06:11:12 UTC 2018: Setting lastTestMethodIndex: 64583
+Wed May 16 06:11:12 UTC 2018: Starting linking
+Wed May 16 06:11:12 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-p with org.ferris.tweial.console.email.EmailPageTest-test_page_view_if_account_is_missing
+Wed May 16 06:11:12 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-p with org.ferris.tweial.console.email.EmailPageTest-test_page_view_if_data_source_is_missing
+Wed May 16 06:11:13 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.email.EmailPageTest
+Wed May 16 06:11:13 UTC 2018: Found element on the queue
+Wed May 16 06:11:13 UTC 2018: Updating status
+Wed May 16 06:11:13 UTC 2018: Working
+Wed May 16 06:11:16 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.exception.UncaughtExceptionPageTest
+Wed May 16 06:11:16 UTC 2018: Setting lastTestMethodIndex: 64585
+Wed May 16 06:11:16 UTC 2018: Starting linking
+Wed May 16 06:11:16 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-p with org.ferris.tweial.console.exception.UncaughtExceptionPageTest-test_page_showing_exception
+Wed May 16 06:11:16 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.exception.UncaughtExceptionPageTest
+Wed May 16 06:11:17 UTC 2018: Found element on the queue
+Wed May 16 06:11:17 UTC 2018: Updating status
+Wed May 16 06:11:17 UTC 2018: Working
+Wed May 16 06:11:19 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.exception.UncaughtExceptionObserverTest
+Wed May 16 06:11:19 UTC 2018: Setting lastTestMethodIndex: 64588
+Wed May 16 06:11:19 UTC 2018: Starting linking
+Wed May 16 06:11:19 UTC 2018: Code found org.ferris.tweial.console.exception.UncaughtExceptionPage-view with org.ferris.tweial.console.exception.UncaughtExceptionObserverTest-test_that_page_is_viewed
+Wed May 16 06:11:20 UTC 2018: No link for: org.ferris.tweial.console.exception.UncaughtExceptionObserverTest-test_that_defaultUncaughtExceptionHandler_is_called
+Wed May 16 06:11:20 UTC 2018: No link for: org.ferris.tweial.console.exception.UncaughtExceptionObserverTest-test_that_exit_event_is_fired
+Wed May 16 06:11:21 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.exception.UncaughtExceptionObserverTest
+Wed May 16 06:11:21 UTC 2018: Found element on the queue
+Wed May 16 06:11:21 UTC 2018: Updating status
+Wed May 16 06:11:21 UTC 2018: Working
+Wed May 16 06:11:24 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.lang.SystemToolTest
+Wed May 16 06:11:24 UTC 2018: Setting lastTestMethodIndex: 64591
+Wed May 16 06:11:24 UTC 2018: Starting linking
+Wed May 16 06:11:24 UTC 2018: No link for: org.ferris.tweial.consolex.lang.SystemToolTest-test_abnormal_system_exit
+Wed May 16 06:11:24 UTC 2018: No link for: org.ferris.tweial.consolex.lang.SystemToolTest-test_normal_system_exit
+Wed May 16 06:11:25 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.lang.SystemToolTest
+Wed May 16 06:11:25 UTC 2018: Found element on the queue
+Wed May 16 06:11:25 UTC 2018: Updating status
+Wed May 16 06:11:25 UTC 2018: Working
+Wed May 16 06:11:28 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.lang.ThreadToolTest
+Wed May 16 06:11:28 UTC 2018: Setting lastTestMethodIndex: 64593
+Wed May 16 06:11:28 UTC 2018: Starting linking
+Wed May 16 06:11:28 UTC 2018: No link for: org.ferris.tweial.consolex.lang.ThreadToolTest-testSetDefaultUncaughtExceptionHandleIsCalled
+Wed May 16 06:11:28 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.lang.ThreadToolTest
+Wed May 16 06:11:29 UTC 2018: Found element on the queue
+Wed May 16 06:11:29 UTC 2018: Updating status
+Wed May 16 06:11:29 UTC 2018: Working
+Wed May 16 06:11:32 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.lang.StringDecoratorTest
+Wed May 16 06:11:32 UTC 2018: Setting lastTestMethodIndex: 64595
+Wed May 16 06:11:32 UTC 2018: Starting linking
+Wed May 16 06:11:32 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_replace
+Wed May 16 06:11:32 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_toString_empty
+Wed May 16 06:11:32 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_toString_with_one_decorator
+Wed May 16 06:11:33 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_toStringDecorated_empty
+Wed May 16 06:11:33 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_toStringDecorated_single_space
+Wed May 16 06:11:34 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_toString_with_two_decorators
+Wed May 16 06:11:34 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_toString_single_space
+Wed May 16 06:11:35 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_decorators_cannot_overlap
+Wed May 16 06:11:35 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_length
+Wed May 16 06:11:35 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-overlapp
+Wed May 16 06:11:36 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_toStringDecorated_with_two_decorators
+Wed May 16 06:11:36 UTC 2018: No link for: org.ferris.tweial.consolex.lang.StringDecoratorTest-test_toStringDecorated_with_one_decorator
+Wed May 16 06:11:37 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.lang.StringDecoratorTest
+Wed May 16 06:11:37 UTC 2018: Found element on the queue
+Wed May 16 06:11:37 UTC 2018: Updating status
+Wed May 16 06:11:37 UTC 2018: Working
+Wed May 16 06:11:40 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.text.i18n.LocalizedStringTest
+Wed May 16 06:11:40 UTC 2018: Setting lastTestMethodIndex: 64600
+Wed May 16 06:11:40 UTC 2018: Starting linking
+Wed May 16 06:11:40 UTC 2018: Code found org.ferris.tweial.consolex.text.i18n.LocalizedString-intValue with org.ferris.tweial.consolex.text.i18n.LocalizedStringTest-test_intValue_returns_default
+Wed May 16 06:11:40 UTC 2018: Code found org.ferris.tweial.consolex.text.i18n.LocalizedString-length with org.ferris.tweial.consolex.text.i18n.LocalizedStringTest-test_length
+Wed May 16 06:11:41 UTC 2018: Code found org.ferris.tweial.consolex.text.i18n.LocalizedString-toString with org.ferris.tweial.consolex.text.i18n.LocalizedStringTest-test_toString
+Wed May 16 06:11:41 UTC 2018: Code found org.ferris.tweial.consolex.text.i18n.LocalizedString-intValue with org.ferris.tweial.consolex.text.i18n.LocalizedStringTest-test_intValue_returns_int
+Wed May 16 06:11:41 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.text.i18n.LocalizedStringTest
+Wed May 16 06:11:42 UTC 2018: Found element on the queue
+Wed May 16 06:11:42 UTC 2018: Updating status
+Wed May 16 06:11:42 UTC 2018: Working
+Wed May 16 06:11:45 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest
+Wed May 16 06:11:45 UTC 2018: Setting lastTestMethodIndex: 64603
+Wed May 16 06:11:45 UTC 2018: Starting linking
+Wed May 16 06:11:45 UTC 2018: Code found org.ferris.tweial.consolex.text.i18n.LocalizedStringProducer-getAnnotated with org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest-test_getAnnotated_throws_runtime_exception_if_annotation_is_null
+Wed May 16 06:11:45 UTC 2018: Code found org.ferris.tweial.consolex.text.i18n.LocalizedStringProducer-getAnnotated with org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest-test_getAnnotated_ok
+Wed May 16 06:11:46 UTC 2018: No link for: org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest-test_get_string_when_key_exists
+Wed May 16 06:11:46 UTC 2018: No link for: org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest-test_get_list_when_key_exists
+Wed May 16 06:11:47 UTC 2018: No link for: org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest-test_getLocalizedStringKey_throws_exception_if_null
+Wed May 16 06:11:47 UTC 2018: No link for: org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest-test_get_empty_list_when_no_key
+Wed May 16 06:11:47 UTC 2018: No link for: org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest-test_get_missing_when_no_key
+Wed May 16 06:11:48 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.text.i18n.LocalizedStringProducerTest
+Wed May 16 06:11:48 UTC 2018: Found element on the queue
+Wed May 16 06:11:48 UTC 2018: Updating status
+Wed May 16 06:11:48 UTC 2018: Working
+Wed May 16 06:11:51 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.text.i18n.LocalizedStringListTest
+Wed May 16 06:11:51 UTC 2018: Setting lastTestMethodIndex: 64607
+Wed May 16 06:11:51 UTC 2018: Starting linking
+Wed May 16 06:11:51 UTC 2018: Code found org.ferris.tweial.consolex.text.i18n.LocalizedStringList-replace with org.ferris.tweial.consolex.text.i18n.LocalizedStringListTest-test_replace
+Wed May 16 06:11:51 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.text.i18n.LocalizedStringListTest
+Wed May 16 06:11:52 UTC 2018: Found element on the queue
+Wed May 16 06:11:52 UTC 2018: Updating status
+Wed May 16 06:11:52 UTC 2018: Working
+Wed May 16 06:11:55 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleWriterTest
+Wed May 16 06:11:55 UTC 2018: Setting lastTestMethodIndex: 64609
+Wed May 16 06:11:55 UTC 2018: Starting linking
+Wed May 16 06:11:55 UTC 2018: Code found org.ferris.tweial.consolex.io.ConsoleWriter-println with org.ferris.tweial.consolex.io.ConsoleWriterTest-testPrintln
+Wed May 16 06:11:55 UTC 2018: Code found org.ferris.tweial.consolex.io.ConsoleWriter-printf with org.ferris.tweial.consolex.io.ConsoleWriterTest-testPrintf
+Wed May 16 06:11:55 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleWriterTest
+Wed May 16 06:11:56 UTC 2018: Found element on the queue
+Wed May 16 06:11:56 UTC 2018: Updating status
+Wed May 16 06:11:56 UTC 2018: Working
+Wed May 16 06:11:59 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleTest
+Wed May 16 06:11:59 UTC 2018: Setting lastTestMethodIndex: 64610
+Wed May 16 06:11:59 UTC 2018: Starting linking
+Wed May 16 06:11:59 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-h1 with org.ferris.tweial.consolex.io.ConsoleTest-test_formatted_h1
+Wed May 16 06:11:59 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-h2 with org.ferris.tweial.consolex.io.ConsoleTest-test_formatted_h2
+Wed May 16 06:12:00 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-p with org.ferris.tweial.consolex.io.ConsoleTest-test_p
+Wed May 16 06:12:00 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-h1 with org.ferris.tweial.consolex.io.ConsoleTest-test_h1
+Wed May 16 06:12:00 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-h2 with org.ferris.tweial.consolex.io.ConsoleTest-test_h2
+Wed May 16 06:12:01 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-p with org.ferris.tweial.consolex.io.ConsoleTest-test_p_formatted
+Wed May 16 06:12:01 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-p with org.ferris.tweial.consolex.io.ConsoleTest-test_p_throwable
+Wed May 16 06:12:02 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-readLine with org.ferris.tweial.consolex.io.ConsoleTest-test_formatted_readLine
+Wed May 16 06:12:02 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleTest
+Wed May 16 06:12:03 UTC 2018: Found element on the queue
+Wed May 16 06:12:03 UTC 2018: Updating status
+Wed May 16 06:12:03 UTC 2018: Working
+Wed May 16 06:12:05 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleReaderProducerTest
+Wed May 16 06:12:05 UTC 2018: Setting lastTestMethodIndex: 64614
+Wed May 16 06:12:05 UTC 2018: Starting linking
+Wed May 16 06:12:05 UTC 2018: Code found org.ferris.tweial.consolex.io.ConsoleReaderProducer-produceConsoleReader with org.ferris.tweial.consolex.io.ConsoleReaderProducerTest-testProduceConsoleReader
+Wed May 16 06:12:06 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleReaderProducerTest
+Wed May 16 06:12:06 UTC 2018: Found element on the queue
+Wed May 16 06:12:06 UTC 2018: Updating status
+Wed May 16 06:12:06 UTC 2018: Working
+Wed May 16 06:12:09 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.FileLastModifiedRunnableTest
+Wed May 16 06:12:09 UTC 2018: Setting lastTestMethodIndex: 64616
+Wed May 16 06:12:09 UTC 2018: Starting linking
+Wed May 16 06:12:09 UTC 2018: No link for: org.ferris.tweial.consolex.io.FileLastModifiedRunnableTest-test_event_fired_if_lastModfied_changes
+Wed May 16 06:12:09 UTC 2018: No link for: org.ferris.tweial.consolex.io.FileLastModifiedRunnableTest-test_lastModifiedThen_updated_if_lastModfied_changes
+Wed May 16 06:12:10 UTC 2018: No link for: org.ferris.tweial.consolex.io.FileLastModifiedRunnableTest-test_file_and_lastModifiedThen_are_set_by_constructor
+Wed May 16 06:12:10 UTC 2018: No link for: org.ferris.tweial.consolex.io.FileLastModifiedRunnableTest-test_nothing_happens_if_lastModfied_does_not_change
+Wed May 16 06:12:11 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.FileLastModifiedRunnableTest
+Wed May 16 06:12:11 UTC 2018: Found element on the queue
+Wed May 16 06:12:11 UTC 2018: Updating status
+Wed May 16 06:12:11 UTC 2018: Working
+Wed May 16 06:12:14 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.FileLastModifiedEventTest
+Wed May 16 06:12:14 UTC 2018: Setting lastTestMethodIndex: 64619
+Wed May 16 06:12:14 UTC 2018: Starting linking
+Wed May 16 06:12:14 UTC 2018: No link for: org.ferris.tweial.consolex.io.FileLastModifiedEventTest-test_all
+Wed May 16 06:12:14 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.FileLastModifiedEventTest
+Wed May 16 06:12:15 UTC 2018: Found element on the queue
+Wed May 16 06:12:15 UTC 2018: Updating status
+Wed May 16 06:12:15 UTC 2018: Working
+Wed May 16 06:12:17 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleWriterProducerTest
+Wed May 16 06:12:17 UTC 2018: Setting lastTestMethodIndex: 64621
+Wed May 16 06:12:17 UTC 2018: Starting linking
+Wed May 16 06:12:17 UTC 2018: Code found org.ferris.tweial.consolex.io.ConsoleWriterProducer-produceConsoleWriter with org.ferris.tweial.consolex.io.ConsoleWriterProducerTest-testProduceConsoleWriter
+Wed May 16 06:12:18 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleWriterProducerTest
+Wed May 16 06:12:18 UTC 2018: Found element on the queue
+Wed May 16 06:12:18 UTC 2018: Updating status
+Wed May 16 06:12:18 UTC 2018: Working
+Wed May 16 06:12:21 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleReaderTest
+Wed May 16 06:12:21 UTC 2018: Setting lastTestMethodIndex: 64623
+Wed May 16 06:12:21 UTC 2018: Starting linking
+Wed May 16 06:12:21 UTC 2018: Code found org.ferris.tweial.consolex.io.ConsoleReader-readLine with org.ferris.tweial.consolex.io.ConsoleReaderTest-testReadLine
+Wed May 16 06:12:22 UTC 2018: Code found org.ferris.tweial.consolex.io.ConsoleReader-readLine with org.ferris.tweial.consolex.io.ConsoleReaderTest-testReadLineThrowsException
+Wed May 16 06:12:22 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.io.ConsoleReaderTest
+Wed May 16 06:12:23 UTC 2018: Found element on the queue
+Wed May 16 06:12:23 UTC 2018: Updating status
+Wed May 16 06:12:23 UTC 2018: Working
+Wed May 16 06:12:25 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.view.prompt.YesNoTest
+Wed May 16 06:12:25 UTC 2018: Setting lastTestMethodIndex: 64625
+Wed May 16 06:12:25 UTC 2018: Starting linking
+Wed May 16 06:12:25 UTC 2018: No link for: org.ferris.tweial.consolex.view.prompt.YesNoTest-test_notnull
+Wed May 16 06:12:25 UTC 2018: No link for: org.ferris.tweial.consolex.view.prompt.YesNoTest-test_yes
+Wed May 16 06:12:26 UTC 2018: No link for: org.ferris.tweial.consolex.view.prompt.YesNoTest-test_no
+Wed May 16 06:12:26 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.view.prompt.YesNoTest
+Wed May 16 06:12:27 UTC 2018: Found element on the queue
+Wed May 16 06:12:27 UTC 2018: Updating status
+Wed May 16 06:12:27 UTC 2018: Working
+Wed May 16 06:12:30 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.persistence.PersistenceToolTest
+Wed May 16 06:12:30 UTC 2018: Setting lastTestMethodIndex: 64627
+Wed May 16 06:12:30 UTC 2018: Starting linking
+Wed May 16 06:12:30 UTC 2018: No link for: org.ferris.tweial.consolex.persistence.PersistenceToolTest-setDatabaseDirectory
+Wed May 16 06:12:30 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.persistence.PersistenceToolTest
+Wed May 16 06:12:31 UTC 2018: Found element on the queue
+Wed May 16 06:12:31 UTC 2018: Updating status
+Wed May 16 06:12:31 UTC 2018: Working
+Wed May 16 06:12:33 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.persistence.EntityManagerProducerTest
+Wed May 16 06:12:33 UTC 2018: Setting lastTestMethodIndex: 64628
+Wed May 16 06:12:33 UTC 2018: Starting linking
+Wed May 16 06:12:33 UTC 2018: Code found org.ferris.tweial.consolex.persistence.EntityManagerProducer-close with org.ferris.tweial.consolex.persistence.EntityManagerProducerTest-closeWhenEntityManagerFactoryNull
+Wed May 16 06:12:34 UTC 2018: Code found org.ferris.tweial.consolex.persistence.EntityManagerProducer-setDatabaseDirectory with org.ferris.tweial.consolex.persistence.EntityManagerProducerTest-test_setDatabaseDirectory_sets_map_values_when_derby_directory_does_exist
+Wed May 16 06:12:34 UTC 2018: Code found org.ferris.tweial.consolex.persistence.EntityManagerProducer-getEntityManager with org.ferris.tweial.consolex.persistence.EntityManagerProducerTest-getEntityManagerWhenEntityManagerFactoryNotNull
+Wed May 16 06:12:34 UTC 2018: Code found org.ferris.tweial.consolex.persistence.EntityManagerProducer-setDatabaseDirectory with org.ferris.tweial.consolex.persistence.EntityManagerProducerTest-test_setDatabaseDirectory_sets_map_values_when_derby_directory_does_not_exist
+Wed May 16 06:12:35 UTC 2018: Code found org.ferris.tweial.consolex.persistence.EntityManagerProducer-getEntityManager with org.ferris.tweial.consolex.persistence.EntityManagerProducerTest-getEntityManagerWhenEntityManagerFactoryNull
+Wed May 16 06:12:35 UTC 2018: Code found org.ferris.tweial.consolex.persistence.EntityManagerProducer-setDatabaseDirectory with org.ferris.tweial.consolex.persistence.EntityManagerProducerTest-test_setDatabaseDirectory_sets_entityManagerFactory
+Wed May 16 06:12:36 UTC 2018: Code found org.ferris.tweial.consolex.persistence.EntityManagerProducer-close with org.ferris.tweial.consolex.persistence.EntityManagerProducerTest-closeWhenEntityManagerFactoryNotNull
+Wed May 16 06:12:36 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.persistence.EntityManagerProducerTest
+Wed May 16 06:12:36 UTC 2018: Found element on the queue
+Wed May 16 06:12:36 UTC 2018: Updating status
+Wed May 16 06:12:36 UTC 2018: Working
+Wed May 16 06:12:40 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.log4j.Log4jLogManagerToolTest
+Wed May 16 06:12:40 UTC 2018: Setting lastTestMethodIndex: 64630
+Wed May 16 06:12:40 UTC 2018: Starting linking
+Wed May 16 06:12:40 UTC 2018: Code found org.ferris.tweial.consolex.log4j.Log4jLogManagerTool-resetConfiguration with org.ferris.tweial.consolex.log4j.Log4jLogManagerToolTest-resetConfiguration
+Wed May 16 06:12:40 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.log4j.Log4jLogManagerToolTest
+Wed May 16 06:12:40 UTC 2018: Found element on the queue
+Wed May 16 06:12:40 UTC 2018: Updating status
+Wed May 16 06:12:40 UTC 2018: Working
+Wed May 16 06:12:43 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.log4j.Log4jPropertyConfiguratorToolTest
+Wed May 16 06:12:43 UTC 2018: Setting lastTestMethodIndex: 64631
+Wed May 16 06:12:43 UTC 2018: Starting linking
+Wed May 16 06:12:43 UTC 2018: Code found org.ferris.tweial.consolex.log4j.Log4jPropertyConfiguratorTool-configure with org.ferris.tweial.consolex.log4j.Log4jPropertyConfiguratorToolTest-configure
+Wed May 16 06:12:43 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.log4j.Log4jPropertyConfiguratorToolTest
+Wed May 16 06:12:44 UTC 2018: Found element on the queue
+Wed May 16 06:12:44 UTC 2018: Updating status
+Wed May 16 06:12:44 UTC 2018: Working
+Wed May 16 06:12:47 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.log4j.Log4jLoggerProducerTest
+Wed May 16 06:12:47 UTC 2018: Setting lastTestMethodIndex: 64632
+Wed May 16 06:12:47 UTC 2018: Starting linking
+Wed May 16 06:12:47 UTC 2018: No link for: org.ferris.tweial.consolex.log4j.Log4jLoggerProducerTest-tet_get_logger
+Wed May 16 06:12:47 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.log4j.Log4jLoggerProducerTest
+Wed May 16 06:12:48 UTC 2018: Found element on the queue
+Wed May 16 06:12:48 UTC 2018: Updating status
+Wed May 16 06:12:48 UTC 2018: Working
+Wed May 16 06:12:50 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.log4j.Log4jRollingFileAppenderTest
+Wed May 16 06:12:50 UTC 2018: Setting lastTestMethodIndex: 64633
+Wed May 16 06:12:50 UTC 2018: Starting linking
+Wed May 16 06:12:50 UTC 2018: No link for: org.ferris.tweial.consolex.log4j.Log4jRollingFileAppenderTest-test_constructor_goes_to_tweial_log_file
+Wed May 16 06:12:51 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.log4j.Log4jRollingFileAppenderTest
+Wed May 16 06:12:51 UTC 2018: Found element on the queue
+Wed May 16 06:12:51 UTC 2018: Updating status
+Wed May 16 06:12:51 UTC 2018: Working
+Wed May 16 06:12:54 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.util.concurrent.ExecutorsToolTest
+Wed May 16 06:12:54 UTC 2018: Setting lastTestMethodIndex: 64634
+Wed May 16 06:12:54 UTC 2018: Starting linking
+Wed May 16 06:12:54 UTC 2018: No link for: org.ferris.tweial.consolex.util.concurrent.ExecutorsToolTest-newSingleThreadScheduledExecutor
+Wed May 16 06:12:54 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.util.concurrent.ExecutorsToolTest
+Wed May 16 06:12:55 UTC 2018: Found element on the queue
+Wed May 16 06:12:55 UTC 2018: Updating status
+Wed May 16 06:12:55 UTC 2018: Working
+Wed May 16 06:12:57 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.util.PropertiesFileTest
+Wed May 16 06:12:57 UTC 2018: Setting lastTestMethodIndex: 64635
+Wed May 16 06:12:57 UTC 2018: Starting linking
+Wed May 16 06:12:57 UTC 2018: Code found org.ferris.tweial.consolex.util.PropertiesFile-find with org.ferris.tweial.consolex.util.PropertiesFileTest-findOk
+Wed May 16 06:12:58 UTC 2018: Code found org.ferris.tweial.consolex.util.PropertiesFile-persist with org.ferris.tweial.consolex.util.PropertiesFileTest-persistThrowsIOException
+Wed May 16 06:12:58 UTC 2018: Code found org.ferris.tweial.consolex.util.PropertiesFile-persist with org.ferris.tweial.consolex.util.PropertiesFileTest-persistOk
+Wed May 16 06:12:59 UTC 2018: Code found org.ferris.tweial.consolex.util.PropertiesFile-getProperties with org.ferris.tweial.consolex.util.PropertiesFileTest-getPropertiesOK
+Wed May 16 06:12:59 UTC 2018: Code found org.ferris.tweial.consolex.util.PropertiesFile-getProperties with org.ferris.tweial.consolex.util.PropertiesFileTest-getPropertiesThrowsRuntimeException
+Wed May 16 06:13:00 UTC 2018: No link for: org.ferris.tweial.consolex.util.PropertiesFileTest-fileInputStreamOK
+Wed May 16 06:13:01 UTC 2018: No link for: org.ferris.tweial.consolex.util.PropertiesFileTest-fileOutputStreamOK
+Wed May 16 06:13:01 UTC 2018: No link for: org.ferris.tweial.consolex.util.PropertiesFileTest-fileOutputStreamThrowsRuntimeException
+Wed May 16 06:13:02 UTC 2018: No link for: org.ferris.tweial.consolex.util.PropertiesFileTest-fileInputStreamThrowsRuntimeException
+Wed May 16 06:13:02 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.util.PropertiesFileTest
+Wed May 16 06:13:03 UTC 2018: Found element on the queue
+Wed May 16 06:13:03 UTC 2018: Updating status
+Wed May 16 06:13:03 UTC 2018: Working
+Wed May 16 06:13:06 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.util.version.VersionTest
+Wed May 16 06:13:06 UTC 2018: Setting lastTestMethodIndex: 64638
+Wed May 16 06:13:06 UTC 2018: Starting linking
+Wed May 16 06:13:06 UTC 2018: Code found org.ferris.tweial.consolex.util.version.Version-getImplementationTitle with org.ferris.tweial.consolex.util.version.VersionTest-getImplementationTitle_PackageIsNull
+Wed May 16 06:13:07 UTC 2018: Code found org.ferris.tweial.consolex.util.version.Version-getImplementationVendor with org.ferris.tweial.consolex.util.version.VersionTest-getImplementationVendor_PackageIsNull
+Wed May 16 06:13:07 UTC 2018: Code found org.ferris.tweial.consolex.util.version.Version-getImplementationVendor with org.ferris.tweial.consolex.util.version.VersionTest-getImplementationVendor_PackageIsNotNull
+Wed May 16 06:13:07 UTC 2018: Code found org.ferris.tweial.consolex.util.version.Version-getImplementationVersion with org.ferris.tweial.consolex.util.version.VersionTest-getImplementationVersion_PackageIsNull
+Wed May 16 06:13:08 UTC 2018: Code found org.ferris.tweial.consolex.util.version.Version-getImplementationVersion with org.ferris.tweial.consolex.util.version.VersionTest-getImplementationVersion_PackageIsNotNull
+Wed May 16 06:13:09 UTC 2018: Code found org.ferris.tweial.consolex.util.version.Version-getImplementationVersion with org.ferris.tweial.consolex.util.version.VersionTest-getImplementationVersion_DefaultPackage
+Wed May 16 06:13:09 UTC 2018: Code found org.ferris.tweial.consolex.util.version.Version-getImplementationTitle with org.ferris.tweial.consolex.util.version.VersionTest-getImplementationTitle_PackageIsNotNull
+Wed May 16 06:13:09 UTC 2018: No link for: org.ferris.tweial.consolex.util.version.VersionTest-test_getPackage_throws_exception
+Wed May 16 06:13:10 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.util.version.VersionTest
+Wed May 16 06:13:10 UTC 2018: Found element on the queue
+Wed May 16 06:13:10 UTC 2018: Updating status
+Wed May 16 06:13:10 UTC 2018: Working
+Wed May 16 06:13:13 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.validation.validator.DirectoryNotNullValidatorTest
+Wed May 16 06:13:13 UTC 2018: Setting lastTestMethodIndex: 64640
+Wed May 16 06:13:13 UTC 2018: Starting linking
+Wed May 16 06:13:13 UTC 2018: No link for: org.ferris.tweial.consolex.validation.validator.DirectoryNotNullValidatorTest-test_is_not_valid
+Wed May 16 06:13:14 UTC 2018: No link for: org.ferris.tweial.consolex.validation.validator.DirectoryNotNullValidatorTest-test_is_valid
+Wed May 16 06:13:14 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.validation.validator.DirectoryNotNullValidatorTest
+Wed May 16 06:13:15 UTC 2018: Found element on the queue
+Wed May 16 06:13:15 UTC 2018: Updating status
+Wed May 16 06:13:15 UTC 2018: Working
+Wed May 16 06:13:18 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.consolex.validation.validator.DirectoryExistsValidatorTest
+Wed May 16 06:13:18 UTC 2018: Setting lastTestMethodIndex: 64642
+Wed May 16 06:13:18 UTC 2018: Starting linking
+Wed May 16 06:13:18 UTC 2018: No link for: org.ferris.tweial.consolex.validation.validator.DirectoryExistsValidatorTest-test_is_valid
+Wed May 16 06:13:19 UTC 2018: No link for: org.ferris.tweial.consolex.validation.validator.DirectoryExistsValidatorTest-test_is_not_valid
+Wed May 16 06:13:19 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.consolex.validation.validator.DirectoryExistsValidatorTest
+Wed May 16 06:13:20 UTC 2018: Found element on the queue
+Wed May 16 06:13:20 UTC 2018: Updating status
+Wed May 16 06:13:20 UTC 2018: Working
+Wed May 16 06:13:22 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.research.mail.MailWithEmbeddedImageTest
+Wed May 16 06:13:22 UTC 2018: Setting lastTestMethodIndex: 64646
+Wed May 16 06:13:22 UTC 2018: Starting linking
+Wed May 16 06:13:22 UTC 2018: No link for: org.ferris.tweial.research.mail.MailWithEmbeddedImageTest-sendEmailWithEmbeddedImage
+Wed May 16 06:13:23 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.research.mail.MailWithEmbeddedImageTest
+Wed May 16 06:13:23 UTC 2018: Found element on the queue
+Wed May 16 06:13:23 UTC 2018: Updating status
+Wed May 16 06:13:23 UTC 2018: Working
+Wed May 16 06:13:26 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.research.twitter.TwitterTest
+Wed May 16 06:13:26 UTC 2018: Setting lastTestMethodIndex: 64648
+Wed May 16 06:13:26 UTC 2018: Starting linking
+Wed May 16 06:13:26 UTC 2018: No link for: org.ferris.tweial.research.twitter.TwitterTest-getHomeTimeline
+Wed May 16 06:13:26 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.research.twitter.TwitterTest
+Wed May 16 06:13:27 UTC 2018: Found element on the queue
+Wed May 16 06:13:27 UTC 2018: Updating status
+Wed May 16 06:13:27 UTC 2018: Working
+Wed May 16 06:13:29 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.splash.SplashScreenObserverTest
+Wed May 16 06:13:29 UTC 2018: Setting lastTestMethodIndex: 64650
+Wed May 16 06:13:29 UTC 2018: Starting linking
+Wed May 16 06:13:29 UTC 2018: Code found org.ferris.tweial.console.splash.SplashScreenPage-view with org.ferris.tweial.console.splash.SplashScreenObserverTest-test_that_view_page_is_called
+Wed May 16 06:13:30 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.splash.SplashScreenObserverTest
+Wed May 16 06:13:31 UTC 2018: Found element on the queue
+Wed May 16 06:13:31 UTC 2018: Updating status
+Wed May 16 06:13:31 UTC 2018: Working
+Wed May 16 06:13:34 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.exit.ExitObserverTest
+Wed May 16 06:13:34 UTC 2018: Setting lastTestMethodIndex: 64651
+Wed May 16 06:13:34 UTC 2018: Starting linking
+Wed May 16 06:13:34 UTC 2018: Code found org.ferris.tweial.console.exit.ExitPage-view with org.ferris.tweial.console.exit.ExitObserverTest-test_view_exit_page
+Wed May 16 06:13:34 UTC 2018: No link for: org.ferris.tweial.console.exit.ExitObserverTest-test_exit_abnormal
+Wed May 16 06:13:35 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.exit.ExitObserverTest
+Wed May 16 06:13:35 UTC 2018: Found element on the queue
+Wed May 16 06:13:35 UTC 2018: Updating status
+Wed May 16 06:13:35 UTC 2018: Working
+Wed May 16 06:13:38 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.exit.ExitEventTest
+Wed May 16 06:13:38 UTC 2018: Setting lastTestMethodIndex: 64656
+Wed May 16 06:13:38 UTC 2018: Starting linking
+Wed May 16 06:13:38 UTC 2018: No link for: org.ferris.tweial.console.exit.ExitEventTest-test
+Wed May 16 06:13:38 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.exit.ExitEventTest
+Wed May 16 06:13:38 UTC 2018: Found element on the queue
+Wed May 16 06:13:38 UTC 2018: Updating status
+Wed May 16 06:13:38 UTC 2018: Working
+Wed May 16 06:13:41 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.main.MainTest
+Wed May 16 06:13:41 UTC 2018: Setting lastTestMethodIndex: 64657
+Wed May 16 06:13:41 UTC 2018: Starting linking
+Wed May 16 06:13:41 UTC 2018: No link for: org.ferris.tweial.console.main.MainTest-test_events_are_fired
+Wed May 16 06:13:41 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.main.MainTest
+Wed May 16 06:13:42 UTC 2018: Found element on the queue
+Wed May 16 06:13:42 UTC 2018: Updating status
+Wed May 16 06:13:42 UTC 2018: Working
+Wed May 16 06:13:44 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.main.StartupEventTest
+Wed May 16 06:13:44 UTC 2018: Setting lastTestMethodIndex: 64660
+Wed May 16 06:13:44 UTC 2018: Starting linking
+Wed May 16 06:13:44 UTC 2018: No link for: org.ferris.tweial.console.main.StartupEventTest-test_all
+Wed May 16 06:13:45 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.main.StartupEventTest
+Wed May 16 06:13:45 UTC 2018: Found element on the queue
+Wed May 16 06:13:45 UTC 2018: Updating status
+Wed May 16 06:13:45 UTC 2018: Working
+Wed May 16 06:13:48 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.configuration.TweialPropertiesFileProducerTest
+Wed May 16 06:13:48 UTC 2018: Setting lastTestMethodIndex: 64662
+Wed May 16 06:13:48 UTC 2018: Starting linking
+Wed May 16 06:13:48 UTC 2018: Code found org.ferris.tweial.console.configuration.TweialPropertiesFileProducer-getPropertiesFile with org.ferris.tweial.console.configuration.TweialPropertiesFileProducerTest-getPropertiesFile
+Wed May 16 06:13:48 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.configuration.TweialPropertiesFileProducerTest
+Wed May 16 06:13:49 UTC 2018: Found element on the queue
+Wed May 16 06:13:49 UTC 2018: Updating status
+Wed May 16 06:13:49 UTC 2018: Working
+Wed May 16 06:13:52 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountConsumerSecretTest
+Wed May 16 06:13:52 UTC 2018: Setting lastTestMethodIndex: 64664
+Wed May 16 06:13:52 UTC 2018: Starting linking
+Wed May 16 06:13:52 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountConsumerSecretTest-test_consumerSecret_NotNull
+Wed May 16 06:13:52 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountConsumerSecretTest-test_consumerSecret_Size
+Wed May 16 06:13:52 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountConsumerSecretTest
+Wed May 16 06:13:53 UTC 2018: Found element on the queue
+Wed May 16 06:13:53 UTC 2018: Updating status
+Wed May 16 06:13:53 UTC 2018: Working
+Wed May 16 06:13:56 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountAccessTokenTest
+Wed May 16 06:13:56 UTC 2018: Setting lastTestMethodIndex: 64666
+Wed May 16 06:13:56 UTC 2018: Starting linking
+Wed May 16 06:13:56 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountAccessTokenTest-test_accessToken_Size
+Wed May 16 06:13:56 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountAccessTokenTest-test_accessToken_NotNull
+Wed May 16 06:13:56 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountAccessTokenTest
+Wed May 16 06:13:57 UTC 2018: Found element on the queue
+Wed May 16 06:13:57 UTC 2018: Updating status
+Wed May 16 06:13:57 UTC 2018: Working
+Wed May 16 06:14:00 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountConstructorTest
+Wed May 16 06:14:00 UTC 2018: Setting lastTestMethodIndex: 64668
+Wed May 16 06:14:00 UTC 2018: Starting linking
+Wed May 16 06:14:00 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountConstructorTest-test_constructor_sets_all_values
+Wed May 16 06:14:00 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountConstructorTest
+Wed May 16 06:14:00 UTC 2018: Found element on the queue
+Wed May 16 06:14:00 UTC 2018: Updating status
+Wed May 16 06:14:00 UTC 2018: Working
+Wed May 16 06:14:03 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterBuilderTest
+Wed May 16 06:14:03 UTC 2018: Setting lastTestMethodIndex: 64670
+Wed May 16 06:14:03 UTC 2018: Starting linking
+Wed May 16 06:14:03 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterBuilder-setAccount with org.ferris.tweial.console.twitter.TwitterBuilderTest-test_setAccount
+Wed May 16 06:14:03 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterBuilder-build with org.ferris.tweial.console.twitter.TwitterBuilderTest-test_build
+Wed May 16 06:14:04 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterBuilderTest
+Wed May 16 06:14:04 UTC 2018: Found element on the queue
+Wed May 16 06:14:04 UTC 2018: Updating status
+Wed May 16 06:14:04 UTC 2018: Working
+Wed May 16 06:14:07 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountAccessTokenSecretTest
+Wed May 16 06:14:07 UTC 2018: Setting lastTestMethodIndex: 64672
+Wed May 16 06:14:07 UTC 2018: Starting linking
+Wed May 16 06:14:07 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountAccessTokenSecretTest-test_accessTokenSecret_Size
+Wed May 16 06:14:07 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountAccessTokenSecretTest-test_accessTokenSecret_NotNull
+Wed May 16 06:14:08 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountAccessTokenSecretTest
+Wed May 16 06:14:08 UTC 2018: Found element on the queue
+Wed May 16 06:14:08 UTC 2018: Updating status
+Wed May 16 06:14:08 UTC 2018: Working
+Wed May 16 06:14:11 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountConsumerKeyTest
+Wed May 16 06:14:11 UTC 2018: Setting lastTestMethodIndex: 64673
+Wed May 16 06:14:11 UTC 2018: Starting linking
+Wed May 16 06:14:11 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountConsumerKeyTest-test_consumerKey_NotNull
+Wed May 16 06:14:11 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterAccountConsumerKeyTest-test_consumerKey_Size
+Wed May 16 06:14:12 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterAccountConsumerKeyTest
+Wed May 16 06:14:12 UTC 2018: Found element on the queue
+Wed May 16 06:14:12 UTC 2018: Updating status
+Wed May 16 06:14:12 UTC 2018: Working
+Wed May 16 06:14:15 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterCacheFileTest
+Wed May 16 06:14:15 UTC 2018: Setting lastTestMethodIndex: 64675
+Wed May 16 06:14:15 UTC 2018: Starting linking
+Wed May 16 06:14:15 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterCacheFile-vacuum with org.ferris.tweial.console.twitter.TwitterCacheFileTest-test_vacuum
+Wed May 16 06:14:15 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterCacheFile-set with org.ferris.tweial.console.twitter.TwitterCacheFileTest-test_set_throws_a_RuntimeException
+Wed May 16 06:14:16 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterCacheFile-getModifiableCache with org.ferris.tweial.console.twitter.TwitterCacheFileTest-test_getModifiableCache_returns_modifiable_and_empty_list_if_exception
+Wed May 16 06:14:16 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterCacheFile-getModifiableCache with org.ferris.tweial.console.twitter.TwitterCacheFileTest-test_getModifiableCache_returns_modifiable_and_list
+Wed May 16 06:14:16 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterCacheFile-get with org.ferris.tweial.console.twitter.TwitterCacheFileTest-testGetReturnsImmutableList
+Wed May 16 06:14:17 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterCacheFile-addAll with org.ferris.tweial.console.twitter.TwitterCacheFileTest-test_addAll
+Wed May 16 06:14:17 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterCacheFile-set with org.ferris.tweial.console.twitter.TwitterCacheFileTest-test_set_creates_a_nonempty_file
+Wed May 16 06:14:18 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterCacheFileTest
+Wed May 16 06:14:18 UTC 2018: Found element on the queue
+Wed May 16 06:14:18 UTC 2018: Updating status
+Wed May 16 06:14:18 UTC 2018: Working
+Wed May 16 06:14:21 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterPropertiesFileTest
+Wed May 16 06:14:21 UTC 2018: Setting lastTestMethodIndex: 64678
+Wed May 16 06:14:21 UTC 2018: Starting linking
+Wed May 16 06:14:21 UTC 2018: Code found org.ferris.tweial.consolex.io.AbstractPropertiesFile-toProperties with org.ferris.tweial.console.twitter.TwitterPropertiesFileTest-test_toProperties_throws_RuntimeException
+Wed May 16 06:14:21 UTC 2018: Code found org.ferris.tweial.consolex.io.AbstractPropertiesFile-toProperties with org.ferris.tweial.console.twitter.TwitterPropertiesFileTest-test_toProperties
+Wed May 16 06:14:21 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterPropertiesFileTest-test_path_and_file_name_are_correct
+Wed May 16 06:14:22 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterPropertiesFileTest
+Wed May 16 06:14:22 UTC 2018: Found element on the queue
+Wed May 16 06:14:22 UTC 2018: Updating status
+Wed May 16 06:14:22 UTC 2018: Working
+Wed May 16 06:14:25 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TweetRetrievalEventTest
+Wed May 16 06:14:25 UTC 2018: Setting lastTestMethodIndex: 64679
+Wed May 16 06:14:25 UTC 2018: Starting linking
+Wed May 16 06:14:25 UTC 2018: Code found org.ferris.tweial.console.twitter.TweetRetrievalEvent-setTweetsFromLastRun with org.ferris.tweial.console.twitter.TweetRetrievalEventTest-test_setTweetsFromLastRun
+Wed May 16 06:14:25 UTC 2018: Code found org.ferris.tweial.console.twitter.TweetRetrievalEvent-setTweetsFromTwitter with org.ferris.tweial.console.twitter.TweetRetrievalEventTest-test_setTweetsFromTwitter
+Wed May 16 06:14:26 UTC 2018: Code found org.ferris.tweial.console.twitter.TweetRetrievalEvent-getTweetsFromTwitter with org.ferris.tweial.console.twitter.TweetRetrievalEventTest-test_getTweetsFromTwitter_returns_empty_list
+Wed May 16 06:14:26 UTC 2018: Code found org.ferris.tweial.console.twitter.TweetRetrievalEvent-setNewTweetsFromThisRun with org.ferris.tweial.console.twitter.TweetRetrievalEventTest-test_setNewTweetsFromThisRun
+Wed May 16 06:14:26 UTC 2018: Code found org.ferris.tweial.console.twitter.TweetRetrievalEvent-getTweetsFromLastRun with org.ferris.tweial.console.twitter.TweetRetrievalEventTest-test_getTweetsFromLastRun_returns_empty_list
+Wed May 16 06:14:27 UTC 2018: Code found org.ferris.tweial.console.twitter.TweetRetrievalEvent-getNewTweetsFromThisRun with org.ferris.tweial.console.twitter.TweetRetrievalEventTest-test_getNewTweetsFromThisRun_returns_empty_list
+Wed May 16 06:14:27 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TweetRetrievalEventTest
+Wed May 16 06:14:28 UTC 2018: Found element on the queue
+Wed May 16 06:14:28 UTC 2018: Updating status
+Wed May 16 06:14:28 UTC 2018: Working
+Wed May 16 06:14:30 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TweetFilterTest
+Wed May 16 06:14:30 UTC 2018: Setting lastTestMethodIndex: 64681
+Wed May 16 06:14:30 UTC 2018: Starting linking
+Wed May 16 06:14:30 UTC 2018: No link for: org.ferris.tweial.console.twitter.TweetFilterTest-testFilteringCorrectly
+Wed May 16 06:14:31 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TweetFilterTest
+Wed May 16 06:14:31 UTC 2018: Found element on the queue
+Wed May 16 06:14:31 UTC 2018: Updating status
+Wed May 16 06:14:31 UTC 2018: Working
+Wed May 16 06:14:34 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterHandlerTest
+Wed May 16 06:14:34 UTC 2018: Setting lastTestMethodIndex: 64684
+Wed May 16 06:14:34 UTC 2018: Starting linking
+Wed May 16 06:14:34 UTC 2018: Code found org.ferris.tweial.console.twitter.TwitterHandler-validate with org.ferris.tweial.console.twitter.TwitterHandlerTest-test_validate
+Wed May 16 06:14:34 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-test_getting_twitter_account
+Wed May 16 06:14:35 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-test_load_EMPTY_tweets_from_twitter_without_exceptions
+Wed May 16 06:14:35 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-test_save_new_tweets_from_this_run
+Wed May 16 06:14:36 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-test_load_NONEMPTY_tweets_from_twitter_without_exceptions
+Wed May 16 06:14:36 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-test_load_tweets_from_twitter_with_exceptions
+Wed May 16 06:14:36 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-test_remove_tweets_that_are_too_old
+Wed May 16 06:14:37 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-keep
+Wed May 16 06:14:37 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-test_twitter_data_source
+Wed May 16 06:14:38 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterHandlerTest-test_load_tweets_from_last_run
+Wed May 16 06:14:38 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterHandlerTest
+Wed May 16 06:14:38 UTC 2018: Found element on the queue
+Wed May 16 06:14:38 UTC 2018: Updating status
+Wed May 16 06:14:39 UTC 2018: Working
+Wed May 16 06:14:41 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TweetRunEventTest
+Wed May 16 06:14:41 UTC 2018: Setting lastTestMethodIndex: 64689
+Wed May 16 06:14:41 UTC 2018: Starting linking
+Wed May 16 06:14:41 UTC 2018: No link for: org.ferris.tweial.console.twitter.TweetRunEventTest-testTweetsFromTwitterAreImmutable
+Wed May 16 06:14:41 UTC 2018: No link for: org.ferris.tweial.console.twitter.TweetRunEventTest-testTweetsFromLastRunAreImmutable
+Wed May 16 06:14:42 UTC 2018: No link for: org.ferris.tweial.console.twitter.TweetRunEventTest-testNewTweetsFromThisRunAreImmutable
+Wed May 16 06:14:42 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TweetRunEventTest
+Wed May 16 06:14:43 UTC 2018: Found element on the queue
+Wed May 16 06:14:43 UTC 2018: Updating status
+Wed May 16 06:14:43 UTC 2018: Working
+Wed May 16 06:14:45 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterPageTest
+Wed May 16 06:14:45 UTC 2018: Setting lastTestMethodIndex: 64691
+Wed May 16 06:14:45 UTC 2018: Starting linking
+Wed May 16 06:14:45 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-p with org.ferris.tweial.console.twitter.TwitterPageTest-test_page_view_if_data_source_is_missing
+Wed May 16 06:14:46 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:14:46 UTC 2018: Code found org.ferris.tweial.consolex.io.Console-p with org.ferris.tweial.console.twitter.TwitterPageTest-test_page_view_if_authentication_is_missing
+Wed May 16 06:14:46 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterPageTest
+Wed May 16 06:14:47 UTC 2018: Found element on the queue
+Wed May 16 06:14:47 UTC 2018: Updating status
+Wed May 16 06:14:47 UTC 2018: Working
+Wed May 16 06:14:49 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterStartupObserverTest
+Wed May 16 06:14:49 UTC 2018: Setting lastTestMethodIndex: 64693
+Wed May 16 06:14:49 UTC 2018: Starting linking
+Wed May 16 06:14:49 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterStartupObserverTest-test_what_to_do_if_data_source_is_OK
+Wed May 16 06:14:50 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterStartupObserverTest-test_what_to_do_if_there_are_authentication_violations
+Wed May 16 06:14:50 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterStartupObserverTest-test_what_to_do_if_data_source_is_missing
+Wed May 16 06:14:51 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterStartupObserverTest-keep
+Wed May 16 06:14:51 UTC 2018: No link for: org.ferris.tweial.console.twitter.TwitterStartupObserverTest-test_what_to_do_if_authentication_violations_OK
+Wed May 16 06:14:52 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.twitter.TwitterStartupObserverTest
+Wed May 16 06:14:52 UTC 2018: Found element on the queue
+Wed May 16 06:14:52 UTC 2018: Updating status
+Wed May 16 06:14:52 UTC 2018: Working
+Wed May 16 06:14:55 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.application.ApplicationDirectoryProducerTest
+Wed May 16 06:14:55 UTC 2018: Setting lastTestMethodIndex: 64698
+Wed May 16 06:14:55 UTC 2018: Starting linking
+Wed May 16 06:14:55 UTC 2018: No link for: org.ferris.tweial.console.application.ApplicationDirectoryProducerTest-getIt
+Wed May 16 06:14:55 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.application.ApplicationDirectoryProducerTest
+Wed May 16 06:14:56 UTC 2018: Found element on the queue
+Wed May 16 06:14:56 UTC 2018: Updating status
+Wed May 16 06:14:56 UTC 2018: Working
+Wed May 16 06:14:58 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.logging.Log4jConfigurationObserverTest
+Wed May 16 06:14:58 UTC 2018: Setting lastTestMethodIndex: 64701
+Wed May 16 06:14:58 UTC 2018: Starting linking
+Wed May 16 06:14:58 UTC 2018: No link for: org.ferris.tweial.console.logging.Log4jConfigurationObserverTest-test_that_watching_log4j_config_file_for_changes_was_started
+Wed May 16 06:14:59 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.logging.Log4jConfigurationObserverTest
+Wed May 16 06:14:59 UTC 2018: Found element on the queue
+Wed May 16 06:14:59 UTC 2018: Updating status
+Wed May 16 06:14:59 UTC 2018: Working
+Wed May 16 06:15:02 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.logging.Log4jReconfigureTest
+Wed May 16 06:15:02 UTC 2018: Setting lastTestMethodIndex: 64702
+Wed May 16 06:15:02 UTC 2018: Starting linking
+Wed May 16 06:15:02 UTC 2018: Code found org.ferris.tweial.console.logging.Log4jReconfigure-observeFileLastModifiedEvent with org.ferris.tweial.console.logging.Log4jReconfigureTest-test_observeFileLastModifiedEvent_if_its_NOT_the_correct_filename
+Wed May 16 06:15:02 UTC 2018: Code found org.ferris.tweial.console.logging.Log4jReconfigure-observeFileLastModifiedEvent with org.ferris.tweial.console.logging.Log4jReconfigureTest-test_observeFileLastModifiedEvent_if_its_the_correct_filename
+Wed May 16 06:15:03 UTC 2018: No link for: org.ferris.tweial.console.logging.Log4jReconfigureTest-test_log4j_properties_file_is_targeted
+Wed May 16 06:15:03 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.logging.Log4jReconfigureTest
+Wed May 16 06:15:04 UTC 2018: Found element on the queue
+Wed May 16 06:15:04 UTC 2018: Updating status
+Wed May 16 06:15:04 UTC 2018: Working
+Wed May 16 06:15:06 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryEventTest
+Wed May 16 06:15:06 UTC 2018: Setting lastTestMethodIndex: 64705
+Wed May 16 06:15:06 UTC 2018: Starting linking
+Wed May 16 06:15:06 UTC 2018: Code found org.ferris.tweial.console.database.DatabaseDirectoryEvent-getDatabaseDirectory with org.ferris.tweial.console.database.DatabaseDirectoryEventTest-getDatabaseDirectory
+Wed May 16 06:15:07 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryEventTest-nullDatabaseDirectoryOk
+Wed May 16 06:15:07 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryEventTest
+Wed May 16 06:15:08 UTC 2018: Found element on the queue
+Wed May 16 06:15:08 UTC 2018: Updating status
+Wed May 16 06:15:08 UTC 2018: Working
+Wed May 16 06:15:10 UTC 2018: Start mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryObserverTest
+Wed May 16 06:15:10 UTC 2018: Setting lastTestMethodIndex: 64707
+Wed May 16 06:15:10 UTC 2018: Starting linking
+Wed May 16 06:15:10 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryObserverTest-test_observe_save
+Wed May 16 06:15:11 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryObserverTest-test_observe_cancel
+Wed May 16 06:15:11 UTC 2018: No link for: org.ferris.tweial.console.database.DatabaseDirectoryObserverTest-test_observe_manage
+Wed May 16 06:15:12 UTC 2018: Linking done for mjremijan__ferris-tweial test class org.ferris.tweial.console.database.DatabaseDirectoryObserverTest

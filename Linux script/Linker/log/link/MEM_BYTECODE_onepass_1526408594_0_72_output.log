@@ -1,0 +1,383 @@
+Wed May 16 02:24:22 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:24:22 UTC 2018: Starting
+Wed May 16 02:24:23 UTC 2018: Found element on the queue
+Wed May 16 02:24:23 UTC 2018: Updating status
+Wed May 16 02:24:23 UTC 2018: Working
+Wed May 16 02:24:23 UTC 2018: Create project parser
+Wed May 16 02:24:27 UTC 2018: Create slicer
+Wed May 16 02:24:29 UTC 2018: Create call graph
+Wed May 16 02:24:34 UTC 2018: Create point analysis
+Wed May 16 02:24:34 UTC 2018: Create call graph done
+Wed May 16 02:24:34 UTC 2018: Start kjetilv__vanadis test class vanadis.annopro.EarlyBreakTest
+Wed May 16 02:24:34 UTC 2018: Setting lastTestMethodIndex: 57135
+Wed May 16 02:24:34 UTC 2018: Starting linking
+Wed May 16 02:24:34 UTC 2018: No link for: vanadis.annopro.EarlyBreakTest-testNoStackTrace
+Wed May 16 02:24:35 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.annopro.EarlyBreakTest
+Wed May 16 02:24:35 UTC 2018: Found element on the queue
+Wed May 16 02:24:35 UTC 2018: Updating status
+Wed May 16 02:24:35 UTC 2018: Working
+Wed May 16 02:24:35 UTC 2018: Create project parser
+Wed May 16 02:24:39 UTC 2018: Start kjetilv__vanadis test class vanadis.common.time.TimeTest
+Wed May 16 02:24:39 UTC 2018: Setting lastTestMethodIndex: 57138
+Wed May 16 02:24:39 UTC 2018: Starting linking
+Wed May 16 02:24:39 UTC 2018: No link for: vanadis.common.time.TimeTest-mark
+Wed May 16 02:24:39 UTC 2018: No link for: vanadis.common.time.TimeTest-timeSpanBetweenTimes
+Wed May 16 02:24:39 UTC 2018: No link for: vanadis.common.time.TimeTest-eqHash
+Wed May 16 02:24:40 UTC 2018: No link for: vanadis.common.time.TimeTest-after
+Wed May 16 02:24:40 UTC 2018: No link for: vanadis.common.time.TimeTest-timeSpanSince
+Wed May 16 02:24:40 UTC 2018: No link for: vanadis.common.time.TimeTest-tooString
+Wed May 16 02:24:41 UTC 2018: No link for: vanadis.common.time.TimeTest-epoch
+Wed May 16 02:24:41 UTC 2018: No link for: vanadis.common.time.TimeTest-timeHasntStopped
+Wed May 16 02:24:41 UTC 2018: No link for: vanadis.common.time.TimeTest-compare
+Wed May 16 02:24:41 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.common.time.TimeTest
+Wed May 16 02:24:42 UTC 2018: Found element on the queue
+Wed May 16 02:24:42 UTC 2018: Updating status
+Wed May 16 02:24:42 UTC 2018: Working
+Wed May 16 02:24:44 UTC 2018: Start kjetilv__vanadis test class vanadis.common.time.TimeSpanTest
+Wed May 16 02:24:44 UTC 2018: Setting lastTestMethodIndex: 57141
+Wed May 16 02:24:44 UTC 2018: Starting linking
+Wed May 16 02:24:44 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-toStrings
+Wed May 16 02:24:45 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-sleep
+Wed May 16 02:24:45 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-longerThan
+Wed May 16 02:24:45 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-deadline
+Wed May 16 02:24:46 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-testTimeSpanTo
+Wed May 16 02:24:46 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-rounded
+Wed May 16 02:24:46 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-foreverDeadline
+Wed May 16 02:24:47 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-shorterThan
+Wed May 16 02:24:47 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-fromStringAndBackAgain
+Wed May 16 02:24:47 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-testHumanFriendlyString
+Wed May 16 02:24:47 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-add
+Wed May 16 02:24:48 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-timeSpan
+Wed May 16 02:24:48 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-equalsAndHashCode
+Wed May 16 02:24:48 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-createMinutes
+Wed May 16 02:24:49 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-illegalTime
+Wed May 16 02:24:49 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-waiting
+Wed May 16 02:24:49 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-eternity
+Wed May 16 02:24:50 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-remaining
+Wed May 16 02:24:50 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-asMicros
+Wed May 16 02:24:50 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-dividedBy
+Wed May 16 02:24:51 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-as
+Wed May 16 02:24:51 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-createMillis
+Wed May 16 02:24:51 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-asSeconds
+Wed May 16 02:24:52 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-instant
+Wed May 16 02:24:52 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-approximateUnit
+Wed May 16 02:24:53 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-shortest
+Wed May 16 02:24:53 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-asSecondsRounded
+Wed May 16 02:24:53 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-asNanos
+Wed May 16 02:24:53 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-difference
+Wed May 16 02:24:54 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-condition
+Wed May 16 02:24:54 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-createHours
+Wed May 16 02:24:54 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-approximate
+Wed May 16 02:24:55 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-asMilliseconds
+Wed May 16 02:24:55 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-waitForTheFuture
+Wed May 16 02:24:55 UTC 2018: No link for: vanadis.common.time.TimeSpanTest-createSeconds
+Wed May 16 02:24:56 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.common.time.TimeSpanTest
+Wed May 16 02:24:56 UTC 2018: Found element on the queue
+Wed May 16 02:24:56 UTC 2018: Updating status
+Wed May 16 02:24:56 UTC 2018: Working
+Wed May 16 02:24:59 UTC 2018: Start kjetilv__vanadis test class vanadis.common.text.NullPrinterTest
+Wed May 16 02:24:59 UTC 2018: Setting lastTestMethodIndex: 57149
+Wed May 16 02:24:59 UTC 2018: Starting linking
+Wed May 16 02:24:59 UTC 2018: Code found vanadis.common.text.Printer-printStackTrace with vanadis.common.text.NullPrinterTest-setPrintStackTraces
+Wed May 16 02:24:59 UTC 2018: Code found vanadis.common.text.Printer-singleBlankLine with vanadis.common.text.NullPrinterTest-setSingleBlankLine
+Wed May 16 02:24:59 UTC 2018: Code found vanadis.common.text.Printer-terminateWithNewLine with vanadis.common.text.NullPrinterTest-setTerminateWithNewLine
+Wed May 16 02:25:00 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.common.text.NullPrinterTest
+Wed May 16 02:25:00 UTC 2018: Found element on the queue
+Wed May 16 02:25:00 UTC 2018: Updating status
+Wed May 16 02:25:00 UTC 2018: Working
+Wed May 16 02:25:03 UTC 2018: Start kjetilv__vanadis test class vanadis.common.text.PrinterTest
+Wed May 16 02:25:03 UTC 2018: Setting lastTestMethodIndex: 57152
+Wed May 16 02:25:03 UTC 2018: Starting linking
+Wed May 16 02:25:03 UTC 2018: Code found vanadis.common.text.Printer-singleBlankLine with vanadis.common.text.PrinterTest-setSingleBlankLine
+Wed May 16 02:25:03 UTC 2018: Code found vanadis.common.text.Printer-printStackTrace with vanadis.common.text.PrinterTest-setPrintStackTraces
+Wed May 16 02:25:03 UTC 2018: Code found vanadis.common.text.Printer-close with vanadis.common.text.PrinterTest-failClosed
+Wed May 16 02:25:04 UTC 2018: Code found vanadis.common.text.Printer-terminateWithNewLine with vanadis.common.text.PrinterTest-setTerminateWithNewLine
+Wed May 16 02:25:04 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.common.text.PrinterTest
+Wed May 16 02:25:04 UTC 2018: Found element on the queue
+Wed May 16 02:25:04 UTC 2018: Updating status
+Wed May 16 02:25:04 UTC 2018: Working
+Wed May 16 02:25:07 UTC 2018: Start kjetilv__vanadis test class vanadis.common.ver.VersionTest
+Wed May 16 02:25:07 UTC 2018: Setting lastTestMethodIndex: 57155
+Wed May 16 02:25:07 UTC 2018: Starting linking
+Wed May 16 02:25:07 UTC 2018: No link for: vanadis.common.ver.VersionTest-longerBefore
+Wed May 16 02:25:07 UTC 2018: No link for: vanadis.common.ver.VersionTest-adhocVersionString
+Wed May 16 02:25:08 UTC 2018: No link for: vanadis.common.ver.VersionTest-simpleBefore
+Wed May 16 02:25:08 UTC 2018: No link for: vanadis.common.ver.VersionTest-longerNotBefore
+Wed May 16 02:25:08 UTC 2018: No link for: vanadis.common.ver.VersionTest-majorMinorMicro
+Wed May 16 02:25:09 UTC 2018: No link for: vanadis.common.ver.VersionTest-longerAfter
+Wed May 16 02:25:09 UTC 2018: No link for: vanadis.common.ver.VersionTest-testSnapshottery
+Wed May 16 02:25:09 UTC 2018: No link for: vanadis.common.ver.VersionTest-simpleAfter
+Wed May 16 02:25:09 UTC 2018: No link for: vanadis.common.ver.VersionTest-compareSnapshots
+Wed May 16 02:25:10 UTC 2018: No link for: vanadis.common.ver.VersionTest-shorterBefore
+Wed May 16 02:25:10 UTC 2018: No link for: vanadis.common.ver.VersionTest-shorterNotAfter
+Wed May 16 02:25:10 UTC 2018: No link for: vanadis.common.ver.VersionTest-testCompareToInitial
+Wed May 16 02:25:11 UTC 2018: No link for: vanadis.common.ver.VersionTest-bump
+Wed May 16 02:25:11 UTC 2018: No link for: vanadis.common.ver.VersionTest-shorterNotBefore
+Wed May 16 02:25:11 UTC 2018: No link for: vanadis.common.ver.VersionTest-shorterAfter
+Wed May 16 02:25:12 UTC 2018: No link for: vanadis.common.ver.VersionTest-longerNotAfter
+Wed May 16 02:25:12 UTC 2018: No link for: vanadis.common.ver.VersionTest-strings
+Wed May 16 02:25:12 UTC 2018: No link for: vanadis.common.ver.VersionTest-snapshot
+Wed May 16 02:25:13 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.common.ver.VersionTest
+Wed May 16 02:25:13 UTC 2018: Found element on the queue
+Wed May 16 02:25:13 UTC 2018: Updating status
+Wed May 16 02:25:13 UTC 2018: Working
+Wed May 16 02:25:16 UTC 2018: Start kjetilv__vanadis test class vanadis.common.io.LocationTest
+Wed May 16 02:25:16 UTC 2018: Setting lastTestMethodIndex: 57160
+Wed May 16 02:25:16 UTC 2018: Starting linking
+Wed May 16 02:25:16 UTC 2018: No link for: vanadis.common.io.LocationTest-fromString
+Wed May 16 02:25:16 UTC 2018: No link for: vanadis.common.io.LocationTest-fromNumberString
+Wed May 16 02:25:16 UTC 2018: No link for: vanadis.common.io.LocationTest-recognizeLocation
+Wed May 16 02:25:17 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.common.io.LocationTest
+Wed May 16 02:25:17 UTC 2018: Found element on the queue
+Wed May 16 02:25:17 UTC 2018: Updating status
+Wed May 16 02:25:17 UTC 2018: Working
+Wed May 16 02:25:20 UTC 2018: Start kjetilv__vanadis test class vanadis.common.io.FilesTest
+Wed May 16 02:25:20 UTC 2018: Setting lastTestMethodIndex: 57164
+Wed May 16 02:25:20 UTC 2018: Starting linking
+Wed May 16 02:25:20 UTC 2018: Code found vanadis.common.io.Files-copy with vanadis.common.io.FilesTest-testCopyFile
+Wed May 16 02:25:20 UTC 2018: No link for: vanadis.common.io.FilesTest-testCreateFile
+Wed May 16 02:25:20 UTC 2018: No link for: vanadis.common.io.FilesTest-testCreateDir
+Wed May 16 02:25:21 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.common.io.FilesTest
+Wed May 16 02:25:21 UTC 2018: Found element on the queue
+Wed May 16 02:25:21 UTC 2018: Updating status
+Wed May 16 02:25:21 UTC 2018: Working
+Wed May 16 02:25:24 UTC 2018: Start kjetilv__vanadis test class vanadis.common.io.BytesTest
+Wed May 16 02:25:24 UTC 2018: Setting lastTestMethodIndex: 57167
+Wed May 16 02:25:24 UTC 2018: Starting linking
+Wed May 16 02:25:24 UTC 2018: Code found vanadis.common.io.Bytes-stringFrom with vanadis.common.io.BytesTest-stringFrom
+Wed May 16 02:25:24 UTC 2018: Code found vanadis.common.io.Bytes-intFrom with vanadis.common.io.BytesTest-intFromShortOrLongArray
+Wed May 16 02:25:24 UTC 2018: Code found vanadis.common.io.Bytes-suffix with vanadis.common.io.BytesTest-suffix
+Wed May 16 02:25:25 UTC 2018: No link for: vanadis.common.io.BytesTest-intFrom
+Wed May 16 02:25:25 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.common.io.BytesTest
+Wed May 16 02:25:26 UTC 2018: Found element on the queue
+Wed May 16 02:25:26 UTC 2018: Updating status
+Wed May 16 02:25:26 UTC 2018: Working
+Wed May 16 02:25:26 UTC 2018: Create project parser
+Wed May 16 02:25:28 UTC 2018: Start kjetilv__vanadis test class vanadis.concurrent.ConcurrentTest
+Wed May 16 02:25:28 UTC 2018: Setting lastTestMethodIndex: 57170
+Wed May 16 02:25:28 UTC 2018: Starting linking
+Wed May 16 02:25:28 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.concurrent.ConcurrentTest
+Wed May 16 02:25:29 UTC 2018: Found element on the queue
+Wed May 16 02:25:29 UTC 2018: Updating status
+Wed May 16 02:25:29 UTC 2018: Working
+Wed May 16 02:25:31 UTC 2018: Start kjetilv__vanadis test class vanadis.concurrent.ConcurrentSessionsTest
+Wed May 16 02:25:31 UTC 2018: Setting lastTestMethodIndex: 57173
+Wed May 16 02:25:31 UTC 2018: Starting linking
+Wed May 16 02:25:31 UTC 2018: No link for: vanadis.concurrent.ConcurrentSessionsTest-lockSemantics
+Wed May 16 02:25:32 UTC 2018: No link for: vanadis.concurrent.ConcurrentSessionsTest-scavenging
+Wed May 16 02:25:32 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.concurrent.ConcurrentSessionsTest
+Wed May 16 02:25:32 UTC 2018: Found element on the queue
+Wed May 16 02:25:32 UTC 2018: Updating status
+Wed May 16 02:25:32 UTC 2018: Working
+Wed May 16 02:25:32 UTC 2018: Create project parser
+Wed May 16 02:25:36 UTC 2018: Start kjetilv__vanadis test class vanadis.core.properties.MapPropertySetTest
+Wed May 16 02:25:36 UTC 2018: Setting lastTestMethodIndex: 57175
+Wed May 16 02:25:36 UTC 2018: Starting linking
+Wed May 16 02:25:36 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-collapse
+Wed May 16 02:25:36 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-nullValueToMap
+Wed May 16 02:25:37 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-nullvalue
+Wed May 16 02:25:37 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-numberCoerce
+Wed May 16 02:25:37 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-unchainedProperties
+Wed May 16 02:25:37 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-empty
+Wed May 16 02:25:38 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-copy
+Wed May 16 02:25:38 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-variableProperties
+Wed May 16 02:25:38 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-parents
+Wed May 16 02:25:39 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-expand
+Wed May 16 02:25:39 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-with
+Wed May 16 02:25:39 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-nullValueToDictionray
+Wed May 16 02:25:40 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-arrays
+Wed May 16 02:25:40 UTC 2018: No link for: vanadis.core.properties.MapPropertySetTest-integerReplace
+Wed May 16 02:25:40 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.properties.MapPropertySetTest
+Wed May 16 02:25:41 UTC 2018: Found element on the queue
+Wed May 16 02:25:41 UTC 2018: Updating status
+Wed May 16 02:25:41 UTC 2018: Working
+Wed May 16 02:25:43 UTC 2018: Start kjetilv__vanadis test class vanadis.core.properties.PropertyNameTest
+Wed May 16 02:25:43 UTC 2018: Setting lastTestMethodIndex: 57178
+Wed May 16 02:25:43 UTC 2018: Starting linking
+Wed May 16 02:25:43 UTC 2018: Code found vanadis.core.collections.Generic-map with vanadis.core.properties.PropertyNameTest-mapTest
+Wed May 16 02:25:43 UTC 2018: No link for: vanadis.core.properties.PropertyNameTest-sameHash
+Wed May 16 02:25:44 UTC 2018: No link for: vanadis.core.properties.PropertyNameTest-snakeAndCamelCase
+Wed May 16 02:25:44 UTC 2018: No link for: vanadis.core.properties.PropertyNameTest-differentCase
+Wed May 16 02:25:44 UTC 2018: No link for: vanadis.core.properties.PropertyNameTest-sameCase
+Wed May 16 02:25:45 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.properties.PropertyNameTest
+Wed May 16 02:25:45 UTC 2018: Found element on the queue
+Wed May 16 02:25:45 UTC 2018: Updating status
+Wed May 16 02:25:45 UTC 2018: Working
+Wed May 16 02:25:48 UTC 2018: Start kjetilv__vanadis test class vanadis.core.properties.ResolveTest
+Wed May 16 02:25:48 UTC 2018: Setting lastTestMethodIndex: 57182
+Wed May 16 02:25:48 UTC 2018: Starting linking
+Wed May 16 02:25:48 UTC 2018: Code found vanadis.core.properties.Resolve-resolve with vanadis.core.properties.ResolveTest-testResolve
+Wed May 16 02:25:48 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.properties.ResolveTest
+Wed May 16 02:25:49 UTC 2018: Found element on the queue
+Wed May 16 02:25:49 UTC 2018: Updating status
+Wed May 16 02:25:49 UTC 2018: Working
+Wed May 16 02:25:51 UTC 2018: Start kjetilv__vanadis test class vanadis.core.lang.EqHcTest
+Wed May 16 02:25:51 UTC 2018: Setting lastTestMethodIndex: 57185
+Wed May 16 02:25:51 UTC 2018: Starting linking
+Wed May 16 02:25:51 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.lang.EqHcTest
+Wed May 16 02:25:52 UTC 2018: Found element on the queue
+Wed May 16 02:25:52 UTC 2018: Updating status
+Wed May 16 02:25:52 UTC 2018: Working
+Wed May 16 02:25:54 UTC 2018: Start kjetilv__vanadis test class vanadis.core.lang.SieveTest
+Wed May 16 02:25:54 UTC 2018: Setting lastTestMethodIndex: 57186
+Wed May 16 02:25:54 UTC 2018: Starting linking
+Wed May 16 02:25:54 UTC 2018: No link for: vanadis.core.lang.SieveTest-simple14
+Wed May 16 02:25:54 UTC 2018: No link for: vanadis.core.lang.SieveTest-simple12
+Wed May 16 02:25:55 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.lang.SieveTest
+Wed May 16 02:25:55 UTC 2018: Found element on the queue
+Wed May 16 02:25:55 UTC 2018: Updating status
+Wed May 16 02:25:55 UTC 2018: Working
+Wed May 16 02:25:58 UTC 2018: Start kjetilv__vanadis test class vanadis.core.lang.GraphIterableTest
+Wed May 16 02:25:58 UTC 2018: Setting lastTestMethodIndex: 57190
+Wed May 16 02:25:58 UTC 2018: Starting linking
+Wed May 16 02:25:58 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.lang.GraphIterableTest
+Wed May 16 02:25:59 UTC 2018: Found element on the queue
+Wed May 16 02:25:59 UTC 2018: Updating status
+Wed May 16 02:25:59 UTC 2018: Working
+Wed May 16 02:26:02 UTC 2018: Start kjetilv__vanadis test class vanadis.core.lang.NotATest
+Wed May 16 02:26:02 UTC 2018: Setting lastTestMethodIndex: 57192
+Wed May 16 02:26:02 UTC 2018: Starting linking
+Wed May 16 02:26:02 UTC 2018: No link for: vanadis.core.lang.NotATest-notNullNotEmpty
+Wed May 16 02:26:03 UTC 2018: No link for: vanadis.core.lang.NotATest-testNullMessage
+Wed May 16 02:26:03 UTC 2018: No link for: vanadis.core.lang.NotATest-notNull
+Wed May 16 02:26:03 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.lang.NotATest
+Wed May 16 02:26:04 UTC 2018: Found element on the queue
+Wed May 16 02:26:04 UTC 2018: Updating status
+Wed May 16 02:26:04 UTC 2018: Working
+Wed May 16 02:26:07 UTC 2018: Start kjetilv__vanadis test class vanadis.core.lang.ToStringTest
+Wed May 16 02:26:07 UTC 2018: Setting lastTestMethodIndex: 57195
+Wed May 16 02:26:07 UTC 2018: Starting linking
+Wed May 16 02:26:07 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.lang.ToStringTest
+Wed May 16 02:26:07 UTC 2018: Found element on the queue
+Wed May 16 02:26:07 UTC 2018: Updating status
+Wed May 16 02:26:07 UTC 2018: Working
+Wed May 16 02:26:10 UTC 2018: Start kjetilv__vanadis test class vanadis.core.lang.VarArgsTest
+Wed May 16 02:26:10 UTC 2018: Setting lastTestMethodIndex: 57198
+Wed May 16 02:26:10 UTC 2018: Starting linking
+Wed May 16 02:26:10 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.lang.VarArgsTest
+Wed May 16 02:26:11 UTC 2018: Found element on the queue
+Wed May 16 02:26:11 UTC 2018: Updating status
+Wed May 16 02:26:11 UTC 2018: Working
+Wed May 16 02:26:13 UTC 2018: Start kjetilv__vanadis test class vanadis.core.reflection.RetyperTest
+Wed May 16 02:26:13 UTC 2018: Setting lastTestMethodIndex: 57200
+Wed May 16 02:26:13 UTC 2018: Starting linking
+Wed May 16 02:26:13 UTC 2018: Code found vanadis.core.reflection.Retyper-coerce with vanadis.core.reflection.RetyperTest-coerceLong
+Wed May 16 02:26:13 UTC 2018: Code found vanadis.core.reflection.Retyper-coerce with vanadis.core.reflection.RetyperTest-coerceEnum
+Wed May 16 02:26:14 UTC 2018: Code found vanadis.core.reflection.Retyper-coerce with vanadis.core.reflection.RetyperTest-coerce
+Wed May 16 02:26:14 UTC 2018: Code found vanadis.core.reflection.Retyper-coerce with vanadis.core.reflection.RetyperTest-coerceArrays
+Wed May 16 02:26:14 UTC 2018: No link for: vanadis.core.reflection.RetyperTest-typeIntFromString
+Wed May 16 02:26:15 UTC 2018: No link for: vanadis.core.reflection.RetyperTest-typeLongFromString
+Wed May 16 02:26:15 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.reflection.RetyperTest
+Wed May 16 02:26:15 UTC 2018: Found element on the queue
+Wed May 16 02:26:15 UTC 2018: Updating status
+Wed May 16 02:26:15 UTC 2018: Working
+Wed May 16 02:26:18 UTC 2018: Start kjetilv__vanadis test class vanadis.core.collections.PropertyListMapTest
+Wed May 16 02:26:18 UTC 2018: Setting lastTestMethodIndex: 57203
+Wed May 16 02:26:18 UTC 2018: Starting linking
+Wed May 16 02:26:18 UTC 2018: Code found vanadis.core.collections.PropertyListMap-keySet with vanadis.core.collections.PropertyListMapTest-keySet
+Wed May 16 02:26:18 UTC 2018: Code found vanadis.core.collections.PropertyListMap-size with vanadis.core.collections.PropertyListMapTest-assertSize
+Wed May 16 02:26:19 UTC 2018: Code found vanadis.core.collections.PropertyListMap-putAll with vanadis.core.collections.PropertyListMapTest-assertPutAll
+Wed May 16 02:26:19 UTC 2018: Code found vanadis.core.collections.PropertyListMap-values with vanadis.core.collections.PropertyListMapTest-values
+Wed May 16 02:26:19 UTC 2018: No link for: vanadis.core.collections.PropertyListMapTest-testGrowth
+Wed May 16 02:26:20 UTC 2018: No link for: vanadis.core.collections.PropertyListMapTest-putGet
+Wed May 16 02:26:20 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.collections.PropertyListMapTest
+Wed May 16 02:26:20 UTC 2018: Found element on the queue
+Wed May 16 02:26:20 UTC 2018: Updating status
+Wed May 16 02:26:20 UTC 2018: Working
+Wed May 16 02:26:23 UTC 2018: Start kjetilv__vanadis test class vanadis.core.collections.GenericTest
+Wed May 16 02:26:23 UTC 2018: Setting lastTestMethodIndex: 57205
+Wed May 16 02:26:23 UTC 2018: Starting linking
+Wed May 16 02:26:23 UTC 2018: No link for: vanadis.core.collections.GenericTest-order
+Wed May 16 02:26:23 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.collections.GenericTest
+Wed May 16 02:26:24 UTC 2018: Found element on the queue
+Wed May 16 02:26:24 UTC 2018: Updating status
+Wed May 16 02:26:24 UTC 2018: Working
+Wed May 16 02:26:27 UTC 2018: Start kjetilv__vanadis test class vanadis.core.collections.SuperclassIterableTest
+Wed May 16 02:26:27 UTC 2018: Setting lastTestMethodIndex: 57208
+Wed May 16 02:26:27 UTC 2018: Starting linking
+Wed May 16 02:26:27 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.collections.SuperclassIterableTest
+Wed May 16 02:26:27 UTC 2018: Found element on the queue
+Wed May 16 02:26:27 UTC 2018: Updating status
+Wed May 16 02:26:27 UTC 2018: Working
+Wed May 16 02:26:30 UTC 2018: Start kjetilv__vanadis test class vanadis.core.collections.ChainableIterableTest
+Wed May 16 02:26:30 UTC 2018: Setting lastTestMethodIndex: 57210
+Wed May 16 02:26:30 UTC 2018: Starting linking
+Wed May 16 02:26:30 UTC 2018: Code found vanadis.core.collections.Iterables-chain with vanadis.core.collections.ChainableIterableTest-chain
+Wed May 16 02:26:30 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.core.collections.ChainableIterableTest
+Wed May 16 02:26:31 UTC 2018: Found element on the queue
+Wed May 16 02:26:31 UTC 2018: Updating status
+Wed May 16 02:26:31 UTC 2018: Working
+Wed May 16 02:26:31 UTC 2018: Create project parser
+Wed May 16 02:26:33 UTC 2018: Start kjetilv__vanadis test class vanadis.jmx.ManagedDynamicMBeanTest
+Wed May 16 02:26:33 UTC 2018: Setting lastTestMethodIndex: 57213
+Wed May 16 02:26:33 UTC 2018: Starting linking
+Wed May 16 02:26:33 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.jmx.ManagedDynamicMBeanTest
+Wed May 16 02:26:34 UTC 2018: Found element on the queue
+Wed May 16 02:26:34 UTC 2018: Updating status
+Wed May 16 02:26:34 UTC 2018: Working
+Wed May 16 02:26:36 UTC 2018: Start kjetilv__vanadis test class vanadis.jmx.JmxTest
+Wed May 16 02:26:36 UTC 2018: Setting lastTestMethodIndex: 57216
+Wed May 16 02:26:36 UTC 2018: Starting linking
+Wed May 16 02:26:36 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.jmx.JmxTest
+Wed May 16 02:26:37 UTC 2018: Found element on the queue
+Wed May 16 02:26:37 UTC 2018: Updating status
+Wed May 16 02:26:37 UTC 2018: Working
+Wed May 16 02:26:37 UTC 2018: Create project parser
+Wed May 16 02:26:40 UTC 2018: Start kjetilv__vanadis test class vanadis.osgi.FilterTest
+Wed May 16 02:26:40 UTC 2018: Setting lastTestMethodIndex: 57218
+Wed May 16 02:26:40 UTC 2018: Starting linking
+Wed May 16 02:26:40 UTC 2018: Code found vanadis.osgi.AbstractFilter-and with vanadis.osgi.FilterTest-testAndMatch
+Wed May 16 02:26:40 UTC 2018: Code found vanadis.osgi.AbstractFilter-and with vanadis.osgi.FilterTest-testMultiAnd
+Wed May 16 02:26:41 UTC 2018: Code found vanadis.osgi.AbstractFilter-and with vanadis.osgi.FilterTest-testAnd
+Wed May 16 02:26:41 UTC 2018: Code found vanadis.osgi.AbstractFilter-isNull with vanadis.osgi.FilterTest-testNullIsNull
+Wed May 16 02:26:41 UTC 2018: Code found vanadis.osgi.AbstractFilter-and with vanadis.osgi.FilterTest-testBooleanShortHandsAnd
+Wed May 16 02:26:42 UTC 2018: Code found vanadis.osgi.AbstractFilter-or with vanadis.osgi.FilterTest-testOrMatch
+Wed May 16 02:26:42 UTC 2018: Code found vanadis.osgi.AbstractFilter-or with vanadis.osgi.FilterTest-testNoopOr
+Wed May 16 02:26:42 UTC 2018: Code found vanadis.osgi.AbstractFilter-or with vanadis.osgi.FilterTest-testBooleanShortHandsOr
+Wed May 16 02:26:43 UTC 2018: Code found vanadis.osgi.AbstractFilter-or with vanadis.osgi.FilterTest-testOr
+Wed May 16 02:26:43 UTC 2018: Code found vanadis.osgi.AbstractFilter-or with vanadis.osgi.FilterTest-testMultiOr
+Wed May 16 02:26:43 UTC 2018: Code found vanadis.osgi.AbstractFilter-or with vanadis.osgi.FilterTest-testMoreMultiStuff
+Wed May 16 02:26:44 UTC 2018: Code found vanadis.osgi.AbstractFilter-not with vanadis.osgi.FilterTest-simpleNegationOfNot
+Wed May 16 02:26:44 UTC 2018: Code found vanadis.osgi.AbstractFilter-and with vanadis.osgi.FilterTest-testNoopAnd
+Wed May 16 02:26:44 UTC 2018: Code found vanadis.osgi.AbstractFilter-not with vanadis.osgi.FilterTest-testNotMatch
+Wed May 16 02:26:45 UTC 2018: No link for: vanadis.osgi.FilterTest-testApprox
+Wed May 16 02:26:45 UTC 2018: No link for: vanadis.osgi.FilterTest-testObjectClasses
+Wed May 16 02:26:45 UTC 2018: No link for: vanadis.osgi.FilterTest-testNot
+Wed May 16 02:26:45 UTC 2018: No link for: vanadis.osgi.FilterTest-testFilterBuilding
+Wed May 16 02:26:46 UTC 2018: No link for: vanadis.osgi.FilterTest-testEqualsMatch
+Wed May 16 02:26:46 UTC 2018: No link for: vanadis.osgi.FilterTest-testEqHc
+Wed May 16 02:26:46 UTC 2018: No link for: vanadis.osgi.FilterTest-testGreaterThanMatch
+Wed May 16 02:26:47 UTC 2018: No link for: vanadis.osgi.FilterTest-testSubstringMatch
+Wed May 16 02:26:47 UTC 2018: No link for: vanadis.osgi.FilterTest-testNull
+Wed May 16 02:26:47 UTC 2018: No link for: vanadis.osgi.FilterTest-testBooleanMatch
+Wed May 16 02:26:48 UTC 2018: No link for: vanadis.osgi.FilterTest-testPresentMatch
+Wed May 16 02:26:48 UTC 2018: No link for: vanadis.osgi.FilterTest-simpleNegationOfCompare
+Wed May 16 02:26:48 UTC 2018: No link for: vanadis.osgi.FilterTest-testLessThanMatch
+Wed May 16 02:26:48 UTC 2018: No link for: vanadis.osgi.FilterTest-testArrayValue
+Wed May 16 02:26:49 UTC 2018: No link for: vanadis.osgi.FilterTest-testSubstring
+Wed May 16 02:26:49 UTC 2018: No link for: vanadis.osgi.FilterTest-testPresent
+Wed May 16 02:26:49 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.osgi.FilterTest
+Wed May 16 02:26:50 UTC 2018: Found element on the queue
+Wed May 16 02:26:50 UTC 2018: Updating status
+Wed May 16 02:26:50 UTC 2018: Working
+Wed May 16 02:26:52 UTC 2018: Start kjetilv__vanadis test class vanadis.osgi.BareBonesContextTest
+Wed May 16 02:26:52 UTC 2018: Setting lastTestMethodIndex: 57224
+Wed May 16 02:26:52 UTC 2018: Starting linking
+Wed May 16 02:26:52 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.osgi.BareBonesContextTest
+Wed May 16 02:26:53 UTC 2018: Found element on the queue
+Wed May 16 02:26:53 UTC 2018: Updating status
+Wed May 16 02:26:53 UTC 2018: Working
+Wed May 16 02:26:55 UTC 2018: Start kjetilv__vanadis test class vanadis.osgi.ServicePropertiesTest
+Wed May 16 02:26:55 UTC 2018: Setting lastTestMethodIndex: 57227
+Wed May 16 02:26:55 UTC 2018: Starting linking
+Wed May 16 02:26:55 UTC 2018: Code found vanadis.osgi.ServiceProperties-with with vanadis.osgi.ServicePropertiesTest-typedServicePropertiesWithObjectClasses
+Wed May 16 02:26:56 UTC 2018: Code found vanadis.osgi.ServiceProperties-with with vanadis.osgi.ServicePropertiesTest-adoptObjectClassesWithoutObjectClasses
+Wed May 16 02:26:56 UTC 2018: No link for: vanadis.osgi.ServicePropertiesTest-untypedServiceProperties
+Wed May 16 02:26:56 UTC 2018: No link for: vanadis.osgi.ServicePropertiesTest-servicePropertiesType
+Wed May 16 02:26:57 UTC 2018: No link for: vanadis.osgi.ServicePropertiesTest-rejectAdoptServiceReference
+Wed May 16 02:26:57 UTC 2018: No link for: vanadis.osgi.ServicePropertiesTest-servicePropertiesOSGiStuffAndObjectClasses
+Wed May 16 02:26:57 UTC 2018: No link for: vanadis.osgi.ServicePropertiesTest-adoptServiceReferences
+Wed May 16 02:26:57 UTC 2018: No link for: vanadis.osgi.ServicePropertiesTest-servicePropertiesOSGiStuff
+Wed May 16 02:26:58 UTC 2018: No link for: vanadis.osgi.ServicePropertiesTest-servicePropertiesWithObjectClasses
+Wed May 16 02:26:58 UTC 2018: No link for: vanadis.osgi.ServicePropertiesTest-servicePropertiesProperties
+Wed May 16 02:26:58 UTC 2018: Linking done for kjetilv__vanadis test class vanadis.osgi.ServicePropertiesTest

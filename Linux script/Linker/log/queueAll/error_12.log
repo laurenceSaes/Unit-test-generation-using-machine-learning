@@ -1,0 +1,54 @@
+Mon May 07 12:32:03 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Mon May 07 12:57:46 UTC 2018: No package for: /home/laurence/storage/tech-projects/kleben__jersey/examples/servlet3-webapp/src/test/java/Servlet3WebappITCase.java
+Mon May 07 12:58:34 UTC 2018: No package for: /home/laurence/storage/tech-projects/kleben__jersey/examples/sparklines/src/test/java/SparklinesTest.java
+Mon May 07 13:53:54 UTC 2018: No package for: /home/laurence/storage/tech-projects/savvagen__MyPlayGround-JavaTestNG-old/src/test/java/ListenerTests.java
+Mon May 07 13:53:54 UTC 2018: No package for: /home/laurence/storage/tech-projects/savvagen__MyPlayGround-JavaTestNG-old/src/test/java/LoginTests3.java
+Mon May 07 13:53:54 UTC 2018: No package for: /home/laurence/storage/tech-projects/savvagen__MyPlayGround-JavaTestNG-old/src/test/java/SeleniumGridTests.java
+Mon May 07 13:53:54 UTC 2018: No package for: /home/laurence/storage/tech-projects/savvagen__MyPlayGround-JavaTestNG-old/src/test/java/LoginTests.java
+Mon May 07 13:53:54 UTC 2018: No package for: /home/laurence/storage/tech-projects/savvagen__MyPlayGround-JavaTestNG-old/src/test/java/SignInFlowTest.java
+java.io.IOException: Is a directory
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.FileDispatcherImpl.read(FileDispatcherImpl.java:46)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:159)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at report.analysis.ReportTools.readFile(ReportTools.java:133)
+	at report.analysis.AnalyzeExtractor.processProjectWithoutReport(AnalyzeExtractor.java:33)
+	at application.AddTestsToQueue.processProject(AddTestsToQueue.java:106)
+	at application.AddTestsToQueue.main(AddTestsToQueue.java:85)
+Mon May 07 14:06:59 UTC 2018: No package for: 
+Mon May 07 14:20:44 UTC 2018: No package for: /home/laurence/storage/tech-projects/SergeyLobanov__FacultativeWebSystem/src/test/ua/kpi/controller/commands/CourseInfoCommandTest.java
+Mon May 07 14:27:57 UTC 2018: No package for: /home/laurence/storage/tech-projects/apache__streams/streams-components/streams-http/src/test/java/SimpleHTTPPostPersistWriterTest.java
+java.io.IOException: Is a directory
+	at sun.nio.ch.FileDispatcherImpl.read0(Native Method)
+	at sun.nio.ch.FileDispatcherImpl.read(FileDispatcherImpl.java:46)
+	at sun.nio.ch.IOUtil.readIntoNativeBuffer(IOUtil.java:223)
+	at sun.nio.ch.IOUtil.read(IOUtil.java:197)
+	at sun.nio.ch.FileChannelImpl.read(FileChannelImpl.java:159)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:65)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:109)
+	at sun.nio.ch.ChannelInputStream.read(ChannelInputStream.java:103)
+	at sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:284)
+	at sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:326)
+	at sun.nio.cs.StreamDecoder.read(StreamDecoder.java:178)
+	at java.io.InputStreamReader.read(InputStreamReader.java:184)
+	at java.io.BufferedReader.fill(BufferedReader.java:161)
+	at java.io.BufferedReader.readLine(BufferedReader.java:324)
+	at java.io.BufferedReader.readLine(BufferedReader.java:389)
+	at java.nio.file.Files.readAllLines(Files.java:3205)
+	at report.analysis.ReportTools.readFile(ReportTools.java:133)
+	at report.analysis.AnalyzeExtractor.processProjectWithoutReport(AnalyzeExtractor.java:33)
+	at application.AddTestsToQueue.processProject(AddTestsToQueue.java:106)
+	at application.AddTestsToQueue.main(AddTestsToQueue.java:85)
+Mon May 07 14:28:25 UTC 2018: No package for: 

@@ -1,0 +1,1275 @@
+Wed May 16 01:11:13 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 01:11:13 UTC 2018: Starting
+Wed May 16 01:11:14 UTC 2018: Found element on the queue
+Wed May 16 01:11:14 UTC 2018: Updating status
+Wed May 16 01:11:14 UTC 2018: Working
+Wed May 16 01:11:14 UTC 2018: Create project parser
+Wed May 16 01:11:21 UTC 2018: Create slicer
+Wed May 16 01:11:24 UTC 2018: Create call graph
+Wed May 16 01:11:28 UTC 2018: Create point analysis
+Wed May 16 01:11:28 UTC 2018: Create call graph done
+Wed May 16 01:11:28 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.domain.AuditLoggerTests
+Wed May 16 01:11:28 UTC 2018: Setting lastTestMethodIndex: 54610
+Wed May 16 01:11:28 UTC 2018: Starting linking
+Wed May 16 01:11:28 UTC 2018: No link for: org.springframework.security.acls.domain.AuditLoggerTests-nonAuditableAceIsIgnored
+Wed May 16 01:11:29 UTC 2018: No link for: org.springframework.security.acls.domain.AuditLoggerTests-failureIsLoggedIfAceRequiresFailureAudit
+Wed May 16 01:11:29 UTC 2018: No link for: org.springframework.security.acls.domain.AuditLoggerTests-successIsNotLoggedIfAceDoesntRequireSuccessAudit
+Wed May 16 01:11:29 UTC 2018: No link for: org.springframework.security.acls.domain.AuditLoggerTests-successIsLoggedIfAceRequiresSuccessAudit
+Wed May 16 01:11:30 UTC 2018: No link for: org.springframework.security.acls.domain.AuditLoggerTests-failureIsntLoggedIfAceDoesntRequireFailureAudit
+Wed May 16 01:11:30 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.domain.AuditLoggerTests
+Wed May 16 01:11:31 UTC 2018: Found element on the queue
+Wed May 16 01:11:31 UTC 2018: Updating status
+Wed May 16 01:11:31 UTC 2018: Working
+Wed May 16 01:11:33 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.domain.AclImplementationSecurityCheckTests
+Wed May 16 01:11:33 UTC 2018: Setting lastTestMethodIndex: 54614
+Wed May 16 01:11:33 UTC 2018: Starting linking
+Wed May 16 01:11:33 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.domain.AclImplementationSecurityCheckTests
+Wed May 16 01:11:33 UTC 2018: Found element on the queue
+Wed May 16 01:11:33 UTC 2018: Updating status
+Wed May 16 01:11:33 UTC 2018: Working
+Wed May 16 01:11:36 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.AclPermissionEvaluatorTests
+Wed May 16 01:11:36 UTC 2018: Setting lastTestMethodIndex: 54617
+Wed May 16 01:11:36 UTC 2018: Starting linking
+Wed May 16 01:11:36 UTC 2018: Code found org.springframework.security.acls.AclPermissionEvaluator-hasPermission with org.springframework.security.acls.AclPermissionEvaluatorTests-hasPermissionReturnsTrueIfAclGrantsPermission
+Wed May 16 01:11:36 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.AclPermissionEvaluatorTests
+Wed May 16 01:11:37 UTC 2018: Found element on the queue
+Wed May 16 01:11:37 UTC 2018: Updating status
+Wed May 16 01:11:37 UTC 2018: Working
+Wed May 16 01:11:39 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.domain.AccessControlImplEntryTests
+Wed May 16 01:11:39 UTC 2018: Setting lastTestMethodIndex: 54620
+Wed May 16 01:11:39 UTC 2018: Starting linking
+Wed May 16 01:11:39 UTC 2018: Code found org.springframework.security.acls.domain.AccessControlEntryImpl-equals with org.springframework.security.acls.domain.AccessControlImplEntryTests-testEquals
+Wed May 16 01:11:40 UTC 2018: No link for: org.springframework.security.acls.domain.AccessControlImplEntryTests-testConstructorRequiredFields
+Wed May 16 01:11:40 UTC 2018: No link for: org.springframework.security.acls.domain.AccessControlImplEntryTests-testAccessControlEntryImplGetters
+Wed May 16 01:11:40 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.domain.AccessControlImplEntryTests
+Wed May 16 01:11:41 UTC 2018: Found element on the queue
+Wed May 16 01:11:41 UTC 2018: Updating status
+Wed May 16 01:11:41 UTC 2018: Working
+Wed May 16 01:11:43 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.domain.ObjectIdentityRetrievalStrategyImplTests
+Wed May 16 01:11:43 UTC 2018: Setting lastTestMethodIndex: 54623
+Wed May 16 01:11:43 UTC 2018: Starting linking
+Wed May 16 01:11:43 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.domain.ObjectIdentityRetrievalStrategyImplTests
+Wed May 16 01:11:44 UTC 2018: Found element on the queue
+Wed May 16 01:11:44 UTC 2018: Updating status
+Wed May 16 01:11:44 UTC 2018: Working
+Wed May 16 01:11:46 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.sid.SidTests
+Wed May 16 01:11:46 UTC 2018: Setting lastTestMethodIndex: 54626
+Wed May 16 01:11:46 UTC 2018: Starting linking
+Wed May 16 01:11:46 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.sid.SidTests
+Wed May 16 01:11:47 UTC 2018: Found element on the queue
+Wed May 16 01:11:47 UTC 2018: Updating status
+Wed May 16 01:11:47 UTC 2018: Working
+Wed May 16 01:11:50 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.domain.AclImplTests
+Wed May 16 01:11:50 UTC 2018: Setting lastTestMethodIndex: 54629
+Wed May 16 01:11:50 UTC 2018: Starting linking
+Wed May 16 01:11:50 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-deleteAce with org.springframework.security.acls.domain.AclImplTests-deleteAceKeepsInitialOrdering
+Wed May 16 01:11:50 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-insertAce with org.springframework.security.acls.domain.AclImplTests-insertAceRaisesNotFoundExceptionForIndexGreaterThanSize
+Wed May 16 01:11:50 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-insertAce with org.springframework.security.acls.domain.AclImplTests-insertAceRejectsNullParameters
+Wed May 16 01:11:51 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-deleteAce with org.springframework.security.acls.domain.AclImplTests-deleteAceRaisesNotFoundExceptionForIndexLessThanZero
+Wed May 16 01:11:51 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-isSidLoaded with org.springframework.security.acls.domain.AclImplTests-isSidLoadedBehavesAsExpected
+Wed May 16 01:11:51 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-insertAce with org.springframework.security.acls.domain.AclImplTests-insertAceRaisesNotFoundExceptionForIndexLessThanZero
+Wed May 16 01:11:52 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-deleteAce with org.springframework.security.acls.domain.AclImplTests-deleteAceFailsForNonExistentElement
+Wed May 16 01:11:52 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-deleteAce with org.springframework.security.acls.domain.AclImplTests-deleteAceRaisesNotFoundExceptionForIndexEqualToSize
+Wed May 16 01:11:52 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-insertAce with org.springframework.security.acls.domain.AclImplTests-insertAceFailsForNonExistentElement
+Wed May 16 01:11:53 UTC 2018: Code found org.springframework.security.acls.domain.AclImpl-insertAce with org.springframework.security.acls.domain.AclImplTests-insertAceAddsElementAtCorrectIndex
+Wed May 16 01:11:53 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-isGrantingRejectsEmptyParameters
+Wed May 16 01:11:54 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-auditableEntryFlagsAreUpdatedCorrectly
+Wed May 16 01:11:54 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-isGrantingGrantsAccessForAclWithNoParent
+Wed May 16 01:11:55 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-constructorsRejectNullId
+Wed May 16 01:11:55 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-gettersAndSettersAreConsistent
+Wed May 16 01:11:55 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-updatedAceValuesAreCorrectlyReflectedInAcl
+Wed May 16 01:11:56 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-isGrantingGrantsAccessForInheritableAcls
+Wed May 16 01:11:56 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-constructorsRejectNullObjectIdentity
+Wed May 16 01:11:57 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-constructorsRejectNullAclAuthzStrategy
+Wed May 16 01:11:57 UTC 2018: No link for: org.springframework.security.acls.domain.AclImplTests-constructorsRejectNullAuditLogger
+Wed May 16 01:11:57 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.domain.AclImplTests
+Wed May 16 01:11:58 UTC 2018: Found element on the queue
+Wed May 16 01:11:58 UTC 2018: Updating status
+Wed May 16 01:11:58 UTC 2018: Working
+Wed May 16 01:12:01 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.AclFormattingUtilsTests
+Wed May 16 01:12:01 UTC 2018: Setting lastTestMethodIndex: 54635
+Wed May 16 01:12:01 UTC 2018: Starting linking
+Wed May 16 01:12:01 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.AclFormattingUtilsTests
+Wed May 16 01:12:01 UTC 2018: Found element on the queue
+Wed May 16 01:12:01 UTC 2018: Updating status
+Wed May 16 01:12:01 UTC 2018: Working
+Wed May 16 01:12:04 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.domain.ObjectIdentityImplTests
+Wed May 16 01:12:04 UTC 2018: Setting lastTestMethodIndex: 54638
+Wed May 16 01:12:04 UTC 2018: Starting linking
+Wed May 16 01:12:04 UTC 2018: Code found org.springframework.security.acls.domain.ObjectIdentityImpl-hashCode with org.springframework.security.acls.domain.ObjectIdentityImplTests-longAndIntegerIdsWithSameValueAreEqualAndHaveSameHashcode
+Wed May 16 01:12:05 UTC 2018: Code found org.springframework.security.acls.domain.ObjectIdentityImpl-hashCode with org.springframework.security.acls.domain.ObjectIdentityImplTests-equalStringIdsAreEqualAndHaveSameHashcode
+Wed May 16 01:12:05 UTC 2018: Code found org.springframework.security.acls.domain.ObjectIdentityImpl-equals with org.springframework.security.acls.domain.ObjectIdentityImplTests-testEquals
+Wed May 16 01:12:05 UTC 2018: Code found org.springframework.security.acls.domain.ObjectIdentityImpl-hashCode with org.springframework.security.acls.domain.ObjectIdentityImplTests-hashcodeIsDifferentForDifferentJavaTypes
+Wed May 16 01:12:06 UTC 2018: No link for: org.springframework.security.acls.domain.ObjectIdentityImplTests-testGetIdMethodConstraints
+Wed May 16 01:12:06 UTC 2018: No link for: org.springframework.security.acls.domain.ObjectIdentityImplTests-constructorsRespectRequiredFields
+Wed May 16 01:12:06 UTC 2018: No link for: org.springframework.security.acls.domain.ObjectIdentityImplTests-constructorRejectsInvalidTypeParameter
+Wed May 16 01:12:07 UTC 2018: No link for: org.springframework.security.acls.domain.ObjectIdentityImplTests-stringAndNumericIdsAreNotEqual
+Wed May 16 01:12:07 UTC 2018: No link for: org.springframework.security.acls.domain.ObjectIdentityImplTests-gettersReturnExpectedValues
+Wed May 16 01:12:07 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.domain.ObjectIdentityImplTests
+Wed May 16 01:12:08 UTC 2018: Found element on the queue
+Wed May 16 01:12:08 UTC 2018: Updating status
+Wed May 16 01:12:08 UTC 2018: Working
+Wed May 16 01:12:10 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.acls.sid.SidRetrievalStrategyTests
+Wed May 16 01:12:10 UTC 2018: Setting lastTestMethodIndex: 54642
+Wed May 16 01:12:10 UTC 2018: Starting linking
+Wed May 16 01:12:10 UTC 2018: No link for: org.springframework.security.acls.sid.SidRetrievalStrategyTests-roleHierarchyIsUsedWhenSet
+Wed May 16 01:12:11 UTC 2018: No link for: org.springframework.security.acls.sid.SidRetrievalStrategyTests-correctSidsAreRetrieved
+Wed May 16 01:12:11 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.acls.sid.SidRetrievalStrategyTests
+Wed May 16 01:12:12 UTC 2018: Found element on the queue
+Wed May 16 01:12:12 UTC 2018: Updating status
+Wed May 16 01:12:12 UTC 2018: Working
+Wed May 16 01:12:12 UTC 2018: Create project parser
+Wed May 16 01:12:14 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.cas.authentication.CasAuthenticationProviderTests
+Wed May 16 01:12:14 UTC 2018: Setting lastTestMethodIndex: 54645
+Wed May 16 01:12:14 UTC 2018: Starting linking
+Wed May 16 01:12:14 UTC 2018: Code found org.springframework.security.cas.authentication.CasAuthenticationProvider-supports with org.springframework.security.cas.authentication.CasAuthenticationProviderTests-supportsRequiredTokens
+Wed May 16 01:12:15 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-missingTicketIdIsDetected
+Wed May 16 01:12:15 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-detectsMissingAuthoritiesPopulator
+Wed May 16 01:12:15 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-detectsMissingStatelessTicketCache
+Wed May 16 01:12:16 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-detectsMissingTicketValidator
+Wed May 16 01:12:16 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-statelessAuthenticationIsSuccessful
+Wed May 16 01:12:16 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-detectsMissingKey
+Wed May 16 01:12:17 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-gettersAndSettersMatch
+Wed May 16 01:12:17 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-invalidKeyIsDetected
+Wed May 16 01:12:17 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-ignoresClassesItDoesNotSupport
+Wed May 16 01:12:18 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-statefulAuthenticationIsSuccessful
+Wed May 16 01:12:18 UTC 2018: No link for: org.springframework.security.cas.authentication.CasAuthenticationProviderTests-ignoresUsernamePasswordAuthenticationTokensWithoutCasIdentifiersAsPrincipal
+Wed May 16 01:12:18 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.cas.authentication.CasAuthenticationProviderTests
+Wed May 16 01:12:19 UTC 2018: Found element on the queue
+Wed May 16 01:12:19 UTC 2018: Updating status
+Wed May 16 01:12:19 UTC 2018: Working
+Wed May 16 01:12:21 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.cas.web.CasAuthenticationEntryPointTests
+Wed May 16 01:12:21 UTC 2018: Setting lastTestMethodIndex: 54649
+Wed May 16 01:12:21 UTC 2018: Starting linking
+Wed May 16 01:12:21 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.cas.web.CasAuthenticationEntryPointTests
+Wed May 16 01:12:22 UTC 2018: Found element on the queue
+Wed May 16 01:12:22 UTC 2018: Updating status
+Wed May 16 01:12:22 UTC 2018: Working
+Wed May 16 01:12:25 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.cas.web.ServicePropertiesTests
+Wed May 16 01:12:25 UTC 2018: Setting lastTestMethodIndex: 54652
+Wed May 16 01:12:25 UTC 2018: Starting linking
+Wed May 16 01:12:25 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.cas.web.ServicePropertiesTests
+Wed May 16 01:12:25 UTC 2018: Found element on the queue
+Wed May 16 01:12:25 UTC 2018: Updating status
+Wed May 16 01:12:25 UTC 2018: Working
+Wed May 16 01:12:28 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.cas.authentication.CasAuthenticationTokenTests
+Wed May 16 01:12:28 UTC 2018: Setting lastTestMethodIndex: 54655
+Wed May 16 01:12:28 UTC 2018: Starting linking
+Wed May 16 01:12:28 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.cas.authentication.CasAuthenticationTokenTests
+Wed May 16 01:12:28 UTC 2018: Found element on the queue
+Wed May 16 01:12:28 UTC 2018: Updating status
+Wed May 16 01:12:28 UTC 2018: Working
+Wed May 16 01:12:31 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.cas.web.CasAuthenticationFilterTests
+Wed May 16 01:12:31 UTC 2018: Setting lastTestMethodIndex: 54658
+Wed May 16 01:12:31 UTC 2018: Starting linking
+Wed May 16 01:12:31 UTC 2018: No link for: org.springframework.security.cas.web.CasAuthenticationFilterTests-testGetters
+Wed May 16 01:12:31 UTC 2018: No link for: org.springframework.security.cas.web.CasAuthenticationFilterTests-testNormalOperation
+Wed May 16 01:12:31 UTC 2018: No link for: org.springframework.security.cas.web.CasAuthenticationFilterTests-testNullServiceTicketHandledGracefully
+Wed May 16 01:12:32 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.cas.web.CasAuthenticationFilterTests
+Wed May 16 01:12:32 UTC 2018: Found element on the queue
+Wed May 16 01:12:32 UTC 2018: Updating status
+Wed May 16 01:12:32 UTC 2018: Working
+Wed May 16 01:12:34 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.cas.authentication.NullStatelessTicketCacheTests
+Wed May 16 01:12:35 UTC 2018: Setting lastTestMethodIndex: 54661
+Wed May 16 01:12:35 UTC 2018: Starting linking
+Wed May 16 01:12:35 UTC 2018: No link for: org.springframework.security.cas.authentication.NullStatelessTicketCacheTests-testInsertAndGet
+Wed May 16 01:12:35 UTC 2018: No link for: org.springframework.security.cas.authentication.NullStatelessTicketCacheTests-testGetter
+Wed May 16 01:12:35 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.cas.authentication.NullStatelessTicketCacheTests
+Wed May 16 01:12:36 UTC 2018: Found element on the queue
+Wed May 16 01:12:36 UTC 2018: Updating status
+Wed May 16 01:12:36 UTC 2018: Working
+Wed May 16 01:12:36 UTC 2018: Create project parser
+Wed May 16 01:12:42 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.authority.mapping.SimpleRoles2GrantedAuthoritiesMapperTests
+Wed May 16 01:12:42 UTC 2018: Setting lastTestMethodIndex: 54667
+Wed May 16 01:12:42 UTC 2018: Starting linking
+Wed May 16 01:12:42 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.authority.mapping.SimpleRoles2GrantedAuthoritiesMapperTests
+Wed May 16 01:12:43 UTC 2018: Found element on the queue
+Wed May 16 01:12:43 UTC 2018: Updating status
+Wed May 16 01:12:43 UTC 2018: Working
+Wed May 16 01:12:45 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.util.EncryptionUtilsTests
+Wed May 16 01:12:45 UTC 2018: Setting lastTestMethodIndex: 54669
+Wed May 16 01:12:45 UTC 2018: Starting linking
+Wed May 16 01:12:45 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.util.EncryptionUtilsTests
+Wed May 16 01:12:46 UTC 2018: Found element on the queue
+Wed May 16 01:12:46 UTC 2018: Updating status
+Wed May 16 01:12:46 UTC 2018: Working
+Wed May 16 01:12:48 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.intercept.RunAsImplAuthenticationProviderTests
+Wed May 16 01:12:48 UTC 2018: Setting lastTestMethodIndex: 54671
+Wed May 16 01:12:48 UTC 2018: Starting linking
+Wed May 16 01:12:48 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.intercept.RunAsImplAuthenticationProviderTests
+Wed May 16 01:12:48 UTC 2018: Found element on the queue
+Wed May 16 01:12:48 UTC 2018: Updating status
+Wed May 16 01:12:48 UTC 2018: Working
+Wed May 16 01:12:51 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.AuthenticationTrustResolverImplTests
+Wed May 16 01:12:51 UTC 2018: Setting lastTestMethodIndex: 54673
+Wed May 16 01:12:51 UTC 2018: Starting linking
+Wed May 16 01:12:51 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.AuthenticationTrustResolverImplTests
+Wed May 16 01:12:51 UTC 2018: Found element on the queue
+Wed May 16 01:12:51 UTC 2018: Updating status
+Wed May 16 01:12:51 UTC 2018: Working
+Wed May 16 01:12:54 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.rememberme.RememberMeAuthenticationProviderTests
+Wed May 16 01:12:54 UTC 2018: Setting lastTestMethodIndex: 54676
+Wed May 16 01:12:54 UTC 2018: Starting linking
+Wed May 16 01:12:54 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.rememberme.RememberMeAuthenticationProviderTests
+Wed May 16 01:12:54 UTC 2018: Found element on the queue
+Wed May 16 01:12:54 UTC 2018: Updating status
+Wed May 16 01:12:54 UTC 2018: Working
+Wed May 16 01:12:57 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.intercept.RunAsUserTokenTests
+Wed May 16 01:12:57 UTC 2018: Setting lastTestMethodIndex: 54678
+Wed May 16 01:12:57 UTC 2018: Starting linking
+Wed May 16 01:12:57 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.intercept.RunAsUserTokenTests
+Wed May 16 01:12:57 UTC 2018: Found element on the queue
+Wed May 16 01:12:57 UTC 2018: Updating status
+Wed May 16 01:12:57 UTC 2018: Working
+Wed May 16 01:13:00 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.session.SessionInformationTests
+Wed May 16 01:13:00 UTC 2018: Setting lastTestMethodIndex: 54680
+Wed May 16 01:13:00 UTC 2018: Starting linking
+Wed May 16 01:13:00 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.session.SessionInformationTests
+Wed May 16 01:13:00 UTC 2018: Found element on the queue
+Wed May 16 01:13:00 UTC 2018: Updating status
+Wed May 16 01:13:00 UTC 2018: Working
+Wed May 16 01:13:02 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.util.MethodInvocationUtilsTests
+Wed May 16 01:13:02 UTC 2018: Setting lastTestMethodIndex: 54683
+Wed May 16 01:13:02 UTC 2018: Starting linking
+Wed May 16 01:13:02 UTC 2018: Code found org.springframework.security.util.MethodInvocationUtils-createFromClass with org.springframework.security.util.MethodInvocationUtilsTests-createFromClassReturnsMethodWithNoArgInfoForMethodWithNoArgs
+Wed May 16 01:13:03 UTC 2018: Code found org.springframework.security.util.MethodInvocationUtils-createFromClass with org.springframework.security.util.MethodInvocationUtilsTests-createFromClassReturnsMethodIfGivenArgInfoForMethodWithArgs
+Wed May 16 01:13:03 UTC 2018: Code found org.springframework.security.util.MethodInvocationUtils-createFromClass with org.springframework.security.util.MethodInvocationUtilsTests-createFromClassReturnsMethodIfArgInfoOmittedAndMethodNameIsUnique
+Wed May 16 01:13:04 UTC 2018: No link for: org.springframework.security.util.MethodInvocationUtilsTests-exceptionIsRaisedIfArgInfoOmittedAndMethodNameIsNotUnique
+Wed May 16 01:13:04 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.util.MethodInvocationUtilsTests
+Wed May 16 01:13:04 UTC 2018: Found element on the queue
+Wed May 16 01:13:04 UTC 2018: Updating status
+Wed May 16 01:13:04 UTC 2018: Working
+Wed May 16 01:13:07 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.expression.method.MethodSecurityExpressionRootTests
+Wed May 16 01:13:07 UTC 2018: Setting lastTestMethodIndex: 54686
+Wed May 16 01:13:07 UTC 2018: Starting linking
+Wed May 16 01:13:07 UTC 2018: Code found org.springframework.security.access.expression.method.MethodSecurityExpressionRoot-hasPermission with org.springframework.security.access.expression.method.MethodSecurityExpressionRootTests-hasPermissionOnDomainObjectReturnsFalseIfPermissionEvaluatorDoes
+Wed May 16 01:13:07 UTC 2018: Code found org.springframework.security.access.expression.method.MethodSecurityExpressionRoot-hasPermission with org.springframework.security.access.expression.method.MethodSecurityExpressionRootTests-hasPermissionOnDomainObjectReturnsTrueIfPermissionEvaluatorDoes
+Wed May 16 01:13:08 UTC 2018: Code found org.springframework.security.access.expression.method.MethodSecurityExpressionRoot-isAnonymous with org.springframework.security.access.expression.method.MethodSecurityExpressionRootTests-isAnonymousReturnsFalseIfTrustResolverReportsNonAnonymous
+Wed May 16 01:13:08 UTC 2018: Code found org.springframework.security.access.expression.method.MethodSecurityExpressionRoot-isAnonymous with org.springframework.security.access.expression.method.MethodSecurityExpressionRootTests-isAnonymousReturnsTrueIfTrustResolverReportsAnonymous
+Wed May 16 01:13:08 UTC 2018: No link for: org.springframework.security.access.expression.method.MethodSecurityExpressionRootTests-canCallMethodsOnVariables
+Wed May 16 01:13:09 UTC 2018: No link for: org.springframework.security.access.expression.method.MethodSecurityExpressionRootTests-hasPermissionOnDomainObjectWorksWithIntegerExpressions
+Wed May 16 01:13:09 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.expression.method.MethodSecurityExpressionRootTests
+Wed May 16 01:13:09 UTC 2018: Found element on the queue
+Wed May 16 01:13:09 UTC 2018: Updating status
+Wed May 16 01:13:09 UTC 2018: Working
+Wed May 16 01:13:12 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.rcp.RemoteAuthenticationProviderTests
+Wed May 16 01:13:12 UTC 2018: Setting lastTestMethodIndex: 54689
+Wed May 16 01:13:12 UTC 2018: Starting linking
+Wed May 16 01:13:12 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.rcp.RemoteAuthenticationProviderTests
+Wed May 16 01:13:12 UTC 2018: Found element on the queue
+Wed May 16 01:13:12 UTC 2018: Updating status
+Wed May 16 01:13:12 UTC 2018: Working
+Wed May 16 01:13:15 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.event.AuthenticationEventTests
+Wed May 16 01:13:15 UTC 2018: Setting lastTestMethodIndex: 54691
+Wed May 16 01:13:15 UTC 2018: Starting linking
+Wed May 16 01:13:15 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.event.AuthenticationEventTests
+Wed May 16 01:13:15 UTC 2018: Found element on the queue
+Wed May 16 01:13:15 UTC 2018: Updating status
+Wed May 16 01:13:15 UTC 2018: Working
+Wed May 16 01:13:18 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.hierarchicalroles.TestHelperTests
+Wed May 16 01:13:18 UTC 2018: Setting lastTestMethodIndex: 54692
+Wed May 16 01:13:18 UTC 2018: Starting linking
+Wed May 16 01:13:18 UTC 2018: Code found org.springframework.security.access.hierarchicalroles.HierarchicalRolesTestHelper-containTheSameGrantedAuthorities with org.springframework.security.access.hierarchicalroles.TestHelperTests-testContainTheSameGrantedAuthorities
+Wed May 16 01:13:18 UTC 2018: Code found org.springframework.security.access.hierarchicalroles.HierarchicalRolesTestHelper-createAuthorityList with org.springframework.security.access.hierarchicalroles.TestHelperTests-testCreateAuthorityList
+Wed May 16 01:13:18 UTC 2018: Code found org.springframework.security.access.hierarchicalroles.HierarchicalRolesTestHelper-containTheSameGrantedAuthorities with org.springframework.security.access.hierarchicalroles.TestHelperTests-testContainTheSameGrantedAuthoritiesCompareByAuthorityString
+Wed May 16 01:13:19 UTC 2018: Code found org.springframework.security.access.hierarchicalroles.HierarchicalRolesTestHelper-containTheSameGrantedAuthoritiesCompareByAuthorityString with org.springframework.security.access.hierarchicalroles.TestHelperTests-testContainTheSameGrantedAuthoritiesCompareByAuthorityStringWithAuthorityLists
+Wed May 16 01:13:19 UTC 2018: No link for: org.springframework.security.access.hierarchicalroles.TestHelperTests-testToListOfAuthorityStrings
+Wed May 16 01:13:19 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.hierarchicalroles.TestHelperTests
+Wed May 16 01:13:20 UTC 2018: Found element on the queue
+Wed May 16 01:13:20 UTC 2018: Updating status
+Wed May 16 01:13:20 UTC 2018: Working
+Wed May 16 01:13:22 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.encoding.PlaintextPasswordEncoderTests
+Wed May 16 01:13:22 UTC 2018: Setting lastTestMethodIndex: 54695
+Wed May 16 01:13:22 UTC 2018: Starting linking
+Wed May 16 01:13:22 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.encoding.PlaintextPasswordEncoderTests
+Wed May 16 01:13:23 UTC 2018: Found element on the queue
+Wed May 16 01:13:23 UTC 2018: Updating status
+Wed May 16 01:13:23 UTC 2018: Working
+Wed May 16 01:13:25 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.anonymous.AnonymousAuthenticationTokenTests
+Wed May 16 01:13:25 UTC 2018: Setting lastTestMethodIndex: 54696
+Wed May 16 01:13:25 UTC 2018: Starting linking
+Wed May 16 01:13:25 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.anonymous.AnonymousAuthenticationTokenTests
+Wed May 16 01:13:26 UTC 2018: Found element on the queue
+Wed May 16 01:13:26 UTC 2018: Updating status
+Wed May 16 01:13:26 UTC 2018: Working
+Wed May 16 01:13:28 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.vote.RoleVoterTests
+Wed May 16 01:13:28 UTC 2018: Setting lastTestMethodIndex: 54698
+Wed May 16 01:13:28 UTC 2018: Starting linking
+Wed May 16 01:13:28 UTC 2018: No link for: org.springframework.security.access.vote.RoleVoterTests-oneMatchingAttributeGrantsAccess
+Wed May 16 01:13:28 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.vote.RoleVoterTests
+Wed May 16 01:13:29 UTC 2018: Found element on the queue
+Wed May 16 01:13:29 UTC 2018: Updating status
+Wed May 16 01:13:29 UTC 2018: Working
+Wed May 16 01:13:31 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.anonymous.AnonymousAuthenticationProviderTests
+Wed May 16 01:13:31 UTC 2018: Setting lastTestMethodIndex: 54700
+Wed May 16 01:13:31 UTC 2018: Starting linking
+Wed May 16 01:13:31 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.anonymous.AnonymousAuthenticationProviderTests
+Wed May 16 01:13:32 UTC 2018: Found element on the queue
+Wed May 16 01:13:32 UTC 2018: Updating status
+Wed May 16 01:13:32 UTC 2018: Working
+Wed May 16 01:13:34 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.AuthorizationFailureEventTests
+Wed May 16 01:13:34 UTC 2018: Setting lastTestMethodIndex: 54701
+Wed May 16 01:13:34 UTC 2018: Starting linking
+Wed May 16 01:13:34 UTC 2018: No link for: org.springframework.security.access.AuthorizationFailureEventTests-testRejectsNulls4
+Wed May 16 01:13:35 UTC 2018: No link for: org.springframework.security.access.AuthorizationFailureEventTests-testRejectsNulls3
+Wed May 16 01:13:35 UTC 2018: No link for: org.springframework.security.access.AuthorizationFailureEventTests-testRejectsNulls
+Wed May 16 01:13:35 UTC 2018: No link for: org.springframework.security.access.AuthorizationFailureEventTests-testRejectsNulls2
+Wed May 16 01:13:36 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.AuthorizationFailureEventTests
+Wed May 16 01:13:36 UTC 2018: Found element on the queue
+Wed May 16 01:13:36 UTC 2018: Updating status
+Wed May 16 01:13:36 UTC 2018: Working
+Wed May 16 01:13:39 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.authority.GrantedAuthorityImplTests
+Wed May 16 01:13:39 UTC 2018: Setting lastTestMethodIndex: 54706
+Wed May 16 01:13:39 UTC 2018: Starting linking
+Wed May 16 01:13:39 UTC 2018: Code found org.springframework.security.core.authority.GrantedAuthorityImpl-equals with org.springframework.security.core.authority.GrantedAuthorityImplTests-equalsBehavesAsExpected
+Wed May 16 01:13:39 UTC 2018: Code found org.springframework.security.core.authority.GrantedAuthorityImpl-toString with org.springframework.security.core.authority.GrantedAuthorityImplTests-toStringReturnsAuthorityValue
+Wed May 16 01:13:39 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.authority.GrantedAuthorityImplTests
+Wed May 16 01:13:40 UTC 2018: Found element on the queue
+Wed May 16 01:13:40 UTC 2018: Updating status
+Wed May 16 01:13:40 UTC 2018: Working
+Wed May 16 01:13:42 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.intercept.InterceptorStatusTokenTests
+Wed May 16 01:13:42 UTC 2018: Setting lastTestMethodIndex: 54709
+Wed May 16 01:13:42 UTC 2018: Starting linking
+Wed May 16 01:13:42 UTC 2018: No link for: org.springframework.security.access.intercept.InterceptorStatusTokenTests-testOperation
+Wed May 16 01:13:43 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.intercept.InterceptorStatusTokenTests
+Wed May 16 01:13:43 UTC 2018: Found element on the queue
+Wed May 16 01:13:43 UTC 2018: Updating status
+Wed May 16 01:13:43 UTC 2018: Working
+Wed May 16 01:13:46 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.expression.SecurityExpressionRootTests
+Wed May 16 01:13:46 UTC 2018: Setting lastTestMethodIndex: 54711
+Wed May 16 01:13:46 UTC 2018: Starting linking
+Wed May 16 01:13:46 UTC 2018: No link for: org.springframework.security.access.expression.SecurityExpressionRootTests-roleHierarchySupportIsCorrectlyUsedInEvaluatingRoles
+Wed May 16 01:13:46 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.expression.SecurityExpressionRootTests
+Wed May 16 01:13:46 UTC 2018: Found element on the queue
+Wed May 16 01:13:46 UTC 2018: Updating status
+Wed May 16 01:13:46 UTC 2018: Working
+Wed May 16 01:13:49 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.encoding.Md5PasswordEncoderTests
+Wed May 16 01:13:49 UTC 2018: Setting lastTestMethodIndex: 54714
+Wed May 16 01:13:49 UTC 2018: Starting linking
+Wed May 16 01:13:49 UTC 2018: No link for: org.springframework.security.authentication.encoding.Md5PasswordEncoderTests-nonAsciiPasswordHasCorrectHash
+Wed May 16 01:13:49 UTC 2018: No link for: org.springframework.security.authentication.encoding.Md5PasswordEncoderTests-testBase64
+Wed May 16 01:13:50 UTC 2018: No link for: org.springframework.security.authentication.encoding.Md5PasswordEncoderTests-testBasicFunctionality
+Wed May 16 01:13:50 UTC 2018: No link for: org.springframework.security.authentication.encoding.Md5PasswordEncoderTests-stretchFactorIsProcessedCorrectly
+Wed May 16 01:13:50 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.encoding.Md5PasswordEncoderTests
+Wed May 16 01:13:51 UTC 2018: Found element on the queue
+Wed May 16 01:13:51 UTC 2018: Updating status
+Wed May 16 01:13:51 UTC 2018: Working
+Wed May 16 01:13:53 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.userdetails.cache.NullUserCacheTests
+Wed May 16 01:13:53 UTC 2018: Setting lastTestMethodIndex: 54717
+Wed May 16 01:13:53 UTC 2018: Starting linking
+Wed May 16 01:13:53 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.userdetails.cache.NullUserCacheTests
+Wed May 16 01:13:54 UTC 2018: Found element on the queue
+Wed May 16 01:13:54 UTC 2018: Updating status
+Wed May 16 01:13:54 UTC 2018: Working
+Wed May 16 01:13:56 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.rcp.RemoteAuthenticationManagerImplTests
+Wed May 16 01:13:56 UTC 2018: Setting lastTestMethodIndex: 54720
+Wed May 16 01:13:56 UTC 2018: Starting linking
+Wed May 16 01:13:56 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.rcp.RemoteAuthenticationManagerImplTests
+Wed May 16 01:13:57 UTC 2018: Found element on the queue
+Wed May 16 01:13:57 UTC 2018: Updating status
+Wed May 16 01:13:57 UTC 2018: Working
+Wed May 16 01:13:59 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.UsernamePasswordAuthenticationTokenTests
+Wed May 16 01:13:59 UTC 2018: Setting lastTestMethodIndex: 54722
+Wed May 16 01:13:59 UTC 2018: Starting linking
+Wed May 16 01:13:59 UTC 2018: No link for: org.springframework.security.authentication.UsernamePasswordAuthenticationTokenTests-gettersReturnCorrectData
+Wed May 16 01:14:00 UTC 2018: No link for: org.springframework.security.authentication.UsernamePasswordAuthenticationTokenTests-testNoArgConstructorDoesntExist
+Wed May 16 01:14:00 UTC 2018: No link for: org.springframework.security.authentication.UsernamePasswordAuthenticationTokenTests-authenticatedPropertyContractIsSatisfied
+Wed May 16 01:14:00 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.UsernamePasswordAuthenticationTokenTests
+Wed May 16 01:14:01 UTC 2018: Found element on the queue
+Wed May 16 01:14:01 UTC 2018: Updating status
+Wed May 16 01:14:01 UTC 2018: Working
+Wed May 16 01:14:03 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.encoding.BasePasswordEncoderTests
+Wed May 16 01:14:03 UTC 2018: Setting lastTestMethodIndex: 54726
+Wed May 16 01:14:03 UTC 2018: Starting linking
+Wed May 16 01:14:03 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.encoding.BasePasswordEncoderTests
+Wed May 16 01:14:04 UTC 2018: Found element on the queue
+Wed May 16 01:14:04 UTC 2018: Updating status
+Wed May 16 01:14:04 UTC 2018: Working
+Wed May 16 01:14:06 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.TestingAuthenticationProviderTests
+Wed May 16 01:14:06 UTC 2018: Setting lastTestMethodIndex: 54728
+Wed May 16 01:14:06 UTC 2018: Starting linking
+Wed May 16 01:14:06 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.TestingAuthenticationProviderTests
+Wed May 16 01:14:07 UTC 2018: Found element on the queue
+Wed May 16 01:14:07 UTC 2018: Updating status
+Wed May 16 01:14:07 UTC 2018: Working
+Wed May 16 01:14:09 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.annotation.Jsr250MethodDefinitionSourceTests
+Wed May 16 01:14:09 UTC 2018: Setting lastTestMethodIndex: 54730
+Wed May 16 01:14:09 UTC 2018: Starting linking
+Wed May 16 01:14:09 UTC 2018: No link for: org.springframework.security.access.annotation.Jsr250MethodDefinitionSourceTests-noRoleMethodHasNoAttributes
+Wed May 16 01:14:10 UTC 2018: No link for: org.springframework.security.access.annotation.Jsr250MethodDefinitionSourceTests-permitAllMethodHasPermitAllAttribute
+Wed May 16 01:14:10 UTC 2018: No link for: org.springframework.security.access.annotation.Jsr250MethodDefinitionSourceTests-methodWithRolesAllowedHasCorrectAttribute
+Wed May 16 01:14:10 UTC 2018: No link for: org.springframework.security.access.annotation.Jsr250MethodDefinitionSourceTests-classRoleIsAppliedToNoRoleMethod
+Wed May 16 01:14:11 UTC 2018: No link for: org.springframework.security.access.annotation.Jsr250MethodDefinitionSourceTests-methodRoleOverridesClassRole
+Wed May 16 01:14:11 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.annotation.Jsr250MethodDefinitionSourceTests
+Wed May 16 01:14:11 UTC 2018: Found element on the queue
+Wed May 16 01:14:11 UTC 2018: Updating status
+Wed May 16 01:14:11 UTC 2018: Working
+Wed May 16 01:14:14 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.userdetails.UserDetailsByNameServiceWrapperTests
+Wed May 16 01:14:14 UTC 2018: Setting lastTestMethodIndex: 54734
+Wed May 16 01:14:14 UTC 2018: Starting linking
+Wed May 16 01:14:14 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.userdetails.UserDetailsByNameServiceWrapperTests
+Wed May 16 01:14:14 UTC 2018: Found element on the queue
+Wed May 16 01:14:14 UTC 2018: Updating status
+Wed May 16 01:14:14 UTC 2018: Working
+Wed May 16 01:14:17 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.intercept.NullRunAsManagerTests
+Wed May 16 01:14:17 UTC 2018: Setting lastTestMethodIndex: 54736
+Wed May 16 01:14:17 UTC 2018: Starting linking
+Wed May 16 01:14:17 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.intercept.NullRunAsManagerTests
+Wed May 16 01:14:17 UTC 2018: Found element on the queue
+Wed May 16 01:14:17 UTC 2018: Updating status
+Wed May 16 01:14:17 UTC 2018: Working
+Wed May 16 01:14:20 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.authority.AuthorityUtilsTests
+Wed May 16 01:14:20 UTC 2018: Setting lastTestMethodIndex: 54739
+Wed May 16 01:14:20 UTC 2018: Starting linking
+Wed May 16 01:14:20 UTC 2018: No link for: org.springframework.security.core.authority.AuthorityUtilsTests-commaSeparatedStringIsParsedCorrectly
+Wed May 16 01:14:20 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.authority.AuthorityUtilsTests
+Wed May 16 01:14:21 UTC 2018: Found element on the queue
+Wed May 16 01:14:21 UTC 2018: Updating status
+Wed May 16 01:14:21 UTC 2018: Working
+Wed May 16 01:14:23 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.userdetails.memory.UserAttributeEditorTests
+Wed May 16 01:14:23 UTC 2018: Setting lastTestMethodIndex: 54741
+Wed May 16 01:14:23 UTC 2018: Starting linking
+Wed May 16 01:14:23 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.userdetails.memory.UserAttributeEditorTests
+Wed May 16 01:14:24 UTC 2018: Found element on the queue
+Wed May 16 01:14:24 UTC 2018: Updating status
+Wed May 16 01:14:24 UTC 2018: Working
+Wed May 16 01:14:26 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.intercept.RunAsManagerImplTests
+Wed May 16 01:14:26 UTC 2018: Setting lastTestMethodIndex: 54743
+Wed May 16 01:14:26 UTC 2018: Starting linking
+Wed May 16 01:14:26 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.intercept.RunAsManagerImplTests
+Wed May 16 01:14:27 UTC 2018: Found element on the queue
+Wed May 16 01:14:27 UTC 2018: Updating status
+Wed May 16 01:14:27 UTC 2018: Working
+Wed May 16 01:14:29 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.dao.DaoAuthenticationProviderTests
+Wed May 16 01:14:29 UTC 2018: Setting lastTestMethodIndex: 54746
+Wed May 16 01:14:29 UTC 2018: Starting linking
+Wed May 16 01:14:29 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.dao.DaoAuthenticationProviderTests
+Wed May 16 01:14:30 UTC 2018: Found element on the queue
+Wed May 16 01:14:30 UTC 2018: Updating status
+Wed May 16 01:14:30 UTC 2018: Working
+Wed May 16 01:14:32 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.dao.salt.SystemWideSaltSourceTests
+Wed May 16 01:14:32 UTC 2018: Setting lastTestMethodIndex: 54749
+Wed May 16 01:14:32 UTC 2018: Starting linking
+Wed May 16 01:14:32 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.dao.salt.SystemWideSaltSourceTests
+Wed May 16 01:14:33 UTC 2018: Found element on the queue
+Wed May 16 01:14:33 UTC 2018: Updating status
+Wed May 16 01:14:33 UTC 2018: Working
+Wed May 16 01:14:35 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.AuthenticationDetailsSourceImplTests
+Wed May 16 01:14:35 UTC 2018: Setting lastTestMethodIndex: 54752
+Wed May 16 01:14:35 UTC 2018: Starting linking
+Wed May 16 01:14:35 UTC 2018: Code found org.springframework.security.authentication.AuthenticationDetailsSourceImpl-buildDetails with org.springframework.security.authentication.AuthenticationDetailsSourceImplTests-buildDetailsReturnsExpectedAuthenticationDetails
+Wed May 16 01:14:36 UTC 2018: No link for: org.springframework.security.authentication.AuthenticationDetailsSourceImplTests-nonMatchingConstructorIsRejected
+Wed May 16 01:14:36 UTC 2018: No link for: org.springframework.security.authentication.AuthenticationDetailsSourceImplTests-constructorTakingMultipleArgumentsIsRejected
+Wed May 16 01:14:36 UTC 2018: No link for: org.springframework.security.authentication.AuthenticationDetailsSourceImplTests-authenticationDetailsEqualsBehavesAsExpected
+Wed May 16 01:14:37 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.AuthenticationDetailsSourceImplTests
+Wed May 16 01:14:37 UTC 2018: Found element on the queue
+Wed May 16 01:14:37 UTC 2018: Updating status
+Wed May 16 01:14:37 UTC 2018: Working
+Wed May 16 01:14:40 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.userdetails.UserTests
+Wed May 16 01:14:40 UTC 2018: Setting lastTestMethodIndex: 54756
+Wed May 16 01:14:40 UTC 2018: Starting linking
+Wed May 16 01:14:40 UTC 2018: Code found org.springframework.security.core.userdetails.User-isEnabled with org.springframework.security.core.userdetails.UserTests-testUserIsEnabled
+Wed May 16 01:14:40 UTC 2018: Code found org.springframework.security.core.userdetails.User-equals with org.springframework.security.core.userdetails.UserTests-testEquals
+Wed May 16 01:14:40 UTC 2018: No link for: org.springframework.security.core.userdetails.UserTests-testUserGettersSetter
+Wed May 16 01:14:41 UTC 2018: No link for: org.springframework.security.core.userdetails.UserTests-testNullValuesRejected
+Wed May 16 01:14:41 UTC 2018: No link for: org.springframework.security.core.userdetails.UserTests-useIsSerializable
+Wed May 16 01:14:42 UTC 2018: No link for: org.springframework.security.core.userdetails.UserTests-testNullWithinGrantedAuthorityElementIsRejected
+Wed May 16 01:14:42 UTC 2018: No link for: org.springframework.security.core.userdetails.UserTests-testNoArgConstructorDoesntExist
+Wed May 16 01:14:42 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.userdetails.UserTests
+Wed May 16 01:14:43 UTC 2018: Found element on the queue
+Wed May 16 01:14:43 UTC 2018: Updating status
+Wed May 16 01:14:43 UTC 2018: Working
+Wed May 16 01:14:45 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.AuthorizedEventTests
+Wed May 16 01:14:45 UTC 2018: Setting lastTestMethodIndex: 54760
+Wed May 16 01:14:45 UTC 2018: Starting linking
+Wed May 16 01:14:45 UTC 2018: No link for: org.springframework.security.access.AuthorizedEventTests-testRejectsNulls
+Wed May 16 01:14:46 UTC 2018: No link for: org.springframework.security.access.AuthorizedEventTests-testRejectsNulls3
+Wed May 16 01:14:46 UTC 2018: No link for: org.springframework.security.access.AuthorizedEventTests-testRejectsNulls2
+Wed May 16 01:14:46 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.AuthorizedEventTests
+Wed May 16 01:14:47 UTC 2018: Found element on the queue
+Wed May 16 01:14:47 UTC 2018: Updating status
+Wed May 16 01:14:47 UTC 2018: Working
+Wed May 16 01:14:49 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.vote.AuthenticatedVoterTests
+Wed May 16 01:14:49 UTC 2018: Setting lastTestMethodIndex: 54762
+Wed May 16 01:14:49 UTC 2018: Starting linking
+Wed May 16 01:14:49 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.vote.AuthenticatedVoterTests
+Wed May 16 01:14:50 UTC 2018: Found element on the queue
+Wed May 16 01:14:50 UTC 2018: Updating status
+Wed May 16 01:14:50 UTC 2018: Working
+Wed May 16 01:14:52 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.encoding.ShaPasswordEncoderTests
+Wed May 16 01:14:52 UTC 2018: Setting lastTestMethodIndex: 54765
+Wed May 16 01:14:52 UTC 2018: Starting linking
+Wed May 16 01:14:52 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.encoding.ShaPasswordEncoderTests
+Wed May 16 01:14:53 UTC 2018: Found element on the queue
+Wed May 16 01:14:53 UTC 2018: Updating status
+Wed May 16 01:14:53 UTC 2018: Working
+Wed May 16 01:14:55 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.rememberme.RememberMeAuthenticationTokenTests
+Wed May 16 01:14:55 UTC 2018: Setting lastTestMethodIndex: 54767
+Wed May 16 01:14:55 UTC 2018: Starting linking
+Wed May 16 01:14:55 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.rememberme.RememberMeAuthenticationTokenTests
+Wed May 16 01:14:56 UTC 2018: Found element on the queue
+Wed May 16 01:14:56 UTC 2018: Updating status
+Wed May 16 01:14:56 UTC 2018: Working
+Wed May 16 01:14:58 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.authority.mapping.SimpleMappableRolesRetrieverTests
+Wed May 16 01:14:58 UTC 2018: Setting lastTestMethodIndex: 54770
+Wed May 16 01:14:58 UTC 2018: Starting linking
+Wed May 16 01:14:58 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.authority.mapping.SimpleMappableRolesRetrieverTests
+Wed May 16 01:14:59 UTC 2018: Found element on the queue
+Wed May 16 01:14:59 UTC 2018: Updating status
+Wed May 16 01:14:59 UTC 2018: Working
+Wed May 16 01:15:01 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.SpringSecurityMessageSourceTests
+Wed May 16 01:15:01 UTC 2018: Setting lastTestMethodIndex: 54773
+Wed May 16 01:15:01 UTC 2018: Starting linking
+Wed May 16 01:15:01 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.SpringSecurityMessageSourceTests
+Wed May 16 01:15:02 UTC 2018: Found element on the queue
+Wed May 16 01:15:02 UTC 2018: Updating status
+Wed May 16 01:15:02 UTC 2018: Working
+Wed May 16 01:15:04 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.encoding.Md4PasswordEncoderTests
+Wed May 16 01:15:04 UTC 2018: Setting lastTestMethodIndex: 54775
+Wed May 16 01:15:04 UTC 2018: Starting linking
+Wed May 16 01:15:04 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.encoding.Md4PasswordEncoderTests
+Wed May 16 01:15:05 UTC 2018: Found element on the queue
+Wed May 16 01:15:05 UTC 2018: Updating status
+Wed May 16 01:15:05 UTC 2018: Working
+Wed May 16 01:15:07 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.context.SecurityContextImplTests
+Wed May 16 01:15:07 UTC 2018: Setting lastTestMethodIndex: 54778
+Wed May 16 01:15:07 UTC 2018: Starting linking
+Wed May 16 01:15:07 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.context.SecurityContextImplTests
+Wed May 16 01:15:08 UTC 2018: Found element on the queue
+Wed May 16 01:15:08 UTC 2018: Updating status
+Wed May 16 01:15:08 UTC 2018: Working
+Wed May 16 01:15:10 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.AuthenticationCredentialsNotFoundEventTests
+Wed May 16 01:15:10 UTC 2018: Setting lastTestMethodIndex: 54781
+Wed May 16 01:15:10 UTC 2018: Starting linking
+Wed May 16 01:15:10 UTC 2018: No link for: org.springframework.security.access.AuthenticationCredentialsNotFoundEventTests-testRejectsNulls2
+Wed May 16 01:15:10 UTC 2018: No link for: org.springframework.security.access.AuthenticationCredentialsNotFoundEventTests-testRejectsNulls3
+Wed May 16 01:15:10 UTC 2018: No link for: org.springframework.security.access.AuthenticationCredentialsNotFoundEventTests-testRejectsNulls
+Wed May 16 01:15:11 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.AuthenticationCredentialsNotFoundEventTests
+Wed May 16 01:15:11 UTC 2018: Found element on the queue
+Wed May 16 01:15:11 UTC 2018: Updating status
+Wed May 16 01:15:11 UTC 2018: Working
+Wed May 16 01:15:14 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.token.SecureRandomFactoryBeanTests
+Wed May 16 01:15:14 UTC 2018: Setting lastTestMethodIndex: 54785
+Wed May 16 01:15:14 UTC 2018: Starting linking
+Wed May 16 01:15:14 UTC 2018: Code found org.springframework.security.core.token.SecureRandomFactoryBean-isSingleton with org.springframework.security.core.token.SecureRandomFactoryBeanTests-testIsSingleton
+Wed May 16 01:15:14 UTC 2018: No link for: org.springframework.security.core.token.SecureRandomFactoryBeanTests-testObjectType
+Wed May 16 01:15:15 UTC 2018: No link for: org.springframework.security.core.token.SecureRandomFactoryBeanTests-testCreatesUsingSeed
+Wed May 16 01:15:15 UTC 2018: No link for: org.springframework.security.core.token.SecureRandomFactoryBeanTests-testCreatesUsingDefaults
+Wed May 16 01:15:15 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.token.SecureRandomFactoryBeanTests
+Wed May 16 01:15:16 UTC 2018: Found element on the queue
+Wed May 16 01:15:16 UTC 2018: Updating status
+Wed May 16 01:15:16 UTC 2018: Working
+Wed May 16 01:15:18 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.token.DefaultTokenTests
+Wed May 16 01:15:18 UTC 2018: Setting lastTestMethodIndex: 54788
+Wed May 16 01:15:18 UTC 2018: Starting linking
+Wed May 16 01:15:18 UTC 2018: No link for: org.springframework.security.core.token.DefaultTokenTests-testEquality
+Wed May 16 01:15:18 UTC 2018: No link for: org.springframework.security.core.token.DefaultTokenTests-testRejectsNullExtendedInformation
+Wed May 16 01:15:19 UTC 2018: No link for: org.springframework.security.core.token.DefaultTokenTests-testEqualityWithDifferentExtendedInformation3
+Wed May 16 01:15:19 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.token.DefaultTokenTests
+Wed May 16 01:15:20 UTC 2018: Found element on the queue
+Wed May 16 01:15:20 UTC 2018: Updating status
+Wed May 16 01:15:20 UTC 2018: Working
+Wed May 16 01:15:22 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.token.KeyBasedPersistenceTokenServiceTests
+Wed May 16 01:15:22 UTC 2018: Setting lastTestMethodIndex: 54792
+Wed May 16 01:15:22 UTC 2018: Starting linking
+Wed May 16 01:15:22 UTC 2018: No link for: org.springframework.security.core.token.KeyBasedPersistenceTokenServiceTests-testOperationWithTamperedKey
+Wed May 16 01:15:22 UTC 2018: No link for: org.springframework.security.core.token.KeyBasedPersistenceTokenServiceTests-testOperationWithEmptyRandomNumber
+Wed May 16 01:15:23 UTC 2018: No link for: org.springframework.security.core.token.KeyBasedPersistenceTokenServiceTests-testOperationWithNoExtendedInformation
+Wed May 16 01:15:23 UTC 2018: No link for: org.springframework.security.core.token.KeyBasedPersistenceTokenServiceTests-testOperationWithComplexExtendedInformation
+Wed May 16 01:15:23 UTC 2018: No link for: org.springframework.security.core.token.KeyBasedPersistenceTokenServiceTests-testOperationWithSimpleExtendedInformation
+Wed May 16 01:15:24 UTC 2018: No link for: org.springframework.security.core.token.KeyBasedPersistenceTokenServiceTests-testOperationWithMissingKey
+Wed May 16 01:15:24 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.token.KeyBasedPersistenceTokenServiceTests
+Wed May 16 01:15:25 UTC 2018: Found element on the queue
+Wed May 16 01:15:25 UTC 2018: Updating status
+Wed May 16 01:15:25 UTC 2018: Working
+Wed May 16 01:15:27 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.core.context.SecurityContextHolderTests
+Wed May 16 01:15:27 UTC 2018: Setting lastTestMethodIndex: 54794
+Wed May 16 01:15:27 UTC 2018: Starting linking
+Wed May 16 01:15:27 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.core.context.SecurityContextHolderTests
+Wed May 16 01:15:27 UTC 2018: Found element on the queue
+Wed May 16 01:15:27 UTC 2018: Updating status
+Wed May 16 01:15:27 UTC 2018: Working
+Wed May 16 01:15:30 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.access.SecurityConfigTests
+Wed May 16 01:15:30 UTC 2018: Setting lastTestMethodIndex: 54797
+Wed May 16 01:15:30 UTC 2018: Starting linking
+Wed May 16 01:15:30 UTC 2018: Code found org.springframework.security.access.SecurityConfig-hashCode with org.springframework.security.access.SecurityConfigTests-testHashCode
+Wed May 16 01:15:30 UTC 2018: Code found org.springframework.security.access.SecurityConfig-equals with org.springframework.security.access.SecurityConfigTests-testObjectEquals
+Wed May 16 01:15:31 UTC 2018: Code found org.springframework.security.access.SecurityConfig-toString with org.springframework.security.access.SecurityConfigTests-testToString
+Wed May 16 01:15:31 UTC 2018: No link for: org.springframework.security.access.SecurityConfigTests-testCannotConstructWithEmptyAttribute
+Wed May 16 01:15:31 UTC 2018: No link for: org.springframework.security.access.SecurityConfigTests-testNoArgConstructorDoesntExist
+Wed May 16 01:15:32 UTC 2018: No link for: org.springframework.security.access.SecurityConfigTests-testCannotConstructWithNullAttribute
+Wed May 16 01:15:32 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.access.SecurityConfigTests
+Wed May 16 01:15:32 UTC 2018: Found element on the queue
+Wed May 16 01:15:32 UTC 2018: Updating status
+Wed May 16 01:15:32 UTC 2018: Working
+Wed May 16 01:15:35 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.authentication.dao.salt.ReflectionSaltSourceTests
+Wed May 16 01:15:35 UTC 2018: Setting lastTestMethodIndex: 54801
+Wed May 16 01:15:35 UTC 2018: Starting linking
+Wed May 16 01:15:35 UTC 2018: No link for: org.springframework.security.authentication.dao.salt.ReflectionSaltSourceTests-exceptionIsThrownWhenInvalidPropertyRequested
+Wed May 16 01:15:35 UTC 2018: No link for: org.springframework.security.authentication.dao.salt.ReflectionSaltSourceTests-detectsMissingUserPropertyToUse
+Wed May 16 01:15:36 UTC 2018: No link for: org.springframework.security.authentication.dao.salt.ReflectionSaltSourceTests-methodNameAsPropertyToUseReturnsCorrectSaltValue
+Wed May 16 01:15:36 UTC 2018: No link for: org.springframework.security.authentication.dao.salt.ReflectionSaltSourceTests-propertyNameAsPropertyToUseReturnsCorrectSaltValue
+Wed May 16 01:15:36 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.authentication.dao.salt.ReflectionSaltSourceTests
+Wed May 16 01:15:37 UTC 2018: Found element on the queue
+Wed May 16 01:15:37 UTC 2018: Updating status
+Wed May 16 01:15:37 UTC 2018: Working
+Wed May 16 01:15:37 UTC 2018: Create project parser
+Wed May 16 01:15:40 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.ldap.populator.UserDetailsServiceLdapAuthoritiesPopulatorTests
+Wed May 16 01:15:40 UTC 2018: Setting lastTestMethodIndex: 54804
+Wed May 16 01:15:40 UTC 2018: Starting linking
+Wed May 16 01:15:40 UTC 2018: No link for: org.springframework.security.ldap.populator.UserDetailsServiceLdapAuthoritiesPopulatorTests-delegationToUserDetailsServiceReturnsCorrectRoles
+Wed May 16 01:15:40 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.ldap.populator.UserDetailsServiceLdapAuthoritiesPopulatorTests
+Wed May 16 01:15:41 UTC 2018: Found element on the queue
+Wed May 16 01:15:41 UTC 2018: Updating status
+Wed May 16 01:15:41 UTC 2018: Working
+Wed May 16 01:15:43 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests
+Wed May 16 01:15:43 UTC 2018: Setting lastTestMethodIndex: 54807
+Wed May 16 01:15:43 UTC 2018: Starting linking
+Wed May 16 01:15:43 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-invalidSaltedPasswordFails
+Wed May 16 01:15:43 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-validSaltedPasswordSucceeds
+Wed May 16 01:15:44 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-correctPrefixCaseIsUsed
+Wed May 16 01:15:44 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-nonByteArraySaltThrowsException
+Wed May 16 01:15:44 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-fullLengthOfHashIsUsedInComparison
+Wed May 16 01:15:45 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-invalidPasswordFails
+Wed May 16 01:15:45 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-invalidPrefixIsRejected
+Wed May 16 01:15:45 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-malformedPrefixIsRejected
+Wed May 16 01:15:46 UTC 2018: No link for: org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests-validPasswordSucceeds
+Wed May 16 01:15:46 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.ldap.authentication.LdapShaPasswordEncoderTests
+Wed May 16 01:15:47 UTC 2018: Found element on the queue
+Wed May 16 01:15:47 UTC 2018: Updating status
+Wed May 16 01:15:47 UTC 2018: Working
+Wed May 16 01:15:49 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.ldap.server.ApacheDSContainerTests
+Wed May 16 01:15:49 UTC 2018: Setting lastTestMethodIndex: 54812
+Wed May 16 01:15:49 UTC 2018: Starting linking
+Wed May 16 01:15:49 UTC 2018: No link for: org.springframework.security.ldap.server.ApacheDSContainerTests-successfulStartupAndShutdown
+Wed May 16 01:15:49 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.ldap.server.ApacheDSContainerTests
+Wed May 16 01:15:50 UTC 2018: Found element on the queue
+Wed May 16 01:15:50 UTC 2018: Updating status
+Wed May 16 01:15:50 UTC 2018: Working
+Wed May 16 01:15:52 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.ldap.userdetails.InetOrgPersonTests
+Wed May 16 01:15:52 UTC 2018: Setting lastTestMethodIndex: 54815
+Wed May 16 01:15:52 UTC 2018: Starting linking
+Wed May 16 01:15:52 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.ldap.userdetails.InetOrgPersonTests
+Wed May 16 01:15:53 UTC 2018: Found element on the queue
+Wed May 16 01:15:53 UTC 2018: Updating status
+Wed May 16 01:15:53 UTC 2018: Working
+Wed May 16 01:15:53 UTC 2018: Create project parser
+Wed May 16 01:15:56 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.openid.OpenIDAuthenticationFilterTests
+Wed May 16 01:15:56 UTC 2018: Setting lastTestMethodIndex: 54818
+Wed May 16 01:15:56 UTC 2018: Starting linking
+Wed May 16 01:15:56 UTC 2018: No link for: org.springframework.security.openid.OpenIDAuthenticationFilterTests-testFilterOperation
+Wed May 16 01:15:56 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.openid.OpenIDAuthenticationFilterTests
+Wed May 16 01:15:56 UTC 2018: Found element on the queue
+Wed May 16 01:15:56 UTC 2018: Updating status
+Wed May 16 01:15:56 UTC 2018: Working
+Wed May 16 01:15:59 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.openid.OpenIDAuthenticationProviderTests
+Wed May 16 01:15:59 UTC 2018: Setting lastTestMethodIndex: 54820
+Wed May 16 01:15:59 UTC 2018: Starting linking
+Wed May 16 01:15:59 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.openid.OpenIDAuthenticationProviderTests
+Wed May 16 01:16:00 UTC 2018: Found element on the queue
+Wed May 16 01:16:00 UTC 2018: Updating status
+Wed May 16 01:16:00 UTC 2018: Working
+Wed May 16 01:16:00 UTC 2018: Create project parser
+Wed May 16 01:16:02 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthorizeTagExpressionLanguageTests
+Wed May 16 01:16:02 UTC 2018: Setting lastTestMethodIndex: 54823
+Wed May 16 01:16:02 UTC 2018: Starting linking
+Wed May 16 01:16:02 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthorizeTagExpressionLanguageTests
+Wed May 16 01:16:03 UTC 2018: Found element on the queue
+Wed May 16 01:16:03 UTC 2018: Updating status
+Wed May 16 01:16:03 UTC 2018: Working
+Wed May 16 01:16:05 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthenticationTagTests
+Wed May 16 01:16:05 UTC 2018: Setting lastTestMethodIndex: 54826
+Wed May 16 01:16:05 UTC 2018: Starting linking
+Wed May 16 01:16:05 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthenticationTagTests
+Wed May 16 01:16:06 UTC 2018: Found element on the queue
+Wed May 16 01:16:06 UTC 2018: Updating status
+Wed May 16 01:16:06 UTC 2018: Working
+Wed May 16 01:16:08 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.taglibs.velocity.AuthzImplTests
+Wed May 16 01:16:08 UTC 2018: Setting lastTestMethodIndex: 54828
+Wed May 16 01:16:08 UTC 2018: Starting linking
+Wed May 16 01:16:08 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.taglibs.velocity.AuthzImplTests
+Wed May 16 01:16:08 UTC 2018: Found element on the queue
+Wed May 16 01:16:08 UTC 2018: Updating status
+Wed May 16 01:16:08 UTC 2018: Working
+Wed May 16 01:16:11 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthorizeTagTests
+Wed May 16 01:16:11 UTC 2018: Setting lastTestMethodIndex: 54830
+Wed May 16 01:16:11 UTC 2018: Starting linking
+Wed May 16 01:16:11 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-evaluatesBodyIfUrlIsAllowed
+Wed May 16 01:16:11 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testSkipsBodyWhenMissingAnAllGranted
+Wed May 16 01:16:12 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-skipsBodyIfAccessExpressionDeniesAccess
+Wed May 16 01:16:12 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-skipsBodyWithUrlSetIfNoAuthenticationPresent
+Wed May 16 01:16:12 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testPreventsBodyOutputIfNoSecurityContext
+Wed May 16 01:16:13 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-skipsBodyIfUrlIsNotAllowed
+Wed May 16 01:16:13 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testDefaultsToNotOutputtingBodyWhenNoRequiredAuthorities
+Wed May 16 01:16:13 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testOutputsBodyIfOneRolePresent
+Wed May 16 01:16:14 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testAlwaysReturnsUnauthorizedIfNoUserFound
+Wed May 16 01:16:14 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testOutputsBodyWhenAllGranted
+Wed May 16 01:16:14 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testSkipsBodyIfNoAnyRolePresent
+Wed May 16 01:16:15 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testSkipsBodyWhenNotGrantedUnsatisfied
+Wed May 16 01:16:15 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-showsBodyIfAccessExpressionAllowsAccess
+Wed May 16 01:16:15 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-skipsBodyIfMethodIsNotAllowed
+Wed May 16 01:16:16 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-testOutputsBodyWhenNotGrantedSatisfied
+Wed May 16 01:16:16 UTC 2018: No link for: org.springframework.security.taglibs.authz.AuthorizeTagTests-skipsBodyIfNoAuthenticationPresent
+Wed May 16 01:16:16 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthorizeTagTests
+Wed May 16 01:16:17 UTC 2018: Found element on the queue
+Wed May 16 01:16:17 UTC 2018: Updating status
+Wed May 16 01:16:17 UTC 2018: Working
+Wed May 16 01:16:19 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthorizeTagCustomGrantedAuthorityTests
+Wed May 16 01:16:19 UTC 2018: Setting lastTestMethodIndex: 54837
+Wed May 16 01:16:19 UTC 2018: Starting linking
+Wed May 16 01:16:19 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthorizeTagCustomGrantedAuthorityTests
+Wed May 16 01:16:20 UTC 2018: Found element on the queue
+Wed May 16 01:16:20 UTC 2018: Updating status
+Wed May 16 01:16:20 UTC 2018: Working
+Wed May 16 01:16:22 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthorizeTagAttributeTests
+Wed May 16 01:16:22 UTC 2018: Setting lastTestMethodIndex: 54840
+Wed May 16 01:16:22 UTC 2018: Starting linking
+Wed May 16 01:16:22 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.taglibs.authz.AuthorizeTagAttributeTests
+Wed May 16 01:16:22 UTC 2018: Found element on the queue
+Wed May 16 01:16:22 UTC 2018: Updating status
+Wed May 16 01:16:22 UTC 2018: Working
+Wed May 16 01:16:25 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.taglibs.authz.AccessControlListTagTests
+Wed May 16 01:16:25 UTC 2018: Setting lastTestMethodIndex: 54842
+Wed May 16 01:16:25 UTC 2018: Starting linking
+Wed May 16 01:16:25 UTC 2018: No link for: org.springframework.security.taglibs.authz.AccessControlListTagTests-bodyIsEvaluatedIfAclGrantsAccess
+Wed May 16 01:16:25 UTC 2018: No link for: org.springframework.security.taglibs.authz.AccessControlListTagTests-bodyIsSkippedIfAclDeniesAccess
+Wed May 16 01:16:26 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.taglibs.authz.AccessControlListTagTests
+Wed May 16 01:16:26 UTC 2018: Found element on the queue
+Wed May 16 01:16:26 UTC 2018: Updating status
+Wed May 16 01:16:26 UTC 2018: Working
+Wed May 16 01:16:26 UTC 2018: Create project parser
+Wed May 16 01:16:31 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.util.ThrowableAnalyzerTests
+Wed May 16 01:16:31 UTC 2018: Setting lastTestMethodIndex: 54847
+Wed May 16 01:16:31 UTC 2018: Starting linking
+Wed May 16 01:16:31 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.util.ThrowableAnalyzerTests
+Wed May 16 01:16:31 UTC 2018: Found element on the queue
+Wed May 16 01:16:31 UTC 2018: Updating status
+Wed May 16 01:16:31 UTC 2018: Working
+Wed May 16 01:16:34 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.expression.WebSecurityExpressionRootTests
+Wed May 16 01:16:34 UTC 2018: Setting lastTestMethodIndex: 54850
+Wed May 16 01:16:34 UTC 2018: Starting linking
+Wed May 16 01:16:34 UTC 2018: No link for: org.springframework.security.web.access.expression.WebSecurityExpressionRootTests-addressesInIpRangeMatch
+Wed May 16 01:16:34 UTC 2018: No link for: org.springframework.security.web.access.expression.WebSecurityExpressionRootTests-ipAddressMatchesForEqualIpAddresses
+Wed May 16 01:16:35 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.expression.WebSecurityExpressionRootTests
+Wed May 16 01:16:35 UTC 2018: Found element on the queue
+Wed May 16 01:16:35 UTC 2018: Updating status
+Wed May 16 01:16:35 UTC 2018: Working
+Wed May 16 01:16:37 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.intercept.FilterSecurityInterceptorTests
+Wed May 16 01:16:37 UTC 2018: Setting lastTestMethodIndex: 54853
+Wed May 16 01:16:37 UTC 2018: Starting linking
+Wed May 16 01:16:37 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterSecurityInterceptorTests-testSuccessfulInvocation
+Wed May 16 01:16:38 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterSecurityInterceptorTests-testEnsuresRunAsManagerSupportsFilterInvocationClass
+Wed May 16 01:16:38 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterSecurityInterceptorTests-testEnsuresAccessDecisionManagerSupportsFilterInvocationClass
+Wed May 16 01:16:39 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.intercept.FilterSecurityInterceptorTests
+Wed May 16 01:16:39 UTC 2018: Found element on the queue
+Wed May 16 01:16:39 UTC 2018: Updating status
+Wed May 16 01:16:39 UTC 2018: Working
+Wed May 16 01:16:42 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.j2ee.J2eeBasedPreAuthenticatedWebAuthenticationDetailsSourceTests
+Wed May 16 01:16:42 UTC 2018: Setting lastTestMethodIndex: 54854
+Wed May 16 01:16:42 UTC 2018: Starting linking
+Wed May 16 01:16:42 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.j2ee.J2eeBasedPreAuthenticatedWebAuthenticationDetailsSourceTests
+Wed May 16 01:16:42 UTC 2018: Found element on the queue
+Wed May 16 01:16:42 UTC 2018: Updating status
+Wed May 16 01:16:42 UTC 2018: Working
+Wed May 16 01:16:45 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.www.DigestAuthenticationEntryPointTests
+Wed May 16 01:16:45 UTC 2018: Setting lastTestMethodIndex: 54857
+Wed May 16 01:16:45 UTC 2018: Starting linking
+Wed May 16 01:16:45 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.www.DigestAuthenticationEntryPointTests
+Wed May 16 01:16:45 UTC 2018: Found element on the queue
+Wed May 16 01:16:45 UTC 2018: Updating status
+Wed May 16 01:16:45 UTC 2018: Working
+Wed May 16 01:16:48 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.savedrequest.DefaultSavedRequestTests
+Wed May 16 01:16:48 UTC 2018: Setting lastTestMethodIndex: 54859
+Wed May 16 01:16:48 UTC 2018: Starting linking
+Wed May 16 01:16:48 UTC 2018: No link for: org.springframework.security.web.savedrequest.DefaultSavedRequestTests-headersAreCaseInsensitive
+Wed May 16 01:16:48 UTC 2018: No link for: org.springframework.security.web.savedrequest.DefaultSavedRequestTests-parametersAreCaseInsensitive
+Wed May 16 01:16:48 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.savedrequest.DefaultSavedRequestTests
+Wed May 16 01:16:49 UTC 2018: Found element on the queue
+Wed May 16 01:16:49 UTC 2018: Updating status
+Wed May 16 01:16:49 UTC 2018: Working
+Wed May 16 01:16:51 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.session.SessionManagementFilterTests
+Wed May 16 01:16:51 UTC 2018: Setting lastTestMethodIndex: 54861
+Wed May 16 01:16:51 UTC 2018: Starting linking
+Wed May 16 01:16:51 UTC 2018: No link for: org.springframework.security.web.session.SessionManagementFilterTests-newSessionShouldNotBeCreatedIfSessionExistsAndUserIsNotAuthenticated
+Wed May 16 01:16:52 UTC 2018: No link for: org.springframework.security.web.session.SessionManagementFilterTests-strategyIsInvokedIfUserIsNewlyAuthenticated
+Wed May 16 01:16:52 UTC 2018: No link for: org.springframework.security.web.session.SessionManagementFilterTests-strategyIsNotInvokedIfSecurityContextAlreadyExistsForRequest
+Wed May 16 01:16:52 UTC 2018: No link for: org.springframework.security.web.session.SessionManagementFilterTests-responseIsRedirectedToTimeoutUrlIfSetAndSessionIsInvalid
+Wed May 16 01:16:53 UTC 2018: No link for: org.springframework.security.web.session.SessionManagementFilterTests-strategyFailureInvokesFailureHandler
+Wed May 16 01:16:53 UTC 2018: No link for: org.springframework.security.web.session.SessionManagementFilterTests-strategyIsNotInvokedIfAuthenticationIsNull
+Wed May 16 01:16:53 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.session.SessionManagementFilterTests
+Wed May 16 01:16:54 UTC 2018: Found element on the queue
+Wed May 16 01:16:54 UTC 2018: Updating status
+Wed May 16 01:16:54 UTC 2018: Working
+Wed May 16 01:16:56 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.context.SecurityContextPersistenceFilterTests
+Wed May 16 01:16:56 UTC 2018: Setting lastTestMethodIndex: 54866
+Wed May 16 01:16:56 UTC 2018: Starting linking
+Wed May 16 01:16:56 UTC 2018: No link for: org.springframework.security.web.context.SecurityContextPersistenceFilterTests-filterIsNotAppliedAgainIfFilterAppliedAttributeIsSet
+Wed May 16 01:16:57 UTC 2018: No link for: org.springframework.security.web.context.SecurityContextPersistenceFilterTests-contextIsClearedAfterChainProceeds
+Wed May 16 01:16:57 UTC 2018: No link for: org.springframework.security.web.context.SecurityContextPersistenceFilterTests-loadedContextContextIsCopiedToSecurityContextHolderAndUpdatedContextIsStored
+Wed May 16 01:16:58 UTC 2018: No link for: org.springframework.security.web.context.SecurityContextPersistenceFilterTests-contextIsStillClearedIfExceptionIsThrowByFilterChain
+Wed May 16 01:16:58 UTC 2018: No link for: org.springframework.security.web.context.SecurityContextPersistenceFilterTests-sessionIsEagerlyCreatedWhenConfigured
+Wed May 16 01:16:58 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.context.SecurityContextPersistenceFilterTests
+Wed May 16 01:16:59 UTC 2018: Found element on the queue
+Wed May 16 01:16:59 UTC 2018: Updating status
+Wed May 16 01:16:59 UTC 2018: Working
+Wed May 16 01:17:01 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.AnonymousAuthenticationFilterTests
+Wed May 16 01:17:01 UTC 2018: Setting lastTestMethodIndex: 54870
+Wed May 16 01:17:01 UTC 2018: Starting linking
+Wed May 16 01:17:01 UTC 2018: No link for: org.springframework.security.web.authentication.AnonymousAuthenticationFilterTests-testDetectsMissingKey
+Wed May 16 01:17:01 UTC 2018: No link for: org.springframework.security.web.authentication.AnonymousAuthenticationFilterTests-testOperationWhenAuthenticationExistsInContextHolder
+Wed May 16 01:17:02 UTC 2018: No link for: org.springframework.security.web.authentication.AnonymousAuthenticationFilterTests-testDetectsUserAttribute
+Wed May 16 01:17:02 UTC 2018: No link for: org.springframework.security.web.authentication.AnonymousAuthenticationFilterTests-testGettersSetters
+Wed May 16 01:17:03 UTC 2018: No link for: org.springframework.security.web.authentication.AnonymousAuthenticationFilterTests-testOperationWhenNoAuthenticationInSecurityContextHolder
+Wed May 16 01:17:03 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.AnonymousAuthenticationFilterTests
+Wed May 16 01:17:03 UTC 2018: Found element on the queue
+Wed May 16 01:17:03 UTC 2018: Updating status
+Wed May 16 01:17:03 UTC 2018: Working
+Wed May 16 01:17:06 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.ExceptionTranslationFilterTests
+Wed May 16 01:17:06 UTC 2018: Setting lastTestMethodIndex: 54873
+Wed May 16 01:17:06 UTC 2018: Starting linking
+Wed May 16 01:17:06 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testSavedRequestIsNotStoredForPostIfJustUseSaveRequestOnGetIsSet
+Wed May 16 01:17:06 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testAccessDeniedWhenAnonymous
+Wed May 16 01:17:07 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testThrowServletException
+Wed May 16 01:17:07 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testAccessDeniedWhenNonAnonymous
+Wed May 16 01:17:07 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testRedirectedToLoginFormAndSessionShowsOriginalTargetWithExoticPortWhenAuthenticationException
+Wed May 16 01:17:08 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testStartupDetectsMissingRequestCache
+Wed May 16 01:17:08 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testThrowIOException
+Wed May 16 01:17:08 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testRedirectedToLoginFormAndSessionShowsOriginalTargetWhenAuthenticationException
+Wed May 16 01:17:09 UTC 2018: No link for: org.springframework.security.web.access.ExceptionTranslationFilterTests-testStartupDetectsMissingAuthenticationEntryPoint
+Wed May 16 01:17:09 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.ExceptionTranslationFilterTests
+Wed May 16 01:17:09 UTC 2018: Found element on the queue
+Wed May 16 01:17:09 UTC 2018: Updating status
+Wed May 16 01:17:09 UTC 2018: Working
+Wed May 16 01:17:12 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests
+Wed May 16 01:17:12 UTC 2018: Setting lastTestMethodIndex: 54878
+Wed May 16 01:17:12 UTC 2018: Starting linking
+Wed May 16 01:17:12 UTC 2018: No link for: org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests-testNormalOperation
+Wed May 16 01:17:12 UTC 2018: No link for: org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests-testNullUsernameHandledGracefully
+Wed May 16 01:17:13 UTC 2018: No link for: org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests-testSpacesAreTrimmedCorrectlyFromUsername
+Wed May 16 01:17:13 UTC 2018: No link for: org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests-testUsingDifferentParameterNamesWorksAsExpected
+Wed May 16 01:17:13 UTC 2018: No link for: org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests-noSessionIsCreatedIfAllowSessionCreationIsFalse
+Wed May 16 01:17:14 UTC 2018: No link for: org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests-testNullPasswordHandledGracefully
+Wed May 16 01:17:14 UTC 2018: No link for: org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests-testFailedAuthenticationThrowsException
+Wed May 16 01:17:14 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.UsernamePasswordAuthenticationFilterTests
+Wed May 16 01:17:15 UTC 2018: Found element on the queue
+Wed May 16 01:17:15 UTC 2018: Updating status
+Wed May 16 01:17:15 UTC 2018: Working
+Wed May 16 01:17:17 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.intercept.FilterInvocationTests
+Wed May 16 01:17:17 UTC 2018: Setting lastTestMethodIndex: 54881
+Wed May 16 01:17:17 UTC 2018: Starting linking
+Wed May 16 01:17:17 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterInvocationTests-testRejectsNullServletResponse
+Wed May 16 01:17:18 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterInvocationTests-testRejectsNullFilterChain
+Wed May 16 01:17:18 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterInvocationTests-testStringMethodsWithAQueryString
+Wed May 16 01:17:18 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterInvocationTests-testRejectsNullServletRequest
+Wed May 16 01:17:18 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterInvocationTests-testStringMethodsWithoutAnyQueryString
+Wed May 16 01:17:19 UTC 2018: No link for: org.springframework.security.web.access.intercept.FilterInvocationTests-testGettersAndStringMethods
+Wed May 16 01:17:19 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.intercept.FilterInvocationTests
+Wed May 16 01:17:19 UTC 2018: Found element on the queue
+Wed May 16 01:17:19 UTC 2018: Updating status
+Wed May 16 01:17:20 UTC 2018: Working
+Wed May 16 01:17:22 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.rememberme.NullRememberMeServicesTests
+Wed May 16 01:17:22 UTC 2018: Setting lastTestMethodIndex: 54884
+Wed May 16 01:17:22 UTC 2018: Starting linking
+Wed May 16 01:17:22 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.rememberme.NullRememberMeServicesTests
+Wed May 16 01:17:23 UTC 2018: Found element on the queue
+Wed May 16 01:17:23 UTC 2018: Updating status
+Wed May 16 01:17:23 UTC 2018: Working
+Wed May 16 01:17:25 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.logout.LogoutHandlerTests
+Wed May 16 01:17:25 UTC 2018: Setting lastTestMethodIndex: 54886
+Wed May 16 01:17:25 UTC 2018: Starting linking
+Wed May 16 01:17:25 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.logout.LogoutHandlerTests
+Wed May 16 01:17:26 UTC 2018: Found element on the queue
+Wed May 16 01:17:26 UTC 2018: Updating status
+Wed May 16 01:17:26 UTC 2018: Working
+Wed May 16 01:17:28 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests
+Wed May 16 01:17:28 UTC 2018: Setting lastTestMethodIndex: 54888
+Wed May 16 01:17:28 UTC 2018: Starting linking
+Wed May 16 01:17:28 UTC 2018: Code found org.springframework.security.web.authentication.switchuser.SwitchUserFilter-requiresExitUser with org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-requiresExitUserMatchesCorrectly
+Wed May 16 01:17:28 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-redirectOmitsContextPathIfUseRelativeContextSet
+Wed May 16 01:17:29 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-testSwitchRequestFromDanoToJackLord
+Wed May 16 01:17:29 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-attemptSwitchToUserWithExpiredCredentialsFails
+Wed May 16 01:17:29 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-exitUserJackLordToDanoSucceeds
+Wed May 16 01:17:30 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-modificationOfAuthoritiesWorks
+Wed May 16 01:17:30 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-switchUserWithNullUsernameThrowsException
+Wed May 16 01:17:30 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-attemptSwitchToUnknownUserFails
+Wed May 16 01:17:31 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-switchToLockedAccountCausesRedirectToSwitchFailureUrl
+Wed May 16 01:17:31 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-configMissingUserDetailsServiceFails
+Wed May 16 01:17:31 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-redirectToTargetUrlIsCorrect
+Wed May 16 01:17:31 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-attemptSwitchUserIsSuccessfulWithValidUser
+Wed May 16 01:17:32 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-attemptSwitchToUserThatIsDisabledFails
+Wed May 16 01:17:32 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-attemptSwitchToUserWithAccountExpiredFails
+Wed May 16 01:17:32 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-testBadConfigMissingTargetUrl
+Wed May 16 01:17:33 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-defaultProcessesFilterUrlMatchesUrlWithPathParameter
+Wed May 16 01:17:33 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-exitUserWithNoCurrentUserFails
+Wed May 16 01:17:33 UTC 2018: No link for: org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests-requiresSwitchMatchesCorrectly
+Wed May 16 01:17:33 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.switchuser.SwitchUserFilterTests
+Wed May 16 01:17:34 UTC 2018: Found element on the queue
+Wed May 16 01:17:34 UTC 2018: Updating status
+Wed May 16 01:17:34 UTC 2018: Working
+Wed May 16 01:17:36 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilterTests
+Wed May 16 01:17:36 UTC 2018: Setting lastTestMethodIndex: 54894
+Wed May 16 01:17:36 UTC 2018: Starting linking
+Wed May 16 01:17:36 UTC 2018: No link for: org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilterTests-expectedRequestWrapperClassIsUsed
+Wed May 16 01:17:37 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestFilterTests
+Wed May 16 01:17:37 UTC 2018: Found element on the queue
+Wed May 16 01:17:37 UTC 2018: Updating status
+Wed May 16 01:17:37 UTC 2018: Working
+Wed May 16 01:17:40 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetailsTests
+Wed May 16 01:17:40 UTC 2018: Setting lastTestMethodIndex: 54897
+Wed May 16 01:17:40 UTC 2018: Starting linking
+Wed May 16 01:17:40 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetails-toString with org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetailsTests-testToString
+Wed May 16 01:17:40 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetailsTests-testGetWithoutSetPreAuthenticatedGrantedAuthorities
+Wed May 16 01:17:40 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetailsTests-testGetSetPreAuthenticatedGrantedAuthorities
+Wed May 16 01:17:41 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesWebAuthenticationDetailsTests
+Wed May 16 01:17:41 UTC 2018: Found element on the queue
+Wed May 16 01:17:41 UTC 2018: Updating status
+Wed May 16 01:17:41 UTC 2018: Working
+Wed May 16 01:17:44 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.www.DigestAuthUtilsTests
+Wed May 16 01:17:44 UTC 2018: Setting lastTestMethodIndex: 54901
+Wed May 16 01:17:44 UTC 2018: Starting linking
+Wed May 16 01:17:44 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.www.DigestAuthUtilsTests
+Wed May 16 01:17:44 UTC 2018: Found element on the queue
+Wed May 16 01:17:44 UTC 2018: Updating status
+Wed May 16 01:17:44 UTC 2018: Working
+Wed May 16 01:17:47 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests
+Wed May 16 01:17:47 UTC 2018: Setting lastTestMethodIndex: 54904
+Wed May 16 01:17:47 UTC 2018: Starting linking
+Wed May 16 01:17:47 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServices-logout with org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests-logoutClearsUsersTokenAndCookie
+Wed May 16 01:17:47 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServices-loginSuccess with org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests-loginSuccessCreatesNewTokenAndCookieWithNewSeries
+Wed May 16 01:17:47 UTC 2018: No link for: org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests-successfulAutoLoginCreatesNewTokenAndCookieWithSameSeries
+Wed May 16 01:17:48 UTC 2018: No link for: org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests-loginIsRejectedWhenTokenIsExpired
+Wed May 16 01:17:48 UTC 2018: No link for: org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests-loginIsRejectedWhenNoTokenMatchingSeriesIsFound
+Wed May 16 01:17:48 UTC 2018: No link for: org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests-cookieTheftIsDetectedWhenSeriesAndTokenDontMatch
+Wed May 16 01:17:49 UTC 2018: No link for: org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests-loginIsRejectedWithWrongNumberOfCookieTokens
+Wed May 16 01:17:49 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.rememberme.PersistentTokenBasedRememberMeServicesTests
+Wed May 16 01:17:49 UTC 2018: Found element on the queue
+Wed May 16 01:17:49 UTC 2018: Updating status
+Wed May 16 01:17:49 UTC 2018: Working
+Wed May 16 01:17:52 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.savedrequest.RequestCacheAwareFilterTests
+Wed May 16 01:17:52 UTC 2018: Setting lastTestMethodIndex: 54907
+Wed May 16 01:17:52 UTC 2018: Starting linking
+Wed May 16 01:17:52 UTC 2018: No link for: org.springframework.security.web.savedrequest.RequestCacheAwareFilterTests-savedRequestIsRemovedAfterMatch
+Wed May 16 01:17:52 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.savedrequest.RequestCacheAwareFilterTests
+Wed May 16 01:17:53 UTC 2018: Found element on the queue
+Wed May 16 01:17:53 UTC 2018: Updating status
+Wed May 16 01:17:53 UTC 2018: Working
+Wed May 16 01:17:55 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.websphere.WebSphere2SpringSecurityPropagationInterceptorTests
+Wed May 16 01:17:55 UTC 2018: Setting lastTestMethodIndex: 54910
+Wed May 16 01:17:55 UTC 2018: Starting linking
+Wed May 16 01:17:55 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.websphere.WebSphere2SpringSecurityPropagationInterceptorTests-createdAuthenticationTokenIsAcceptableToPreauthProvider
+Wed May 16 01:17:55 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.websphere.WebSphere2SpringSecurityPropagationInterceptorTests
+Wed May 16 01:17:56 UTC 2018: Found element on the queue
+Wed May 16 01:17:56 UTC 2018: Updating status
+Wed May 16 01:17:56 UTC 2018: Working
+Wed May 16 01:17:59 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.SavedRequestAwareAuthenticationSuccessHandlerTests
+Wed May 16 01:17:59 UTC 2018: Setting lastTestMethodIndex: 54913
+Wed May 16 01:17:59 UTC 2018: Starting linking
+Wed May 16 01:17:59 UTC 2018: No link for: org.springframework.security.web.authentication.SavedRequestAwareAuthenticationSuccessHandlerTests-defaultUrlMuststartWithSlashOrHttpScheme
+Wed May 16 01:17:59 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.SavedRequestAwareAuthenticationSuccessHandlerTests
+Wed May 16 01:18:00 UTC 2018: Found element on the queue
+Wed May 16 01:18:00 UTC 2018: Updating status
+Wed May 16 01:18:00 UTC 2018: Working
+Wed May 16 01:18:02 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.intercept.RequestKeyTests
+Wed May 16 01:18:02 UTC 2018: Setting lastTestMethodIndex: 54917
+Wed May 16 01:18:02 UTC 2018: Starting linking
+Wed May 16 01:18:02 UTC 2018: Code found org.springframework.security.web.access.intercept.RequestKey-equals with org.springframework.security.web.access.intercept.RequestKeyTests-equalsWorksWithNullHttpMethod
+Wed May 16 01:18:02 UTC 2018: Code found org.springframework.security.web.access.intercept.RequestKey-equals with org.springframework.security.web.access.intercept.RequestKeyTests-keysWithDifferentUrlsAreNotEquals
+Wed May 16 01:18:03 UTC 2018: No link for: org.springframework.security.web.access.intercept.RequestKeyTests-keysWithSameUrlAndDifferentHttpMethodAreNotEqual
+Wed May 16 01:18:03 UTC 2018: No link for: org.springframework.security.web.access.intercept.RequestKeyTests-keysWithSameUrlAndHttpMethodAreEqual
+Wed May 16 01:18:04 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.intercept.RequestKeyTests
+Wed May 16 01:18:04 UTC 2018: Found element on the queue
+Wed May 16 01:18:04 UTC 2018: Updating status
+Wed May 16 01:18:04 UTC 2018: Working
+Wed May 16 01:18:07 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests
+Wed May 16 01:18:07 UTC 2018: Setting lastTestMethodIndex: 54920
+Wed May 16 01:18:07 UTC 2018: Starting linking
+Wed May 16 01:18:07 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider-authenticate with org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-authenticateInvalidToken
+Wed May 16 01:18:08 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider-setOrder with org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-getSetOrder
+Wed May 16 01:18:08 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider-supports with org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-supportsPreAuthenticatedAuthenticationToken
+Wed May 16 01:18:08 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider-authenticate with org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-authenticateKnownUser
+Wed May 16 01:18:09 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider-authenticate with org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-authenticateUnknownUserThrowsException
+Wed May 16 01:18:09 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider-supports with org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-supportsArbitraryObject
+Wed May 16 01:18:09 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider-authenticate with org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-authenticateIgnoreCredentials
+Wed May 16 01:18:10 UTC 2018: Code found org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProvider-afterPropertiesSet with org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-afterPropertiesSet
+Wed May 16 01:18:10 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests-nullPrincipalReturnsNullAuthentication
+Wed May 16 01:18:10 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationProviderTests
+Wed May 16 01:18:11 UTC 2018: Found element on the queue
+Wed May 16 01:18:11 UTC 2018: Updating status
+Wed May 16 01:18:11 UTC 2018: Working
+Wed May 16 01:18:13 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestWrapperTests
+Wed May 16 01:18:13 UTC 2018: Setting lastTestMethodIndex: 54924
+Wed May 16 01:18:13 UTC 2018: Starting linking
+Wed May 16 01:18:13 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.servletapi.SecurityContextHolderAwareRequestWrapperTests
+Wed May 16 01:18:14 UTC 2018: Found element on the queue
+Wed May 16 01:18:14 UTC 2018: Updating status
+Wed May 16 01:18:14 UTC 2018: Working
+Wed May 16 01:18:16 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.Http403ForbiddenEntryPointTests
+Wed May 16 01:18:16 UTC 2018: Setting lastTestMethodIndex: 54926
+Wed May 16 01:18:16 UTC 2018: Starting linking
+Wed May 16 01:18:16 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.Http403ForbiddenEntryPointTests
+Wed May 16 01:18:17 UTC 2018: Found element on the queue
+Wed May 16 01:18:17 UTC 2018: Updating status
+Wed May 16 01:18:17 UTC 2018: Working
+Wed May 16 01:18:20 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.channel.InsecureChannelProcessorTests
+Wed May 16 01:18:20 UTC 2018: Setting lastTestMethodIndex: 54928
+Wed May 16 01:18:20 UTC 2018: Starting linking
+Wed May 16 01:18:20 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.channel.InsecureChannelProcessorTests
+Wed May 16 01:18:20 UTC 2018: Found element on the queue
+Wed May 16 01:18:20 UTC 2018: Updating status
+Wed May 16 01:18:20 UTC 2018: Working
+Wed May 16 01:18:23 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.channel.RetryWithHttpsEntryPointTests
+Wed May 16 01:18:23 UTC 2018: Setting lastTestMethodIndex: 54931
+Wed May 16 01:18:23 UTC 2018: Starting linking
+Wed May 16 01:18:23 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.channel.RetryWithHttpsEntryPointTests
+Wed May 16 01:18:23 UTC 2018: Found element on the queue
+Wed May 16 01:18:23 UTC 2018: Updating status
+Wed May 16 01:18:23 UTC 2018: Working
+Wed May 16 01:18:26 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.util.TextEscapeUtilsTests
+Wed May 16 01:18:26 UTC 2018: Setting lastTestMethodIndex: 54934
+Wed May 16 01:18:26 UTC 2018: Starting linking
+Wed May 16 01:18:26 UTC 2018: No link for: org.springframework.security.web.util.TextEscapeUtilsTests-nullOrEmptyStringIsHandled
+Wed May 16 01:18:26 UTC 2018: No link for: org.springframework.security.web.util.TextEscapeUtilsTests-charactersAreEscapedCorrectly
+Wed May 16 01:18:26 UTC 2018: No link for: org.springframework.security.web.util.TextEscapeUtilsTests-missingLowSurrogateIsDetected
+Wed May 16 01:18:27 UTC 2018: No link for: org.springframework.security.web.util.TextEscapeUtilsTests-highSurrogateAtEndOfStringIsRejected
+Wed May 16 01:18:27 UTC 2018: No link for: org.springframework.security.web.util.TextEscapeUtilsTests-undefinedSurrogatePairIsIgnored
+Wed May 16 01:18:27 UTC 2018: No link for: org.springframework.security.web.util.TextEscapeUtilsTests-invalidLowSurrogateIsDetected
+Wed May 16 01:18:28 UTC 2018: No link for: org.springframework.security.web.util.TextEscapeUtilsTests-validSurrogatePairIsAccepted
+Wed May 16 01:18:28 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.util.TextEscapeUtilsTests
+Wed May 16 01:18:29 UTC 2018: Found element on the queue
+Wed May 16 01:18:29 UTC 2018: Updating status
+Wed May 16 01:18:29 UTC 2018: Working
+Wed May 16 01:18:31 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.www.BasicAuthenticationEntryPointTests
+Wed May 16 01:18:31 UTC 2018: Setting lastTestMethodIndex: 54938
+Wed May 16 01:18:31 UTC 2018: Starting linking
+Wed May 16 01:18:31 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.www.BasicAuthenticationEntryPointTests
+Wed May 16 01:18:31 UTC 2018: Found element on the queue
+Wed May 16 01:18:31 UTC 2018: Updating status
+Wed May 16 01:18:31 UTC 2018: Working
+Wed May 16 01:18:34 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.DefaultRedirectStrategyTests
+Wed May 16 01:18:34 UTC 2018: Setting lastTestMethodIndex: 54940
+Wed May 16 01:18:34 UTC 2018: Starting linking
+Wed May 16 01:18:34 UTC 2018: No link for: org.springframework.security.web.DefaultRedirectStrategyTests-contextRelativeUrlWithContextNameInHostnameIsHandledCorrectly
+Wed May 16 01:18:34 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.DefaultRedirectStrategyTests
+Wed May 16 01:18:35 UTC 2018: Found element on the queue
+Wed May 16 01:18:35 UTC 2018: Updating status
+Wed May 16 01:18:35 UTC 2018: Working
+Wed May 16 01:18:37 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests
+Wed May 16 01:18:37 UTC 2018: Setting lastTestMethodIndex: 54943
+Wed May 16 01:18:37 UTC 2018: Starting linking
+Wed May 16 01:18:37 UTC 2018: No link for: org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests-deniesAccessIfNoMatchingAttributesAndPublicInvocationsNotAllowed
+Wed May 16 01:18:37 UTC 2018: No link for: org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests-permitsAccessIfNoMatchingAttributesAndPublicInvocationsAllowed
+Wed May 16 01:18:38 UTC 2018: No link for: org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests-dummyRequestIsSupportedByUrlUtils
+Wed May 16 01:18:38 UTC 2018: No link for: org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests-deniesAccessIfAuthenticationIsNull
+Wed May 16 01:18:38 UTC 2018: No link for: org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests-allowsAccessIfAccessDecisionMangerDoes
+Wed May 16 01:18:39 UTC 2018: No link for: org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests-deniesAccessIfAccessDecisionMangerDoes
+Wed May 16 01:18:39 UTC 2018: No link for: org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests-dummyChainRejectsInvocation
+Wed May 16 01:18:39 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.DefaultWebInvocationPrivilegeEvaluatorTests
+Wed May 16 01:18:40 UTC 2018: Found element on the queue
+Wed May 16 01:18:40 UTC 2018: Updating status
+Wed May 16 01:18:40 UTC 2018: Working
+Wed May 16 01:18:42 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.channel.SecureChannelProcessorTests
+Wed May 16 01:18:42 UTC 2018: Setting lastTestMethodIndex: 54946
+Wed May 16 01:18:42 UTC 2018: Starting linking
+Wed May 16 01:18:42 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.channel.SecureChannelProcessorTests
+Wed May 16 01:18:43 UTC 2018: Found element on the queue
+Wed May 16 01:18:43 UTC 2018: Updating status
+Wed May 16 01:18:43 UTC 2018: Working
+Wed May 16 01:18:45 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilterTests
+Wed May 16 01:18:45 UTC 2018: Setting lastTestMethodIndex: 54949
+Wed May 16 01:18:45 UTC 2018: Starting linking
+Wed May 16 01:18:45 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.rememberme.RememberMeAuthenticationFilterTests
+Wed May 16 01:18:46 UTC 2018: Found element on the queue
+Wed May 16 01:18:46 UTC 2018: Updating status
+Wed May 16 01:18:46 UTC 2018: Working
+Wed May 16 01:18:48 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.channel.RetryWithHttpEntryPointTests
+Wed May 16 01:18:48 UTC 2018: Setting lastTestMethodIndex: 54951
+Wed May 16 01:18:48 UTC 2018: Starting linking
+Wed May 16 01:18:48 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.channel.RetryWithHttpEntryPointTests
+Wed May 16 01:18:49 UTC 2018: Found element on the queue
+Wed May 16 01:18:49 UTC 2018: Updating status
+Wed May 16 01:18:49 UTC 2018: Working
+Wed May 16 01:18:51 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests
+Wed May 16 01:18:51 UTC 2018: Setting lastTestMethodIndex: 54954
+Wed May 16 01:18:51 UTC 2018: Starting linking
+Wed May 16 01:18:51 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testStartupDetectsMissingAuthenticationEntryPoint
+Wed May 16 01:18:51 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testSuccessLoginThenFailureLoginResultsInSessionLosingToken
+Wed May 16 01:18:52 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testStartupDetectsMissingAuthenticationManager
+Wed May 16 01:18:52 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testOtherAuthorizationSchemeIsIgnored
+Wed May 16 01:18:53 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testFilterIgnoresRequestsContainingNoAuthorizationHeader
+Wed May 16 01:18:53 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testWrongPasswordContinuesFilterChainIfIgnoreFailureIsTrue
+Wed May 16 01:18:53 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testGettersSetters
+Wed May 16 01:18:53 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testInvalidBasicAuthorizationTokenIsIgnored
+Wed May 16 01:18:54 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testNormalOperation
+Wed May 16 01:18:54 UTC 2018: No link for: org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests-testWrongPasswordReturnsForbiddenIfIgnoreFailureIsFalse
+Wed May 16 01:18:54 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.www.BasicAuthenticationFilterTests
+Wed May 16 01:18:55 UTC 2018: Found element on the queue
+Wed May 16 01:18:55 UTC 2018: Updating status
+Wed May 16 01:18:55 UTC 2018: Working
+Wed May 16 01:18:57 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesUserDetailsServiceTests
+Wed May 16 01:18:57 UTC 2018: Setting lastTestMethodIndex: 54956
+Wed May 16 01:18:57 UTC 2018: Starting linking
+Wed May 16 01:18:57 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesUserDetailsServiceTests-testGetUserDetailsWithAuthorities
+Wed May 16 01:18:57 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesUserDetailsServiceTests-testGetUserDetailsEmptyAuthorities
+Wed May 16 01:18:58 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesUserDetailsServiceTests-testGetUserDetailsInvalidType
+Wed May 16 01:18:58 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesUserDetailsServiceTests-testGetUserDetailsNoDetails
+Wed May 16 01:18:58 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.PreAuthenticatedGrantedAuthoritiesUserDetailsServiceTests
+Wed May 16 01:18:59 UTC 2018: Found element on the queue
+Wed May 16 01:18:59 UTC 2018: Updating status
+Wed May 16 01:18:59 UTC 2018: Working
+Wed May 16 01:19:01 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests
+Wed May 16 01:19:01 UTC 2018: Setting lastTestMethodIndex: 54961
+Wed May 16 01:19:01 UTC 2018: Starting linking
+Wed May 16 01:19:01 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginReturnsNullIfNoCookiePresented
+Wed May 16 01:19:02 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginClearsCookieIfUserNotFound
+Wed May 16 01:19:02 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginClearsNonBase64EncodedCookie
+Wed May 16 01:19:02 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginWithValidTokenAndUserSucceeds
+Wed May 16 01:19:02 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-loginSuccess with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-loginSuccessNormalWithNonUserDetailsBasedPrincipalSetsExpectedCookie
+Wed May 16 01:19:03 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-loginSuccess with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-loginSuccessIgnoredIfParameterNotSetOrFalse
+Wed May 16 01:19:03 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-loginSuccess with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-loginSuccessNormalWithUserDetailsBasedPrincipalSetsExpectedCookie
+Wed May 16 01:19:03 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginReturnsNullForExpiredCookieAndClearsCookie
+Wed May 16 01:19:04 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginIgnoresUnrelatedCookie
+Wed May 16 01:19:04 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginClearsCookieIfSignatureBlocksDoesNotMatchExpectedValue
+Wed May 16 01:19:04 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginReturnsNullAndClearsCookieIfMissingThreeTokensInCookieValue
+Wed May 16 01:19:04 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-autoLogin with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-autoLoginClearsCookieIfTokenDoesNotContainANumberInCookieValue
+Wed May 16 01:19:05 UTC 2018: Code found org.springframework.security.web.authentication.rememberme.AbstractRememberMeServices-loginFail with org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-loginFailClearsCookie
+Wed May 16 01:19:05 UTC 2018: No link for: org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-obtainPasswordReturnsNullForTokenWithNullCredentials
+Wed May 16 01:19:05 UTC 2018: No link for: org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-testGettersSetters
+Wed May 16 01:19:06 UTC 2018: No link for: org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests-negativeValidityPeriodIsSetOnCookieButExpiryTimeRemainsAtTwoWeeks
+Wed May 16 01:19:06 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.rememberme.TokenBasedRememberMeServicesTests
+Wed May 16 01:19:06 UTC 2018: Found element on the queue
+Wed May 16 01:19:06 UTC 2018: Updating status
+Wed May 16 01:19:06 UTC 2018: Working
+Wed May 16 01:19:09 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.concurrent.ConcurrentSessionFilterTests
+Wed May 16 01:19:09 UTC 2018: Setting lastTestMethodIndex: 54966
+Wed May 16 01:19:09 UTC 2018: Starting linking
+Wed May 16 01:19:09 UTC 2018: No link for: org.springframework.security.web.concurrent.ConcurrentSessionFilterTests-lastRequestTimeUpdatesCorrectly
+Wed May 16 01:19:09 UTC 2018: No link for: org.springframework.security.web.concurrent.ConcurrentSessionFilterTests-detectsExpiredSessions
+Wed May 16 01:19:09 UTC 2018: No link for: org.springframework.security.web.concurrent.ConcurrentSessionFilterTests-detectsMissingSessionRegistry
+Wed May 16 01:19:10 UTC 2018: No link for: org.springframework.security.web.concurrent.ConcurrentSessionFilterTests-detectsInvalidUrl
+Wed May 16 01:19:10 UTC 2018: No link for: org.springframework.security.web.concurrent.ConcurrentSessionFilterTests-returnsExpectedMessageWhenNoExpiredUrlSet
+Wed May 16 01:19:10 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.concurrent.ConcurrentSessionFilterTests
+Wed May 16 01:19:11 UTC 2018: Found element on the queue
+Wed May 16 01:19:11 UTC 2018: Updating status
+Wed May 16 01:19:11 UTC 2018: Working
+Wed May 16 01:19:13 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.j2ee.J2eePreAuthenticatedProcessingFilterTests
+Wed May 16 01:19:13 UTC 2018: Setting lastTestMethodIndex: 54970
+Wed May 16 01:19:13 UTC 2018: Starting linking
+Wed May 16 01:19:13 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.j2ee.J2eePreAuthenticatedProcessingFilterTests
+Wed May 16 01:19:14 UTC 2018: Found element on the queue
+Wed May 16 01:19:14 UTC 2018: Updating status
+Wed May 16 01:19:14 UTC 2018: Working
+Wed May 16 01:19:16 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests
+Wed May 16 01:19:16 UTC 2018: Setting lastTestMethodIndex: 54972
+Wed May 16 01:19:16 UTC 2018: Starting linking
+Wed May 16 01:19:16 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests-defaultsToUsingSiteminderHeader
+Wed May 16 01:19:16 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests-credentialsAreRetrievedIfHeaderNameIsSet
+Wed May 16 01:19:17 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests-alternativeHeaderNameIsSupported
+Wed May 16 01:19:17 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests-missingHeaderIsIgnoredIfExceptionIfHeaderMissingIsFalse
+Wed May 16 01:19:17 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests-userIsReauthenticatedIfPrincipalChangesAndCheckForPrincipalChangesIsSet
+Wed May 16 01:19:18 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests-missingHeaderCausesException
+Wed May 16 01:19:18 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests-rejectsMissingHeader
+Wed May 16 01:19:18 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.header.RequestHeaderAuthenticationFilterTests
+Wed May 16 01:19:19 UTC 2018: Found element on the queue
+Wed May 16 01:19:19 UTC 2018: Updating status
+Wed May 16 01:19:19 UTC 2018: Working
+Wed May 16 01:19:21 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.PortMapperImplTests
+Wed May 16 01:19:21 UTC 2018: Setting lastTestMethodIndex: 54975
+Wed May 16 01:19:21 UTC 2018: Starting linking
+Wed May 16 01:19:21 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.PortMapperImplTests
+Wed May 16 01:19:22 UTC 2018: Found element on the queue
+Wed May 16 01:19:22 UTC 2018: Updating status
+Wed May 16 01:19:22 UTC 2018: Working
+Wed May 16 01:19:24 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.x509.SubjectDnX509PrincipalExtractorTests
+Wed May 16 01:19:24 UTC 2018: Setting lastTestMethodIndex: 54976
+Wed May 16 01:19:24 UTC 2018: Starting linking
+Wed May 16 01:19:24 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.x509.SubjectDnX509PrincipalExtractorTests-invalidRegexFails
+Wed May 16 01:19:25 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.x509.SubjectDnX509PrincipalExtractorTests-defaultCNPatternReturnsExcpectedPrincipal
+Wed May 16 01:19:25 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.x509.SubjectDnX509PrincipalExtractorTests-matchOnShoeSizeThrowsBadCredentials
+Wed May 16 01:19:25 UTC 2018: No link for: org.springframework.security.web.authentication.preauth.x509.SubjectDnX509PrincipalExtractorTests-matchOnEmailReturnsExpectedPrincipal
+Wed May 16 01:19:25 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.x509.SubjectDnX509PrincipalExtractorTests
+Wed May 16 01:19:26 UTC 2018: Found element on the queue
+Wed May 16 01:19:26 UTC 2018: Updating status
+Wed May 16 01:19:26 UTC 2018: Working
+Wed May 16 01:19:29 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.savedrequest.HttpSessionRequestCacheTests
+Wed May 16 01:19:29 UTC 2018: Setting lastTestMethodIndex: 54979
+Wed May 16 01:19:29 UTC 2018: Starting linking
+Wed May 16 01:19:29 UTC 2018: Code found org.springframework.security.web.savedrequest.HttpSessionRequestCache-getRequest with org.springframework.security.web.savedrequest.HttpSessionRequestCacheTests-originalGetRequestDoesntMatchIncomingPost
+Wed May 16 01:19:29 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.savedrequest.HttpSessionRequestCacheTests
+Wed May 16 01:19:29 UTC 2018: Found element on the queue
+Wed May 16 01:19:29 UTC 2018: Updating status
+Wed May 16 01:19:29 UTC 2018: Working
+Wed May 16 01:19:32 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests
+Wed May 16 01:19:32 UTC 2018: Setting lastTestMethodIndex: 54982
+Wed May 16 01:19:32 UTC 2018: Starting linking
+Wed May 16 01:19:32 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-convertUrlToLowercaseIsTrueByDefault
+Wed May 16 01:19:32 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-lookupNotRequiringExactMatchSucceedsIfSecureUrlPathContainsUpperCase
+Wed May 16 01:19:32 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-generalMatchIsUsedIfNoMethodSpecificMatchExists
+Wed May 16 01:19:33 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-lookupRequiringExactMatchWithAdditionalSlashesIsSuccessful
+Wed May 16 01:19:33 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-httpMethodSpecificUrlTakesPrecedence
+Wed May 16 01:19:33 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-mixingPatternsWithAndWithoutHttpMethodsIsSupported
+Wed May 16 01:19:34 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-methodSpecificMatchTakesPrecdenceRegardlessOfOrdering
+Wed May 16 01:19:34 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-lookupNotRequiringExactMatchSucceedsIfNotMatching
+Wed May 16 01:19:34 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-unknownHttpMethodIsRejected
+Wed May 16 01:19:35 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-httpMethodLookupSucceeds
+Wed May 16 01:19:35 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-requestWithDifferentHttpMethodDoesntMatch
+Wed May 16 01:19:35 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-lookupRequiringExactMatchFailsIfNotMatching
+Wed May 16 01:19:35 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-lookupRequiringExactMatchIsSuccessful
+Wed May 16 01:19:36 UTC 2018: No link for: org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests-extraQuestionMarkStillMatches
+Wed May 16 01:19:36 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.intercept.DefaultFilterInvocationSecurityMetadataSourceTests
+Wed May 16 01:19:37 UTC 2018: Found element on the queue
+Wed May 16 01:19:37 UTC 2018: Updating status
+Wed May 16 01:19:37 UTC 2018: Working
+Wed May 16 01:19:39 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests
+Wed May 16 01:19:39 UTC 2018: Setting lastTestMethodIndex: 54989
+Wed May 16 01:19:39 UTC 2018: Starting linking
+Wed May 16 01:19:39 UTC 2018: Code found org.springframework.security.web.savedrequest.SavedRequestAwareWrapper-getParameterValues with org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-getParameterValuesReturnsCombinedSavedAndWrappedRequestValues
+Wed May 16 01:19:40 UTC 2018: Code found org.springframework.security.web.savedrequest.SavedRequestAwareWrapper-getParameterValues with org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-getParameterValuesReturnsNullIfParameterIsntSet
+Wed May 16 01:19:40 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-wrappedRequestParameterTakesPrecedenceOverSavedRequest
+Wed May 16 01:19:40 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-expecteDateHeaderIsReturnedFromSavedRequest
+Wed May 16 01:19:40 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-invalidDateHeaderIsRejected
+Wed May 16 01:19:41 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-savedRequestCookiesAreReturnedIfSavedRequestIsSet
+Wed May 16 01:19:41 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-savedRequesthHeaderIsReturnedIfSavedRequestIsSet
+Wed May 16 01:19:41 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-savedRequestDoesntCreateDuplicateParams
+Wed May 16 01:19:42 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-correctHttpMethodIsReturned
+Wed May 16 01:19:42 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-correctIntHeaderIsReturned
+Wed May 16 01:19:42 UTC 2018: No link for: org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests-savedRequestHeadersTakePrecedence
+Wed May 16 01:19:42 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.savedrequest.SavedRequestAwareWrapperTests
+Wed May 16 01:19:43 UTC 2018: Found element on the queue
+Wed May 16 01:19:43 UTC 2018: Updating status
+Wed May 16 01:19:43 UTC 2018: Working
+Wed May 16 01:19:46 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.savedrequest.SavedCookieTests
+Wed May 16 01:19:46 UTC 2018: Setting lastTestMethodIndex: 54994
+Wed May 16 01:19:46 UTC 2018: Starting linking
+Wed May 16 01:19:46 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.savedrequest.SavedCookieTests
+Wed May 16 01:19:46 UTC 2018: Found element on the queue
+Wed May 16 01:19:46 UTC 2018: Updating status
+Wed May 16 01:19:46 UTC 2018: Working
+Wed May 16 01:19:49 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.access.channel.ChannelDecisionManagerImplTests
+Wed May 16 01:19:49 UTC 2018: Setting lastTestMethodIndex: 54997
+Wed May 16 01:19:49 UTC 2018: Starting linking
+Wed May 16 01:19:49 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.access.channel.ChannelDecisionManagerImplTests
+Wed May 16 01:19:49 UTC 2018: Found element on the queue
+Wed May 16 01:19:49 UTC 2018: Updating status
+Wed May 16 01:19:49 UTC 2018: Working
+Wed May 16 01:19:52 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.session.DefaultSessionAuthenticationStrategyTests
+Wed May 16 01:19:52 UTC 2018: Setting lastTestMethodIndex: 54999
+Wed May 16 01:19:52 UTC 2018: Starting linking
+Wed May 16 01:19:52 UTC 2018: No link for: org.springframework.security.web.session.DefaultSessionAuthenticationStrategyTests-sessionIsCreatedIfAlwaysCreateTrue
+Wed May 16 01:19:52 UTC 2018: No link for: org.springframework.security.web.session.DefaultSessionAuthenticationStrategyTests-newSessionIsCreatedIfSessionAlreadyExists
+Wed May 16 01:19:52 UTC 2018: No link for: org.springframework.security.web.session.DefaultSessionAuthenticationStrategyTests-newSessionShouldNotBeCreatedIfNoSessionExistsAndAlwaysCreateIsFalse
+Wed May 16 01:19:52 UTC 2018: No link for: org.springframework.security.web.session.DefaultSessionAuthenticationStrategyTests-onlySavedRequestAttributeIsMigratedIfMigrateAttributesIsFalse
+Wed May 16 01:19:53 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.session.DefaultSessionAuthenticationStrategyTests
+Wed May 16 01:19:53 UTC 2018: Found element on the queue
+Wed May 16 01:19:53 UTC 2018: Updating status
+Wed May 16 01:19:53 UTC 2018: Working
+Wed May 16 01:19:56 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.PortResolverImplTests
+Wed May 16 01:19:56 UTC 2018: Setting lastTestMethodIndex: 55002
+Wed May 16 01:19:56 UTC 2018: Starting linking
+Wed May 16 01:19:56 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.PortResolverImplTests
+Wed May 16 01:19:56 UTC 2018: Found element on the queue
+Wed May 16 01:19:56 UTC 2018: Updating status
+Wed May 16 01:19:56 UTC 2018: Working
+Wed May 16 01:19:59 UTC 2018: Start justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationTokenTests
+Wed May 16 01:19:59 UTC 2018: Setting lastTestMethodIndex: 55005
+Wed May 16 01:19:59 UTC 2018: Starting linking
+Wed May 16 01:19:59 UTC 2018: Linking done for justinedelson__spring-security test class org.springframework.security.web.authentication.preauth.PreAuthenticatedAuthenticationTokenTests

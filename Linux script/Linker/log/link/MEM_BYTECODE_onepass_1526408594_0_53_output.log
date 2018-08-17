@@ -1,0 +1,327 @@
+Wed May 16 01:20:01 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 01:20:02 UTC 2018: Starting
+Wed May 16 01:20:02 UTC 2018: Found element on the queue
+Wed May 16 01:20:02 UTC 2018: Updating status
+Wed May 16 01:20:02 UTC 2018: Working
+Wed May 16 01:20:02 UTC 2018: Create project parser
+Wed May 16 01:20:06 UTC 2018: Create slicer
+Wed May 16 01:20:09 UTC 2018: Create call graph
+Wed May 16 01:20:11 UTC 2018: Create point analysis
+Wed May 16 01:20:11 UTC 2018: Create call graph done
+Wed May 16 01:20:11 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.cms.news.store.memory.MemoryArticleStoreTest
+Wed May 16 01:20:11 UTC 2018: Setting lastTestMethodIndex: 55013
+Wed May 16 01:20:11 UTC 2018: Starting linking
+Wed May 16 01:20:11 UTC 2018: Code found org.mayocat.cms.news.store.memory.MemoryArticleStore-findAllPublished with org.mayocat.cms.news.store.memory.MemoryArticleStoreTest-testFindAllPublished
+Wed May 16 01:20:11 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.cms.news.store.memory.MemoryArticleStoreTest
+Wed May 16 01:20:11 UTC 2018: Found element on the queue
+Wed May 16 01:20:11 UTC 2018: Updating status
+Wed May 16 01:20:11 UTC 2018: Working
+Wed May 16 01:20:11 UTC 2018: Create project parser
+Wed May 16 01:20:14 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.cms.pages.store.memory.MemoryPageStoreTest
+Wed May 16 01:20:14 UTC 2018: Setting lastTestMethodIndex: 55016
+Wed May 16 01:20:14 UTC 2018: Starting linking
+Wed May 16 01:20:14 UTC 2018: No link for: org.mayocat.cms.pages.store.memory.MemoryPageStoreTest-testFindRootPages
+Wed May 16 01:20:14 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.cms.pages.store.memory.MemoryPageStoreTest
+Wed May 16 01:20:15 UTC 2018: Found element on the queue
+Wed May 16 01:20:15 UTC 2018: Updating status
+Wed May 16 01:20:15 UTC 2018: Working
+Wed May 16 01:20:15 UTC 2018: Create project parser
+Wed May 16 01:20:18 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.accounts.store.memory.MemoryUserStoreTest
+Wed May 16 01:20:18 UTC 2018: Setting lastTestMethodIndex: 55019
+Wed May 16 01:20:18 UTC 2018: Starting linking
+Wed May 16 01:20:18 UTC 2018: Code found org.mayocat.accounts.store.memory.MemoryUserStore-create with org.mayocat.accounts.store.memory.MemoryUserStoreTest-testCreateUserAndRetrieveUserRole
+Wed May 16 01:20:19 UTC 2018: No link for: org.mayocat.accounts.store.memory.MemoryUserStoreTest-testFindByEmailOrUserName
+Wed May 16 01:20:19 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.accounts.store.memory.MemoryUserStoreTest
+Wed May 16 01:20:19 UTC 2018: Found element on the queue
+Wed May 16 01:20:19 UTC 2018: Updating status
+Wed May 16 01:20:19 UTC 2018: Working
+Wed May 16 01:20:22 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.accounts.store.memory.MemoryTenantStoreTest
+Wed May 16 01:20:22 UTC 2018: Setting lastTestMethodIndex: 55022
+Wed May 16 01:20:22 UTC 2018: Starting linking
+Wed May 16 01:20:22 UTC 2018: Code found org.mayocat.accounts.store.memory.MemoryTenantStore-findByDefaultHost with org.mayocat.accounts.store.memory.MemoryTenantStoreTest-testCreateAndFindByDefaultHost
+Wed May 16 01:20:22 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.accounts.store.memory.MemoryTenantStoreTest
+Wed May 16 01:20:23 UTC 2018: Found element on the queue
+Wed May 16 01:20:23 UTC 2018: Updating status
+Wed May 16 01:20:23 UTC 2018: Working
+Wed May 16 01:20:25 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.accounts.passwords.zxcvbn.ZxcvbnPasswordMeterTest
+Wed May 16 01:20:25 UTC 2018: Setting lastTestMethodIndex: 55025
+Wed May 16 01:20:25 UTC 2018: Starting linking
+Wed May 16 01:20:25 UTC 2018: No link for: org.mayocat.accounts.passwords.zxcvbn.ZxcvbnPasswordMeterTest-testZxcvbnPasswordStrength
+Wed May 16 01:20:26 UTC 2018: No link for: org.mayocat.accounts.passwords.zxcvbn.ZxcvbnPasswordMeterTest-testInputWordsAffectScore
+Wed May 16 01:20:26 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.accounts.passwords.zxcvbn.ZxcvbnPasswordMeterTest
+Wed May 16 01:20:26 UTC 2018: Found element on the queue
+Wed May 16 01:20:26 UTC 2018: Updating status
+Wed May 16 01:20:26 UTC 2018: Working
+Wed May 16 01:20:26 UTC 2018: Create project parser
+Wed May 16 01:20:29 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.addons.util.AddonUtilsTest
+Wed May 16 01:20:29 UTC 2018: Setting lastTestMethodIndex: 55028
+Wed May 16 01:20:29 UTC 2018: Starting linking
+Wed May 16 01:20:29 UTC 2018: Code found org.mayocat.addons.util.AddonUtils-isListWithKeyAndDisplayValues with org.mayocat.addons.util.AddonUtilsTest-testIsListWithKeyAndDisplayValuesIsKeyValueMap
+Wed May 16 01:20:29 UTC 2018: Code found org.mayocat.addons.util.AddonUtils-isListWithKeyAndDisplayValues with org.mayocat.addons.util.AddonUtilsTest-testIsListWithKeyAndDisplayValuesWhenNull
+Wed May 16 01:20:30 UTC 2018: Code found org.mayocat.addons.util.AddonUtils-isListWithKeyAndDisplayValues with org.mayocat.addons.util.AddonUtilsTest-testIsListWithKeyAndDisplayValuesWhenEmpty
+Wed May 16 01:20:30 UTC 2018: Code found org.mayocat.addons.util.AddonUtils-isListWithKeyAndDisplayValues with org.mayocat.addons.util.AddonUtilsTest-testIsListWithKeyAndDisplayValuesWhenListOfStrings
+Wed May 16 01:20:31 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.addons.util.AddonUtilsTest
+Wed May 16 01:20:31 UTC 2018: Found element on the queue
+Wed May 16 01:20:31 UTC 2018: Updating status
+Wed May 16 01:20:31 UTC 2018: Working
+Wed May 16 01:20:31 UTC 2018: Create project parser
+Wed May 16 01:20:34 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.attachment.store.AttachmentMemoryStoreTest
+Wed May 16 01:20:34 UTC 2018: Setting lastTestMethodIndex: 55032
+Wed May 16 01:20:34 UTC 2018: Starting linking
+Wed May 16 01:20:34 UTC 2018: No link for: org.mayocat.attachment.store.AttachmentMemoryStoreTest-testFindByParentAndExtensions
+Wed May 16 01:20:34 UTC 2018: No link for: org.mayocat.attachment.store.AttachmentMemoryStoreTest-testCreateAttachmentAndGetBySlug
+Wed May 16 01:20:35 UTC 2018: No link for: org.mayocat.attachment.store.AttachmentMemoryStoreTest-testCreateAttachmentAndGetBySlugAndExtension
+Wed May 16 01:20:35 UTC 2018: No link for: org.mayocat.attachment.store.AttachmentMemoryStoreTest-testFindByParentIdAndExtensions
+Wed May 16 01:20:35 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.attachment.store.AttachmentMemoryStoreTest
+Wed May 16 01:20:36 UTC 2018: Found element on the queue
+Wed May 16 01:20:36 UTC 2018: Updating status
+Wed May 16 01:20:36 UTC 2018: Working
+Wed May 16 01:20:36 UTC 2018: Create project parser
+Wed May 16 01:20:38 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.configuration.json.TimeZoneModuleTest
+Wed May 16 01:20:38 UTC 2018: Setting lastTestMethodIndex: 55035
+Wed May 16 01:20:38 UTC 2018: Starting linking
+Wed May 16 01:20:38 UTC 2018: No link for: org.mayocat.configuration.json.TimeZoneModuleTest-testTimeZoneDeserialization
+Wed May 16 01:20:39 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.configuration.json.TimeZoneModuleTest
+Wed May 16 01:20:39 UTC 2018: Found element on the queue
+Wed May 16 01:20:39 UTC 2018: Updating status
+Wed May 16 01:20:39 UTC 2018: Working
+Wed May 16 01:20:42 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.configuration.json.ConfigurableTest
+Wed May 16 01:20:42 UTC 2018: Setting lastTestMethodIndex: 55038
+Wed May 16 01:20:42 UTC 2018: Starting linking
+Wed May 16 01:20:42 UTC 2018: No link for: org.mayocat.configuration.json.ConfigurableTest-testParseConfigurable
+Wed May 16 01:20:42 UTC 2018: No link for: org.mayocat.configuration.json.ConfigurableTest-testDeserializeConfigurableDouble
+Wed May 16 01:20:42 UTC 2018: No link for: org.mayocat.configuration.json.ConfigurableTest-testVisibility
+Wed May 16 01:20:43 UTC 2018: No link for: org.mayocat.configuration.json.ConfigurableTest-testDeserializeConfigurableListOfString
+Wed May 16 01:20:43 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.configuration.json.ConfigurableTest
+Wed May 16 01:20:44 UTC 2018: Found element on the queue
+Wed May 16 01:20:44 UTC 2018: Updating status
+Wed May 16 01:20:44 UTC 2018: Working
+Wed May 16 01:20:44 UTC 2018: Create project parser
+Wed May 16 01:20:46 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.configuration.internal.ConfigurationJsonMergerTest
+Wed May 16 01:20:46 UTC 2018: Setting lastTestMethodIndex: 55042
+Wed May 16 01:20:46 UTC 2018: Starting linking
+Wed May 16 01:20:46 UTC 2018: Code found org.mayocat.configuration.internal.ConfigurationJsonMerger-merge with org.mayocat.configuration.internal.ConfigurationJsonMergerTest-testConfigurationMerge
+Wed May 16 01:20:47 UTC 2018: Code found org.mayocat.configuration.internal.ConfigurationJsonMerger-merge with org.mayocat.configuration.internal.ConfigurationJsonMergerTest-testConfigurationMergeWhenPropertyIsNotConfigurable
+Wed May 16 01:20:47 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.configuration.internal.ConfigurationJsonMergerTest
+Wed May 16 01:20:47 UTC 2018: Found element on the queue
+Wed May 16 01:20:47 UTC 2018: Updating status
+Wed May 16 01:20:47 UTC 2018: Working
+Wed May 16 01:20:50 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.configuration.internal.ValidConfigurationEnforcerTest
+Wed May 16 01:20:50 UTC 2018: Setting lastTestMethodIndex: 55045
+Wed May 16 01:20:50 UTC 2018: Starting linking
+Wed May 16 01:20:50 UTC 2018: No code found org.mayocat.configuration.internal.ValidConfigurationEnforcer-enforce with org.mayocat.configuration.internal.ValidConfigurationEnforcerTest-testEnforceValidConfigurationWhenNotConfigurable
+Wed May 16 01:20:50 UTC 2018: No code found org.mayocat.configuration.internal.ValidConfigurationEnforcer-enforce with org.mayocat.configuration.internal.ValidConfigurationEnforcerTest-testEnforceValidConfiguration
+Wed May 16 01:20:50 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.configuration.internal.ValidConfigurationEnforcerTest
+Wed May 16 01:20:51 UTC 2018: Found element on the queue
+Wed May 16 01:20:51 UTC 2018: Updating status
+Wed May 16 01:20:51 UTC 2018: Working
+Wed May 16 01:20:51 UTC 2018: Create project parser
+Wed May 16 01:20:53 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.image.DefaultImageServiceTest
+Wed May 16 01:20:53 UTC 2018: Setting lastTestMethodIndex: 55049
+Wed May 16 01:20:53 UTC 2018: Starting linking
+Wed May 16 01:20:53 UTC 2018: No link for: org.mayocat.image.DefaultImageServiceTest-testGetFittingBoxWhenHeightIsLimiting
+Wed May 16 01:20:54 UTC 2018: No link for: org.mayocat.image.DefaultImageServiceTest-testGetFittingBoxWhenWidthIsLimiting
+Wed May 16 01:20:54 UTC 2018: No link for: org.mayocat.image.DefaultImageServiceTest-testGetFittingBoxWhenAspectRatioMatchesDimensions
+Wed May 16 01:20:54 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.image.DefaultImageServiceTest
+Wed May 16 01:20:55 UTC 2018: Found element on the queue
+Wed May 16 01:20:55 UTC 2018: Updating status
+Wed May 16 01:20:55 UTC 2018: Working
+Wed May 16 01:20:55 UTC 2018: Create project parser
+Wed May 16 01:20:57 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.localization.internal.DefaultEntityLocalizationServiceTest
+Wed May 16 01:20:57 UTC 2018: Setting lastTestMethodIndex: 55051
+Wed May 16 01:20:57 UTC 2018: Starting linking
+Wed May 16 01:20:57 UTC 2018: No link for: org.mayocat.localization.internal.DefaultEntityLocalizationServiceTest-testEntityLocalization
+Wed May 16 01:20:58 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.localization.internal.DefaultEntityLocalizationServiceTest
+Wed May 16 01:20:58 UTC 2018: Found element on the queue
+Wed May 16 01:20:58 UTC 2018: Updating status
+Wed May 16 01:20:58 UTC 2018: Working
+Wed May 16 01:20:58 UTC 2018: Create project parser
+Wed May 16 01:21:01 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.mail.MailTest
+Wed May 16 01:21:01 UTC 2018: Setting lastTestMethodIndex: 55053
+Wed May 16 01:21:01 UTC 2018: Starting linking
+Wed May 16 01:21:01 UTC 2018: No link for: org.mayocat.mail.MailTest-testEmailCreation
+Wed May 16 01:21:01 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.mail.MailTest
+Wed May 16 01:21:02 UTC 2018: Found element on the queue
+Wed May 16 01:21:02 UTC 2018: Updating status
+Wed May 16 01:21:02 UTC 2018: Working
+Wed May 16 01:21:02 UTC 2018: Create project parser
+Wed May 16 01:21:04 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.jackson.OptionalStringListDeserializerTest
+Wed May 16 01:21:04 UTC 2018: Setting lastTestMethodIndex: 55055
+Wed May 16 01:21:04 UTC 2018: Starting linking
+Wed May 16 01:21:04 UTC 2018: No link for: org.mayocat.jackson.OptionalStringListDeserializerTest-testDeserializeOptionalStringListWhenList
+Wed May 16 01:21:05 UTC 2018: No link for: org.mayocat.jackson.OptionalStringListDeserializerTest-testDeserializeOptionalStringListWhenAbsent
+Wed May 16 01:21:05 UTC 2018: No link for: org.mayocat.jackson.OptionalStringListDeserializerTest-testDeserializeOptionalStringListWhenString
+Wed May 16 01:21:05 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.jackson.OptionalStringListDeserializerTest
+Wed May 16 01:21:06 UTC 2018: Found element on the queue
+Wed May 16 01:21:06 UTC 2018: Updating status
+Wed May 16 01:21:06 UTC 2018: Working
+Wed May 16 01:21:06 UTC 2018: Create project parser
+Wed May 16 01:21:08 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.rest.ReferenceTest
+Wed May 16 01:21:08 UTC 2018: Setting lastTestMethodIndex: 55057
+Wed May 16 01:21:08 UTC 2018: Starting linking
+Wed May 16 01:21:08 UTC 2018: No link for: org.mayocat.rest.ReferenceTest-testDeserializeInvalidReference3
+Wed May 16 01:21:09 UTC 2018: No link for: org.mayocat.rest.ReferenceTest-testDeserializeInvalidReference4
+Wed May 16 01:21:09 UTC 2018: No link for: org.mayocat.rest.ReferenceTest-testDeserializeInvalidReference1
+Wed May 16 01:21:09 UTC 2018: No link for: org.mayocat.rest.ReferenceTest-testDeserializeInvalidReference2
+Wed May 16 01:21:10 UTC 2018: No link for: org.mayocat.rest.ReferenceTest-testDeserializeReference
+Wed May 16 01:21:10 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.rest.ReferenceTest
+Wed May 16 01:21:10 UTC 2018: Found element on the queue
+Wed May 16 01:21:10 UTC 2018: Updating status
+Wed May 16 01:21:10 UTC 2018: Working
+Wed May 16 01:21:10 UTC 2018: Create project parser
+Wed May 16 01:21:13 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.rest.representations.ResultSetRepresentationTest
+Wed May 16 01:21:13 UTC 2018: Setting lastTestMethodIndex: 55059
+Wed May 16 01:21:13 UTC 2018: Starting linking
+Wed May 16 01:21:13 UTC 2018: No link for: org.mayocat.rest.representations.ResultSetRepresentationTest-testCreateResultSetRepresentation
+Wed May 16 01:21:13 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.rest.representations.ResultSetRepresentationTest
+Wed May 16 01:21:14 UTC 2018: Found element on the queue
+Wed May 16 01:21:14 UTC 2018: Updating status
+Wed May 16 01:21:14 UTC 2018: Working
+Wed May 16 01:21:16 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.rest.jackson.DateTimeISO8601SerializerTest
+Wed May 16 01:21:16 UTC 2018: Setting lastTestMethodIndex: 55061
+Wed May 16 01:21:16 UTC 2018: Starting linking
+Wed May 16 01:21:16 UTC 2018: No link for: org.mayocat.rest.jackson.DateTimeISO8601SerializerTest-testSerializeWithProperFormat
+Wed May 16 01:21:16 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.rest.jackson.DateTimeISO8601SerializerTest
+Wed May 16 01:21:17 UTC 2018: Found element on the queue
+Wed May 16 01:21:17 UTC 2018: Updating status
+Wed May 16 01:21:17 UTC 2018: Working
+Wed May 16 01:21:17 UTC 2018: Create project parser
+Wed May 16 01:21:20 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.search.elasticsearch.internal.DefaultEntityIndexDocumentPurveyorTest
+Wed May 16 01:21:20 UTC 2018: Setting lastTestMethodIndex: 55062
+Wed May 16 01:21:20 UTC 2018: Starting linking
+Wed May 16 01:21:20 UTC 2018: No link for: org.mayocat.search.elasticsearch.internal.DefaultEntityIndexDocumentPurveyorTest-testGetDocumentFromEntityThatHasAClassLevelIndexAnnotation
+Wed May 16 01:21:20 UTC 2018: No link for: org.mayocat.search.elasticsearch.internal.DefaultEntityIndexDocumentPurveyorTest-testGetDocumentFromEntityWhereExistsACustomHandlerForThatType
+Wed May 16 01:21:20 UTC 2018: No link for: org.mayocat.search.elasticsearch.internal.DefaultEntityIndexDocumentPurveyorTest-testGetDocumentFromEntityWithFeaturedImage
+Wed May 16 01:21:21 UTC 2018: No link for: org.mayocat.search.elasticsearch.internal.DefaultEntityIndexDocumentPurveyorTest-testGetDocumentFromEntityThatHasFieldLevelIndexAnnotation
+Wed May 16 01:21:21 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.search.elasticsearch.internal.DefaultEntityIndexDocumentPurveyorTest
+Wed May 16 01:21:21 UTC 2018: Found element on the queue
+Wed May 16 01:21:21 UTC 2018: Updating status
+Wed May 16 01:21:21 UTC 2018: Working
+Wed May 16 01:21:21 UTC 2018: Create project parser
+Wed May 16 01:21:24 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.store.memory.BaseEntityMemoryStoreTest
+Wed May 16 01:21:24 UTC 2018: Setting lastTestMethodIndex: 55065
+Wed May 16 01:21:24 UTC 2018: Starting linking
+Wed May 16 01:21:24 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.store.memory.BaseEntityMemoryStoreTest
+Wed May 16 01:21:24 UTC 2018: Found element on the queue
+Wed May 16 01:21:24 UTC 2018: Updating status
+Wed May 16 01:21:24 UTC 2018: Working
+Wed May 16 01:21:24 UTC 2018: Create project parser
+Wed May 16 01:21:27 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.store.rdbms.dbi.MoveEntityInListOperationTest
+Wed May 16 01:21:27 UTC 2018: Setting lastTestMethodIndex: 55067
+Wed May 16 01:21:27 UTC 2018: Starting linking
+Wed May 16 01:21:27 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.store.rdbms.dbi.MoveEntityInListOperationTest
+Wed May 16 01:21:28 UTC 2018: Found element on the queue
+Wed May 16 01:21:28 UTC 2018: Updating status
+Wed May 16 01:21:28 UTC 2018: Working
+Wed May 16 01:21:31 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.store.rdbms.dbi.dao.util.CollectionUtilTest
+Wed May 16 01:21:31 UTC 2018: Setting lastTestMethodIndex: 55068
+Wed May 16 01:21:31 UTC 2018: Starting linking
+Wed May 16 01:21:31 UTC 2018: Code found org.mayocat.store.rdbms.dbi.dao.util.CollectionUtil-move with org.mayocat.store.rdbms.dbi.dao.util.CollectionUtilTest-testMoveUp
+Wed May 16 01:21:31 UTC 2018: Code found org.mayocat.store.rdbms.dbi.dao.util.CollectionUtil-move with org.mayocat.store.rdbms.dbi.dao.util.CollectionUtilTest-testMoveDown
+Wed May 16 01:21:32 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.store.rdbms.dbi.dao.util.CollectionUtilTest
+Wed May 16 01:21:32 UTC 2018: Found element on the queue
+Wed May 16 01:21:32 UTC 2018: Updating status
+Wed May 16 01:21:32 UTC 2018: Working
+Wed May 16 01:21:35 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.store.rdbms.dbi.dao.util.StringUtilTest
+Wed May 16 01:21:35 UTC 2018: Setting lastTestMethodIndex: 55070
+Wed May 16 01:21:35 UTC 2018: Starting linking
+Wed May 16 01:21:35 UTC 2018: No link for: org.mayocat.store.rdbms.dbi.dao.util.StringUtilTest-testSnakify
+Wed May 16 01:21:35 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.store.rdbms.dbi.dao.util.StringUtilTest
+Wed May 16 01:21:36 UTC 2018: Found element on the queue
+Wed May 16 01:21:36 UTC 2018: Updating status
+Wed May 16 01:21:36 UTC 2018: Working
+Wed May 16 01:21:36 UTC 2018: Create project parser
+Wed May 16 01:21:38 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.theme.ThemeDefinitionTest
+Wed May 16 01:21:38 UTC 2018: Setting lastTestMethodIndex: 55072
+Wed May 16 01:21:38 UTC 2018: Starting linking
+Wed May 16 01:21:38 UTC 2018: No link for: org.mayocat.theme.ThemeDefinitionTest-testParsePagination
+Wed May 16 01:21:39 UTC 2018: No link for: org.mayocat.theme.ThemeDefinitionTest-testParseEmptyTheme
+Wed May 16 01:21:39 UTC 2018: No link for: org.mayocat.theme.ThemeDefinitionTest-testParseTheme
+Wed May 16 01:21:39 UTC 2018: No link for: org.mayocat.theme.ThemeDefinitionTest-testParseTypes
+Wed May 16 01:21:40 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.theme.ThemeDefinitionTest
+Wed May 16 01:21:40 UTC 2018: Found element on the queue
+Wed May 16 01:21:40 UTC 2018: Updating status
+Wed May 16 01:21:40 UTC 2018: Working
+Wed May 16 01:21:40 UTC 2018: Create project parser
+Wed May 16 01:21:42 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.url.DefaultEntityURLFactoryTest
+Wed May 16 01:21:42 UTC 2018: Setting lastTestMethodIndex: 55074
+Wed May 16 01:21:42 UTC 2018: Starting linking
+Wed May 16 01:21:42 UTC 2018: No link for: org.mayocat.url.DefaultEntityURLFactoryTest-testCreateURLWithoutCustomEntityURLFactory
+Wed May 16 01:21:43 UTC 2018: No link for: org.mayocat.url.DefaultEntityURLFactoryTest-testCreateURLWithCustomEntityURLFactory
+Wed May 16 01:21:43 UTC 2018: No link for: org.mayocat.url.DefaultEntityURLFactoryTest-testCreateURLWithPluralFormAnnotation
+Wed May 16 01:21:43 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.url.DefaultEntityURLFactoryTest
+Wed May 16 01:21:44 UTC 2018: Found element on the queue
+Wed May 16 01:21:44 UTC 2018: Updating status
+Wed May 16 01:21:44 UTC 2018: Working
+Wed May 16 01:21:44 UTC 2018: Create project parser
+Wed May 16 01:21:46 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.shop.store.memory.MemoryOrderStoreTest
+Wed May 16 01:21:46 UTC 2018: Setting lastTestMethodIndex: 55077
+Wed May 16 01:21:46 UTC 2018: Starting linking
+Wed May 16 01:21:46 UTC 2018: Code found org.mayocat.shop.billing.store.memory.MemoryOrderStore-findAllPaidOrAwaitingPayment with org.mayocat.shop.store.memory.MemoryOrderStoreTest-testFindAllPaidOrAwaitingPayment
+Wed May 16 01:21:47 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.shop.store.memory.MemoryOrderStoreTest
+Wed May 16 01:21:47 UTC 2018: Found element on the queue
+Wed May 16 01:21:47 UTC 2018: Updating status
+Wed May 16 01:21:47 UTC 2018: Working
+Wed May 16 01:21:47 UTC 2018: Create project parser
+Wed May 16 01:21:50 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.shop.cart.internal.DefaultCartInSessionConverterTest
+Wed May 16 01:21:50 UTC 2018: Setting lastTestMethodIndex: 55078
+Wed May 16 01:21:50 UTC 2018: Starting linking
+Wed May 16 01:21:50 UTC 2018: No link for: org.mayocat.shop.cart.internal.DefaultCartInSessionConverterTest-testConversion
+Wed May 16 01:21:50 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.shop.cart.internal.DefaultCartInSessionConverterTest
+Wed May 16 01:21:50 UTC 2018: Found element on the queue
+Wed May 16 01:21:50 UTC 2018: Updating status
+Wed May 16 01:21:50 UTC 2018: Working
+Wed May 16 01:21:53 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.shop.cart.internal.DefaultCartLoaderTest
+Wed May 16 01:21:53 UTC 2018: Setting lastTestMethodIndex: 55080
+Wed May 16 01:21:53 UTC 2018: Starting linking
+Wed May 16 01:21:53 UTC 2018: No link for: org.mayocat.shop.cart.internal.DefaultCartLoaderTest-executeTests
+Wed May 16 01:21:53 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.shop.cart.internal.DefaultCartLoaderTest
+Wed May 16 01:21:53 UTC 2018: Found element on the queue
+Wed May 16 01:21:53 UTC 2018: Updating status
+Wed May 16 01:21:53 UTC 2018: Working
+Wed May 16 01:21:53 UTC 2018: Create project parser
+Wed May 16 01:21:56 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.shop.catalog.store.memory.MemoryProductStoreTest
+Wed May 16 01:21:56 UTC 2018: Setting lastTestMethodIndex: 55081
+Wed May 16 01:21:56 UTC 2018: Starting linking
+Wed May 16 01:21:56 UTC 2018: Code found org.mayocat.shop.catalog.store.memory.MemoryProductStore-findAllOnShelf with org.mayocat.shop.catalog.store.memory.MemoryProductStoreTest-testFindAllOnShelf
+Wed May 16 01:21:56 UTC 2018: No code found org.mayocat.shop.catalog.store.memory.MemoryProductStore-findBySlug with org.mayocat.shop.catalog.store.memory.MemoryProductStoreTest-testFindBySlug
+Wed May 16 01:21:57 UTC 2018: Code found org.mayocat.shop.catalog.store.memory.MemoryProductStore-updateStock with org.mayocat.shop.catalog.store.memory.MemoryProductStoreTest-testUpdateStock
+Wed May 16 01:21:57 UTC 2018: No link for: org.mayocat.shop.catalog.store.memory.MemoryProductStoreTest-testFindOrphans
+Wed May 16 01:21:58 UTC 2018: No link for: org.mayocat.shop.catalog.store.memory.MemoryProductStoreTest-testFindWithTitleLike
+Wed May 16 01:21:58 UTC 2018: No link for: org.mayocat.shop.catalog.store.memory.MemoryProductStoreTest-testFindForCollection
+Wed May 16 01:21:58 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.shop.catalog.store.memory.MemoryProductStoreTest
+Wed May 16 01:21:59 UTC 2018: Found element on the queue
+Wed May 16 01:21:59 UTC 2018: Updating status
+Wed May 16 01:21:59 UTC 2018: Working
+Wed May 16 01:22:01 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.shop.catalog.configuration.jackson.MoneyTest
+Wed May 16 01:22:01 UTC 2018: Setting lastTestMethodIndex: 55083
+Wed May 16 01:22:01 UTC 2018: Starting linking
+Wed May 16 01:22:01 UTC 2018: No link for: org.mayocat.shop.catalog.configuration.jackson.MoneyTest-testCurrencyDeserialization
+Wed May 16 01:22:01 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.shop.catalog.configuration.jackson.MoneyTest
+Wed May 16 01:22:02 UTC 2018: Found element on the queue
+Wed May 16 01:22:02 UTC 2018: Updating status
+Wed May 16 01:22:02 UTC 2018: Working
+Wed May 16 01:22:04 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.shop.catalog.front.representation.PriceRepresentationTest
+Wed May 16 01:22:04 UTC 2018: Setting lastTestMethodIndex: 55085
+Wed May 16 01:22:04 UTC 2018: Starting linking
+Wed May 16 01:22:04 UTC 2018: No link for: org.mayocat.shop.catalog.front.representation.PriceRepresentationTest-testPriceCompactFormatWhenAmountHasDecimals
+Wed May 16 01:22:04 UTC 2018: No link for: org.mayocat.shop.catalog.front.representation.PriceRepresentationTest-testPriceCompactFormatWhenAmountHasNoDecimal
+Wed May 16 01:22:05 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.shop.catalog.front.representation.PriceRepresentationTest
+Wed May 16 01:22:05 UTC 2018: Found element on the queue
+Wed May 16 01:22:05 UTC 2018: Updating status
+Wed May 16 01:22:05 UTC 2018: Working
+Wed May 16 01:22:07 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.shop.catalog.store.memory.MemoryCollectionStoreTest
+Wed May 16 01:22:07 UTC 2018: Setting lastTestMethodIndex: 55087
+Wed May 16 01:22:07 UTC 2018: Starting linking
+Wed May 16 01:22:07 UTC 2018: Code found org.mayocat.shop.catalog.store.memory.MemoryCollectionStore-findAllWithProductCount with org.mayocat.shop.catalog.store.memory.MemoryCollectionStoreTest-testFindAllWithProductCount
+Wed May 16 01:22:08 UTC 2018: No link for: org.mayocat.shop.catalog.store.memory.MemoryCollectionStoreTest-testFindForProduct
+Wed May 16 01:22:08 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.shop.catalog.store.memory.MemoryCollectionStoreTest
+Wed May 16 01:22:08 UTC 2018: Found element on the queue
+Wed May 16 01:22:08 UTC 2018: Updating status
+Wed May 16 01:22:08 UTC 2018: Working
+Wed May 16 01:22:08 UTC 2018: Create project parser
+Wed May 16 01:22:11 UTC 2018: Start jvelo__mayocat-shop test class org.mayocat.shop.taxes.configuration.TaxesSettingsTest
+Wed May 16 01:22:11 UTC 2018: Setting lastTestMethodIndex: 55088
+Wed May 16 01:22:11 UTC 2018: Starting linking
+Wed May 16 01:22:11 UTC 2018: No link for: org.mayocat.shop.taxes.configuration.TaxesSettingsTest-testModeDeserialization
+Wed May 16 01:22:11 UTC 2018: Linking done for jvelo__mayocat-shop test class org.mayocat.shop.taxes.configuration.TaxesSettingsTest

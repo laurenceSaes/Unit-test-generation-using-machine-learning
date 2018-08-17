@@ -1,0 +1,1354 @@
+Tue May 15 23:39:52 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 23:39:53 UTC 2018: Starting
+Tue May 15 23:39:53 UTC 2018: Found element on the queue
+Tue May 15 23:39:53 UTC 2018: Updating status
+Tue May 15 23:39:53 UTC 2018: Working
+Tue May 15 23:39:53 UTC 2018: Create project parser
+Tue May 15 23:39:58 UTC 2018: Create slicer
+Tue May 15 23:40:01 UTC 2018: Create call graph
+Tue May 15 23:40:07 UTC 2018: Create point analysis
+Tue May 15 23:40:07 UTC 2018: Create call graph done
+Tue May 15 23:40:07 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.UtilTest
+Tue May 15 23:40:07 UTC 2018: Setting lastTestMethodIndex: 51448
+Tue May 15 23:40:07 UTC 2018: Starting linking
+Tue May 15 23:40:07 UTC 2018: No link for: com.github.jferard.fastods.testlib.UtilTest-testExistingFile
+Tue May 15 23:40:08 UTC 2018: No link for: com.github.jferard.fastods.testlib.UtilTest-testNewDirFile
+Tue May 15 23:40:08 UTC 2018: No link for: com.github.jferard.fastods.testlib.UtilTest-testExistingDir
+Tue May 15 23:40:08 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.UtilTest
+Tue May 15 23:40:09 UTC 2018: Found element on the queue
+Tue May 15 23:40:09 UTC 2018: Updating status
+Tue May 15 23:40:09 UTC 2018: Working
+Tue May 15 23:40:11 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest
+Tue May 15 23:40:11 UTC 2018: Setting lastTestMethodIndex: 51450
+Tue May 15 23:40:11 UTC 2018: Starting linking
+Tue May 15 23:40:11 UTC 2018: Code found com.github.jferard.fastods.testlib.ZipUTF8WriterMock-append with com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testAppendCharSequenceWithoutBuilder
+Tue May 15 23:40:11 UTC 2018: Code found com.github.jferard.fastods.testlib.ZipUTF8WriterMock-close with com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testCloseWithUnclosedEntry
+Tue May 15 23:40:12 UTC 2018: Code found com.github.jferard.fastods.testlib.ZipUTF8WriterMock-append with com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testAppendCharSequencePartWithoutBuilder
+Tue May 15 23:40:12 UTC 2018: Code found com.github.jferard.fastods.testlib.ZipUTF8WriterMock-append with com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testAppendCharWithoutBuilder
+Tue May 15 23:40:12 UTC 2018: Code found com.github.jferard.fastods.testlib.ZipUTF8WriterMock-append with com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testAppendWithBuilder
+Tue May 15 23:40:13 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testOneEntryWithXML
+Tue May 15 23:40:13 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testNoEntry
+Tue May 15 23:40:13 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testCloseUnopenedEntry
+Tue May 15 23:40:14 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testComment
+Tue May 15 23:40:14 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest-testOneEntry
+Tue May 15 23:40:14 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.ZipUTF8WriterMockTest
+Tue May 15 23:40:15 UTC 2018: Found element on the queue
+Tue May 15 23:40:15 UTC 2018: Updating status
+Tue May 15 23:40:15 UTC 2018: Working
+Tue May 15 23:40:18 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.OdfToolkitUtilTest
+Tue May 15 23:40:18 UTC 2018: Setting lastTestMethodIndex: 51452
+Tue May 15 23:40:18 UTC 2018: Starting linking
+Tue May 15 23:40:18 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-testAttributeNull
+Tue May 15 23:40:18 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-testFirstElement
+Tue May 15 23:40:18 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-test
+Tue May 15 23:40:19 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-testNullParentStyleName
+Tue May 15 23:40:19 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-testStyleName
+Tue May 15 23:40:19 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-testAttribute
+Tue May 15 23:40:20 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-testDocumentStyle
+Tue May 15 23:40:20 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-testParentStyleFamilyName
+Tue May 15 23:40:20 UTC 2018: No link for: com.github.jferard.fastods.testlib.OdfToolkitUtilTest-testStyleFamilyName
+Tue May 15 23:40:21 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.OdfToolkitUtilTest
+Tue May 15 23:40:21 UTC 2018: Found element on the queue
+Tue May 15 23:40:21 UTC 2018: Updating status
+Tue May 15 23:40:21 UTC 2018: Working
+Tue May 15 23:40:24 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.ComputationsTest
+Tue May 15 23:40:24 UTC 2018: Setting lastTestMethodIndex: 51454
+Tue May 15 23:40:24 UTC 2018: Starting linking
+Tue May 15 23:40:24 UTC 2018: No link for: com.github.jferard.fastods.testlib.ComputationsTest-test
+Tue May 15 23:40:24 UTC 2018: No link for: com.github.jferard.fastods.testlib.ComputationsTest-testEmpty
+Tue May 15 23:40:24 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.ComputationsTest
+Tue May 15 23:40:25 UTC 2018: Found element on the queue
+Tue May 15 23:40:25 UTC 2018: Updating status
+Tue May 15 23:40:25 UTC 2018: Working
+Tue May 15 23:40:27 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.BenchTest
+Tue May 15 23:40:27 UTC 2018: Setting lastTestMethodIndex: 51456
+Tue May 15 23:40:27 UTC 2018: Starting linking
+Tue May 15 23:40:27 UTC 2018: No link for: com.github.jferard.fastods.testlib.BenchTest-testEmptyWithWarmup
+Tue May 15 23:40:28 UTC 2018: No link for: com.github.jferard.fastods.testlib.BenchTest-testValues
+Tue May 15 23:40:28 UTC 2018: No link for: com.github.jferard.fastods.testlib.BenchTest-testEmptyWithoutWarmup
+Tue May 15 23:40:28 UTC 2018: No link for: com.github.jferard.fastods.testlib.BenchTest-testTenWithWarmup
+Tue May 15 23:40:29 UTC 2018: No link for: com.github.jferard.fastods.testlib.BenchTest-testTenWithoutWarmup
+Tue May 15 23:40:29 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.BenchTest
+Tue May 15 23:40:29 UTC 2018: Found element on the queue
+Tue May 15 23:40:29 UTC 2018: Updating status
+Tue May 15 23:40:29 UTC 2018: Working
+Tue May 15 23:40:32 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.UnsortedNodeListTest
+Tue May 15 23:40:32 UTC 2018: Setting lastTestMethodIndex: 51458
+Tue May 15 23:40:32 UTC 2018: Starting linking
+Tue May 15 23:40:32 UTC 2018: Code found com.github.jferard.fastods.testlib.UnsortedNodeList-iterator with com.github.jferard.fastods.testlib.UnsortedNodeListTest-testIterator
+Tue May 15 23:40:32 UTC 2018: Code found com.github.jferard.fastods.testlib.UnsortedNodeList-toString with com.github.jferard.fastods.testlib.UnsortedNodeListTest-testToString
+Tue May 15 23:40:33 UTC 2018: Code found com.github.jferard.fastods.testlib.UnsortedNodeList-size with com.github.jferard.fastods.testlib.UnsortedNodeListTest-testSize
+Tue May 15 23:40:33 UTC 2018: Code found com.github.jferard.fastods.testlib.UnsortedNodeList-hashCode with com.github.jferard.fastods.testlib.UnsortedNodeListTest-testHashcode
+Tue May 15 23:40:33 UTC 2018: No link for: com.github.jferard.fastods.testlib.UnsortedNodeListTest-testCompare
+Tue May 15 23:40:33 UTC 2018: No link for: com.github.jferard.fastods.testlib.UnsortedNodeListTest-testComparator
+Tue May 15 23:40:34 UTC 2018: No link for: com.github.jferard.fastods.testlib.UnsortedNodeListTest-testDifferent
+Tue May 15 23:40:34 UTC 2018: No link for: com.github.jferard.fastods.testlib.UnsortedNodeListTest-testCompareDifferentLength
+Tue May 15 23:40:34 UTC 2018: No link for: com.github.jferard.fastods.testlib.UnsortedNodeListTest-testComparator2
+Tue May 15 23:40:34 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.UnsortedNodeListTest
+Tue May 15 23:40:35 UTC 2018: Found element on the queue
+Tue May 15 23:40:35 UTC 2018: Updating status
+Tue May 15 23:40:35 UTC 2018: Working
+Tue May 15 23:40:38 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.AttrListTest
+Tue May 15 23:40:38 UTC 2018: Setting lastTestMethodIndex: 51461
+Tue May 15 23:40:38 UTC 2018: Starting linking
+Tue May 15 23:40:38 UTC 2018: Code found com.github.jferard.fastods.testlib.AttrList-size with com.github.jferard.fastods.testlib.AttrListTest-testSize
+Tue May 15 23:40:39 UTC 2018: Code found com.github.jferard.fastods.testlib.AttrList-iterator with com.github.jferard.fastods.testlib.AttrListTest-testIterator
+Tue May 15 23:40:39 UTC 2018: Code found com.github.jferard.fastods.testlib.AttrList-hashCode with com.github.jferard.fastods.testlib.AttrListTest-testHashCode
+Tue May 15 23:40:39 UTC 2018: No link for: com.github.jferard.fastods.testlib.AttrListTest-testNull
+Tue May 15 23:40:40 UTC 2018: No link for: com.github.jferard.fastods.testlib.AttrListTest-testStr
+Tue May 15 23:40:40 UTC 2018: No link for: com.github.jferard.fastods.testlib.AttrListTest-testEquals
+Tue May 15 23:40:40 UTC 2018: No link for: com.github.jferard.fastods.testlib.AttrListTest-testCompareWithNull
+Tue May 15 23:40:40 UTC 2018: No link for: com.github.jferard.fastods.testlib.AttrListTest-testCompare
+Tue May 15 23:40:41 UTC 2018: No link for: com.github.jferard.fastods.testlib.AttrListTest-testCompareWithDifferentSizes
+Tue May 15 23:40:41 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.AttrListTest
+Tue May 15 23:40:41 UTC 2018: Found element on the queue
+Tue May 15 23:40:41 UTC 2018: Updating status
+Tue May 15 23:40:41 UTC 2018: Working
+Tue May 15 23:40:45 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandlerTest
+Tue May 15 23:40:45 UTC 2018: Setting lastTestMethodIndex: 51464
+Tue May 15 23:40:45 UTC 2018: Starting linking
+Tue May 15 23:40:45 UTC 2018: Code found com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandler-getInstance with com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandlerTest-testGetInstance
+Tue May 15 23:40:45 UTC 2018: Code found com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandler-create with com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandlerTest-testCreate
+Tue May 15 23:40:46 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandlerTest-testInvokeOther
+Tue May 15 23:40:46 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandlerTest-testGet
+Tue May 15 23:40:46 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandlerTest-testGetBuilder
+Tue May 15 23:40:46 UTC 2018: No link for: com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandlerTest-testInvoke
+Tue May 15 23:40:47 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.ZipUTF8WriterMockHandlerTest
+Tue May 15 23:40:47 UTC 2018: Found element on the queue
+Tue May 15 23:40:47 UTC 2018: Updating status
+Tue May 15 23:40:47 UTC 2018: Working
+Tue May 15 23:40:50 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.SortedChildrenTesterTest
+Tue May 15 23:40:50 UTC 2018: Setting lastTestMethodIndex: 51468
+Tue May 15 23:40:50 UTC 2018: Starting linking
+Tue May 15 23:40:50 UTC 2018: Code found com.github.jferard.fastods.testlib.ChildrenTester-attributesEquals with com.github.jferard.fastods.testlib.SortedChildrenTesterTest-testAttributesEquals
+Tue May 15 23:40:50 UTC 2018: Code found com.github.jferard.fastods.testlib.ChildrenTester-attributesEquals with com.github.jferard.fastods.testlib.SortedChildrenTesterTest-testAttributesEquals2
+Tue May 15 23:40:50 UTC 2018: No code found com.github.jferard.fastods.testlib.ChildrenTester-childrenEquals with com.github.jferard.fastods.testlib.SortedChildrenTesterTest-testChildrenEquals
+Tue May 15 23:40:50 UTC 2018: Code found com.github.jferard.fastods.testlib.ChildrenTester-equals with com.github.jferard.fastods.testlib.SortedChildrenTesterTest-testEquals
+Tue May 15 23:40:51 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.SortedChildrenTesterTest
+Tue May 15 23:40:51 UTC 2018: Found element on the queue
+Tue May 15 23:40:51 UTC 2018: Updating status
+Tue May 15 23:40:51 UTC 2018: Working
+Tue May 15 23:40:54 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.FibonacciTest
+Tue May 15 23:40:54 UTC 2018: Setting lastTestMethodIndex: 51471
+Tue May 15 23:40:54 UTC 2018: Starting linking
+Tue May 15 23:40:54 UTC 2018: No link for: com.github.jferard.fastods.testlib.FibonacciTest-testWithoutMax
+Tue May 15 23:40:54 UTC 2018: No link for: com.github.jferard.fastods.testlib.FibonacciTest-testWithMax
+Tue May 15 23:40:54 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.FibonacciTest
+Tue May 15 23:40:55 UTC 2018: Found element on the queue
+Tue May 15 23:40:55 UTC 2018: Updating status
+Tue May 15 23:40:55 UTC 2018: Working
+Tue May 15 23:40:58 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.testlib.UnsortedChildrenTesterTest
+Tue May 15 23:40:58 UTC 2018: Setting lastTestMethodIndex: 51474
+Tue May 15 23:40:58 UTC 2018: Starting linking
+Tue May 15 23:40:58 UTC 2018: Code found com.github.jferard.fastods.testlib.UnsortedChildrenTester-childrenEquals with com.github.jferard.fastods.testlib.UnsortedChildrenTesterTest-testChildrenEquals
+Tue May 15 23:40:58 UTC 2018: Code found com.github.jferard.fastods.testlib.UnsortedChildrenTester-attributesEquals with com.github.jferard.fastods.testlib.UnsortedChildrenTesterTest-testAttributesEquals2
+Tue May 15 23:40:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:40:59 UTC 2018: No link for: com.github.jferard.fastods.testlib.UnsortedChildrenTesterTest-testEquals
+Tue May 15 23:40:59 UTC 2018: No link for: com.github.jferard.fastods.testlib.UnsortedChildrenTesterTest-testNotEquals
+Tue May 15 23:40:59 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.testlib.UnsortedChildrenTesterTest
+Tue May 15 23:41:00 UTC 2018: Found element on the queue
+Tue May 15 23:41:00 UTC 2018: Updating status
+Tue May 15 23:41:00 UTC 2018: Working
+Tue May 15 23:41:00 UTC 2018: Create project parser
+Tue May 15 23:41:07 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.SpanTest
+Tue May 15 23:41:07 UTC 2018: Setting lastTestMethodIndex: 51478
+Tue May 15 23:41:07 UTC 2018: Starting linking
+Tue May 15 23:41:07 UTC 2018: No link for: com.github.jferard.fastods.SpanTest-testSimpleFHText
+Tue May 15 23:41:08 UTC 2018: No link for: com.github.jferard.fastods.SpanTest-testFHTextWithStyle
+Tue May 15 23:41:08 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.SpanTest
+Tue May 15 23:41:08 UTC 2018: Found element on the queue
+Tue May 15 23:41:08 UTC 2018: Updating status
+Tue May 15 23:41:08 UTC 2018: Working
+Tue May 15 23:41:11 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TextTest
+Tue May 15 23:41:11 UTC 2018: Setting lastTestMethodIndex: 51481
+Tue May 15 23:41:11 UTC 2018: Starting linking
+Tue May 15 23:41:11 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-styledLink with com.github.jferard.fastods.TextTest-styledLinkFile
+Tue May 15 23:41:11 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-styledLink with com.github.jferard.fastods.TextTest-styledLinkRef
+Tue May 15 23:41:11 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-parStyledContent with com.github.jferard.fastods.TextTest-parStyledContent
+Tue May 15 23:41:11 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-styledLink with com.github.jferard.fastods.TextTest-styledLinkURL
+Tue May 15 23:41:12 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-link with com.github.jferard.fastods.TextTest-linkURL
+Tue May 15 23:41:12 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-link with com.github.jferard.fastods.TextTest-linkRef
+Tue May 15 23:41:12 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-link with com.github.jferard.fastods.TextTest-linkFile
+Tue May 15 23:41:12 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-link with com.github.jferard.fastods.TextTest-linkTable
+Tue May 15 23:41:13 UTC 2018: Code found com.github.jferard.fastods.TextBuilder-styledLink with com.github.jferard.fastods.TextTest-styledLinkTable
+Tue May 15 23:41:13 UTC 2018: No link for: com.github.jferard.fastods.TextTest-testEmbeddedStyles
+Tue May 15 23:41:13 UTC 2018: No link for: com.github.jferard.fastods.TextTest-parContent
+Tue May 15 23:41:13 UTC 2018: No link for: com.github.jferard.fastods.TextTest-testEmbeddedStyles2
+Tue May 15 23:41:14 UTC 2018: No link for: com.github.jferard.fastods.TextTest-empty
+Tue May 15 23:41:14 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TextTest
+Tue May 15 23:41:14 UTC 2018: Found element on the queue
+Tue May 15 23:41:14 UTC 2018: Updating status
+Tue May 15 23:41:14 UTC 2018: Working
+Tue May 15 23:41:17 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TableAppenderTest
+Tue May 15 23:41:17 UTC 2018: Setting lastTestMethodIndex: 51484
+Tue May 15 23:41:17 UTC 2018: Starting linking
+Tue May 15 23:41:17 UTC 2018: No link for: com.github.jferard.fastods.TableAppenderTest-appendEmptyPreambleTest
+Tue May 15 23:41:17 UTC 2018: No link for: com.github.jferard.fastods.TableAppenderTest-appendTwoElementsPreambleTest
+Tue May 15 23:41:17 UTC 2018: No link for: com.github.jferard.fastods.TableAppenderTest-appendFourElementsPreambleTest
+Tue May 15 23:41:18 UTC 2018: No link for: com.github.jferard.fastods.TableAppenderTest-appendOneElementPreambleTest
+Tue May 15 23:41:18 UTC 2018: No link for: com.github.jferard.fastods.TableAppenderTest-appendTenElementsPreambleTest
+Tue May 15 23:41:18 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TableAppenderTest
+Tue May 15 23:41:19 UTC 2018: Found element on the queue
+Tue May 15 23:41:19 UTC 2018: Updating status
+Tue May 15 23:41:19 UTC 2018: Working
+Tue May 15 23:41:21 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.FastOdsExceptionTest
+Tue May 15 23:41:21 UTC 2018: Setting lastTestMethodIndex: 51487
+Tue May 15 23:41:21 UTC 2018: Starting linking
+Tue May 15 23:41:21 UTC 2018: Code found com.github.jferard.fastods.FastOdsException-wrongTableNumber with com.github.jferard.fastods.FastOdsExceptionTest-testWrongTableNumber
+Tue May 15 23:41:22 UTC 2018: Code found com.github.jferard.fastods.FastOdsException-wrongTableName with com.github.jferard.fastods.FastOdsExceptionTest-testWrongTableName
+Tue May 15 23:41:22 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.FastOdsExceptionTest
+Tue May 15 23:41:22 UTC 2018: Found element on the queue
+Tue May 15 23:41:22 UTC 2018: Updating status
+Tue May 15 23:41:22 UTC 2018: Working
+Tue May 15 23:41:25 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.OdsFactoryTest
+Tue May 15 23:41:25 UTC 2018: Setting lastTestMethodIndex: 51490
+Tue May 15 23:41:25 UTC 2018: Starting linking
+Tue May 15 23:41:25 UTC 2018: Code found com.github.jferard.fastods.OdsFactory-createWriter with com.github.jferard.fastods.OdsFactoryTest-createWriter1
+Tue May 15 23:41:25 UTC 2018: Code found com.github.jferard.fastods.OdsFactory-createWriterAdapter with com.github.jferard.fastods.OdsFactoryTest-createWriterAdapter
+Tue May 15 23:41:25 UTC 2018: Code found com.github.jferard.fastods.OdsFactory-createWriter with com.github.jferard.fastods.OdsFactoryTest-createWriter
+Tue May 15 23:41:26 UTC 2018: No link for: com.github.jferard.fastods.OdsFactoryTest-openFile
+Tue May 15 23:41:26 UTC 2018: No link for: com.github.jferard.fastods.OdsFactoryTest-openFile1
+Tue May 15 23:41:26 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.OdsFactoryTest
+Tue May 15 23:41:27 UTC 2018: Found element on the queue
+Tue May 15 23:41:27 UTC 2018: Updating status
+Tue May 15 23:41:27 UTC 2018: Working
+Tue May 15 23:41:29 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.ParagraphTest
+Tue May 15 23:41:29 UTC 2018: Setting lastTestMethodIndex: 51493
+Tue May 15 23:41:29 UTC 2018: Starting linking
+Tue May 15 23:41:29 UTC 2018: Code found com.github.jferard.fastods.ParagraphBuilder-style with com.github.jferard.fastods.ParagraphTest-testWithStyle
+Tue May 15 23:41:29 UTC 2018: Code found com.github.jferard.fastods.ParagraphBuilder-styledLink with com.github.jferard.fastods.ParagraphTest-testStyledLinks
+Tue May 15 23:41:30 UTC 2018: Code found com.github.jferard.fastods.ParagraphBuilder-span with com.github.jferard.fastods.ParagraphTest-testSpans
+Tue May 15 23:41:30 UTC 2018: Code found com.github.jferard.fastods.ParagraphBuilder-link with com.github.jferard.fastods.ParagraphTest-testLinks
+Tue May 15 23:41:30 UTC 2018: No link for: com.github.jferard.fastods.ParagraphTest-testNoSpan
+Tue May 15 23:41:31 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.ParagraphTest
+Tue May 15 23:41:31 UTC 2018: Found element on the queue
+Tue May 15 23:41:31 UTC 2018: Updating status
+Tue May 15 23:41:31 UTC 2018: Working
+Tue May 15 23:41:34 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.SimplePageSectionTest
+Tue May 15 23:41:34 UTC 2018: Setting lastTestMethodIndex: 51496
+Tue May 15 23:41:34 UTC 2018: Starting linking
+Tue May 15 23:41:34 UTC 2018: Code found com.github.jferard.fastods.SimplePageSectionBuilder-minHeight with com.github.jferard.fastods.SimplePageSectionTest-testFourMarginsAndMinHeightToAutomaticStyle
+Tue May 15 23:41:34 UTC 2018: Code found com.github.jferard.fastods.SimplePageSectionBuilder-minHeight with com.github.jferard.fastods.SimplePageSectionTest-testMarginsAndMinHeightToAutomaticStyle
+Tue May 15 23:41:34 UTC 2018: No link for: com.github.jferard.fastods.SimplePageSectionTest-testSimpleStyledTextToAutomaticStyle
+Tue May 15 23:41:34 UTC 2018: No link for: com.github.jferard.fastods.SimplePageSectionTest-testAlmostEmptyToMasterStyle
+Tue May 15 23:41:35 UTC 2018: No link for: com.github.jferard.fastods.SimplePageSectionTest-testAddEmbbeded
+Tue May 15 23:41:35 UTC 2018: No link for: com.github.jferard.fastods.SimplePageSectionTest-testPageToMasterStyle
+Tue May 15 23:41:35 UTC 2018: No link for: com.github.jferard.fastods.SimplePageSectionTest-testSimpleFooterToAutomaticStyle
+Tue May 15 23:41:36 UTC 2018: No link for: com.github.jferard.fastods.SimplePageSectionTest-testPageToMasterStyle2
+Tue May 15 23:41:36 UTC 2018: No link for: com.github.jferard.fastods.SimplePageSectionTest-testSimpleFooterToMasterStyle
+Tue May 15 23:41:36 UTC 2018: No link for: com.github.jferard.fastods.SimplePageSectionTest-testSimpleStyledTextToMasterStyle
+Tue May 15 23:41:36 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.SimplePageSectionTest
+Tue May 15 23:41:37 UTC 2018: Found element on the queue
+Tue May 15 23:41:37 UTC 2018: Updating status
+Tue May 15 23:41:37 UTC 2018: Working
+Tue May 15 23:41:40 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.tool.OdsDocumentHelperTest
+Tue May 15 23:41:40 UTC 2018: Setting lastTestMethodIndex: 51500
+Tue May 15 23:41:40 UTC 2018: Starting linking
+Tue May 15 23:41:40 UTC 2018: No link for: com.github.jferard.fastods.tool.OdsDocumentHelperTest-testCellValueInAllTables
+Tue May 15 23:41:40 UTC 2018: No link for: com.github.jferard.fastods.tool.OdsDocumentHelperTest-testCellMergeInAllTables
+Tue May 15 23:41:41 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.tool.OdsDocumentHelperTest
+Tue May 15 23:41:41 UTC 2018: Found element on the queue
+Tue May 15 23:41:41 UTC 2018: Updating status
+Tue May 15 23:41:41 UTC 2018: Working
+Tue May 15 23:41:44 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.tool.ResultSetDataWrapperTest
+Tue May 15 23:41:44 UTC 2018: Setting lastTestMethodIndex: 51502
+Tue May 15 23:41:44 UTC 2018: Starting linking
+Tue May 15 23:41:45 UTC 2018: No link for: com.github.jferard.fastods.tool.ResultSetDataWrapperTest-testNullValue
+Tue May 15 23:41:45 UTC 2018: No link for: com.github.jferard.fastods.tool.ResultSetDataWrapperTest-testMax
+Tue May 15 23:41:45 UTC 2018: No link for: com.github.jferard.fastods.tool.ResultSetDataWrapperTest-testMetaDataException
+Tue May 15 23:41:45 UTC 2018: No link for: com.github.jferard.fastods.tool.ResultSetDataWrapperTest-testNoRow
+Tue May 15 23:41:46 UTC 2018: No link for: com.github.jferard.fastods.tool.ResultSetDataWrapperTest-testRealDataSets
+Tue May 15 23:41:46 UTC 2018: No link for: com.github.jferard.fastods.tool.ResultSetDataWrapperTest-testRSException
+Tue May 15 23:41:46 UTC 2018: No link for: com.github.jferard.fastods.tool.ResultSetDataWrapperTest-testOneRow
+Tue May 15 23:41:46 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.tool.ResultSetDataWrapperTest
+Tue May 15 23:41:47 UTC 2018: Found element on the queue
+Tue May 15 23:41:47 UTC 2018: Updating status
+Tue May 15 23:41:47 UTC 2018: Working
+Tue May 15 23:41:49 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.tool.TableHelperTest
+Tue May 15 23:41:49 UTC 2018: Setting lastTestMethodIndex: 51505
+Tue May 15 23:41:49 UTC 2018: Starting linking
+Tue May 15 23:41:49 UTC 2018: Code found com.github.jferard.fastods.tool.TableHelper-setCellValue with com.github.jferard.fastods.tool.TableHelperTest-testSetCellValue
+Tue May 15 23:41:50 UTC 2018: Code found com.github.jferard.fastods.tool.TableHelper-setCellMerge with com.github.jferard.fastods.tool.TableHelperTest-testSetCellMerge
+Tue May 15 23:41:50 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.tool.TableHelperTest
+Tue May 15 23:41:50 UTC 2018: Found element on the queue
+Tue May 15 23:41:50 UTC 2018: Updating status
+Tue May 15 23:41:50 UTC 2018: Working
+Tue May 15 23:41:53 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.tool.FastOdsBusTest
+Tue May 15 23:41:53 UTC 2018: Setting lastTestMethodIndex: 51507
+Tue May 15 23:41:53 UTC 2018: Starting linking
+Tue May 15 23:41:53 UTC 2018: Code found com.github.jferard.fastods.tool.FastOdsBus-close with com.github.jferard.fastods.tool.FastOdsBusTest-testPutAfterClose
+Tue May 15 23:41:53 UTC 2018: Code found com.github.jferard.fastods.tool.FastOdsBus-close with com.github.jferard.fastods.tool.FastOdsBusTest-testGetAfterClose
+Tue May 15 23:41:54 UTC 2018: No link for: com.github.jferard.fastods.tool.FastOdsBusTest-testBus
+Tue May 15 23:41:54 UTC 2018: No link for: com.github.jferard.fastods.tool.FastOdsBusTest-testWait
+Tue May 15 23:41:54 UTC 2018: No link for: com.github.jferard.fastods.tool.FastOdsBusTest-testWaitInterrupt
+Tue May 15 23:41:54 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.tool.FastOdsBusTest
+Tue May 15 23:41:55 UTC 2018: Found element on the queue
+Tue May 15 23:41:55 UTC 2018: Updating status
+Tue May 15 23:41:55 UTC 2018: Working
+Tue May 15 23:41:58 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.tool.FastOdsTest
+Tue May 15 23:41:58 UTC 2018: Setting lastTestMethodIndex: 51511
+Tue May 15 23:41:58 UTC 2018: Starting linking
+Tue May 15 23:41:58 UTC 2018: Code found com.github.jferard.fastods.tool.FastOds-openFile with com.github.jferard.fastods.tool.FastOdsTest-testOpenFile
+Tue May 15 23:41:58 UTC 2018: Code found com.github.jferard.fastods.tool.FastOds-openFile with com.github.jferard.fastods.tool.FastOdsTest-testOpenFileError
+Tue May 15 23:41:58 UTC 2018: No link for: com.github.jferard.fastods.tool.FastOdsTest-testOpenDirMock
+Tue May 15 23:41:59 UTC 2018: No link for: com.github.jferard.fastods.tool.FastOdsTest-testOpenNonExisting
+Tue May 15 23:41:59 UTC 2018: No link for: com.github.jferard.fastods.tool.FastOdsTest-testOpenInexistentFile
+Tue May 15 23:41:59 UTC 2018: No link for: com.github.jferard.fastods.tool.FastOdsTest-testOpenDir
+Tue May 15 23:41:59 UTC 2018: No link for: com.github.jferard.fastods.tool.FastOdsTest-testXMLUtil
+Tue May 15 23:42:00 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.tool.FastOdsTest
+Tue May 15 23:42:01 UTC 2018: Found element on the queue
+Tue May 15 23:42:01 UTC 2018: Updating status
+Tue May 15 23:42:01 UTC 2018: Working
+Tue May 15 23:42:03 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.SettingsTest
+Tue May 15 23:42:03 UTC 2018: Setting lastTestMethodIndex: 51515
+Tue May 15 23:42:03 UTC 2018: Starting linking
+Tue May 15 23:42:03 UTC 2018: Code found com.github.jferard.fastods.odselement.Settings-addTable with com.github.jferard.fastods.odselement.SettingsTest-testAddTable
+Tue May 15 23:42:04 UTC 2018: Code found com.github.jferard.fastods.odselement.Settings-setViewSetting with com.github.jferard.fastods.odselement.SettingsTest-testSetViewSettings
+Tue May 15 23:42:04 UTC 2018: No link for: com.github.jferard.fastods.odselement.SettingsTest-testViewSettingsContent
+Tue May 15 23:42:05 UTC 2018: No link for: com.github.jferard.fastods.odselement.SettingsTest-testSetMissingViewSettings
+Tue May 15 23:42:05 UTC 2018: No link for: com.github.jferard.fastods.odselement.SettingsTest-testViewSettings
+Tue May 15 23:42:05 UTC 2018: No link for: com.github.jferard.fastods.odselement.SettingsTest-testSetViewMissingSettings
+Tue May 15 23:42:05 UTC 2018: No link for: com.github.jferard.fastods.odselement.SettingsTest-testSize
+Tue May 15 23:42:05 UTC 2018: No link for: com.github.jferard.fastods.odselement.SettingsTest-testConfigurationSettingsContent
+Tue May 15 23:42:06 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.SettingsTest
+Tue May 15 23:42:06 UTC 2018: Found element on the queue
+Tue May 15 23:42:06 UTC 2018: Updating status
+Tue May 15 23:42:06 UTC 2018: Working
+Tue May 15 23:42:09 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.FlushPositionTest
+Tue May 15 23:42:09 UTC 2018: Setting lastTestMethodIndex: 51516
+Tue May 15 23:42:09 UTC 2018: Starting linking
+Tue May 15 23:42:09 UTC 2018: No link for: com.github.jferard.fastods.odselement.FlushPositionTest-testUndefined
+Tue May 15 23:42:09 UTC 2018: No link for: com.github.jferard.fastods.odselement.FlushPositionTest-test
+Tue May 15 23:42:09 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.FlushPositionTest
+Tue May 15 23:42:10 UTC 2018: Found element on the queue
+Tue May 15 23:42:10 UTC 2018: Updating status
+Tue May 15 23:42:10 UTC 2018: Working
+Tue May 15 23:42:13 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.OdsElementsTest
+Tue May 15 23:42:13 UTC 2018: Setting lastTestMethodIndex: 51519
+Tue May 15 23:42:13 UTC 2018: Starting linking
+Tue May 15 23:42:13 UTC 2018: Code found com.github.jferard.fastods.odselement.OdsElements-getTable with com.github.jferard.fastods.odselement.OdsElementsTest-testGetTable
+Tue May 15 23:42:13 UTC 2018: No link for: com.github.jferard.fastods.odselement.OdsElementsTest-testFlush
+Tue May 15 23:42:13 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.OdsElementsTest
+Tue May 15 23:42:14 UTC 2018: Found element on the queue
+Tue May 15 23:42:14 UTC 2018: Updating status
+Tue May 15 23:42:14 UTC 2018: Working
+Tue May 15 23:42:16 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigBlockTest
+Tue May 15 23:42:16 UTC 2018: Setting lastTestMethodIndex: 51522
+Tue May 15 23:42:16 UTC 2018: Starting linking
+Tue May 15 23:42:16 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigBlockTest-test
+Tue May 15 23:42:17 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigBlockTest
+Tue May 15 23:42:17 UTC 2018: Found element on the queue
+Tue May 15 23:42:17 UTC 2018: Updating status
+Tue May 15 23:42:17 UTC 2018: Working
+Tue May 15 23:42:20 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest
+Tue May 15 23:42:20 UTC 2018: Setting lastTestMethodIndex: 51525
+Tue May 15 23:42:20 UTC 2018: Starting linking
+Tue May 15 23:42:20 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapIndexed-get with com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-get
+Tue May 15 23:42:20 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapIndexed-iterator with com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-iterator
+Tue May 15 23:42:20 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapIndexed-remove with com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-remove
+Tue May 15 23:42:20 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapIndexed-remove with com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-removeOk
+Tue May 15 23:42:21 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapIndexed-contains with com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-contains
+Tue May 15 23:42:21 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapIndexed-set with com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-setOk
+Tue May 15 23:42:21 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapIndexed-set with com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-set
+Tue May 15 23:42:21 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-appendXMLRepresentation
+Tue May 15 23:42:22 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-createMapIndexed2
+Tue May 15 23:42:22 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest-createMapIndexed
+Tue May 15 23:42:22 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapIndexedTest
+Tue May 15 23:42:23 UTC 2018: Found element on the queue
+Tue May 15 23:42:23 UTC 2018: Updating status
+Tue May 15 23:42:23 UTC 2018: Working
+Tue May 15 23:42:25 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest
+Tue May 15 23:42:25 UTC 2018: Setting lastTestMethodIndex: 51527
+Tue May 15 23:42:25 UTC 2018: Starting linking
+Tue May 15 23:42:25 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequence-createSequence with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-createSequence
+Tue May 15 23:42:25 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequence-add with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-addItem
+Tue May 15 23:42:26 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequence-set with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-set
+Tue May 15 23:42:26 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequence-add with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-add
+Tue May 15 23:42:26 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequence-remove with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-remove2
+Tue May 15 23:42:26 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequence-remove with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-remove
+Tue May 15 23:42:27 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-createNamedSequence
+Tue May 15 23:42:27 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-appendXML2
+Tue May 15 23:42:27 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest-appendXML
+Tue May 15 23:42:27 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySequenceTest
+Tue May 15 23:42:28 UTC 2018: Found element on the queue
+Tue May 15 23:42:28 UTC 2018: Updating status
+Tue May 15 23:42:28 UTC 2018: Working
+Tue May 15 23:42:31 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest
+Tue May 15 23:42:31 UTC 2018: Setting lastTestMethodIndex: 51529
+Tue May 15 23:42:31 UTC 2018: Starting linking
+Tue May 15 23:42:31 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapNamed-contains with com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest-contains
+Tue May 15 23:42:31 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapNamed-iterator with com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest-iterator
+Tue May 15 23:42:31 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapNamed-removeByName with com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest-removeByName
+Tue May 15 23:42:31 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapNamed-getByName with com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest-getByName
+Tue May 15 23:42:32 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest-appendXML
+Tue May 15 23:42:32 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest-createMapNamed2
+Tue May 15 23:42:32 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest-createMapNamed
+Tue May 15 23:42:32 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapNamedTest
+Tue May 15 23:42:33 UTC 2018: Found element on the queue
+Tue May 15 23:42:33 UTC 2018: Updating status
+Tue May 15 23:42:33 UTC 2018: Working
+Tue May 15 23:42:35 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemTest
+Tue May 15 23:42:35 UTC 2018: Setting lastTestMethodIndex: 51534
+Tue May 15 23:42:35 UTC 2018: Starting linking
+Tue May 15 23:42:35 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemTest-test
+Tue May 15 23:42:36 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemTest-testXML
+Tue May 15 23:42:36 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemTest-testXMLEscape
+Tue May 15 23:42:36 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemTest
+Tue May 15 23:42:37 UTC 2018: Found element on the queue
+Tue May 15 23:42:37 UTC 2018: Updating status
+Tue May 15 23:42:37 UTC 2018: Working
+Tue May 15 23:42:40 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest
+Tue May 15 23:42:40 UTC 2018: Setting lastTestMethodIndex: 51537
+Tue May 15 23:42:40 UTC 2018: Starting linking
+Tue May 15 23:42:40 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySet-createSet with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-createSet
+Tue May 15 23:42:40 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySet-remove with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-remove2
+Tue May 15 23:42:40 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySet-add with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-addItem
+Tue May 15 23:42:41 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySet-contains with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-contains
+Tue May 15 23:42:41 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySet-add with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-addItemTwice
+Tue May 15 23:42:41 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySet-set with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-set
+Tue May 15 23:42:42 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySet-add with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-add
+Tue May 15 23:42:42 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySet-remove with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-remove
+Tue May 15 23:42:42 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-createSet2
+Tue May 15 23:42:42 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-createNamedSequence
+Tue May 15 23:42:42 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest-appendXML
+Tue May 15 23:42:43 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySetTest
+Tue May 15 23:42:43 UTC 2018: Found element on the queue
+Tue May 15 23:42:43 UTC 2018: Updating status
+Tue May 15 23:42:43 UTC 2018: Working
+Tue May 15 23:42:46 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemSetTest
+Tue May 15 23:42:46 UTC 2018: Setting lastTestMethodIndex: 51539
+Tue May 15 23:42:46 UTC 2018: Starting linking
+Tue May 15 23:42:46 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemSet-contains with com.github.jferard.fastods.odselement.config.ConfigItemSetTest-contains
+Tue May 15 23:42:47 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemSet-iterator with com.github.jferard.fastods.odselement.config.ConfigItemSetTest-iterator
+Tue May 15 23:42:47 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemSet-removeByName with com.github.jferard.fastods.odselement.config.ConfigItemSetTest-removeByName
+Tue May 15 23:42:47 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemSet-getByName with com.github.jferard.fastods.odselement.config.ConfigItemSetTest-getByName
+Tue May 15 23:42:47 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemSetTest-createSet2
+Tue May 15 23:42:48 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemSetTest-appendXML
+Tue May 15 23:42:48 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemSetTest-createSet
+Tue May 15 23:42:48 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemSetTest
+Tue May 15 23:42:49 UTC 2018: Found element on the queue
+Tue May 15 23:42:49 UTC 2018: Updating status
+Tue May 15 23:42:49 UTC 2018: Working
+Tue May 15 23:42:51 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest
+Tue May 15 23:42:51 UTC 2018: Setting lastTestMethodIndex: 51543
+Tue May 15 23:42:51 UTC 2018: Starting linking
+Tue May 15 23:42:51 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-contains with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-contains
+Tue May 15 23:42:52 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-iterator with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-iterator
+Tue May 15 23:42:52 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-add with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-add
+Tue May 15 23:42:52 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-set with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-set
+Tue May 15 23:42:52 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-set with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-set2
+Tue May 15 23:42:53 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-createSingleton with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-createSingleton
+Tue May 15 23:42:53 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-set with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-set3
+Tue May 15 23:42:53 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-getByName with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-getByName
+Tue May 15 23:42:54 UTC 2018: Code found com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingleton-add with com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-addItem
+Tue May 15 23:42:54 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-appendXML
+Tue May 15 23:42:54 UTC 2018: No link for: com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest-createNamedSingleton
+Tue May 15 23:42:54 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.config.ConfigItemMapEntrySingletonTest
+Tue May 15 23:42:55 UTC 2018: Found element on the queue
+Tue May 15 23:42:55 UTC 2018: Updating status
+Tue May 15 23:42:55 UTC 2018: Working
+Tue May 15 23:42:58 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.StylesContainerTest
+Tue May 15 23:42:58 UTC 2018: Setting lastTestMethodIndex: 51547
+Tue May 15 23:42:58 UTC 2018: Starting linking
+Tue May 15 23:42:58 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testDataStyleUpdateIfExists
+Tue May 15 23:42:58 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testPageStyleUpdateIfExists
+Tue May 15 23:42:59 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testDataStyleUpdate
+Tue May 15 23:42:59 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testPageStyleCreateThenUpdateIfExists
+Tue May 15 23:42:59 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testDataStyleCreateThenUpdate
+Tue May 15 23:42:59 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testDataStyleCreateTwice
+Tue May 15 23:43:00 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testAddDataStyle
+Tue May 15 23:43:00 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testDataStyleCreateThenUpdateIfExists
+Tue May 15 23:43:00 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testPageStyleCreateTwice
+Tue May 15 23:43:00 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testPageStyleUpdate
+Tue May 15 23:43:01 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testDataStyleCreate
+Tue May 15 23:43:01 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testAddChildCellStyle
+Tue May 15 23:43:01 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testPageStyleCreate
+Tue May 15 23:43:01 UTC 2018: No link for: com.github.jferard.fastods.odselement.StylesContainerTest-testPageStyleCreateThenUpdate
+Tue May 15 23:43:02 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.StylesContainerTest
+Tue May 15 23:43:02 UTC 2018: Found element on the queue
+Tue May 15 23:43:02 UTC 2018: Updating status
+Tue May 15 23:43:02 UTC 2018: Working
+Tue May 15 23:43:05 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.odselement.ContentElementTest
+Tue May 15 23:43:05 UTC 2018: Setting lastTestMethodIndex: 51550
+Tue May 15 23:43:05 UTC 2018: Starting linking
+Tue May 15 23:43:05 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-flushRows with com.github.jferard.fastods.odselement.ContentElementTest-flushRowsNoTable
+Tue May 15 23:43:06 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-addChildCellStyle with com.github.jferard.fastods.odselement.ContentElementTest-testAddChildCellStyle
+Tue May 15 23:43:06 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-flushRows with com.github.jferard.fastods.odselement.ContentElementTest-flushRowsWithThreeTables
+Tue May 15 23:43:06 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-flushTables with com.github.jferard.fastods.odselement.ContentElementTest-flushTablesWithThreeTables
+Tue May 15 23:43:06 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-flushRows with com.github.jferard.fastods.odselement.ContentElementTest-flushRowsWithTwoTables
+Tue May 15 23:43:07 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-flushRows with com.github.jferard.fastods.odselement.ContentElementTest-flushRowsWithOneTable
+Tue May 15 23:43:07 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-flushTables with com.github.jferard.fastods.odselement.ContentElementTest-flushTablesWithOneTable
+Tue May 15 23:43:07 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-addChildCellStyle with com.github.jferard.fastods.odselement.ContentElementTest-testAddChildCellStyleOfTypeVoid
+Tue May 15 23:43:08 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-addChildCellStyle with com.github.jferard.fastods.odselement.ContentElementTest-testAddChildCellStyleOfTypeString
+Tue May 15 23:43:08 UTC 2018: Code found com.github.jferard.fastods.odselement.ContentElement-flushTables with com.github.jferard.fastods.odselement.ContentElementTest-flushTablesNoTable
+Tue May 15 23:43:08 UTC 2018: No link for: com.github.jferard.fastods.odselement.ContentElementTest-flushTablesWithTwoTables
+Tue May 15 23:43:08 UTC 2018: No link for: com.github.jferard.fastods.odselement.ContentElementTest-testTable
+Tue May 15 23:43:09 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.odselement.ContentElementTest
+Tue May 15 23:43:09 UTC 2018: Found element on the queue
+Tue May 15 23:43:09 UTC 2018: Updating status
+Tue May 15 23:43:09 UTC 2018: Working
+Tue May 15 23:43:12 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.BorderAttributeTest
+Tue May 15 23:43:12 UTC 2018: Setting lastTestMethodIndex: 51554
+Tue May 15 23:43:12 UTC 2018: Starting linking
+Tue May 15 23:43:12 UTC 2018: No link for: com.github.jferard.fastods.BorderAttributeTest-nullSizeTest
+Tue May 15 23:43:12 UTC 2018: No link for: com.github.jferard.fastods.BorderAttributeTest-nullColorTest
+Tue May 15 23:43:12 UTC 2018: No link for: com.github.jferard.fastods.BorderAttributeTest-basicTest
+Tue May 15 23:43:12 UTC 2018: No link for: com.github.jferard.fastods.BorderAttributeTest-nullTest
+Tue May 15 23:43:13 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.BorderAttributeTest
+Tue May 15 23:43:13 UTC 2018: Found element on the queue
+Tue May 15 23:43:13 UTC 2018: Updating status
+Tue May 15 23:43:13 UTC 2018: Working
+Tue May 15 23:43:15 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.RowsFlusherTest
+Tue May 15 23:43:15 UTC 2018: Setting lastTestMethodIndex: 51557
+Tue May 15 23:43:15 UTC 2018: Starting linking
+Tue May 15 23:43:15 UTC 2018: Code found com.github.jferard.fastods.RowsFlusher-flushInto with com.github.jferard.fastods.RowsFlusherTest-flushIntoEmptyList
+Tue May 15 23:43:16 UTC 2018: Code found com.github.jferard.fastods.RowsFlusher-flushInto with com.github.jferard.fastods.RowsFlusherTest-flushIntoNullRow
+Tue May 15 23:43:16 UTC 2018: Code found com.github.jferard.fastods.RowsFlusher-flushInto with com.github.jferard.fastods.RowsFlusherTest-flushInto
+Tue May 15 23:43:16 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.RowsFlusherTest
+Tue May 15 23:43:17 UTC 2018: Found element on the queue
+Tue May 15 23:43:17 UTC 2018: Updating status
+Tue May 15 23:43:17 UTC 2018: Working
+Tue May 15 23:43:19 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.DateValueTest
+Tue May 15 23:43:19 UTC 2018: Setting lastTestMethodIndex: 51559
+Tue May 15 23:43:19 UTC 2018: Starting linking
+Tue May 15 23:43:19 UTC 2018: No link for: com.github.jferard.fastods.DateValueTest-test
+Tue May 15 23:43:20 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.DateValueTest
+Tue May 15 23:43:20 UTC 2018: Found element on the queue
+Tue May 15 23:43:20 UTC 2018: Updating status
+Tue May 15 23:43:20 UTC 2018: Working
+Tue May 15 23:43:22 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.AnonymousOdsDocumentTest
+Tue May 15 23:43:23 UTC 2018: Setting lastTestMethodIndex: 51562
+Tue May 15 23:43:23 UTC 2018: Starting linking
+Tue May 15 23:43:23 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTableByIndexNeg
+Tue May 15 23:43:23 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getOrAddTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetOrAddTable
+Tue May 15 23:43:23 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTableNumber with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTableNumberSuccess
+Tue May 15 23:43:23 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-setViewSetting with com.github.jferard.fastods.AnonymousOdsDocumentTest-testSetViewSetting
+Tue May 15 23:43:24 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-addTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testAddTable
+Tue May 15 23:43:24 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTableNumber with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTableNumberFail
+Tue May 15 23:43:24 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTableByNameFail
+Tue May 15 23:43:24 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTables with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTables
+Tue May 15 23:43:25 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-setActiveTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testSetActiveTableFail2
+Tue May 15 23:43:25 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTableByNameSuccess
+Tue May 15 23:43:25 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-addAutofilter with com.github.jferard.fastods.AnonymousOdsDocumentTest-addAutoFilter
+Tue May 15 23:43:26 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getOrAddTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetOrAddTable2
+Tue May 15 23:43:26 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-tableCount with com.github.jferard.fastods.AnonymousOdsDocumentTest-testTableCount
+Tue May 15 23:43:26 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-save with com.github.jferard.fastods.AnonymousOdsDocumentTest-testSave
+Tue May 15 23:43:27 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTableByIndex10
+Tue May 15 23:43:27 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-setActiveTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testSetActiveTableFailNeg
+Tue May 15 23:43:27 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTableName with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTableName
+Tue May 15 23:43:27 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-getTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testGetTableByIndex0
+Tue May 15 23:43:28 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsDocument-setActiveTable with com.github.jferard.fastods.AnonymousOdsDocumentTest-testSetActiveTableFailSuccess
+Tue May 15 23:43:28 UTC 2018: No link for: com.github.jferard.fastods.AnonymousOdsDocumentTest-testCreate
+Tue May 15 23:43:28 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.AnonymousOdsDocumentTest
+Tue May 15 23:43:29 UTC 2018: Found element on the queue
+Tue May 15 23:43:29 UTC 2018: Updating status
+Tue May 15 23:43:29 UTC 2018: Working
+Tue May 15 23:43:31 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.AnonymousOdsFileWriterTest
+Tue May 15 23:43:31 UTC 2018: Setting lastTestMethodIndex: 51565
+Tue May 15 23:43:31 UTC 2018: Starting linking
+Tue May 15 23:43:31 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsFileWriter-document with com.github.jferard.fastods.AnonymousOdsFileWriterTest-testSaveEmpyDocumentToOutputStream
+Tue May 15 23:43:31 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsFileWriter-save with com.github.jferard.fastods.AnonymousOdsFileWriterTest-testSaveWriterWithException
+Tue May 15 23:43:32 UTC 2018: Code found com.github.jferard.fastods.AnonymousOdsFileWriter-saveAs with com.github.jferard.fastods.AnonymousOdsFileWriterTest-testSaveAsNullFile
+Tue May 15 23:43:32 UTC 2018: No link for: com.github.jferard.fastods.AnonymousOdsFileWriterTest-testFileIsDir
+Tue May 15 23:43:32 UTC 2018: No link for: com.github.jferard.fastods.AnonymousOdsFileWriterTest-testSaveWriter
+Tue May 15 23:43:32 UTC 2018: No link for: com.github.jferard.fastods.AnonymousOdsFileWriterTest-testSaveWithWriterDir
+Tue May 15 23:43:33 UTC 2018: No link for: com.github.jferard.fastods.AnonymousOdsFileWriterTest-testSaveWithWriter
+Tue May 15 23:43:33 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.AnonymousOdsFileWriterTest
+Tue May 15 23:43:33 UTC 2018: Found element on the queue
+Tue May 15 23:43:33 UTC 2018: Updating status
+Tue May 15 23:43:33 UTC 2018: Working
+Tue May 15 23:43:36 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TableColdCellTest
+Tue May 15 23:43:36 UTC 2018: Setting lastTestMethodIndex: 51570
+Tue May 15 23:43:36 UTC 2018: Starting linking
+Tue May 15 23:43:36 UTC 2018: Code found com.github.jferard.fastods.TableColdCell-create with com.github.jferard.fastods.TableColdCellTest-testCreate
+Tue May 15 23:43:36 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testColSpan
+Tue May 15 23:43:36 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testRowSpan
+Tue May 15 23:43:36 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testCurrency
+Tue May 15 23:43:37 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testTooltipWithSize
+Tue May 15 23:43:37 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testAppendTextAndTooltip
+Tue May 15 23:43:38 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testText
+Tue May 15 23:43:38 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testFormula
+Tue May 15 23:43:39 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testTooltipWithCR
+Tue May 15 23:43:39 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testCovered
+Tue May 15 23:43:39 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testTooltip
+Tue May 15 23:43:39 UTC 2018: No link for: com.github.jferard.fastods.TableColdCellTest-testTooltipWithSpecialChars
+Tue May 15 23:43:40 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TableColdCellTest
+Tue May 15 23:43:40 UTC 2018: Found element on the queue
+Tue May 15 23:43:40 UTC 2018: Updating status
+Tue May 15 23:43:40 UTC 2018: Working
+Tue May 15 23:43:42 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.ColorTest
+Tue May 15 23:43:42 UTC 2018: Setting lastTestMethodIndex: 51572
+Tue May 15 23:43:42 UTC 2018: Starting linking
+Tue May 15 23:43:43 UTC 2018: No link for: com.github.jferard.fastods.ColorTest-test
+Tue May 15 23:43:43 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.ColorTest
+Tue May 15 23:43:43 UTC 2018: Found element on the queue
+Tue May 15 23:43:43 UTC 2018: Updating status
+Tue May 15 23:43:43 UTC 2018: Working
+Tue May 15 23:43:46 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.TextPropertiesTest
+Tue May 15 23:43:47 UTC 2018: Setting lastTestMethodIndex: 51574
+Tue May 15 23:43:47 UTC 2018: Starting linking
+Tue May 15 23:43:47 UTC 2018: No link for: com.github.jferard.fastods.style.TextPropertiesTest-testDefault
+Tue May 15 23:43:47 UTC 2018: No link for: com.github.jferard.fastods.style.TextPropertiesTest-testItalicBold
+Tue May 15 23:43:47 UTC 2018: No link for: com.github.jferard.fastods.style.TextPropertiesTest-testColorNameSize
+Tue May 15 23:43:47 UTC 2018: No link for: com.github.jferard.fastods.style.TextPropertiesTest-testBadSize
+Tue May 15 23:43:48 UTC 2018: No link for: com.github.jferard.fastods.style.TextPropertiesTest-testUnderline
+Tue May 15 23:43:48 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.TextPropertiesTest
+Tue May 15 23:43:49 UTC 2018: Found element on the queue
+Tue May 15 23:43:49 UTC 2018: Updating status
+Tue May 15 23:43:49 UTC 2018: Working
+Tue May 15 23:43:51 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.TableStyleTest
+Tue May 15 23:43:51 UTC 2018: Setting lastTestMethodIndex: 51576
+Tue May 15 23:43:51 UTC 2018: Starting linking
+Tue May 15 23:43:51 UTC 2018: Code found com.github.jferard.fastods.style.TableStyleBuilder-pageStyle with com.github.jferard.fastods.style.TableStyleTest-testPageStyle
+Tue May 15 23:43:51 UTC 2018: No link for: com.github.jferard.fastods.style.TableStyleTest-testEmpty
+Tue May 15 23:43:52 UTC 2018: No link for: com.github.jferard.fastods.style.TableStyleTest-testAddEmptyToFile
+Tue May 15 23:43:52 UTC 2018: No link for: com.github.jferard.fastods.style.TableStyleTest-testGetters
+Tue May 15 23:43:52 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.TableStyleTest
+Tue May 15 23:43:53 UTC 2018: Found element on the queue
+Tue May 15 23:43:53 UTC 2018: Updating status
+Tue May 15 23:43:53 UTC 2018: Working
+Tue May 15 23:43:56 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.BordersTest
+Tue May 15 23:43:56 UTC 2018: Setting lastTestMethodIndex: 51579
+Tue May 15 23:43:56 UTC 2018: Starting linking
+Tue May 15 23:43:56 UTC 2018: Code found com.github.jferard.fastods.style.Borders-hashCode with com.github.jferard.fastods.style.BordersTest-testHashCode
+Tue May 15 23:43:57 UTC 2018: Code found com.github.jferard.fastods.style.Borders-equals with com.github.jferard.fastods.style.BordersTest-testEquals
+Tue May 15 23:43:57 UTC 2018: No link for: com.github.jferard.fastods.style.BordersTest-test
+Tue May 15 23:43:57 UTC 2018: No link for: com.github.jferard.fastods.style.BordersTest-testDifferent
+Tue May 15 23:43:57 UTC 2018: No link for: com.github.jferard.fastods.style.BordersTest-testNoDefaultColor
+Tue May 15 23:43:58 UTC 2018: No link for: com.github.jferard.fastods.style.BordersTest-testEqual
+Tue May 15 23:43:58 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.BordersTest
+Tue May 15 23:43:58 UTC 2018: Found element on the queue
+Tue May 15 23:43:58 UTC 2018: Updating status
+Tue May 15 23:43:58 UTC 2018: Working
+Tue May 15 23:44:01 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.PageStyleTest
+Tue May 15 23:44:01 UTC 2018: Setting lastTestMethodIndex: 51582
+Tue May 15 23:44:01 UTC 2018: Starting linking
+Tue May 15 23:44:01 UTC 2018: Code found com.github.jferard.fastods.style.PageStyleBuilder-header with com.github.jferard.fastods.style.PageStyleTest-testNullFooterHeader
+Tue May 15 23:44:01 UTC 2018: Code found com.github.jferard.fastods.style.PageStyleBuilder-writingMode with com.github.jferard.fastods.style.PageStyleTest-testWritingMode
+Tue May 15 23:44:01 UTC 2018: Code found com.github.jferard.fastods.style.PageStyleBuilder-header with com.github.jferard.fastods.style.PageStyleTest-testFooterHeader
+Tue May 15 23:44:02 UTC 2018: Code found com.github.jferard.fastods.style.PageStyleBuilder-paperFormat with com.github.jferard.fastods.style.PageStyleTest-testPaperFormat
+Tue May 15 23:44:02 UTC 2018: No link for: com.github.jferard.fastods.style.PageStyleTest-testAlmostEmptyToAutomaticStyle
+Tue May 15 23:44:02 UTC 2018: No link for: com.github.jferard.fastods.style.PageStyleTest-testPrintOrientationH
+Tue May 15 23:44:02 UTC 2018: No link for: com.github.jferard.fastods.style.PageStyleTest-testBackground
+Tue May 15 23:44:03 UTC 2018: No link for: com.github.jferard.fastods.style.PageStyleTest-testPrintOrientationV
+Tue May 15 23:44:04 UTC 2018: No link for: com.github.jferard.fastods.style.PageStyleTest-testWritingException
+Tue May 15 23:44:05 UTC 2018: No link for: com.github.jferard.fastods.style.PageStyleTest-testAlmostEmptyToMasterStyle
+Tue May 15 23:44:06 UTC 2018: No link for: com.github.jferard.fastods.style.PageStyleTest-testHeightAndWidth
+Tue May 15 23:44:06 UTC 2018: No link for: com.github.jferard.fastods.style.PageStyleTest-testEmpty
+Tue May 15 23:44:06 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.PageStyleTest
+Tue May 15 23:44:07 UTC 2018: Found element on the queue
+Tue May 15 23:44:07 UTC 2018: Updating status
+Tue May 15 23:44:07 UTC 2018: Working
+Tue May 15 23:44:10 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.TableCellStyleTest
+Tue May 15 23:44:10 UTC 2018: Setting lastTestMethodIndex: 51586
+Tue May 15 23:44:10 UTC 2018: Starting linking
+Tue May 15 23:44:10 UTC 2018: Code found com.github.jferard.fastods.style.TableCellStyleBuilder-allMargins with com.github.jferard.fastods.style.TableCellStyleTest-testAllMargins
+Tue May 15 23:44:10 UTC 2018: No link for: com.github.jferard.fastods.style.TableCellStyleTest-testBorders
+Tue May 15 23:44:10 UTC 2018: No link for: com.github.jferard.fastods.style.TableCellStyleTest-testAllBorders
+Tue May 15 23:44:11 UTC 2018: No link for: com.github.jferard.fastods.style.TableCellStyleTest-testGetters
+Tue May 15 23:44:11 UTC 2018: No link for: com.github.jferard.fastods.style.TableCellStyleTest-testDefaultCellStyle
+Tue May 15 23:44:11 UTC 2018: No link for: com.github.jferard.fastods.style.TableCellStyleTest-testNullName
+Tue May 15 23:44:11 UTC 2018: No link for: com.github.jferard.fastods.style.TableCellStyleTest-testMargins
+Tue May 15 23:44:12 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.TableCellStyleTest
+Tue May 15 23:44:12 UTC 2018: Found element on the queue
+Tue May 15 23:44:12 UTC 2018: Updating status
+Tue May 15 23:44:12 UTC 2018: Working
+Tue May 15 23:44:15 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.TextStyleTest
+Tue May 15 23:44:15 UTC 2018: Setting lastTestMethodIndex: 51588
+Tue May 15 23:44:15 UTC 2018: Starting linking
+Tue May 15 23:44:15 UTC 2018: Code found com.github.jferard.fastods.style.TextStyle-addToElements with com.github.jferard.fastods.style.TextStyleTest-testAddToElements
+Tue May 15 23:44:15 UTC 2018: No link for: com.github.jferard.fastods.style.TextStyleTest-testXML
+Tue May 15 23:44:15 UTC 2018: No link for: com.github.jferard.fastods.style.TextStyleTest-testGetter
+Tue May 15 23:44:15 UTC 2018: No link for: com.github.jferard.fastods.style.TextStyleTest-testEmpty
+Tue May 15 23:44:16 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.TextStyleTest
+Tue May 15 23:44:16 UTC 2018: Found element on the queue
+Tue May 15 23:44:16 UTC 2018: Updating status
+Tue May 15 23:44:16 UTC 2018: Working
+Tue May 15 23:44:19 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.TableColumnStyleTest
+Tue May 15 23:44:19 UTC 2018: Setting lastTestMethodIndex: 51590
+Tue May 15 23:44:19 UTC 2018: Starting linking
+Tue May 15 23:44:19 UTC 2018: Code found com.github.jferard.fastods.style.TableColumnStyleBuilder-defaultCellStyle with com.github.jferard.fastods.style.TableColumnStyleTest-testDefaultCellStyle
+Tue May 15 23:44:19 UTC 2018: Code found com.github.jferard.fastods.style.TableColumnStyleBuilder-defaultCellStyle with com.github.jferard.fastods.style.TableColumnStyleTest-testAddNewDefaultCellStyleToFile
+Tue May 15 23:44:19 UTC 2018: No link for: com.github.jferard.fastods.style.TableColumnStyleTest-testEmpty
+Tue May 15 23:44:19 UTC 2018: No link for: com.github.jferard.fastods.style.TableColumnStyleTest-testEmpty2
+Tue May 15 23:44:20 UTC 2018: No link for: com.github.jferard.fastods.style.TableColumnStyleTest-testWidth
+Tue May 15 23:44:20 UTC 2018: No link for: com.github.jferard.fastods.style.TableColumnStyleTest-testGetters
+Tue May 15 23:44:20 UTC 2018: No link for: com.github.jferard.fastods.style.TableColumnStyleTest-testAddEmptyToFile
+Tue May 15 23:44:20 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.TableColumnStyleTest
+Tue May 15 23:44:21 UTC 2018: Found element on the queue
+Tue May 15 23:44:21 UTC 2018: Updating status
+Tue May 15 23:44:21 UTC 2018: Working
+Tue May 15 23:44:23 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.MarginsTest
+Tue May 15 23:44:23 UTC 2018: Setting lastTestMethodIndex: 51594
+Tue May 15 23:44:23 UTC 2018: Starting linking
+Tue May 15 23:44:23 UTC 2018: Code found com.github.jferard.fastods.style.Margins-equals with com.github.jferard.fastods.style.MarginsTest-testEquals
+Tue May 15 23:44:24 UTC 2018: Code found com.github.jferard.fastods.style.Margins-toString with com.github.jferard.fastods.style.MarginsTest-testToString
+Tue May 15 23:44:24 UTC 2018: No link for: com.github.jferard.fastods.style.MarginsTest-testTRBL
+Tue May 15 23:44:24 UTC 2018: No link for: com.github.jferard.fastods.style.MarginsTest-testVoid
+Tue May 15 23:44:24 UTC 2018: No link for: com.github.jferard.fastods.style.MarginsTest-testVoidContent
+Tue May 15 23:44:25 UTC 2018: No link for: com.github.jferard.fastods.style.MarginsTest-testAll
+Tue May 15 23:44:25 UTC 2018: No link for: com.github.jferard.fastods.style.MarginsTest-testTRBL2
+Tue May 15 23:44:25 UTC 2018: No link for: com.github.jferard.fastods.style.MarginsTest-testRedondant
+Tue May 15 23:44:25 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.MarginsTest
+Tue May 15 23:44:26 UTC 2018: Found element on the queue
+Tue May 15 23:44:26 UTC 2018: Updating status
+Tue May 15 23:44:26 UTC 2018: Working
+Tue May 15 23:44:28 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.style.TableRowStyleTest
+Tue May 15 23:44:28 UTC 2018: Setting lastTestMethodIndex: 51596
+Tue May 15 23:44:28 UTC 2018: Starting linking
+Tue May 15 23:44:28 UTC 2018: Code found com.github.jferard.fastods.style.StyleTestHelper-testGetters with com.github.jferard.fastods.style.TableRowStyleTest-testGetters
+Tue May 15 23:44:29 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.style.TableRowStyleTest
+Tue May 15 23:44:29 UTC 2018: Found element on the queue
+Tue May 15 23:44:29 UTC 2018: Updating status
+Tue May 15 23:44:29 UTC 2018: Working
+Tue May 15 23:44:32 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.RegionFooterHeaderTest
+Tue May 15 23:44:32 UTC 2018: Setting lastTestMethodIndex: 51599
+Tue May 15 23:44:32 UTC 2018: Starting linking
+Tue May 15 23:44:32 UTC 2018: No link for: com.github.jferard.fastods.RegionFooterHeaderTest-emptyText
+Tue May 15 23:44:32 UTC 2018: No link for: com.github.jferard.fastods.RegionFooterHeaderTest-allNull
+Tue May 15 23:44:32 UTC 2018: No link for: com.github.jferard.fastods.RegionFooterHeaderTest-nonEmptyText
+Tue May 15 23:44:32 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.RegionFooterHeaderTest
+Tue May 15 23:44:33 UTC 2018: Found element on the queue
+Tue May 15 23:44:33 UTC 2018: Updating status
+Tue May 15 23:44:33 UTC 2018: Working
+Tue May 15 23:44:36 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TableCellWalkerImplTest
+Tue May 15 23:44:36 UTC 2018: Setting lastTestMethodIndex: 51602
+Tue May 15 23:44:36 UTC 2018: Starting linking
+Tue May 15 23:44:36 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-setCovered with com.github.jferard.fastods.TableCellWalkerImplTest-testSetCovered
+Tue May 15 23:44:36 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-next with com.github.jferard.fastods.TableCellWalkerImplTest-testNext
+Tue May 15 23:44:36 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-to with com.github.jferard.fastods.TableCellWalkerImplTest-testTooltip
+Tue May 15 23:44:36 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-markColumnsSpanned with com.github.jferard.fastods.TableCellWalkerImplTest-testMarkColumnsSpanned
+Tue May 15 23:44:37 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-previous with com.github.jferard.fastods.TableCellWalkerImplTest-testPreviousIOOBE
+Tue May 15 23:44:37 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-previous with com.github.jferard.fastods.TableCellWalkerImplTest-testPrevious
+Tue May 15 23:44:37 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-markRowsSpanned with com.github.jferard.fastods.TableCellWalkerImplTest-testMarkRowsSpanned
+Tue May 15 23:44:38 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-isCovered with com.github.jferard.fastods.TableCellWalkerImplTest-testIsCovered
+Tue May 15 23:44:38 UTC 2018: Code found com.github.jferard.fastods.TableCellWalkerImpl-to with com.github.jferard.fastods.TableCellWalkerImplTest-testObject
+Tue May 15 23:44:38 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testVoidValue
+Tue May 15 23:44:39 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testCellMerge
+Tue May 15 23:44:39 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testMoveNegative
+Tue May 15 23:44:39 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testPercentageInt
+Tue May 15 23:44:39 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testText
+Tue May 15 23:44:40 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testCurrencyNumber
+Tue May 15 23:44:40 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testCurrencyFloat
+Tue May 15 23:44:40 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testBoolean
+Tue May 15 23:44:40 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testFormula
+Tue May 15 23:44:41 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testFloat
+Tue May 15 23:44:41 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testInt
+Tue May 15 23:44:41 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testTimeValue
+Tue May 15 23:44:41 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testDate
+Tue May 15 23:44:42 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testPercentageNumber
+Tue May 15 23:44:42 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testCurrencyInt
+Tue May 15 23:44:42 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testDouble
+Tue May 15 23:44:43 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testMove
+Tue May 15 23:44:43 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testCalendar
+Tue May 15 23:44:43 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testAppendXML
+Tue May 15 23:44:43 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testColumnsSpanned
+Tue May 15 23:44:44 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testRowsSpanned
+Tue May 15 23:44:44 UTC 2018: No link for: com.github.jferard.fastods.TableCellWalkerImplTest-testPercentageFloat
+Tue May 15 23:44:45 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TableCellWalkerImplTest
+Tue May 15 23:44:45 UTC 2018: Found element on the queue
+Tue May 15 23:44:45 UTC 2018: Updating status
+Tue May 15 23:44:45 UTC 2018: Working
+Tue May 15 23:44:48 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TableCellTest
+Tue May 15 23:44:48 UTC 2018: Setting lastTestMethodIndex: 51608
+Tue May 15 23:44:48 UTC 2018: Starting linking
+Tue May 15 23:44:48 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testCovered
+Tue May 15 23:44:48 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testDouble
+Tue May 15 23:44:48 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testCurrencyNumber
+Tue May 15 23:44:49 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testRowsSpannedTwice
+Tue May 15 23:44:49 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testCalendar
+Tue May 15 23:44:49 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testCurrencyFloat
+Tue May 15 23:44:50 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testCurrency
+Tue May 15 23:44:50 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testTwoStyles
+Tue May 15 23:44:50 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testText
+Tue May 15 23:44:50 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testFullTooltip
+Tue May 15 23:44:51 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testNoColumnsSpanned
+Tue May 15 23:44:51 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testCurrencyInt
+Tue May 15 23:44:51 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testObject
+Tue May 15 23:44:51 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testPercentageInt
+Tue May 15 23:44:52 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testFloatDouble
+Tue May 15 23:44:52 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testColumnsSpanned
+Tue May 15 23:44:52 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testPercentage
+Tue May 15 23:44:52 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testRowsSpanned
+Tue May 15 23:44:53 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testNoRowsSpanned
+Tue May 15 23:44:53 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testString
+Tue May 15 23:44:53 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testNullStyle
+Tue May 15 23:44:53 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testTextWithStyle
+Tue May 15 23:44:54 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testTime
+Tue May 15 23:44:54 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testVoid
+Tue May 15 23:44:54 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testBoolean
+Tue May 15 23:44:54 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testFloatFloat
+Tue May 15 23:44:55 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testMerge
+Tue May 15 23:44:55 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testTwoDataStyles
+Tue May 15 23:44:55 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testFormula
+Tue May 15 23:44:55 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testDate
+Tue May 15 23:44:56 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testInt
+Tue May 15 23:44:56 UTC 2018: No link for: com.github.jferard.fastods.TableCellTest-testTooltip
+Tue May 15 23:44:57 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TableCellTest
+Tue May 15 23:44:57 UTC 2018: Found element on the queue
+Tue May 15 23:44:57 UTC 2018: Updating status
+Tue May 15 23:44:57 UTC 2018: Working
+Tue May 15 23:45:00 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.CellValueTest
+Tue May 15 23:45:00 UTC 2018: Setting lastTestMethodIndex: 51614
+Tue May 15 23:45:00 UTC 2018: Starting linking
+Tue May 15 23:45:00 UTC 2018: Code found com.github.jferard.fastods.CellValue-fromTypeAndObject with com.github.jferard.fastods.CellValueTest-testBooleanFromTypeAndObject
+Tue May 15 23:45:00 UTC 2018: Code found com.github.jferard.fastods.CellValue-fromObject with com.github.jferard.fastods.CellValueTest-testCalendarFromObject
+Tue May 15 23:45:00 UTC 2018: Code found com.github.jferard.fastods.CellValue-fromObject with com.github.jferard.fastods.CellValueTest-testVoidFromObject
+Tue May 15 23:45:01 UTC 2018: Code found com.github.jferard.fastods.CellValue-fromObject with com.github.jferard.fastods.CellValueTest-testStringFromObject
+Tue May 15 23:45:01 UTC 2018: Code found com.github.jferard.fastods.CellValue-fromObject with com.github.jferard.fastods.CellValueTest-testBooleanFromObject
+Tue May 15 23:45:01 UTC 2018: Code found com.github.jferard.fastods.CellValue-fromObject with com.github.jferard.fastods.CellValueTest-testDateFromObject
+Tue May 15 23:45:01 UTC 2018: Code found com.github.jferard.fastods.CellValue-fromObject with com.github.jferard.fastods.CellValueTest-testNumberFromObject
+Tue May 15 23:45:02 UTC 2018: Code found com.github.jferard.fastods.CellValue-fromObject with com.github.jferard.fastods.CellValueTest-testOtherFromObject
+Tue May 15 23:45:02 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.CellValueTest
+Tue May 15 23:45:02 UTC 2018: Found element on the queue
+Tue May 15 23:45:02 UTC 2018: Updating status
+Tue May 15 23:45:02 UTC 2018: Working
+Tue May 15 23:45:06 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.EndTableFlusherTest
+Tue May 15 23:45:06 UTC 2018: Setting lastTestMethodIndex: 51619
+Tue May 15 23:45:06 UTC 2018: Starting linking
+Tue May 15 23:45:06 UTC 2018: Code found com.github.jferard.fastods.EndTableFlusher-flushInto with com.github.jferard.fastods.EndTableFlusherTest-flushIntoEmptytList
+Tue May 15 23:45:06 UTC 2018: Code found com.github.jferard.fastods.EndTableFlusher-flushInto with com.github.jferard.fastods.EndTableFlusherTest-flushInto
+Tue May 15 23:45:06 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.EndTableFlusherTest
+Tue May 15 23:45:07 UTC 2018: Found element on the queue
+Tue May 15 23:45:07 UTC 2018: Updating status
+Tue May 15 23:45:07 UTC 2018: Working
+Tue May 15 23:45:09 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.FinalizeFlusherTest
+Tue May 15 23:45:09 UTC 2018: Setting lastTestMethodIndex: 51620
+Tue May 15 23:45:09 UTC 2018: Starting linking
+Tue May 15 23:45:09 UTC 2018: No link for: com.github.jferard.fastods.FinalizeFlusherTest-test
+Tue May 15 23:45:10 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.FinalizeFlusherTest
+Tue May 15 23:45:10 UTC 2018: Found element on the queue
+Tue May 15 23:45:10 UTC 2018: Updating status
+Tue May 15 23:45:10 UTC 2018: Working
+Tue May 15 23:45:13 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.LinkTest
+Tue May 15 23:45:13 UTC 2018: Setting lastTestMethodIndex: 51623
+Tue May 15 23:45:13 UTC 2018: Starting linking
+Tue May 15 23:45:13 UTC 2018: No link for: com.github.jferard.fastods.LinkTest-testTable
+Tue May 15 23:45:13 UTC 2018: No link for: com.github.jferard.fastods.LinkTest-testURL
+Tue May 15 23:45:13 UTC 2018: No link for: com.github.jferard.fastods.LinkTest-testEmbeddedStyles
+Tue May 15 23:45:13 UTC 2018: No link for: com.github.jferard.fastods.LinkTest-testFile
+Tue May 15 23:45:14 UTC 2018: No link for: com.github.jferard.fastods.LinkTest-testEmbeddedStyles2
+Tue May 15 23:45:14 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.LinkTest
+Tue May 15 23:45:14 UTC 2018: Found element on the queue
+Tue May 15 23:45:14 UTC 2018: Updating status
+Tue May 15 23:45:15 UTC 2018: Working
+Tue May 15 23:45:17 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.OdsDocumentTest
+Tue May 15 23:45:17 UTC 2018: Setting lastTestMethodIndex: 51626
+Tue May 15 23:45:17 UTC 2018: Starting linking
+Tue May 15 23:45:17 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-addTable with com.github.jferard.fastods.OdsDocumentTest-testAddTable
+Tue May 15 23:45:17 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-getTable with com.github.jferard.fastods.OdsDocumentTest-testGetTableByNameException
+Tue May 15 23:45:18 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-save with com.github.jferard.fastods.OdsDocumentTest-testSaveTo
+Tue May 15 23:45:18 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-tableCount with com.github.jferard.fastods.OdsDocumentTest-testTableCount
+Tue May 15 23:45:18 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-addPageStyle with com.github.jferard.fastods.OdsDocumentTest-testAddPageStyle
+Tue May 15 23:45:18 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-getOrAddTable with com.github.jferard.fastods.OdsDocumentTest-testGetOrAddTable
+Tue May 15 23:45:19 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-getTable with com.github.jferard.fastods.OdsDocumentTest-testGetTableByIndexExceptionIOOB
+Tue May 15 23:45:19 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-getTable with com.github.jferard.fastods.OdsDocumentTest-testGetTableByIndexExceptionNegative
+Tue May 15 23:45:19 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-save with com.github.jferard.fastods.OdsDocumentTest-testSaveWriterException
+Tue May 15 23:45:19 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-getTable with com.github.jferard.fastods.OdsDocumentTest-testGetTable
+Tue May 15 23:45:20 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-getTableNumber with com.github.jferard.fastods.OdsDocumentTest-testGetTableNumber
+Tue May 15 23:45:20 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-addTable with com.github.jferard.fastods.OdsDocumentTest-testAddTableDefault
+Tue May 15 23:45:20 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-save with com.github.jferard.fastods.OdsDocumentTest-testSaveToCloseException
+Tue May 15 23:45:20 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-getTableNumber with com.github.jferard.fastods.OdsDocumentTest-testGetTableNumberByNameException
+Tue May 15 23:45:21 UTC 2018: Code found com.github.jferard.fastods.NamedOdsDocument-setActiveTable with com.github.jferard.fastods.OdsDocumentTest-testSetActiveTable
+Tue May 15 23:45:21 UTC 2018: No link for: com.github.jferard.fastods.OdsDocumentTest-testAddBooleanStyle
+Tue May 15 23:45:21 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.OdsDocumentTest
+Tue May 15 23:45:22 UTC 2018: Found element on the queue
+Tue May 15 23:45:22 UTC 2018: Updating status
+Tue May 15 23:45:22 UTC 2018: Working
+Tue May 15 23:45:24 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.RegionPageSectionTest
+Tue May 15 23:45:24 UTC 2018: Setting lastTestMethodIndex: 51630
+Tue May 15 23:45:24 UTC 2018: Starting linking
+Tue May 15 23:45:24 UTC 2018: Code found com.github.jferard.fastods.RegionPageSectionBuilder-region with com.github.jferard.fastods.RegionPageSectionTest-testNullOrEmptyRegions
+Tue May 15 23:45:25 UTC 2018: Code found com.github.jferard.fastods.RegionPageSectionBuilder-region with com.github.jferard.fastods.RegionPageSectionTest-testRegionsToMasterStyle
+Tue May 15 23:45:25 UTC 2018: Code found com.github.jferard.fastods.RegionPageSectionBuilder-region with com.github.jferard.fastods.RegionPageSectionTest-testRegionToMasterStyle
+Tue May 15 23:45:25 UTC 2018: Code found com.github.jferard.fastods.RegionPageSectionBuilder-region with com.github.jferard.fastods.RegionPageSectionTest-testRegionToAutomaticStyle
+Tue May 15 23:45:25 UTC 2018: No link for: com.github.jferard.fastods.RegionPageSectionTest-testEmbeddedMode
+Tue May 15 23:45:26 UTC 2018: No link for: com.github.jferard.fastods.RegionPageSectionTest-testEmbeddedNull
+Tue May 15 23:45:26 UTC 2018: No link for: com.github.jferard.fastods.RegionPageSectionTest-testEmbeddedNullMode
+Tue May 15 23:45:26 UTC 2018: No link for: com.github.jferard.fastods.RegionPageSectionTest-testEmbedded
+Tue May 15 23:45:26 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.RegionPageSectionTest
+Tue May 15 23:45:27 UTC 2018: Found element on the queue
+Tue May 15 23:45:27 UTC 2018: Updating status
+Tue May 15 23:45:27 UTC 2018: Working
+Tue May 15 23:45:30 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TableTest
+Tue May 15 23:45:30 UTC 2018: Setting lastTestMethodIndex: 51634
+Tue May 15 23:45:30 UTC 2018: Starting linking
+Tue May 15 23:45:30 UTC 2018: Code found com.github.jferard.fastods.Table-getRow with com.github.jferard.fastods.TableTest-testGetRowHundred
+Tue May 15 23:45:30 UTC 2018: Code found com.github.jferard.fastods.Table-getRow with com.github.jferard.fastods.TableTest-testGetRow
+Tue May 15 23:45:30 UTC 2018: Code found com.github.jferard.fastods.Table-getRow with com.github.jferard.fastods.TableTest-testGetRowNegative
+Tue May 15 23:45:30 UTC 2018: Code found com.github.jferard.fastods.Table-getRow with com.github.jferard.fastods.TableTest-testGetRowFromStringPos
+Tue May 15 23:45:31 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testContentEntry
+Tue May 15 23:45:31 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testRowsSpanned
+Tue May 15 23:45:31 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testDataWrapper
+Tue May 15 23:45:31 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testLastRow
+Tue May 15 23:45:32 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testName
+Tue May 15 23:45:32 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testConfigItem
+Tue May 15 23:45:33 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testMerge
+Tue May 15 23:45:33 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testMergePos
+Tue May 15 23:45:33 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testNameAndStyle
+Tue May 15 23:45:33 UTC 2018: No link for: com.github.jferard.fastods.TableTest-testColumnStyle
+Tue May 15 23:45:34 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TableTest
+Tue May 15 23:45:34 UTC 2018: Found element on the queue
+Tue May 15 23:45:34 UTC 2018: Updating status
+Tue May 15 23:45:34 UTC 2018: Working
+Tue May 15 23:45:38 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TableRowTest
+Tue May 15 23:45:38 UTC 2018: Setting lastTestMethodIndex: 51639
+Tue May 15 23:45:38 UTC 2018: Starting linking
+Tue May 15 23:45:39 UTC 2018: No link for: com.github.jferard.fastods.TableRowTest-testRows
+Tue May 15 23:45:39 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TableRowTest
+Tue May 15 23:45:39 UTC 2018: Found element on the queue
+Tue May 15 23:45:39 UTC 2018: Updating status
+Tue May 15 23:45:39 UTC 2018: Working
+Tue May 15 23:45:42 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TypeTest
+Tue May 15 23:45:42 UTC 2018: Setting lastTestMethodIndex: 51642
+Tue May 15 23:45:42 UTC 2018: Starting linking
+Tue May 15 23:45:42 UTC 2018: No link for: com.github.jferard.fastods.TypeTest-test
+Tue May 15 23:45:43 UTC 2018: No link for: com.github.jferard.fastods.TypeTest-testValueOfX
+Tue May 15 23:45:43 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TypeTest
+Tue May 15 23:45:43 UTC 2018: Found element on the queue
+Tue May 15 23:45:43 UTC 2018: Updating status
+Tue May 15 23:45:43 UTC 2018: Working
+Tue May 15 23:45:47 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.StringValueTest
+Tue May 15 23:45:47 UTC 2018: Setting lastTestMethodIndex: 51645
+Tue May 15 23:45:47 UTC 2018: Starting linking
+Tue May 15 23:45:47 UTC 2018: Code found com.github.jferard.fastods.StringValue-equals with com.github.jferard.fastods.StringValueTest-testEquals
+Tue May 15 23:45:47 UTC 2018: Code found com.github.jferard.fastods.StringValue-hashCode with com.github.jferard.fastods.StringValueTest-testHashCode
+Tue May 15 23:45:47 UTC 2018: No link for: com.github.jferard.fastods.StringValueTest-testCell
+Tue May 15 23:45:47 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.StringValueTest
+Tue May 15 23:45:48 UTC 2018: Found element on the queue
+Tue May 15 23:45:48 UTC 2018: Updating status
+Tue May 15 23:45:48 UTC 2018: Working
+Tue May 15 23:45:50 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.SimpleFooterHeaderTest
+Tue May 15 23:45:50 UTC 2018: Setting lastTestMethodIndex: 51646
+Tue May 15 23:45:50 UTC 2018: Starting linking
+Tue May 15 23:45:50 UTC 2018: No link for: com.github.jferard.fastods.SimpleFooterHeaderTest-nullText
+Tue May 15 23:45:50 UTC 2018: No link for: com.github.jferard.fastods.SimpleFooterHeaderTest-emptyText
+Tue May 15 23:45:51 UTC 2018: No link for: com.github.jferard.fastods.SimpleFooterHeaderTest-nonEmptyText
+Tue May 15 23:45:51 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.SimpleFooterHeaderTest
+Tue May 15 23:45:52 UTC 2018: Found element on the queue
+Tue May 15 23:45:52 UTC 2018: Updating status
+Tue May 15 23:45:52 UTC 2018: Working
+Tue May 15 23:45:54 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.MetaAndStylesElementsFlusherTest
+Tue May 15 23:45:54 UTC 2018: Setting lastTestMethodIndex: 51648
+Tue May 15 23:45:54 UTC 2018: Starting linking
+Tue May 15 23:45:54 UTC 2018: No link for: com.github.jferard.fastods.MetaAndStylesElementsFlusherTest-test
+Tue May 15 23:45:54 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.MetaAndStylesElementsFlusherTest
+Tue May 15 23:45:55 UTC 2018: Found element on the queue
+Tue May 15 23:45:55 UTC 2018: Updating status
+Tue May 15 23:45:55 UTC 2018: Working
+Tue May 15 23:45:58 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.ZipUTF8WriterTest
+Tue May 15 23:45:58 UTC 2018: Setting lastTestMethodIndex: 51649
+Tue May 15 23:45:58 UTC 2018: Starting linking
+Tue May 15 23:45:58 UTC 2018: No link for: com.github.jferard.fastods.util.ZipUTF8WriterTest-test
+Tue May 15 23:45:59 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.ZipUTF8WriterTest
+Tue May 15 23:45:59 UTC 2018: Found element on the queue
+Tue May 15 23:45:59 UTC 2018: Updating status
+Tue May 15 23:45:59 UTC 2018: Working
+Tue May 15 23:46:02 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.FullListTest
+Tue May 15 23:46:02 UTC 2018: Setting lastTestMethodIndex: 51651
+Tue May 15 23:46:02 UTC 2018: Starting linking
+Tue May 15 23:46:02 UTC 2018: Code found com.github.jferard.fastods.util.FullList$FullListBuilder-blankElement with com.github.jferard.fastods.util.FullListTest-testIndexOfBlankElement
+Tue May 15 23:46:02 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testRemove
+Tue May 15 23:46:03 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testRetain
+Tue May 15 23:46:03 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testGet
+Tue May 15 23:46:04 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testSetOne
+Tue May 15 23:46:04 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testClone
+Tue May 15 23:46:05 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testSetNullAfter
+Tue May 15 23:46:05 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testIndexOf
+Tue May 15 23:46:06 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testRemoveAll
+Tue May 15 23:46:06 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testSetNonNull
+Tue May 15 23:46:07 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testSetNullBefore
+Tue May 15 23:46:07 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testSubList
+Tue May 15 23:46:07 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testAddBlank
+Tue May 15 23:46:08 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testToString
+Tue May 15 23:46:08 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testToArray
+Tue May 15 23:46:08 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testSize
+Tue May 15 23:46:08 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testClear
+Tue May 15 23:46:09 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testIterator
+Tue May 15 23:46:09 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testSetAndAdd
+Tue May 15 23:46:09 UTC 2018: No link for: com.github.jferard.fastods.util.FullListTest-testContains
+Tue May 15 23:46:10 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.FullListTest
+Tue May 15 23:46:10 UTC 2018: Found element on the queue
+Tue May 15 23:46:10 UTC 2018: Updating status
+Tue May 15 23:46:10 UTC 2018: Working
+Tue May 15 23:46:13 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.WriteUtilTest
+Tue May 15 23:46:13 UTC 2018: Setting lastTestMethodIndex: 51657
+Tue May 15 23:46:13 UTC 2018: Starting linking
+Tue May 15 23:46:13 UTC 2018: No link for: com.github.jferard.fastods.util.WriteUtilTest-test
+Tue May 15 23:46:13 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.WriteUtilTest
+Tue May 15 23:46:13 UTC 2018: Found element on the queue
+Tue May 15 23:46:13 UTC 2018: Updating status
+Tue May 15 23:46:13 UTC 2018: Working
+Tue May 15 23:46:16 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.SimpleLengthTest
+Tue May 15 23:46:16 UTC 2018: Setting lastTestMethodIndex: 51660
+Tue May 15 23:46:16 UTC 2018: Starting linking
+Tue May 15 23:46:16 UTC 2018: Code found com.github.jferard.fastods.util.SimpleLength-hashCode with com.github.jferard.fastods.util.SimpleLengthTest-testHashCode
+Tue May 15 23:46:16 UTC 2018: Code found com.github.jferard.fastods.util.SimpleLength-equals with com.github.jferard.fastods.util.SimpleLengthTest-testEquals
+Tue May 15 23:46:16 UTC 2018: Code found com.github.jferard.fastods.util.SimpleLength-toString with com.github.jferard.fastods.util.SimpleLengthTest-testToString
+Tue May 15 23:46:17 UTC 2018: Code found com.github.jferard.fastods.util.SimpleLength-isNull with com.github.jferard.fastods.util.SimpleLengthTest-testIsNull
+Tue May 15 23:46:17 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.SimpleLengthTest
+Tue May 15 23:46:17 UTC 2018: Found element on the queue
+Tue May 15 23:46:17 UTC 2018: Updating status
+Tue May 15 23:46:18 UTC 2018: Working
+Tue May 15 23:46:20 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.AbsoluteLengthTest
+Tue May 15 23:46:20 UTC 2018: Setting lastTestMethodIndex: 51663
+Tue May 15 23:46:20 UTC 2018: Starting linking
+Tue May 15 23:46:20 UTC 2018: Code found com.github.jferard.fastods.util.AbsoluteLength-cm with com.github.jferard.fastods.util.AbsoluteLengthTest-testEqualsCmMm
+Tue May 15 23:46:20 UTC 2018: Code found com.github.jferard.fastods.util.AbsoluteLength-equals with com.github.jferard.fastods.util.AbsoluteLengthTest-testEquals
+Tue May 15 23:46:20 UTC 2018: Code found com.github.jferard.fastods.util.AbsoluteLength-isNull with com.github.jferard.fastods.util.AbsoluteLengthTest-testIsNull
+Tue May 15 23:46:21 UTC 2018: Code found com.github.jferard.fastods.util.AbsoluteLength-hashCode with com.github.jferard.fastods.util.AbsoluteLengthTest-testHashCode
+Tue May 15 23:46:21 UTC 2018: Code found com.github.jferard.fastods.util.AbsoluteLength-toString with com.github.jferard.fastods.util.AbsoluteLengthTest-testToString
+Tue May 15 23:46:21 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.AbsoluteLengthTest
+Tue May 15 23:46:22 UTC 2018: Found element on the queue
+Tue May 15 23:46:22 UTC 2018: Updating status
+Tue May 15 23:46:22 UTC 2018: Working
+Tue May 15 23:46:24 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.UniqueListTest
+Tue May 15 23:46:24 UTC 2018: Setting lastTestMethodIndex: 51666
+Tue May 15 23:46:24 UTC 2018: Starting linking
+Tue May 15 23:46:24 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.UniqueListTest
+Tue May 15 23:46:25 UTC 2018: Found element on the queue
+Tue May 15 23:46:25 UTC 2018: Updating status
+Tue May 15 23:46:25 UTC 2018: Working
+Tue May 15 23:46:27 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.FileOpenResultTest
+Tue May 15 23:46:27 UTC 2018: Setting lastTestMethodIndex: 51668
+Tue May 15 23:46:27 UTC 2018: Starting linking
+Tue May 15 23:46:27 UTC 2018: No link for: com.github.jferard.fastods.util.FileOpenResultTest-testIsDir
+Tue May 15 23:46:27 UTC 2018: No link for: com.github.jferard.fastods.util.FileOpenResultTest-testOpen
+Tue May 15 23:46:28 UTC 2018: No link for: com.github.jferard.fastods.util.FileOpenResultTest-testExists
+Tue May 15 23:46:28 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.FileOpenResultTest
+Tue May 15 23:46:28 UTC 2018: Found element on the queue
+Tue May 15 23:46:28 UTC 2018: Updating status
+Tue May 15 23:46:28 UTC 2018: Working
+Tue May 15 23:46:31 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.BoxTest
+Tue May 15 23:46:31 UTC 2018: Setting lastTestMethodIndex: 51671
+Tue May 15 23:46:31 UTC 2018: Starting linking
+Tue May 15 23:46:31 UTC 2018: No link for: com.github.jferard.fastods.util.BoxTest-test
+Tue May 15 23:46:31 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.BoxTest
+Tue May 15 23:46:32 UTC 2018: Found element on the queue
+Tue May 15 23:46:32 UTC 2018: Updating status
+Tue May 15 23:46:32 UTC 2018: Working
+Tue May 15 23:46:34 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest
+Tue May 15 23:46:34 UTC 2018: Setting lastTestMethodIndex: 51673
+Tue May 15 23:46:34 UTC 2018: Starting linking
+Tue May 15 23:46:34 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-level with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testLevel0
+Tue May 15 23:46:34 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-writerBuffer with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testBadWriterBufferSize
+Tue May 15 23:46:35 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-level with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testLevel9
+Tue May 15 23:46:35 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-zipBuffer with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testBadZipBufferSize
+Tue May 15 23:46:35 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-writerBuffer with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testCustomWriterBuffer
+Tue May 15 23:46:36 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-level with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testLevel99
+Tue May 15 23:46:36 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-noWriterBuffer with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testNoWriterBuffer
+Tue May 15 23:46:36 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-noZipBuffer with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testNoZipBuffer
+Tue May 15 23:46:36 UTC 2018: Code found com.github.jferard.fastods.util.ZipUTF8WriterBuilder-zipBuffer with com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testCustomZipBuffer
+Tue May 15 23:46:37 UTC 2018: No link for: com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testExplicitDefault
+Tue May 15 23:46:37 UTC 2018: No link for: com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest-testDefault
+Tue May 15 23:46:37 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.ZipUTF8WriterBuilderTest
+Tue May 15 23:46:38 UTC 2018: Found element on the queue
+Tue May 15 23:46:38 UTC 2018: Updating status
+Tue May 15 23:46:38 UTC 2018: Working
+Tue May 15 23:46:41 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.EqualityUtilTest
+Tue May 15 23:46:41 UTC 2018: Setting lastTestMethodIndex: 51678
+Tue May 15 23:46:41 UTC 2018: Starting linking
+Tue May 15 23:46:41 UTC 2018: Code found com.github.jferard.fastods.util.EqualityUtil-hashInts with com.github.jferard.fastods.util.EqualityUtilTest-testHashInts
+Tue May 15 23:46:41 UTC 2018: Code found com.github.jferard.fastods.util.EqualityUtil-equal with com.github.jferard.fastods.util.EqualityUtilTest-testEquals
+Tue May 15 23:46:42 UTC 2018: Code found com.github.jferard.fastods.util.EqualityUtil-hashObjects with com.github.jferard.fastods.util.EqualityUtilTest-testHashObjects
+Tue May 15 23:46:42 UTC 2018: Code found com.github.jferard.fastods.util.EqualityUtil-different with com.github.jferard.fastods.util.EqualityUtilTest-testDifferent
+Tue May 15 23:46:42 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.EqualityUtilTest
+Tue May 15 23:46:43 UTC 2018: Found element on the queue
+Tue May 15 23:46:43 UTC 2018: Updating status
+Tue May 15 23:46:43 UTC 2018: Working
+Tue May 15 23:46:46 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.PositionUtilTest
+Tue May 15 23:46:46 UTC 2018: Setting lastTestMethodIndex: 51680
+Tue May 15 23:46:46 UTC 2018: Starting linking
+Tue May 15 23:46:46 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testdBd6
+Tue May 15 23:46:46 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testCellAndRangeAddressInTable
+Tue May 15 23:46:47 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testMinusAB6666
+Tue May 15 23:46:47 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testAddress
+Tue May 15 23:46:47 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testA5
+Tue May 15 23:46:47 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testB6
+Tue May 15 23:46:48 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testddBd6d
+Tue May 15 23:46:48 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testWeirdPos
+Tue May 15 23:46:48 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testEquals
+Tue May 15 23:46:48 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testRangeAddress
+Tue May 15 23:46:49 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testAB6666
+Tue May 15 23:46:49 UTC 2018: No link for: com.github.jferard.fastods.util.PositionUtilTest-testdBd6d
+Tue May 15 23:46:49 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.PositionUtilTest
+Tue May 15 23:46:50 UTC 2018: Found element on the queue
+Tue May 15 23:46:50 UTC 2018: Updating status
+Tue May 15 23:46:50 UTC 2018: Working
+Tue May 15 23:46:52 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.MultiContainerTest
+Tue May 15 23:46:52 UTC 2018: Setting lastTestMethodIndex: 51685
+Tue May 15 23:46:52 UTC 2018: Starting linking
+Tue May 15 23:46:52 UTC 2018: Code found com.github.jferard.fastods.util.MultiContainer-debug with com.github.jferard.fastods.util.MultiContainerTest-testCreateAfterDebug
+Tue May 15 23:46:53 UTC 2018: Code found com.github.jferard.fastods.util.MultiContainer-freeze with com.github.jferard.fastods.util.MultiContainerTest-testCreateAfterFreeze
+Tue May 15 23:46:53 UTC 2018: Code found com.github.jferard.fastods.util.MultiContainer-get with com.github.jferard.fastods.util.MultiContainerTest-testGet
+Tue May 15 23:46:53 UTC 2018: No link for: com.github.jferard.fastods.util.MultiContainerTest-testUpdateWithoutCreation
+Tue May 15 23:46:53 UTC 2018: No link for: com.github.jferard.fastods.util.MultiContainerTest-testCreateThenUpdate
+Tue May 15 23:46:54 UTC 2018: No link for: com.github.jferard.fastods.util.MultiContainerTest-testEmpty
+Tue May 15 23:46:54 UTC 2018: No link for: com.github.jferard.fastods.util.MultiContainerTest-testCreateTwice
+Tue May 15 23:46:54 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.MultiContainerTest
+Tue May 15 23:46:55 UTC 2018: Found element on the queue
+Tue May 15 23:46:55 UTC 2018: Updating status
+Tue May 15 23:46:55 UTC 2018: Working
+Tue May 15 23:46:58 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.NameCheckerTest
+Tue May 15 23:46:58 UTC 2018: Setting lastTestMethodIndex: 51688
+Tue May 15 23:46:58 UTC 2018: Starting linking
+Tue May 15 23:46:58 UTC 2018: No link for: com.github.jferard.fastods.util.NameCheckerTest-correctChildCellTest
+Tue May 15 23:46:58 UTC 2018: No link for: com.github.jferard.fastods.util.NameCheckerTest-testNCNameChar
+Tue May 15 23:46:58 UTC 2018: No link for: com.github.jferard.fastods.util.NameCheckerTest-testNameStartChar
+Tue May 15 23:46:59 UTC 2018: No link for: com.github.jferard.fastods.util.NameCheckerTest-testNameChar
+Tue May 15 23:46:59 UTC 2018: No link for: com.github.jferard.fastods.util.NameCheckerTest-testNCNameStartChar
+Tue May 15 23:46:59 UTC 2018: No link for: com.github.jferard.fastods.util.NameCheckerTest-digitTest
+Tue May 15 23:47:00 UTC 2018: No link for: com.github.jferard.fastods.util.NameCheckerTest-wrongChildCellTest2
+Tue May 15 23:47:00 UTC 2018: No link for: com.github.jferard.fastods.util.NameCheckerTest-wrongChildCellTest
+Tue May 15 23:47:00 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.NameCheckerTest
+Tue May 15 23:47:01 UTC 2018: Found element on the queue
+Tue May 15 23:47:01 UTC 2018: Updating status
+Tue May 15 23:47:01 UTC 2018: Working
+Tue May 15 23:47:04 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.ColorHelperTest
+Tue May 15 23:47:04 UTC 2018: Setting lastTestMethodIndex: 51693
+Tue May 15 23:47:04 UTC 2018: Starting linking
+Tue May 15 23:47:04 UTC 2018: No link for: com.github.jferard.fastods.util.ColorHelperTest-testBlack
+Tue May 15 23:47:04 UTC 2018: No link for: com.github.jferard.fastods.util.ColorHelperTest-testAll
+Tue May 15 23:47:05 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.ColorHelperTest
+Tue May 15 23:47:05 UTC 2018: Found element on the queue
+Tue May 15 23:47:05 UTC 2018: Updating status
+Tue May 15 23:47:05 UTC 2018: Working
+Tue May 15 23:47:08 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.FastOdsXMLEscaperTest
+Tue May 15 23:47:08 UTC 2018: Setting lastTestMethodIndex: 51695
+Tue May 15 23:47:08 UTC 2018: Starting linking
+Tue May 15 23:47:08 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testDifferentCaches
+Tue May 15 23:47:08 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testAttrExpression
+Tue May 15 23:47:08 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testEmptyString
+Tue May 15 23:47:08 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testContentNullString
+Tue May 15 23:47:09 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testAttrBuffer
+Tue May 15 23:47:09 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testContentLt
+Tue May 15 23:47:09 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testAttrOther
+Tue May 15 23:47:10 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testAttrApos
+Tue May 15 23:47:10 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testAttrNullString
+Tue May 15 23:47:10 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testContentExpression
+Tue May 15 23:47:10 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testContentAmp
+Tue May 15 23:47:10 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testContentBuffer
+Tue May 15 23:47:11 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testContentOther
+Tue May 15 23:47:11 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testAttrLt
+Tue May 15 23:47:11 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testAttrAmp
+Tue May 15 23:47:11 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testBasicChars
+Tue May 15 23:47:12 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testAttrBuffer2
+Tue May 15 23:47:12 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testContentBuffer2
+Tue May 15 23:47:12 UTC 2018: No link for: com.github.jferard.fastods.util.FastOdsXMLEscaperTest-testFinalChars
+Tue May 15 23:47:12 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.FastOdsXMLEscaperTest
+Tue May 15 23:47:13 UTC 2018: Found element on the queue
+Tue May 15 23:47:13 UTC 2018: Updating status
+Tue May 15 23:47:13 UTC 2018: Working
+Tue May 15 23:47:15 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.util.ContainerTest
+Tue May 15 23:47:15 UTC 2018: Setting lastTestMethodIndex: 51700
+Tue May 15 23:47:15 UTC 2018: Starting linking
+Tue May 15 23:47:15 UTC 2018: Code found com.github.jferard.fastods.util.Container-get with com.github.jferard.fastods.util.ContainerTest-testGet
+Tue May 15 23:47:16 UTC 2018: Code found com.github.jferard.fastods.util.Container-debug with com.github.jferard.fastods.util.ContainerTest-testCreateAfterDebug
+Tue May 15 23:47:16 UTC 2018: Code found com.github.jferard.fastods.util.Container-freeze with com.github.jferard.fastods.util.ContainerTest-testCreateAfterFreeze
+Tue May 15 23:47:16 UTC 2018: No link for: com.github.jferard.fastods.util.ContainerTest-testUpdateWithoutCreation
+Tue May 15 23:47:16 UTC 2018: No link for: com.github.jferard.fastods.util.ContainerTest-testEmpty
+Tue May 15 23:47:17 UTC 2018: No link for: com.github.jferard.fastods.util.ContainerTest-testCreateThenUpdate
+Tue May 15 23:47:17 UTC 2018: No link for: com.github.jferard.fastods.util.ContainerTest-testCreateTwice
+Tue May 15 23:47:17 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.util.ContainerTest
+Tue May 15 23:47:18 UTC 2018: Found element on the queue
+Tue May 15 23:47:18 UTC 2018: Updating status
+Tue May 15 23:47:18 UTC 2018: Working
+Tue May 15 23:47:20 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.OdsFileWriterAdapterTest
+Tue May 15 23:47:20 UTC 2018: Setting lastTestMethodIndex: 51702
+Tue May 15 23:47:20 UTC 2018: Starting linking
+Tue May 15 23:47:20 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-document with com.github.jferard.fastods.OdsFileWriterAdapterTest-document
+Tue May 15 23:47:20 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-waitForData with com.github.jferard.fastods.OdsFileWriterAdapterTest-waitForData
+Tue May 15 23:47:21 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-flushAdaptee with com.github.jferard.fastods.OdsFileWriterAdapterTest-flushAdapteeWithFinalize
+Tue May 15 23:47:21 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-save with com.github.jferard.fastods.OdsFileWriterAdapterTest-save
+Tue May 15 23:47:21 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-isNotStopped with com.github.jferard.fastods.OdsFileWriterAdapterTest-isNotStopped
+Tue May 15 23:47:22 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-flushAdaptee with com.github.jferard.fastods.OdsFileWriterAdapterTest-flushAdaptee
+Tue May 15 23:47:22 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-close with com.github.jferard.fastods.OdsFileWriterAdapterTest-close
+Tue May 15 23:47:22 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-update with com.github.jferard.fastods.OdsFileWriterAdapterTest-update
+Tue May 15 23:47:23 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-create with com.github.jferard.fastods.OdsFileWriterAdapterTest-create
+Tue May 15 23:47:23 UTC 2018: Code found com.github.jferard.fastods.OdsFileWriterAdapter-flushAdaptee with com.github.jferard.fastods.OdsFileWriterAdapterTest-flushAdapteeWithEmptyQueue
+Tue May 15 23:47:23 UTC 2018: No link for: com.github.jferard.fastods.OdsFileWriterAdapterTest-flushAdapteeWithoutEnd
+Tue May 15 23:47:24 UTC 2018: No link for: com.github.jferard.fastods.OdsFileWriterAdapterTest-interruptAdapterInFlush
+Tue May 15 23:47:24 UTC 2018: No link for: com.github.jferard.fastods.OdsFileWriterAdapterTest-interruptAdapterInWait
+Tue May 15 23:47:24 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.OdsFileWriterAdapterTest
+Tue May 15 23:47:25 UTC 2018: Found element on the queue
+Tue May 15 23:47:25 UTC 2018: Updating status
+Tue May 15 23:47:25 UTC 2018: Working
+Tue May 15 23:47:28 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.ScientificNumberStyleTest
+Tue May 15 23:47:28 UTC 2018: Setting lastTestMethodIndex: 51705
+Tue May 15 23:47:28 UTC 2018: Starting linking
+Tue May 15 23:47:28 UTC 2018: Code found com.github.jferard.fastods.datastyle.ScientificNumberStyleBuilder-decimalPlaces with com.github.jferard.fastods.datastyle.ScientificNumberStyleTest-testDecimalPlaces
+Tue May 15 23:47:28 UTC 2018: Code found com.github.jferard.fastods.datastyle.ScientificNumberStyleBuilder-negativeValueColor with com.github.jferard.fastods.datastyle.ScientificNumberStyleTest-testNegativeValueColor
+Tue May 15 23:47:29 UTC 2018: No link for: com.github.jferard.fastods.datastyle.ScientificNumberStyleTest-test2
+Tue May 15 23:47:29 UTC 2018: No link for: com.github.jferard.fastods.datastyle.ScientificNumberStyleTest-test1
+Tue May 15 23:47:29 UTC 2018: No link for: com.github.jferard.fastods.datastyle.ScientificNumberStyleTest-testAddToElements
+Tue May 15 23:47:30 UTC 2018: No link for: com.github.jferard.fastods.datastyle.ScientificNumberStyleTest-testGetters
+Tue May 15 23:47:30 UTC 2018: No link for: com.github.jferard.fastods.datastyle.ScientificNumberStyleTest-testWithNoName
+Tue May 15 23:47:30 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.ScientificNumberStyleTest
+Tue May 15 23:47:31 UTC 2018: Found element on the queue
+Tue May 15 23:47:31 UTC 2018: Updating status
+Tue May 15 23:47:31 UTC 2018: Working
+Tue May 15 23:47:34 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.PercentageStyleTest
+Tue May 15 23:47:34 UTC 2018: Setting lastTestMethodIndex: 51710
+Tue May 15 23:47:34 UTC 2018: Starting linking
+Tue May 15 23:47:34 UTC 2018: Code found com.github.jferard.fastods.datastyle.PercentageStyleBuilder-negativeValueRed with com.github.jferard.fastods.datastyle.PercentageStyleTest-testNegativeValueRed
+Tue May 15 23:47:34 UTC 2018: Code found com.github.jferard.fastods.datastyle.PercentageStyleBuilder-locale with com.github.jferard.fastods.datastyle.PercentageStyleTest-testLocaleVolatile
+Tue May 15 23:47:34 UTC 2018: Code found com.github.jferard.fastods.datastyle.PercentageStyleBuilder-negativeValueColor with com.github.jferard.fastods.datastyle.PercentageStyleTest-testNegativeValueColor
+Tue May 15 23:47:34 UTC 2018: Code found com.github.jferard.fastods.datastyle.PercentageStyleBuilder-decimalPlaces with com.github.jferard.fastods.datastyle.PercentageStyleTest-testDecimalPlaces
+Tue May 15 23:47:35 UTC 2018: Code found com.github.jferard.fastods.datastyle.PercentageStyleBuilder-groupThousands with com.github.jferard.fastods.datastyle.PercentageStyleTest-testGroupThousands
+Tue May 15 23:47:35 UTC 2018: Code found com.github.jferard.fastods.datastyle.PercentageStyleBuilder-language with com.github.jferard.fastods.datastyle.PercentageStyleTest-testCountryLanguage
+Tue May 15 23:47:35 UTC 2018: Code found com.github.jferard.fastods.datastyle.PercentageStyleBuilder-minIntegerDigits with com.github.jferard.fastods.datastyle.PercentageStyleTest-testMinIntegerDigits
+Tue May 15 23:47:36 UTC 2018: No link for: com.github.jferard.fastods.datastyle.PercentageStyleTest-testAddToElements
+Tue May 15 23:47:36 UTC 2018: No link for: com.github.jferard.fastods.datastyle.PercentageStyleTest-testGetters
+Tue May 15 23:47:36 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.PercentageStyleTest
+Tue May 15 23:47:37 UTC 2018: Found element on the queue
+Tue May 15 23:47:37 UTC 2018: Updating status
+Tue May 15 23:47:37 UTC 2018: Working
+Tue May 15 23:47:40 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.TimeStyleTest
+Tue May 15 23:47:40 UTC 2018: Setting lastTestMethodIndex: 51713
+Tue May 15 23:47:40 UTC 2018: Starting linking
+Tue May 15 23:47:40 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStyleTestHelper-testGetters with com.github.jferard.fastods.datastyle.TimeStyleTest-testGetters
+Tue May 15 23:47:40 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStyleTestHelper-testAddToElements with com.github.jferard.fastods.datastyle.TimeStyleTest-testAddToElements
+Tue May 15 23:47:41 UTC 2018: No link for: com.github.jferard.fastods.datastyle.TimeStyleTest-testLocaleVolatile
+Tue May 15 23:47:41 UTC 2018: No link for: com.github.jferard.fastods.datastyle.TimeStyleTest-testLanguageCountry
+Tue May 15 23:47:41 UTC 2018: No link for: com.github.jferard.fastods.datastyle.TimeStyleTest-testNullFormat
+Tue May 15 23:47:41 UTC 2018: No link for: com.github.jferard.fastods.datastyle.TimeStyleTest-testFormat
+Tue May 15 23:47:42 UTC 2018: No link for: com.github.jferard.fastods.datastyle.TimeStyleTest-testHiddenNullFormat
+Tue May 15 23:47:42 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.TimeStyleTest
+Tue May 15 23:47:42 UTC 2018: Found element on the queue
+Tue May 15 23:47:42 UTC 2018: Updating status
+Tue May 15 23:47:42 UTC 2018: Working
+Tue May 15 23:47:46 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.NumberStyleHelperTest
+Tue May 15 23:47:46 UTC 2018: Setting lastTestMethodIndex: 51717
+Tue May 15 23:47:46 UTC 2018: Starting linking
+Tue May 15 23:47:46 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStyleTestHelper-testGetters with com.github.jferard.fastods.datastyle.NumberStyleHelperTest-testGetters
+Tue May 15 23:47:46 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStyleTestHelper-testAddToElements with com.github.jferard.fastods.datastyle.NumberStyleHelperTest-testAddToElements
+Tue May 15 23:47:46 UTC 2018: No link for: com.github.jferard.fastods.datastyle.NumberStyleHelperTest-testEmpty
+Tue May 15 23:47:46 UTC 2018: No link for: com.github.jferard.fastods.datastyle.NumberStyleHelperTest-testNegative
+Tue May 15 23:47:47 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.NumberStyleHelperTest
+Tue May 15 23:47:47 UTC 2018: Found element on the queue
+Tue May 15 23:47:47 UTC 2018: Updating status
+Tue May 15 23:47:47 UTC 2018: Working
+Tue May 15 23:47:50 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.BooleanStyleTest
+Tue May 15 23:47:50 UTC 2018: Setting lastTestMethodIndex: 51720
+Tue May 15 23:47:50 UTC 2018: Starting linking
+Tue May 15 23:47:50 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStyleTestHelper-testAddToElements with com.github.jferard.fastods.datastyle.BooleanStyleTest-testAddToElements
+Tue May 15 23:47:50 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStyleTestHelper-testGetters with com.github.jferard.fastods.datastyle.BooleanStyleTest-testGetters
+Tue May 15 23:47:50 UTC 2018: No link for: com.github.jferard.fastods.datastyle.BooleanStyleTest-testLocaleVolatile
+Tue May 15 23:47:51 UTC 2018: No link for: com.github.jferard.fastods.datastyle.BooleanStyleTest-testLanguageCountry
+Tue May 15 23:47:51 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.BooleanStyleTest
+Tue May 15 23:47:51 UTC 2018: Found element on the queue
+Tue May 15 23:47:51 UTC 2018: Updating status
+Tue May 15 23:47:51 UTC 2018: Working
+Tue May 15 23:47:54 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.DataStylesTest
+Tue May 15 23:47:54 UTC 2018: Setting lastTestMethodIndex: 51723
+Tue May 15 23:47:54 UTC 2018: Starting linking
+Tue May 15 23:47:54 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStylesBuilder-build with com.github.jferard.fastods.datastyle.DataStylesTest-testBuilder
+Tue May 15 23:47:54 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetFloat
+Tue May 15 23:47:54 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetVoid
+Tue May 15 23:47:55 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetPercentage
+Tue May 15 23:47:55 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetString
+Tue May 15 23:47:55 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetCurrency
+Tue May 15 23:47:56 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetDate
+Tue May 15 23:47:56 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetAll
+Tue May 15 23:47:57 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetBoolean
+Tue May 15 23:47:57 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DataStylesTest-testGetTime
+Tue May 15 23:47:57 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.DataStylesTest
+Tue May 15 23:47:58 UTC 2018: Found element on the queue
+Tue May 15 23:47:58 UTC 2018: Updating status
+Tue May 15 23:47:58 UTC 2018: Working
+Tue May 15 23:48:00 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.FractionStyleTest
+Tue May 15 23:48:00 UTC 2018: Setting lastTestMethodIndex: 51726
+Tue May 15 23:48:00 UTC 2018: Starting linking
+Tue May 15 23:48:00 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStyleTestHelper-testAddToElements with com.github.jferard.fastods.datastyle.FractionStyleTest-testAddToElements
+Tue May 15 23:48:00 UTC 2018: Code found com.github.jferard.fastods.datastyle.DataStyleTestHelper-testGetters with com.github.jferard.fastods.datastyle.FractionStyleTest-testGetters
+Tue May 15 23:48:01 UTC 2018: No link for: com.github.jferard.fastods.datastyle.FractionStyleTest-testNegativeValueColor
+Tue May 15 23:48:01 UTC 2018: No link for: com.github.jferard.fastods.datastyle.FractionStyleTest-test1
+Tue May 15 23:48:01 UTC 2018: No link for: com.github.jferard.fastods.datastyle.FractionStyleTest-test2
+Tue May 15 23:48:01 UTC 2018: No link for: com.github.jferard.fastods.datastyle.FractionStyleTest-testNull
+Tue May 15 23:48:02 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.FractionStyleTest
+Tue May 15 23:48:02 UTC 2018: Found element on the queue
+Tue May 15 23:48:02 UTC 2018: Updating status
+Tue May 15 23:48:02 UTC 2018: Working
+Tue May 15 23:48:05 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.CurrencyStyleTest
+Tue May 15 23:48:05 UTC 2018: Setting lastTestMethodIndex: 51729
+Tue May 15 23:48:05 UTC 2018: Starting linking
+Tue May 15 23:48:05 UTC 2018: Code found com.github.jferard.fastods.datastyle.CurrencyStyleBuilder-negativeValueColor with com.github.jferard.fastods.datastyle.CurrencyStyleTest-testNegativeValueColor
+Tue May 15 23:48:06 UTC 2018: Code found com.github.jferard.fastods.datastyle.CurrencyStyleBuilder-groupThousands with com.github.jferard.fastods.datastyle.CurrencyStyleTest-testGroupThousands
+Tue May 15 23:48:06 UTC 2018: Code found com.github.jferard.fastods.datastyle.CurrencyStyleBuilder-minIntegerDigits with com.github.jferard.fastods.datastyle.CurrencyStyleTest-testMinIntegerDigits
+Tue May 15 23:48:06 UTC 2018: Code found com.github.jferard.fastods.datastyle.CurrencyStyleBuilder-decimalPlaces with com.github.jferard.fastods.datastyle.CurrencyStyleTest-testDecimalPlaces
+Tue May 15 23:48:06 UTC 2018: Code found com.github.jferard.fastods.datastyle.CurrencyStyleBuilder-negativeValueRed with com.github.jferard.fastods.datastyle.CurrencyStyleTest-testNegativeValueRed
+Tue May 15 23:48:07 UTC 2018: Code found com.github.jferard.fastods.datastyle.CurrencyStyleBuilder-locale with com.github.jferard.fastods.datastyle.CurrencyStyleTest-testLocaleVolatile
+Tue May 15 23:48:07 UTC 2018: No link for: com.github.jferard.fastods.datastyle.CurrencyStyleTest-testStylesElements
+Tue May 15 23:48:07 UTC 2018: No link for: com.github.jferard.fastods.datastyle.CurrencyStyleTest-testEuro
+Tue May 15 23:48:07 UTC 2018: No link for: com.github.jferard.fastods.datastyle.CurrencyStyleTest-testAddToElements
+Tue May 15 23:48:08 UTC 2018: No link for: com.github.jferard.fastods.datastyle.CurrencyStyleTest-testGetters
+Tue May 15 23:48:08 UTC 2018: No link for: com.github.jferard.fastods.datastyle.CurrencyStyleTest-testSymbol
+Tue May 15 23:48:08 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.CurrencyStyleTest
+Tue May 15 23:48:09 UTC 2018: Found element on the queue
+Tue May 15 23:48:09 UTC 2018: Updating status
+Tue May 15 23:48:09 UTC 2018: Working
+Tue May 15 23:48:11 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.datastyle.DateStyleTest
+Tue May 15 23:48:11 UTC 2018: Setting lastTestMethodIndex: 51732
+Tue May 15 23:48:11 UTC 2018: Starting linking
+Tue May 15 23:48:11 UTC 2018: Code found com.github.jferard.fastods.datastyle.DateStyleBuilder-locale with com.github.jferard.fastods.datastyle.DateStyleTest-testWithLocale
+Tue May 15 23:48:12 UTC 2018: Code found com.github.jferard.fastods.datastyle.DateStyleBuilder-language with com.github.jferard.fastods.datastyle.DateStyleTest-testWithLanguage
+Tue May 15 23:48:12 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithFormat1
+Tue May 15 23:48:12 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testAddToElements
+Tue May 15 23:48:13 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithFormat5
+Tue May 15 23:48:13 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithFormat4
+Tue May 15 23:48:13 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithFormat3
+Tue May 15 23:48:13 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithFormat2
+Tue May 15 23:48:14 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithOrder
+Tue May 15 23:48:14 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithFormat7
+Tue May 15 23:48:14 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithFormat6
+Tue May 15 23:48:14 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testGetters
+Tue May 15 23:48:15 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithNullName
+Tue May 15 23:48:15 UTC 2018: No link for: com.github.jferard.fastods.datastyle.DateStyleTest-testWithVolatile
+Tue May 15 23:48:15 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.datastyle.DateStyleTest
+Tue May 15 23:48:16 UTC 2018: Found element on the queue
+Tue May 15 23:48:16 UTC 2018: Updating status
+Tue May 15 23:48:16 UTC 2018: Working
+Tue May 15 23:48:18 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.ImmutableElementsFlusherTest
+Tue May 15 23:48:18 UTC 2018: Setting lastTestMethodIndex: 51735
+Tue May 15 23:48:18 UTC 2018: Starting linking
+Tue May 15 23:48:18 UTC 2018: No link for: com.github.jferard.fastods.ImmutableElementsFlusherTest-test
+Tue May 15 23:48:18 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.ImmutableElementsFlusherTest
+Tue May 15 23:48:19 UTC 2018: Found element on the queue
+Tue May 15 23:48:19 UTC 2018: Updating status
+Tue May 15 23:48:19 UTC 2018: Working
+Tue May 15 23:48:21 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.TableBuilderTest
+Tue May 15 23:48:21 UTC 2018: Setting lastTestMethodIndex: 51738
+Tue May 15 23:48:21 UTC 2018: Starting linking
+Tue May 15 23:48:21 UTC 2018: Code found com.github.jferard.fastods.TableBuilder-getRow with com.github.jferard.fastods.TableBuilderTest-testGetRowNegative
+Tue May 15 23:48:21 UTC 2018: Code found com.github.jferard.fastods.TableBuilder-getRow with com.github.jferard.fastods.TableBuilderTest-testGetRow
+Tue May 15 23:48:22 UTC 2018: Code found com.github.jferard.fastods.TableBuilder-getRow with com.github.jferard.fastods.TableBuilderTest-testGetRowHundred
+Tue May 15 23:48:22 UTC 2018: Code found com.github.jferard.fastods.TableBuilder-getRow with com.github.jferard.fastods.TableBuilderTest-testGetRowFromStringPos
+Tue May 15 23:48:22 UTC 2018: No link for: com.github.jferard.fastods.TableBuilderTest-testColumnStyles
+Tue May 15 23:48:22 UTC 2018: No link for: com.github.jferard.fastods.TableBuilderTest-testObserver
+Tue May 15 23:48:23 UTC 2018: No link for: com.github.jferard.fastods.TableBuilderTest-testNameAndStyle
+Tue May 15 23:48:23 UTC 2018: No link for: com.github.jferard.fastods.TableBuilderTest-testMergeWithObserver1
+Tue May 15 23:48:23 UTC 2018: No link for: com.github.jferard.fastods.TableBuilderTest-testRowsSpanned
+Tue May 15 23:48:23 UTC 2018: No link for: com.github.jferard.fastods.TableBuilderTest-testMerge
+Tue May 15 23:48:24 UTC 2018: No link for: com.github.jferard.fastods.TableBuilderTest-testLastRow
+Tue May 15 23:48:24 UTC 2018: No link for: com.github.jferard.fastods.TableBuilderTest-testMergeWithPosString
+Tue May 15 23:48:24 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.TableBuilderTest
+Tue May 15 23:48:25 UTC 2018: Found element on the queue
+Tue May 15 23:48:25 UTC 2018: Updating status
+Tue May 15 23:48:25 UTC 2018: Working
+Tue May 15 23:48:27 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.PreprocessedRowsFlusherTest
+Tue May 15 23:48:27 UTC 2018: Setting lastTestMethodIndex: 51742
+Tue May 15 23:48:27 UTC 2018: Starting linking
+Tue May 15 23:48:27 UTC 2018: Code found com.github.jferard.fastods.PreprocessedRowsFlusher-create with com.github.jferard.fastods.PreprocessedRowsFlusherTest-create
+Tue May 15 23:48:28 UTC 2018: Code found com.github.jferard.fastods.PreprocessedRowsFlusher-flushInto with com.github.jferard.fastods.PreprocessedRowsFlusherTest-flushIntoNullRow
+Tue May 15 23:48:28 UTC 2018: Code found com.github.jferard.fastods.PreprocessedRowsFlusher-flushInto with com.github.jferard.fastods.PreprocessedRowsFlusherTest-flushIntoEmptyList
+Tue May 15 23:48:28 UTC 2018: Code found com.github.jferard.fastods.PreprocessedRowsFlusher-flushInto with com.github.jferard.fastods.PreprocessedRowsFlusherTest-flushInto
+Tue May 15 23:48:28 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.PreprocessedRowsFlusherTest
+Tue May 15 23:48:29 UTC 2018: Found element on the queue
+Tue May 15 23:48:29 UTC 2018: Updating status
+Tue May 15 23:48:29 UTC 2018: Working
+Tue May 15 23:48:31 UTC 2018: Start jferard__fastods test class com.github.jferard.fastods.FloatValueTest
+Tue May 15 23:48:31 UTC 2018: Setting lastTestMethodIndex: 51745
+Tue May 15 23:48:31 UTC 2018: Starting linking
+Tue May 15 23:48:31 UTC 2018: No link for: com.github.jferard.fastods.FloatValueTest-testSet
+Tue May 15 23:48:32 UTC 2018: No link for: com.github.jferard.fastods.FloatValueTest-testEquals
+Tue May 15 23:48:32 UTC 2018: Linking done for jferard__fastods test class com.github.jferard.fastods.FloatValueTest

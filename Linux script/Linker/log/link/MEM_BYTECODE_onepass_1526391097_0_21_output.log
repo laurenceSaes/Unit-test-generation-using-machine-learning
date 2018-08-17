@@ -1,0 +1,381 @@
+Tue May 15 15:14:50 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 15:14:51 UTC 2018: Starting
+Tue May 15 15:14:51 UTC 2018: Found element on the queue
+Tue May 15 15:14:51 UTC 2018: Updating status
+Tue May 15 15:14:51 UTC 2018: Working
+Tue May 15 15:14:51 UTC 2018: Create project parser
+Tue May 15 15:14:55 UTC 2018: Create slicer
+Tue May 15 15:14:57 UTC 2018: Create call graph
+Tue May 15 15:14:58 UTC 2018: Create point analysis
+Tue May 15 15:14:58 UTC 2018: Create call graph done
+Tue May 15 15:14:58 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.problem.ProblemBuilderTest
+Tue May 15 15:14:58 UTC 2018: Setting lastTestMethodIndex: 36280
+Tue May 15 15:14:58 UTC 2018: Starting linking
+Tue May 15 15:14:58 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemBuilderTest-testWithFixedTotalNumberOfIndividuals
+Tue May 15 15:14:58 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemBuilderTest-testWithFixedNumberOfSpecies
+Tue May 15 15:14:58 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemBuilderTest-testBasicProblem
+Tue May 15 15:14:58 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.problem.ProblemBuilderTest
+Tue May 15 15:14:59 UTC 2018: Found element on the queue
+Tue May 15 15:14:59 UTC 2018: Updating status
+Tue May 15 15:14:59 UTC 2018: Working
+Tue May 15 15:15:01 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.problem.ProblemTest
+Tue May 15 15:15:01 UTC 2018: Setting lastTestMethodIndex: 36281
+Tue May 15 15:15:01 UTC 2018: Starting linking
+Tue May 15 15:15:01 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testCreationWithEmptyAsInitialPopulation
+Tue May 15 15:15:01 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testEqualityWithProblemsWhoseReferenceIsDifferent
+Tue May 15 15:15:01 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testGetInitialEvaluation
+Tue May 15 15:15:01 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testCreationWithAReferenceIrrelevantForTheSelectedMetric
+Tue May 15 15:15:01 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testEqualityWithProblemsWhoseMetricIsDifferent
+Tue May 15 15:15:01 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testEqualityWithNull
+Tue May 15 15:15:02 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testCreationWithNullAsInitialPopulation
+Tue May 15 15:15:02 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testEqualityWithProblemsWhoseInitialPopulationIsDifferent
+Tue May 15 15:15:02 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testEqualityWithIncompatibleObject
+Tue May 15 15:15:02 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testEqualityWithTwoEquivalentProblems
+Tue May 15 15:15:02 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testCreationWithNullAsDiversityMetric
+Tue May 15 15:15:02 UTC 2018: No link for: eu.diversify.disco.controller.problem.ProblemTest-testProblemEqualityWithItself
+Tue May 15 15:15:02 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.problem.ProblemTest
+Tue May 15 15:15:03 UTC 2018: Found element on the queue
+Tue May 15 15:15:03 UTC 2018: Updating status
+Tue May 15 15:15:03 UTC 2018: Working
+Tue May 15 15:15:05 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.problem.SolutionTest
+Tue May 15 15:15:05 UTC 2018: Setting lastTestMethodIndex: 36282
+Tue May 15 15:15:05 UTC 2018: Starting linking
+Tue May 15 15:15:05 UTC 2018: No link for: eu.diversify.disco.controller.problem.SolutionTest-testRefinement
+Tue May 15 15:15:05 UTC 2018: No link for: eu.diversify.disco.controller.problem.SolutionTest-testFormatting
+Tue May 15 15:15:05 UTC 2018: No link for: eu.diversify.disco.controller.problem.SolutionTest-testEquality
+Tue May 15 15:15:05 UTC 2018: No link for: eu.diversify.disco.controller.problem.SolutionTest-testCollectionUse
+Tue May 15 15:15:05 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.problem.SolutionTest
+Tue May 15 15:15:06 UTC 2018: Found element on the queue
+Tue May 15 15:15:06 UTC 2018: Updating status
+Tue May 15 15:15:06 UTC 2018: Working
+Tue May 15 15:15:08 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.AdaptiveHillClimberTest
+Tue May 15 15:15:08 UTC 2018: Setting lastTestMethodIndex: 36283
+Tue May 15 15:15:08 UTC 2018: Starting linking
+Tue May 15 15:15:08 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.AdaptiveHillClimberTest
+Tue May 15 15:15:08 UTC 2018: Found element on the queue
+Tue May 15 15:15:08 UTC 2018: Updating status
+Tue May 15 15:15:09 UTC 2018: Working
+Tue May 15 15:15:11 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.HillClimbingTest
+Tue May 15 15:15:11 UTC 2018: Setting lastTestMethodIndex: 36284
+Tue May 15 15:15:11 UTC 2018: Starting linking
+Tue May 15 15:15:11 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.HillClimbingTest
+Tue May 15 15:15:11 UTC 2018: Found element on the queue
+Tue May 15 15:15:11 UTC 2018: Updating status
+Tue May 15 15:15:11 UTC 2018: Working
+Tue May 15 15:15:13 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.BreadthFirstSearchTest
+Tue May 15 15:15:13 UTC 2018: Setting lastTestMethodIndex: 36285
+Tue May 15 15:15:13 UTC 2018: Starting linking
+Tue May 15 15:15:14 UTC 2018: No link for: eu.diversify.disco.controller.solvers.BreadthFirstSearchTest-testPushback
+Tue May 15 15:15:14 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.BreadthFirstSearchTest
+Tue May 15 15:15:14 UTC 2018: Found element on the queue
+Tue May 15 15:15:14 UTC 2018: Updating status
+Tue May 15 15:15:14 UTC 2018: Working
+Tue May 15 15:15:16 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.BetterSolverTest
+Tue May 15 15:15:16 UTC 2018: Setting lastTestMethodIndex: 36286
+Tue May 15 15:15:16 UTC 2018: Starting linking
+Tue May 15 15:15:16 UTC 2018: No link for: eu.diversify.disco.controller.solvers.BetterSolverTest-testSolver
+Tue May 15 15:15:16 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.BetterSolverTest
+Tue May 15 15:15:17 UTC 2018: Found element on the queue
+Tue May 15 15:15:17 UTC 2018: Updating status
+Tue May 15 15:15:17 UTC 2018: Working
+Tue May 15 15:15:19 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.SolverFactoryTest
+Tue May 15 15:15:19 UTC 2018: Setting lastTestMethodIndex: 36287
+Tue May 15 15:15:19 UTC 2018: Starting linking
+Tue May 15 15:15:19 UTC 2018: No link for: eu.diversify.disco.controller.solvers.SolverFactoryTest-testHillClimbingInstantiation
+Tue May 15 15:15:19 UTC 2018: No link for: eu.diversify.disco.controller.solvers.SolverFactoryTest-testBreadthFirstInstantiation
+Tue May 15 15:15:19 UTC 2018: No link for: eu.diversify.disco.controller.solvers.SolverFactoryTest-testUnknownStrategyDetection
+Tue May 15 15:15:19 UTC 2018: No link for: eu.diversify.disco.controller.solvers.SolverFactoryTest-testEscapingName
+Tue May 15 15:15:19 UTC 2018: No link for: eu.diversify.disco.controller.solvers.SolverFactoryTest-testAdaptiveHillClimbingInstantiation
+Tue May 15 15:15:20 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.solvers.SolverFactoryTest
+Tue May 15 15:15:20 UTC 2018: Found element on the queue
+Tue May 15 15:15:20 UTC 2018: Updating status
+Tue May 15 15:15:20 UTC 2018: Working
+Tue May 15 15:15:22 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.SandboxTest
+Tue May 15 15:15:22 UTC 2018: Setting lastTestMethodIndex: 36288
+Tue May 15 15:15:22 UTC 2018: Starting linking
+Tue May 15 15:15:22 UTC 2018: No link for: eu.diversify.disco.controller.SandboxTest-sandboxTest
+Tue May 15 15:15:22 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.SandboxTest
+Tue May 15 15:15:23 UTC 2018: Found element on the queue
+Tue May 15 15:15:23 UTC 2018: Updating status
+Tue May 15 15:15:23 UTC 2018: Working
+Tue May 15 15:15:25 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.controller.ControllerTest
+Tue May 15 15:15:25 UTC 2018: Setting lastTestMethodIndex: 36289
+Tue May 15 15:15:25 UTC 2018: Starting linking
+Tue May 15 15:15:25 UTC 2018: No link for: eu.diversify.disco.controller.ControllerTest-testControl
+Tue May 15 15:15:25 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.controller.ControllerTest
+Tue May 15 15:15:26 UTC 2018: Found element on the queue
+Tue May 15 15:15:26 UTC 2018: Updating status
+Tue May 15 15:15:26 UTC 2018: Working
+Tue May 15 15:15:26 UTC 2018: Create project parser
+Tue May 15 15:15:28 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.commons.RunnerTest
+Tue May 15 15:15:28 UTC 2018: Setting lastTestMethodIndex: 36290
+Tue May 15 15:15:28 UTC 2018: Starting linking
+Tue May 15 15:15:28 UTC 2018: No link for: eu.diversify.disco.experiments.commons.RunnerTest-testExtractArgument
+Tue May 15 15:15:28 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.commons.RunnerTest
+Tue May 15 15:15:29 UTC 2018: Found element on the queue
+Tue May 15 15:15:29 UTC 2018: Updating status
+Tue May 15 15:15:29 UTC 2018: Working
+Tue May 15 15:15:31 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.commons.data.DataSetTest
+Tue May 15 15:15:31 UTC 2018: Setting lastTestMethodIndex: 36291
+Tue May 15 15:15:31 UTC 2018: Starting linking
+Tue May 15 15:15:31 UTC 2018: No link for: eu.diversify.disco.experiments.commons.data.DataSetTest-testMainUsage
+Tue May 15 15:15:31 UTC 2018: No link for: eu.diversify.disco.experiments.commons.data.DataSetTest-testUnknownFieldAssignment
+Tue May 15 15:15:31 UTC 2018: No link for: eu.diversify.disco.experiments.commons.data.DataSetTest-testIllegalDataSetModification
+Tue May 15 15:15:31 UTC 2018: No link for: eu.diversify.disco.experiments.commons.data.DataSetTest-testIsMissing
+Tue May 15 15:15:31 UTC 2018: No link for: eu.diversify.disco.experiments.commons.data.DataSetTest-testIllegalFieldAssignment
+Tue May 15 15:15:31 UTC 2018: No link for: eu.diversify.disco.experiments.commons.data.DataSetTest-testIllegalDataSchema
+Tue May 15 15:15:31 UTC 2018: No link for: eu.diversify.disco.experiments.commons.data.DataSetTest-testUnknownFieldRetrieval
+Tue May 15 15:15:32 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.commons.data.DataSetTest
+Tue May 15 15:15:32 UTC 2018: Found element on the queue
+Tue May 15 15:15:32 UTC 2018: Updating status
+Tue May 15 15:15:32 UTC 2018: Working
+Tue May 15 15:15:34 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.commons.data.SchemaBuilderTest
+Tue May 15 15:15:34 UTC 2018: Setting lastTestMethodIndex: 36292
+Tue May 15 15:15:34 UTC 2018: Starting linking
+Tue May 15 15:15:34 UTC 2018: No link for: eu.diversify.disco.experiments.commons.data.SchemaBuilderTest-testSchemaBuilder
+Tue May 15 15:15:34 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.commons.data.SchemaBuilderTest
+Tue May 15 15:15:35 UTC 2018: Found element on the queue
+Tue May 15 15:15:35 UTC 2018: Updating status
+Tue May 15 15:15:35 UTC 2018: Working
+Tue May 15 15:15:37 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.commons.codecs.CodecsTest
+Tue May 15 15:15:37 UTC 2018: Setting lastTestMethodIndex: 36293
+Tue May 15 15:15:37 UTC 2018: Starting linking
+Tue May 15 15:15:37 UTC 2018: No link for: eu.diversify.disco.experiments.commons.codecs.CodecsTest-testUnknownExtension
+Tue May 15 15:15:37 UTC 2018: No link for: eu.diversify.disco.experiments.commons.codecs.CodecsTest-testMissingExtension
+Tue May 15 15:15:37 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.commons.codecs.CodecsTest
+Tue May 15 15:15:38 UTC 2018: Found element on the queue
+Tue May 15 15:15:38 UTC 2018: Updating status
+Tue May 15 15:15:38 UTC 2018: Working
+Tue May 15 15:15:38 UTC 2018: Create project parser
+Tue May 15 15:15:40 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.controllers.decentralised.ExperimentTest
+Tue May 15 15:15:40 UTC 2018: Setting lastTestMethodIndex: 36294
+Tue May 15 15:15:40 UTC 2018: Starting linking
+Tue May 15 15:15:40 UTC 2018: No link for: eu.diversify.disco.experiments.controllers.decentralised.ExperimentTest-testIndividualSpecies
+Tue May 15 15:15:40 UTC 2018: No link for: eu.diversify.disco.experiments.controllers.decentralised.ExperimentTest-testPopulationDataSetEntryCount
+Tue May 15 15:15:40 UTC 2018: No link for: eu.diversify.disco.experiments.controllers.decentralised.ExperimentTest-testDataSetNames
+Tue May 15 15:15:40 UTC 2018: No link for: eu.diversify.disco.experiments.controllers.decentralised.ExperimentTest-testDiversityDataSetEntryCount
+Tue May 15 15:15:41 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.controllers.decentralised.ExperimentTest
+Tue May 15 15:15:41 UTC 2018: Found element on the queue
+Tue May 15 15:15:41 UTC 2018: Updating status
+Tue May 15 15:15:41 UTC 2018: Working
+Tue May 15 15:15:41 UTC 2018: Create project parser
+Tue May 15 15:15:43 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.controllers.scalability.ExperimentTest
+Tue May 15 15:15:43 UTC 2018: Setting lastTestMethodIndex: 36295
+Tue May 15 15:15:43 UTC 2018: Starting linking
+Tue May 15 15:15:43 UTC 2018: No link for: eu.diversify.disco.experiments.controllers.scalability.ExperimentTest-testRunner
+Tue May 15 15:15:43 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.controllers.scalability.ExperimentTest
+Tue May 15 15:15:44 UTC 2018: Found element on the queue
+Tue May 15 15:15:44 UTC 2018: Updating status
+Tue May 15 15:15:44 UTC 2018: Working
+Tue May 15 15:15:44 UTC 2018: Create project parser
+Tue May 15 15:15:46 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.population.eda.EdaTest
+Tue May 15 15:15:46 UTC 2018: Setting lastTestMethodIndex: 36296
+Tue May 15 15:15:46 UTC 2018: Starting linking
+Tue May 15 15:15:46 UTC 2018: No link for: eu.diversify.disco.experiments.population.eda.EdaTest-testSampleDiversityImpact
+Tue May 15 15:15:47 UTC 2018: No link for: eu.diversify.disco.experiments.population.eda.EdaTest-testLoadingSetupFromYamlFile
+Tue May 15 15:15:47 UTC 2018: No link for: eu.diversify.disco.experiments.population.eda.EdaTest-testRunningExperiment
+Tue May 15 15:15:47 UTC 2018: No link for: eu.diversify.disco.experiments.population.eda.EdaTest-testChooseAnySpecieFrom
+Tue May 15 15:15:47 UTC 2018: No link for: eu.diversify.disco.experiments.population.eda.EdaTest-testExcludeSpecieNamed
+Tue May 15 15:15:47 UTC 2018: No link for: eu.diversify.disco.experiments.population.eda.EdaTest-testNonEmptySpeciesWithEmptySpecies
+Tue May 15 15:15:47 UTC 2018: No link for: eu.diversify.disco.experiments.population.eda.EdaTest-testNonEmptySpeciesWithNoEmptySpecies
+Tue May 15 15:15:47 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.population.eda.EdaTest
+Tue May 15 15:15:48 UTC 2018: Found element on the queue
+Tue May 15 15:15:48 UTC 2018: Updating status
+Tue May 15 15:15:48 UTC 2018: Working
+Tue May 15 15:15:48 UTC 2018: Create project parser
+Tue May 15 15:15:50 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.population.sensitivity.ExperimentTest
+Tue May 15 15:15:50 UTC 2018: Setting lastTestMethodIndex: 36297
+Tue May 15 15:15:50 UTC 2018: Starting linking
+Tue May 15 15:15:50 UTC 2018: No link for: eu.diversify.disco.experiments.population.sensitivity.ExperimentTest-testSensitivityAnalysis
+Tue May 15 15:15:50 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.population.sensitivity.ExperimentTest
+Tue May 15 15:15:50 UTC 2018: Found element on the queue
+Tue May 15 15:15:50 UTC 2018: Updating status
+Tue May 15 15:15:50 UTC 2018: Working
+Tue May 15 15:15:50 UTC 2018: Create project parser
+Tue May 15 15:15:53 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.experiments.testing.TesterBuilderTest
+Tue May 15 15:15:53 UTC 2018: Setting lastTestMethodIndex: 36298
+Tue May 15 15:15:53 UTC 2018: Starting linking
+Tue May 15 15:15:53 UTC 2018: No link for: eu.diversify.disco.experiments.testing.TesterBuilderTest-testBuilderTester
+Tue May 15 15:15:53 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.experiments.testing.TesterBuilderTest
+Tue May 15 15:15:53 UTC 2018: Found element on the queue
+Tue May 15 15:15:53 UTC 2018: Updating status
+Tue May 15 15:15:53 UTC 2018: Working
+Tue May 15 15:15:53 UTC 2018: Create project parser
+Tue May 15 15:15:56 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.MutablePopulationTest
+Tue May 15 15:15:56 UTC 2018: Setting lastTestMethodIndex: 36299
+Tue May 15 15:15:56 UTC 2018: Starting linking
+Tue May 15 15:15:56 UTC 2018: No link for: eu.diversify.disco.population.MutablePopulationTest-testThatLegalActionsCannotEmptyThePopulation
+Tue May 15 15:15:56 UTC 2018: No link for: eu.diversify.disco.population.MutablePopulationTest-testLegalActions
+Tue May 15 15:15:56 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.MutablePopulationTest
+Tue May 15 15:15:57 UTC 2018: Found element on the queue
+Tue May 15 15:15:57 UTC 2018: Updating status
+Tue May 15 15:15:57 UTC 2018: Working
+Tue May 15 15:15:59 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.actions.TestAction
+Tue May 15 15:15:59 UTC 2018: Setting lastTestMethodIndex: 36300
+Tue May 15 15:15:59 UTC 2018: Starting linking
+Tue May 15 15:15:59 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testRemoveSpecieBySpecieName
+Tue May 15 15:15:59 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testAddIndividualsIn
+Tue May 15 15:15:59 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testRemoveIndividualsBySpecieName
+Tue May 15 15:15:59 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testAddSpecie
+Tue May 15 15:16:00 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testSetNumberOfIndividualsByIndex
+Tue May 15 15:16:00 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testAddIndividualsBySpecieName
+Tue May 15 15:16:00 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testSetNumberOfIndividualsBySpecieName
+Tue May 15 15:16:00 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testScript
+Tue May 15 15:16:00 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testRemoveSpecieByIndex
+Tue May 15 15:16:00 UTC 2018: No link for: eu.diversify.disco.population.actions.TestAction-testRemoveIndividuals
+Tue May 15 15:16:00 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.actions.TestAction
+Tue May 15 15:16:01 UTC 2018: Found element on the queue
+Tue May 15 15:16:01 UTC 2018: Updating status
+Tue May 15 15:16:01 UTC 2018: Working
+Tue May 15 15:16:03 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.actions.ActionEqualityTest
+Tue May 15 15:16:03 UTC 2018: Setting lastTestMethodIndex: 36301
+Tue May 15 15:16:03 UTC 2018: Starting linking
+Tue May 15 15:16:03 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testSetNumberOfIndividualsInEqualityWhenEquals
+Tue May 15 15:16:03 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testSetNumberOfIndividualsInEqualityWhenNotEquals
+Tue May 15 15:16:03 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testScriptEquality
+Tue May 15 15:16:03 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testAddSpecieEqualityWhenEqual
+Tue May 15 15:16:03 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testRemoveSpecieEqualityWhenEquals
+Tue May 15 15:16:03 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testShiftNumberOfIndividualsInEqualityWhenNotEquals
+Tue May 15 15:16:03 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testRemoveSpecieEqualityWhenNotEqual
+Tue May 15 15:16:03 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testAddSpecieEqualityWhenNotEqual
+Tue May 15 15:16:04 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testShiftNumberOfIndividualsInEqualityWhenEquals
+Tue May 15 15:16:04 UTC 2018: No link for: eu.diversify.disco.population.actions.ActionEqualityTest-testScriptInEquality
+Tue May 15 15:16:04 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.actions.ActionEqualityTest
+Tue May 15 15:16:04 UTC 2018: Found element on the queue
+Tue May 15 15:16:04 UTC 2018: Updating status
+Tue May 15 15:16:04 UTC 2018: Working
+Tue May 15 15:16:06 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.ImmutablePopulationTest
+Tue May 15 15:16:06 UTC 2018: Setting lastTestMethodIndex: 36302
+Tue May 15 15:16:06 UTC 2018: Starting linking
+Tue May 15 15:16:06 UTC 2018: No link for: eu.diversify.disco.population.ImmutablePopulationTest-testCloning
+Tue May 15 15:16:06 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.ImmutablePopulationTest
+Tue May 15 15:16:07 UTC 2018: Found element on the queue
+Tue May 15 15:16:07 UTC 2018: Updating status
+Tue May 15 15:16:07 UTC 2018: Working
+Tue May 15 15:16:09 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.SpecieTest
+Tue May 15 15:16:09 UTC 2018: Setting lastTestMethodIndex: 36303
+Tue May 15 15:16:09 UTC 2018: Starting linking
+Tue May 15 15:16:09 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-equalsShouldDetectHeadcountThatAreDifferent
+Tue May 15 15:16:09 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-setNameShouldUpdateTheName
+Tue May 15 15:16:09 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-isNamedShouldReturnFalseWhenTheGivenNameDoesNotMatchTheActualName
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-isEmptyShouldReturnTrueWhenHeadcountIsZero
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-constructorShoudlRejectNullAsName
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-isEmptyShouldReturnFalseWhenHeadCountIsGreaterThanZero
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-setHeadcountShouldRejectNegativeHeadcount
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-equalsShouldDetectNameThatAreDifferent
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-setNameShouldRejectEmptyString
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-equalsShouldReturnTrueWhenBothNameAndHeadcountAreEquals
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-equalsShouldReturnFalseWhenAppliedOnNull
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-setHeadcountShouldUpdateTheHeadcount
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-constructorShouldRejectNegativeHeadcount
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-setNameShouldRejectNull
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-equalsShouldReturnTrueWhenApplyToItself
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-constructorShouldRejectEmptyStringAsName
+Tue May 15 15:16:10 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-shiftHeadcountShouldUpdateTheHeadcount
+Tue May 15 15:16:11 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-shiftHeadcountShouldRejectOffsetThatWouldResultInANegativeHeadcount
+Tue May 15 15:16:11 UTC 2018: No link for: eu.diversify.disco.population.SpecieTest-isNamedShouldReturnTrueIfTheGivenNameMatchesTheActualName
+Tue May 15 15:16:11 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.SpecieTest
+Tue May 15 15:16:11 UTC 2018: Found element on the queue
+Tue May 15 15:16:11 UTC 2018: Updating status
+Tue May 15 15:16:11 UTC 2018: Working
+Tue May 15 15:16:13 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.PopulationBuilderTest
+Tue May 15 15:16:13 UTC 2018: Setting lastTestMethodIndex: 36304
+Tue May 15 15:16:13 UTC 2018: Starting linking
+Tue May 15 15:16:13 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldAcceptSpecieNamesAndDistributionInAnyOrder
+Tue May 15 15:16:13 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldRejectMissingSpecieName
+Tue May 15 15:16:13 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldAcceptTheDistributionOfIndividuals
+Tue May 15 15:16:13 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldReturnAnEmptyPopulationByDefault
+Tue May 15 15:16:13 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldNotHaveMemory
+Tue May 15 15:16:13 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldAcceptImmutability
+Tue May 15 15:16:14 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-testClonePopulation
+Tue May 15 15:16:14 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldRejectMissingHeadcount
+Tue May 15 15:16:14 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldAcceptSpecieNameAndDistribution
+Tue May 15 15:16:14 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldAcceptAMapFromNameToHeadcount
+Tue May 15 15:16:14 UTC 2018: No link for: eu.diversify.disco.population.PopulationBuilderTest-buildShouldAcceptTheSpeciesName
+Tue May 15 15:16:14 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.PopulationBuilderTest
+Tue May 15 15:16:14 UTC 2018: Found element on the queue
+Tue May 15 15:16:14 UTC 2018: Updating status
+Tue May 15 15:16:14 UTC 2018: Working
+Tue May 15 15:16:16 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.ConstrainedPopulationTest
+Tue May 15 15:16:16 UTC 2018: Setting lastTestMethodIndex: 36305
+Tue May 15 15:16:16 UTC 2018: Starting linking
+Tue May 15 15:16:16 UTC 2018: No link for: eu.diversify.disco.population.ConstrainedPopulationTest-testLegalActionsWithScaleFactor
+Tue May 15 15:16:17 UTC 2018: No link for: eu.diversify.disco.population.ConstrainedPopulationTest-testLegalActions
+Tue May 15 15:16:17 UTC 2018: No link for: eu.diversify.disco.population.ConstrainedPopulationTest-testConstraintArePreservedByTheClone
+Tue May 15 15:16:17 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.ConstrainedPopulationTest
+Tue May 15 15:16:17 UTC 2018: Found element on the queue
+Tue May 15 15:16:17 UTC 2018: Updating status
+Tue May 15 15:16:17 UTC 2018: Working
+Tue May 15 15:16:19 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.random.GeneratorTest
+Tue May 15 15:16:19 UTC 2018: Setting lastTestMethodIndex: 36306
+Tue May 15 15:16:19 UTC 2018: Starting linking
+Tue May 15 15:16:19 UTC 2018: No link for: eu.diversify.disco.population.random.GeneratorTest-testNarrowProfile
+Tue May 15 15:16:19 UTC 2018: No link for: eu.diversify.disco.population.random.GeneratorTest-testNominalUsage
+Tue May 15 15:16:20 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.random.GeneratorTest
+Tue May 15 15:16:20 UTC 2018: Found element on the queue
+Tue May 15 15:16:20 UTC 2018: Updating status
+Tue May 15 15:16:20 UTC 2018: Working
+Tue May 15 15:16:22 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.ShannonIndexTest
+Tue May 15 15:16:22 UTC 2018: Setting lastTestMethodIndex: 36307
+Tue May 15 15:16:22 UTC 2018: Starting linking
+Tue May 15 15:16:22 UTC 2018: No link for: eu.diversify.disco.population.diversity.ShannonIndexTest-nameShouldBeAboutShannonIndex
+Tue May 15 15:16:22 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.ShannonIndexTest
+Tue May 15 15:16:23 UTC 2018: Found element on the queue
+Tue May 15 15:16:23 UTC 2018: Updating status
+Tue May 15 15:16:23 UTC 2018: Working
+Tue May 15 15:16:25 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.StandardDeviationTest
+Tue May 15 15:16:25 UTC 2018: Setting lastTestMethodIndex: 36308
+Tue May 15 15:16:25 UTC 2018: Starting linking
+Tue May 15 15:16:25 UTC 2018: No link for: eu.diversify.disco.population.diversity.StandardDeviationTest-nameShouldBeAboutStandardDeviation
+Tue May 15 15:16:25 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.StandardDeviationTest
+Tue May 15 15:16:26 UTC 2018: Found element on the queue
+Tue May 15 15:16:26 UTC 2018: Updating status
+Tue May 15 15:16:26 UTC 2018: Working
+Tue May 15 15:16:28 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.TrueDiversityTest
+Tue May 15 15:16:28 UTC 2018: Setting lastTestMethodIndex: 36309
+Tue May 15 15:16:28 UTC 2018: Starting linking
+Tue May 15 15:16:28 UTC 2018: No link for: eu.diversify.disco.population.diversity.TrueDiversityTest-nameShouldBeAboutTrueDiversity
+Tue May 15 15:16:28 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.TrueDiversityTest
+Tue May 15 15:16:28 UTC 2018: Found element on the queue
+Tue May 15 15:16:28 UTC 2018: Updating status
+Tue May 15 15:16:28 UTC 2018: Working
+Tue May 15 15:16:31 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.GiniSimpsonIndexTest
+Tue May 15 15:16:31 UTC 2018: Setting lastTestMethodIndex: 36310
+Tue May 15 15:16:31 UTC 2018: Starting linking
+Tue May 15 15:16:31 UTC 2018: No link for: eu.diversify.disco.population.diversity.GiniSimpsonIndexTest-nameShouldBeAboutGiniSimpsonIndex
+Tue May 15 15:16:31 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.GiniSimpsonIndexTest
+Tue May 15 15:16:31 UTC 2018: Found element on the queue
+Tue May 15 15:16:31 UTC 2018: Updating status
+Tue May 15 15:16:31 UTC 2018: Working
+Tue May 15 15:16:33 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.MetricFactoryTest
+Tue May 15 15:16:33 UTC 2018: Setting lastTestMethodIndex: 36311
+Tue May 15 15:16:33 UTC 2018: Starting linking
+Tue May 15 15:16:33 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-factoryShouldCreateGiniSimpsonIndex
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-testDescriptionEquality
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-parserShouldExtractLongMetricNamesWithSpacesAndNoParameters
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-parserShouldExtractSimpleNameWithManyParameter
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-parserShouldExtractSimpleNameWithOneParameter
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-factoryShouldCreateTrueDiversityWithAGivenThetaValue
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-factoryShouldCreateTrueDiversityWithDefaultThetaValue
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-factoryShouldCreateShannonIndex
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-parserShouldExtractSimpleNameWithNoParameters
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-parserShouldRejectIllformedDescription
+Tue May 15 15:16:34 UTC 2018: No link for: eu.diversify.disco.population.diversity.MetricFactoryTest-factoryShouldCreateStandardDeviation
+Tue May 15 15:16:35 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.diversity.MetricFactoryTest
+Tue May 15 15:16:35 UTC 2018: Found element on the queue
+Tue May 15 15:16:35 UTC 2018: Updating status
+Tue May 15 15:16:35 UTC 2018: Working
+Tue May 15 15:16:37 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.population.constraints.ConstraintsTest
+Tue May 15 15:16:37 UTC 2018: Setting lastTestMethodIndex: 36312
+Tue May 15 15:16:37 UTC 2018: Starting linking
+Tue May 15 15:16:37 UTC 2018: No link for: eu.diversify.disco.population.constraints.ConstraintsTest-testConstraintEffectiveness
+Tue May 15 15:16:37 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.population.constraints.ConstraintsTest
+Tue May 15 15:16:38 UTC 2018: Found element on the queue
+Tue May 15 15:16:38 UTC 2018: Updating status
+Tue May 15 15:16:38 UTC 2018: Working
+Tue May 15 15:16:38 UTC 2018: Create project parser
+Tue May 15 15:16:40 UTC 2018: Start DIVERSIFY-project__disco test class eu.diversify.disco.samples.commons.DiversityControllerTest
+Tue May 15 15:16:40 UTC 2018: Setting lastTestMethodIndex: 36313
+Tue May 15 15:16:40 UTC 2018: Starting linking
+Tue May 15 15:16:40 UTC 2018: No link for: eu.diversify.disco.samples.commons.DiversityControllerTest-testInteractions
+Tue May 15 15:16:40 UTC 2018: Linking done for DIVERSIFY-project__disco test class eu.diversify.disco.samples.commons.DiversityControllerTest

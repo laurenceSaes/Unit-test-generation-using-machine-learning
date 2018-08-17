@@ -1,0 +1,213 @@
+Tue May 15 14:23:43 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 14:23:43 UTC 2018: Starting
+Tue May 15 14:23:44 UTC 2018: Found element on the queue
+Tue May 15 14:23:44 UTC 2018: Updating status
+Tue May 15 14:23:44 UTC 2018: Working
+Tue May 15 14:23:44 UTC 2018: Create project parser
+Tue May 15 14:23:50 UTC 2018: Create slicer
+Tue May 15 14:23:52 UTC 2018: Create call graph
+Tue May 15 14:23:54 UTC 2018: Create point analysis
+Tue May 15 14:23:54 UTC 2018: Create call graph done
+Tue May 15 14:23:54 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.parser.RegexMessageParserTest
+Tue May 15 14:23:54 UTC 2018: Setting lastTestMethodIndex: 35337
+Tue May 15 14:23:54 UTC 2018: Starting linking
+Tue May 15 14:23:54 UTC 2018: No link for: com.pinterest.secor.parser.RegexMessageParserTest-testExtractTimestampMillisEmpty
+Tue May 15 14:23:54 UTC 2018: No link for: com.pinterest.secor.parser.RegexMessageParserTest-testExtractTimestampMillisException1
+Tue May 15 14:23:54 UTC 2018: No link for: com.pinterest.secor.parser.RegexMessageParserTest-testExtractTimestampMillis
+Tue May 15 14:23:54 UTC 2018: No link for: com.pinterest.secor.parser.RegexMessageParserTest-testExtractTimestampMillisFromKafkaTimestamp
+Tue May 15 14:23:54 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.parser.RegexMessageParserTest
+Tue May 15 14:23:55 UTC 2018: Found element on the queue
+Tue May 15 14:23:55 UTC 2018: Updating status
+Tue May 15 14:23:55 UTC 2018: Working
+Tue May 15 14:23:57 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.parser.JsonMessageParserTest
+Tue May 15 14:23:57 UTC 2018: Setting lastTestMethodIndex: 35338
+Tue May 15 14:23:57 UTC 2018: Starting linking
+Tue May 15 14:23:57 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractTimestampMillisException1
+Tue May 15 14:23:57 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractPartitionsForUTCDefaultTimezone
+Tue May 15 14:23:57 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractTimestampMillisException2
+Tue May 15 14:23:57 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractTimestampMillisFromKafkaTimestamp
+Tue May 15 14:23:57 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractNestedTimestampMillis
+Tue May 15 14:23:58 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testDailyGetFinalizedUptoPartitions
+Tue May 15 14:23:58 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractTimestampMillis
+Tue May 15 14:23:58 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testHourlyGetFinalizedUptoPartitions
+Tue May 15 14:23:58 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testMinutelyGetFinalizedUptoPartitions
+Tue May 15 14:23:58 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractPartitions
+Tue May 15 14:23:58 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractHourlyPartitionsForNonUTCTimezone
+Tue May 15 14:23:58 UTC 2018: No link for: com.pinterest.secor.parser.JsonMessageParserTest-testExtractHourlyPartitions
+Tue May 15 14:23:58 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.parser.JsonMessageParserTest
+Tue May 15 14:23:58 UTC 2018: Found element on the queue
+Tue May 15 14:23:58 UTC 2018: Updating status
+Tue May 15 14:23:58 UTC 2018: Working
+Tue May 15 14:24:01 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.parser.SplitByFieldMessageParserTest
+Tue May 15 14:24:01 UTC 2018: Setting lastTestMethodIndex: 35339
+Tue May 15 14:24:01 UTC 2018: Starting linking
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testExtractTimestampMillisException1
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testExtractTimestampMillisException2
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testGetFinalizedUptoPartitions
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testExtractPartitions
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testExtractTimestampMillisExceptionNoTimestamp
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testGetPreviousPartitions
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testExtractTimestampMillisExceptionNoType
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testExtractTypeAndTimestamp
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testExtractHourlyPartitionsForNonUTCTimezone
+Tue May 15 14:24:01 UTC 2018: No link for: com.pinterest.secor.parser.SplitByFieldMessageParserTest-testExtractHourlyPartitions
+Tue May 15 14:24:01 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.parser.SplitByFieldMessageParserTest
+Tue May 15 14:24:02 UTC 2018: Found element on the queue
+Tue May 15 14:24:02 UTC 2018: Updating status
+Tue May 15 14:24:02 UTC 2018: Working
+Tue May 15 14:24:04 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.parser.DateMessageParserTest
+Tue May 15 14:24:04 UTC 2018: Setting lastTestMethodIndex: 35341
+Tue May 15 14:24:04 UTC 2018: Starting linking
+Tue May 15 14:24:04 UTC 2018: No link for: com.pinterest.secor.parser.DateMessageParserTest-testCustomDateFormat
+Tue May 15 14:24:04 UTC 2018: No link for: com.pinterest.secor.parser.DateMessageParserTest-testNestedField
+Tue May 15 14:24:04 UTC 2018: No link for: com.pinterest.secor.parser.DateMessageParserTest-testDatePrefix
+Tue May 15 14:24:05 UTC 2018: No link for: com.pinterest.secor.parser.DateMessageParserTest-testExtractDateWithWrongEntries
+Tue May 15 14:24:05 UTC 2018: No link for: com.pinterest.secor.parser.DateMessageParserTest-testExtractDateUsingInputPattern
+Tue May 15 14:24:05 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.parser.DateMessageParserTest
+Tue May 15 14:24:05 UTC 2018: Found element on the queue
+Tue May 15 14:24:05 UTC 2018: Updating status
+Tue May 15 14:24:05 UTC 2018: Working
+Tue May 15 14:24:08 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.timestamp.KafkaMessageTimestampFactoryTest
+Tue May 15 14:24:08 UTC 2018: Setting lastTestMethodIndex: 35343
+Tue May 15 14:24:08 UTC 2018: Starting linking
+Tue May 15 14:24:08 UTC 2018: No link for: com.pinterest.secor.timestamp.KafkaMessageTimestampFactoryTest-shouldReturnKafka8TimestampClassObject
+Tue May 15 14:24:08 UTC 2018: No link for: com.pinterest.secor.timestamp.KafkaMessageTimestampFactoryTest-shouldReturnNullForInvalidClass
+Tue May 15 14:24:08 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.timestamp.KafkaMessageTimestampFactoryTest
+Tue May 15 14:24:08 UTC 2018: Found element on the queue
+Tue May 15 14:24:08 UTC 2018: Updating status
+Tue May 15 14:24:08 UTC 2018: Working
+Tue May 15 14:24:11 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.monitoring.OstrichMetricCollectorTest
+Tue May 15 14:24:11 UTC 2018: Setting lastTestMethodIndex: 35345
+Tue May 15 14:24:11 UTC 2018: Starting linking
+Tue May 15 14:24:11 UTC 2018: Code found com.pinterest.secor.monitoring.OstrichMetricCollector-increment with com.pinterest.secor.monitoring.OstrichMetricCollectorTest-increment
+Tue May 15 14:24:11 UTC 2018: Code found com.pinterest.secor.monitoring.OstrichMetricCollector-metric with com.pinterest.secor.monitoring.OstrichMetricCollectorTest-metric
+Tue May 15 14:24:11 UTC 2018: Code found com.pinterest.secor.monitoring.OstrichMetricCollector-increment with com.pinterest.secor.monitoring.OstrichMetricCollectorTest-incrementByOne
+Tue May 15 14:24:11 UTC 2018: Code found com.pinterest.secor.monitoring.OstrichMetricCollector-gauge with com.pinterest.secor.monitoring.OstrichMetricCollectorTest-gauge
+Tue May 15 14:24:11 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.monitoring.OstrichMetricCollectorTest
+Tue May 15 14:24:11 UTC 2018: Found element on the queue
+Tue May 15 14:24:11 UTC 2018: Updating status
+Tue May 15 14:24:11 UTC 2018: Working
+Tue May 15 14:24:14 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.ThriftParquetFileReaderWriterFactoryTest
+Tue May 15 14:24:14 UTC 2018: Setting lastTestMethodIndex: 35347
+Tue May 15 14:24:14 UTC 2018: Starting linking
+Tue May 15 14:24:14 UTC 2018: No link for: com.pinterest.secor.io.impl.ThriftParquetFileReaderWriterFactoryTest-testThriftParquetReadWriteRoundTrip
+Tue May 15 14:24:14 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.ThriftParquetFileReaderWriterFactoryTest
+Tue May 15 14:24:14 UTC 2018: Found element on the queue
+Tue May 15 14:24:14 UTC 2018: Updating status
+Tue May 15 14:24:14 UTC 2018: Working
+Tue May 15 14:24:16 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.ProtobufParquetFileReaderWriterFactoryTest
+Tue May 15 14:24:17 UTC 2018: Setting lastTestMethodIndex: 35348
+Tue May 15 14:24:17 UTC 2018: Starting linking
+Tue May 15 14:24:17 UTC 2018: No link for: com.pinterest.secor.io.impl.ProtobufParquetFileReaderWriterFactoryTest-testProtobufParquetReadWriteRoundTrip
+Tue May 15 14:24:17 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.ProtobufParquetFileReaderWriterFactoryTest
+Tue May 15 14:24:17 UTC 2018: Found element on the queue
+Tue May 15 14:24:17 UTC 2018: Updating status
+Tue May 15 14:24:17 UTC 2018: Working
+Tue May 15 14:24:19 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.SequenceFileReaderWriterFactoryTest
+Tue May 15 14:24:19 UTC 2018: Setting lastTestMethodIndex: 35349
+Tue May 15 14:24:19 UTC 2018: Starting linking
+Tue May 15 14:24:20 UTC 2018: Code found com.pinterest.secor.io.impl.SequenceFileReaderWriterFactory$SequenceFileWriter-write with com.pinterest.secor.io.impl.SequenceFileReaderWriterFactoryTest-testSequenceReadWriteRoundTrip
+Tue May 15 14:24:20 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.SequenceFileReaderWriterFactoryTest
+Tue May 15 14:24:20 UTC 2018: Found element on the queue
+Tue May 15 14:24:20 UTC 2018: Updating status
+Tue May 15 14:24:20 UTC 2018: Working
+Tue May 15 14:24:22 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.MessagePackSequenceFileReaderWriterFactoryTest
+Tue May 15 14:24:22 UTC 2018: Setting lastTestMethodIndex: 35350
+Tue May 15 14:24:22 UTC 2018: Starting linking
+Tue May 15 14:24:22 UTC 2018: Code found com.pinterest.secor.io.impl.MessagePackSequenceFileReaderWriterFactory$MessagePackSequenceFileWriter-write with com.pinterest.secor.io.impl.MessagePackSequenceFileReaderWriterFactoryTest-testMessagePackSequenceReadWriteRoundTrip
+Tue May 15 14:24:22 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.MessagePackSequenceFileReaderWriterFactoryTest
+Tue May 15 14:24:23 UTC 2018: Found element on the queue
+Tue May 15 14:24:23 UTC 2018: Updating status
+Tue May 15 14:24:23 UTC 2018: Working
+Tue May 15 14:24:26 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.OrcProtoReaderWriterFactoryTest
+Tue May 15 14:24:26 UTC 2018: Setting lastTestMethodIndex: 35351
+Tue May 15 14:24:26 UTC 2018: Starting linking
+Tue May 15 14:24:26 UTC 2018: No link for: com.pinterest.secor.io.impl.OrcProtoReaderWriterFactoryTest-testProtobufMessageOrcReadWrite
+Tue May 15 14:24:26 UTC 2018: No link for: com.pinterest.secor.io.impl.OrcProtoReaderWriterFactoryTest-testMultipleMessageOrcReadWrite
+Tue May 15 14:24:26 UTC 2018: No link for: com.pinterest.secor.io.impl.OrcProtoReaderWriterFactoryTest-testORCDMReadWrite
+Tue May 15 14:24:26 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.io.impl.OrcProtoReaderWriterFactoryTest
+Tue May 15 14:24:26 UTC 2018: Found element on the queue
+Tue May 15 14:24:26 UTC 2018: Updating status
+Tue May 15 14:24:26 UTC 2018: Working
+Tue May 15 14:24:28 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.util.FileUtilTest
+Tue May 15 14:24:28 UTC 2018: Setting lastTestMethodIndex: 35352
+Tue May 15 14:24:28 UTC 2018: Starting linking
+Tue May 15 14:24:28 UTC 2018: Code found com.pinterest.secor.util.FileUtil-getPrefix with com.pinterest.secor.util.FileUtilTest-testGetPrefix
+Tue May 15 14:24:29 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.util.FileUtilTest
+Tue May 15 14:24:29 UTC 2018: Found element on the queue
+Tue May 15 14:24:29 UTC 2018: Updating status
+Tue May 15 14:24:29 UTC 2018: Working
+Tue May 15 14:24:31 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.util.ReflectionUtilTest
+Tue May 15 14:24:31 UTC 2018: Setting lastTestMethodIndex: 35353
+Tue May 15 14:24:31 UTC 2018: Starting linking
+Tue May 15 14:24:31 UTC 2018: Code found com.pinterest.secor.util.ReflectionUtil-createMessageParser with com.pinterest.secor.util.ReflectionUtilTest-testCreateMessageParser
+Tue May 15 14:24:31 UTC 2018: No link for: com.pinterest.secor.util.ReflectionUtilTest-testCreateMetricsCollectorNotAssignable
+Tue May 15 14:24:31 UTC 2018: No link for: com.pinterest.secor.util.ReflectionUtilTest-testMessageParserConstructorMissing
+Tue May 15 14:24:31 UTC 2018: No link for: com.pinterest.secor.util.ReflectionUtilTest-testCreateMetricsCollector
+Tue May 15 14:24:31 UTC 2018: No link for: com.pinterest.secor.util.ReflectionUtilTest-testCreateMetricsCollectorClassNotFound
+Tue May 15 14:24:31 UTC 2018: No link for: com.pinterest.secor.util.ReflectionUtilTest-testFileWriterConstructorMissing
+Tue May 15 14:24:31 UTC 2018: No link for: com.pinterest.secor.util.ReflectionUtilTest-testFileWriterClassNotFound
+Tue May 15 14:24:31 UTC 2018: No link for: com.pinterest.secor.util.ReflectionUtilTest-testMessageParserClassNotFound
+Tue May 15 14:24:31 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.util.ReflectionUtilTest
+Tue May 15 14:24:32 UTC 2018: Found element on the queue
+Tue May 15 14:24:32 UTC 2018: Updating status
+Tue May 15 14:24:32 UTC 2018: Working
+Tue May 15 14:24:36 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.common.LogFilePathTest
+Tue May 15 14:24:36 UTC 2018: Setting lastTestMethodIndex: 35354
+Tue May 15 14:24:36 UTC 2018: Starting linking
+Tue May 15 14:24:36 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.common.LogFilePathTest
+Tue May 15 14:24:37 UTC 2018: Found element on the queue
+Tue May 15 14:24:37 UTC 2018: Updating status
+Tue May 15 14:24:37 UTC 2018: Working
+Tue May 15 14:24:41 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.common.ZookeeperConnectorTest
+Tue May 15 14:24:41 UTC 2018: Setting lastTestMethodIndex: 35356
+Tue May 15 14:24:41 UTC 2018: Starting linking
+Tue May 15 14:24:41 UTC 2018: No link for: com.pinterest.secor.common.ZookeeperConnectorTest-testGetCommittedOffsetGroupPath
+Tue May 15 14:24:41 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.common.ZookeeperConnectorTest
+Tue May 15 14:24:42 UTC 2018: Found element on the queue
+Tue May 15 14:24:42 UTC 2018: Updating status
+Tue May 15 14:24:42 UTC 2018: Working
+Tue May 15 14:24:46 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.common.SecorConfigTest
+Tue May 15 14:24:46 UTC 2018: Setting lastTestMethodIndex: 35358
+Tue May 15 14:24:46 UTC 2018: Starting linking
+Tue May 15 14:24:46 UTC 2018: No link for: com.pinterest.secor.common.SecorConfigTest-testProtobufMessageClassPerTopic
+Tue May 15 14:24:46 UTC 2018: No link for: com.pinterest.secor.common.SecorConfigTest-config_should_read_migration_required_properties_default_values
+Tue May 15 14:24:46 UTC 2018: No link for: com.pinterest.secor.common.SecorConfigTest-shouldReadMetricCollectorConfiguration
+Tue May 15 14:24:46 UTC 2018: No link for: com.pinterest.secor.common.SecorConfigTest-config_should_read_migration_required
+Tue May 15 14:24:46 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.common.SecorConfigTest
+Tue May 15 14:24:47 UTC 2018: Found element on the queue
+Tue May 15 14:24:47 UTC 2018: Updating status
+Tue May 15 14:24:47 UTC 2018: Working
+Tue May 15 14:24:50 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.parser.MessagePackParserTest
+Tue May 15 14:24:50 UTC 2018: Setting lastTestMethodIndex: 35361
+Tue May 15 14:24:50 UTC 2018: Starting linking
+Tue May 15 14:24:50 UTC 2018: No link for: com.pinterest.secor.parser.MessagePackParserTest-testExtractTimestampMillis
+Tue May 15 14:24:50 UTC 2018: No link for: com.pinterest.secor.parser.MessagePackParserTest-testUnsupportedTimestampFormat
+Tue May 15 14:24:51 UTC 2018: No link for: com.pinterest.secor.parser.MessagePackParserTest-testExtractTimestampMillisFromKafkaTimestamp
+Tue May 15 14:24:51 UTC 2018: No link for: com.pinterest.secor.parser.MessagePackParserTest-testMissingTimestamp
+Tue May 15 14:24:51 UTC 2018: No link for: com.pinterest.secor.parser.MessagePackParserTest-testNullTimestamp
+Tue May 15 14:24:51 UTC 2018: No link for: com.pinterest.secor.parser.MessagePackParserTest-testExtractPartitions
+Tue May 15 14:24:51 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.parser.MessagePackParserTest
+Tue May 15 14:24:51 UTC 2018: Found element on the queue
+Tue May 15 14:24:51 UTC 2018: Updating status
+Tue May 15 14:24:51 UTC 2018: Working
+Tue May 15 14:24:55 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.parser.ProtobufMessageParserTest
+Tue May 15 14:24:55 UTC 2018: Setting lastTestMethodIndex: 35364
+Tue May 15 14:24:55 UTC 2018: Starting linking
+Tue May 15 14:24:55 UTC 2018: No link for: com.pinterest.secor.parser.ProtobufMessageParserTest-testExtractPathTimestampMillis
+Tue May 15 14:24:55 UTC 2018: No link for: com.pinterest.secor.parser.ProtobufMessageParserTest-testExtractTimestampMillis
+Tue May 15 14:24:55 UTC 2018: No link for: com.pinterest.secor.parser.ProtobufMessageParserTest-testExtractNestedTimestampMillis
+Tue May 15 14:24:55 UTC 2018: No link for: com.pinterest.secor.parser.ProtobufMessageParserTest-testExtractTimestampMillisFromKafkaTimestamp
+Tue May 15 14:24:55 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.parser.ProtobufMessageParserTest
+Tue May 15 14:24:56 UTC 2018: Found element on the queue
+Tue May 15 14:24:56 UTC 2018: Updating status
+Tue May 15 14:24:56 UTC 2018: Working
+Tue May 15 14:25:00 UTC 2018: Start deepak-batra__secor-protobuf test class com.pinterest.secor.parser.ThriftMessageParserTest
+Tue May 15 14:25:00 UTC 2018: Setting lastTestMethodIndex: 35368
+Tue May 15 14:25:00 UTC 2018: Starting linking
+Tue May 15 14:25:00 UTC 2018: No link for: com.pinterest.secor.parser.ThriftMessageParserTest-testExtractTimestampTwo
+Tue May 15 14:25:00 UTC 2018: No link for: com.pinterest.secor.parser.ThriftMessageParserTest-testExtractTimestamp
+Tue May 15 14:25:00 UTC 2018: No link for: com.pinterest.secor.parser.ThriftMessageParserTest-testAttemptExtractInvalidField
+Tue May 15 14:25:00 UTC 2018: No link for: com.pinterest.secor.parser.ThriftMessageParserTest-testExtractTimestampThree
+Tue May 15 14:25:01 UTC 2018: No link for: com.pinterest.secor.parser.ThriftMessageParserTest-testExtractTimestampFromKafkaTimestamp
+Tue May 15 14:25:01 UTC 2018: Linking done for deepak-batra__secor-protobuf test class com.pinterest.secor.parser.ThriftMessageParserTest

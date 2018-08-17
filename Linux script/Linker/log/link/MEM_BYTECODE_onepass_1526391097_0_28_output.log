@@ -1,0 +1,1141 @@
+Tue May 15 15:42:11 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 15:42:11 UTC 2018: Starting
+Tue May 15 15:42:12 UTC 2018: Found element on the queue
+Tue May 15 15:42:12 UTC 2018: Updating status
+Tue May 15 15:42:12 UTC 2018: Working
+Tue May 15 15:42:12 UTC 2018: Create project parser
+Tue May 15 15:42:16 UTC 2018: Create slicer
+Tue May 15 15:42:23 UTC 2018: Create call graph
+Tue May 15 15:42:31 UTC 2018: Create point analysis
+Tue May 15 15:42:31 UTC 2018: Create call graph done
+Tue May 15 15:42:31 UTC 2018: Start dxmz__daxiongtes test class hudson.cli.PrivateKeyProviderTest
+Tue May 15 15:42:31 UTC 2018: Setting lastTestMethodIndex: 36897
+Tue May 15 15:42:31 UTC 2018: Starting linking
+Tue May 15 15:42:31 UTC 2018: No link for: hudson.cli.PrivateKeyProviderTest-specifyKeysExplicitly
+Tue May 15 15:42:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:42:31 UTC 2018: No link for: hudson.cli.PrivateKeyProviderTest-useDefaultKeyLocations
+Tue May 15 15:42:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:42:31 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.cli.PrivateKeyProviderTest
+Tue May 15 15:42:32 UTC 2018: Found element on the queue
+Tue May 15 15:42:32 UTC 2018: Updating status
+Tue May 15 15:42:32 UTC 2018: Working
+Tue May 15 15:42:34 UTC 2018: Start dxmz__daxiongtes test class hudson.cli.ConnectionTest
+Tue May 15 15:42:34 UTC 2018: Setting lastTestMethodIndex: 36899
+Tue May 15 15:42:34 UTC 2018: Starting linking
+Tue May 15 15:42:34 UTC 2018: No link for: hudson.cli.ConnectionTest-testSecurity218
+Tue May 15 15:42:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:42:34 UTC 2018: No link for: hudson.cli.ConnectionTest-testEncrypt
+Tue May 15 15:42:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:42:34 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.cli.ConnectionTest
+Tue May 15 15:42:35 UTC 2018: Found element on the queue
+Tue May 15 15:42:35 UTC 2018: Updating status
+Tue May 15 15:42:35 UTC 2018: Working
+Tue May 15 15:42:37 UTC 2018: Start dxmz__daxiongtes test class hudson.cli.ConnectionMockTest
+Tue May 15 15:42:37 UTC 2018: Setting lastTestMethodIndex: 36901
+Tue May 15 15:42:37 UTC 2018: Starting linking
+Tue May 15 15:42:37 UTC 2018: No link for: hudson.cli.ConnectionMockTest-shouldTolerateEmptyByteArrayUponStreamZeroValue
+Tue May 15 15:42:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:42:37 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.cli.ConnectionMockTest
+Tue May 15 15:42:38 UTC 2018: Found element on the queue
+Tue May 15 15:42:38 UTC 2018: Updating status
+Tue May 15 15:42:38 UTC 2018: Working
+Tue May 15 15:42:38 UTC 2018: Create project parser
+Tue May 15 15:42:59 UTC 2018: Start dxmz__daxiongtes test class jenkins.xml.XMLUtilsTest
+Tue May 15 15:42:59 UTC 2018: Setting lastTestMethodIndex: 36905
+Tue May 15 15:42:59 UTC 2018: Starting linking
+Tue May 15 15:42:59 UTC 2018: Code found jenkins.util.xml.XMLUtils-safeTransform with jenkins.xml.XMLUtilsTest-testSafeTransformDoesNotProcessForeignResources
+Tue May 15 15:42:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:42:59 UTC 2018: Code found jenkins.util.xml.XMLUtils-getValue with jenkins.xml.XMLUtilsTest-testGetValue
+Tue May 15 15:42:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:42:59 UTC 2018: Code found jenkins.util.xml.XMLUtils-parse with jenkins.xml.XMLUtilsTest-testParse_with_XXE
+Tue May 15 15:42:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:42:59 UTC 2018: No link for: jenkins.xml.XMLUtilsTest-testUpdateByXmlIDoesNotFail
+Tue May 15 15:42:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:42:59 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.xml.XMLUtilsTest
+Tue May 15 15:42:59 UTC 2018: Found element on the queue
+Tue May 15 15:42:59 UTC 2018: Updating status
+Tue May 15 15:42:59 UTC 2018: Working
+Tue May 15 15:43:02 UTC 2018: Start dxmz__daxiongtes test class jenkins.ResilientJsonObjectTest
+Tue May 15 15:43:02 UTC 2018: Setting lastTestMethodIndex: 36907
+Tue May 15 15:43:02 UTC 2018: Starting linking
+Tue May 15 15:43:02 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.ResilientJsonObjectTest
+Tue May 15 15:43:02 UTC 2018: Found element on the queue
+Tue May 15 15:43:02 UTC 2018: Updating status
+Tue May 15 15:43:03 UTC 2018: Working
+Tue May 15 15:43:05 UTC 2018: Start dxmz__daxiongtes test class jenkins.triggers.SCMTriggerItemTest
+Tue May 15 15:43:05 UTC 2018: Setting lastTestMethodIndex: 36909
+Tue May 15 15:43:05 UTC 2018: Starting linking
+Tue May 15 15:43:05 UTC 2018: No link for: jenkins.triggers.SCMTriggerItemTest-noVetoDelegatesPollingToAnSCMedItem
+Tue May 15 15:43:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:05 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.triggers.SCMTriggerItemTest
+Tue May 15 15:43:06 UTC 2018: Found element on the queue
+Tue May 15 15:43:06 UTC 2018: Updating status
+Tue May 15 15:43:06 UTC 2018: Working
+Tue May 15 15:43:08 UTC 2018: Start dxmz__daxiongtes test class jenkins.model.CoreEnvironmentContributorTest
+Tue May 15 15:43:08 UTC 2018: Setting lastTestMethodIndex: 36911
+Tue May 15 15:43:08 UTC 2018: Starting linking
+Tue May 15 15:43:08 UTC 2018: Code found jenkins.model.CoreEnvironmentContributor-buildEnvironmentFor with jenkins.model.CoreEnvironmentContributorTest-buildEnvironmentForJobShouldntUseCurrentComputer
+Tue May 15 15:43:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:08 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.model.CoreEnvironmentContributorTest
+Tue May 15 15:43:09 UTC 2018: Found element on the queue
+Tue May 15 15:43:09 UTC 2018: Updating status
+Tue May 15 15:43:09 UTC 2018: Working
+Tue May 15 15:43:11 UTC 2018: Start dxmz__daxiongtes test class jenkins.model.RunIdMigratorTest
+Tue May 15 15:43:11 UTC 2018: Setting lastTestMethodIndex: 36913
+Tue May 15 15:43:11 UTC 2018: Starting linking
+Tue May 15 15:43:11 UTC 2018: Code found jenkins.model.RunIdMigrator-move with jenkins.model.RunIdMigratorTest-move
+Tue May 15 15:43:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:12 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-newJob
+Tue May 15 15:43:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:12 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-legacy
+Tue May 15 15:43:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:12 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseAfterNewBuilds
+Tue May 15 15:43:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:12 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reRunMigration
+Tue May 15 15:43:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:12 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseMavenAfterNewBuilds
+Tue May 15 15:43:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:12 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseImmediately
+Tue May 15 15:43:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:12 UTC 2018: No link for: jenkins.model.RunIdMigratorTest-reverseMatrixAfterNewBuilds
+Tue May 15 15:43:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:12 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.model.RunIdMigratorTest
+Tue May 15 15:43:13 UTC 2018: Found element on the queue
+Tue May 15 15:43:13 UTC 2018: Updating status
+Tue May 15 15:43:13 UTC 2018: Working
+Tue May 15 15:43:15 UTC 2018: Start dxmz__daxiongtes test class jenkins.model.lazy.AbstractLazyLoadRunMapTest
+Tue May 15 15:43:15 UTC 2018: Setting lastTestMethodIndex: 36915
+Tue May 15 15:43:15 UTC 2018: Starting linking
+Tue May 15 15:43:15 UTC 2018: No code found jenkins.model.lazy.FakeMap-subMap with jenkins.model.lazy.AbstractLazyLoadRunMapTest-fastSubMap
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-search with jenkins.model.lazy.AbstractLazyLoadRunMapTest-search
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetChanges
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-search with jenkins.model.lazy.AbstractLazyLoadRunMapTest-searchExactWhenIndexedButSoftReferenceExpired
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetContains
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-lastKey with jenkins.model.lazy.AbstractLazyLoadRunMapTest-lastKey
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetEmpty
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetIterator
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-entrySet with jenkins.model.lazy.AbstractLazyLoadRunMapTest-entrySetSize
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-search with jenkins.model.lazy.AbstractLazyLoadRunMapTest-exactSearchShouldNotReload
+Tue May 15 15:43:16 UTC 2018: No code found jenkins.model.lazy.FakeMap-headMap with jenkins.model.lazy.AbstractLazyLoadRunMapTest-headMap
+Tue May 15 15:43:17 UTC 2018: No code found jenkins.model.lazy.FakeMap-firstKey with jenkins.model.lazy.AbstractLazyLoadRunMapTest-firstKey
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-eagerLoading
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-slowRetrieve
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-lookupWithBogusKeyType
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-lookup
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-indexOutOfBounds
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-all
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-lookup2
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-identity
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-idempotentLookup
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: No link for: jenkins.model.lazy.AbstractLazyLoadRunMapTest-unloadableData
+Tue May 15 15:43:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:17 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.model.lazy.AbstractLazyLoadRunMapTest
+Tue May 15 15:43:18 UTC 2018: Found element on the queue
+Tue May 15 15:43:18 UTC 2018: Updating status
+Tue May 15 15:43:18 UTC 2018: Working
+Tue May 15 15:43:20 UTC 2018: Start dxmz__daxiongtes test class jenkins.model.lazy.SortedIntListTest
+Tue May 15 15:43:20 UTC 2018: Setting lastTestMethodIndex: 36917
+Tue May 15 15:43:20 UTC 2018: Starting linking
+Tue May 15 15:43:20 UTC 2018: Code found jenkins.model.lazy.SortedIntList-ceil with jenkins.model.lazy.SortedIntListTest-ceil
+Tue May 15 15:43:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:20 UTC 2018: Code found jenkins.model.lazy.SortedIntList-max with jenkins.model.lazy.SortedIntListTest-max
+Tue May 15 15:43:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:20 UTC 2018: Code found jenkins.model.lazy.SortedIntList-lower with jenkins.model.lazy.SortedIntListTest-testLower
+Tue May 15 15:43:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:20 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.model.lazy.SortedIntListTest
+Tue May 15 15:43:21 UTC 2018: Found element on the queue
+Tue May 15 15:43:21 UTC 2018: Updating status
+Tue May 15 15:43:21 UTC 2018: Working
+Tue May 15 15:43:23 UTC 2018: Start dxmz__daxiongtes test class jenkins.model.lazy.SortedListTest
+Tue May 15 15:43:23 UTC 2018: Setting lastTestMethodIndex: 36919
+Tue May 15 15:43:23 UTC 2018: Starting linking
+Tue May 15 15:43:23 UTC 2018: Code found jenkins.model.lazy.SortedList-floor with jenkins.model.lazy.SortedListTest-testFloor
+Tue May 15 15:43:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:23 UTC 2018: Code found jenkins.model.lazy.SortedList-remove with jenkins.model.lazy.SortedListTest-remove
+Tue May 15 15:43:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:23 UTC 2018: Code found jenkins.model.lazy.SortedList-ceil with jenkins.model.lazy.SortedListTest-testCeil
+Tue May 15 15:43:23 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:23 UTC 2018: Code found jenkins.model.lazy.SortedList-higher with jenkins.model.lazy.SortedListTest-testHigher
+Tue May 15 15:43:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:24 UTC 2018: Code found jenkins.model.lazy.SortedList-lower with jenkins.model.lazy.SortedListTest-testLower
+Tue May 15 15:43:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:24 UTC 2018: No link for: jenkins.model.lazy.SortedListTest-testRange
+Tue May 15 15:43:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:24 UTC 2018: No link for: jenkins.model.lazy.SortedListTest-testClone
+Tue May 15 15:43:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:24 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.model.lazy.SortedListTest
+Tue May 15 15:43:24 UTC 2018: Found element on the queue
+Tue May 15 15:43:24 UTC 2018: Updating status
+Tue May 15 15:43:24 UTC 2018: Working
+Tue May 15 15:43:27 UTC 2018: Start dxmz__daxiongtes test class jenkins.model.PeepholePermalinkTest
+Tue May 15 15:43:27 UTC 2018: Setting lastTestMethodIndex: 36921
+Tue May 15 15:43:27 UTC 2018: Starting linking
+Tue May 15 15:43:27 UTC 2018: No link for: jenkins.model.PeepholePermalinkTest-symlinks
+Tue May 15 15:43:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:27 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.model.PeepholePermalinkTest
+Tue May 15 15:43:27 UTC 2018: Found element on the queue
+Tue May 15 15:43:27 UTC 2018: Updating status
+Tue May 15 15:43:27 UTC 2018: Working
+Tue May 15 15:43:30 UTC 2018: Start dxmz__daxiongtes test class jenkins.util.MarkFindingOutputStreamTest
+Tue May 15 15:43:30 UTC 2018: Setting lastTestMethodIndex: 36923
+Tue May 15 15:43:30 UTC 2018: Starting linking
+Tue May 15 15:43:30 UTC 2018: No code found jenkins.util.MarkFindingOutputStreamTest$MarkCountingOutputStream-close with jenkins.util.MarkFindingOutputStreamTest-closeInTheMiddle
+Tue May 15 15:43:30 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-writeOneHoldOff
+Tue May 15 15:43:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:30 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-partialMatchTurnsOutToBeWrongIn2ndWrite
+Tue May 15 15:43:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:30 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-oneByOne
+Tue May 15 15:43:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:30 UTC 2018: No link for: jenkins.util.MarkFindingOutputStreamTest-findTwice
+Tue May 15 15:43:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:30 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.util.MarkFindingOutputStreamTest
+Tue May 15 15:43:31 UTC 2018: Found element on the queue
+Tue May 15 15:43:31 UTC 2018: Updating status
+Tue May 15 15:43:31 UTC 2018: Working
+Tue May 15 15:43:33 UTC 2018: Start dxmz__daxiongtes test class jenkins.util.ResourceBundleUtilTest
+Tue May 15 15:43:33 UTC 2018: Setting lastTestMethodIndex: 36925
+Tue May 15 15:43:33 UTC 2018: Starting linking
+Tue May 15 15:43:33 UTC 2018: No link for: jenkins.util.ResourceBundleUtilTest-test_unknown_bundle
+Tue May 15 15:43:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:33 UTC 2018: No link for: jenkins.util.ResourceBundleUtilTest-test_unknown_locale
+Tue May 15 15:43:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:34 UTC 2018: No link for: jenkins.util.ResourceBundleUtilTest-test_known_locale
+Tue May 15 15:43:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:34 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.util.ResourceBundleUtilTest
+Tue May 15 15:43:34 UTC 2018: Found element on the queue
+Tue May 15 15:43:34 UTC 2018: Updating status
+Tue May 15 15:43:34 UTC 2018: Working
+Tue May 15 15:43:37 UTC 2018: Start dxmz__daxiongtes test class jenkins.util.TimerTest
+Tue May 15 15:43:37 UTC 2018: Setting lastTestMethodIndex: 36927
+Tue May 15 15:43:37 UTC 2018: Starting linking
+Tue May 15 15:43:37 UTC 2018: No link for: jenkins.util.TimerTest-timersArentBlocked
+Tue May 15 15:43:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:37 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.util.TimerTest
+Tue May 15 15:43:37 UTC 2018: Found element on the queue
+Tue May 15 15:43:37 UTC 2018: Updating status
+Tue May 15 15:43:38 UTC 2018: Working
+Tue May 15 15:43:40 UTC 2018: Start dxmz__daxiongtes test class jenkins.util.xstream.XStreamDOMTest
+Tue May 15 15:43:40 UTC 2018: Setting lastTestMethodIndex: 36929
+Tue May 15 15:43:40 UTC 2018: Starting linking
+Tue May 15 15:43:40 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.util.xstream.XStreamDOMTest
+Tue May 15 15:43:41 UTC 2018: Found element on the queue
+Tue May 15 15:43:41 UTC 2018: Updating status
+Tue May 15 15:43:41 UTC 2018: Working
+Tue May 15 15:43:43 UTC 2018: Start dxmz__daxiongtes test class jenkins.util.JenkinsJVMTest
+Tue May 15 15:43:43 UTC 2018: Setting lastTestMethodIndex: 36930
+Tue May 15 15:43:43 UTC 2018: Starting linking
+Tue May 15 15:43:43 UTC 2018: Code found jenkins.util.JenkinsJVM-checkNotJenkinsJVM with jenkins.util.JenkinsJVMTest-checkNotJenkinsJVM_WhenNotInAJenkinsJVM
+Tue May 15 15:43:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:43 UTC 2018: Code found jenkins.util.JenkinsJVM-checkNotJenkinsJVM with jenkins.util.JenkinsJVMTest-checkNotJenkinsJVM_WhenInAJenkinsJVM
+Tue May 15 15:43:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:43 UTC 2018: Code found jenkins.util.JenkinsJVM-checkJenkinsJVM with jenkins.util.JenkinsJVMTest-checkJenkinsJVM_WhenInAJenkinsJVM
+Tue May 15 15:43:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:43 UTC 2018: Code found jenkins.util.JenkinsJVM-checkJenkinsJVM with jenkins.util.JenkinsJVMTest-checkJenkinsJVM_WhenNotInAJenkinsJVM
+Tue May 15 15:43:44 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:44 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.util.JenkinsJVMTest
+Tue May 15 15:43:44 UTC 2018: Found element on the queue
+Tue May 15 15:43:44 UTC 2018: Updating status
+Tue May 15 15:43:44 UTC 2018: Working
+Tue May 15 15:43:47 UTC 2018: Start dxmz__daxiongtes test class jenkins.util.TreeStringBuilderTest
+Tue May 15 15:43:47 UTC 2018: Setting lastTestMethodIndex: 36932
+Tue May 15 15:43:47 UTC 2018: Starting linking
+Tue May 15 15:43:47 UTC 2018: No link for: jenkins.util.TreeStringBuilderTest-testRandom
+Tue May 15 15:43:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:47 UTC 2018: No link for: jenkins.util.TreeStringBuilderTest-test
+Tue May 15 15:43:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:47 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.util.TreeStringBuilderTest
+Tue May 15 15:43:47 UTC 2018: Found element on the queue
+Tue May 15 15:43:47 UTC 2018: Updating status
+Tue May 15 15:43:47 UTC 2018: Working
+Tue May 15 15:43:50 UTC 2018: Start dxmz__daxiongtes test class jenkins.util.VirtualFileTest
+Tue May 15 15:43:50 UTC 2018: Setting lastTestMethodIndex: 36934
+Tue May 15 15:43:50 UTC 2018: Starting linking
+Tue May 15 15:43:50 UTC 2018: No link for: jenkins.util.VirtualFileTest-outsideSymlinks
+Tue May 15 15:43:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:50 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.util.VirtualFileTest
+Tue May 15 15:43:51 UTC 2018: Found element on the queue
+Tue May 15 15:43:51 UTC 2018: Updating status
+Tue May 15 15:43:51 UTC 2018: Working
+Tue May 15 15:43:53 UTC 2018: Start dxmz__daxiongtes test class hudson.UtilTest
+Tue May 15 15:43:53 UTC 2018: Setting lastTestMethodIndex: 36935
+Tue May 15 15:43:53 UTC 2018: Starting linking
+Tue May 15 15:43:53 UTC 2018: Code found hudson.Util-rawEncode with hudson.UtilTest-testRawEncode
+Tue May 15 15:43:53 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:53 UTC 2018: Code found hudson.Util-deleteContentsRecursive with hudson.UtilTest-testDeleteContentsRecursive_onWindows
+Tue May 15 15:43:53 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:53 UTC 2018: Code found hudson.Util-escape with hudson.UtilTest-testHtmlEscape
+Tue May 15 15:43:53 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:53 UTC 2018: Code found hudson.Util-loadProperties with hudson.UtilTest-loadProperties
+Tue May 15 15:43:53 UTC 2018: Code found hudson.Util-deleteContentsRecursive with hudson.UtilTest-testDeleteContentsRecursive
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-deleteRecursive with hudson.UtilTest-testDeleteRecursive
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-isSafeToRedirectTo with hudson.UtilTest-testIsSafeToRedirectTo
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-isAbsoluteUri with hudson.UtilTest-testIsAbsoluteUri
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-tryParseNumber with hudson.UtilTest-testTryParseNumber
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-deleteFile with hudson.UtilTest-testDeleteFile_onWindows
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-encode with hudson.UtilTest-testEncodeSpaces
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-isSymlink with hudson.UtilTest-testIsSymlink
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-deleteRecursive with hudson.UtilTest-testDeleteRecursive_onWindows
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-deleteFile with hudson.UtilTest-testDeleteFile
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: Code found hudson.Util-replaceMacro with hudson.UtilTest-testReplaceMacro
+Tue May 15 15:43:54 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:54 UTC 2018: No link for: hudson.UtilTest-isRelativePathWindows
+Tue May 15 15:43:55 UTC 2018: No link for: hudson.UtilTest-testDigestThreadSafety
+Tue May 15 15:43:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:55 UTC 2018: No link for: hudson.UtilTest-testTimeSpanString
+Tue May 15 15:43:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:55 UTC 2018: No link for: hudson.UtilTest-testSymlink
+Tue May 15 15:43:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:55 UTC 2018: No link for: hudson.UtilTest-isRelativePathUnix
+Tue May 15 15:43:55 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.UtilTest
+Tue May 15 15:43:55 UTC 2018: Found element on the queue
+Tue May 15 15:43:55 UTC 2018: Updating status
+Tue May 15 15:43:55 UTC 2018: Working
+Tue May 15 15:43:58 UTC 2018: Start dxmz__daxiongtes test class jenkins.model.JDKNameTest
+Tue May 15 15:43:58 UTC 2018: Setting lastTestMethodIndex: 36938
+Tue May 15 15:43:58 UTC 2018: Starting linking
+Tue May 15 15:43:58 UTC 2018: Code found hudson.model.JDK-isDefaultName with jenkins.model.JDKNameTest-nullIsDefaultName
+Tue May 15 15:43:58 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:43:58 UTC 2018: No link for: jenkins.model.JDKNameTest-othernameNotDefault
+Tue May 15 15:43:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:58 UTC 2018: No link for: jenkins.model.JDKNameTest-recognizeDefaultName
+Tue May 15 15:43:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:58 UTC 2018: No link for: jenkins.model.JDKNameTest-recognizeOldDefaultName
+Tue May 15 15:43:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:43:59 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.model.JDKNameTest
+Tue May 15 15:43:59 UTC 2018: Found element on the queue
+Tue May 15 15:43:59 UTC 2018: Updating status
+Tue May 15 15:43:59 UTC 2018: Working
+Tue May 15 15:44:02 UTC 2018: Start dxmz__daxiongtes test class hudson.RemoveWindowsDirectoryJunctionTest
+Tue May 15 15:44:02 UTC 2018: Setting lastTestMethodIndex: 36940
+Tue May 15 15:44:02 UTC 2018: Starting linking
+Tue May 15 15:44:02 UTC 2018: No link for: hudson.RemoveWindowsDirectoryJunctionTest-testJunctionIsRemovedButNotContents
+Tue May 15 15:44:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:02 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.RemoveWindowsDirectoryJunctionTest
+Tue May 15 15:44:02 UTC 2018: Found element on the queue
+Tue May 15 15:44:02 UTC 2018: Updating status
+Tue May 15 15:44:02 UTC 2018: Working
+Tue May 15 15:44:05 UTC 2018: Start dxmz__daxiongtes test class hudson.slaves.NodeListTest
+Tue May 15 15:44:05 UTC 2018: Setting lastTestMethodIndex: 36942
+Tue May 15 15:44:05 UTC 2018: Starting linking
+Tue May 15 15:44:05 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.slaves.NodeListTest
+Tue May 15 15:44:05 UTC 2018: Found element on the queue
+Tue May 15 15:44:05 UTC 2018: Updating status
+Tue May 15 15:44:05 UTC 2018: Working
+Tue May 15 15:44:08 UTC 2018: Start dxmz__daxiongtes test class hudson.slaves.ComputerLauncherTest
+Tue May 15 15:44:08 UTC 2018: Setting lastTestMethodIndex: 36943
+Tue May 15 15:44:08 UTC 2018: Starting linking
+Tue May 15 15:44:08 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-j2sdk4
+Tue May 15 15:44:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:08 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-jdk6
+Tue May 15 15:44:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:08 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-jdk10
+Tue May 15 15:44:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:08 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-jdk7
+Tue May 15 15:44:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:08 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-openJDK7
+Tue May 15 15:44:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:08 UTC 2018: No link for: hudson.slaves.ComputerLauncherTest-jdk5
+Tue May 15 15:44:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:08 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.slaves.ComputerLauncherTest
+Tue May 15 15:44:09 UTC 2018: Found element on the queue
+Tue May 15 15:44:09 UTC 2018: Updating status
+Tue May 15 15:44:09 UTC 2018: Working
+Tue May 15 15:44:11 UTC 2018: Start dxmz__daxiongtes test class hudson.slaves.CloudTest
+Tue May 15 15:44:11 UTC 2018: Setting lastTestMethodIndex: 36945
+Tue May 15 15:44:11 UTC 2018: Starting linking
+Tue May 15 15:44:11 UTC 2018: No link for: hudson.slaves.CloudTest-provisionPermissionShouldBeIndependentFromAdminister
+Tue May 15 15:44:11 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.slaves.CloudTest
+Tue May 15 15:44:12 UTC 2018: Found element on the queue
+Tue May 15 15:44:12 UTC 2018: Updating status
+Tue May 15 15:44:12 UTC 2018: Working
+Tue May 15 15:44:14 UTC 2018: Start dxmz__daxiongtes test class hudson.tasks._maven.Maven3MojoNoteTest
+Tue May 15 15:44:14 UTC 2018: Setting lastTestMethodIndex: 36947
+Tue May 15 15:44:14 UTC 2018: Starting linking
+Tue May 15 15:44:14 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateMavenPlugin
+Tue May 15 15:44:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:14 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateOtherPlugin
+Tue May 15 15:44:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:14 UTC 2018: No link for: hudson.tasks._maven.Maven3MojoNoteTest-testAnnotateCodehausPlugin
+Tue May 15 15:44:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:14 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.tasks._maven.Maven3MojoNoteTest
+Tue May 15 15:44:15 UTC 2018: Found element on the queue
+Tue May 15 15:44:15 UTC 2018: Updating status
+Tue May 15 15:44:15 UTC 2018: Working
+Tue May 15 15:44:17 UTC 2018: Start dxmz__daxiongtes test class hudson.MarkupTextTest
+Tue May 15 15:44:17 UTC 2018: Setting lastTestMethodIndex: 36949
+Tue May 15 15:44:17 UTC 2018: Starting linking
+Tue May 15 15:44:17 UTC 2018: No code found hudson.MarkupText$SubText-findTokens with hudson.MarkupTextTest-findTokensOnSubText
+Tue May 15 15:44:17 UTC 2018: Code found hudson.MarkupText$SubText-subText with hudson.MarkupTextTest-subTextSubText
+Tue May 15 15:44:17 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:17 UTC 2018: No link for: hudson.MarkupTextTest-adjacent
+Tue May 15 15:44:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:17 UTC 2018: No link for: hudson.MarkupTextTest-test1
+Tue May 15 15:44:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:18 UTC 2018: No link for: hudson.MarkupTextTest-literalTextSurround
+Tue May 15 15:44:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:18 UTC 2018: No link for: hudson.MarkupTextTest-escape
+Tue May 15 15:44:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:18 UTC 2018: No link for: hudson.MarkupTextTest-preEscape
+Tue May 15 15:44:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:18 UTC 2018: No link for: hudson.MarkupTextTest-boundary
+Tue May 15 15:44:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:18 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.MarkupTextTest
+Tue May 15 15:44:19 UTC 2018: Found element on the queue
+Tue May 15 15:44:19 UTC 2018: Updating status
+Tue May 15 15:44:19 UTC 2018: Working
+Tue May 15 15:44:21 UTC 2018: Start dxmz__daxiongtes test class hudson.triggers.TimerTriggerTest
+Tue May 15 15:44:21 UTC 2018: Setting lastTestMethodIndex: 36952
+Tue May 15 15:44:21 UTC 2018: Starting linking
+Tue May 15 15:44:21 UTC 2018: No link for: hudson.triggers.TimerTriggerTest-testNoNPE
+Tue May 15 15:44:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:21 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.triggers.TimerTriggerTest
+Tue May 15 15:44:22 UTC 2018: Found element on the queue
+Tue May 15 15:44:22 UTC 2018: Updating status
+Tue May 15 15:44:22 UTC 2018: Working
+Tue May 15 15:44:24 UTC 2018: Start dxmz__daxiongtes test class hudson.FunctionsTest
+Tue May 15 15:44:24 UTC 2018: Setting lastTestMethodIndex: 36954
+Tue May 15 15:44:24 UTC 2018: Starting linking
+Tue May 15 15:44:24 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobContainedInView
+Tue May 15 15:44:24 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absolutePath
+Tue May 15 15:44:24 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absoluteUriWithoutAuthority
+Tue May 15 15:44:24 UTC 2018: No code found hudson.Functions-printLogRecordHtml with hudson.FunctionsTest-printLogRecordHtml
+Tue May 15 15:44:24 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-getRelativeLinkTo_MavenModules
+Tue May 15 15:44:25 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_relativePath
+Tue May 15 15:44:25 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_absoluteUriWithAuthority
+Tue May 15 15:44:25 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobFromComputer
+Tue May 15 15:44:25 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobNotContainedInView
+Tue May 15 15:44:25 UTC 2018: No code found hudson.Functions-getActionUrl with hudson.FunctionsTest-testGetActionUrl_unparsable
+Tue May 15 15:44:25 UTC 2018: No code found hudson.Functions-getRelativeLinkTo with hudson.FunctionsTest-testGetRelativeLinkTo_JobContainedInViewWithinItemGroup
+Tue May 15 15:44:25 UTC 2018: No code found hudson.Functions-breakableString with hudson.FunctionsTest-testBreakableString
+Tue May 15 15:44:25 UTC 2018: No link for: hudson.FunctionsTest-testGetRelativeDisplayNameInsideItemGroup
+Tue May 15 15:44:26 UTC 2018: No link for: hudson.FunctionsTest-testGetRelativeDisplayName
+Tue May 15 15:44:26 UTC 2018: No link for: hudson.FunctionsTest-testHumanReadableFileSize
+Tue May 15 15:44:26 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.FunctionsTest
+Tue May 15 15:44:26 UTC 2018: Found element on the queue
+Tue May 15 15:44:26 UTC 2018: Updating status
+Tue May 15 15:44:26 UTC 2018: Working
+Tue May 15 15:44:29 UTC 2018: Start dxmz__daxiongtes test class hudson.scheduler.CronTabEventualityTest
+Tue May 15 15:44:29 UTC 2018: Setting lastTestMethodIndex: 36956
+Tue May 15 15:44:29 UTC 2018: Starting linking
+Tue May 15 15:44:29 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testHourlyWillBeEventuallyTriggeredWithinOneHour
+Tue May 15 15:44:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:29 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testYearlyWillBeEventuallyTriggeredWithinOneYear
+Tue May 15 15:44:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:29 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testWeeklyWillBeEventuallyTriggeredWithinOneWeek
+Tue May 15 15:44:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:29 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testMonthlyWillBeEventuallyTriggeredWithinOneMonth
+Tue May 15 15:44:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:29 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testFirstDayOfMonthWillBeEventuallyTriggeredWithinOneMonth
+Tue May 15 15:44:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:29 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testDailyWillBeEventuallyTriggeredWithinOneDay
+Tue May 15 15:44:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:30 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testMidnightWillBeEventuallyTriggeredWithinOneDay
+Tue May 15 15:44:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:30 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testFirstSundayOfMonthWillBeEventuallyTriggeredWithinOneMonthAndOneWeek
+Tue May 15 15:44:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:30 UTC 2018: No link for: hudson.scheduler.CronTabEventualityTest-testAnnuallyWillBeEventuallyTriggeredWithinOneYear
+Tue May 15 15:44:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:30 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.scheduler.CronTabEventualityTest
+Tue May 15 15:44:30 UTC 2018: Found element on the queue
+Tue May 15 15:44:30 UTC 2018: Updating status
+Tue May 15 15:44:30 UTC 2018: Working
+Tue May 15 15:44:33 UTC 2018: Start dxmz__daxiongtes test class hudson.scheduler.CronTabTest
+Tue May 15 15:44:33 UTC 2018: Setting lastTestMethodIndex: 36958
+Tue May 15 15:44:33 UTC 2018: Starting linking
+Tue May 15 15:44:33 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil3_DoW7
+Tue May 15 15:44:33 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor1
+Tue May 15 15:44:33 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor3
+Tue May 15 15:44:33 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor2
+Tue May 15 15:44:33 UTC 2018: No code found hudson.scheduler.CronTab-floor with hudson.scheduler.CronTabTest-testFloor4
+Tue May 15 15:44:33 UTC 2018: No code found hudson.scheduler.CronTab-checkSanity with hudson.scheduler.CronTabTest-checkSanity
+Tue May 15 15:44:33 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil5
+Tue May 15 15:44:33 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil3
+Tue May 15 15:44:34 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil4
+Tue May 15 15:44:34 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil1
+Tue May 15 15:44:34 UTC 2018: No code found hudson.scheduler.CronTab-ceil with hudson.scheduler.CronTabTest-testCeil2
+Tue May 15 15:44:34 UTC 2018: No link for: hudson.scheduler.CronTabTest-testHash2
+Tue May 15 15:44:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:34 UTC 2018: No link for: hudson.scheduler.CronTabTest-testTimezone
+Tue May 15 15:44:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:34 UTC 2018: No link for: hudson.scheduler.CronTabTest-hashedMinute
+Tue May 15 15:44:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:34 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckOK
+Tue May 15 15:44:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:34 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckFailHour
+Tue May 15 15:44:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:34 UTC 2018: No link for: hudson.scheduler.CronTabTest-test1
+Tue May 15 15:44:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:34 UTC 2018: No link for: hudson.scheduler.CronTabTest-repeatedHash
+Tue May 15 15:44:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:35 UTC 2018: No link for: hudson.scheduler.CronTabTest-hashSkips
+Tue May 15 15:44:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:35 UTC 2018: No link for: hudson.scheduler.CronTabTest-testHash1
+Tue May 15 15:44:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:35 UTC 2018: No link for: hudson.scheduler.CronTabTest-rangeBoundsCheckFailMinute
+Tue May 15 15:44:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:35 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.scheduler.CronTabTest
+Tue May 15 15:44:35 UTC 2018: Found element on the queue
+Tue May 15 15:44:35 UTC 2018: Updating status
+Tue May 15 15:44:35 UTC 2018: Working
+Tue May 15 15:44:38 UTC 2018: Start dxmz__daxiongtes test class hudson.scheduler.CronTabDayOfWeekLocaleTest
+Tue May 15 15:44:38 UTC 2018: Setting lastTestMethodIndex: 36961
+Tue May 15 15:44:38 UTC 2018: Starting linking
+Tue May 15 15:44:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsMonday
+Tue May 15 15:44:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsSaturday
+Tue May 15 15:44:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSaturdayAndNextRunIsSundayAsterisk
+Tue May 15 15:44:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsSaturdayAsterisk
+Tue May 15 15:44:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-hudson8658
+Tue May 15 15:44:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:38 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsThursday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsNextSunday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsWednesday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsFriday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsTuesday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsThursday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsFriday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsMonday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsPreviousSunday
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsNextSunday7
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsPreviousSunday7
+Tue May 15 15:44:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:39 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsTuesday
+Tue May 15 15:44:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:40 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndPreviousRunIsWednesday
+Tue May 15 15:44:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:40 UTC 2018: No link for: hudson.scheduler.CronTabDayOfWeekLocaleTest-isSundayAndNextRunIsSaturday
+Tue May 15 15:44:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:40 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.scheduler.CronTabDayOfWeekLocaleTest
+Tue May 15 15:44:40 UTC 2018: Found element on the queue
+Tue May 15 15:44:40 UTC 2018: Updating status
+Tue May 15 15:44:40 UTC 2018: Working
+Tue May 15 15:44:43 UTC 2018: Start dxmz__daxiongtes test class hudson.model.BallColorTest
+Tue May 15 15:44:43 UTC 2018: Setting lastTestMethodIndex: 36964
+Tue May 15 15:44:43 UTC 2018: Starting linking
+Tue May 15 15:44:43 UTC 2018: No link for: hudson.model.BallColorTest-iconClassName
+Tue May 15 15:44:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:43 UTC 2018: No link for: hudson.model.BallColorTest-htmlColor
+Tue May 15 15:44:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:43 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.BallColorTest
+Tue May 15 15:44:44 UTC 2018: Found element on the queue
+Tue May 15 15:44:44 UTC 2018: Updating status
+Tue May 15 15:44:44 UTC 2018: Working
+Tue May 15 15:44:46 UTC 2018: Start dxmz__daxiongtes test class hudson.model.ActionableTest
+Tue May 15 15:44:46 UTC 2018: Setting lastTestMethodIndex: 36966
+Tue May 15 15:44:46 UTC 2018: Starting linking
+Tue May 15 15:44:46 UTC 2018: Code found hudson.model.Actionable-replaceAction with hudson.model.ActionableTest-replaceAction
+Tue May 15 15:44:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:46 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.ActionableTest
+Tue May 15 15:44:47 UTC 2018: Found element on the queue
+Tue May 15 15:44:47 UTC 2018: Updating status
+Tue May 15 15:44:47 UTC 2018: Working
+Tue May 15 15:44:49 UTC 2018: Start dxmz__daxiongtes test class jenkins.slaves.DefaultJnlpSlaveReceiverTest
+Tue May 15 15:44:49 UTC 2018: Setting lastTestMethodIndex: 36968
+Tue May 15 15:44:49 UTC 2018: Starting linking
+Tue May 15 15:44:49 UTC 2018: Code found jenkins.slaves.DefaultJnlpSlaveReceiver-handle with jenkins.slaves.DefaultJnlpSlaveReceiverTest-testHandle
+Tue May 15 15:44:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:49 UTC 2018: Code found jenkins.slaves.DefaultJnlpSlaveReceiver-handle with jenkins.slaves.DefaultJnlpSlaveReceiverTest-testHandleTakeoverFailedDisconnect
+Tue May 15 15:44:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:49 UTC 2018: Code found jenkins.slaves.DefaultJnlpSlaveReceiver-handle with jenkins.slaves.DefaultJnlpSlaveReceiverTest-testHandleWithInvalidNode
+Tue May 15 15:44:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:49 UTC 2018: Code found jenkins.slaves.DefaultJnlpSlaveReceiver-handle with jenkins.slaves.DefaultJnlpSlaveReceiverTest-testHandleTakeoverTimedOut
+Tue May 15 15:44:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:50 UTC 2018: Code found jenkins.slaves.DefaultJnlpSlaveReceiver-handle with jenkins.slaves.DefaultJnlpSlaveReceiverTest-testHandleAttemptTakeoverWithNullCookie
+Tue May 15 15:44:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:50 UTC 2018: Code found jenkins.slaves.DefaultJnlpSlaveReceiver-handle with jenkins.slaves.DefaultJnlpSlaveReceiverTest-testHandleAttemptTakeoverWithInvalidCookie
+Tue May 15 15:44:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:50 UTC 2018: Code found jenkins.slaves.DefaultJnlpSlaveReceiver-handle with jenkins.slaves.DefaultJnlpSlaveReceiverTest-testHandleTakeover
+Tue May 15 15:44:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:44:50 UTC 2018: Linking done for dxmz__daxiongtes test class jenkins.slaves.DefaultJnlpSlaveReceiverTest
+Tue May 15 15:44:50 UTC 2018: Found element on the queue
+Tue May 15 15:44:50 UTC 2018: Updating status
+Tue May 15 15:44:50 UTC 2018: Working
+Tue May 15 15:44:53 UTC 2018: Start dxmz__daxiongtes test class hudson.model.RunParameterValueTest
+Tue May 15 15:44:53 UTC 2018: Setting lastTestMethodIndex: 36970
+Tue May 15 15:44:53 UTC 2018: Starting linking
+Tue May 15 15:44:53 UTC 2018: No link for: hudson.model.RunParameterValueTest-robustness
+Tue May 15 15:44:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:53 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.RunParameterValueTest
+Tue May 15 15:44:53 UTC 2018: Found element on the queue
+Tue May 15 15:44:53 UTC 2018: Updating status
+Tue May 15 15:44:53 UTC 2018: Working
+Tue May 15 15:44:56 UTC 2018: Start dxmz__daxiongtes test class hudson.model.ChoiceParameterDefinitionTest
+Tue May 15 15:44:56 UTC 2018: Setting lastTestMethodIndex: 36972
+Tue May 15 15:44:56 UTC 2018: Starting linking
+Tue May 15 15:44:56 UTC 2018: No link for: hudson.model.ChoiceParameterDefinitionTest-testCheckChoices
+Tue May 15 15:44:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:56 UTC 2018: No link for: hudson.model.ChoiceParameterDefinitionTest-shouldValidateChoices
+Tue May 15 15:44:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:44:56 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.ChoiceParameterDefinitionTest
+Tue May 15 15:44:57 UTC 2018: Found element on the queue
+Tue May 15 15:44:57 UTC 2018: Updating status
+Tue May 15 15:44:57 UTC 2018: Working
+Tue May 15 15:45:00 UTC 2018: Start dxmz__daxiongtes test class hudson.model.DisplayNameListenerTest
+Tue May 15 15:45:00 UTC 2018: Setting lastTestMethodIndex: 36974
+Tue May 15 15:45:00 UTC 2018: Starting linking
+Tue May 15 15:45:00 UTC 2018: Code found hudson.model.DisplayNameListener-onRenamed with hudson.model.DisplayNameListenerTest-testOnRenamedOldNameNotEqualDisplayName
+Tue May 15 15:45:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:00 UTC 2018: Code found hudson.model.DisplayNameListener-onCopied with hudson.model.DisplayNameListenerTest-testOnCopied
+Tue May 15 15:45:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:00 UTC 2018: Code found hudson.model.DisplayNameListener-onRenamed with hudson.model.DisplayNameListenerTest-testOnRenamedOldNameEqualsDisplayName
+Tue May 15 15:45:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:00 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.DisplayNameListenerTest
+Tue May 15 15:45:00 UTC 2018: Found element on the queue
+Tue May 15 15:45:00 UTC 2018: Updating status
+Tue May 15 15:45:01 UTC 2018: Working
+Tue May 15 15:45:03 UTC 2018: Start dxmz__daxiongtes test class hudson.model.AbstractItemTest
+Tue May 15 15:45:03 UTC 2018: Setting lastTestMethodIndex: 36976
+Tue May 15 15:45:03 UTC 2018: Starting linking
+Tue May 15 15:45:03 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.AbstractItemTest
+Tue May 15 15:45:04 UTC 2018: Found element on the queue
+Tue May 15 15:45:04 UTC 2018: Updating status
+Tue May 15 15:45:04 UTC 2018: Working
+Tue May 15 15:45:07 UTC 2018: Start dxmz__daxiongtes test class hudson.model.ResourceListTest
+Tue May 15 15:45:07 UTC 2018: Setting lastTestMethodIndex: 36978
+Tue May 15 15:45:07 UTC 2018: Starting linking
+Tue May 15 15:45:07 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-simpleR
+Tue May 15 15:45:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:07 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-multiReadN
+Tue May 15 15:45:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:07 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-simpleRW
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-multiWriteN
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-parentChildW
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-multiWrite1
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-multiRead1
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-simpleW
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-parentChildR3
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: Code found hudson.model.ResourceList-w with hudson.model.ResourceListTest-parentChildW3
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: Code found hudson.model.ResourceList-r with hudson.model.ResourceListTest-parentChildR
+Tue May 15 15:45:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:08 UTC 2018: No link for: hudson.model.ResourceListTest-emptyLists
+Tue May 15 15:45:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:09 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.ResourceListTest
+Tue May 15 15:45:09 UTC 2018: Found element on the queue
+Tue May 15 15:45:09 UTC 2018: Updating status
+Tue May 15 15:45:09 UTC 2018: Working
+Tue May 15 15:45:12 UTC 2018: Start dxmz__daxiongtes test class hudson.model.TimeSeriesTest
+Tue May 15 15:45:12 UTC 2018: Setting lastTestMethodIndex: 36980
+Tue May 15 15:45:12 UTC 2018: Starting linking
+Tue May 15 15:45:12 UTC 2018: No link for: hudson.model.TimeSeriesTest-test1
+Tue May 15 15:45:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:12 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.TimeSeriesTest
+Tue May 15 15:45:13 UTC 2018: Found element on the queue
+Tue May 15 15:45:13 UTC 2018: Updating status
+Tue May 15 15:45:13 UTC 2018: Working
+Tue May 15 15:45:15 UTC 2018: Start dxmz__daxiongtes test class hudson.model.FileParameterValueTest
+Tue May 15 15:45:15 UTC 2018: Setting lastTestMethodIndex: 36982
+Tue May 15 15:45:15 UTC 2018: Starting linking
+Tue May 15 15:45:15 UTC 2018: No link for: hudson.model.FileParameterValueTest-compareNullParams
+Tue May 15 15:45:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:15 UTC 2018: No link for: hudson.model.FileParameterValueTest-compareParamsWithSameName
+Tue May 15 15:45:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:15 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.FileParameterValueTest
+Tue May 15 15:45:16 UTC 2018: Found element on the queue
+Tue May 15 15:45:16 UTC 2018: Updating status
+Tue May 15 15:45:16 UTC 2018: Working
+Tue May 15 15:45:18 UTC 2018: Start dxmz__daxiongtes test class hudson.model.AutoCompleteSeederTest
+Tue May 15 15:45:18 UTC 2018: Setting lastTestMethodIndex: 36983
+Tue May 15 15:45:18 UTC 2018: Starting linking
+Tue May 15 15:45:18 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.AutoCompleteSeederTest
+Tue May 15 15:45:19 UTC 2018: Found element on the queue
+Tue May 15 15:45:19 UTC 2018: Updating status
+Tue May 15 15:45:19 UTC 2018: Working
+Tue May 15 15:45:21 UTC 2018: Start dxmz__daxiongtes test class hudson.model.LoadStatisticsTest
+Tue May 15 15:45:21 UTC 2018: Setting lastTestMethodIndex: 36984
+Tue May 15 15:45:21 UTC 2018: Starting linking
+Tue May 15 15:45:21 UTC 2018: Code found hudson.model.LoadStatistics-isModern with hudson.model.LoadStatisticsTest-isModernWorks
+Tue May 15 15:45:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:21 UTC 2018: No link for: hudson.model.LoadStatisticsTest-graph
+Tue May 15 15:45:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:21 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.LoadStatisticsTest
+Tue May 15 15:45:21 UTC 2018: Found element on the queue
+Tue May 15 15:45:21 UTC 2018: Updating status
+Tue May 15 15:45:21 UTC 2018: Working
+Tue May 15 15:45:24 UTC 2018: Start dxmz__daxiongtes test class hudson.model.ParametersActionTest
+Tue May 15 15:45:24 UTC 2018: Setting lastTestMethodIndex: 36985
+Tue May 15 15:45:24 UTC 2018: Starting linking
+Tue May 15 15:45:24 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldHandleNullOverrides
+Tue May 15 15:45:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:24 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldHandleEmptyOverrides
+Tue May 15 15:45:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:24 UTC 2018: Code found hudson.model.ParametersAction-createUpdated with hudson.model.ParametersActionTest-createUpdatedShouldReturnNewInstanceWithNullOverride
+Tue May 15 15:45:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:24 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldReturnNewInstanceWithOverride
+Tue May 15 15:45:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:24 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldOverrideParameters
+Tue May 15 15:45:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:24 UTC 2018: Code found hudson.model.ParametersAction-merge with hudson.model.ParametersActionTest-mergeShouldCombineDisparateParameters
+Tue May 15 15:45:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:24 UTC 2018: No link for: hudson.model.ParametersActionTest-checkNullParameterValues
+Tue May 15 15:45:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:24 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.ParametersActionTest
+Tue May 15 15:45:25 UTC 2018: Found element on the queue
+Tue May 15 15:45:25 UTC 2018: Updating status
+Tue May 15 15:45:25 UTC 2018: Working
+Tue May 15 15:45:27 UTC 2018: Start dxmz__daxiongtes test class hudson.model.BuildStatusSummaryTest
+Tue May 15 15:45:27 UTC 2018: Setting lastTestMethodIndex: 36987
+Tue May 15 15:45:27 UTC 2018: Starting linking
+Tue May 15 15:45:27 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testBecameUnstable
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNonTestRelatedUnstable
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testSuccess
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFailureSince
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFixed
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testBecameFailure
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testUnstableAfterFailure
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNotBuilt
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testAborted
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testNonTestRelatedBecameUnstable
+Tue May 15 15:45:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:28 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testStatusUnknownIfRunIsStillBuilding
+Tue May 15 15:45:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:29 UTC 2018: No link for: hudson.model.BuildStatusSummaryTest-testFailure
+Tue May 15 15:45:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:29 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.BuildStatusSummaryTest
+Tue May 15 15:45:29 UTC 2018: Found element on the queue
+Tue May 15 15:45:29 UTC 2018: Updating status
+Tue May 15 15:45:29 UTC 2018: Working
+Tue May 15 15:45:32 UTC 2018: Start dxmz__daxiongtes test class hudson.model.TaskActionTest
+Tue May 15 15:45:32 UTC 2018: Setting lastTestMethodIndex: 36990
+Tue May 15 15:45:32 UTC 2018: Starting linking
+Tue May 15 15:45:32 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.TaskActionTest
+Tue May 15 15:45:32 UTC 2018: Found element on the queue
+Tue May 15 15:45:32 UTC 2018: Updating status
+Tue May 15 15:45:32 UTC 2018: Working
+Tue May 15 15:45:35 UTC 2018: Start dxmz__daxiongtes test class hudson.model.listeners.SCMListenerTest
+Tue May 15 15:45:35 UTC 2018: Setting lastTestMethodIndex: 36992
+Tue May 15 15:45:35 UTC 2018: Starting linking
+Tue May 15 15:45:35 UTC 2018: Code found hudson.model.listeners.SCMListenerTest$L1-onChangeLogParsed with hudson.model.listeners.SCMListenerTest-onChangeLogParsed
+Tue May 15 15:45:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:35 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.model.listeners.SCMListenerTest
+Tue May 15 15:45:35 UTC 2018: Found element on the queue
+Tue May 15 15:45:35 UTC 2018: Updating status
+Tue May 15 15:45:35 UTC 2018: Working
+Tue May 15 15:45:38 UTC 2018: Start dxmz__daxiongtes test class hudson.logging.LogRecorderTest
+Tue May 15 15:45:38 UTC 2018: Setting lastTestMethodIndex: 36993
+Tue May 15 15:45:38 UTC 2018: Starting linking
+Tue May 15 15:45:38 UTC 2018: No link for: hudson.logging.LogRecorderTest-targetIncludes
+Tue May 15 15:45:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:38 UTC 2018: No link for: hudson.logging.LogRecorderTest-targetMatches
+Tue May 15 15:45:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:38 UTC 2018: No link for: hudson.logging.LogRecorderTest-testSpecificExclusion
+Tue May 15 15:45:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:38 UTC 2018: No link for: hudson.logging.LogRecorderTest-testClearing
+Tue May 15 15:45:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:38 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.logging.LogRecorderTest
+Tue May 15 15:45:39 UTC 2018: Found element on the queue
+Tue May 15 15:45:39 UTC 2018: Updating status
+Tue May 15 15:45:39 UTC 2018: Working
+Tue May 15 15:45:41 UTC 2018: Start dxmz__daxiongtes test class hudson.ProxyConfigurationTest
+Tue May 15 15:45:41 UTC 2018: Setting lastTestMethodIndex: 36995
+Tue May 15 15:45:41 UTC 2018: Starting linking
+Tue May 15 15:45:41 UTC 2018: No link for: hudson.ProxyConfigurationTest-noProxyHost
+Tue May 15 15:45:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:41 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.ProxyConfigurationTest
+Tue May 15 15:45:41 UTC 2018: Found element on the queue
+Tue May 15 15:45:41 UTC 2018: Updating status
+Tue May 15 15:45:42 UTC 2018: Working
+Tue May 15 15:45:44 UTC 2018: Start dxmz__daxiongtes test class hudson.BulkChangeTest
+Tue May 15 15:45:44 UTC 2018: Setting lastTestMethodIndex: 36997
+Tue May 15 15:45:44 UTC 2018: Starting linking
+Tue May 15 15:45:44 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.BulkChangeTest
+Tue May 15 15:45:45 UTC 2018: Found element on the queue
+Tue May 15 15:45:45 UTC 2018: Updating status
+Tue May 15 15:45:45 UTC 2018: Working
+Tue May 15 15:45:47 UTC 2018: Start dxmz__daxiongtes test class hudson.util.RunListTest
+Tue May 15 15:45:47 UTC 2018: Setting lastTestMethodIndex: 36999
+Tue May 15 15:45:47 UTC 2018: Starting linking
+Tue May 15 15:45:47 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampLastRun
+Tue May 15 15:45:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:47 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampFirstRun
+Tue May 15 15:45:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:47 UTC 2018: Code found hudson.util.RunList-byTimestamp with hudson.util.RunListTest-byTimestampAllRuns
+Tue May 15 15:45:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:48 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.RunListTest
+Tue May 15 15:45:48 UTC 2018: Found element on the queue
+Tue May 15 15:45:48 UTC 2018: Updating status
+Tue May 15 15:45:48 UTC 2018: Working
+Tue May 15 15:45:51 UTC 2018: Start dxmz__daxiongtes test class hudson.util.IsOverriddenTest
+Tue May 15 15:45:51 UTC 2018: Setting lastTestMethodIndex: 37001
+Tue May 15 15:45:51 UTC 2018: Starting linking
+Tue May 15 15:45:51 UTC 2018: Code found hudson.Util-isOverridden with hudson.util.IsOverriddenTest-isOverriddenTest
+Tue May 15 15:45:51 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:51 UTC 2018: Code found hudson.Util-isOverridden with hudson.util.IsOverriddenTest-isOverriddenNegativeTest
+Tue May 15 15:45:51 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:45:51 UTC 2018: No link for: hudson.util.IsOverriddenTest-avoidPrivateMethodsInspection
+Tue May 15 15:45:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:45:51 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.IsOverriddenTest
+Tue May 15 15:45:51 UTC 2018: Found element on the queue
+Tue May 15 15:45:51 UTC 2018: Updating status
+Tue May 15 15:45:51 UTC 2018: Working
+Tue May 15 15:45:54 UTC 2018: Start dxmz__daxiongtes test class hudson.util.CopyOnWriteMapTest
+Tue May 15 15:45:54 UTC 2018: Setting lastTestMethodIndex: 37003
+Tue May 15 15:45:54 UTC 2018: Starting linking
+Tue May 15 15:45:54 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.CopyOnWriteMapTest
+Tue May 15 15:45:54 UTC 2018: Found element on the queue
+Tue May 15 15:45:54 UTC 2018: Updating status
+Tue May 15 15:45:54 UTC 2018: Working
+Tue May 15 15:45:57 UTC 2018: Start dxmz__daxiongtes test class hudson.util.CyclicGraphDetectorTest
+Tue May 15 15:45:57 UTC 2018: Setting lastTestMethodIndex: 37005
+Tue May 15 15:45:57 UTC 2018: Starting linking
+Tue May 15 15:45:57 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.CyclicGraphDetectorTest
+Tue May 15 15:45:58 UTC 2018: Found element on the queue
+Tue May 15 15:45:58 UTC 2018: Updating status
+Tue May 15 15:45:58 UTC 2018: Working
+Tue May 15 15:46:00 UTC 2018: Start dxmz__daxiongtes test class hudson.util.ArgumentListBuilderTest
+Tue May 15 15:46:00 UTC 2018: Setting lastTestMethodIndex: 37007
+Tue May 15 15:46:00 UTC 2018: Starting linking
+Tue May 15 15:46:00 UTC 2018: Code found hudson.util.ArgumentListBuilder-clone with hudson.util.ArgumentListBuilderTest-assertMaskOnClone
+Tue May 15 15:46:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:46:00 UTC 2018: Code found hudson.util.ArgumentListBuilder-toWindowsCommand with hudson.util.ArgumentListBuilderTest-testToWindowsCommand
+Tue May 15 15:46:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:46:00 UTC 2018: Code found hudson.util.ArgumentListBuilder-prepend with hudson.util.ArgumentListBuilderTest-assertPrependBeforeAddingMasked
+Tue May 15 15:46:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:46:00 UTC 2018: Code found hudson.util.ArgumentListBuilder-prepend with hudson.util.ArgumentListBuilderTest-assertPrependAfterAddingMasked
+Tue May 15 15:46:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:46:00 UTC 2018: Code found hudson.util.ArgumentListBuilder-addKeyValuePairsFromPropertyString with hudson.util.ArgumentListBuilderTest-addKeyValuePairsFromPropertyString
+Tue May 15 15:46:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:46:00 UTC 2018: Code found hudson.util.ArgumentListBuilder-toWindowsCommand with hudson.util.ArgumentListBuilderTest-testToWindowsCommandMasked
+Tue May 15 15:46:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:46:01 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertKeyValuePairsWithMask
+Tue May 15 15:46:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:01 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertLastArgumentIsMasked
+Tue May 15 15:46:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:01 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertEmptyMask
+Tue May 15 15:46:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:01 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertSeveralMaskedArguments
+Tue May 15 15:46:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:01 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-assertKeyValuePairs
+Tue May 15 15:46:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:01 UTC 2018: No link for: hudson.util.ArgumentListBuilderTest-numberOfBackslashesInPropertiesShouldBePreservedAfterMacroExpansion
+Tue May 15 15:46:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:01 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.ArgumentListBuilderTest
+Tue May 15 15:46:02 UTC 2018: Found element on the queue
+Tue May 15 15:46:02 UTC 2018: Updating status
+Tue May 15 15:46:02 UTC 2018: Working
+Tue May 15 15:46:04 UTC 2018: Start dxmz__daxiongtes test class hudson.util.SubClassGeneratorTest
+Tue May 15 15:46:04 UTC 2018: Setting lastTestMethodIndex: 37010
+Tue May 15 15:46:04 UTC 2018: Starting linking
+Tue May 15 15:46:04 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.SubClassGeneratorTest
+Tue May 15 15:46:05 UTC 2018: Found element on the queue
+Tue May 15 15:46:05 UTC 2018: Updating status
+Tue May 15 15:46:05 UTC 2018: Working
+Tue May 15 15:46:07 UTC 2018: Start dxmz__daxiongtes test class hudson.util.FormValidationTest
+Tue May 15 15:46:07 UTC 2018: Setting lastTestMethodIndex: 37012
+Tue May 15 15:46:07 UTC 2018: Starting linking
+Tue May 15 15:46:07 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_Null
+Tue May 15 15:46:07 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_OK
+Tue May 15 15:46:07 UTC 2018: No code found hudson.util.FormValidation-validateRequired with hudson.util.FormValidationTest-testValidateRequired_Empty
+Tue May 15 15:46:08 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateZeroValidations
+Tue May 15 15:46:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:08 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateSeveralValidations
+Tue May 15 15:46:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:08 UTC 2018: No link for: hudson.util.FormValidationTest-aggregateSingleValidations
+Tue May 15 15:46:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:08 UTC 2018: No link for: hudson.util.FormValidationTest-formValidationException
+Tue May 15 15:46:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:08 UTC 2018: No link for: hudson.util.FormValidationTest-testMessage
+Tue May 15 15:46:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:08 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.FormValidationTest
+Tue May 15 15:46:09 UTC 2018: Found element on the queue
+Tue May 15 15:46:09 UTC 2018: Updating status
+Tue May 15 15:46:09 UTC 2018: Working
+Tue May 15 15:46:11 UTC 2018: Start dxmz__daxiongtes test class hudson.util.MultipartFormDataParserTest
+Tue May 15 15:46:11 UTC 2018: Setting lastTestMethodIndex: 37014
+Tue May 15 15:46:11 UTC 2018: Starting linking
+Tue May 15 15:46:11 UTC 2018: No link for: hudson.util.MultipartFormDataParserTest-testIsMultipart
+Tue May 15 15:46:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:11 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.MultipartFormDataParserTest
+Tue May 15 15:46:12 UTC 2018: Found element on the queue
+Tue May 15 15:46:12 UTC 2018: Updating status
+Tue May 15 15:46:12 UTC 2018: Working
+Tue May 15 15:46:14 UTC 2018: Start dxmz__daxiongtes test class hudson.util.QuotedStringTokenizerTest
+Tue May 15 15:46:14 UTC 2018: Setting lastTestMethodIndex: 37016
+Tue May 15 15:46:14 UTC 2018: Starting linking
+Tue May 15 15:46:14 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test1
+Tue May 15 15:46:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:14 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test3
+Tue May 15 15:46:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:14 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test2
+Tue May 15 15:46:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:15 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test5
+Tue May 15 15:46:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:15 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test4
+Tue May 15 15:46:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:15 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test7
+Tue May 15 15:46:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:15 UTC 2018: No link for: hudson.util.QuotedStringTokenizerTest-test6
+Tue May 15 15:46:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:15 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.QuotedStringTokenizerTest
+Tue May 15 15:46:16 UTC 2018: Found element on the queue
+Tue May 15 15:46:16 UTC 2018: Updating status
+Tue May 15 15:46:16 UTC 2018: Working
+Tue May 15 15:46:18 UTC 2018: Start dxmz__daxiongtes test class hudson.util.JSONObjectResponseTest
+Tue May 15 15:46:18 UTC 2018: Setting lastTestMethodIndex: 37018
+Tue May 15 15:46:18 UTC 2018: Starting linking
+Tue May 15 15:46:18 UTC 2018: No link for: hudson.util.JSONObjectResponseTest-test
+Tue May 15 15:46:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:18 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.JSONObjectResponseTest
+Tue May 15 15:46:19 UTC 2018: Found element on the queue
+Tue May 15 15:46:19 UTC 2018: Updating status
+Tue May 15 15:46:19 UTC 2018: Working
+Tue May 15 15:46:21 UTC 2018: Start dxmz__daxiongtes test class hudson.util.io.TarArchiverTest
+Tue May 15 15:46:21 UTC 2018: Setting lastTestMethodIndex: 37020
+Tue May 15 15:46:21 UTC 2018: Starting linking
+Tue May 15 15:46:21 UTC 2018: No code found hudson.FilePath-tar with hudson.util.io.TarArchiverTest-growingFileTar
+Tue May 15 15:46:21 UTC 2018: No link for: hudson.util.io.TarArchiverTest-brokenSymlinks
+Tue May 15 15:46:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:22 UTC 2018: No link for: hudson.util.io.TarArchiverTest-permission
+Tue May 15 15:46:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:22 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.io.TarArchiverTest
+Tue May 15 15:46:22 UTC 2018: Found element on the queue
+Tue May 15 15:46:22 UTC 2018: Updating status
+Tue May 15 15:46:22 UTC 2018: Working
+Tue May 15 15:46:25 UTC 2018: Start dxmz__daxiongtes test class hudson.util.io.ZipArchiverTest
+Tue May 15 15:46:25 UTC 2018: Setting lastTestMethodIndex: 37022
+Tue May 15 15:46:25 UTC 2018: Starting linking
+Tue May 15 15:46:25 UTC 2018: No link for: hudson.util.io.ZipArchiverTest-backwardsSlashesOnWindows
+Tue May 15 15:46:25 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.io.ZipArchiverTest
+Tue May 15 15:46:25 UTC 2018: Found element on the queue
+Tue May 15 15:46:25 UTC 2018: Updating status
+Tue May 15 15:46:25 UTC 2018: Working
+Tue May 15 15:46:28 UTC 2018: Start dxmz__daxiongtes test class hudson.util.io.ReopenableRotatingFileOutputStreamTest
+Tue May 15 15:46:28 UTC 2018: Setting lastTestMethodIndex: 37024
+Tue May 15 15:46:28 UTC 2018: Starting linking
+Tue May 15 15:46:28 UTC 2018: No link for: hudson.util.io.ReopenableRotatingFileOutputStreamTest-rotation
+Tue May 15 15:46:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:28 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.io.ReopenableRotatingFileOutputStreamTest
+Tue May 15 15:46:28 UTC 2018: Found element on the queue
+Tue May 15 15:46:28 UTC 2018: Updating status
+Tue May 15 15:46:28 UTC 2018: Working
+Tue May 15 15:46:31 UTC 2018: Start dxmz__daxiongtes test class hudson.util.XStream2EncodingTest
+Tue May 15 15:46:31 UTC 2018: Setting lastTestMethodIndex: 37026
+Tue May 15 15:46:31 UTC 2018: Starting linking
+Tue May 15 15:46:31 UTC 2018: Code found hudson.util.XStream2-toXMLUTF8 with hudson.util.XStream2EncodingTest-toXMLUTF8
+Tue May 15 15:46:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:46:31 UTC 2018: Code found hudson.util.XStream2-toXML with hudson.util.XStream2EncodingTest-toXMLUnspecifiedEncoding
+Tue May 15 15:46:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:46:31 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.XStream2EncodingTest
+Tue May 15 15:46:32 UTC 2018: Found element on the queue
+Tue May 15 15:46:32 UTC 2018: Updating status
+Tue May 15 15:46:32 UTC 2018: Working
+Tue May 15 15:46:34 UTC 2018: Start dxmz__daxiongtes test class hudson.util.IteratorsTest
+Tue May 15 15:46:34 UTC 2018: Setting lastTestMethodIndex: 37028
+Tue May 15 15:46:34 UTC 2018: Starting linking
+Tue May 15 15:46:34 UTC 2018: No code found hudson.util.Iterators-reverseSequence with hudson.util.IteratorsTest-reverseSequence
+Tue May 15 15:46:34 UTC 2018: No code found hudson.util.Iterators-wrap with hudson.util.IteratorsTest-wrap
+Tue May 15 15:46:34 UTC 2018: No code found hudson.util.Iterators-sequence with hudson.util.IteratorsTest-sequence
+Tue May 15 15:46:34 UTC 2018: No code found hudson.util.Iterators-limit with hudson.util.IteratorsTest-limit
+Tue May 15 15:46:34 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.IteratorsTest
+Tue May 15 15:46:35 UTC 2018: Found element on the queue
+Tue May 15 15:46:35 UTC 2018: Updating status
+Tue May 15 15:46:35 UTC 2018: Working
+Tue May 15 15:46:37 UTC 2018: Start dxmz__daxiongtes test class hudson.util.DirScannerTest
+Tue May 15 15:46:37 UTC 2018: Setting lastTestMethodIndex: 37030
+Tue May 15 15:46:37 UTC 2018: Starting linking
+Tue May 15 15:46:37 UTC 2018: No link for: hudson.util.DirScannerTest-globShouldIgnoreDefaultExcludesByRequest
+Tue May 15 15:46:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:38 UTC 2018: No link for: hudson.util.DirScannerTest-globShouldUseDefaultExcludes
+Tue May 15 15:46:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:38 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.DirScannerTest
+Tue May 15 15:46:38 UTC 2018: Found element on the queue
+Tue May 15 15:46:38 UTC 2018: Updating status
+Tue May 15 15:46:38 UTC 2018: Working
+Tue May 15 15:46:40 UTC 2018: Start dxmz__daxiongtes test class hudson.util.XStream2Test
+Tue May 15 15:46:40 UTC 2018: Setting lastTestMethodIndex: 37031
+Tue May 15 15:46:40 UTC 2018: Starting linking
+Tue May 15 15:46:40 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.XStream2Test
+Tue May 15 15:46:41 UTC 2018: Found element on the queue
+Tue May 15 15:46:41 UTC 2018: Updating status
+Tue May 15 15:46:41 UTC 2018: Working
+Tue May 15 15:46:43 UTC 2018: Start dxmz__daxiongtes test class hudson.util.LineEndNormalizingWriterTest
+Tue May 15 15:46:43 UTC 2018: Setting lastTestMethodIndex: 37033
+Tue May 15 15:46:43 UTC 2018: Starting linking
+Tue May 15 15:46:43 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test1
+Tue May 15 15:46:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:44 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test2
+Tue May 15 15:46:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:44 UTC 2018: No link for: hudson.util.LineEndNormalizingWriterTest-test3
+Tue May 15 15:46:44 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:44 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.LineEndNormalizingWriterTest
+Tue May 15 15:46:44 UTC 2018: Found element on the queue
+Tue May 15 15:46:44 UTC 2018: Updating status
+Tue May 15 15:46:44 UTC 2018: Working
+Tue May 15 15:46:47 UTC 2018: Start dxmz__daxiongtes test class hudson.EnvVarsTest
+Tue May 15 15:46:47 UTC 2018: Setting lastTestMethodIndex: 37035
+Tue May 15 15:46:47 UTC 2018: Starting linking
+Tue May 15 15:46:47 UTC 2018: No code found hudson.EnvVars-overrideExpandingAll with hudson.EnvVarsTest-overrideExpandingAll
+Tue May 15 15:46:47 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorCyclic
+Tue May 15 15:46:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:47 UTC 2018: No link for: hudson.EnvVarsTest-caseInsensitive
+Tue May 15 15:46:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:47 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorSelfReference
+Tue May 15 15:46:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:47 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorMultiple
+Tue May 15 15:46:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:47 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorSimple
+Tue May 15 15:46:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:47 UTC 2018: No link for: hudson.EnvVarsTest-overrideOrderCalculatorInOrder
+Tue May 15 15:46:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:47 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.EnvVarsTest
+Tue May 15 15:46:48 UTC 2018: Found element on the queue
+Tue May 15 15:46:48 UTC 2018: Updating status
+Tue May 15 15:46:48 UTC 2018: Working
+Tue May 15 15:46:50 UTC 2018: Start dxmz__daxiongtes test class hudson.cli.handlers.ViewOptionHandlerTest
+Tue May 15 15:46:50 UTC 2018: Setting lastTestMethodIndex: 37037
+Tue May 15 15:46:50 UTC 2018: Starting linking
+Tue May 15 15:46:50 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentInnerView
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadNestedView
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveNestedView
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-ignoreLeadingAndTrailingSlashes
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportViewSpaceNameRequestAsIAE
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportTraversingViewThatIsNotAViewGroup
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNullViewAsNPE
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveOuterView
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentNestedView
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadOuterView
+Tue May 15 15:46:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:51 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportEmptyViewNameRequestAsNull
+Tue May 15 15:46:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:52 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-reportNonexistentTopLevelView
+Tue May 15 15:46:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:52 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-refuseToReadInnerView
+Tue May 15 15:46:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:52 UTC 2018: No link for: hudson.cli.handlers.ViewOptionHandlerTest-resolveTopLevelView
+Tue May 15 15:46:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:52 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.cli.handlers.ViewOptionHandlerTest
+Tue May 15 15:46:52 UTC 2018: Found element on the queue
+Tue May 15 15:46:52 UTC 2018: Updating status
+Tue May 15 15:46:52 UTC 2018: Working
+Tue May 15 15:46:55 UTC 2018: Start dxmz__daxiongtes test class hudson.cli.ListJobsCommandTest
+Tue May 15 15:46:55 UTC 2018: Setting lastTestMethodIndex: 37040
+Tue May 15 15:46:55 UTC 2018: Starting linking
+Tue May 15 15:46:55 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-failForNonexistingName
+Tue May 15 15:46:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:55 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-getAllJobsForEmptyName
+Tue May 15 15:46:55 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-getJobsFromView
+Tue May 15 15:46:55 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-getAllJobsFromFolders
+Tue May 15 15:46:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:46:55 UTC 2018: No link for: hudson.cli.ListJobsCommandTest-getJobsRecursivelyFromViewGroup
+Tue May 15 15:46:55 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.cli.ListJobsCommandTest
+Tue May 15 15:46:56 UTC 2018: Found element on the queue
+Tue May 15 15:46:56 UTC 2018: Updating status
+Tue May 15 15:46:56 UTC 2018: Working
+Tue May 15 15:46:58 UTC 2018: Start dxmz__daxiongtes test class hudson.util.ProcessTreeTest
+Tue May 15 15:46:58 UTC 2018: Setting lastTestMethodIndex: 37042
+Tue May 15 15:46:58 UTC 2018: Starting linking
+Tue May 15 15:46:58 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.ProcessTreeTest
+Tue May 15 15:46:59 UTC 2018: Found element on the queue
+Tue May 15 15:46:59 UTC 2018: Updating status
+Tue May 15 15:46:59 UTC 2018: Working
+Tue May 15 15:47:01 UTC 2018: Start dxmz__daxiongtes test class hudson.util.ConsistentHashTest
+Tue May 15 15:47:01 UTC 2018: Setting lastTestMethodIndex: 37044
+Tue May 15 15:47:01 UTC 2018: Starting linking
+Tue May 15 15:47:01 UTC 2018: No link for: hudson.util.ConsistentHashTest-countAllPoints
+Tue May 15 15:47:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:01 UTC 2018: No link for: hudson.util.ConsistentHashTest-speed
+Tue May 15 15:47:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:02 UTC 2018: No link for: hudson.util.ConsistentHashTest-emptyBehavior
+Tue May 15 15:47:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:02 UTC 2018: No link for: hudson.util.ConsistentHashTest-defaultReplicationIsOneHundred
+Tue May 15 15:47:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:02 UTC 2018: No link for: hudson.util.ConsistentHashTest-usesCustomHash
+Tue May 15 15:47:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:02 UTC 2018: No link for: hudson.util.ConsistentHashTest-setCustomDefaultReplication
+Tue May 15 15:47:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:02 UTC 2018: No link for: hudson.util.ConsistentHashTest-removal
+Tue May 15 15:47:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:02 UTC 2018: No link for: hudson.util.ConsistentHashTest-basic
+Tue May 15 15:47:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:02 UTC 2018: No link for: hudson.util.ConsistentHashTest-unevenDistribution
+Tue May 15 15:47:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:02 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.util.ConsistentHashTest
+Tue May 15 15:47:03 UTC 2018: Found element on the queue
+Tue May 15 15:47:03 UTC 2018: Updating status
+Tue May 15 15:47:03 UTC 2018: Working
+Tue May 15 15:47:05 UTC 2018: Start dxmz__daxiongtes test class hudson.FilePathTest
+Tue May 15 15:47:05 UTC 2018: Setting lastTestMethodIndex: 37046
+Tue May 15 15:47:05 UTC 2018: Starting linking
+Tue May 15 15:47:05 UTC 2018: Code found hudson.FilePath-isUnix with hudson.FilePathTest-isUnix
+Tue May 15 15:47:05 UTC 2018: No code found hudson.FilePath-tar with hudson.FilePathTest-symlinkInTar
+Tue May 15 15:47:06 UTC 2018: No code found hudson.FilePath-list with hudson.FilePathTest-list
+Tue May 15 15:47:06 UTC 2018: No code found hudson.FilePath-copyToWithPermission with hudson.FilePathTest-copyToWithPermission
+Tue May 15 15:47:06 UTC 2018: No code found hudson.FilePath-validateAntFileMask with hudson.FilePathTest-validateAntFileMaskBounded
+Tue May 15 15:47:06 UTC 2018: No code found hudson.FilePath-copyTo with hudson.FilePathTest-copyTo
+Tue May 15 15:47:06 UTC 2018: No code found hudson.FilePath-copyTo with hudson.FilePathTest-noFileLeakInCopyTo
+Tue May 15 15:47:06 UTC 2018: No code found hudson.FilePath-copyRecursiveTo with hudson.FilePathTest-repeatCopyRecursiveTo
+Tue May 15 15:47:06 UTC 2018: No code found hudson.FilePath-list with hudson.FilePathTest-listWithExcludes
+Tue May 15 15:47:06 UTC 2018: No code found hudson.FilePath-moveAllChildrenTo with hudson.FilePathTest-moveAllChildrenTo
+Tue May 15 15:47:07 UTC 2018: No code found hudson.FilePath-getParent with hudson.FilePathTest-getParent
+Tue May 15 15:47:07 UTC 2018: No code found hudson.FilePath-list with hudson.FilePathTest-listWithDefaultExcludes
+Tue May 15 15:47:07 UTC 2018: No link for: hudson.FilePathTest-installIfNecessarySkipsDownloadWhenErroneous
+Tue May 15 15:47:07 UTC 2018: No link for: hudson.FilePathTest-archiveBigFile
+Tue May 15 15:47:07 UTC 2018: No link for: hudson.FilePathTest-installIfNecessaryFollowsRedirects
+Tue May 15 15:47:07 UTC 2018: No link for: hudson.FilePathTest-compressTarUntarRoundTrip
+Tue May 15 15:47:07 UTC 2018: No link for: hudson.FilePathTest-errorMessageInRemoteCopyRecursive
+Tue May 15 15:47:07 UTC 2018: No link for: hudson.FilePathTest-validateAntFileMask
+Tue May 15 15:47:07 UTC 2018: No link for: hudson.FilePathTest-installIfNecessaryPerformsInstallation
+Tue May 15 15:47:07 UTC 2018: No link for: hudson.FilePathTest-multiSegmentRelativePaths
+Tue May 15 15:47:08 UTC 2018: No link for: hudson.FilePathTest-deleteLongPathOnWindows
+Tue May 15 15:47:08 UTC 2018: No link for: hudson.FilePathTest-noRaceConditionInCopyTo
+Tue May 15 15:47:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:47:08 UTC 2018: No link for: hudson.FilePathTest-installIfNecessaryAvoidsExcessiveDownloadsByUsingIfModifiedSince
+Tue May 15 15:47:08 UTC 2018: No link for: hudson.FilePathTest-archiveBug
+Tue May 15 15:47:08 UTC 2018: No link for: hudson.FilePathTest-testEOFbrokenFlush
+Tue May 15 15:47:08 UTC 2018: No link for: hudson.FilePathTest-normalization
+Tue May 15 15:47:08 UTC 2018: Linking done for dxmz__daxiongtes test class hudson.FilePathTest

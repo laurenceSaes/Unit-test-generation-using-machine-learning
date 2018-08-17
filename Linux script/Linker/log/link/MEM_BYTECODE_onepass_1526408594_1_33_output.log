@@ -1,0 +1,235 @@
+Tue May 15 21:51:54 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 21:51:54 UTC 2018: Starting
+Tue May 15 21:51:55 UTC 2018: Found element on the queue
+Tue May 15 21:51:55 UTC 2018: Updating status
+Tue May 15 21:51:55 UTC 2018: Working
+Tue May 15 21:51:55 UTC 2018: Create project parser
+Tue May 15 21:52:15 UTC 2018: Create slicer
+Tue May 15 21:52:23 UTC 2018: Create call graph
+Tue May 15 21:52:28 UTC 2018: Create point analysis
+Tue May 15 21:52:28 UTC 2018: Create call graph done
+Tue May 15 21:52:28 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.util.core.RecommenderUtilsTest
+Tue May 15 21:52:28 UTC 2018: Setting lastTestMethodIndex: 48621
+Tue May 15 21:52:28 UTC 2018: Starting linking
+Tue May 15 21:52:28 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterDuplicates with org.easyrec.util.core.RecommenderUtilsTest-testFilterDuplicates_All_Duplicates_Use_Averages
+Tue May 15 21:52:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:29 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterDuplicates with org.easyrec.util.core.RecommenderUtilsTest-testFilterDuplicatesPerformance
+Tue May 15 21:52:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:29 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterAlreadyActedOn with org.easyrec.util.core.RecommenderUtilsTest-testFilterAlreadyActedOn_Nothing_To_Filter_Null
+Tue May 15 21:52:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:29 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterDuplicates with org.easyrec.util.core.RecommenderUtilsTest-testFilterDuplicates_Some_Duplicates_No_Averages
+Tue May 15 21:52:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:29 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterDuplicates with org.easyrec.util.core.RecommenderUtilsTest-testFilterDuplicates_No_Duplicates2
+Tue May 15 21:52:30 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:30 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterAlreadyActedOn with org.easyrec.util.core.RecommenderUtilsTest-testFilterAlreadyActedOnPerformance
+Tue May 15 21:52:30 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:30 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterAlreadyActedOn with org.easyrec.util.core.RecommenderUtilsTest-testFilterAlreadyActedOn_Nothing_To_Filter_Empty
+Tue May 15 21:52:30 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:30 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterDuplicates with org.easyrec.util.core.RecommenderUtilsTest-testFilterDuplicates_No_Duplicates
+Tue May 15 21:52:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:31 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterDuplicates with org.easyrec.util.core.RecommenderUtilsTest-testFilterDuplicates_Some_Duplicates_Use_Averages
+Tue May 15 21:52:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:31 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterDuplicates with org.easyrec.util.core.RecommenderUtilsTest-testFilterDuplicates_All_Duplicates_No_Averages
+Tue May 15 21:52:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:31 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterAlreadyActedOn with org.easyrec.util.core.RecommenderUtilsTest-testFilterAlreadyActedOn
+Tue May 15 21:52:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:31 UTC 2018: Code found org.easyrec.util.core.RecommenderUtils-filterAlreadyActedOn with org.easyrec.util.core.RecommenderUtilsTest-testFilterAlreadyActedOn_All
+Tue May 15 21:52:32 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:32 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.util.core.RecommenderUtilsTest
+Tue May 15 21:52:32 UTC 2018: Found element on the queue
+Tue May 15 21:52:32 UTC 2018: Updating status
+Tue May 15 21:52:32 UTC 2018: Working
+Tue May 15 21:52:32 UTC 2018: Create project parser
+Tue May 15 21:52:36 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.plugin.model.VersionTest
+Tue May 15 21:52:36 UTC 2018: Setting lastTestMethodIndex: 48624
+Tue May 15 21:52:36 UTC 2018: Starting linking
+Tue May 15 21:52:36 UTC 2018: No link for: org.easyrec.plugin.model.VersionTest-toString_shouldOutputCorrectly
+Tue May 15 21:52:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:37 UTC 2018: No link for: org.easyrec.plugin.model.VersionTest-stringCtor_shouldThrow
+Tue May 15 21:52:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:37 UTC 2018: No link for: org.easyrec.plugin.model.VersionTest-stringCtor_shouldParseCorrectly
+Tue May 15 21:52:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:38 UTC 2018: No link for: org.easyrec.plugin.model.VersionTest-parseVersion_shouldBeIdenticalToToString
+Tue May 15 21:52:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:38 UTC 2018: No link for: org.easyrec.plugin.model.VersionTest-valueOf_shouldBeIdenticalToToString
+Tue May 15 21:52:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:38 UTC 2018: No link for: org.easyrec.plugin.model.VersionTest-compare_shouldWork
+Tue May 15 21:52:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:39 UTC 2018: No link for: org.easyrec.plugin.model.VersionTest-intCtor_shouldThrow
+Tue May 15 21:52:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:39 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.plugin.model.VersionTest
+Tue May 15 21:52:40 UTC 2018: Found element on the queue
+Tue May 15 21:52:40 UTC 2018: Updating status
+Tue May 15 21:52:40 UTC 2018: Working
+Tue May 15 21:52:40 UTC 2018: Create project parser
+Tue May 15 21:52:45 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.plugin.configuration.ConfigurationHelperTests
+Tue May 15 21:52:45 UTC 2018: Setting lastTestMethodIndex: 48626
+Tue May 15 21:52:45 UTC 2018: Starting linking
+Tue May 15 21:52:45 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-getParameterDescription with org.easyrec.plugin.configuration.ConfigurationHelperTests-testGetParameterDescriptions
+Tue May 15 21:52:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:46 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-setValues with org.easyrec.plugin.configuration.ConfigurationHelperTests-testSetValuesFromPropertiesWithPrefix
+Tue May 15 21:52:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:46 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-getParameterNames with org.easyrec.plugin.configuration.ConfigurationHelperTests-testGetParameterNamesOfSubClass
+Tue May 15 21:52:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:46 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-getValuesAsProperties with org.easyrec.plugin.configuration.ConfigurationHelperTests-testGetValuesAsPropertiesNullString
+Tue May 15 21:52:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:47 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-setValues with org.easyrec.plugin.configuration.ConfigurationHelperTests-testSetValuesFromIncompleteProperties
+Tue May 15 21:52:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:47 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-getParameterNames with org.easyrec.plugin.configuration.ConfigurationHelperTests-testGetParameterNames
+Tue May 15 21:52:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:47 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-getValuesAsProperties with org.easyrec.plugin.configuration.ConfigurationHelperTests-testGetValuesAsProperties
+Tue May 15 21:52:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:48 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-getParameterDescription with org.easyrec.plugin.configuration.ConfigurationHelperTests-testGetParameterDescriptionsExtended
+Tue May 15 21:52:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:48 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-getValuesAsProperties with org.easyrec.plugin.configuration.ConfigurationHelperTests-testGetValuesAsPropertiesEmptyString
+Tue May 15 21:52:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:48 UTC 2018: Code found org.easyrec.plugin.configuration.ConfigurationHelper-setValues with org.easyrec.plugin.configuration.ConfigurationHelperTests-testSetValuesFromProperties
+Tue May 15 21:52:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:48 UTC 2018: No link for: org.easyrec.plugin.configuration.ConfigurationHelperTests-testCustomPropertyEditorGetStringValue
+Tue May 15 21:52:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:49 UTC 2018: No link for: org.easyrec.plugin.configuration.ConfigurationHelperTests-testSetParameterValues
+Tue May 15 21:52:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:49 UTC 2018: No link for: org.easyrec.plugin.configuration.ConfigurationHelperTests-testCustomValidator
+Tue May 15 21:52:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:49 UTC 2018: No link for: org.easyrec.plugin.configuration.ConfigurationHelperTests-testSetParameterValuesNull
+Tue May 15 21:52:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:49 UTC 2018: No link for: org.easyrec.plugin.configuration.ConfigurationHelperTests-testCustomPropertyEditor
+Tue May 15 21:52:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:52:50 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.plugin.configuration.ConfigurationHelperTests
+Tue May 15 21:52:51 UTC 2018: Found element on the queue
+Tue May 15 21:52:51 UTC 2018: Updating status
+Tue May 15 21:52:51 UTC 2018: Working
+Tue May 15 21:52:51 UTC 2018: Create project parser
+Tue May 15 21:52:56 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.plugin.itemitem.impl.AdjustedCosineSimilarityCalculationStrategyTest
+Tue May 15 21:52:56 UTC 2018: Setting lastTestMethodIndex: 48628
+Tue May 15 21:52:56 UTC 2018: Starting linking
+Tue May 15 21:52:56 UTC 2018: Code found org.easyrec.plugin.itemitem.impl.AdjustedCosineSimilarityCalculationStrategy-getSourceInfo with org.easyrec.plugin.itemitem.impl.AdjustedCosineSimilarityCalculationStrategyTest-getSourceInfo_isCorrect
+Tue May 15 21:52:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:56 UTC 2018: Code found org.easyrec.plugin.itemitem.impl.AdjustedCosineSimilarityCalculationStrategy-calculateSimilarity with org.easyrec.plugin.itemitem.impl.AdjustedCosineSimilarityCalculationStrategyTest-calculateSimilarity_isCorrect
+Tue May 15 21:52:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:52:57 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.plugin.itemitem.impl.AdjustedCosineSimilarityCalculationStrategyTest
+Tue May 15 21:52:57 UTC 2018: Found element on the queue
+Tue May 15 21:52:57 UTC 2018: Updating status
+Tue May 15 21:52:57 UTC 2018: Working
+Tue May 15 21:53:00 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.plugin.itemitem.impl.PearsonSimilarityCalculationStrategyTest
+Tue May 15 21:53:00 UTC 2018: Setting lastTestMethodIndex: 48630
+Tue May 15 21:53:00 UTC 2018: Starting linking
+Tue May 15 21:53:00 UTC 2018: Code found org.easyrec.plugin.itemitem.impl.PearsonSimilarityCalculationStrategy-getSourceInfo with org.easyrec.plugin.itemitem.impl.PearsonSimilarityCalculationStrategyTest-getSourceInfo_isCorrect
+Tue May 15 21:53:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:00 UTC 2018: Code found org.easyrec.plugin.itemitem.impl.PearsonSimilarityCalculationStrategy-calculateSimilarity with org.easyrec.plugin.itemitem.impl.PearsonSimilarityCalculationStrategyTest-calculateSimilarity_isCorrect
+Tue May 15 21:53:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:01 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.plugin.itemitem.impl.PearsonSimilarityCalculationStrategyTest
+Tue May 15 21:53:01 UTC 2018: Found element on the queue
+Tue May 15 21:53:01 UTC 2018: Updating status
+Tue May 15 21:53:01 UTC 2018: Working
+Tue May 15 21:53:05 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.plugin.itemitem.impl.CosineSimilarityCalculationStrategyTest
+Tue May 15 21:53:06 UTC 2018: Setting lastTestMethodIndex: 48631
+Tue May 15 21:53:06 UTC 2018: Starting linking
+Tue May 15 21:53:06 UTC 2018: Code found org.easyrec.plugin.itemitem.impl.CosineSimilarityCalculationStrategy-calculateSimilarity with org.easyrec.plugin.itemitem.impl.CosineSimilarityCalculationStrategyTest-calculateSimilarity_isCorrect
+Tue May 15 21:53:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:06 UTC 2018: Code found org.easyrec.plugin.itemitem.impl.CosineSimilarityCalculationStrategy-getSourceInfo with org.easyrec.plugin.itemitem.impl.CosineSimilarityCalculationStrategyTest-getSourceInfo_isCorrect
+Tue May 15 21:53:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:06 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.plugin.itemitem.impl.CosineSimilarityCalculationStrategyTest
+Tue May 15 21:53:07 UTC 2018: Found element on the queue
+Tue May 15 21:53:07 UTC 2018: Updating status
+Tue May 15 21:53:07 UTC 2018: Working
+Tue May 15 21:53:10 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.plugin.itemitem.store.dao.impl.ActionDAOMemoryImplTest
+Tue May 15 21:53:10 UTC 2018: Setting lastTestMethodIndex: 48632
+Tue May 15 21:53:10 UTC 2018: Starting linking
+Tue May 15 21:53:10 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.plugin.itemitem.store.dao.impl.ActionDAOMemoryImplTest
+Tue May 15 21:53:11 UTC 2018: Found element on the queue
+Tue May 15 21:53:11 UTC 2018: Updating status
+Tue May 15 21:53:11 UTC 2018: Working
+Tue May 15 21:53:11 UTC 2018: Create project parser
+Tue May 15 21:53:16 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.plugin.slopeone.impl.DefaultDeviationCalculationStrategyTest
+Tue May 15 21:53:16 UTC 2018: Setting lastTestMethodIndex: 48633
+Tue May 15 21:53:16 UTC 2018: Starting linking
+Tue May 15 21:53:16 UTC 2018: Code found org.easyrec.plugin.slopeone.impl.DefaultDeviationCalculationStrategy-calculate with org.easyrec.plugin.slopeone.impl.DefaultDeviationCalculationStrategyTest-calculate_withLemireData
+Tue May 15 21:53:16 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:16 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.plugin.slopeone.impl.DefaultDeviationCalculationStrategyTest
+Tue May 15 21:53:17 UTC 2018: Found element on the queue
+Tue May 15 21:53:17 UTC 2018: Updating status
+Tue May 15 21:53:17 UTC 2018: Working
+Tue May 15 21:53:20 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.plugin.slopeone.model.DeviationTest
+Tue May 15 21:53:20 UTC 2018: Setting lastTestMethodIndex: 48634
+Tue May 15 21:53:20 UTC 2018: Starting linking
+Tue May 15 21:53:20 UTC 2018: Code found org.easyrec.plugin.slopeone.model.Deviation-setItems with org.easyrec.plugin.slopeone.model.DeviationTest-setItems_shouldThrowOnInvalidTenantItem2
+Tue May 15 21:53:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:20 UTC 2018: Code found org.easyrec.plugin.slopeone.model.Deviation-setItems with org.easyrec.plugin.slopeone.model.DeviationTest-setItems_shouldThrowOnNullItem1
+Tue May 15 21:53:20 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:20 UTC 2018: Code found org.easyrec.plugin.slopeone.model.Deviation-setItems with org.easyrec.plugin.slopeone.model.DeviationTest-setItems_shouldThrowOnNullItem2
+Tue May 15 21:53:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:21 UTC 2018: Code found org.easyrec.plugin.slopeone.model.Deviation-setItem2 with org.easyrec.plugin.slopeone.model.DeviationTest-setItem2_shouldThrowOnInvalidTenant
+Tue May 15 21:53:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:21 UTC 2018: Code found org.easyrec.plugin.slopeone.model.Deviation-setItems with org.easyrec.plugin.slopeone.model.DeviationTest-setItems_shouldThrowOnInvalidTenantItem1
+Tue May 15 21:53:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:21 UTC 2018: Code found org.easyrec.plugin.slopeone.model.Deviation-setItem1 with org.easyrec.plugin.slopeone.model.DeviationTest-setItem1_shouldThrowOnInvalidTenant
+Tue May 15 21:53:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:21 UTC 2018: Code found org.easyrec.plugin.slopeone.model.Deviation-hashCode with org.easyrec.plugin.slopeone.model.DeviationTest-testHashCode
+Tue May 15 21:53:22 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:22 UTC 2018: Code found org.easyrec.plugin.slopeone.model.Deviation-setItem2 with org.easyrec.plugin.slopeone.model.DeviationTest-setItem2_shouldThrowOnNull
+Tue May 15 21:53:22 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:22 UTC 2018: No link for: org.easyrec.plugin.slopeone.model.DeviationTest-setItem1_shouldThrowOnNull
+Tue May 15 21:53:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:53:22 UTC 2018: No link for: org.easyrec.plugin.slopeone.model.DeviationTest-testEquals
+Tue May 15 21:53:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:53:22 UTC 2018: No link for: org.easyrec.plugin.slopeone.model.DeviationTest-getters_shouldReturnConstructorValue
+Tue May 15 21:53:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:53:23 UTC 2018: No link for: org.easyrec.plugin.slopeone.model.DeviationTest-setters_shouldSet
+Tue May 15 21:53:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:53:23 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.plugin.slopeone.model.DeviationTest
+Tue May 15 21:53:24 UTC 2018: Found element on the queue
+Tue May 15 21:53:24 UTC 2018: Updating status
+Tue May 15 21:53:24 UTC 2018: Working
+Tue May 15 21:53:24 UTC 2018: Create project parser
+Tue May 15 21:53:55 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.utils.io.TextTest
+Tue May 15 21:53:55 UTC 2018: Setting lastTestMethodIndex: 48641
+Tue May 15 21:53:55 UTC 2018: Starting linking
+Tue May 15 21:53:55 UTC 2018: Code found org.easyrec.utils.io.Text-containingString with org.easyrec.utils.io.TextTest-testContainingString
+Tue May 15 21:53:55 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:55 UTC 2018: Code found org.easyrec.utils.io.Text-matchMax with org.easyrec.utils.io.TextTest-testMatchMax
+Tue May 15 21:53:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:56 UTC 2018: Code found org.easyrec.utils.io.Text-containsEvilSpecialChar with org.easyrec.utils.io.TextTest-testContainsEvilSpecialChar
+Tue May 15 21:53:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:56 UTC 2018: Code found org.easyrec.utils.io.Text-removeLast with org.easyrec.utils.io.TextTest-testRemoveLast
+Tue May 15 21:53:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:57 UTC 2018: Code found org.easyrec.utils.io.Text-capitalize with org.easyrec.utils.io.TextTest-testCapitalize
+Tue May 15 21:53:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:53:57 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.utils.io.TextTest
+Tue May 15 21:53:58 UTC 2018: Found element on the queue
+Tue May 15 21:53:58 UTC 2018: Updating status
+Tue May 15 21:53:58 UTC 2018: Working
+Tue May 15 21:54:01 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.utils.io.SqlFileParserTest
+Tue May 15 21:54:01 UTC 2018: Setting lastTestMethodIndex: 48643
+Tue May 15 21:54:01 UTC 2018: Starting linking
+Tue May 15 21:54:01 UTC 2018: No link for: org.easyrec.utils.io.SqlFileParserTest-testMultipleStatementsPerLine
+Tue May 15 21:54:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:54:01 UTC 2018: No link for: org.easyrec.utils.io.SqlFileParserTest-testMultipleCommentCharacters
+Tue May 15 21:54:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:54:02 UTC 2018: No link for: org.easyrec.utils.io.SqlFileParserTest-testSimpleSql
+Tue May 15 21:54:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:54:02 UTC 2018: No link for: org.easyrec.utils.io.SqlFileParserTest-testUnclosedStatement
+Tue May 15 21:54:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:54:02 UTC 2018: No link for: org.easyrec.utils.io.SqlFileParserTest-testTrailingWhitespace
+Tue May 15 21:54:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:54:03 UTC 2018: No link for: org.easyrec.utils.io.SqlFileParserTest-testMultiLineSql
+Tue May 15 21:54:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:54:04 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.utils.io.SqlFileParserTest
+Tue May 15 21:54:05 UTC 2018: Found element on the queue
+Tue May 15 21:54:05 UTC 2018: Updating status
+Tue May 15 21:54:05 UTC 2018: Working
+Tue May 15 21:54:08 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.utils.spring.store.dao.DAOAttributeTest
+Tue May 15 21:54:08 UTC 2018: Setting lastTestMethodIndex: 48645
+Tue May 15 21:54:08 UTC 2018: Starting linking
+Tue May 15 21:54:08 UTC 2018: No link for: org.easyrec.utils.spring.store.dao.DAOAttributeTest-testDAOAttribute
+Tue May 15 21:54:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 21:54:08 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.utils.spring.store.dao.DAOAttributeTest
+Tue May 15 21:54:09 UTC 2018: Found element on the queue
+Tue May 15 21:54:09 UTC 2018: Updating status
+Tue May 15 21:54:09 UTC 2018: Working
+Tue May 15 21:54:12 UTC 2018: Start IBYoung__easyrec-code test class org.easyrec.utils.spring.store.dao.DaoUtilsTest
+Tue May 15 21:54:12 UTC 2018: Setting lastTestMethodIndex: 48647
+Tue May 15 21:54:12 UTC 2018: Starting linking
+Tue May 15 21:54:12 UTC 2018: Code found org.easyrec.utils.spring.store.dao.DaoUtils-createSqlList with org.easyrec.utils.spring.store.dao.DaoUtilsTest-testCreateSqlList
+Tue May 15 21:54:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 21:54:12 UTC 2018: Linking done for IBYoung__easyrec-code test class org.easyrec.utils.spring.store.dao.DaoUtilsTest

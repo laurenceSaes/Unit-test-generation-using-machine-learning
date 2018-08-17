@@ -1,0 +1,47 @@
+Wed May 16 03:16:06 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 03:16:06 UTC 2018: Starting
+Wed May 16 03:16:07 UTC 2018: Found element on the queue
+Wed May 16 03:16:07 UTC 2018: Updating status
+Wed May 16 03:16:07 UTC 2018: Working
+Wed May 16 03:16:07 UTC 2018: Create project parser
+Wed May 16 03:16:11 UTC 2018: Create slicer
+Wed May 16 03:16:12 UTC 2018: Create call graph
+Wed May 16 03:16:14 UTC 2018: Create point analysis
+Wed May 16 03:16:14 UTC 2018: Create call graph done
+Wed May 16 03:16:14 UTC 2018: Start lakodali__osc-core test class org.osc.core.server.installer.impl.CompositeBundleInstallerTest
+Wed May 16 03:16:14 UTC 2018: Setting lastTestMethodIndex: 59037
+Wed May 16 03:16:14 UTC 2018: Starting linking
+Wed May 16 03:16:14 UTC 2018: No link for: org.osc.core.server.installer.impl.CompositeBundleInstallerTest-testIndexPathInManifest
+Wed May 16 03:16:14 UTC 2018: No link for: org.osc.core.server.installer.impl.CompositeBundleInstallerTest-testNoIndex
+Wed May 16 03:16:15 UTC 2018: No link for: org.osc.core.server.installer.impl.CompositeBundleInstallerTest-testMissingRequireHeader
+Wed May 16 03:16:15 UTC 2018: No link for: org.osc.core.server.installer.impl.CompositeBundleInstallerTest-testMissingIndexPath
+Wed May 16 03:16:15 UTC 2018: No link for: org.osc.core.server.installer.impl.CompositeBundleInstallerTest-testInvalidExtension
+Wed May 16 03:16:16 UTC 2018: No link for: org.osc.core.server.installer.impl.CompositeBundleInstallerTest-testValidArchiveCanBeHandled
+Wed May 16 03:16:16 UTC 2018: Linking done for lakodali__osc-core test class org.osc.core.server.installer.impl.CompositeBundleInstallerTest
+Wed May 16 03:16:17 UTC 2018: Found element on the queue
+Wed May 16 03:16:17 UTC 2018: Updating status
+Wed May 16 03:16:17 UTC 2018: Working
+Wed May 16 03:16:19 UTC 2018: Start lakodali__osc-core test class org.osc.core.server.installer.impl.RequirementParserTest
+Wed May 16 03:16:19 UTC 2018: Setting lastTestMethodIndex: 59041
+Wed May 16 03:16:19 UTC 2018: Starting linking
+Wed May 16 03:16:19 UTC 2018: Code found org.osc.core.server.installer.impl.RequirementParser-parseRequireCapability with org.osc.core.server.installer.impl.RequirementParserTest-testParseRequireCapability
+Wed May 16 03:16:19 UTC 2018: Code found org.osc.core.server.installer.impl.RequirementParser-parseRequireBundle with org.osc.core.server.installer.impl.RequirementParserTest-testParseRequireBundle
+Wed May 16 03:16:20 UTC 2018: Linking done for lakodali__osc-core test class org.osc.core.server.installer.impl.RequirementParserTest
+Wed May 16 03:16:20 UTC 2018: Found element on the queue
+Wed May 16 03:16:20 UTC 2018: Updating status
+Wed May 16 03:16:20 UTC 2018: Working
+Wed May 16 03:16:20 UTC 2018: Create project parser
+Wed May 16 03:16:23 UTC 2018: Start lakodali__osc-core test class org.osc.core.server.resolver.impl.URIUtilsTest
+Wed May 16 03:16:23 UTC 2018: Setting lastTestMethodIndex: 59044
+Wed May 16 03:16:23 UTC 2018: Starting linking
+Wed May 16 03:16:23 UTC 2018: Linking done for lakodali__osc-core test class org.osc.core.server.resolver.impl.URIUtilsTest
+Wed May 16 03:16:24 UTC 2018: Found element on the queue
+Wed May 16 03:16:24 UTC 2018: Updating status
+Wed May 16 03:16:24 UTC 2018: Working
+Wed May 16 03:16:26 UTC 2018: Start lakodali__osc-core test class org.osc.core.server.resolver.impl.PluginResolveContextTest
+Wed May 16 03:16:26 UTC 2018: Setting lastTestMethodIndex: 59046
+Wed May 16 03:16:26 UTC 2018: Starting linking
+Wed May 16 03:16:26 UTC 2018: Code found org.osc.core.server.resolver.impl.PluginResolveContext-match with org.osc.core.server.resolver.impl.PluginResolveContextTest-testMatchRequirementsEffectiveResolve
+Wed May 16 03:16:26 UTC 2018: Code found org.osc.core.server.resolver.impl.PluginResolveContext-match with org.osc.core.server.resolver.impl.PluginResolveContextTest-testEffectiveNonResolveCapsMatchRequirementWithSame
+Wed May 16 03:16:27 UTC 2018: Code found org.osc.core.server.resolver.impl.PluginResolveContext-match with org.osc.core.server.resolver.impl.PluginResolveContextTest-testEffectiveResolveCapsMatchAnyRequirement
+Wed May 16 03:16:27 UTC 2018: Linking done for lakodali__osc-core test class org.osc.core.server.resolver.impl.PluginResolveContextTest

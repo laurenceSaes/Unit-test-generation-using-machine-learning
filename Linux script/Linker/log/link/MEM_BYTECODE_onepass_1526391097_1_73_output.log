@@ -1,0 +1,663 @@
+Tue May 15 17:06:31 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 17:06:31 UTC 2018: Starting
+Tue May 15 17:06:31 UTC 2018: Found element on the queue
+Tue May 15 17:06:31 UTC 2018: Updating status
+Tue May 15 17:06:31 UTC 2018: Working
+Tue May 15 17:06:31 UTC 2018: Create project parser
+Tue May 15 17:06:44 UTC 2018: Create slicer
+Tue May 15 17:06:49 UTC 2018: Create call graph
+Tue May 15 17:06:54 UTC 2018: Create point analysis
+Tue May 15 17:06:54 UTC 2018: Create call graph done
+Tue May 15 17:06:54 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.TestObjectValidator
+Tue May 15 17:06:54 UTC 2018: Setting lastTestMethodIndex: 39477
+Tue May 15 17:06:54 UTC 2018: Starting linking
+Tue May 15 17:06:54 UTC 2018: Code found org.fcrepo.client.utility.validate.ObjectValidator-validate with org.fcrepo.client.utility.validate.TestObjectValidator-nullArgumentToValidateObject
+Tue May 15 17:06:54 UTC 2018: Code found org.fcrepo.client.utility.validate.ObjectValidator-validate with org.fcrepo.client.utility.validate.TestObjectValidator-nullArgumentToValidatePid
+Tue May 15 17:06:54 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-matchAgainstTypeWithNeither
+Tue May 15 17:06:55 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-simpleSuccessFromPid
+Tue May 15 17:06:55 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-matchTwoContentModels
+Tue May 15 17:06:55 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-matchAgainstTypeWithMime
+Tue May 15 17:06:55 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-matchAgainstTypeWithBoth
+Tue May 15 17:06:56 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-contentModelUriIsNotPid
+Tue May 15 17:06:56 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-pidReturnsNullObject
+Tue May 15 17:06:56 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-matchAnAssortmentOfTypeModels
+Tue May 15 17:06:56 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-gettingContentModelThrowsException
+Tue May 15 17:06:56 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-noDsToMatchTypeModel
+Tue May 15 17:06:56 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-simpleSuccessFromObject
+Tue May 15 17:06:57 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-contentModelIsInvalid
+Tue May 15 17:06:57 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-noContentModel
+Tue May 15 17:06:57 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-contentModelDoesntExist
+Tue May 15 17:06:57 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-nullArgumentToConstructor
+Tue May 15 17:06:57 UTC 2018: No link for: org.fcrepo.client.utility.validate.TestObjectValidator-gettingFromPidThrowsException
+Tue May 15 17:06:58 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.TestObjectValidator
+Tue May 15 17:06:58 UTC 2018: Found element on the queue
+Tue May 15 17:06:58 UTC 2018: Updating status
+Tue May 15 17:06:58 UTC 2018: Working
+Tue May 15 17:07:00 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters
+Tue May 15 17:07:00 UTC 2018: Setting lastTestMethodIndex: 39480
+Tue May 15 17:07:00 UTC 2018: Starting linking
+Tue May 15 17:07:00 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-simplePidfileSuccess
+Tue May 15 17:07:01 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-noUsername
+Tue May 15 17:07:01 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-invalidServerUrl
+Tue May 15 17:07:01 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-invalidQueryString
+Tue May 15 17:07:01 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-unrecognizedKeyword
+Tue May 15 17:07:01 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-noPassword
+Tue May 15 17:07:01 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-pidfileDoesNotExist
+Tue May 15 17:07:02 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-noServerUrl
+Tue May 15 17:07:02 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-nullUsername
+Tue May 15 17:07:02 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-bothTermsAndPidfile
+Tue May 15 17:07:02 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-bothQueryAndPidfile
+Tue May 15 17:07:02 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-simpleTermsSuccess
+Tue May 15 17:07:02 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-simpleQuerySuccess
+Tue May 15 17:07:03 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-valueWithoutKeyword
+Tue May 15 17:07:03 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-bothTermsAndQuery
+Tue May 15 17:07:03 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters-noTermsOrQueryOrPidfile
+Tue May 15 17:07:03 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.process.TestValidatorProcessParameters
+Tue May 15 17:07:04 UTC 2018: Found element on the queue
+Tue May 15 17:07:04 UTC 2018: Updating status
+Tue May 15 17:07:04 UTC 2018: Working
+Tue May 15 17:07:06 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.process.AllUnitTests
+Tue May 15 17:07:06 UTC 2018: Setting lastTestMethodIndex: 39483
+Tue May 15 17:07:06 UTC 2018: Starting linking
+Tue May 15 17:07:06 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.process.AllUnitTests
+Tue May 15 17:07:07 UTC 2018: Found element on the queue
+Tue May 15 17:07:07 UTC 2018: Updating status
+Tue May 15 17:07:07 UTC 2018: Working
+Tue May 15 17:07:09 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.process.TestPidfileIterator
+Tue May 15 17:07:09 UTC 2018: Setting lastTestMethodIndex: 39484
+Tue May 15 17:07:09 UTC 2018: Starting linking
+Tue May 15 17:07:09 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestPidfileIterator-rejectNullArgument
+Tue May 15 17:07:09 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestPidfileIterator-ioExceptionBecomesIllegalStateException
+Tue May 15 17:07:09 UTC 2018: No link for: org.fcrepo.client.utility.validate.process.TestPidfileIterator-simpleExerciseWithPidsBlanksAndComments
+Tue May 15 17:07:10 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.process.TestPidfileIterator
+Tue May 15 17:07:10 UTC 2018: Found element on the queue
+Tue May 15 17:07:10 UTC 2018: Updating status
+Tue May 15 17:07:10 UTC 2018: Working
+Tue May 15 17:07:12 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.types.TestDsCompositeModelDoc
+Tue May 15 17:07:12 UTC 2018: Setting lastTestMethodIndex: 39487
+Tue May 15 17:07:12 UTC 2018: Starting linking
+Tue May 15 17:07:13 UTC 2018: No link for: org.fcrepo.client.utility.validate.types.TestDsCompositeModelDoc-typicalModel
+Tue May 15 17:07:13 UTC 2018: No link for: org.fcrepo.client.utility.validate.types.TestDsCompositeModelDoc-emptyModel
+Tue May 15 17:07:13 UTC 2018: No link for: org.fcrepo.client.utility.validate.types.TestDsCompositeModelDoc-assortedForms
+Tue May 15 17:07:13 UTC 2018: No link for: org.fcrepo.client.utility.validate.types.TestDsCompositeModelDoc-typeModelHasNoId
+Tue May 15 17:07:13 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.types.TestDsCompositeModelDoc
+Tue May 15 17:07:14 UTC 2018: Found element on the queue
+Tue May 15 17:07:14 UTC 2018: Updating status
+Tue May 15 17:07:14 UTC 2018: Working
+Tue May 15 17:07:16 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.types.AllUnitTests
+Tue May 15 17:07:16 UTC 2018: Setting lastTestMethodIndex: 39489
+Tue May 15 17:07:16 UTC 2018: Starting linking
+Tue May 15 17:07:16 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.client.utility.validate.types.AllUnitTests
+Tue May 15 17:07:16 UTC 2018: Found element on the queue
+Tue May 15 17:07:16 UTC 2018: Updating status
+Tue May 15 17:07:16 UTC 2018: Working
+Tue May 15 17:07:16 UTC 2018: Create project parser
+Tue May 15 17:07:20 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.utilities.xml.AllUnitTests
+Tue May 15 17:07:20 UTC 2018: Setting lastTestMethodIndex: 39491
+Tue May 15 17:07:20 UTC 2018: Starting linking
+Tue May 15 17:07:20 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.utilities.xml.AllUnitTests
+Tue May 15 17:07:21 UTC 2018: Found element on the queue
+Tue May 15 17:07:21 UTC 2018: Updating status
+Tue May 15 17:07:21 UTC 2018: Working
+Tue May 15 17:07:23 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.utilities.xml.TestXmlSerializers
+Tue May 15 17:07:23 UTC 2018: Setting lastTestMethodIndex: 39493
+Tue May 15 17:07:23 UTC 2018: Starting linking
+Tue May 15 17:07:23 UTC 2018: No link for: org.fcrepo.utilities.xml.TestXmlSerializers-testWriteXmlNoSpace
+Tue May 15 17:07:23 UTC 2018: No link for: org.fcrepo.utilities.xml.TestXmlSerializers-testTransformer
+Tue May 15 17:07:23 UTC 2018: No link for: org.fcrepo.utilities.xml.TestXmlSerializers-testWriteConsoleNoDocType
+Tue May 15 17:07:23 UTC 2018: No link for: org.fcrepo.utilities.xml.TestXmlSerializers-testWriteMgmtNoDecl
+Tue May 15 17:07:24 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.utilities.xml.TestXmlSerializers
+Tue May 15 17:07:24 UTC 2018: Found element on the queue
+Tue May 15 17:07:24 UTC 2018: Updating status
+Tue May 15 17:07:24 UTC 2018: Working
+Tue May 15 17:07:26 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.utilities.io.AllUnitTests
+Tue May 15 17:07:26 UTC 2018: Setting lastTestMethodIndex: 39496
+Tue May 15 17:07:26 UTC 2018: Starting linking
+Tue May 15 17:07:26 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.utilities.io.AllUnitTests
+Tue May 15 17:07:27 UTC 2018: Found element on the queue
+Tue May 15 17:07:27 UTC 2018: Updating status
+Tue May 15 17:07:27 UTC 2018: Working
+Tue May 15 17:07:29 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.utilities.io.TestByteRangeInputStream
+Tue May 15 17:07:29 UTC 2018: Setting lastTestMethodIndex: 39498
+Tue May 15 17:07:29 UTC 2018: Starting linking
+Tue May 15 17:07:29 UTC 2018: No link for: org.fcrepo.utilities.io.TestByteRangeInputStream-testGoodRangeHeaders
+Tue May 15 17:07:29 UTC 2018: No link for: org.fcrepo.utilities.io.TestByteRangeInputStream-testBadRangeHeaderOffset
+Tue May 15 17:07:30 UTC 2018: No link for: org.fcrepo.utilities.io.TestByteRangeInputStream-testSkippedBytes
+Tue May 15 17:07:30 UTC 2018: No link for: org.fcrepo.utilities.io.TestByteRangeInputStream-testBadRangeHeaderOrder
+Tue May 15 17:07:30 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.utilities.io.TestByteRangeInputStream
+Tue May 15 17:07:30 UTC 2018: Found element on the queue
+Tue May 15 17:07:30 UTC 2018: Updating status
+Tue May 15 17:07:30 UTC 2018: Working
+Tue May 15 17:07:33 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.common.AllUnitTests
+Tue May 15 17:07:33 UTC 2018: Setting lastTestMethodIndex: 39500
+Tue May 15 17:07:33 UTC 2018: Starting linking
+Tue May 15 17:07:33 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.common.AllUnitTests
+Tue May 15 17:07:33 UTC 2018: Found element on the queue
+Tue May 15 17:07:33 UTC 2018: Updating status
+Tue May 15 17:07:33 UTC 2018: Working
+Tue May 15 17:07:36 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.common.TestPID
+Tue May 15 17:07:36 UTC 2018: Setting lastTestMethodIndex: 39502
+Tue May 15 17:07:36 UTC 2018: Starting linking
+Tue May 15 17:07:36 UTC 2018: No link for: org.fcrepo.common.TestPID-testEqualsSamePID
+Tue May 15 17:07:36 UTC 2018: No link for: org.fcrepo.common.TestPID-testEqualsDifferentPID
+Tue May 15 17:07:36 UTC 2018: No link for: org.fcrepo.common.TestPID-testHashCodeSamePID
+Tue May 15 17:07:36 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.common.TestPID
+Tue May 15 17:07:37 UTC 2018: Found element on the queue
+Tue May 15 17:07:37 UTC 2018: Updating status
+Tue May 15 17:07:37 UTC 2018: Working
+Tue May 15 17:07:39 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.common.TestDateUtility
+Tue May 15 17:07:39 UTC 2018: Setting lastTestMethodIndex: 39504
+Tue May 15 17:07:39 UTC 2018: Starting linking
+Tue May 15 17:07:39 UTC 2018: Code found org.fcrepo.utilities.DateUtility-convertDateToString with org.fcrepo.common.TestDateUtility-testConvertDateToString
+Tue May 15 17:07:40 UTC 2018: Code found org.fcrepo.utilities.DateUtility-convertDateToXSDString with org.fcrepo.common.TestDateUtility-testConvertDateToXSDString
+Tue May 15 17:07:40 UTC 2018: Code found org.fcrepo.utilities.DateUtility-convertDateToDateString with org.fcrepo.common.TestDateUtility-testConvertDateToDateString
+Tue May 15 17:07:40 UTC 2018: Code found org.fcrepo.utilities.DateUtility-convertDateToTimeString with org.fcrepo.common.TestDateUtility-testConvertDateToTimeString
+Tue May 15 17:07:40 UTC 2018: No link for: org.fcrepo.common.TestDateUtility-testParseDate
+Tue May 15 17:07:40 UTC 2018: No link for: org.fcrepo.common.TestDateUtility-testRoundTripMillis
+Tue May 15 17:07:40 UTC 2018: No link for: org.fcrepo.common.TestDateUtility-testMillis
+Tue May 15 17:07:40 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.common.TestDateUtility
+Tue May 15 17:07:41 UTC 2018: Found element on the queue
+Tue May 15 17:07:41 UTC 2018: Updating status
+Tue May 15 17:07:41 UTC 2018: Working
+Tue May 15 17:07:41 UTC 2018: Create project parser
+Tue May 15 17:07:56 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.utilities.TestBase64
+Tue May 15 17:07:56 UTC 2018: Setting lastTestMethodIndex: 39511
+Tue May 15 17:07:56 UTC 2018: Starting linking
+Tue May 15 17:07:56 UTC 2018: No link for: org.fcrepo.utilities.TestBase64-testEncodeByteArray
+Tue May 15 17:07:56 UTC 2018: No link for: org.fcrepo.utilities.TestBase64-testDecodeByteArray
+Tue May 15 17:07:56 UTC 2018: No link for: org.fcrepo.utilities.TestBase64-testDecodeString
+Tue May 15 17:07:56 UTC 2018: No link for: org.fcrepo.utilities.TestBase64-testEncodeToStringByteArray
+Tue May 15 17:07:57 UTC 2018: No link for: org.fcrepo.utilities.TestBase64-testDecodeToStringByteArray
+Tue May 15 17:07:57 UTC 2018: No link for: org.fcrepo.utilities.TestBase64-testEncodeToStringInputStream
+Tue May 15 17:07:57 UTC 2018: No link for: org.fcrepo.utilities.TestBase64-testEncodeInputStream
+Tue May 15 17:07:57 UTC 2018: No link for: org.fcrepo.utilities.TestBase64-testEncodeToStreamInputStream
+Tue May 15 17:07:57 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.utilities.TestBase64
+Tue May 15 17:07:58 UTC 2018: Found element on the queue
+Tue May 15 17:07:58 UTC 2018: Updating status
+Tue May 15 17:07:58 UTC 2018: Working
+Tue May 15 17:08:00 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.utilities.TestFileUtils
+Tue May 15 17:08:00 UTC 2018: Setting lastTestMethodIndex: 39513
+Tue May 15 17:08:00 UTC 2018: Starting linking
+Tue May 15 17:08:00 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.utilities.TestFileUtils
+Tue May 15 17:08:01 UTC 2018: Found element on the queue
+Tue May 15 17:08:01 UTC 2018: Updating status
+Tue May 15 17:08:01 UTC 2018: Working
+Tue May 15 17:08:04 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.utilities.NamespaceContextImplTest
+Tue May 15 17:08:04 UTC 2018: Setting lastTestMethodIndex: 39515
+Tue May 15 17:08:04 UTC 2018: Starting linking
+Tue May 15 17:08:04 UTC 2018: No link for: org.fcrepo.utilities.NamespaceContextImplTest-testNamespaceContextImpl
+Tue May 15 17:08:04 UTC 2018: No link for: org.fcrepo.utilities.NamespaceContextImplTest-testGetNamespaceURI
+Tue May 15 17:08:04 UTC 2018: No link for: org.fcrepo.utilities.NamespaceContextImplTest-testAddNamespace
+Tue May 15 17:08:04 UTC 2018: No link for: org.fcrepo.utilities.NamespaceContextImplTest-testNamespaceContextImplMapOfStringString
+Tue May 15 17:08:04 UTC 2018: No link for: org.fcrepo.utilities.NamespaceContextImplTest-testGetPrefix
+Tue May 15 17:08:04 UTC 2018: No link for: org.fcrepo.utilities.NamespaceContextImplTest-testGetPrefixes
+Tue May 15 17:08:05 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.utilities.NamespaceContextImplTest
+Tue May 15 17:08:05 UTC 2018: Found element on the queue
+Tue May 15 17:08:05 UTC 2018: Updating status
+Tue May 15 17:08:05 UTC 2018: Working
+Tue May 15 17:08:07 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.proxy.ProxyFactoryTest
+Tue May 15 17:08:07 UTC 2018: Setting lastTestMethodIndex: 39517
+Tue May 15 17:08:07 UTC 2018: Starting linking
+Tue May 15 17:08:07 UTC 2018: Code found org.fcrepo.server.proxy.ProxyFactory-getProxy with org.fcrepo.server.proxy.ProxyFactoryTest-testGetProxy
+Tue May 15 17:08:07 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.proxy.ProxyFactoryTest
+Tue May 15 17:08:08 UTC 2018: Found element on the queue
+Tue May 15 17:08:08 UTC 2018: Updating status
+Tue May 15 17:08:08 UTC 2018: Working
+Tue May 15 17:08:11 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.test.DigitalObjectTest
+Tue May 15 17:08:11 UTC 2018: Setting lastTestMethodIndex: 39520
+Tue May 15 17:08:11 UTC 2018: Starting linking
+Tue May 15 17:08:11 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.test.DigitalObjectTest
+Tue May 15 17:08:11 UTC 2018: Found element on the queue
+Tue May 15 17:08:11 UTC 2018: Updating status
+Tue May 15 17:08:11 UTC 2018: Working
+Tue May 15 17:08:13 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.journal.helpers.TestParameterHelper
+Tue May 15 17:08:13 UTC 2018: Setting lastTestMethodIndex: 39521
+Tue May 15 17:08:13 UTC 2018: Starting linking
+Tue May 15 17:08:13 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-getOptionalBooleanParameter with org.fcrepo.server.journal.helpers.TestParameterHelper-testGetOptionalBooleanParameter_NullParameters
+Tue May 15 17:08:13 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForFilenamePrefix with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForFilenamePrefix_Default
+Tue May 15 17:08:14 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-getOptionalBooleanParameter with org.fcrepo.server.journal.helpers.TestParameterHelper-testGetOptionalBooleanParameter_ValueTrue
+Tue May 15 17:08:14 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForFilenamePrefix with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForFilenamePrefix_Value
+Tue May 15 17:08:14 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForSizeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForSizeLimit_Default
+Tue May 15 17:08:14 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForAgeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForAgeLimit_InvalidSuffix
+Tue May 15 17:08:14 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-getOptionalStringParameter with org.fcrepo.server.journal.helpers.TestParameterHelper-testGetOptionalStringParameter_Value
+Tue May 15 17:08:14 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForAgeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForAgeLimit_NoSuffix
+Tue May 15 17:08:15 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-getOptionalStringParameter with org.fcrepo.server.journal.helpers.TestParameterHelper-testGetOptionalStringParameter_Default
+Tue May 15 17:08:15 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForSizeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForSizeLimit_M
+Tue May 15 17:08:15 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForSizeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForSizeLimit_InvalidSuffix
+Tue May 15 17:08:15 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForSizeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForSizeLimit_NoSuffix
+Tue May 15 17:08:15 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForAgeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForAgeLimit_M
+Tue May 15 17:08:15 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-getOptionalBooleanParameter with org.fcrepo.server.journal.helpers.TestParameterHelper-testGetOptionalBooleanParameter_InvalidValue
+Tue May 15 17:08:15 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForSizeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForSizeLimit_K
+Tue May 15 17:08:16 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-getOptionalBooleanParameter with org.fcrepo.server.journal.helpers.TestParameterHelper-testGetOptionalBooleanParameter_NullParameterName
+Tue May 15 17:08:16 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForSizeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForSizeLimit_G
+Tue May 15 17:08:16 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForAgeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForAgeLimit_D
+Tue May 15 17:08:16 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-getOptionalBooleanParameter with org.fcrepo.server.journal.helpers.TestParameterHelper-testGetOptionalBooleanParameter_NoValue
+Tue May 15 17:08:16 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-getOptionalBooleanParameter with org.fcrepo.server.journal.helpers.TestParameterHelper-testGetOptionalBooleanParameter_ValueFalse
+Tue May 15 17:08:16 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForAgeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForAgeLimit_H
+Tue May 15 17:08:16 UTC 2018: Code found org.fcrepo.server.journal.helpers.ParameterHelper-parseParametersForAgeLimit with org.fcrepo.server.journal.helpers.TestParameterHelper-testParseParametersForAgeLimit_Default
+Tue May 15 17:08:17 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.journal.helpers.TestParameterHelper
+Tue May 15 17:08:17 UTC 2018: Found element on the queue
+Tue May 15 17:08:17 UTC 2018: Updating status
+Tue May 15 17:08:17 UTC 2018: Working
+Tue May 15 17:08:19 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.journal.helpers.TestPasswordCipher
+Tue May 15 17:08:19 UTC 2018: Setting lastTestMethodIndex: 39525
+Tue May 15 17:08:19 UTC 2018: Starting linking
+Tue May 15 17:08:19 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.journal.helpers.TestPasswordCipher
+Tue May 15 17:08:20 UTC 2018: Found element on the queue
+Tue May 15 17:08:20 UTC 2018: Updating status
+Tue May 15 17:08:20 UTC 2018: Working
+Tue May 15 17:08:22 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.journal.xmlhelpers.TestContextXmlWriterAndReader
+Tue May 15 17:08:22 UTC 2018: Setting lastTestMethodIndex: 39527
+Tue May 15 17:08:22 UTC 2018: Starting linking
+Tue May 15 17:08:22 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.journal.xmlhelpers.TestContextXmlWriterAndReader
+Tue May 15 17:08:23 UTC 2018: Found element on the queue
+Tue May 15 17:08:23 UTC 2018: Updating status
+Tue May 15 17:08:23 UTC 2018: Working
+Tue May 15 17:08:25 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter
+Tue May 15 17:08:25 UTC 2018: Setting lastTestMethodIndex: 39529
+Tue May 15 17:08:25 UTC 2018: Starting linking
+Tue May 15 17:08:25 UTC 2018: Code found org.fcrepo.server.journal.readerwriter.multicast.rmi.RmiTransportWriter-write with org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter-testSeriesOfWrites
+Tue May 15 17:08:26 UTC 2018: Code found org.fcrepo.server.journal.readerwriter.multicast.rmi.RmiTransportWriter-close with org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter-testCloseClosesFile
+Tue May 15 17:08:26 UTC 2018: Code found org.fcrepo.server.journal.readerwriter.multicast.rmi.RmiTransportWriter-write with org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter-testWriteGetsException
+Tue May 15 17:08:26 UTC 2018: Code found org.fcrepo.server.journal.readerwriter.multicast.rmi.RmiTransportWriter-close with org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter-testCloseThrowsException
+Tue May 15 17:08:26 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter-testConstructorGetsException
+Tue May 15 17:08:26 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter-testConstructorOpensConnection
+Tue May 15 17:08:26 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter-testBigBufferYieldsOnlyOneWrite
+Tue May 15 17:08:27 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransportWriter
+Tue May 15 17:08:27 UTC 2018: Found element on the queue
+Tue May 15 17:08:27 UTC 2018: Updating status
+Tue May 15 17:08:27 UTC 2018: Working
+Tue May 15 17:08:30 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport
+Tue May 15 17:08:30 UTC 2018: Setting lastTestMethodIndex: 39531
+Tue May 15 17:08:30 UTC 2018: Starting linking
+Tue May 15 17:08:30 UTC 2018: Code found org.fcrepo.server.journal.readerwriter.multicast.rmi.RmiTransport-shutdown with org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testOpenCloseShutdownSequence
+Tue May 15 17:08:30 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testInvalidPortParameter
+Tue May 15 17:08:30 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testNoSuchService
+Tue May 15 17:08:30 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testNoRegistry
+Tue May 15 17:08:30 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testNoHostParameter
+Tue May 15 17:08:30 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testSuccessfulConnection
+Tue May 15 17:08:31 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testWritesWithSmallBuffer
+Tue May 15 17:08:31 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testInvalidHostParameter
+Tue May 15 17:08:31 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testNoServiceNameParameter
+Tue May 15 17:08:31 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testOpenCloseSequenceCalls
+Tue May 15 17:08:31 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport-testReceiverThrowsException
+Tue May 15 17:08:31 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiTransport
+Tue May 15 17:08:32 UTC 2018: Found element on the queue
+Tue May 15 17:08:32 UTC 2018: Updating status
+Tue May 15 17:08:32 UTC 2018: Working
+Tue May 15 17:08:34 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver
+Tue May 15 17:08:34 UTC 2018: Setting lastTestMethodIndex: 39534
+Tue May 15 17:08:34 UTC 2018: Starting linking
+Tue May 15 17:08:34 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testFileExists
+Tue May 15 17:08:34 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testIncorrectItemHash
+Tue May 15 17:08:35 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testValidTwoArgs
+Tue May 15 17:08:35 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testNoDirectoryPath
+Tue May 15 17:08:35 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testValidThreeArgs
+Tue May 15 17:08:35 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testInvalidLogLevel
+Tue May 15 17:08:35 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testDirectoryDoesNotExist
+Tue May 15 17:08:35 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testValidFourArgs
+Tue May 15 17:08:36 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testInvalidServerPortNumber
+Tue May 15 17:08:36 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testValidOneArg
+Tue May 15 17:08:36 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testOpenAfterOpen
+Tue May 15 17:08:36 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testInvalidRegistryPortNumber
+Tue May 15 17:08:36 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testCloseAfterClose
+Tue May 15 17:08:36 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testWriteAfterClose
+Tue May 15 17:08:36 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testCantCreateFile
+Tue May 15 17:08:37 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testNormalSequence
+Tue May 15 17:08:37 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver-testCloseWithoutOpen
+Tue May 15 17:08:37 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.journal.readerwriter.multicast.rmi.TestRmiJournalReceiver
+Tue May 15 17:08:38 UTC 2018: Found element on the queue
+Tue May 15 17:08:38 UTC 2018: Updating status
+Tue May 15 17:08:38 UTC 2018: Working
+Tue May 15 17:08:40 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.journal.readerwriter.multicast.TestJournalEntrySizeEstimator
+Tue May 15 17:08:40 UTC 2018: Setting lastTestMethodIndex: 39536
+Tue May 15 17:08:40 UTC 2018: Starting linking
+Tue May 15 17:08:40 UTC 2018: No link for: org.fcrepo.server.journal.readerwriter.multicast.TestJournalEntrySizeEstimator-testSizeEstimation
+Tue May 15 17:08:40 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.journal.readerwriter.multicast.TestJournalEntrySizeEstimator
+Tue May 15 17:08:41 UTC 2018: Found element on the queue
+Tue May 15 17:08:41 UTC 2018: Updating status
+Tue May 15 17:08:41 UTC 2018: Working
+Tue May 15 17:08:43 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.BasicServerTest
+Tue May 15 17:08:43 UTC 2018: Setting lastTestMethodIndex: 39538
+Tue May 15 17:08:43 UTC 2018: Starting linking
+Tue May 15 17:08:43 UTC 2018: No link for: org.fcrepo.server.BasicServerTest-testSubsequentRunGoodRebuild
+Tue May 15 17:08:43 UTC 2018: No link for: org.fcrepo.server.BasicServerTest-testSubsequentRunEmptyDatabase
+Tue May 15 17:08:44 UTC 2018: No link for: org.fcrepo.server.BasicServerTest-testSubsequentRunBadRebuild
+Tue May 15 17:08:44 UTC 2018: No link for: org.fcrepo.server.BasicServerTest-testFirstRunNonemptyDatabase
+Tue May 15 17:08:44 UTC 2018: No link for: org.fcrepo.server.BasicServerTest-testFirstRunEmptyDatabase
+Tue May 15 17:08:44 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.BasicServerTest
+Tue May 15 17:08:45 UTC 2018: Found element on the queue
+Tue May 15 17:08:45 UTC 2018: Updating status
+Tue May 15 17:08:45 UTC 2018: Working
+Tue May 15 17:08:47 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.security.impl.TestBasicEvaluationContext
+Tue May 15 17:08:47 UTC 2018: Setting lastTestMethodIndex: 39541
+Tue May 15 17:08:47 UTC 2018: Starting linking
+Tue May 15 17:08:47 UTC 2018: No link for: org.fcrepo.server.security.impl.TestBasicEvaluationContext-testRequestCtxAttribute
+Tue May 15 17:08:47 UTC 2018: No link for: org.fcrepo.server.security.impl.TestBasicEvaluationContext-testModuleAttribute
+Tue May 15 17:08:47 UTC 2018: No link for: org.fcrepo.server.security.impl.TestBasicEvaluationContext-testContextAttribute
+Tue May 15 17:08:48 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.security.impl.TestBasicEvaluationContext
+Tue May 15 17:08:48 UTC 2018: Found element on the queue
+Tue May 15 17:08:48 UTC 2018: Updating status
+Tue May 15 17:08:48 UTC 2018: Working
+Tue May 15 17:08:51 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.security.impl.TestBasicRequestCtx
+Tue May 15 17:08:51 UTC 2018: Setting lastTestMethodIndex: 39543
+Tue May 15 17:08:51 UTC 2018: Starting linking
+Tue May 15 17:08:51 UTC 2018: Code found org.fcrepo.server.security.impl.BasicRequestCtx-equals with org.fcrepo.server.security.impl.TestBasicRequestCtx-testEquals
+Tue May 15 17:08:51 UTC 2018: No link for: org.fcrepo.server.security.impl.TestBasicRequestCtx-testRoundtrip
+Tue May 15 17:08:51 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.security.impl.TestBasicRequestCtx
+Tue May 15 17:08:51 UTC 2018: Found element on the queue
+Tue May 15 17:08:51 UTC 2018: Updating status
+Tue May 15 17:08:51 UTC 2018: Working
+Tue May 15 17:08:54 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.security.impl.TestAttributeImpls
+Tue May 15 17:08:54 UTC 2018: Setting lastTestMethodIndex: 39545
+Tue May 15 17:08:54 UTC 2018: Starting linking
+Tue May 15 17:08:54 UTC 2018: No link for: org.fcrepo.server.security.impl.TestAttributeImpls-testBasicRoundtrip
+Tue May 15 17:08:54 UTC 2018: No link for: org.fcrepo.server.security.impl.TestAttributeImpls-testSingletonRoundtrip
+Tue May 15 17:08:54 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.security.impl.TestAttributeImpls
+Tue May 15 17:08:55 UTC 2018: Found element on the queue
+Tue May 15 17:08:55 UTC 2018: Updating status
+Tue May 15 17:08:55 UTC 2018: Working
+Tue May 15 17:08:58 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.security.servletfilters.xmluserfile.TestFedoraUsers
+Tue May 15 17:08:58 UTC 2018: Setting lastTestMethodIndex: 39547
+Tue May 15 17:08:58 UTC 2018: Starting linking
+Tue May 15 17:08:58 UTC 2018: Code found org.fcrepo.server.security.servletfilters.xmluserfile.FedoraUsers-getInstance with org.fcrepo.server.security.servletfilters.xmluserfile.TestFedoraUsers-testGetInstance
+Tue May 15 17:08:58 UTC 2018: Code found org.fcrepo.server.security.servletfilters.xmluserfile.FedoraUsers-getInstance with org.fcrepo.server.security.servletfilters.xmluserfile.TestFedoraUsers-testGetInstanceString
+Tue May 15 17:08:58 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.security.servletfilters.xmluserfile.TestFedoraUsers
+Tue May 15 17:08:58 UTC 2018: Found element on the queue
+Tue May 15 17:08:58 UTC 2018: Updating status
+Tue May 15 17:08:58 UTC 2018: Working
+Tue May 15 17:09:01 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.security.TestPolicyParser
+Tue May 15 17:09:01 UTC 2018: Setting lastTestMethodIndex: 39549
+Tue May 15 17:09:01 UTC 2018: Starting linking
+Tue May 15 17:09:01 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseBadRootValidationTrue
+Tue May 15 17:09:01 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseGoodRootGoodContentValidationFalse
+Tue May 15 17:09:01 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseMalformedXMLValidationFalse
+Tue May 15 17:09:01 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseGoodRootNoContentValidationFalse
+Tue May 15 17:09:02 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseGoodRootNoContentValidationTrue
+Tue May 15 17:09:02 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseGoodRootGoodContentValidationTrueWithCopy
+Tue May 15 17:09:02 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseBadRootValidationFalse
+Tue May 15 17:09:02 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseGoodRootQuestionableContentValidationFalse
+Tue May 15 17:09:02 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseMalformedXMLValidationTrue
+Tue May 15 17:09:03 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseGoodRootQuestionableContentValidationTrue
+Tue May 15 17:09:03 UTC 2018: Code found org.fcrepo.server.security.PolicyParser-parse with org.fcrepo.server.security.TestPolicyParser-testParseGoodRootGoodContentValidationTrue
+Tue May 15 17:09:03 UTC 2018: No link for: org.fcrepo.server.security.TestPolicyParser-testConstructWithBadSchema
+Tue May 15 17:09:03 UTC 2018: No link for: org.fcrepo.server.security.TestPolicyParser-testConstructWithValidSchema
+Tue May 15 17:09:03 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.security.TestPolicyParser
+Tue May 15 17:09:04 UTC 2018: Found element on the queue
+Tue May 15 17:09:04 UTC 2018: Updating status
+Tue May 15 17:09:04 UTC 2018: Working
+Tue May 15 17:09:06 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.messaging.JNDITest
+Tue May 15 17:09:06 UTC 2018: Setting lastTestMethodIndex: 39552
+Tue May 15 17:09:06 UTC 2018: Starting linking
+Tue May 15 17:09:06 UTC 2018: No link for: org.fcrepo.server.messaging.JNDITest-testEmbeddedConnectionFactory
+Tue May 15 17:09:07 UTC 2018: No link for: org.fcrepo.server.messaging.JNDITest-testConnectionFactory
+Tue May 15 17:09:07 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.messaging.JNDITest
+Tue May 15 17:09:07 UTC 2018: Found element on the queue
+Tue May 15 17:09:07 UTC 2018: Updating status
+Tue May 15 17:09:07 UTC 2018: Working
+Tue May 15 17:09:10 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.utilities.rebuild.SQLRebuilderTest
+Tue May 15 17:09:10 UTC 2018: Setting lastTestMethodIndex: 39554
+Tue May 15 17:09:10 UTC 2018: Starting linking
+Tue May 15 17:09:10 UTC 2018: No link for: org.fcrepo.server.utilities.rebuild.SQLRebuilderTest-testBadRebuild
+Tue May 15 17:09:10 UTC 2018: No link for: org.fcrepo.server.utilities.rebuild.SQLRebuilderTest-testGoodRebuild
+Tue May 15 17:09:10 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.utilities.rebuild.SQLRebuilderTest
+Tue May 15 17:09:11 UTC 2018: Found element on the queue
+Tue May 15 17:09:11 UTC 2018: Updating status
+Tue May 15 17:09:11 UTC 2018: Working
+Tue May 15 17:09:13 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.utilities.StreamUtilityTest
+Tue May 15 17:09:13 UTC 2018: Setting lastTestMethodIndex: 39556
+Tue May 15 17:09:13 UTC 2018: Starting linking
+Tue May 15 17:09:13 UTC 2018: Code found org.fcrepo.server.utilities.StreamUtility-enc with org.fcrepo.server.utilities.StreamUtilityTest-testEncoding
+Tue May 15 17:09:13 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.utilities.StreamUtilityTest
+Tue May 15 17:09:14 UTC 2018: Found element on the queue
+Tue May 15 17:09:14 UTC 2018: Updating status
+Tue May 15 17:09:14 UTC 2018: Working
+Tue May 15 17:09:16 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.utilities.PIDStreamIterableWrapperTest
+Tue May 15 17:09:16 UTC 2018: Setting lastTestMethodIndex: 39558
+Tue May 15 17:09:16 UTC 2018: Starting linking
+Tue May 15 17:09:16 UTC 2018: No link for: org.fcrepo.server.utilities.PIDStreamIterableWrapperTest-testSingleItem
+Tue May 15 17:09:16 UTC 2018: No link for: org.fcrepo.server.utilities.PIDStreamIterableWrapperTest-testXML
+Tue May 15 17:09:17 UTC 2018: No link for: org.fcrepo.server.utilities.PIDStreamIterableWrapperTest-testEmpty
+Tue May 15 17:09:17 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.utilities.PIDStreamIterableWrapperTest
+Tue May 15 17:09:17 UTC 2018: Found element on the queue
+Tue May 15 17:09:17 UTC 2018: Updating status
+Tue May 15 17:09:17 UTC 2018: Working
+Tue May 15 17:09:20 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.utilities.DCFieldsTest
+Tue May 15 17:09:20 UTC 2018: Setting lastTestMethodIndex: 39560
+Tue May 15 17:09:20 UTC 2018: Starting linking
+Tue May 15 17:09:20 UTC 2018: No link for: org.fcrepo.server.utilities.DCFieldsTest-testDCFieldsInputStream
+Tue May 15 17:09:20 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.utilities.DCFieldsTest
+Tue May 15 17:09:20 UTC 2018: Found element on the queue
+Tue May 15 17:09:20 UTC 2018: Updating status
+Tue May 15 17:09:20 UTC 2018: Working
+Tue May 15 17:09:23 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.utilities.StringUtilityTest
+Tue May 15 17:09:23 UTC 2018: Setting lastTestMethodIndex: 39562
+Tue May 15 17:09:23 UTC 2018: Starting linking
+Tue May 15 17:09:23 UTC 2018: Code found org.fcrepo.server.utilities.StringUtility-prettyPrint with org.fcrepo.server.utilities.StringUtilityTest-testPrettyPrint
+Tue May 15 17:09:23 UTC 2018: No link for: org.fcrepo.server.utilities.StringUtilityTest-testBytesToHexConversions
+Tue May 15 17:09:23 UTC 2018: No link for: org.fcrepo.server.utilities.StringUtilityTest-testSplitAndIndexToWriter
+Tue May 15 17:09:23 UTC 2018: No link for: org.fcrepo.server.utilities.StringUtilityTest-testSplitAndIndexToString
+Tue May 15 17:09:23 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.utilities.StringUtilityTest
+Tue May 15 17:09:24 UTC 2018: Found element on the queue
+Tue May 15 17:09:24 UTC 2018: Updating status
+Tue May 15 17:09:24 UTC 2018: Working
+Tue May 15 17:09:26 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.search.TestFieldSearchSQLImpl
+Tue May 15 17:09:26 UTC 2018: Setting lastTestMethodIndex: 39565
+Tue May 15 17:09:26 UTC 2018: Starting linking
+Tue May 15 17:09:26 UTC 2018: No link for: org.fcrepo.server.search.TestFieldSearchSQLImpl-dcNoDatesLongFields
+Tue May 15 17:09:26 UTC 2018: No link for: org.fcrepo.server.search.TestFieldSearchSQLImpl-dcDatesShortFields
+Tue May 15 17:09:26 UTC 2018: No link for: org.fcrepo.server.search.TestFieldSearchSQLImpl-dcDatesLongFields
+Tue May 15 17:09:27 UTC 2018: No link for: org.fcrepo.server.search.TestFieldSearchSQLImpl-noDC
+Tue May 15 17:09:27 UTC 2018: No link for: org.fcrepo.server.search.TestFieldSearchSQLImpl-dcNoDatesShortFields
+Tue May 15 17:09:27 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.search.TestFieldSearchSQLImpl
+Tue May 15 17:09:27 UTC 2018: Found element on the queue
+Tue May 15 17:09:27 UTC 2018: Updating status
+Tue May 15 17:09:27 UTC 2018: Working
+Tue May 15 17:09:30 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.rest.param.DateTimeParamTest
+Tue May 15 17:09:30 UTC 2018: Setting lastTestMethodIndex: 39567
+Tue May 15 17:09:30 UTC 2018: Starting linking
+Tue May 15 17:09:30 UTC 2018: Code found org.fcrepo.server.rest.param.DateTimeParam-getValue with org.fcrepo.server.rest.param.DateTimeParamTest-testGetValue
+Tue May 15 17:09:30 UTC 2018: Code found org.fcrepo.server.rest.param.DateTimeParam-getOriginalParam with org.fcrepo.server.rest.param.DateTimeParamTest-testGetOriginalParam
+Tue May 15 17:09:30 UTC 2018: Code found org.fcrepo.server.rest.param.DateTimeParam-toString with org.fcrepo.server.rest.param.DateTimeParamTest-testToString
+Tue May 15 17:09:30 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.rest.param.DateTimeParamTest
+Tue May 15 17:09:31 UTC 2018: Found element on the queue
+Tue May 15 17:09:31 UTC 2018: Updating status
+Tue May 15 17:09:31 UTC 2018: Working
+Tue May 15 17:09:33 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.management.ManagementModuleTest
+Tue May 15 17:09:33 UTC 2018: Setting lastTestMethodIndex: 39569
+Tue May 15 17:09:33 UTC 2018: Starting linking
+Tue May 15 17:09:33 UTC 2018: Code found org.fcrepo.server.management.ManagementModule-initModule with org.fcrepo.server.management.ManagementModuleTest-testInitModuleFailsWithoutUploadDirectory
+Tue May 15 17:09:33 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.management.ManagementModuleTest
+Tue May 15 17:09:34 UTC 2018: Found element on the queue
+Tue May 15 17:09:34 UTC 2018: Updating status
+Tue May 15 17:09:34 UTC 2018: Working
+Tue May 15 17:09:36 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest
+Tue May 15 17:09:36 UTC 2018: Setting lastTestMethodIndex: 39571
+Tue May 15 17:09:36 UTC 2018: Starting linking
+Tue May 15 17:09:36 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-getDatastreamSize with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testGetDatastreamSize
+Tue May 15 17:09:37 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-rebuildObject with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRebuildObject
+Tue May 15 17:09:37 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-listDatastreams with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testListDatastreams
+Tue May 15 17:09:37 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-auditObject with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testAuditObject
+Tue May 15 17:09:37 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-addDatastream with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testAddDatastreamWithHints
+Tue May 15 17:09:38 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-listObjects with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testListObjects
+Tue May 15 17:09:38 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-rebuildDatastream with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRebuildDatastream
+Tue May 15 17:09:38 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-addObject with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testAddObjectWithHints
+Tue May 15 17:09:38 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-auditDatastream with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testAuditDatastream
+Tue May 15 17:09:38 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-replaceDatastream with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceDatastreamWithHints
+Tue May 15 17:09:38 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorage-replaceObject with org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceObjectWithHints
+Tue May 15 17:09:39 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testAddNonExistingDatastream
+Tue May 15 17:09:39 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testAddNonExistingObject
+Tue May 15 17:09:39 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceNonExistingObject
+Tue May 15 17:09:39 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testAddExistingObject
+Tue May 15 17:09:39 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceExistingObjectSafely
+Tue May 15 17:09:39 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRemoveNonExistingDatastream
+Tue May 15 17:09:39 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRemoveExistingDatastream
+Tue May 15 17:09:40 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceExistingDatastream
+Tue May 15 17:09:40 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceExistingDatastreamSafely
+Tue May 15 17:09:40 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRetrieveExistingDatastream
+Tue May 15 17:09:40 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceNonExistingDatastream
+Tue May 15 17:09:40 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRemoveExistingObject
+Tue May 15 17:09:40 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRetrieveNonExistingDatastream
+Tue May 15 17:09:40 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRetrieveExistingObject
+Tue May 15 17:09:41 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRetrieveNonExistingObject
+Tue May 15 17:09:41 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceExistingObject
+Tue May 15 17:09:41 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceNonExistingDatastreamSafely
+Tue May 15 17:09:41 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testRemoveNonExistingObject
+Tue May 15 17:09:41 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testReplaceNonExistingObjectSafely
+Tue May 15 17:09:42 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest-testAddExistingDatastream
+Tue May 15 17:09:42 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.lowlevel.akubra.AkubraLowlevelStorageTest
+Tue May 15 17:09:42 UTC 2018: Found element on the queue
+Tue May 15 17:09:42 UTC 2018: Updating status
+Tue May 15 17:09:42 UTC 2018: Working
+Tue May 15 17:09:45 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest
+Tue May 15 17:09:45 UTC 2018: Setting lastTestMethodIndex: 39575
+Tue May 15 17:09:45 UTC 2018: Starting linking
+Tue May 15 17:09:45 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapper-getInternalPrefix with org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest-testGetInternalPrefixWithPattern
+Tue May 15 17:09:45 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapper-getExternalId with org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest-testGetExternalId
+Tue May 15 17:09:45 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapper-getInternalId with org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest-testGetInternalId
+Tue May 15 17:09:45 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapper-getInternalPrefix with org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest-testGetInternalPrefixNoPattern
+Tue May 15 17:09:46 UTC 2018: Code found org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapper-getInternalPrefix with org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest-testGetInternalPrefixNull
+Tue May 15 17:09:46 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest-testGoodPatterns
+Tue May 15 17:09:46 UTC 2018: No link for: org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest-testBadPatterns
+Tue May 15 17:09:46 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.lowlevel.akubra.HashPathIdMapperTest
+Tue May 15 17:09:46 UTC 2018: Found element on the queue
+Tue May 15 17:09:46 UTC 2018: Updating status
+Tue May 15 17:09:46 UTC 2018: Working
+Tue May 15 17:09:49 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestMETSFedoraExt1_0DODeserializer
+Tue May 15 17:09:49 UTC 2018: Setting lastTestMethodIndex: 39577
+Tue May 15 17:09:49 UTC 2018: Starting linking
+Tue May 15 17:09:49 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestMETSFedoraExt1_0DODeserializer-testConcurrentDeserialization
+Tue May 15 17:09:49 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestMETSFedoraExt1_0DODeserializer
+Tue May 15 17:09:49 UTC 2018: Found element on the queue
+Tue May 15 17:09:49 UTC 2018: Updating status
+Tue May 15 17:09:49 UTC 2018: Working
+Tue May 15 17:09:52 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestMETSFedoraExt1_0DOSerializer
+Tue May 15 17:09:52 UTC 2018: Setting lastTestMethodIndex: 39579
+Tue May 15 17:09:52 UTC 2018: Starting linking
+Tue May 15 17:09:52 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestMETSFedoraExt1_0DOSerializer-testOldXLinkNamespace
+Tue May 15 17:09:52 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestMETSFedoraExt1_0DOSerializer
+Tue May 15 17:09:52 UTC 2018: Found element on the queue
+Tue May 15 17:09:52 UTC 2018: Updating status
+Tue May 15 17:09:52 UTC 2018: Working
+Tue May 15 17:09:55 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestFOXML1_0DOSerializer
+Tue May 15 17:09:55 UTC 2018: Setting lastTestMethodIndex: 39581
+Tue May 15 17:09:55 UTC 2018: Starting linking
+Tue May 15 17:09:55 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestFOXML1_0DOSerializer
+Tue May 15 17:09:56 UTC 2018: Found element on the queue
+Tue May 15 17:09:56 UTC 2018: Updating status
+Tue May 15 17:09:56 UTC 2018: Working
+Tue May 15 17:09:58 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestFOXML1_1DODeserializer
+Tue May 15 17:09:58 UTC 2018: Setting lastTestMethodIndex: 39583
+Tue May 15 17:09:58 UTC 2018: Starting linking
+Tue May 15 17:09:58 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_1DODeserializer-testDeserializeWithoutAutoChecksum
+Tue May 15 17:09:58 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_1DODeserializer-testDeserializeWithAutoChecksum
+Tue May 15 17:09:59 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_1DODeserializer-testConcurrentDeserialization
+Tue May 15 17:09:59 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_1DODeserializer-testDeserializeSimpleCModelObject
+Tue May 15 17:09:59 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestFOXML1_1DODeserializer
+Tue May 15 17:09:59 UTC 2018: Found element on the queue
+Tue May 15 17:09:59 UTC 2018: Updating status
+Tue May 15 17:09:59 UTC 2018: Working
+Tue May 15 17:10:02 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestFOXML1_1DOSerializer
+Tue May 15 17:10:02 UTC 2018: Setting lastTestMethodIndex: 39585
+Tue May 15 17:10:02 UTC 2018: Starting linking
+Tue May 15 17:10:02 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_1DOSerializer-testVersionAttribute
+Tue May 15 17:10:02 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_1DOSerializer-testSerializeSimpleCModelObject
+Tue May 15 17:10:02 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestFOXML1_1DOSerializer
+Tue May 15 17:10:03 UTC 2018: Found element on the queue
+Tue May 15 17:10:03 UTC 2018: Updating status
+Tue May 15 17:10:03 UTC 2018: Working
+Tue May 15 17:10:05 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestMETSFedoraExt1_1DODeserializer
+Tue May 15 17:10:05 UTC 2018: Setting lastTestMethodIndex: 39587
+Tue May 15 17:10:05 UTC 2018: Starting linking
+Tue May 15 17:10:05 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestMETSFedoraExt1_1DODeserializer-testDeserializeSimpleCModelObject
+Tue May 15 17:10:05 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestMETSFedoraExt1_1DODeserializer
+Tue May 15 17:10:06 UTC 2018: Found element on the queue
+Tue May 15 17:10:06 UTC 2018: Updating status
+Tue May 15 17:10:06 UTC 2018: Working
+Tue May 15 17:10:09 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestDOTranslatorImpl
+Tue May 15 17:10:09 UTC 2018: Setting lastTestMethodIndex: 39590
+Tue May 15 17:10:09 UTC 2018: Starting linking
+Tue May 15 17:10:09 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestDOTranslatorImpl-testSerializeUnknownFormat
+Tue May 15 17:10:09 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestDOTranslatorImpl-testDeserializeKnownFormats
+Tue May 15 17:10:10 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestDOTranslatorImpl-testDeserializeUnknownFormat
+Tue May 15 17:10:10 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestDOTranslatorImpl-testSerializeKnownFormats
+Tue May 15 17:10:10 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestDOTranslatorImpl
+Tue May 15 17:10:10 UTC 2018: Found element on the queue
+Tue May 15 17:10:10 UTC 2018: Updating status
+Tue May 15 17:10:10 UTC 2018: Working
+Tue May 15 17:10:13 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestMETSFedoraExt1_1DOSerializer
+Tue May 15 17:10:13 UTC 2018: Setting lastTestMethodIndex: 39592
+Tue May 15 17:10:13 UTC 2018: Starting linking
+Tue May 15 17:10:13 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestMETSFedoraExt1_1DOSerializer-testSerializeSimpleCModelObject
+Tue May 15 17:10:13 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestMETSFedoraExt1_1DOSerializer-testVersionAttribute
+Tue May 15 17:10:13 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestMETSFedoraExt1_1DOSerializer-testXLinkNamespace
+Tue May 15 17:10:13 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestMETSFedoraExt1_1DOSerializer
+Tue May 15 17:10:14 UTC 2018: Found element on the queue
+Tue May 15 17:10:14 UTC 2018: Updating status
+Tue May 15 17:10:14 UTC 2018: Working
+Tue May 15 17:10:16 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestFOXML1_0DODeserializer
+Tue May 15 17:10:16 UTC 2018: Setting lastTestMethodIndex: 39594
+Tue May 15 17:10:16 UTC 2018: Starting linking
+Tue May 15 17:10:16 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_0DODeserializer-testTwoDisseminators
+Tue May 15 17:10:16 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_0DODeserializer-testDeserializeWithoutAutoChecksum
+Tue May 15 17:10:16 UTC 2018: No link for: org.fcrepo.server.storage.translation.TestFOXML1_0DODeserializer-testDeserializeWithAutoChecksum
+Tue May 15 17:10:17 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestFOXML1_0DODeserializer
+Tue May 15 17:10:17 UTC 2018: Found element on the queue
+Tue May 15 17:10:17 UTC 2018: Updating status
+Tue May 15 17:10:17 UTC 2018: Working
+Tue May 15 17:10:20 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestDOTranslationUtility
+Tue May 15 17:10:20 UTC 2018: Setting lastTestMethodIndex: 39596
+Tue May 15 17:10:20 UTC 2018: Starting linking
+Tue May 15 17:10:20 UTC 2018: Code found org.fcrepo.server.storage.translation.DOTranslationUtility-getAuditRecords with org.fcrepo.server.storage.translation.TestDOTranslationUtility-testGetAuditRecords
+Tue May 15 17:10:20 UTC 2018: Code found org.fcrepo.server.storage.translation.DOTranslationUtility-normalizeDSLocationURLs with org.fcrepo.server.storage.translation.TestDOTranslationUtility-testNormalizeDSLocationURLs
+Tue May 15 17:10:20 UTC 2018: Code found org.fcrepo.server.storage.translation.DOTranslationUtility-normalizeInlineXML with org.fcrepo.server.storage.translation.TestDOTranslationUtility-testNormalizeInlineXML
+Tue May 15 17:10:20 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.storage.translation.TestDOTranslationUtility
+Tue May 15 17:10:20 UTC 2018: Found element on the queue
+Tue May 15 17:10:20 UTC 2018: Updating status
+Tue May 15 17:10:20 UTC 2018: Working
+Tue May 15 17:10:23 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.validation.ValidationUtilityTest
+Tue May 15 17:10:23 UTC 2018: Setting lastTestMethodIndex: 39598
+Tue May 15 17:10:23 UTC 2018: Starting linking
+Tue May 15 17:10:23 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidUrls
+Tue May 15 17:10:23 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateRelsIntBad
+Tue May 15 17:10:23 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidatePolicyGood
+Tue May 15 17:10:23 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateReservedRelsExtBad
+Tue May 15 17:10:24 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateReservedRelsExtGood
+Tue May 15 17:10:24 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateRelsExtGood
+Tue May 15 17:10:24 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidatePolicyBad
+Tue May 15 17:10:24 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateReservedNone
+Tue May 15 17:10:24 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateReservedPolicyGood
+Tue May 15 17:10:24 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateReservedRelsIntBad
+Tue May 15 17:10:25 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateRelsExtBad
+Tue May 15 17:10:25 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateRelsIntGood
+Tue May 15 17:10:25 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateReservedRelsIntGood
+Tue May 15 17:10:25 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateReservedPolicyBad
+Tue May 15 17:10:25 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testInvalidUrls
+Tue May 15 17:10:25 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidateReservedAllGood
+Tue May 15 17:10:26 UTC 2018: No link for: org.fcrepo.server.validation.ValidationUtilityTest-testValidatePolicyParserNotSet
+Tue May 15 17:10:26 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.validation.ValidationUtilityTest
+Tue May 15 17:10:26 UTC 2018: Found element on the queue
+Tue May 15 17:10:26 UTC 2018: Updating status
+Tue May 15 17:10:26 UTC 2018: Working
+Tue May 15 17:10:29 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.validation.ecm.EcmTest
+Tue May 15 17:10:29 UTC 2018: Setting lastTestMethodIndex: 39601
+Tue May 15 17:10:29 UTC 2018: Starting linking
+Tue May 15 17:10:29 UTC 2018: No link for: org.fcrepo.server.validation.ecm.EcmTest-testEcm2
+Tue May 15 17:10:29 UTC 2018: No link for: org.fcrepo.server.validation.ecm.EcmTest-testEcm1
+Tue May 15 17:10:29 UTC 2018: No link for: org.fcrepo.server.validation.ecm.EcmTest-testEcm6
+Tue May 15 17:10:29 UTC 2018: No link for: org.fcrepo.server.validation.ecm.EcmTest-testEcm5
+Tue May 15 17:10:29 UTC 2018: No link for: org.fcrepo.server.validation.ecm.EcmTest-testEcm4
+Tue May 15 17:10:29 UTC 2018: No link for: org.fcrepo.server.validation.ecm.EcmTest-testEcm3
+Tue May 15 17:10:30 UTC 2018: No link for: org.fcrepo.server.validation.ecm.EcmTest-testEcm8
+Tue May 15 17:10:30 UTC 2018: No link for: org.fcrepo.server.validation.ecm.EcmTest-testEcm7
+Tue May 15 17:10:30 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.validation.ecm.EcmTest
+Tue May 15 17:10:30 UTC 2018: Found element on the queue
+Tue May 15 17:10:30 UTC 2018: Updating status
+Tue May 15 17:10:30 UTC 2018: Working
+Tue May 15 17:10:33 UTC 2018: Start fcrepo3__fcrepo test class org.fcrepo.server.validation.DOValidatorXMLSchemaTest
+Tue May 15 17:10:33 UTC 2018: Setting lastTestMethodIndex: 39604
+Tue May 15 17:10:33 UTC 2018: Starting linking
+Tue May 15 17:10:33 UTC 2018: No link for: org.fcrepo.server.validation.DOValidatorXMLSchemaTest-testFoxmlValidation
+Tue May 15 17:10:33 UTC 2018: No link for: org.fcrepo.server.validation.DOValidatorXMLSchemaTest-testAtomValidation
+Tue May 15 17:10:33 UTC 2018: No link for: org.fcrepo.server.validation.DOValidatorXMLSchemaTest-testMetsValidation
+Tue May 15 17:10:34 UTC 2018: Linking done for fcrepo3__fcrepo test class org.fcrepo.server.validation.DOValidatorXMLSchemaTest

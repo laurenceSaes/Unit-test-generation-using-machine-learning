@@ -1,0 +1,415 @@
+Tue May 15 17:57:34 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 17:57:34 UTC 2018: Starting
+Tue May 15 17:57:34 UTC 2018: Found element on the queue
+Tue May 15 17:57:34 UTC 2018: Updating status
+Tue May 15 17:57:34 UTC 2018: Working
+Tue May 15 17:57:34 UTC 2018: Create project parser
+Tue May 15 17:57:43 UTC 2018: Create slicer
+Tue May 15 17:57:46 UTC 2018: Create call graph
+Tue May 15 17:57:50 UTC 2018: Create point analysis
+Tue May 15 17:57:50 UTC 2018: Create call graph done
+Tue May 15 17:57:50 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.TestCompoundConfiguration
+Tue May 15 17:57:50 UTC 2018: Setting lastTestMethodIndex: 41102
+Tue May 15 17:57:50 UTC 2018: Starting linking
+Tue May 15 17:57:50 UTC 2018: No link for: org.apache.hadoop.hbase.TestCompoundConfiguration-testWithStringMap
+Tue May 15 17:57:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:50 UTC 2018: No link for: org.apache.hadoop.hbase.TestCompoundConfiguration-testWithIbwMap
+Tue May 15 17:57:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:50 UTC 2018: No link for: org.apache.hadoop.hbase.TestCompoundConfiguration-testBasicFunctionality
+Tue May 15 17:57:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:50 UTC 2018: No link for: org.apache.hadoop.hbase.TestCompoundConfiguration-testLaterConfigsOverrideEarlier
+Tue May 15 17:57:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestCompoundConfiguration-testPut
+Tue May 15 17:57:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestCompoundConfiguration-testWithConfig
+Tue May 15 17:57:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:51 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.TestCompoundConfiguration
+Tue May 15 17:57:51 UTC 2018: Found element on the queue
+Tue May 15 17:57:51 UTC 2018: Updating status
+Tue May 15 17:57:51 UTC 2018: Working
+Tue May 15 17:57:54 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.TestCellCodec
+Tue May 15 17:57:54 UTC 2018: Setting lastTestMethodIndex: 41104
+Tue May 15 17:57:54 UTC 2018: Starting linking
+Tue May 15 17:57:54 UTC 2018: No link for: org.apache.hadoop.hbase.codec.TestCellCodec-testEmptyWorks
+Tue May 15 17:57:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:54 UTC 2018: No link for: org.apache.hadoop.hbase.codec.TestCellCodec-testThree
+Tue May 15 17:57:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:54 UTC 2018: No link for: org.apache.hadoop.hbase.codec.TestCellCodec-testOne
+Tue May 15 17:57:54 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.TestCellCodec
+Tue May 15 17:57:55 UTC 2018: Found element on the queue
+Tue May 15 17:57:55 UTC 2018: Updating status
+Tue May 15 17:57:55 UTC 2018: Working
+Tue May 15 17:57:57 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.TestKeyValueCodec
+Tue May 15 17:57:57 UTC 2018: Setting lastTestMethodIndex: 41106
+Tue May 15 17:57:57 UTC 2018: Starting linking
+Tue May 15 17:57:57 UTC 2018: No link for: org.apache.hadoop.hbase.codec.TestKeyValueCodec-testEmptyWorks
+Tue May 15 17:57:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:58 UTC 2018: No link for: org.apache.hadoop.hbase.codec.TestKeyValueCodec-testThree
+Tue May 15 17:57:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:58 UTC 2018: No link for: org.apache.hadoop.hbase.codec.TestKeyValueCodec-testOne
+Tue May 15 17:57:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:57:58 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.TestKeyValueCodec
+Tue May 15 17:57:58 UTC 2018: Found element on the queue
+Tue May 15 17:57:58 UTC 2018: Updating status
+Tue May 15 17:57:58 UTC 2018: Working
+Tue May 15 17:58:01 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.TestKeyValue
+Tue May 15 17:58:01 UTC 2018: Setting lastTestMethodIndex: 41108
+Tue May 15 17:58:01 UTC 2018: Starting linking
+Tue May 15 17:58:01 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.TestKeyValue
+Tue May 15 17:58:01 UTC 2018: Found element on the queue
+Tue May 15 17:58:01 UTC 2018: Updating status
+Tue May 15 17:58:01 UTC 2018: Working
+Tue May 15 17:58:04 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.TestClassFinder
+Tue May 15 17:58:04 UTC 2018: Setting lastTestMethodIndex: 41110
+Tue May 15 17:58:04 UTC 2018: Starting linking
+Tue May 15 17:58:04 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByPathInDirs
+Tue May 15 17:58:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:04 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByClassInDirs
+Tue May 15 17:58:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:04 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderCanFindClassesInJars
+Tue May 15 17:58:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:04 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderCanFindClassesInDirs
+Tue May 15 17:58:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:05 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderHandlesNestedPackages
+Tue May 15 17:58:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:05 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByPathInJar
+Tue May 15 17:58:05 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByNameInJar
+Tue May 15 17:58:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:05 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByClassInJar
+Tue May 15 17:58:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:05 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderDefaultsToOwnPackage
+Tue May 15 17:58:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:05 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderHandlesConflicts
+Tue May 15 17:58:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:06 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByNameInDirs
+Tue May 15 17:58:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:06 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.TestClassFinder
+Tue May 15 17:58:06 UTC 2018: Found element on the queue
+Tue May 15 17:58:06 UTC 2018: Updating status
+Tue May 15 17:58:06 UTC 2018: Working
+Tue May 15 17:58:08 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestKeyLocker
+Tue May 15 17:58:08 UTC 2018: Setting lastTestMethodIndex: 41112
+Tue May 15 17:58:08 UTC 2018: Starting linking
+Tue May 15 17:58:08 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestKeyLocker-testLocker
+Tue May 15 17:58:09 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestKeyLocker
+Tue May 15 17:58:09 UTC 2018: Found element on the queue
+Tue May 15 17:58:09 UTC 2018: Updating status
+Tue May 15 17:58:09 UTC 2018: Working
+Tue May 15 17:58:12 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestCoprocessorClassLoader
+Tue May 15 17:58:12 UTC 2018: Setting lastTestMethodIndex: 41115
+Tue May 15 17:58:12 UTC 2018: Starting linking
+Tue May 15 17:58:12 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestCoprocessorClassLoader-testRelativeLibJarName
+Tue May 15 17:58:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:12 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestCoprocessorClassLoader-testCleanupOldJars
+Tue May 15 17:58:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:12 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestCoprocessorClassLoader-testLibJarName
+Tue May 15 17:58:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:12 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestCoprocessorClassLoader
+Tue May 15 17:58:13 UTC 2018: Found element on the queue
+Tue May 15 17:58:13 UTC 2018: Updating status
+Tue May 15 17:58:13 UTC 2018: Working
+Tue May 15 17:58:15 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestLoadTestKVGenerator
+Tue May 15 17:58:15 UTC 2018: Setting lastTestMethodIndex: 41117
+Tue May 15 17:58:15 UTC 2018: Starting linking
+Tue May 15 17:58:15 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestLoadTestKVGenerator-testVerification
+Tue May 15 17:58:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:15 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestLoadTestKVGenerator-testCorrectAndUniqueKeys
+Tue May 15 17:58:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:16 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestLoadTestKVGenerator-testValueLength
+Tue May 15 17:58:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:16 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestLoadTestKVGenerator
+Tue May 15 17:58:16 UTC 2018: Found element on the queue
+Tue May 15 17:58:16 UTC 2018: Updating status
+Tue May 15 17:58:16 UTC 2018: Working
+Tue May 15 17:58:19 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestShowProperties
+Tue May 15 17:58:19 UTC 2018: Setting lastTestMethodIndex: 41119
+Tue May 15 17:58:19 UTC 2018: Starting linking
+Tue May 15 17:58:19 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestShowProperties-testShowProperty
+Tue May 15 17:58:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:19 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestShowProperties
+Tue May 15 17:58:19 UTC 2018: Found element on the queue
+Tue May 15 17:58:19 UTC 2018: Updating status
+Tue May 15 17:58:19 UTC 2018: Working
+Tue May 15 17:58:22 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestDrainBarrier
+Tue May 15 17:58:22 UTC 2018: Setting lastTestMethodIndex: 41121
+Tue May 15 17:58:22 UTC 2018: Starting linking
+Tue May 15 17:58:22 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestDrainBarrier-testMultipleStopOnceAssert
+Tue May 15 17:58:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:22 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestDrainBarrier-testBeginEndStopWork
+Tue May 15 17:58:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:22 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestDrainBarrier-testUnmatchedEndAssert
+Tue May 15 17:58:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:22 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestDrainBarrier-testStopWithoutOpsDoesntBlock
+Tue May 15 17:58:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:22 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestDrainBarrier-testMultipleSloppyStopsHaveNoEffect
+Tue May 15 17:58:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:23 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestDrainBarrier-testStopIsBlockedByOps
+Tue May 15 17:58:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:23 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestDrainBarrier
+Tue May 15 17:58:23 UTC 2018: Found element on the queue
+Tue May 15 17:58:23 UTC 2018: Updating status
+Tue May 15 17:58:23 UTC 2018: Working
+Tue May 15 17:58:26 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestThreads
+Tue May 15 17:58:26 UTC 2018: Setting lastTestMethodIndex: 41123
+Tue May 15 17:58:26 UTC 2018: Starting linking
+Tue May 15 17:58:26 UTC 2018: Code found org.apache.hadoop.hbase.util.Threads-sleep with org.apache.hadoop.hbase.util.TestThreads-testSleepWithoutInterrupt
+Tue May 15 17:58:26 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestThreads
+Tue May 15 17:58:26 UTC 2018: Found element on the queue
+Tue May 15 17:58:26 UTC 2018: Updating status
+Tue May 15 17:58:26 UTC 2018: Working
+Tue May 15 17:58:29 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestBytes
+Tue May 15 17:58:29 UTC 2018: Setting lastTestMethodIndex: 41125
+Tue May 15 17:58:29 UTC 2018: Starting linking
+Tue May 15 17:58:29 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestBytes
+Tue May 15 17:58:29 UTC 2018: Found element on the queue
+Tue May 15 17:58:29 UTC 2018: Updating status
+Tue May 15 17:58:29 UTC 2018: Working
+Tue May 15 17:58:31 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestEnvironmentEdgeManager
+Tue May 15 17:58:31 UTC 2018: Setting lastTestMethodIndex: 41126
+Tue May 15 17:58:31 UTC 2018: Starting linking
+Tue May 15 17:58:31 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestEnvironmentEdgeManager-testCurrentTimeInMillis
+Tue May 15 17:58:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:32 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestEnvironmentEdgeManager-testManageSingleton
+Tue May 15 17:58:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:58:32 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestEnvironmentEdgeManager
+Tue May 15 17:58:32 UTC 2018: Found element on the queue
+Tue May 15 17:58:32 UTC 2018: Updating status
+Tue May 15 17:58:32 UTC 2018: Working
+Tue May 15 17:58:35 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestBase64
+Tue May 15 17:58:35 UTC 2018: Setting lastTestMethodIndex: 41128
+Tue May 15 17:58:35 UTC 2018: Starting linking
+Tue May 15 17:58:35 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestBase64
+Tue May 15 17:58:35 UTC 2018: Found element on the queue
+Tue May 15 17:58:35 UTC 2018: Updating status
+Tue May 15 17:58:35 UTC 2018: Working
+Tue May 15 17:58:38 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestDynamicClassLoader
+Tue May 15 17:58:38 UTC 2018: Setting lastTestMethodIndex: 41130
+Tue May 15 17:58:38 UTC 2018: Starting linking
+Tue May 15 17:58:38 UTC 2018: Code found org.apache.hadoop.hbase.util.DynamicClassLoader-loadClass with org.apache.hadoop.hbase.util.TestDynamicClassLoader-testLoadClassFromLocalPath
+Tue May 15 17:58:38 UTC 2018: Code found org.apache.hadoop.hbase.util.DynamicClassLoader-loadClass with org.apache.hadoop.hbase.util.TestDynamicClassLoader-testLoadClassFromAnotherPath
+Tue May 15 17:58:38 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.TestDynamicClassLoader
+Tue May 15 17:58:39 UTC 2018: Found element on the queue
+Tue May 15 17:58:39 UTC 2018: Updating status
+Tue May 15 17:58:39 UTC 2018: Working
+Tue May 15 17:58:39 UTC 2018: Create project parser
+Tue May 15 17:58:42 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.TestCompatibilitySingletonFactory
+Tue May 15 17:58:42 UTC 2018: Setting lastTestMethodIndex: 41132
+Tue May 15 17:58:42 UTC 2018: Starting linking
+Tue May 15 17:58:42 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.TestCompatibilitySingletonFactory
+Tue May 15 17:58:42 UTC 2018: Found element on the queue
+Tue May 15 17:58:42 UTC 2018: Updating status
+Tue May 15 17:58:42 UTC 2018: Working
+Tue May 15 17:58:45 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.rest.TestMetricsRESTSource
+Tue May 15 17:58:45 UTC 2018: Setting lastTestMethodIndex: 41134
+Tue May 15 17:58:45 UTC 2018: Starting linking
+Tue May 15 17:58:45 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.rest.TestMetricsRESTSource-testGetInstanceNoHadoopCompat
+Tue May 15 17:58:45 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:58:45 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.rest.TestMetricsRESTSource
+Tue May 15 17:58:46 UTC 2018: Found element on the queue
+Tue May 15 17:58:46 UTC 2018: Updating status
+Tue May 15 17:58:46 UTC 2018: Working
+Tue May 15 17:58:49 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory
+Tue May 15 17:58:49 UTC 2018: Setting lastTestMethodIndex: 41136
+Tue May 15 17:58:49 UTC 2018: Starting linking
+Tue May 15 17:58:49 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 17:58:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:58:49 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory
+Tue May 15 17:58:49 UTC 2018: Found element on the queue
+Tue May 15 17:58:49 UTC 2018: Updating status
+Tue May 15 17:58:49 UTC 2018: Working
+Tue May 15 17:58:52 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory
+Tue May 15 17:58:52 UTC 2018: Setting lastTestMethodIndex: 41138
+Tue May 15 17:58:52 UTC 2018: Starting linking
+Tue May 15 17:58:52 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 17:58:53 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:58:53 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory
+Tue May 15 17:58:53 UTC 2018: Found element on the queue
+Tue May 15 17:58:53 UTC 2018: Updating status
+Tue May 15 17:58:53 UTC 2018: Working
+Tue May 15 17:58:56 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource
+Tue May 15 17:58:56 UTC 2018: Setting lastTestMethodIndex: 41140
+Tue May 15 17:58:56 UTC 2018: Starting linking
+Tue May 15 17:58:56 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource-testGetInstanceNoHadoopCompat
+Tue May 15 17:58:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:58:56 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource
+Tue May 15 17:58:56 UTC 2018: Found element on the queue
+Tue May 15 17:58:56 UTC 2018: Updating status
+Tue May 15 17:58:56 UTC 2018: Working
+Tue May 15 17:58:59 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory
+Tue May 15 17:58:59 UTC 2018: Setting lastTestMethodIndex: 41142
+Tue May 15 17:58:59 UTC 2018: Starting linking
+Tue May 15 17:58:59 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 17:58:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:58:59 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory
+Tue May 15 17:59:00 UTC 2018: Found element on the queue
+Tue May 15 17:59:00 UTC 2018: Updating status
+Tue May 15 17:59:00 UTC 2018: Working
+Tue May 15 17:59:02 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory
+Tue May 15 17:59:02 UTC 2018: Setting lastTestMethodIndex: 41144
+Tue May 15 17:59:02 UTC 2018: Starting linking
+Tue May 15 17:59:02 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 17:59:02 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:59:02 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory
+Tue May 15 17:59:03 UTC 2018: Found element on the queue
+Tue May 15 17:59:03 UTC 2018: Updating status
+Tue May 15 17:59:03 UTC 2018: Working
+Tue May 15 17:59:03 UTC 2018: Create project parser
+Tue May 15 17:59:06 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.rest.TestRESTMetricsSourceImpl
+Tue May 15 17:59:06 UTC 2018: Setting lastTestMethodIndex: 41146
+Tue May 15 17:59:06 UTC 2018: Starting linking
+Tue May 15 17:59:06 UTC 2018: No link for: org.apache.hadoop.hbase.rest.TestRESTMetricsSourceImpl-ensureCompatRegistered
+Tue May 15 17:59:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:59:06 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.rest.TestRESTMetricsSourceImpl
+Tue May 15 17:59:06 UTC 2018: Found element on the queue
+Tue May 15 17:59:06 UTC 2018: Updating status
+Tue May 15 17:59:06 UTC 2018: Working
+Tue May 15 17:59:09 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.replication.regionserver.TestReplicationMetricsSourceImpl
+Tue May 15 17:59:09 UTC 2018: Setting lastTestMethodIndex: 41148
+Tue May 15 17:59:09 UTC 2018: Starting linking
+Tue May 15 17:59:09 UTC 2018: No link for: org.apache.hadoop.hbase.replication.regionserver.TestReplicationMetricsSourceImpl-testGetInstance
+Tue May 15 17:59:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:59:09 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.replication.regionserver.TestReplicationMetricsSourceImpl
+Tue May 15 17:59:10 UTC 2018: Found element on the queue
+Tue May 15 17:59:10 UTC 2018: Updating status
+Tue May 15 17:59:10 UTC 2018: Working
+Tue May 15 17:59:12 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl
+Tue May 15 17:59:12 UTC 2018: Setting lastTestMethodIndex: 41149
+Tue May 15 17:59:12 UTC 2018: Starting linking
+Tue May 15 17:59:12 UTC 2018: Code found org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl-createThriftOneSource with org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl-testCreateThriftOneSource
+Tue May 15 17:59:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:59:12 UTC 2018: Code found org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl-createThriftTwoSource with org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl-testCreateThriftTwoSource
+Tue May 15 17:59:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:59:12 UTC 2018: No link for: org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl-testCompatabilityRegistered
+Tue May 15 17:59:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:59:13 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl
+Tue May 15 17:59:13 UTC 2018: Found element on the queue
+Tue May 15 17:59:13 UTC 2018: Updating status
+Tue May 15 17:59:13 UTC 2018: Working
+Tue May 15 17:59:13 UTC 2018: Create project parser
+Tue May 15 17:59:17 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.keyvalue.TestKeyValueTool
+Tue May 15 17:59:17 UTC 2018: Setting lastTestMethodIndex: 41152
+Tue May 15 17:59:17 UTC 2018: Starting linking
+Tue May 15 17:59:17 UTC 2018: No link for: org.apache.hadoop.hbase.codec.keyvalue.TestKeyValueTool-testRoundTripToBytes
+Tue May 15 17:59:17 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.keyvalue.TestKeyValueTool
+Tue May 15 17:59:18 UTC 2018: Found element on the queue
+Tue May 15 17:59:18 UTC 2018: Updating status
+Tue May 15 17:59:18 UTC 2018: Working
+Tue May 15 17:59:20 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.column.TestColumnBuilder
+Tue May 15 17:59:20 UTC 2018: Setting lastTestMethodIndex: 41154
+Tue May 15 17:59:20 UTC 2018: Starting linking
+Tue May 15 17:59:20 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.column.TestColumnBuilder-testReaderRoundTrip
+Tue May 15 17:59:20 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.column.TestColumnBuilder
+Tue May 15 17:59:21 UTC 2018: Found element on the queue
+Tue May 15 17:59:21 UTC 2018: Updating status
+Tue May 15 17:59:21 UTC 2018: Working
+Tue May 15 17:59:23 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.timestamp.TestTimestampEncoder
+Tue May 15 17:59:23 UTC 2018: Setting lastTestMethodIndex: 41156
+Tue May 15 17:59:23 UTC 2018: Starting linking
+Tue May 15 17:59:23 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.timestamp.TestTimestampEncoder-testReaderMinimum
+Tue May 15 17:59:23 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.timestamp.TestTimestampEncoder-testReaderRoundTrip
+Tue May 15 17:59:23 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.timestamp.TestTimestampEncoder-testCompressorMinimum
+Tue May 15 17:59:24 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.timestamp.TestTimestampEncoder-testCompressorRoundTrip
+Tue May 15 17:59:24 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.timestamp.TestTimestampEncoder
+Tue May 15 17:59:24 UTC 2018: Found element on the queue
+Tue May 15 17:59:24 UTC 2018: Updating status
+Tue May 15 17:59:24 UTC 2018: Working
+Tue May 15 17:59:27 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.row.TestRowEncoder
+Tue May 15 17:59:27 UTC 2018: Setting lastTestMethodIndex: 41158
+Tue May 15 17:59:27 UTC 2018: Starting linking
+Tue May 15 17:59:27 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestRowEncoder-testEncoderOutput
+Tue May 15 17:59:27 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestRowEncoder-testForwardScanner
+Tue May 15 17:59:27 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestRowEncoder-testReverseScannerWithJitter
+Tue May 15 17:59:27 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestRowEncoder-testReverseScanner
+Tue May 15 17:59:27 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestRowEncoder-testIndividualBlockMetaAssertions
+Tue May 15 17:59:27 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.row.TestRowEncoder
+Tue May 15 17:59:28 UTC 2018: Found element on the queue
+Tue May 15 17:59:28 UTC 2018: Updating status
+Tue May 15 17:59:28 UTC 2018: Working
+Tue May 15 17:59:30 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.row.TestPrefixTreeSearcher
+Tue May 15 17:59:30 UTC 2018: Setting lastTestMethodIndex: 41160
+Tue May 15 17:59:30 UTC 2018: Starting linking
+Tue May 15 17:59:30 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestPrefixTreeSearcher-testScanBackwards
+Tue May 15 17:59:31 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestPrefixTreeSearcher-testScanForwards
+Tue May 15 17:59:31 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestPrefixTreeSearcher-testRandomSeekHits
+Tue May 15 17:59:31 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestPrefixTreeSearcher-testRandomSeekIndividualAssertions
+Tue May 15 17:59:31 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.row.TestPrefixTreeSearcher-testRandomSeekMisses
+Tue May 15 17:59:31 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.row.TestPrefixTreeSearcher
+Tue May 15 17:59:32 UTC 2018: Found element on the queue
+Tue May 15 17:59:32 UTC 2018: Updating status
+Tue May 15 17:59:32 UTC 2018: Working
+Tue May 15 17:59:34 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.builder.TestTokenizer
+Tue May 15 17:59:34 UTC 2018: Setting lastTestMethodIndex: 41162
+Tue May 15 17:59:34 UTC 2018: Starting linking
+Tue May 15 17:59:34 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTokenizer-testSearching
+Tue May 15 17:59:34 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTokenizer-testReaderRoundTrip
+Tue May 15 17:59:34 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.builder.TestTokenizer
+Tue May 15 17:59:35 UTC 2018: Found element on the queue
+Tue May 15 17:59:35 UTC 2018: Updating status
+Tue May 15 17:59:35 UTC 2018: Working
+Tue May 15 17:59:38 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth
+Tue May 15 17:59:38 UTC 2018: Setting lastTestMethodIndex: 41164
+Tue May 15 17:59:38 UTC 2018: Starting linking
+Tue May 15 17:59:38 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth-testSplitDistantAncestor
+Tue May 15 17:59:38 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth-testEmptyRootPlusNub
+Tue May 15 17:59:38 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth-testSingleNode
+Tue May 15 17:59:38 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth-testRootAsNub
+Tue May 15 17:59:38 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth-testSimpleBranch
+Tue May 15 17:59:38 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth-testEmptyRoot
+Tue May 15 17:59:39 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth-testRootAsNubPlusNub
+Tue May 15 17:59:39 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.builder.TestTreeDepth
+Tue May 15 17:59:39 UTC 2018: Found element on the queue
+Tue May 15 17:59:39 UTC 2018: Updating status
+Tue May 15 17:59:39 UTC 2018: Working
+Tue May 15 17:59:42 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.blockmeta.TestBlockMeta
+Tue May 15 17:59:42 UTC 2018: Setting lastTestMethodIndex: 41166
+Tue May 15 17:59:42 UTC 2018: Starting linking
+Tue May 15 17:59:42 UTC 2018: No link for: org.apache.hadoop.hbase.codec.prefixtree.blockmeta.TestBlockMeta-testStreamSerialization
+Tue May 15 17:59:42 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.codec.prefixtree.blockmeta.TestBlockMeta
+Tue May 15 17:59:42 UTC 2018: Found element on the queue
+Tue May 15 17:59:42 UTC 2018: Updating status
+Tue May 15 17:59:42 UTC 2018: Working
+Tue May 15 17:59:45 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.vint.TestVIntTool
+Tue May 15 17:59:45 UTC 2018: Setting lastTestMethodIndex: 41168
+Tue May 15 17:59:45 UTC 2018: Starting linking
+Tue May 15 17:59:45 UTC 2018: Code found org.apache.hadoop.hbase.util.vint.UVIntTool-numBytes with org.apache.hadoop.hbase.util.vint.TestVIntTool-testNumBytes
+Tue May 15 17:59:45 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVIntTool-testRoundTrips
+Tue May 15 17:59:45 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVIntTool-testWriteBytes
+Tue May 15 17:59:46 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVIntTool-testToBytes
+Tue May 15 17:59:46 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVIntTool-testInputStreams
+Tue May 15 17:59:46 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVIntTool-testFromBytes
+Tue May 15 17:59:46 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.vint.TestVIntTool
+Tue May 15 17:59:47 UTC 2018: Found element on the queue
+Tue May 15 17:59:47 UTC 2018: Updating status
+Tue May 15 17:59:47 UTC 2018: Working
+Tue May 15 17:59:49 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.vint.TestFIntTool
+Tue May 15 17:59:49 UTC 2018: Setting lastTestMethodIndex: 41170
+Tue May 15 17:59:49 UTC 2018: Starting linking
+Tue May 15 17:59:49 UTC 2018: Code found org.apache.hadoop.hbase.util.vint.UFIntTool-getBytes with org.apache.hadoop.hbase.util.vint.TestFIntTool-testGetBytes
+Tue May 15 17:59:49 UTC 2018: Code found org.apache.hadoop.hbase.util.vint.UFIntTool-fromBytes with org.apache.hadoop.hbase.util.vint.TestFIntTool-testFromBytes
+Tue May 15 17:59:49 UTC 2018: Code found org.apache.hadoop.hbase.util.vint.UFIntTool-maxValueForNumBytes with org.apache.hadoop.hbase.util.vint.TestFIntTool-testMaxValueForNumBytes
+Tue May 15 17:59:49 UTC 2018: Code found org.apache.hadoop.hbase.util.vint.UFIntTool-numBytes with org.apache.hadoop.hbase.util.vint.TestFIntTool-testNumBytes
+Tue May 15 17:59:50 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestFIntTool-testLeadingZeros
+Tue May 15 17:59:50 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestFIntTool-testRoundTrips
+Tue May 15 17:59:50 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestFIntTool-testWriteBytes
+Tue May 15 17:59:50 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.vint.TestFIntTool
+Tue May 15 17:59:51 UTC 2018: Found element on the queue
+Tue May 15 17:59:51 UTC 2018: Updating status
+Tue May 15 17:59:51 UTC 2018: Working
+Tue May 15 17:59:53 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.vint.TestVLongTool
+Tue May 15 17:59:53 UTC 2018: Setting lastTestMethodIndex: 41172
+Tue May 15 17:59:53 UTC 2018: Starting linking
+Tue May 15 17:59:53 UTC 2018: Code found org.apache.hadoop.hbase.util.vint.UVLongTool-numBytes with org.apache.hadoop.hbase.util.vint.TestVLongTool-testNumBytes
+Tue May 15 17:59:53 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVLongTool-testRoundTrips
+Tue May 15 17:59:53 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVLongTool-testToBytes
+Tue May 15 17:59:53 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVLongTool-testInputStreams
+Tue May 15 17:59:54 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVLongTool-testFromBytes
+Tue May 15 17:59:54 UTC 2018: No link for: org.apache.hadoop.hbase.util.vint.TestVLongTool-testFromBytesOffset
+Tue May 15 17:59:54 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.vint.TestVLongTool
+Tue May 15 17:59:54 UTC 2018: Found element on the queue
+Tue May 15 17:59:54 UTC 2018: Updating status
+Tue May 15 17:59:54 UTC 2018: Working
+Tue May 15 17:59:57 UTC 2018: Start francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.bytes.TestByteRange
+Tue May 15 17:59:57 UTC 2018: Setting lastTestMethodIndex: 41175
+Tue May 15 17:59:57 UTC 2018: Starting linking
+Tue May 15 17:59:57 UTC 2018: No link for: org.apache.hadoop.hbase.util.bytes.TestByteRange-testConstructor
+Tue May 15 17:59:57 UTC 2018: Linking done for francisliu__hbase_namespace test class org.apache.hadoop.hbase.util.bytes.TestByteRange

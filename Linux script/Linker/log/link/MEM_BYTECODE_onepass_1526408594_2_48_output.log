@@ -1,0 +1,407 @@
+Tue May 15 23:48:34 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 23:48:35 UTC 2018: Starting
+Tue May 15 23:48:35 UTC 2018: Found element on the queue
+Tue May 15 23:48:35 UTC 2018: Updating status
+Tue May 15 23:48:35 UTC 2018: Working
+Tue May 15 23:48:35 UTC 2018: Create project parser
+Tue May 15 23:48:40 UTC 2018: Create slicer
+Tue May 15 23:48:42 UTC 2018: Create call graph
+Tue May 15 23:48:46 UTC 2018: Create point analysis
+Tue May 15 23:48:46 UTC 2018: Create call graph done
+Tue May 15 23:48:46 UTC 2018: Start jleren__cipango test class org.cipango.annotations.SipApplicationKeyAnnotationHandlerTest
+Tue May 15 23:48:46 UTC 2018: Setting lastTestMethodIndex: 51753
+Tue May 15 23:48:46 UTC 2018: Starting linking
+Tue May 15 23:48:46 UTC 2018: No link for: org.cipango.annotations.SipApplicationKeyAnnotationHandlerTest-testBadReturnType
+Tue May 15 23:48:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:48:46 UTC 2018: No link for: org.cipango.annotations.SipApplicationKeyAnnotationHandlerTest-testApplicationKey
+Tue May 15 23:48:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:48:46 UTC 2018: No link for: org.cipango.annotations.SipApplicationKeyAnnotationHandlerTest-testNotPublic
+Tue May 15 23:48:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:48:47 UTC 2018: No link for: org.cipango.annotations.SipApplicationKeyAnnotationHandlerTest-testBadArgument
+Tue May 15 23:48:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:48:47 UTC 2018: Linking done for jleren__cipango test class org.cipango.annotations.SipApplicationKeyAnnotationHandlerTest
+Tue May 15 23:48:47 UTC 2018: Found element on the queue
+Tue May 15 23:48:47 UTC 2018: Updating status
+Tue May 15 23:48:47 UTC 2018: Working
+Tue May 15 23:48:50 UTC 2018: Start jleren__cipango test class org.cipango.annotations.SipServletAnnotationHandlerTest
+Tue May 15 23:48:50 UTC 2018: Setting lastTestMethodIndex: 51756
+Tue May 15 23:48:50 UTC 2018: Starting linking
+Tue May 15 23:48:50 UTC 2018: No link for: org.cipango.annotations.SipServletAnnotationHandlerTest-testAnnotedServlet
+Tue May 15 23:48:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:48:50 UTC 2018: Linking done for jleren__cipango test class org.cipango.annotations.SipServletAnnotationHandlerTest
+Tue May 15 23:48:51 UTC 2018: Found element on the queue
+Tue May 15 23:48:51 UTC 2018: Updating status
+Tue May 15 23:48:51 UTC 2018: Working
+Tue May 15 23:48:51 UTC 2018: Create project parser
+Tue May 15 23:48:54 UTC 2018: Start jleren__cipango test class org.cipango.dar.DARConfigurationTest
+Tue May 15 23:48:54 UTC 2018: Setting lastTestMethodIndex: 51758
+Tue May 15 23:48:54 UTC 2018: Starting linking
+Tue May 15 23:48:54 UTC 2018: No link for: org.cipango.dar.DARConfigurationTest-testConfig
+Tue May 15 23:48:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:48:54 UTC 2018: Linking done for jleren__cipango test class org.cipango.dar.DARConfigurationTest
+Tue May 15 23:48:54 UTC 2018: Found element on the queue
+Tue May 15 23:48:54 UTC 2018: Updating status
+Tue May 15 23:48:54 UTC 2018: Working
+Tue May 15 23:48:54 UTC 2018: Create project parser
+Tue May 15 23:48:59 UTC 2018: Start jleren__cipango test class org.cipango.diameter.node.ApplicationIdTest
+Tue May 15 23:48:59 UTC 2018: Setting lastTestMethodIndex: 51761
+Tue May 15 23:48:59 UTC 2018: Starting linking
+Tue May 15 23:48:59 UTC 2018: Code found org.cipango.diameter.ApplicationId-ofAVP with org.cipango.diameter.node.ApplicationIdTest-testOfAvp
+Tue May 15 23:48:59 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:48:59 UTC 2018: No link for: org.cipango.diameter.node.ApplicationIdTest-test2
+Tue May 15 23:48:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:48:59 UTC 2018: Linking done for jleren__cipango test class org.cipango.diameter.node.ApplicationIdTest
+Tue May 15 23:49:00 UTC 2018: Found element on the queue
+Tue May 15 23:49:00 UTC 2018: Updating status
+Tue May 15 23:49:00 UTC 2018: Working
+Tue May 15 23:49:02 UTC 2018: Start jleren__cipango test class org.cipango.diameter.io.TestMessageCodec
+Tue May 15 23:49:02 UTC 2018: Setting lastTestMethodIndex: 51764
+Tue May 15 23:49:02 UTC 2018: Starting linking
+Tue May 15 23:49:02 UTC 2018: Code found org.cipango.diameter.io.MessageCodec-decode with org.cipango.diameter.io.TestMessageCodec-testDecodeSAR
+Tue May 15 23:49:03 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:49:03 UTC 2018: Code found org.cipango.diameter.io.MessageCodec-decode with org.cipango.diameter.io.TestMessageCodec-testDecodeLIA
+Tue May 15 23:49:03 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:49:03 UTC 2018: Code found org.cipango.diameter.io.MessageCodec-encode with org.cipango.diameter.io.TestMessageCodec-testEncodeCEA
+Tue May 15 23:49:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:49:04 UTC 2018: Code found org.cipango.diameter.io.MessageCodec-encode with org.cipango.diameter.io.TestMessageCodec-testEncodeSmallBuffer
+Tue May 15 23:49:04 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:49:04 UTC 2018: Linking done for jleren__cipango test class org.cipango.diameter.io.TestMessageCodec
+Tue May 15 23:49:05 UTC 2018: Found element on the queue
+Tue May 15 23:49:05 UTC 2018: Updating status
+Tue May 15 23:49:05 UTC 2018: Working
+Tue May 15 23:49:07 UTC 2018: Start jleren__cipango test class org.cipango.diameter.io.DataFormatTest
+Tue May 15 23:49:07 UTC 2018: Setting lastTestMethodIndex: 51766
+Tue May 15 23:49:07 UTC 2018: Starting linking
+Tue May 15 23:49:07 UTC 2018: No link for: org.cipango.diameter.io.DataFormatTest-testAddress
+Tue May 15 23:49:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:07 UTC 2018: No link for: org.cipango.diameter.io.DataFormatTest-testUtf8String
+Tue May 15 23:49:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:08 UTC 2018: No link for: org.cipango.diameter.io.DataFormatTest-testDate
+Tue May 15 23:49:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:08 UTC 2018: No link for: org.cipango.diameter.io.DataFormatTest-testOctetString
+Tue May 15 23:49:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:08 UTC 2018: No link for: org.cipango.diameter.io.DataFormatTest-testUnsigned32
+Tue May 15 23:49:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:09 UTC 2018: Linking done for jleren__cipango test class org.cipango.diameter.io.DataFormatTest
+Tue May 15 23:49:09 UTC 2018: Found element on the queue
+Tue May 15 23:49:09 UTC 2018: Updating status
+Tue May 15 23:49:09 UTC 2018: Working
+Tue May 15 23:49:11 UTC 2018: Start jleren__cipango test class org.cipango.diameter.util.AAAUriTest
+Tue May 15 23:49:12 UTC 2018: Setting lastTestMethodIndex: 51769
+Tue May 15 23:49:12 UTC 2018: Starting linking
+Tue May 15 23:49:12 UTC 2018: No link for: org.cipango.diameter.util.AAAUriTest-testParameters
+Tue May 15 23:49:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:12 UTC 2018: No link for: org.cipango.diameter.util.AAAUriTest-testParse
+Tue May 15 23:49:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:12 UTC 2018: Linking done for jleren__cipango test class org.cipango.diameter.util.AAAUriTest
+Tue May 15 23:49:13 UTC 2018: Found element on the queue
+Tue May 15 23:49:13 UTC 2018: Updating status
+Tue May 15 23:49:13 UTC 2018: Working
+Tue May 15 23:49:15 UTC 2018: Start jleren__cipango test class org.cipango.diameter.io.CodecTest
+Tue May 15 23:49:15 UTC 2018: Setting lastTestMethodIndex: 51771
+Tue May 15 23:49:15 UTC 2018: Starting linking
+Tue May 15 23:49:15 UTC 2018: No link for: org.cipango.diameter.io.CodecTest-testSize
+Tue May 15 23:49:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:15 UTC 2018: Linking done for jleren__cipango test class org.cipango.diameter.io.CodecTest
+Tue May 15 23:49:16 UTC 2018: Found element on the queue
+Tue May 15 23:49:16 UTC 2018: Updating status
+Tue May 15 23:49:16 UTC 2018: Working
+Tue May 15 23:49:18 UTC 2018: Start jleren__cipango test class org.cipango.diameter.io.AVPCodecTest
+Tue May 15 23:49:18 UTC 2018: Setting lastTestMethodIndex: 51773
+Tue May 15 23:49:18 UTC 2018: Starting linking
+Tue May 15 23:49:18 UTC 2018: No link for: org.cipango.diameter.io.AVPCodecTest-testAVPCodec
+Tue May 15 23:49:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:19 UTC 2018: No link for: org.cipango.diameter.io.AVPCodecTest-testPadding
+Tue May 15 23:49:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:19 UTC 2018: Linking done for jleren__cipango test class org.cipango.diameter.io.AVPCodecTest
+Tue May 15 23:49:20 UTC 2018: Found element on the queue
+Tue May 15 23:49:20 UTC 2018: Updating status
+Tue May 15 23:49:20 UTC 2018: Working
+Tue May 15 23:49:20 UTC 2018: Create project parser
+Tue May 15 23:49:26 UTC 2018: Start jleren__cipango test class org.cipango.sip.security.AuthenticateTest
+Tue May 15 23:49:26 UTC 2018: Setting lastTestMethodIndex: 51777
+Tue May 15 23:49:26 UTC 2018: Starting linking
+Tue May 15 23:49:26 UTC 2018: Code found org.cipango.sip.security.Authenticate-toString with org.cipango.sip.security.AuthenticateTest-testToString
+Tue May 15 23:49:26 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:49:26 UTC 2018: No link for: org.cipango.sip.security.AuthenticateTest-testUnknowmParam
+Tue May 15 23:49:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:27 UTC 2018: No link for: org.cipango.sip.security.AuthenticateTest-testParameters
+Tue May 15 23:49:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:27 UTC 2018: No link for: org.cipango.sip.security.AuthenticateTest-testNoQuore
+Tue May 15 23:49:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:27 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.security.AuthenticateTest
+Tue May 15 23:49:28 UTC 2018: Found element on the queue
+Tue May 15 23:49:28 UTC 2018: Updating status
+Tue May 15 23:49:28 UTC 2018: Working
+Tue May 15 23:49:30 UTC 2018: Start jleren__cipango test class org.cipango.sip.security.AuthorizationTest
+Tue May 15 23:49:30 UTC 2018: Setting lastTestMethodIndex: 51781
+Tue May 15 23:49:30 UTC 2018: Starting linking
+Tue May 15 23:49:30 UTC 2018: Code found org.cipango.sip.security.Authorization-toString with org.cipango.sip.security.AuthorizationTest-testToString
+Tue May 15 23:49:31 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:49:31 UTC 2018: No link for: org.cipango.sip.security.AuthorizationTest-testDigestAuthenticator
+Tue May 15 23:49:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:31 UTC 2018: No link for: org.cipango.sip.security.AuthorizationTest-testGetParameters
+Tue May 15 23:49:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:32 UTC 2018: No link for: org.cipango.sip.security.AuthorizationTest-testGenerateResponse
+Tue May 15 23:49:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:32 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.security.AuthorizationTest
+Tue May 15 23:49:33 UTC 2018: Found element on the queue
+Tue May 15 23:49:33 UTC 2018: Updating status
+Tue May 15 23:49:33 UTC 2018: Working
+Tue May 15 23:49:35 UTC 2018: Start jleren__cipango test class org.cipango.util.TimerQueueTest
+Tue May 15 23:49:35 UTC 2018: Setting lastTestMethodIndex: 51783
+Tue May 15 23:49:35 UTC 2018: Starting linking
+Tue May 15 23:49:35 UTC 2018: Code found org.cipango.util.TimerQueue-remove with org.cipango.util.TimerQueueTest-testRemove
+Tue May 15 23:49:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:49:35 UTC 2018: No link for: org.cipango.util.TimerQueueTest-testFailed
+Tue May 15 23:49:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:36 UTC 2018: No link for: org.cipango.util.TimerQueueTest-testReschedule
+Tue May 15 23:49:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:36 UTC 2018: No link for: org.cipango.util.TimerQueueTest-testPriority
+Tue May 15 23:49:36 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:36 UTC 2018: Linking done for jleren__cipango test class org.cipango.util.TimerQueueTest
+Tue May 15 23:49:37 UTC 2018: Found element on the queue
+Tue May 15 23:49:37 UTC 2018: Updating status
+Tue May 15 23:49:37 UTC 2018: Working
+Tue May 15 23:49:40 UTC 2018: Start jleren__cipango test class org.cipango.sip.ParameterableTest
+Tue May 15 23:49:40 UTC 2018: Setting lastTestMethodIndex: 51786
+Tue May 15 23:49:40 UTC 2018: Starting linking
+Tue May 15 23:49:40 UTC 2018: No link for: org.cipango.sip.ParameterableTest-testString
+Tue May 15 23:49:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:40 UTC 2018: No link for: org.cipango.sip.ParameterableTest-testParse
+Tue May 15 23:49:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:41 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.ParameterableTest
+Tue May 15 23:49:41 UTC 2018: Found element on the queue
+Tue May 15 23:49:41 UTC 2018: Updating status
+Tue May 15 23:49:41 UTC 2018: Working
+Tue May 15 23:49:44 UTC 2018: Start jleren__cipango test class org.cipango.server.TreeTest
+Tue May 15 23:49:44 UTC 2018: Setting lastTestMethodIndex: 51789
+Tue May 15 23:49:44 UTC 2018: Starting linking
+Tue May 15 23:49:44 UTC 2018: Linking done for jleren__cipango test class org.cipango.server.TreeTest
+Tue May 15 23:49:45 UTC 2018: Found element on the queue
+Tue May 15 23:49:45 UTC 2018: Updating status
+Tue May 15 23:49:45 UTC 2018: Working
+Tue May 15 23:49:47 UTC 2018: Start jleren__cipango test class org.cipango.xml.TestListener
+Tue May 15 23:49:47 UTC 2018: Setting lastTestMethodIndex: 51792
+Tue May 15 23:49:47 UTC 2018: Starting linking
+Tue May 15 23:49:47 UTC 2018: Linking done for jleren__cipango test class org.cipango.xml.TestListener
+Tue May 15 23:49:48 UTC 2018: Found element on the queue
+Tue May 15 23:49:48 UTC 2018: Updating status
+Tue May 15 23:49:48 UTC 2018: Working
+Tue May 15 23:49:50 UTC 2018: Start jleren__cipango test class org.cipango.server.ProxyTest
+Tue May 15 23:49:50 UTC 2018: Setting lastTestMethodIndex: 51795
+Tue May 15 23:49:50 UTC 2018: Starting linking
+Tue May 15 23:49:50 UTC 2018: Linking done for jleren__cipango test class org.cipango.server.ProxyTest
+Tue May 15 23:49:51 UTC 2018: Found element on the queue
+Tue May 15 23:49:51 UTC 2018: Updating status
+Tue May 15 23:49:51 UTC 2018: Working
+Tue May 15 23:49:53 UTC 2018: Start jleren__cipango test class org.cipango.util.LazyMapTest
+Tue May 15 23:49:53 UTC 2018: Setting lastTestMethodIndex: 51797
+Tue May 15 23:49:53 UTC 2018: Starting linking
+Tue May 15 23:49:53 UTC 2018: No link for: org.cipango.util.LazyMapTest-testMap
+Tue May 15 23:49:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:53 UTC 2018: Linking done for jleren__cipango test class org.cipango.util.LazyMapTest
+Tue May 15 23:49:54 UTC 2018: Found element on the queue
+Tue May 15 23:49:54 UTC 2018: Updating status
+Tue May 15 23:49:54 UTC 2018: Working
+Tue May 15 23:49:57 UTC 2018: Start jleren__cipango test class org.cipango.server.IDTest
+Tue May 15 23:49:57 UTC 2018: Setting lastTestMethodIndex: 51800
+Tue May 15 23:49:57 UTC 2018: Starting linking
+Tue May 15 23:49:57 UTC 2018: No link for: org.cipango.server.IDTest-testCallId
+Tue May 15 23:49:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:49:57 UTC 2018: Linking done for jleren__cipango test class org.cipango.server.IDTest
+Tue May 15 23:49:58 UTC 2018: Found element on the queue
+Tue May 15 23:49:58 UTC 2018: Updating status
+Tue May 15 23:49:58 UTC 2018: Working
+Tue May 15 23:50:00 UTC 2018: Start jleren__cipango test class org.cipango.util.ListTest
+Tue May 15 23:50:00 UTC 2018: Setting lastTestMethodIndex: 51801
+Tue May 15 23:50:00 UTC 2018: Starting linking
+Tue May 15 23:50:00 UTC 2018: No link for: org.cipango.util.ListTest-testList
+Tue May 15 23:50:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:00 UTC 2018: Linking done for jleren__cipango test class org.cipango.util.ListTest
+Tue May 15 23:50:01 UTC 2018: Found element on the queue
+Tue May 15 23:50:01 UTC 2018: Updating status
+Tue May 15 23:50:01 UTC 2018: Working
+Tue May 15 23:50:04 UTC 2018: Start jleren__cipango test class org.cipango.sip.RAckTest
+Tue May 15 23:50:04 UTC 2018: Setting lastTestMethodIndex: 51805
+Tue May 15 23:50:04 UTC 2018: Starting linking
+Tue May 15 23:50:04 UTC 2018: No link for: org.cipango.sip.RAckTest-testParse
+Tue May 15 23:50:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:04 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.RAckTest
+Tue May 15 23:50:05 UTC 2018: Found element on the queue
+Tue May 15 23:50:05 UTC 2018: Updating status
+Tue May 15 23:50:05 UTC 2018: Working
+Tue May 15 23:50:08 UTC 2018: Start jleren__cipango test class org.cipango.server.ConnectionManagerTest
+Tue May 15 23:50:08 UTC 2018: Setting lastTestMethodIndex: 51807
+Tue May 15 23:50:08 UTC 2018: Starting linking
+Tue May 15 23:50:08 UTC 2018: Code found org.cipango.server.ConnectorManager-isLocalUri with org.cipango.server.ConnectionManagerTest-testIsLocalUriWithExternalHost
+Tue May 15 23:50:08 UTC 2018: Code found org.cipango.server.ConnectorManager-isLocalUri with org.cipango.server.ConnectionManagerTest-testIsLocalUri
+Tue May 15 23:50:08 UTC 2018: Linking done for jleren__cipango test class org.cipango.server.ConnectionManagerTest
+Tue May 15 23:50:09 UTC 2018: Found element on the queue
+Tue May 15 23:50:09 UTC 2018: Updating status
+Tue May 15 23:50:09 UTC 2018: Working
+Tue May 15 23:50:11 UTC 2018: Start jleren__cipango test class org.cipango.server.SipMessageTest
+Tue May 15 23:50:11 UTC 2018: Setting lastTestMethodIndex: 51810
+Tue May 15 23:50:11 UTC 2018: Starting linking
+Tue May 15 23:50:11 UTC 2018: No link for: org.cipango.server.SipMessageTest-testProxyAddress
+Tue May 15 23:50:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:12 UTC 2018: Linking done for jleren__cipango test class org.cipango.server.SipMessageTest
+Tue May 15 23:50:12 UTC 2018: Found element on the queue
+Tue May 15 23:50:12 UTC 2018: Updating status
+Tue May 15 23:50:12 UTC 2018: Working
+Tue May 15 23:50:14 UTC 2018: Start jleren__cipango test class org.cipango.sip.SipCharsetTest
+Tue May 15 23:50:14 UTC 2018: Setting lastTestMethodIndex: 51813
+Tue May 15 23:50:14 UTC 2018: Starting linking
+Tue May 15 23:50:14 UTC 2018: No link for: org.cipango.sip.SipCharsetTest-testCharset
+Tue May 15 23:50:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:15 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.SipCharsetTest
+Tue May 15 23:50:15 UTC 2018: Found element on the queue
+Tue May 15 23:50:15 UTC 2018: Updating status
+Tue May 15 23:50:15 UTC 2018: Working
+Tue May 15 23:50:18 UTC 2018: Start jleren__cipango test class org.cipango.sip.SipGrammarTest
+Tue May 15 23:50:18 UTC 2018: Setting lastTestMethodIndex: 51816
+Tue May 15 23:50:18 UTC 2018: Starting linking
+Tue May 15 23:50:18 UTC 2018: Code found org.cipango.sip.SipGrammar-escape with org.cipango.sip.SipGrammarTest-testEscape
+Tue May 15 23:50:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:50:18 UTC 2018: No link for: org.cipango.sip.SipGrammarTest-testToken
+Tue May 15 23:50:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:18 UTC 2018: No link for: org.cipango.sip.SipGrammarTest-testURIScheme
+Tue May 15 23:50:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:19 UTC 2018: No link for: org.cipango.sip.SipGrammarTest-testGenericUri
+Tue May 15 23:50:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:19 UTC 2018: No link for: org.cipango.sip.SipGrammarTest-testLWS
+Tue May 15 23:50:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:19 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.SipGrammarTest
+Tue May 15 23:50:20 UTC 2018: Found element on the queue
+Tue May 15 23:50:20 UTC 2018: Updating status
+Tue May 15 23:50:20 UTC 2018: Working
+Tue May 15 23:50:22 UTC 2018: Start jleren__cipango test class org.cipango.io.SipBufferTest
+Tue May 15 23:50:22 UTC 2018: Setting lastTestMethodIndex: 51821
+Tue May 15 23:50:22 UTC 2018: Starting linking
+Tue May 15 23:50:22 UTC 2018: No link for: org.cipango.io.SipBufferTest-testBuffer
+Tue May 15 23:50:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:23 UTC 2018: Linking done for jleren__cipango test class org.cipango.io.SipBufferTest
+Tue May 15 23:50:23 UTC 2018: Found element on the queue
+Tue May 15 23:50:23 UTC 2018: Updating status
+Tue May 15 23:50:23 UTC 2018: Working
+Tue May 15 23:50:25 UTC 2018: Start jleren__cipango test class org.cipango.util.TestReadOnly
+Tue May 15 23:50:25 UTC 2018: Setting lastTestMethodIndex: 51824
+Tue May 15 23:50:25 UTC 2018: Starting linking
+Tue May 15 23:50:25 UTC 2018: No link for: org.cipango.util.TestReadOnly-testTelUrl
+Tue May 15 23:50:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:26 UTC 2018: No link for: org.cipango.util.TestReadOnly-testAddress
+Tue May 15 23:50:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:26 UTC 2018: No link for: org.cipango.util.TestReadOnly-testSipUri
+Tue May 15 23:50:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:26 UTC 2018: No link for: org.cipango.util.TestReadOnly-testURI
+Tue May 15 23:50:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:27 UTC 2018: No link for: org.cipango.util.TestReadOnly-testParameterable
+Tue May 15 23:50:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:27 UTC 2018: Linking done for jleren__cipango test class org.cipango.util.TestReadOnly
+Tue May 15 23:50:27 UTC 2018: Found element on the queue
+Tue May 15 23:50:27 UTC 2018: Updating status
+Tue May 15 23:50:27 UTC 2018: Working
+Tue May 15 23:50:30 UTC 2018: Start jleren__cipango test class org.cipango.sip.UriTest
+Tue May 15 23:50:30 UTC 2018: Setting lastTestMethodIndex: 51827
+Tue May 15 23:50:30 UTC 2018: Starting linking
+Tue May 15 23:50:30 UTC 2018: Code found org.cipango.sip.TelURLImpl-setParameter with org.cipango.sip.UriTest-testSetParameter
+Tue May 15 23:50:30 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:50:30 UTC 2018: No link for: org.cipango.sip.UriTest-testEqual
+Tue May 15 23:50:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:31 UTC 2018: No link for: org.cipango.sip.UriTest-testDifferent
+Tue May 15 23:50:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:31 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.UriTest
+Tue May 15 23:50:31 UTC 2018: Found element on the queue
+Tue May 15 23:50:31 UTC 2018: Updating status
+Tue May 15 23:50:31 UTC 2018: Working
+Tue May 15 23:50:34 UTC 2018: Start jleren__cipango test class org.cipango.util.HexStringTest
+Tue May 15 23:50:34 UTC 2018: Setting lastTestMethodIndex: 51831
+Tue May 15 23:50:34 UTC 2018: Starting linking
+Tue May 15 23:50:34 UTC 2018: No link for: org.cipango.util.HexStringTest-testHex
+Tue May 15 23:50:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:34 UTC 2018: Linking done for jleren__cipango test class org.cipango.util.HexStringTest
+Tue May 15 23:50:35 UTC 2018: Found element on the queue
+Tue May 15 23:50:35 UTC 2018: Updating status
+Tue May 15 23:50:35 UTC 2018: Working
+Tue May 15 23:50:37 UTC 2018: Start jleren__cipango test class org.cipango.sip.SipURITest
+Tue May 15 23:50:37 UTC 2018: Setting lastTestMethodIndex: 51834
+Tue May 15 23:50:37 UTC 2018: Starting linking
+Tue May 15 23:50:37 UTC 2018: Code found org.cipango.sip.SipURIImpl-clone with org.cipango.sip.SipURITest-testClone
+Tue May 15 23:50:38 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:50:38 UTC 2018: No link for: org.cipango.sip.SipURITest-testPassword
+Tue May 15 23:50:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:38 UTC 2018: No link for: org.cipango.sip.SipURITest-testEscape
+Tue May 15 23:50:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:39 UTC 2018: No link for: org.cipango.sip.SipURITest-testHeader
+Tue May 15 23:50:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:39 UTC 2018: No link for: org.cipango.sip.SipURITest-testHttp
+Tue May 15 23:50:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:39 UTC 2018: No link for: org.cipango.sip.SipURITest-testSipUser
+Tue May 15 23:50:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:40 UTC 2018: No link for: org.cipango.sip.SipURITest-testParam
+Tue May 15 23:50:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:40 UTC 2018: No link for: org.cipango.sip.SipURITest-testDifferent
+Tue May 15 23:50:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:40 UTC 2018: No link for: org.cipango.sip.SipURITest-testNew
+Tue May 15 23:50:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:40 UTC 2018: No link for: org.cipango.sip.SipURITest-testEqual
+Tue May 15 23:50:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:41 UTC 2018: No link for: org.cipango.sip.SipURITest-testSipHost
+Tue May 15 23:50:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:41 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.SipURITest
+Tue May 15 23:50:41 UTC 2018: Found element on the queue
+Tue May 15 23:50:41 UTC 2018: Updating status
+Tue May 15 23:50:41 UTC 2018: Working
+Tue May 15 23:50:44 UTC 2018: Start jleren__cipango test class org.cipango.sip.SipFieldsTest
+Tue May 15 23:50:45 UTC 2018: Setting lastTestMethodIndex: 51839
+Tue May 15 23:50:45 UTC 2018: Starting linking
+Tue May 15 23:50:45 UTC 2018: No code found org.cipango.sip.SipFields-clone with org.cipango.sip.SipFieldsTest-testClone2
+Tue May 15 23:50:45 UTC 2018: No code found org.cipango.sip.SipFields-copy with org.cipango.sip.SipFieldsTest-testCopy
+Tue May 15 23:50:45 UTC 2018: Code found org.cipango.sip.SipFields-remove with org.cipango.sip.SipFieldsTest-testRemove
+Tue May 15 23:50:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 23:50:46 UTC 2018: No link for: org.cipango.sip.SipFieldsTest-testVia
+Tue May 15 23:50:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:46 UTC 2018: No link for: org.cipango.sip.SipFieldsTest-testLong
+Tue May 15 23:50:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:46 UTC 2018: No link for: org.cipango.sip.SipFieldsTest-testParameterable
+Tue May 15 23:50:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:46 UTC 2018: No link for: org.cipango.sip.SipFieldsTest-testIterator
+Tue May 15 23:50:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:47 UTC 2018: No link for: org.cipango.sip.SipFieldsTest-testString
+Tue May 15 23:50:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:47 UTC 2018: No link for: org.cipango.sip.SipFieldsTest-testAddress
+Tue May 15 23:50:47 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:47 UTC 2018: No link for: org.cipango.sip.SipFieldsTest-testParameters
+Tue May 15 23:50:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:48 UTC 2018: No link for: org.cipango.sip.SipFieldsTest-testUnknown
+Tue May 15 23:50:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:48 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.SipFieldsTest
+Tue May 15 23:50:49 UTC 2018: Found element on the queue
+Tue May 15 23:50:49 UTC 2018: Updating status
+Tue May 15 23:50:49 UTC 2018: Working
+Tue May 15 23:50:51 UTC 2018: Start jleren__cipango test class org.cipango.sip.TelURLTest
+Tue May 15 23:50:51 UTC 2018: Setting lastTestMethodIndex: 51844
+Tue May 15 23:50:51 UTC 2018: Starting linking
+Tue May 15 23:50:51 UTC 2018: No link for: org.cipango.sip.TelURLTest-testSetPhoneNumber
+Tue May 15 23:50:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:51 UTC 2018: No link for: org.cipango.sip.TelURLTest-testParameters
+Tue May 15 23:50:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:52 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.TelURLTest
+Tue May 15 23:50:52 UTC 2018: Found element on the queue
+Tue May 15 23:50:52 UTC 2018: Updating status
+Tue May 15 23:50:52 UTC 2018: Working
+Tue May 15 23:50:55 UTC 2018: Start jleren__cipango test class org.cipango.sip.SipHeaderTest
+Tue May 15 23:50:55 UTC 2018: Setting lastTestMethodIndex: 51847
+Tue May 15 23:50:55 UTC 2018: Starting linking
+Tue May 15 23:50:55 UTC 2018: No link for: org.cipango.sip.SipHeaderTest-testAddress
+Tue May 15 23:50:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:55 UTC 2018: Linking done for jleren__cipango test class org.cipango.sip.SipHeaderTest
+Tue May 15 23:50:56 UTC 2018: Found element on the queue
+Tue May 15 23:50:56 UTC 2018: Updating status
+Tue May 15 23:50:56 UTC 2018: Working
+Tue May 15 23:50:59 UTC 2018: Start jleren__cipango test class org.cipango.util.TimerListTest
+Tue May 15 23:50:59 UTC 2018: Setting lastTestMethodIndex: 51851
+Tue May 15 23:50:59 UTC 2018: Starting linking
+Tue May 15 23:50:59 UTC 2018: No link for: org.cipango.util.TimerListTest-testOrder
+Tue May 15 23:50:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 23:50:59 UTC 2018: Linking done for jleren__cipango test class org.cipango.util.TimerListTest

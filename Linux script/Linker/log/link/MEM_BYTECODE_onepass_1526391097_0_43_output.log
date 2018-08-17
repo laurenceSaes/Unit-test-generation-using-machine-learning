@@ -1,0 +1,1067 @@
+Tue May 15 17:19:56 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 17:19:56 UTC 2018: Starting
+Tue May 15 17:19:57 UTC 2018: Found element on the queue
+Tue May 15 17:19:57 UTC 2018: Updating status
+Tue May 15 17:19:57 UTC 2018: Working
+Tue May 15 17:19:57 UTC 2018: Create project parser
+Tue May 15 17:20:05 UTC 2018: Create slicer
+Tue May 15 17:20:08 UTC 2018: Create call graph
+Tue May 15 17:20:14 UTC 2018: Create point analysis
+Tue May 15 17:20:14 UTC 2018: Create call graph done
+Tue May 15 17:20:14 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.test.ExampleShiroUnitTest
+Tue May 15 17:20:14 UTC 2018: Setting lastTestMethodIndex: 39908
+Tue May 15 17:20:14 UTC 2018: Starting linking
+Tue May 15 17:20:14 UTC 2018: No link for: org.apache.shiro.test.ExampleShiroUnitTest-testSimple
+Tue May 15 17:20:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:20:14 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.test.ExampleShiroUnitTest
+Tue May 15 17:20:14 UTC 2018: Found element on the queue
+Tue May 15 17:20:14 UTC 2018: Updating status
+Tue May 15 17:20:14 UTC 2018: Working
+Tue May 15 17:20:17 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.test.ExampleShiroIntegrationTest
+Tue May 15 17:20:17 UTC 2018: Setting lastTestMethodIndex: 39910
+Tue May 15 17:20:17 UTC 2018: Starting linking
+Tue May 15 17:20:17 UTC 2018: No link for: org.apache.shiro.test.ExampleShiroIntegrationTest-testSimple
+Tue May 15 17:20:17 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.test.ExampleShiroIntegrationTest
+Tue May 15 17:20:17 UTC 2018: Found element on the queue
+Tue May 15 17:20:17 UTC 2018: Updating status
+Tue May 15 17:20:17 UTC 2018: Working
+Tue May 15 17:20:20 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.concurrent.SubjectAwareExecutorServiceTest
+Tue May 15 17:20:20 UTC 2018: Setting lastTestMethodIndex: 39911
+Tue May 15 17:20:20 UTC 2018: Starting linking
+Tue May 15 17:20:20 UTC 2018: Code found org.apache.shiro.concurrent.SubjectAwareExecutorService-submit with org.apache.shiro.concurrent.SubjectAwareExecutorServiceTest-testSubmitRunnable
+Tue May 15 17:20:20 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.concurrent.SubjectAwareExecutorServiceTest
+Tue May 15 17:20:20 UTC 2018: Found element on the queue
+Tue May 15 17:20:20 UTC 2018: Updating status
+Tue May 15 17:20:20 UTC 2018: Working
+Tue May 15 17:20:23 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.concurrent.SubjectAwareExecutorTest
+Tue May 15 17:20:23 UTC 2018: Setting lastTestMethodIndex: 39913
+Tue May 15 17:20:23 UTC 2018: Starting linking
+Tue May 15 17:20:23 UTC 2018: Code found org.apache.shiro.concurrent.SubjectAwareExecutor-execute with org.apache.shiro.concurrent.SubjectAwareExecutorTest-testExecute
+Tue May 15 17:20:23 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.concurrent.SubjectAwareExecutorTest
+Tue May 15 17:20:23 UTC 2018: Found element on the queue
+Tue May 15 17:20:23 UTC 2018: Updating status
+Tue May 15 17:20:23 UTC 2018: Working
+Tue May 15 17:20:26 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.credential.Sha384CredentialsMatcherTest
+Tue May 15 17:20:26 UTC 2018: Setting lastTestMethodIndex: 39915
+Tue May 15 17:20:26 UTC 2018: Starting linking
+Tue May 15 17:20:26 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.credential.Sha384CredentialsMatcherTest
+Tue May 15 17:20:26 UTC 2018: Found element on the queue
+Tue May 15 17:20:26 UTC 2018: Updating status
+Tue May 15 17:20:26 UTC 2018: Working
+Tue May 15 17:20:29 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.credential.HashedCredentialsMatcherTest
+Tue May 15 17:20:29 UTC 2018: Setting lastTestMethodIndex: 39917
+Tue May 15 17:20:29 UTC 2018: Starting linking
+Tue May 15 17:20:29 UTC 2018: No link for: org.apache.shiro.authc.credential.HashedCredentialsMatcherTest-testBackwardsCompatibleUnsaltedAuthenticationInfo
+Tue May 15 17:20:29 UTC 2018: No link for: org.apache.shiro.authc.credential.HashedCredentialsMatcherTest-testBackwardsCompatibleSaltedAuthenticationInfo
+Tue May 15 17:20:29 UTC 2018: No link for: org.apache.shiro.authc.credential.HashedCredentialsMatcherTest-testSaltedAuthenticationInfo
+Tue May 15 17:20:29 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.credential.HashedCredentialsMatcherTest
+Tue May 15 17:20:30 UTC 2018: Found element on the queue
+Tue May 15 17:20:30 UTC 2018: Updating status
+Tue May 15 17:20:30 UTC 2018: Working
+Tue May 15 17:20:32 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.credential.Sha1CredentialsMatcherTest
+Tue May 15 17:20:32 UTC 2018: Setting lastTestMethodIndex: 39919
+Tue May 15 17:20:32 UTC 2018: Starting linking
+Tue May 15 17:20:32 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.credential.Sha1CredentialsMatcherTest
+Tue May 15 17:20:33 UTC 2018: Found element on the queue
+Tue May 15 17:20:33 UTC 2018: Updating status
+Tue May 15 17:20:33 UTC 2018: Working
+Tue May 15 17:20:35 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.credential.AllowAllCredentialsMatcherTest
+Tue May 15 17:20:35 UTC 2018: Setting lastTestMethodIndex: 39920
+Tue May 15 17:20:35 UTC 2018: Starting linking
+Tue May 15 17:20:35 UTC 2018: No link for: org.apache.shiro.authc.credential.AllowAllCredentialsMatcherTest-testBasic
+Tue May 15 17:20:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:20:35 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.credential.AllowAllCredentialsMatcherTest
+Tue May 15 17:20:36 UTC 2018: Found element on the queue
+Tue May 15 17:20:36 UTC 2018: Updating status
+Tue May 15 17:20:36 UTC 2018: Working
+Tue May 15 17:20:38 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.credential.Sha512CredentialsMatcherTest
+Tue May 15 17:20:38 UTC 2018: Setting lastTestMethodIndex: 39921
+Tue May 15 17:20:38 UTC 2018: Starting linking
+Tue May 15 17:20:38 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.credential.Sha512CredentialsMatcherTest
+Tue May 15 17:20:39 UTC 2018: Found element on the queue
+Tue May 15 17:20:39 UTC 2018: Updating status
+Tue May 15 17:20:39 UTC 2018: Working
+Tue May 15 17:20:41 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.credential.Md2CredentialsMatcherTest
+Tue May 15 17:20:41 UTC 2018: Setting lastTestMethodIndex: 39922
+Tue May 15 17:20:41 UTC 2018: Starting linking
+Tue May 15 17:20:41 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.credential.Md2CredentialsMatcherTest
+Tue May 15 17:20:42 UTC 2018: Found element on the queue
+Tue May 15 17:20:42 UTC 2018: Updating status
+Tue May 15 17:20:42 UTC 2018: Working
+Tue May 15 17:20:44 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.credential.Md5CredentialsMatcherTest
+Tue May 15 17:20:44 UTC 2018: Setting lastTestMethodIndex: 39923
+Tue May 15 17:20:44 UTC 2018: Starting linking
+Tue May 15 17:20:44 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.credential.Md5CredentialsMatcherTest
+Tue May 15 17:20:44 UTC 2018: Found element on the queue
+Tue May 15 17:20:44 UTC 2018: Updating status
+Tue May 15 17:20:44 UTC 2018: Working
+Tue May 15 17:20:47 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.credential.Sha256CredentialsMatcherTest
+Tue May 15 17:20:47 UTC 2018: Setting lastTestMethodIndex: 39924
+Tue May 15 17:20:47 UTC 2018: Starting linking
+Tue May 15 17:20:47 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.credential.Sha256CredentialsMatcherTest
+Tue May 15 17:20:47 UTC 2018: Found element on the queue
+Tue May 15 17:20:47 UTC 2018: Updating status
+Tue May 15 17:20:47 UTC 2018: Working
+Tue May 15 17:20:49 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.pam.AllSuccessfulStrategyTest
+Tue May 15 17:20:49 UTC 2018: Setting lastTestMethodIndex: 39926
+Tue May 15 17:20:49 UTC 2018: Starting linking
+Tue May 15 17:20:50 UTC 2018: Code found org.apache.shiro.authc.pam.AllSuccessfulStrategy-beforeAttempt with org.apache.shiro.authc.pam.AllSuccessfulStrategyTest-beforeAttemptRealmDoesntSupportToken
+Tue May 15 17:20:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:20:50 UTC 2018: Code found org.apache.shiro.authc.pam.AllSuccessfulStrategy-beforeAllAttempts with org.apache.shiro.authc.pam.AllSuccessfulStrategyTest-beforeAllAttempts
+Tue May 15 17:20:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:20:50 UTC 2018: No link for: org.apache.shiro.authc.pam.AllSuccessfulStrategyTest-beforeAttemptSupportingToken
+Tue May 15 17:20:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:20:50 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.pam.AllSuccessfulStrategyTest
+Tue May 15 17:20:50 UTC 2018: Found element on the queue
+Tue May 15 17:20:50 UTC 2018: Updating status
+Tue May 15 17:20:50 UTC 2018: Working
+Tue May 15 17:20:53 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.ConcurrentAccessExceptionTest
+Tue May 15 17:20:53 UTC 2018: Setting lastTestMethodIndex: 39928
+Tue May 15 17:20:53 UTC 2018: Starting linking
+Tue May 15 17:20:53 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.ConcurrentAccessExceptionTest
+Tue May 15 17:20:53 UTC 2018: Found element on the queue
+Tue May 15 17:20:53 UTC 2018: Updating status
+Tue May 15 17:20:53 UTC 2018: Working
+Tue May 15 17:20:56 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.ExcessiveAttemptsExceptionTest
+Tue May 15 17:20:56 UTC 2018: Setting lastTestMethodIndex: 39930
+Tue May 15 17:20:56 UTC 2018: Starting linking
+Tue May 15 17:20:56 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.ExcessiveAttemptsExceptionTest
+Tue May 15 17:20:56 UTC 2018: Found element on the queue
+Tue May 15 17:20:56 UTC 2018: Updating status
+Tue May 15 17:20:57 UTC 2018: Working
+Tue May 15 17:20:59 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.LockedAccountExceptionTest
+Tue May 15 17:20:59 UTC 2018: Setting lastTestMethodIndex: 39932
+Tue May 15 17:20:59 UTC 2018: Starting linking
+Tue May 15 17:20:59 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.LockedAccountExceptionTest
+Tue May 15 17:20:59 UTC 2018: Found element on the queue
+Tue May 15 17:20:59 UTC 2018: Updating status
+Tue May 15 17:20:59 UTC 2018: Working
+Tue May 15 17:21:02 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.UnknownAccountExceptionTest
+Tue May 15 17:21:02 UTC 2018: Setting lastTestMethodIndex: 39933
+Tue May 15 17:21:02 UTC 2018: Starting linking
+Tue May 15 17:21:02 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.UnknownAccountExceptionTest
+Tue May 15 17:21:02 UTC 2018: Found element on the queue
+Tue May 15 17:21:02 UTC 2018: Updating status
+Tue May 15 17:21:02 UTC 2018: Working
+Tue May 15 17:21:05 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.IncorrectCredentialsExceptionTest
+Tue May 15 17:21:05 UTC 2018: Setting lastTestMethodIndex: 39934
+Tue May 15 17:21:05 UTC 2018: Starting linking
+Tue May 15 17:21:05 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.IncorrectCredentialsExceptionTest
+Tue May 15 17:21:05 UTC 2018: Found element on the queue
+Tue May 15 17:21:05 UTC 2018: Updating status
+Tue May 15 17:21:05 UTC 2018: Working
+Tue May 15 17:21:08 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.ExpiredCredentialsExceptionTest
+Tue May 15 17:21:08 UTC 2018: Setting lastTestMethodIndex: 39935
+Tue May 15 17:21:08 UTC 2018: Starting linking
+Tue May 15 17:21:08 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.ExpiredCredentialsExceptionTest
+Tue May 15 17:21:09 UTC 2018: Found element on the queue
+Tue May 15 17:21:09 UTC 2018: Updating status
+Tue May 15 17:21:09 UTC 2018: Working
+Tue May 15 17:21:11 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.SimpleAuthenticationInfoTest
+Tue May 15 17:21:11 UTC 2018: Setting lastTestMethodIndex: 39936
+Tue May 15 17:21:11 UTC 2018: Starting linking
+Tue May 15 17:21:11 UTC 2018: Code found org.apache.shiro.authc.SimpleAuthenticationInfo-merge with org.apache.shiro.authc.SimpleAuthenticationInfoTest-testMergeWithEmptyInstances
+Tue May 15 17:21:11 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:21:11 UTC 2018: Code found org.apache.shiro.authc.SimpleAuthenticationInfo-merge with org.apache.shiro.authc.SimpleAuthenticationInfoTest-testMergeWithAggregateNullCredentials
+Tue May 15 17:21:11 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:21:11 UTC 2018: Code found org.apache.shiro.authc.SimpleAuthenticationInfo-merge with org.apache.shiro.authc.SimpleAuthenticationInfoTest-testMergeWithImmutablePrincipalCollection
+Tue May 15 17:21:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:21:12 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.SimpleAuthenticationInfoTest
+Tue May 15 17:21:12 UTC 2018: Found element on the queue
+Tue May 15 17:21:12 UTC 2018: Updating status
+Tue May 15 17:21:12 UTC 2018: Working
+Tue May 15 17:21:14 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authc.AbstractAuthenticatorTest
+Tue May 15 17:21:14 UTC 2018: Setting lastTestMethodIndex: 39938
+Tue May 15 17:21:14 UTC 2018: Starting linking
+Tue May 15 17:21:14 UTC 2018: Code found org.apache.shiro.authc.AbstractAuthenticator-authenticate with org.apache.shiro.authc.AbstractAuthenticatorTest-notifyFailureAfterDoAuthenticateThrowsAuthenticationException
+Tue May 15 17:21:15 UTC 2018: Code found org.apache.shiro.authc.AbstractAuthenticator-authenticate with org.apache.shiro.authc.AbstractAuthenticatorTest-notifyFailureAfterDoAuthenticateThrowsNonAuthenticationException
+Tue May 15 17:21:15 UTC 2018: Code found org.apache.shiro.authc.AbstractAuthenticator-authenticate with org.apache.shiro.authc.AbstractAuthenticatorTest-throwAuthenticationExceptionIfDoAuthenticateReturnsNull
+Tue May 15 17:21:15 UTC 2018: Code found org.apache.shiro.authc.AbstractAuthenticator-authenticate with org.apache.shiro.authc.AbstractAuthenticatorTest-notifySuccessAfterDoAuthenticate
+Tue May 15 17:21:15 UTC 2018: Code found org.apache.shiro.authc.AbstractAuthenticator-authenticate with org.apache.shiro.authc.AbstractAuthenticatorTest-nonNullAuthenticationInfoAfterAuthenticate
+Tue May 15 17:21:15 UTC 2018: Code found org.apache.shiro.authc.AbstractAuthenticator-authenticate with org.apache.shiro.authc.AbstractAuthenticatorTest-logExceptionAfterDoAuthenticateThrowsNonAuthenticationException
+Tue May 15 17:21:15 UTC 2018: Code found org.apache.shiro.authc.AbstractAuthenticator-authenticate with org.apache.shiro.authc.AbstractAuthenticatorTest-authenticateWithNullArgument
+Tue May 15 17:21:15 UTC 2018: No link for: org.apache.shiro.authc.AbstractAuthenticatorTest-newAbstractAuthenticatorSecurityManagerConstructor
+Tue May 15 17:21:16 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authc.AbstractAuthenticatorTest
+Tue May 15 17:21:16 UTC 2018: Found element on the queue
+Tue May 15 17:21:16 UTC 2018: Updating status
+Tue May 15 17:21:16 UTC 2018: Working
+Tue May 15 17:21:18 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.mgt.AbstractRememberMeManagerTest
+Tue May 15 17:21:18 UTC 2018: Setting lastTestMethodIndex: 39939
+Tue May 15 17:21:18 UTC 2018: Starting linking
+Tue May 15 17:21:18 UTC 2018: Code found org.apache.shiro.mgt.AbstractRememberMeManager-getRememberedPrincipals with org.apache.shiro.mgt.AbstractRememberMeManagerTest-testGetRememberedPrincipalsWithEmptySerializedBytes
+Tue May 15 17:21:19 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:21:19 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.mgt.AbstractRememberMeManagerTest
+Tue May 15 17:21:19 UTC 2018: Found element on the queue
+Tue May 15 17:21:19 UTC 2018: Updating status
+Tue May 15 17:21:19 UTC 2018: Working
+Tue May 15 17:21:21 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.mgt.VMSingletonDefaultSecurityManagerTest
+Tue May 15 17:21:21 UTC 2018: Setting lastTestMethodIndex: 39940
+Tue May 15 17:21:21 UTC 2018: Starting linking
+Tue May 15 17:21:21 UTC 2018: No link for: org.apache.shiro.mgt.VMSingletonDefaultSecurityManagerTest-testVMSingleton
+Tue May 15 17:21:21 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.mgt.VMSingletonDefaultSecurityManagerTest
+Tue May 15 17:21:22 UTC 2018: Found element on the queue
+Tue May 15 17:21:22 UTC 2018: Updating status
+Tue May 15 17:21:22 UTC 2018: Working
+Tue May 15 17:21:24 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.mgt.DefaultSecurityManagerTest
+Tue May 15 17:21:24 UTC 2018: Setting lastTestMethodIndex: 39941
+Tue May 15 17:21:24 UTC 2018: Starting linking
+Tue May 15 17:21:24 UTC 2018: Code found org.apache.shiro.subject.support.DelegatingSubject-logout with org.apache.shiro.mgt.DefaultSecurityManagerTest-testSubjectReuseAfterLogout
+Tue May 15 17:21:24 UTC 2018: No link for: org.apache.shiro.mgt.DefaultSecurityManagerTest-testAutoCreateSessionAfterInvalidation
+Tue May 15 17:21:24 UTC 2018: No link for: org.apache.shiro.mgt.DefaultSecurityManagerTest-testDefaultConfig
+Tue May 15 17:21:25 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.mgt.DefaultSecurityManagerTest
+Tue May 15 17:21:25 UTC 2018: Found element on the queue
+Tue May 15 17:21:25 UTC 2018: Updating status
+Tue May 15 17:21:25 UTC 2018: Working
+Tue May 15 17:21:27 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.session.mgt.AbstractValidatingSessionManagerTest
+Tue May 15 17:21:27 UTC 2018: Setting lastTestMethodIndex: 39942
+Tue May 15 17:21:27 UTC 2018: Starting linking
+Tue May 15 17:21:27 UTC 2018: Code found org.apache.shiro.session.mgt.AbstractValidatingSessionManager-validateSessions with org.apache.shiro.session.mgt.AbstractValidatingSessionManagerTest-testValidateSessions
+Tue May 15 17:21:27 UTC 2018: No link for: org.apache.shiro.session.mgt.AbstractValidatingSessionManagerTest-testNoMemoryLeakOnInvalidSessions
+Tue May 15 17:21:28 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.session.mgt.AbstractValidatingSessionManagerTest
+Tue May 15 17:21:28 UTC 2018: Found element on the queue
+Tue May 15 17:21:28 UTC 2018: Updating status
+Tue May 15 17:21:28 UTC 2018: Working
+Tue May 15 17:21:30 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.session.mgt.SimpleSessionTest
+Tue May 15 17:21:30 UTC 2018: Setting lastTestMethodIndex: 39943
+Tue May 15 17:21:30 UTC 2018: Starting linking
+Tue May 15 17:21:30 UTC 2018: No link for: org.apache.shiro.session.mgt.SimpleSessionTest-testDefaultSerialization
+Tue May 15 17:21:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:30 UTC 2018: No link for: org.apache.shiro.session.mgt.SimpleSessionTest-serializeHost
+Tue May 15 17:21:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:30 UTC 2018: No link for: org.apache.shiro.session.mgt.SimpleSessionTest-serializeExpired
+Tue May 15 17:21:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:31 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.session.mgt.SimpleSessionTest
+Tue May 15 17:21:31 UTC 2018: Found element on the queue
+Tue May 15 17:21:31 UTC 2018: Updating status
+Tue May 15 17:21:31 UTC 2018: Working
+Tue May 15 17:21:33 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.session.mgt.DefaultSessionManagerTest
+Tue May 15 17:21:33 UTC 2018: Setting lastTestMethodIndex: 39944
+Tue May 15 17:21:33 UTC 2018: Starting linking
+Tue May 15 17:21:33 UTC 2018: Code found org.apache.shiro.session.mgt.DefaultSessionManager-start with org.apache.shiro.session.mgt.DefaultSessionManagerTest-testSessionListenerStartNotification
+Tue May 15 17:21:33 UTC 2018: Code found org.apache.shiro.session.mgt.DefaultSessionManager-stop with org.apache.shiro.session.mgt.DefaultSessionManagerTest-testSessionListenerStopNotificationWithReadAttribute
+Tue May 15 17:21:33 UTC 2018: Code found org.apache.shiro.session.mgt.DefaultSessionManager-stop with org.apache.shiro.session.mgt.DefaultSessionManagerTest-testSessionListenerStopNotification
+Tue May 15 17:21:34 UTC 2018: No link for: org.apache.shiro.session.mgt.DefaultSessionManagerTest-testSessionDeleteOnExpiration
+Tue May 15 17:21:34 UTC 2018: No link for: org.apache.shiro.session.mgt.DefaultSessionManagerTest-testEnablingOfCustomSessionValidationScheduler
+Tue May 15 17:21:34 UTC 2018: No link for: org.apache.shiro.session.mgt.DefaultSessionManagerTest-testGlobalTimeout
+Tue May 15 17:21:34 UTC 2018: No link for: org.apache.shiro.session.mgt.DefaultSessionManagerTest-testSessionListenerExpiredNotification
+Tue May 15 17:21:34 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.session.mgt.DefaultSessionManagerTest
+Tue May 15 17:21:35 UTC 2018: Found element on the queue
+Tue May 15 17:21:35 UTC 2018: Updating status
+Tue May 15 17:21:35 UTC 2018: Working
+Tue May 15 17:21:37 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.session.mgt.DelegatingSessionTest
+Tue May 15 17:21:37 UTC 2018: Setting lastTestMethodIndex: 39945
+Tue May 15 17:21:37 UTC 2018: Starting linking
+Tue May 15 17:21:37 UTC 2018: No link for: org.apache.shiro.session.mgt.DelegatingSessionTest-testTimeout
+Tue May 15 17:21:37 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.session.mgt.DelegatingSessionTest
+Tue May 15 17:21:38 UTC 2018: Found element on the queue
+Tue May 15 17:21:38 UTC 2018: Updating status
+Tue May 15 17:21:38 UTC 2018: Working
+Tue May 15 17:21:40 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.AuthorizationExceptionTest
+Tue May 15 17:21:40 UTC 2018: Setting lastTestMethodIndex: 39946
+Tue May 15 17:21:40 UTC 2018: Starting linking
+Tue May 15 17:21:40 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.AuthorizationExceptionTest
+Tue May 15 17:21:40 UTC 2018: Found element on the queue
+Tue May 15 17:21:40 UTC 2018: Updating status
+Tue May 15 17:21:40 UTC 2018: Working
+Tue May 15 17:21:43 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.ModularRealmAuthorizerTest
+Tue May 15 17:21:43 UTC 2018: Setting lastTestMethodIndex: 39947
+Tue May 15 17:21:43 UTC 2018: Starting linking
+Tue May 15 17:21:43 UTC 2018: No link for: org.apache.shiro.authz.ModularRealmAuthorizerTest-testSettingOfRolePermissionResolver
+Tue May 15 17:21:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:43 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.ModularRealmAuthorizerTest
+Tue May 15 17:21:44 UTC 2018: Found element on the queue
+Tue May 15 17:21:44 UTC 2018: Updating status
+Tue May 15 17:21:44 UTC 2018: Working
+Tue May 15 17:21:46 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.HostUnauthorizedExceptionTest
+Tue May 15 17:21:46 UTC 2018: Setting lastTestMethodIndex: 39948
+Tue May 15 17:21:46 UTC 2018: Starting linking
+Tue May 15 17:21:46 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.HostUnauthorizedExceptionTest
+Tue May 15 17:21:46 UTC 2018: Found element on the queue
+Tue May 15 17:21:46 UTC 2018: Updating status
+Tue May 15 17:21:46 UTC 2018: Working
+Tue May 15 17:21:48 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.UnauthenticatedExceptionTest
+Tue May 15 17:21:48 UTC 2018: Setting lastTestMethodIndex: 39949
+Tue May 15 17:21:48 UTC 2018: Starting linking
+Tue May 15 17:21:48 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.UnauthenticatedExceptionTest
+Tue May 15 17:21:49 UTC 2018: Found element on the queue
+Tue May 15 17:21:49 UTC 2018: Updating status
+Tue May 15 17:21:49 UTC 2018: Working
+Tue May 15 17:21:51 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.UnauthorizedExceptionTest
+Tue May 15 17:21:51 UTC 2018: Setting lastTestMethodIndex: 39950
+Tue May 15 17:21:51 UTC 2018: Starting linking
+Tue May 15 17:21:51 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.UnauthorizedExceptionTest
+Tue May 15 17:21:52 UTC 2018: Found element on the queue
+Tue May 15 17:21:52 UTC 2018: Updating status
+Tue May 15 17:21:52 UTC 2018: Working
+Tue May 15 17:21:54 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.permission.WildcardPermissionTest
+Tue May 15 17:21:54 UTC 2018: Setting lastTestMethodIndex: 39951
+Tue May 15 17:21:54 UTC 2018: Starting linking
+Tue May 15 17:21:54 UTC 2018: Code found org.apache.shiro.authz.permission.WildcardPermission-toString with org.apache.shiro.authz.permission.WildcardPermissionTest-testToString
+Tue May 15 17:21:54 UTC 2018: No link for: org.apache.shiro.authz.permission.WildcardPermissionTest-testLists
+Tue May 15 17:21:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:54 UTC 2018: No link for: org.apache.shiro.authz.permission.WildcardPermissionTest-testNull
+Tue May 15 17:21:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:55 UTC 2018: No link for: org.apache.shiro.authz.permission.WildcardPermissionTest-testBlank
+Tue May 15 17:21:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:55 UTC 2018: No link for: org.apache.shiro.authz.permission.WildcardPermissionTest-testNamed
+Tue May 15 17:21:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:55 UTC 2018: No link for: org.apache.shiro.authz.permission.WildcardPermissionTest-testEmpty
+Tue May 15 17:21:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:55 UTC 2018: No link for: org.apache.shiro.authz.permission.WildcardPermissionTest-testListDifferentOrder
+Tue May 15 17:21:55 UTC 2018: No link for: org.apache.shiro.authz.permission.WildcardPermissionTest-testOnlyDelimiters
+Tue May 15 17:21:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:56 UTC 2018: No link for: org.apache.shiro.authz.permission.WildcardPermissionTest-testWildcards
+Tue May 15 17:21:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:56 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.permission.WildcardPermissionTest
+Tue May 15 17:21:57 UTC 2018: Found element on the queue
+Tue May 15 17:21:57 UTC 2018: Updating status
+Tue May 15 17:21:57 UTC 2018: Working
+Tue May 15 17:21:59 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.permission.AllPermissionTest
+Tue May 15 17:21:59 UTC 2018: Setting lastTestMethodIndex: 39952
+Tue May 15 17:21:59 UTC 2018: Starting linking
+Tue May 15 17:21:59 UTC 2018: No link for: org.apache.shiro.authz.permission.AllPermissionTest-testNullArgument
+Tue May 15 17:21:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:59 UTC 2018: No link for: org.apache.shiro.authz.permission.AllPermissionTest-testNonNullArgument
+Tue May 15 17:21:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:21:59 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.permission.AllPermissionTest
+Tue May 15 17:22:00 UTC 2018: Found element on the queue
+Tue May 15 17:22:00 UTC 2018: Updating status
+Tue May 15 17:22:00 UTC 2018: Working
+Tue May 15 17:22:03 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.permission.DomainPermissionTest
+Tue May 15 17:22:03 UTC 2018: Setting lastTestMethodIndex: 39953
+Tue May 15 17:22:03 UTC 2018: Starting linking
+Tue May 15 17:22:03 UTC 2018: No link for: org.apache.shiro.authz.permission.DomainPermissionTest-testActionsConstructorWithSingleAction
+Tue May 15 17:22:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:22:03 UTC 2018: No link for: org.apache.shiro.authz.permission.DomainPermissionTest-testDefaultConstructor
+Tue May 15 17:22:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:22:03 UTC 2018: No link for: org.apache.shiro.authz.permission.DomainPermissionTest-testActionsConstructorWithMultipleActions
+Tue May 15 17:22:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:22:03 UTC 2018: No link for: org.apache.shiro.authz.permission.DomainPermissionTest-testActionsTargetsConstructorWithSingleActionAndTarget
+Tue May 15 17:22:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:22:03 UTC 2018: No link for: org.apache.shiro.authz.permission.DomainPermissionTest-testActionsTargetsConstructorWithMultipleActionsAndTargets
+Tue May 15 17:22:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:22:04 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.permission.DomainPermissionTest
+Tue May 15 17:22:04 UTC 2018: Found element on the queue
+Tue May 15 17:22:04 UTC 2018: Updating status
+Tue May 15 17:22:04 UTC 2018: Working
+Tue May 15 17:22:07 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.aop.PermissionAnnotationHandlerTest
+Tue May 15 17:22:07 UTC 2018: Setting lastTestMethodIndex: 39954
+Tue May 15 17:22:07 UTC 2018: Starting linking
+Tue May 15 17:22:07 UTC 2018: No link for: org.apache.shiro.authz.aop.PermissionAnnotationHandlerTest-testGuestSinglePermissionAssertion
+Tue May 15 17:22:07 UTC 2018: No link for: org.apache.shiro.authz.aop.PermissionAnnotationHandlerTest-testGuestMultiplePermissionAssertion
+Tue May 15 17:22:07 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.aop.PermissionAnnotationHandlerTest
+Tue May 15 17:22:08 UTC 2018: Found element on the queue
+Tue May 15 17:22:08 UTC 2018: Updating status
+Tue May 15 17:22:08 UTC 2018: Working
+Tue May 15 17:22:10 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.authz.aop.RoleAnnotationHandlerTest
+Tue May 15 17:22:10 UTC 2018: Setting lastTestMethodIndex: 39955
+Tue May 15 17:22:10 UTC 2018: Starting linking
+Tue May 15 17:22:10 UTC 2018: No link for: org.apache.shiro.authz.aop.RoleAnnotationHandlerTest-testGuestSingleRoleAssertion
+Tue May 15 17:22:11 UTC 2018: No link for: org.apache.shiro.authz.aop.RoleAnnotationHandlerTest-testGuestMultipleRolesAssertion
+Tue May 15 17:22:11 UTC 2018: No link for: org.apache.shiro.authz.aop.RoleAnnotationHandlerTest-testOneOfTheRolesRequired
+Tue May 15 17:22:11 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.authz.aop.RoleAnnotationHandlerTest
+Tue May 15 17:22:12 UTC 2018: Found element on the queue
+Tue May 15 17:22:12 UTC 2018: Updating status
+Tue May 15 17:22:12 UTC 2018: Working
+Tue May 15 17:22:14 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.io.SerializationExceptionTest
+Tue May 15 17:22:14 UTC 2018: Setting lastTestMethodIndex: 39956
+Tue May 15 17:22:14 UTC 2018: Starting linking
+Tue May 15 17:22:14 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.io.SerializationExceptionTest
+Tue May 15 17:22:14 UTC 2018: Found element on the queue
+Tue May 15 17:22:14 UTC 2018: Updating status
+Tue May 15 17:22:14 UTC 2018: Working
+Tue May 15 17:22:17 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.subject.SimplePrincipalCollectionTest
+Tue May 15 17:22:17 UTC 2018: Setting lastTestMethodIndex: 39957
+Tue May 15 17:22:17 UTC 2018: Starting linking
+Tue May 15 17:22:17 UTC 2018: No link for: org.apache.shiro.subject.SimplePrincipalCollectionTest-multiplePrincipalsTest
+Tue May 15 17:22:17 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.subject.SimplePrincipalCollectionTest
+Tue May 15 17:22:17 UTC 2018: Found element on the queue
+Tue May 15 17:22:17 UTC 2018: Updating status
+Tue May 15 17:22:17 UTC 2018: Working
+Tue May 15 17:22:20 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.subject.DelegatingSubjectTest
+Tue May 15 17:22:20 UTC 2018: Setting lastTestMethodIndex: 39958
+Tue May 15 17:22:20 UTC 2018: Starting linking
+Tue May 15 17:22:20 UTC 2018: No code found org.apache.shiro.subject.support.DelegatingSubject-runAs with org.apache.shiro.subject.DelegatingSubjectTest-testRunAs
+Tue May 15 17:22:20 UTC 2018: Code found org.apache.shiro.subject.support.DelegatingSubject-execute with org.apache.shiro.subject.DelegatingSubjectTest-testExecuteRunnable
+Tue May 15 17:22:20 UTC 2018: Code found org.apache.shiro.subject.support.DelegatingSubject-execute with org.apache.shiro.subject.DelegatingSubjectTest-testExecuteCallable
+Tue May 15 17:22:20 UTC 2018: No link for: org.apache.shiro.subject.DelegatingSubjectTest-testSessionStopThenStart
+Tue May 15 17:22:20 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.subject.DelegatingSubjectTest
+Tue May 15 17:22:21 UTC 2018: Found element on the queue
+Tue May 15 17:22:21 UTC 2018: Updating status
+Tue May 15 17:22:21 UTC 2018: Working
+Tue May 15 17:22:23 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.aop.AnnotationResolverTest
+Tue May 15 17:22:23 UTC 2018: Setting lastTestMethodIndex: 39959
+Tue May 15 17:22:23 UTC 2018: Starting linking
+Tue May 15 17:22:23 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.aop.AnnotationResolverTest
+Tue May 15 17:22:23 UTC 2018: Found element on the queue
+Tue May 15 17:22:23 UTC 2018: Updating status
+Tue May 15 17:22:23 UTC 2018: Working
+Tue May 15 17:22:26 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.jdbc.JDBCRealmTest
+Tue May 15 17:22:26 UTC 2018: Setting lastTestMethodIndex: 39960
+Tue May 15 17:22:26 UTC 2018: Starting linking
+Tue May 15 17:22:26 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testUnSaltedSuccess
+Tue May 15 17:22:26 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testExternalWrongPassword
+Tue May 15 17:22:26 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testPermissionPresent
+Tue May 15 17:22:26 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testSaltColumnSuccess
+Tue May 15 17:22:26 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testExternalSuccess
+Tue May 15 17:22:26 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testRoleNotPresent
+Tue May 15 17:22:26 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testUnSaltedWrongPassword
+Tue May 15 17:22:27 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testUnSaltedMultipleRows
+Tue May 15 17:22:27 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testPermissionNotPresent
+Tue May 15 17:22:27 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testRolePresent
+Tue May 15 17:22:27 UTC 2018: No link for: org.apache.shiro.realm.jdbc.JDBCRealmTest-testSaltColumnWrongPassword
+Tue May 15 17:22:27 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.jdbc.JDBCRealmTest
+Tue May 15 17:22:27 UTC 2018: Found element on the queue
+Tue May 15 17:22:27 UTC 2018: Updating status
+Tue May 15 17:22:28 UTC 2018: Working
+Tue May 15 17:22:30 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.activedirectory.ActiveDirectoryRealmTest
+Tue May 15 17:22:30 UTC 2018: Setting lastTestMethodIndex: 39961
+Tue May 15 17:22:30 UTC 2018: Starting linking
+Tue May 15 17:22:30 UTC 2018: No link for: org.apache.shiro.realm.activedirectory.ActiveDirectoryRealmTest-testDefaultConfig
+Tue May 15 17:22:30 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.activedirectory.ActiveDirectoryRealmTest
+Tue May 15 17:22:30 UTC 2018: Found element on the queue
+Tue May 15 17:22:30 UTC 2018: Updating status
+Tue May 15 17:22:30 UTC 2018: Working
+Tue May 15 17:22:32 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.text.TextConfigurationRealmTest
+Tue May 15 17:22:33 UTC 2018: Setting lastTestMethodIndex: 39962
+Tue May 15 17:22:33 UTC 2018: Starting linking
+Tue May 15 17:22:33 UTC 2018: Code found org.apache.shiro.realm.text.TextConfigurationRealmTest$TestThread-test with org.apache.shiro.realm.text.TextConfigurationRealmTest-testProcessRoleDefinitions
+Tue May 15 17:22:33 UTC 2018: Code found org.apache.shiro.realm.text.TextConfigurationRealmTest$TestThread-test with org.apache.shiro.realm.text.TextConfigurationRealmTest-testProcessUserDefinitions
+Tue May 15 17:22:33 UTC 2018: No link for: org.apache.shiro.realm.text.TextConfigurationRealmTest-testHasRole
+Tue May 15 17:22:33 UTC 2018: No link for: org.apache.shiro.realm.text.TextConfigurationRealmTest-testRoleAndUserAccount
+Tue May 15 17:22:33 UTC 2018: No link for: org.apache.shiro.realm.text.TextConfigurationRealmTest-testCheckPermission
+Tue May 15 17:22:33 UTC 2018: No link for: org.apache.shiro.realm.text.TextConfigurationRealmTest-testIsPermitted
+Tue May 15 17:22:33 UTC 2018: No link for: org.apache.shiro.realm.text.TextConfigurationRealmTest-testCheckRole
+Tue May 15 17:22:33 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.text.TextConfigurationRealmTest
+Tue May 15 17:22:34 UTC 2018: Found element on the queue
+Tue May 15 17:22:34 UTC 2018: Updating status
+Tue May 15 17:22:34 UTC 2018: Working
+Tue May 15 17:22:36 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.text.IniRealmTest
+Tue May 15 17:22:36 UTC 2018: Setting lastTestMethodIndex: 39963
+Tue May 15 17:22:36 UTC 2018: Starting linking
+Tue May 15 17:22:36 UTC 2018: Code found org.apache.shiro.realm.text.IniRealm-init with org.apache.shiro.realm.text.IniRealmTest-testInitWithoutIniResource
+Tue May 15 17:22:36 UTC 2018: No link for: org.apache.shiro.realm.text.IniRealmTest-testIniFile
+Tue May 15 17:22:36 UTC 2018: No link for: org.apache.shiro.realm.text.IniRealmTest-testEmptyIni
+Tue May 15 17:22:36 UTC 2018: No link for: org.apache.shiro.realm.text.IniRealmTest-testIniFileWithoutUsers
+Tue May 15 17:22:37 UTC 2018: No link for: org.apache.shiro.realm.text.IniRealmTest-testNullIni
+Tue May 15 17:22:37 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.text.IniRealmTest
+Tue May 15 17:22:38 UTC 2018: Found element on the queue
+Tue May 15 17:22:38 UTC 2018: Updating status
+Tue May 15 17:22:38 UTC 2018: Working
+Tue May 15 17:22:40 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.AuthorizingRealmTest
+Tue May 15 17:22:40 UTC 2018: Setting lastTestMethodIndex: 39964
+Tue May 15 17:22:40 UTC 2018: Starting linking
+Tue May 15 17:22:40 UTC 2018: No link for: org.apache.shiro.realm.AuthorizingRealmTest-testRealmWithRolePermissionResolver
+Tue May 15 17:22:40 UTC 2018: No link for: org.apache.shiro.realm.AuthorizingRealmTest-testDefaultConfig
+Tue May 15 17:22:40 UTC 2018: No link for: org.apache.shiro.realm.AuthorizingRealmTest-testCreateAccountOverride
+Tue May 15 17:22:40 UTC 2018: No link for: org.apache.shiro.realm.AuthorizingRealmTest-testNullAuthzInfo
+Tue May 15 17:22:41 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.AuthorizingRealmTest
+Tue May 15 17:22:41 UTC 2018: Found element on the queue
+Tue May 15 17:22:41 UTC 2018: Updating status
+Tue May 15 17:22:41 UTC 2018: Working
+Tue May 15 17:22:43 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.ldap.JndiLdapRealmTest
+Tue May 15 17:22:43 UTC 2018: Setting lastTestMethodIndex: 39965
+Tue May 15 17:22:43 UTC 2018: Starting linking
+Tue May 15 17:22:43 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-getUserDn with org.apache.shiro.realm.ldap.JndiLdapRealmTest-testGetUserDnWithOutPrefixAndSuffix
+Tue May 15 17:22:44 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.ldap.JndiLdapRealmTest
+Tue May 15 17:22:44 UTC 2018: Found element on the queue
+Tue May 15 17:22:44 UTC 2018: Updating status
+Tue May 15 17:22:44 UTC 2018: Working
+Tue May 15 17:22:47 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.ldap.DefaultLdapContextFactoryTest
+Tue May 15 17:22:47 UTC 2018: Setting lastTestMethodIndex: 39966
+Tue May 15 17:22:47 UTC 2018: Starting linking
+Tue May 15 17:22:47 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapContextFactory-getLdapContext with org.apache.shiro.realm.ldap.DefaultLdapContextFactoryTest-testGetLdapContext
+Tue May 15 17:22:47 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapContextFactory-getLdapContext with org.apache.shiro.realm.ldap.DefaultLdapContextFactoryTest-testGetLdapContextWithoutUrl
+Tue May 15 17:22:47 UTC 2018: No link for: org.apache.shiro.realm.ldap.DefaultLdapContextFactoryTest-testEmptyStringCredentials
+Tue May 15 17:22:47 UTC 2018: No link for: org.apache.shiro.realm.ldap.DefaultLdapContextFactoryTest-testEmptyCharArrayCredentials
+Tue May 15 17:22:47 UTC 2018: No link for: org.apache.shiro.realm.ldap.DefaultLdapContextFactoryTest-testEmptyByteArrayCredentials
+Tue May 15 17:22:47 UTC 2018: No link for: org.apache.shiro.realm.ldap.DefaultLdapContextFactoryTest-testEmptyNullCredentials
+Tue May 15 17:22:47 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.ldap.DefaultLdapContextFactoryTest
+Tue May 15 17:22:48 UTC 2018: Found element on the queue
+Tue May 15 17:22:48 UTC 2018: Updating status
+Tue May 15 17:22:48 UTC 2018: Working
+Tue May 15 17:22:50 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.ldap.DefaultLdapRealmTest
+Tue May 15 17:22:50 UTC 2018: Setting lastTestMethodIndex: 39967
+Tue May 15 17:22:50 UTC 2018: Starting linking
+Tue May 15 17:22:50 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-setUserDnTemplate with org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testSetUserDnTemplateNull
+Tue May 15 17:22:50 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-getAuthenticationInfo with org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testGetAuthenticationInfoNamingAuthenticationException
+Tue May 15 17:22:50 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-setUserDnTemplate with org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testSetUserDnTemplateWithoutToken
+Tue May 15 17:22:50 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-getUserDn with org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testGetUserDnWithOutPrefixAndSuffix
+Tue May 15 17:22:51 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-setUserDnTemplate with org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testSetUserDnTemplateEmpty
+Tue May 15 17:22:51 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-getAuthenticationInfo with org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testGetAuthenticationInfoNonSimpleToken
+Tue May 15 17:22:51 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-getAuthenticationInfo with org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testGetAuthenticationInfoNamingException
+Tue May 15 17:22:51 UTC 2018: Code found org.apache.shiro.realm.ldap.DefaultLdapRealm-getUserDn with org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testGetUserDnNullArgument
+Tue May 15 17:22:51 UTC 2018: No link for: org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testDefaultInstance
+Tue May 15 17:22:51 UTC 2018: No link for: org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testUserDnTemplate
+Tue May 15 17:22:52 UTC 2018: No link for: org.apache.shiro.realm.ldap.DefaultLdapRealmTest-testUserDnTemplateSubstitution
+Tue May 15 17:22:52 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.ldap.DefaultLdapRealmTest
+Tue May 15 17:22:52 UTC 2018: Found element on the queue
+Tue May 15 17:22:52 UTC 2018: Updating status
+Tue May 15 17:22:52 UTC 2018: Working
+Tue May 15 17:22:54 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest
+Tue May 15 17:22:54 UTC 2018: Setting lastTestMethodIndex: 39968
+Tue May 15 17:22:54 UTC 2018: Starting linking
+Tue May 15 17:22:54 UTC 2018: Code found org.apache.shiro.realm.ldap.JndiLdapContextFactory-getLdapContext with org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testGetLdapContext
+Tue May 15 17:22:54 UTC 2018: Code found org.apache.shiro.realm.ldap.JndiLdapContextFactory-getContextFactoryClassName with org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testGetContextFactoryClassName
+Tue May 15 17:22:55 UTC 2018: Code found org.apache.shiro.realm.ldap.JndiLdapContextFactory-getLdapContext with org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testGetLdapContextStringArguments
+Tue May 15 17:22:55 UTC 2018: Code found org.apache.shiro.realm.ldap.JndiLdapContextFactory-getLdapContext with org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testGetLdapContextWithoutUrl
+Tue May 15 17:22:55 UTC 2018: Code found org.apache.shiro.realm.ldap.JndiLdapContextFactory-getSystemLdapContext with org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testGetSystemLdapContextPoolingDisabled
+Tue May 15 17:22:55 UTC 2018: Code found org.apache.shiro.realm.ldap.JndiLdapContextFactory-getLdapContext with org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testGetLdapContextDefault
+Tue May 15 17:22:55 UTC 2018: Code found org.apache.shiro.realm.ldap.JndiLdapContextFactory-getSystemLdapContext with org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testGetSystemLdapContext
+Tue May 15 17:22:56 UTC 2018: No link for: org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testReferral
+Tue May 15 17:22:56 UTC 2018: No link for: org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testEmptyByteArrayCredentials
+Tue May 15 17:22:56 UTC 2018: No link for: org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testSetEnvironmentPropertyNull
+Tue May 15 17:22:56 UTC 2018: No link for: org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testCustomEnvironment
+Tue May 15 17:22:56 UTC 2018: No link for: org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testEmptyStringCredentials
+Tue May 15 17:22:56 UTC 2018: No link for: org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testEmptyCharArrayCredentials
+Tue May 15 17:22:56 UTC 2018: No link for: org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testEmptyNullCredentials
+Tue May 15 17:22:57 UTC 2018: No link for: org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest-testAuthenticationMechanism
+Tue May 15 17:22:57 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.realm.ldap.JndiLdapContextFactoryTest
+Tue May 15 17:22:57 UTC 2018: Found element on the queue
+Tue May 15 17:22:57 UTC 2018: Updating status
+Tue May 15 17:22:57 UTC 2018: Working
+Tue May 15 17:23:00 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.util.RegExPatternMatcherTest
+Tue May 15 17:23:00 UTC 2018: Setting lastTestMethodIndex: 39970
+Tue May 15 17:23:00 UTC 2018: Starting linking
+Tue May 15 17:23:00 UTC 2018: No link for: org.apache.shiro.util.RegExPatternMatcherTest-testSimplePattern
+Tue May 15 17:23:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:00 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.util.RegExPatternMatcherTest
+Tue May 15 17:23:00 UTC 2018: Found element on the queue
+Tue May 15 17:23:00 UTC 2018: Updating status
+Tue May 15 17:23:00 UTC 2018: Working
+Tue May 15 17:23:03 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.util.StringUtilsTest
+Tue May 15 17:23:03 UTC 2018: Setting lastTestMethodIndex: 39971
+Tue May 15 17:23:03 UTC 2018: Starting linking
+Tue May 15 17:23:03 UTC 2018: No link for: org.apache.shiro.util.StringUtilsTest-splitWithQuotedCommasAndSpaces
+Tue May 15 17:23:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:03 UTC 2018: No link for: org.apache.shiro.util.StringUtilsTest-splitTestWithQuotedCommas
+Tue May 15 17:23:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:03 UTC 2018: No link for: org.apache.shiro.util.StringUtilsTest-splitWithQuotedCommasAndSpacesAndEscapedQuotes
+Tue May 15 17:23:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:04 UTC 2018: No link for: org.apache.shiro.util.StringUtilsTest-splitWithQuotedCommasAndSpacesAndDifferentQuoteChars
+Tue May 15 17:23:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:04 UTC 2018: No link for: org.apache.shiro.util.StringUtilsTest-splitWithQuotedCommasAndSpacesAndDifferentQuoteCharsWhileRetainingQuotes
+Tue May 15 17:23:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:04 UTC 2018: No link for: org.apache.shiro.util.StringUtilsTest-splitWithNullInput
+Tue May 15 17:23:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:04 UTC 2018: No link for: org.apache.shiro.util.StringUtilsTest-splitWithCommas
+Tue May 15 17:23:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:04 UTC 2018: No link for: org.apache.shiro.util.StringUtilsTest-splitWithCommasAndSpaces
+Tue May 15 17:23:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:04 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.util.StringUtilsTest
+Tue May 15 17:23:05 UTC 2018: Found element on the queue
+Tue May 15 17:23:05 UTC 2018: Updating status
+Tue May 15 17:23:05 UTC 2018: Working
+Tue May 15 17:23:07 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.jndi.JndiObjectFactoryTest
+Tue May 15 17:23:07 UTC 2018: Setting lastTestMethodIndex: 39973
+Tue May 15 17:23:07 UTC 2018: Starting linking
+Tue May 15 17:23:07 UTC 2018: Code found org.apache.shiro.jndi.JndiObjectFactory-getInstance with org.apache.shiro.jndi.JndiObjectFactoryTest-testGetInstanceNoType
+Tue May 15 17:23:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:07 UTC 2018: Code found org.apache.shiro.jndi.JndiObjectFactory-getInstance with org.apache.shiro.jndi.JndiObjectFactoryTest-testGetInstanceWithType
+Tue May 15 17:23:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:07 UTC 2018: No link for: org.apache.shiro.jndi.JndiObjectFactoryTest-testJndiLookupFailsNoType
+Tue May 15 17:23:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:08 UTC 2018: No link for: org.apache.shiro.jndi.JndiObjectFactoryTest-testJndiLookupFailsWithType
+Tue May 15 17:23:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:08 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.jndi.JndiObjectFactoryTest
+Tue May 15 17:23:08 UTC 2018: Found element on the queue
+Tue May 15 17:23:08 UTC 2018: Updating status
+Tue May 15 17:23:08 UTC 2018: Working
+Tue May 15 17:23:08 UTC 2018: Create project parser
+Tue May 15 17:23:11 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest
+Tue May 15 17:23:11 UTC 2018: Setting lastTestMethodIndex: 39975
+Tue May 15 17:23:11 UTC 2018: Starting linking
+Tue May 15 17:23:11 UTC 2018: Code found org.apache.shiro.samples.aspectj.bank.SecureBankService-withdrawFrom with org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testWithdrawFrom_notEnoughFunds
+Tue May 15 17:23:11 UTC 2018: Code found org.apache.shiro.samples.aspectj.bank.SecureBankService-withdrawFrom with org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testWithdrawFrom_emptyAccount
+Tue May 15 17:23:11 UTC 2018: Code found org.apache.shiro.samples.aspectj.bank.SecureBankService-closeAccount with org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testCloseAccount_zeroBalance
+Tue May 15 17:23:12 UTC 2018: Code found org.apache.shiro.samples.aspectj.bank.SecureBankService-closeAccount with org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testCloseAccount_withBalance
+Tue May 15 17:23:12 UTC 2018: Code found org.apache.shiro.samples.aspectj.bank.SecureBankService-closeAccount with org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testCloseAccount_unauthorizedAttempt
+Tue May 15 17:23:12 UTC 2018: Code found org.apache.shiro.samples.aspectj.bank.SecureBankService-closeAccount with org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testCloseAccount_alreadyClosed
+Tue May 15 17:23:12 UTC 2018: No link for: org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testWithdrawFrom_upToZero
+Tue May 15 17:23:12 UTC 2018: No link for: org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testCreateAccount
+Tue May 15 17:23:12 UTC 2018: No link for: org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testDepositInto_multiTxs
+Tue May 15 17:23:13 UTC 2018: No link for: org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testDepositInto_singleTx
+Tue May 15 17:23:13 UTC 2018: No link for: org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testWithdrawFrom_singleTx
+Tue May 15 17:23:13 UTC 2018: No link for: org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest-testWithdrawFrom_manyTxs
+Tue May 15 17:23:13 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.samples.aspectj.bank.SecureBankServiceTest
+Tue May 15 17:23:13 UTC 2018: Found element on the queue
+Tue May 15 17:23:13 UTC 2018: Updating status
+Tue May 15 17:23:13 UTC 2018: Working
+Tue May 15 17:23:13 UTC 2018: Create project parser
+Tue May 15 17:23:16 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.aspectj.DummyServiceTest
+Tue May 15 17:23:16 UTC 2018: Setting lastTestMethodIndex: 39978
+Tue May 15 17:23:16 UTC 2018: Starting linking
+Tue May 15 17:23:16 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-anonymous with org.apache.shiro.aspectj.DummyServiceTest-testAnonymous_asAdmin
+Tue May 15 17:23:16 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-peek with org.apache.shiro.aspectj.DummyServiceTest-testPeek_asAnonymous
+Tue May 15 17:23:16 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-change with org.apache.shiro.aspectj.DummyServiceTest-testChange_asAdmin
+Tue May 15 17:23:16 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-anonymous with org.apache.shiro.aspectj.DummyServiceTest-testAnonymous_asUser
+Tue May 15 17:23:16 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-retrieve with org.apache.shiro.aspectj.DummyServiceTest-testRetrieve_asAdmin
+Tue May 15 17:23:17 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-peek with org.apache.shiro.aspectj.DummyServiceTest-testPeek_asAdmin
+Tue May 15 17:23:17 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-retrieve with org.apache.shiro.aspectj.DummyServiceTest-testRetrieve_asUser
+Tue May 15 17:23:17 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-change with org.apache.shiro.aspectj.DummyServiceTest-testChange_asUser
+Tue May 15 17:23:17 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-peek with org.apache.shiro.aspectj.DummyServiceTest-testPeek_asUser
+Tue May 15 17:23:17 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-retrieve with org.apache.shiro.aspectj.DummyServiceTest-testRetrieve_asAnonymous
+Tue May 15 17:23:17 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-change with org.apache.shiro.aspectj.DummyServiceTest-testChange_asAnonymous
+Tue May 15 17:23:17 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-guest with org.apache.shiro.aspectj.DummyServiceTest-testGuest_asAdmin
+Tue May 15 17:23:17 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-guest with org.apache.shiro.aspectj.DummyServiceTest-testGuest_asUser
+Tue May 15 17:23:18 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-guest with org.apache.shiro.aspectj.DummyServiceTest-testGuest_asAnonymous
+Tue May 15 17:23:18 UTC 2018: Code found org.apache.shiro.aspectj.SecuredDummyService-anonymous with org.apache.shiro.aspectj.DummyServiceTest-testAnonymous_asAnonymous
+Tue May 15 17:23:18 UTC 2018: No link for: org.apache.shiro.aspectj.DummyServiceTest-testRetrieveRestricted_asUser
+Tue May 15 17:23:18 UTC 2018: No link for: org.apache.shiro.aspectj.DummyServiceTest-testRetrieveRestricted_asAdmin
+Tue May 15 17:23:18 UTC 2018: No link for: org.apache.shiro.aspectj.DummyServiceTest-testRetrieveRestricted_asAnonymous
+Tue May 15 17:23:18 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.aspectj.DummyServiceTest
+Tue May 15 17:23:19 UTC 2018: Found element on the queue
+Tue May 15 17:23:19 UTC 2018: Updating status
+Tue May 15 17:23:19 UTC 2018: Working
+Tue May 15 17:23:19 UTC 2018: Create project parser
+Tue May 15 17:23:21 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.cache.ehcache.EhCacheManagerTest
+Tue May 15 17:23:21 UTC 2018: Setting lastTestMethodIndex: 39979
+Tue May 15 17:23:21 UTC 2018: Starting linking
+Tue May 15 17:23:21 UTC 2018: Code found org.apache.shiro.cache.ehcache.EhCacheManager-init with org.apache.shiro.cache.ehcache.EhCacheManagerTest-testCacheManagerCreationDuringInit
+Tue May 15 17:23:21 UTC 2018: No link for: org.apache.shiro.cache.ehcache.EhCacheManagerTest-testLazyCacheManagerCreationWithoutCallingInit
+Tue May 15 17:23:21 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.cache.ehcache.EhCacheManagerTest
+Tue May 15 17:23:22 UTC 2018: Found element on the queue
+Tue May 15 17:23:22 UTC 2018: Updating status
+Tue May 15 17:23:22 UTC 2018: Working
+Tue May 15 17:23:22 UTC 2018: Create project parser
+Tue May 15 17:23:25 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.ShiroModuleTest
+Tue May 15 17:23:25 UTC 2018: Setting lastTestMethodIndex: 39982
+Tue May 15 17:23:25 UTC 2018: Starting linking
+Tue May 15 17:23:25 UTC 2018: Code found org.apache.shiro.guice.ShiroModule-destroy with org.apache.shiro.guice.ShiroModuleTest-testDestroy
+Tue May 15 17:23:25 UTC 2018: No link for: org.apache.shiro.guice.ShiroModuleTest-testBindSessionManager
+Tue May 15 17:23:25 UTC 2018: No link for: org.apache.shiro.guice.ShiroModuleTest-testEventListener
+Tue May 15 17:23:25 UTC 2018: No link for: org.apache.shiro.guice.ShiroModuleTest-testConfigure
+Tue May 15 17:23:26 UTC 2018: No link for: org.apache.shiro.guice.ShiroModuleTest-testEventBusAware
+Tue May 15 17:23:26 UTC 2018: No link for: org.apache.shiro.guice.ShiroModuleTest-testBindSecurityManager
+Tue May 15 17:23:26 UTC 2018: No link for: org.apache.shiro.guice.ShiroModuleTest-basicInstantiation
+Tue May 15 17:23:26 UTC 2018: No link for: org.apache.shiro.guice.ShiroModuleTest-testBindEnvironment
+Tue May 15 17:23:26 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.ShiroModuleTest
+Tue May 15 17:23:27 UTC 2018: Found element on the queue
+Tue May 15 17:23:27 UTC 2018: Updating status
+Tue May 15 17:23:27 UTC 2018: Working
+Tue May 15 17:23:29 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.GuiceEnvironmentTest
+Tue May 15 17:23:29 UTC 2018: Setting lastTestMethodIndex: 39984
+Tue May 15 17:23:29 UTC 2018: Starting linking
+Tue May 15 17:23:29 UTC 2018: Code found org.apache.shiro.guice.GuiceEnvironment-getSecurityManager with org.apache.shiro.guice.GuiceEnvironmentTest-testGetSecurityManager
+Tue May 15 17:23:29 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:29 UTC 2018: No link for: org.apache.shiro.guice.GuiceEnvironmentTest-ensureInjectable
+Tue May 15 17:23:29 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:29 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.GuiceEnvironmentTest
+Tue May 15 17:23:30 UTC 2018: Found element on the queue
+Tue May 15 17:23:30 UTC 2018: Updating status
+Tue May 15 17:23:30 UTC 2018: Working
+Tue May 15 17:23:32 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.ShiroMatchersTest
+Tue May 15 17:23:32 UTC 2018: Setting lastTestMethodIndex: 39986
+Tue May 15 17:23:32 UTC 2018: Starting linking
+Tue May 15 17:23:32 UTC 2018: Code found org.apache.shiro.guice.ShiroMatchers-typeLiteral with org.apache.shiro.guice.ShiroMatchersTest-testTypeLiteral
+Tue May 15 17:23:32 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:32 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.ShiroMatchersTest
+Tue May 15 17:23:33 UTC 2018: Found element on the queue
+Tue May 15 17:23:33 UTC 2018: Updating status
+Tue May 15 17:23:33 UTC 2018: Working
+Tue May 15 17:23:35 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.InitializableInjectionListenerTest
+Tue May 15 17:23:35 UTC 2018: Setting lastTestMethodIndex: 39988
+Tue May 15 17:23:35 UTC 2018: Starting linking
+Tue May 15 17:23:35 UTC 2018: Code found org.apache.shiro.guice.InitializableInjectionListener-afterInjection with org.apache.shiro.guice.InitializableInjectionListenerTest-testAfterInjection
+Tue May 15 17:23:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:35 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.InitializableInjectionListenerTest
+Tue May 15 17:23:36 UTC 2018: Found element on the queue
+Tue May 15 17:23:36 UTC 2018: Updating status
+Tue May 15 17:23:36 UTC 2018: Working
+Tue May 15 17:23:39 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.DestroyableInjectionListenerTest
+Tue May 15 17:23:39 UTC 2018: Setting lastTestMethodIndex: 39989
+Tue May 15 17:23:39 UTC 2018: Starting linking
+Tue May 15 17:23:39 UTC 2018: Code found org.apache.shiro.guice.DestroyableInjectionListener-afterInjection with org.apache.shiro.guice.DestroyableInjectionListenerTest-testAfterInjection
+Tue May 15 17:23:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:39 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.DestroyableInjectionListenerTest
+Tue May 15 17:23:39 UTC 2018: Found element on the queue
+Tue May 15 17:23:39 UTC 2018: Updating status
+Tue May 15 17:23:39 UTC 2018: Working
+Tue May 15 17:23:42 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.BeanTypeListenerTest
+Tue May 15 17:23:42 UTC 2018: Setting lastTestMethodIndex: 39991
+Tue May 15 17:23:42 UTC 2018: Starting linking
+Tue May 15 17:23:42 UTC 2018: No link for: org.apache.shiro.guice.BeanTypeListenerTest-testUnmatchedPackage
+Tue May 15 17:23:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:42 UTC 2018: No link for: org.apache.shiro.guice.BeanTypeListenerTest-testPropertySetting
+Tue May 15 17:23:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:42 UTC 2018: No link for: org.apache.shiro.guice.BeanTypeListenerTest-testMatchedPackage
+Tue May 15 17:23:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:42 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.BeanTypeListenerTest
+Tue May 15 17:23:43 UTC 2018: Found element on the queue
+Tue May 15 17:23:43 UTC 2018: Updating status
+Tue May 15 17:23:43 UTC 2018: Working
+Tue May 15 17:23:45 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.LifecycleTypeListenerTest
+Tue May 15 17:23:45 UTC 2018: Setting lastTestMethodIndex: 39993
+Tue May 15 17:23:45 UTC 2018: Starting linking
+Tue May 15 17:23:45 UTC 2018: Code found org.apache.shiro.guice.LifecycleTypeListener-hear with org.apache.shiro.guice.LifecycleTypeListenerTest-testHearDestroyable
+Tue May 15 17:23:45 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:45 UTC 2018: Code found org.apache.shiro.guice.LifecycleTypeListener-hear with org.apache.shiro.guice.LifecycleTypeListenerTest-testHearInitializable
+Tue May 15 17:23:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:46 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.LifecycleTypeListenerTest
+Tue May 15 17:23:46 UTC 2018: Found element on the queue
+Tue May 15 17:23:46 UTC 2018: Updating status
+Tue May 15 17:23:46 UTC 2018: Working
+Tue May 15 17:23:48 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.aop.AopAllianceMethodInterceptorAdapterTest
+Tue May 15 17:23:48 UTC 2018: Setting lastTestMethodIndex: 39995
+Tue May 15 17:23:48 UTC 2018: Starting linking
+Tue May 15 17:23:48 UTC 2018: Code found org.apache.shiro.guice.aop.AopAllianceMethodInterceptorAdapter-invoke with org.apache.shiro.guice.aop.AopAllianceMethodInterceptorAdapterTest-testInvoke
+Tue May 15 17:23:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:49 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.aop.AopAllianceMethodInterceptorAdapterTest
+Tue May 15 17:23:49 UTC 2018: Found element on the queue
+Tue May 15 17:23:49 UTC 2018: Updating status
+Tue May 15 17:23:49 UTC 2018: Working
+Tue May 15 17:23:51 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapterTest
+Tue May 15 17:23:51 UTC 2018: Setting lastTestMethodIndex: 39997
+Tue May 15 17:23:51 UTC 2018: Starting linking
+Tue May 15 17:23:51 UTC 2018: Code found org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapter-getMethod with org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapterTest-testGetMethod
+Tue May 15 17:23:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:52 UTC 2018: Code found org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapter-getThis with org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapterTest-testGetThis
+Tue May 15 17:23:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:52 UTC 2018: Code found org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapter-getArguments with org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapterTest-testGetArguments
+Tue May 15 17:23:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:52 UTC 2018: Code found org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapter-proceed with org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapterTest-testProceed
+Tue May 15 17:23:52 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:23:52 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.aop.AopAllianceMethodInvocationAdapterTest
+Tue May 15 17:23:53 UTC 2018: Found element on the queue
+Tue May 15 17:23:53 UTC 2018: Updating status
+Tue May 15 17:23:53 UTC 2018: Working
+Tue May 15 17:23:55 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.aop.ShiroAopModuleTest
+Tue May 15 17:23:55 UTC 2018: Setting lastTestMethodIndex: 39999
+Tue May 15 17:23:55 UTC 2018: Starting linking
+Tue May 15 17:23:55 UTC 2018: No link for: org.apache.shiro.guice.aop.ShiroAopModuleTest-testBindShiroInterceptor
+Tue May 15 17:23:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:55 UTC 2018: No link for: org.apache.shiro.guice.aop.ShiroAopModuleTest-testGetAnnotationResolver
+Tue May 15 17:23:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:23:55 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.aop.ShiroAopModuleTest
+Tue May 15 17:23:56 UTC 2018: Found element on the queue
+Tue May 15 17:23:56 UTC 2018: Updating status
+Tue May 15 17:23:56 UTC 2018: Working
+Tue May 15 17:23:58 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.ShiroSessionScopeTest
+Tue May 15 17:23:58 UTC 2018: Setting lastTestMethodIndex: 40001
+Tue May 15 17:23:58 UTC 2018: Starting linking
+Tue May 15 17:23:58 UTC 2018: Code found org.apache.shiro.guice.ShiroSessionScope-scope with org.apache.shiro.guice.ShiroSessionScopeTest-testScope
+Tue May 15 17:23:59 UTC 2018: Code found org.apache.shiro.guice.ShiroSessionScope-scope with org.apache.shiro.guice.ShiroSessionScopeTest-testOutOfScope
+Tue May 15 17:23:59 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.ShiroSessionScopeTest
+Tue May 15 17:23:59 UTC 2018: Found element on the queue
+Tue May 15 17:23:59 UTC 2018: Updating status
+Tue May 15 17:23:59 UTC 2018: Working
+Tue May 15 17:24:02 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.ShiroWebModuleTest
+Tue May 15 17:24:02 UTC 2018: Setting lastTestMethodIndex: 40003
+Tue May 15 17:24:02 UTC 2018: Starting linking
+Tue May 15 17:24:02 UTC 2018: No link for: org.apache.shiro.guice.web.ShiroWebModuleTest-basicInstantiation
+Tue May 15 17:24:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:02 UTC 2018: No link for: org.apache.shiro.guice.web.ShiroWebModuleTest-testBindWebEnvironment
+Tue May 15 17:24:02 UTC 2018: No link for: org.apache.shiro.guice.web.ShiroWebModuleTest-testBindGuiceFilter
+Tue May 15 17:24:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:02 UTC 2018: No link for: org.apache.shiro.guice.web.ShiroWebModuleTest-testBindWebSecurityManager
+Tue May 15 17:24:02 UTC 2018: No link for: org.apache.shiro.guice.web.ShiroWebModuleTest-testAddFilterChainGuice3Only
+Tue May 15 17:24:02 UTC 2018: No link for: org.apache.shiro.guice.web.ShiroWebModuleTest-testAddFilterChainGuice3and4
+Tue May 15 17:24:03 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.ShiroWebModuleTest
+Tue May 15 17:24:03 UTC 2018: Found element on the queue
+Tue May 15 17:24:03 UTC 2018: Updating status
+Tue May 15 17:24:03 UTC 2018: Working
+Tue May 15 17:24:06 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.WebGuiceEnvironmentTest
+Tue May 15 17:24:06 UTC 2018: Setting lastTestMethodIndex: 40005
+Tue May 15 17:24:06 UTC 2018: Starting linking
+Tue May 15 17:24:06 UTC 2018: No link for: org.apache.shiro.guice.web.WebGuiceEnvironmentTest-testConstructor
+Tue May 15 17:24:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:06 UTC 2018: No link for: org.apache.shiro.guice.web.WebGuiceEnvironmentTest-ensureInjectable
+Tue May 15 17:24:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:06 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.WebGuiceEnvironmentTest
+Tue May 15 17:24:07 UTC 2018: Found element on the queue
+Tue May 15 17:24:07 UTC 2018: Updating status
+Tue May 15 17:24:07 UTC 2018: Working
+Tue May 15 17:24:09 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.PathMatchingFilterProviderTest
+Tue May 15 17:24:09 UTC 2018: Setting lastTestMethodIndex: 40007
+Tue May 15 17:24:09 UTC 2018: Starting linking
+Tue May 15 17:24:09 UTC 2018: Code found org.apache.shiro.guice.web.PathMatchingFilterProvider-postProcess with org.apache.shiro.guice.web.PathMatchingFilterProviderTest-testPostProcess
+Tue May 15 17:24:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:24:09 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.PathMatchingFilterProviderTest
+Tue May 15 17:24:10 UTC 2018: Found element on the queue
+Tue May 15 17:24:10 UTC 2018: Updating status
+Tue May 15 17:24:10 UTC 2018: Working
+Tue May 15 17:24:12 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.SimpleFilterChainResolverTest
+Tue May 15 17:24:12 UTC 2018: Setting lastTestMethodIndex: 40008
+Tue May 15 17:24:12 UTC 2018: Starting linking
+Tue May 15 17:24:12 UTC 2018: Code found org.apache.shiro.guice.web.SimpleFilterChainResolver-getChain with org.apache.shiro.guice.web.SimpleFilterChainResolverTest-testGetChain
+Tue May 15 17:24:12 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.SimpleFilterChainResolverTest
+Tue May 15 17:24:13 UTC 2018: Found element on the queue
+Tue May 15 17:24:13 UTC 2018: Updating status
+Tue May 15 17:24:13 UTC 2018: Working
+Tue May 15 17:24:15 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.SimpleFilterChainTest
+Tue May 15 17:24:15 UTC 2018: Setting lastTestMethodIndex: 40010
+Tue May 15 17:24:15 UTC 2018: Starting linking
+Tue May 15 17:24:15 UTC 2018: Code found org.apache.shiro.guice.web.SimpleFilterChain-doFilter with org.apache.shiro.guice.web.SimpleFilterChainTest-testDoFilter
+Tue May 15 17:24:15 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.SimpleFilterChainTest
+Tue May 15 17:24:16 UTC 2018: Found element on the queue
+Tue May 15 17:24:16 UTC 2018: Updating status
+Tue May 15 17:24:16 UTC 2018: Working
+Tue May 15 17:24:18 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.GuiceShiroFilterTest
+Tue May 15 17:24:18 UTC 2018: Setting lastTestMethodIndex: 40012
+Tue May 15 17:24:18 UTC 2018: Starting linking
+Tue May 15 17:24:18 UTC 2018: No link for: org.apache.shiro.guice.web.GuiceShiroFilterTest-ensureInjectable
+Tue May 15 17:24:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:18 UTC 2018: No link for: org.apache.shiro.guice.web.GuiceShiroFilterTest-testConstructor
+Tue May 15 17:24:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:19 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.GuiceShiroFilterTest
+Tue May 15 17:24:19 UTC 2018: Found element on the queue
+Tue May 15 17:24:19 UTC 2018: Updating status
+Tue May 15 17:24:19 UTC 2018: Working
+Tue May 15 17:24:22 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.AbstractInjectionProviderTest
+Tue May 15 17:24:22 UTC 2018: Setting lastTestMethodIndex: 40014
+Tue May 15 17:24:22 UTC 2018: Starting linking
+Tue May 15 17:24:22 UTC 2018: Code found org.apache.shiro.guice.web.AbstractInjectionProvider-get with org.apache.shiro.guice.web.AbstractInjectionProviderTest-testGet
+Tue May 15 17:24:22 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:24:22 UTC 2018: Code found org.apache.shiro.guice.web.AbstractInjectionProvider-getDependencies with org.apache.shiro.guice.web.AbstractInjectionProviderTest-testGetDependencies
+Tue May 15 17:24:22 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:24:22 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.AbstractInjectionProviderTest
+Tue May 15 17:24:22 UTC 2018: Found element on the queue
+Tue May 15 17:24:22 UTC 2018: Updating status
+Tue May 15 17:24:22 UTC 2018: Working
+Tue May 15 17:24:25 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.FilterChainResolverProviderTest
+Tue May 15 17:24:25 UTC 2018: Setting lastTestMethodIndex: 40016
+Tue May 15 17:24:25 UTC 2018: Starting linking
+Tue May 15 17:24:25 UTC 2018: Code found org.apache.shiro.guice.web.FilterChainResolverProvider-getDependencies with org.apache.shiro.guice.web.FilterChainResolverProviderTest-testGetDependencies
+Tue May 15 17:24:25 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:24:25 UTC 2018: Code found org.apache.shiro.guice.web.FilterChainResolverProvider-get with org.apache.shiro.guice.web.FilterChainResolverProviderTest-testGet
+Tue May 15 17:24:25 UTC 2018: Match not added in database because it already exists
+Tue May 15 17:24:25 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.FilterChainResolverProviderTest
+Tue May 15 17:24:26 UTC 2018: Found element on the queue
+Tue May 15 17:24:26 UTC 2018: Updating status
+Tue May 15 17:24:26 UTC 2018: Working
+Tue May 15 17:24:28 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.DefaultFiltersTest
+Tue May 15 17:24:28 UTC 2018: Setting lastTestMethodIndex: 40018
+Tue May 15 17:24:28 UTC 2018: Starting linking
+Tue May 15 17:24:28 UTC 2018: No link for: org.apache.shiro.guice.web.DefaultFiltersTest-checkDefaultFilters
+Tue May 15 17:24:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:28 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.DefaultFiltersTest
+Tue May 15 17:24:29 UTC 2018: Found element on the queue
+Tue May 15 17:24:29 UTC 2018: Updating status
+Tue May 15 17:24:29 UTC 2018: Working
+Tue May 15 17:24:31 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.guice.web.FilterConfigTest
+Tue May 15 17:24:31 UTC 2018: Setting lastTestMethodIndex: 40020
+Tue May 15 17:24:31 UTC 2018: Starting linking
+Tue May 15 17:24:31 UTC 2018: No link for: org.apache.shiro.guice.web.FilterConfigTest-testWithConfig
+Tue May 15 17:24:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:31 UTC 2018: No link for: org.apache.shiro.guice.web.FilterConfigTest-testSimple
+Tue May 15 17:24:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:31 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.guice.web.FilterConfigTest
+Tue May 15 17:24:32 UTC 2018: Found element on the queue
+Tue May 15 17:24:32 UTC 2018: Updating status
+Tue May 15 17:24:32 UTC 2018: Working
+Tue May 15 17:24:32 UTC 2018: Create project parser
+Tue May 15 17:24:34 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.spring.remoting.SecureRemoteInvocationFactoryTest
+Tue May 15 17:24:34 UTC 2018: Setting lastTestMethodIndex: 40022
+Tue May 15 17:24:34 UTC 2018: Starting linking
+Tue May 15 17:24:34 UTC 2018: No link for: org.apache.shiro.spring.remoting.SecureRemoteInvocationFactoryTest-testSessionManagerProxyNonStartRemoteInvocation
+Tue May 15 17:24:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:34 UTC 2018: No link for: org.apache.shiro.spring.remoting.SecureRemoteInvocationFactoryTest-testSessionManagerProxyStartRemoteInvocation
+Tue May 15 17:24:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:24:35 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.spring.remoting.SecureRemoteInvocationFactoryTest
+Tue May 15 17:24:35 UTC 2018: Found element on the queue
+Tue May 15 17:24:35 UTC 2018: Updating status
+Tue May 15 17:24:35 UTC 2018: Working
+Tue May 15 17:24:38 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.spring.security.interceptor.DapcAuthorizationAnnotationTest
+Tue May 15 17:24:38 UTC 2018: Setting lastTestMethodIndex: 40024
+Tue May 15 17:24:38 UTC 2018: Starting linking
+Tue May 15 17:24:38 UTC 2018: No link for: org.apache.shiro.spring.security.interceptor.DapcAuthorizationAnnotationTest-testGuestInterfaceFailure
+Tue May 15 17:24:38 UTC 2018: No link for: org.apache.shiro.spring.security.interceptor.DapcAuthorizationAnnotationTest-testAuthenticatedInterfaceFailure
+Tue May 15 17:24:38 UTC 2018: No link for: org.apache.shiro.spring.security.interceptor.DapcAuthorizationAnnotationTest-testUserInterfaceFailure
+Tue May 15 17:24:38 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.spring.security.interceptor.DapcAuthorizationAnnotationTest
+Tue May 15 17:24:39 UTC 2018: Found element on the queue
+Tue May 15 17:24:39 UTC 2018: Updating status
+Tue May 15 17:24:39 UTC 2018: Working
+Tue May 15 17:24:41 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.spring.security.interceptor.SchemaAuthorizationAnnotationTest
+Tue May 15 17:24:41 UTC 2018: Setting lastTestMethodIndex: 40026
+Tue May 15 17:24:41 UTC 2018: Starting linking
+Tue May 15 17:24:41 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.spring.security.interceptor.SchemaAuthorizationAnnotationTest
+Tue May 15 17:24:42 UTC 2018: Found element on the queue
+Tue May 15 17:24:42 UTC 2018: Updating status
+Tue May 15 17:24:42 UTC 2018: Working
+Tue May 15 17:24:44 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisorTest
+Tue May 15 17:24:44 UTC 2018: Setting lastTestMethodIndex: 40027
+Tue May 15 17:24:44 UTC 2018: Starting linking
+Tue May 15 17:24:44 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.spring.security.interceptor.AuthorizationAttributeSourceAdvisorTest
+Tue May 15 17:24:45 UTC 2018: Found element on the queue
+Tue May 15 17:24:45 UTC 2018: Updating status
+Tue May 15 17:24:45 UTC 2018: Working
+Tue May 15 17:24:47 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.spring.web.ShiroFilterFactoryBeanTest
+Tue May 15 17:24:47 UTC 2018: Setting lastTestMethodIndex: 40029
+Tue May 15 17:24:47 UTC 2018: Starting linking
+Tue May 15 17:24:47 UTC 2018: No link for: org.apache.shiro.spring.web.ShiroFilterFactoryBeanTest-testFilterDefinitionWithInit
+Tue May 15 17:24:47 UTC 2018: No link for: org.apache.shiro.spring.web.ShiroFilterFactoryBeanTest-testFilterDefinition
+Tue May 15 17:24:47 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.spring.web.ShiroFilterFactoryBeanTest
+Tue May 15 17:24:48 UTC 2018: Found element on the queue
+Tue May 15 17:24:48 UTC 2018: Updating status
+Tue May 15 17:24:48 UTC 2018: Working
+Tue May 15 17:24:48 UTC 2018: Create project parser
+Tue May 15 17:24:52 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.servlet.OncePerRequestFilterTest
+Tue May 15 17:24:52 UTC 2018: Setting lastTestMethodIndex: 40032
+Tue May 15 17:24:52 UTC 2018: Starting linking
+Tue May 15 17:24:52 UTC 2018: No link for: org.apache.shiro.web.servlet.OncePerRequestFilterTest-testEnabled
+Tue May 15 17:24:52 UTC 2018: No link for: org.apache.shiro.web.servlet.OncePerRequestFilterTest-testDisabled
+Tue May 15 17:24:52 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.servlet.OncePerRequestFilterTest
+Tue May 15 17:24:53 UTC 2018: Found element on the queue
+Tue May 15 17:24:53 UTC 2018: Updating status
+Tue May 15 17:24:53 UTC 2018: Working
+Tue May 15 17:24:55 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.servlet.SimpleCookieTest
+Tue May 15 17:24:55 UTC 2018: Setting lastTestMethodIndex: 40034
+Tue May 15 17:24:55 UTC 2018: Starting linking
+Tue May 15 17:24:55 UTC 2018: No link for: org.apache.shiro.web.servlet.SimpleCookieTest-testNullContextPath
+Tue May 15 17:24:55 UTC 2018: No link for: org.apache.shiro.web.servlet.SimpleCookieTest-testEmptyContextPath
+Tue May 15 17:24:55 UTC 2018: No link for: org.apache.shiro.web.servlet.SimpleCookieTest-testRemoveValue
+Tue May 15 17:24:56 UTC 2018: No link for: org.apache.shiro.web.servlet.SimpleCookieTest-testReadValuePrefixPath
+Tue May 15 17:24:56 UTC 2018: No link for: org.apache.shiro.web.servlet.SimpleCookieTest-testReadValueInvalidPath
+Tue May 15 17:24:56 UTC 2018: No link for: org.apache.shiro.web.servlet.SimpleCookieTest-testReadValueInvalidPrefixPath
+Tue May 15 17:24:56 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.servlet.SimpleCookieTest
+Tue May 15 17:24:57 UTC 2018: Found element on the queue
+Tue May 15 17:24:57 UTC 2018: Updating status
+Tue May 15 17:24:57 UTC 2018: Working
+Tue May 15 17:24:59 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.mgt.CookieRememberMeManagerTest
+Tue May 15 17:24:59 UTC 2018: Setting lastTestMethodIndex: 40036
+Tue May 15 17:24:59 UTC 2018: Starting linking
+Tue May 15 17:24:59 UTC 2018: No code found org.apache.shiro.web.mgt.CookieRememberMeManager-getRememberedPrincipals with org.apache.shiro.web.mgt.CookieRememberMeManagerTest-getRememberedPrincipalsNoMoreDefaultCipher
+Tue May 15 17:24:59 UTC 2018: No code found org.apache.shiro.web.mgt.CookieRememberMeManager-getRememberedPrincipals with org.apache.shiro.web.mgt.CookieRememberMeManagerTest-getRememberedPrincipalsDecryptionError
+Tue May 15 17:24:59 UTC 2018: Code found org.apache.shiro.web.mgt.CookieRememberMeManager-getRememberedSerializedIdentity with org.apache.shiro.web.mgt.CookieRememberMeManagerTest-getRememberedSerializedIdentityReturnsNullForDeletedCookie
+Tue May 15 17:25:00 UTC 2018: No code found org.apache.shiro.web.mgt.CookieRememberMeManager-getRememberedPrincipals with org.apache.shiro.web.mgt.CookieRememberMeManagerTest-getRememberedPrincipals
+Tue May 15 17:25:00 UTC 2018: No code found org.apache.shiro.web.mgt.CookieRememberMeManager-onSuccessfulLogin with org.apache.shiro.web.mgt.CookieRememberMeManagerTest-onSuccessfulLogin
+Tue May 15 17:25:00 UTC 2018: No code found org.apache.shiro.web.mgt.CookieRememberMeManager-onLogout with org.apache.shiro.web.mgt.CookieRememberMeManagerTest-onLogout
+Tue May 15 17:25:00 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.mgt.CookieRememberMeManagerTest
+Tue May 15 17:25:01 UTC 2018: Found element on the queue
+Tue May 15 17:25:01 UTC 2018: Updating status
+Tue May 15 17:25:01 UTC 2018: Working
+Tue May 15 17:25:04 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest
+Tue May 15 17:25:04 UTC 2018: Setting lastTestMethodIndex: 40038
+Tue May 15 17:25:04 UTC 2018: Starting linking
+Tue May 15 17:25:04 UTC 2018: No link for: org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest-testLogin
+Tue May 15 17:25:04 UTC 2018: No link for: org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest-checkSessionManagerDeterminesContainerSessionMode
+Tue May 15 17:25:04 UTC 2018: No link for: org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest-testGetSubjectByRequestSessionId
+Tue May 15 17:25:04 UTC 2018: No link for: org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest-testBuildNonWebSubjectWithDefaultServletContainerSessionManager
+Tue May 15 17:25:04 UTC 2018: No link for: org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest-testSessionTimeout
+Tue May 15 17:25:04 UTC 2018: No link for: org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest-testGetSubjectByRequestResponsePair
+Tue May 15 17:25:05 UTC 2018: No link for: org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest-shiroSessionModeInit
+Tue May 15 17:25:05 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.mgt.DefaultWebSecurityManagerTest
+Tue May 15 17:25:05 UTC 2018: Found element on the queue
+Tue May 15 17:25:05 UTC 2018: Updating status
+Tue May 15 17:25:05 UTC 2018: Working
+Tue May 15 17:25:08 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.session.HttpServletSessionTest
+Tue May 15 17:25:08 UTC 2018: Setting lastTestMethodIndex: 40040
+Tue May 15 17:25:08 UTC 2018: Starting linking
+Tue May 15 17:25:08 UTC 2018: No link for: org.apache.shiro.web.session.HttpServletSessionTest-testLongTimeout
+Tue May 15 17:25:08 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.session.HttpServletSessionTest
+Tue May 15 17:25:08 UTC 2018: Found element on the queue
+Tue May 15 17:25:08 UTC 2018: Updating status
+Tue May 15 17:25:08 UTC 2018: Working
+Tue May 15 17:25:11 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.authc.AnonymousFilterTest
+Tue May 15 17:25:11 UTC 2018: Setting lastTestMethodIndex: 40042
+Tue May 15 17:25:11 UTC 2018: Starting linking
+Tue May 15 17:25:11 UTC 2018: No link for: org.apache.shiro.web.filter.authc.AnonymousFilterTest-test
+Tue May 15 17:25:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:11 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.authc.AnonymousFilterTest
+Tue May 15 17:25:11 UTC 2018: Found element on the queue
+Tue May 15 17:25:11 UTC 2018: Updating status
+Tue May 15 17:25:11 UTC 2018: Working
+Tue May 15 17:25:14 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest
+Tue May 15 17:25:14 UTC 2018: Setting lastTestMethodIndex: 40044
+Tue May 15 17:25:14 UTC 2018: Starting linking
+Tue May 15 17:25:14 UTC 2018: Code found org.apache.shiro.web.filter.authc.BasicHttpAuthenticationFilter-createToken with org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-createTokenNoUsername
+Tue May 15 17:25:14 UTC 2018: Code found org.apache.shiro.web.filter.authc.BasicHttpAuthenticationFilter-createToken with org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-createTokenColonInPassword
+Tue May 15 17:25:14 UTC 2018: Code found org.apache.shiro.web.filter.authc.BasicHttpAuthenticationFilter-createToken with org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-createTokenNoPassword
+Tue May 15 17:25:14 UTC 2018: Code found org.apache.shiro.web.filter.authc.BasicHttpAuthenticationFilter-createToken with org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-createTokenNoAuthorizationHeader
+Tue May 15 17:25:14 UTC 2018: No link for: org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-httpMethodsAreCaseInsensitive
+Tue May 15 17:25:15 UTC 2018: No link for: org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-httpMethodDoesNotRequireAuthentication
+Tue May 15 17:25:15 UTC 2018: No link for: org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-httpMethodRequiresAuthenticationWithPermissive
+Tue May 15 17:25:15 UTC 2018: No link for: org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-allHttpMethodsRequireAuthenticationIfNoneConfigured
+Tue May 15 17:25:15 UTC 2018: No link for: org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-permissiveEnabledWithLoginTest
+Tue May 15 17:25:15 UTC 2018: No link for: org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-allHttpMethodsRequireAuthenticationIfNullConfig
+Tue May 15 17:25:15 UTC 2018: No link for: org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-httpMethodRequiresAuthentication
+Tue May 15 17:25:15 UTC 2018: No link for: org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest-permissiveEnabledTest
+Tue May 15 17:25:16 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.authc.BasicHttpFilterAuthenticationTest
+Tue May 15 17:25:16 UTC 2018: Found element on the queue
+Tue May 15 17:25:16 UTC 2018: Updating status
+Tue May 15 17:25:16 UTC 2018: Working
+Tue May 15 17:25:19 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.PathMatchingFilterTest
+Tue May 15 17:25:19 UTC 2018: Setting lastTestMethodIndex: 40046
+Tue May 15 17:25:19 UTC 2018: Starting linking
+Tue May 15 17:25:19 UTC 2018: No link for: org.apache.shiro.web.filter.PathMatchingFilterTest-testDisabledBasedOnPath
+Tue May 15 17:25:19 UTC 2018: No link for: org.apache.shiro.web.filter.PathMatchingFilterTest-testEnabled
+Tue May 15 17:25:19 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.PathMatchingFilterTest
+Tue May 15 17:25:19 UTC 2018: Found element on the queue
+Tue May 15 17:25:19 UTC 2018: Updating status
+Tue May 15 17:25:19 UTC 2018: Working
+Tue May 15 17:25:22 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest
+Tue May 15 17:25:22 UTC 2018: Setting lastTestMethodIndex: 40048
+Tue May 15 17:25:22 UTC 2018: Starting linking
+Tue May 15 17:25:22 UTC 2018: Code found org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolver-getChain with org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest-testGetChainsWithoutChains
+Tue May 15 17:25:22 UTC 2018: Code found org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolver-getChain with org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest-testGetChainsWithMatch
+Tue May 15 17:25:22 UTC 2018: Code found org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolver-getChain with org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest-testGetChainsWithoutMatch
+Tue May 15 17:25:22 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest-testNewInstance
+Tue May 15 17:25:22 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest-testNewInstanceWithFilterConfig
+Tue May 15 17:25:22 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest-testPathTraversalWithDotDot
+Tue May 15 17:25:23 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest-testPathTraversalWithDot
+Tue May 15 17:25:23 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest-testSetters
+Tue May 15 17:25:23 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.mgt.PathMatchingFilterChainResolverTest
+Tue May 15 17:25:23 UTC 2018: Found element on the queue
+Tue May 15 17:25:23 UTC 2018: Updating status
+Tue May 15 17:25:23 UTC 2018: Working
+Tue May 15 17:25:26 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.mgt.SimpleNamedFilterListTest
+Tue May 15 17:25:26 UTC 2018: Setting lastTestMethodIndex: 40050
+Tue May 15 17:25:26 UTC 2018: Starting linking
+Tue May 15 17:25:26 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.SimpleNamedFilterListTest-testNewInstanceNameless
+Tue May 15 17:25:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:26 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.SimpleNamedFilterListTest-testNewInstanceBackingList
+Tue May 15 17:25:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:26 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.SimpleNamedFilterListTest-testNewInstance
+Tue May 15 17:25:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:26 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.SimpleNamedFilterListTest-testListMethods
+Tue May 15 17:25:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:26 UTC 2018: No link for: org.apache.shiro.web.filter.mgt.SimpleNamedFilterListTest-testNewInstanceNullBackingList
+Tue May 15 17:25:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:26 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.mgt.SimpleNamedFilterListTest
+Tue May 15 17:25:27 UTC 2018: Found element on the queue
+Tue May 15 17:25:27 UTC 2018: Updating status
+Tue May 15 17:25:27 UTC 2018: Working
+Tue May 15 17:25:29 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.authz.HostFilterTest
+Tue May 15 17:25:29 UTC 2018: Setting lastTestMethodIndex: 40052
+Tue May 15 17:25:29 UTC 2018: Starting linking
+Tue May 15 17:25:29 UTC 2018: No link for: org.apache.shiro.web.filter.authz.HostFilterTest-testPrivateClassC
+Tue May 15 17:25:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:30 UTC 2018: No link for: org.apache.shiro.web.filter.authz.HostFilterTest-testPrivateClassB
+Tue May 15 17:25:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:30 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.authz.HostFilterTest
+Tue May 15 17:25:30 UTC 2018: Found element on the queue
+Tue May 15 17:25:30 UTC 2018: Updating status
+Tue May 15 17:25:30 UTC 2018: Working
+Tue May 15 17:25:32 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.authz.PortFilterTest
+Tue May 15 17:25:32 UTC 2018: Setting lastTestMethodIndex: 40054
+Tue May 15 17:25:32 UTC 2018: Starting linking
+Tue May 15 17:25:32 UTC 2018: No link for: org.apache.shiro.web.filter.authz.PortFilterTest-testConfiguredPort
+Tue May 15 17:25:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:32 UTC 2018: No link for: org.apache.shiro.web.filter.authz.PortFilterTest-testDefault
+Tue May 15 17:25:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 17:25:33 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.authz.PortFilterTest
+Tue May 15 17:25:33 UTC 2018: Found element on the queue
+Tue May 15 17:25:33 UTC 2018: Updating status
+Tue May 15 17:25:33 UTC 2018: Working
+Tue May 15 17:25:36 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.authz.AuthorizationFilterTest
+Tue May 15 17:25:36 UTC 2018: Setting lastTestMethodIndex: 40056
+Tue May 15 17:25:36 UTC 2018: Starting linking
+Tue May 15 17:25:36 UTC 2018: Code found org.apache.shiro.web.filter.authz.AuthorizationFilter-onAccessDenied with org.apache.shiro.web.filter.authz.AuthorizationFilterTest-testUserOnAccessDeniedWithRedirect
+Tue May 15 17:25:36 UTC 2018: Code found org.apache.shiro.web.filter.authz.AuthorizationFilter-onAccessDenied with org.apache.shiro.web.filter.authz.AuthorizationFilterTest-testUserOnAccessDeniedWithResponseError
+Tue May 15 17:25:36 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.authz.AuthorizationFilterTest
+Tue May 15 17:25:36 UTC 2018: Found element on the queue
+Tue May 15 17:25:36 UTC 2018: Updating status
+Tue May 15 17:25:36 UTC 2018: Working
+Tue May 15 17:25:39 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.filter.authz.HttpMethodPermissionFilterTest
+Tue May 15 17:25:39 UTC 2018: Setting lastTestMethodIndex: 40058
+Tue May 15 17:25:39 UTC 2018: Starting linking
+Tue May 15 17:25:39 UTC 2018: No link for: org.apache.shiro.web.filter.authz.HttpMethodPermissionFilterTest-testPermisisonMapping
+Tue May 15 17:25:39 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.filter.authz.HttpMethodPermissionFilterTest
+Tue May 15 17:25:40 UTC 2018: Found element on the queue
+Tue May 15 17:25:40 UTC 2018: Updating status
+Tue May 15 17:25:40 UTC 2018: Working
+Tue May 15 17:25:42 UTC 2018: Start ffmmqiang__shiro test class org.apache.shiro.web.config.WebIniSecurityManagerFactoryTest
+Tue May 15 17:25:42 UTC 2018: Setting lastTestMethodIndex: 40060
+Tue May 15 17:25:42 UTC 2018: Starting linking
+Tue May 15 17:25:42 UTC 2018: No link for: org.apache.shiro.web.config.WebIniSecurityManagerFactoryTest-testDefaultFiltersPresent
+Tue May 15 17:25:42 UTC 2018: Linking done for ffmmqiang__shiro test class org.apache.shiro.web.config.WebIniSecurityManagerFactoryTest

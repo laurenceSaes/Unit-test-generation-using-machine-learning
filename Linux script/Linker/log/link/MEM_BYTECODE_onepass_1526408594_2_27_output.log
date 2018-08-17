@@ -1,0 +1,173 @@
+Tue May 15 22:02:11 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:02:11 UTC 2018: Starting
+Tue May 15 22:02:12 UTC 2018: Found element on the queue
+Tue May 15 22:02:12 UTC 2018: Updating status
+Tue May 15 22:02:12 UTC 2018: Working
+Tue May 15 22:02:12 UTC 2018: Create project parser
+Tue May 15 22:02:19 UTC 2018: Create slicer
+Tue May 15 22:02:22 UTC 2018: Create call graph
+Tue May 15 22:02:27 UTC 2018: Create point analysis
+Tue May 15 22:02:27 UTC 2018: Create call graph done
+Tue May 15 22:02:27 UTC 2018: Start iemre__cognition test class cognition.common.helper.JsonHelperTest
+Tue May 15 22:02:27 UTC 2018: Setting lastTestMethodIndex: 48771
+Tue May 15 22:02:27 UTC 2018: Starting linking
+Tue May 15 22:02:27 UTC 2018: No link for: cognition.common.helper.JsonHelperTest-shouldLoadListOfJavaObjectsFromJsonString
+Tue May 15 22:02:27 UTC 2018: Linking done for iemre__cognition test class cognition.common.helper.JsonHelperTest
+Tue May 15 22:02:28 UTC 2018: Found element on the queue
+Tue May 15 22:02:28 UTC 2018: Updating status
+Tue May 15 22:02:28 UTC 2018: Working
+Tue May 15 22:02:31 UTC 2018: Start iemre__cognition test class cognition.common.utils.StringToolsTest
+Tue May 15 22:02:31 UTC 2018: Setting lastTestMethodIndex: 48773
+Tue May 15 22:02:31 UTC 2018: Starting linking
+Tue May 15 22:02:31 UTC 2018: Code found cognition.common.utils.StringTools-getMetaDataFromHTML with cognition.common.utils.StringToolsTest-shouldGetMetaDataFromHTML
+Tue May 15 22:02:31 UTC 2018: Code found cognition.common.utils.StringTools-splitIntoWordsWithLengthHigherThan with cognition.common.utils.StringToolsTest-shouldSplitIntoWordsWithLengthHigherThan
+Tue May 15 22:02:32 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldAppendToHtmlMeta
+Tue May 15 22:02:32 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldGetRandomName
+Tue May 15 22:02:33 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldReturnEmptySetWhenStringIsBlank
+Tue May 15 22:02:33 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldGetPostCode
+Tue May 15 22:02:33 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldGetTheFirstHtmlWithContent
+Tue May 15 22:02:33 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldReturnZeroLevenshteinDistanceWhenWordIsNull
+Tue May 15 22:02:34 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldFindWindowOfGivenTextWhenWindowIsAtTheBorder
+Tue May 15 22:02:34 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldGetRegexResults
+Tue May 15 22:02:34 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldReturnTrueIfThereIsNoTextContentInHtml
+Tue May 15 22:02:35 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldGetMaxLevenshteinDistanceAsFifteenPercentOfWordLength
+Tue May 15 22:02:35 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldReturnLevenshteinDistance
+Tue May 15 22:02:35 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldNotIncludeParenthesesWhenCompletingPartialString
+Tue May 15 22:02:36 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldIncludeMiddleParanthesis
+Tue May 15 22:02:36 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldReturnFalseIfThereIsTextContentInHtml
+Tue May 15 22:02:36 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldReturnFalseIfThereIsNoHtmlTag
+Tue May 15 22:02:36 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldReturnEmptyCollectionIfSearchWordIsBlank
+Tue May 15 22:02:37 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldGetApproximatelyMatchingStrings
+Tue May 15 22:02:37 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldReturnTrueIfStringIsBlank
+Tue May 15 22:02:37 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldCheckIfStringIsAlphaNumeric
+Tue May 15 22:02:38 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldRoundLevenshteinDistanceUpWhenEqualToOrAboveHalf
+Tue May 15 22:02:38 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldCompletePartialString
+Tue May 15 22:02:39 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldAvoidOpeningParenthesisAsTheBeginningCharacter
+Tue May 15 22:02:39 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldFindWindowOfGivenText
+Tue May 15 22:02:39 UTC 2018: No link for: cognition.common.utils.StringToolsTest-shouldNotIncludeIgnoreWordsWhenSplittingString
+Tue May 15 22:02:39 UTC 2018: Linking done for iemre__cognition test class cognition.common.utils.StringToolsTest
+Tue May 15 22:02:40 UTC 2018: Found element on the queue
+Tue May 15 22:02:40 UTC 2018: Updating status
+Tue May 15 22:02:40 UTC 2018: Working
+Tue May 15 22:02:44 UTC 2018: Start iemre__cognition test class cognition.common.utils.TimeUtilTest
+Tue May 15 22:02:44 UTC 2018: Setting lastTestMethodIndex: 48775
+Tue May 15 22:02:44 UTC 2018: Starting linking
+Tue May 15 22:02:44 UTC 2018: Code found cognition.common.utils.TimeUtil-getDateFromString with cognition.common.utils.TimeUtilTest-shouldGetDateFromString
+Tue May 15 22:02:44 UTC 2018: No link for: cognition.common.utils.TimeUtilTest-shouldAllowRegexInDateFormat
+Tue May 15 22:02:44 UTC 2018: Linking done for iemre__cognition test class cognition.common.utils.TimeUtilTest
+Tue May 15 22:02:46 UTC 2018: Found element on the queue
+Tue May 15 22:02:46 UTC 2018: Updating status
+Tue May 15 22:02:46 UTC 2018: Working
+Tue May 15 22:02:49 UTC 2018: Start iemre__cognition test class cognition.common.utils.ArrayUtilTest
+Tue May 15 22:02:49 UTC 2018: Setting lastTestMethodIndex: 48776
+Tue May 15 22:02:49 UTC 2018: Starting linking
+Tue May 15 22:02:49 UTC 2018: No link for: cognition.common.utils.ArrayUtilTest-shouldReturnTrueIfStringArrayIsEmpty
+Tue May 15 22:02:49 UTC 2018: No link for: cognition.common.utils.ArrayUtilTest-shouldReturnFalseIfStringArrayIsNotEmpty
+Tue May 15 22:02:49 UTC 2018: No link for: cognition.common.utils.ArrayUtilTest-shouldReturnTrueIfStringArrayIsNull
+Tue May 15 22:02:50 UTC 2018: Linking done for iemre__cognition test class cognition.common.utils.ArrayUtilTest
+Tue May 15 22:02:51 UTC 2018: Found element on the queue
+Tue May 15 22:02:51 UTC 2018: Updating status
+Tue May 15 22:02:51 UTC 2018: Working
+Tue May 15 22:02:54 UTC 2018: Start iemre__cognition test class cognition.common.utils.MatchingWindowTest
+Tue May 15 22:02:54 UTC 2018: Setting lastTestMethodIndex: 48777
+Tue May 15 22:02:54 UTC 2018: Starting linking
+Tue May 15 22:02:54 UTC 2018: No link for: cognition.common.utils.MatchingWindowTest-shouldReturnTrueIfScoreIsAboveThreshold
+Tue May 15 22:02:54 UTC 2018: No link for: cognition.common.utils.MatchingWindowTest-shouldReturnTrueIfScoreIsEqualToThreshold
+Tue May 15 22:02:55 UTC 2018: No link for: cognition.common.utils.MatchingWindowTest-shouldReplaceDoubleQuotes
+Tue May 15 22:02:55 UTC 2018: No link for: cognition.common.utils.MatchingWindowTest-shouldReturnFalseIfScoreIsBelowThreshold
+Tue May 15 22:02:55 UTC 2018: Linking done for iemre__cognition test class cognition.common.utils.MatchingWindowTest
+Tue May 15 22:02:57 UTC 2018: Found element on the queue
+Tue May 15 22:02:57 UTC 2018: Updating status
+Tue May 15 22:02:57 UTC 2018: Working
+Tue May 15 22:03:00 UTC 2018: Start iemre__cognition test class cognition.common.utils.HTMLUtilTest
+Tue May 15 22:03:00 UTC 2018: Setting lastTestMethodIndex: 48779
+Tue May 15 22:03:00 UTC 2018: Starting linking
+Tue May 15 22:03:00 UTC 2018: No link for: cognition.common.utils.HTMLUtilTest-shouldGetTextFromHTMLBody
+Tue May 15 22:03:00 UTC 2018: No link for: cognition.common.utils.HTMLUtilTest-shouldExtractMetaFromHTML
+Tue May 15 22:03:01 UTC 2018: Linking done for iemre__cognition test class cognition.common.utils.HTMLUtilTest
+Tue May 15 22:03:01 UTC 2018: Found element on the queue
+Tue May 15 22:03:01 UTC 2018: Updating status
+Tue May 15 22:03:01 UTC 2018: Working
+Tue May 15 22:03:05 UTC 2018: Start iemre__cognition test class cognition.common.model.IndividualTest
+Tue May 15 22:03:05 UTC 2018: Setting lastTestMethodIndex: 48781
+Tue May 15 22:03:05 UTC 2018: Starting linking
+Tue May 15 22:03:05 UTC 2018: No link for: cognition.common.model.IndividualTest-shouldSplitLastNamesWhenThereIsDash
+Tue May 15 22:03:06 UTC 2018: No link for: cognition.common.model.IndividualTest-shouldSeparateSurnamesWithMultipleWords
+Tue May 15 22:03:06 UTC 2018: No link for: cognition.common.model.IndividualTest-shouldSplitForeNamesWhenThereIsDash
+Tue May 15 22:03:06 UTC 2018: No link for: cognition.common.model.IndividualTest-shouldSeparateNamesWithMultipleWords
+Tue May 15 22:03:07 UTC 2018: No link for: cognition.common.model.IndividualTest-shouldConvertJsonToPatient
+Tue May 15 22:03:07 UTC 2018: No link for: cognition.common.model.IndividualTest-shouldReturnEmptyListWhenNamesListIsNull
+Tue May 15 22:03:07 UTC 2018: No link for: cognition.common.model.IndividualTest-shouldGetNamesInDescendingLengthOrder
+Tue May 15 22:03:07 UTC 2018: No link for: cognition.common.model.IndividualTest-shouldNotAddNamesWithLessThanFourCharacters
+Tue May 15 22:03:08 UTC 2018: Linking done for iemre__cognition test class cognition.common.model.IndividualTest
+Tue May 15 22:03:09 UTC 2018: Found element on the queue
+Tue May 15 22:03:09 UTC 2018: Updating status
+Tue May 15 22:03:09 UTC 2018: Working
+Tue May 15 22:03:12 UTC 2018: Start iemre__cognition test class cognition.common.model.IndividualCarerTest
+Tue May 15 22:03:12 UTC 2018: Setting lastTestMethodIndex: 48783
+Tue May 15 22:03:12 UTC 2018: Starting linking
+Tue May 15 22:03:12 UTC 2018: No link for: cognition.common.model.IndividualCarerTest-shouldGetEmptyListWhenForeNameIsNull
+Tue May 15 22:03:12 UTC 2018: No link for: cognition.common.model.IndividualCarerTest-shouldGetSeparatedForeNames
+Tue May 15 22:03:13 UTC 2018: Linking done for iemre__cognition test class cognition.common.model.IndividualCarerTest
+Tue May 15 22:03:14 UTC 2018: Found element on the queue
+Tue May 15 22:03:14 UTC 2018: Updating status
+Tue May 15 22:03:14 UTC 2018: Working
+Tue May 15 22:03:17 UTC 2018: Start iemre__cognition test class cognition.common.model.IndividualAddressTest
+Tue May 15 22:03:17 UTC 2018: Setting lastTestMethodIndex: 48785
+Tue May 15 22:03:17 UTC 2018: Starting linking
+Tue May 15 22:03:17 UTC 2018: Code found cognition.common.model.PatientAddress-isNotTooShort with cognition.common.model.IndividualAddressTest-shouldReturnFalseIfAddressIsNotTooShort
+Tue May 15 22:03:17 UTC 2018: No link for: cognition.common.model.IndividualAddressTest-shouldReturnFalseWhenPostCodeAndAddressAreBothEmpty
+Tue May 15 22:03:17 UTC 2018: Linking done for iemre__cognition test class cognition.common.model.IndividualAddressTest
+Tue May 15 22:03:18 UTC 2018: Found element on the queue
+Tue May 15 22:03:18 UTC 2018: Updating status
+Tue May 15 22:03:18 UTC 2018: Working
+Tue May 15 22:03:21 UTC 2018: Start iemre__cognition test class cognition.common.service.FileTypeServiceTest
+Tue May 15 22:03:21 UTC 2018: Setting lastTestMethodIndex: 48787
+Tue May 15 22:03:21 UTC 2018: Starting linking
+Tue May 15 22:03:21 UTC 2018: Code found cognition.common.service.FileTypeService-isPDF with cognition.common.service.FileTypeServiceTest-shouldCheckIfFileTypeIsPDF
+Tue May 15 22:03:21 UTC 2018: Linking done for iemre__cognition test class cognition.common.service.FileTypeServiceTest
+Tue May 15 22:03:22 UTC 2018: Found element on the queue
+Tue May 15 22:03:22 UTC 2018: Updating status
+Tue May 15 22:03:22 UTC 2018: Working
+Tue May 15 22:03:22 UTC 2018: Create project parser
+Tue May 15 22:03:27 UTC 2018: Start iemre__cognition test class cognition.pipeline.commandline.CommandLineArgHolderTest
+Tue May 15 22:03:27 UTC 2018: Setting lastTestMethodIndex: 48789
+Tue May 15 22:03:27 UTC 2018: Starting linking
+Tue May 15 22:03:27 UTC 2018: No link for: cognition.pipeline.commandline.CommandLineArgHolderTest-shouldDefaultNoPseudonymBeTrue
+Tue May 15 22:03:27 UTC 2018: Linking done for iemre__cognition test class cognition.pipeline.commandline.CommandLineArgHolderTest
+Tue May 15 22:03:28 UTC 2018: Found element on the queue
+Tue May 15 22:03:28 UTC 2018: Updating status
+Tue May 15 22:03:28 UTC 2018: Working
+Tue May 15 22:03:31 UTC 2018: Start iemre__cognition test class cognition.pipeline.commandline.CommandCreateModeFromFileTest
+Tue May 15 22:03:31 UTC 2018: Setting lastTestMethodIndex: 48791
+Tue May 15 22:03:31 UTC 2018: Starting linking
+Tue May 15 22:03:31 UTC 2018: No link for: cognition.pipeline.commandline.CommandCreateModeFromFileTest-shouldThrowExceptionIfFilePathIsNotGiven
+Tue May 15 22:03:31 UTC 2018: No link for: cognition.pipeline.commandline.CommandCreateModeFromFileTest-shouldCallPipelineServiceWhenFilePathIsGiven
+Tue May 15 22:03:32 UTC 2018: Linking done for iemre__cognition test class cognition.pipeline.commandline.CommandCreateModeFromFileTest
+Tue May 15 22:03:33 UTC 2018: Found element on the queue
+Tue May 15 22:03:33 UTC 2018: Updating status
+Tue May 15 22:03:33 UTC 2018: Working
+Tue May 15 22:03:36 UTC 2018: Start iemre__cognition test class cognition.pipeline.postprocess.IndividualMetaPostProcessorTest
+Tue May 15 22:03:36 UTC 2018: Setting lastTestMethodIndex: 48793
+Tue May 15 22:03:36 UTC 2018: Starting linking
+Tue May 15 22:03:36 UTC 2018: No link for: cognition.pipeline.postprocess.IndividualMetaPostProcessorTest-shouldPutIndividualHashCodeInHtmlMeta
+Tue May 15 22:03:36 UTC 2018: Linking done for iemre__cognition test class cognition.pipeline.postprocess.IndividualMetaPostProcessorTest
+Tue May 15 22:03:37 UTC 2018: Found element on the queue
+Tue May 15 22:03:37 UTC 2018: Updating status
+Tue May 15 22:03:37 UTC 2018: Working
+Tue May 15 22:03:41 UTC 2018: Start iemre__cognition test class cognition.pipeline.service.CoordinatorServiceTest
+Tue May 15 22:03:41 UTC 2018: Setting lastTestMethodIndex: 48795
+Tue May 15 22:03:41 UTC 2018: Starting linking
+Tue May 15 22:03:41 UTC 2018: Code found cognition.pipeline.service.CoordinatorService-getChunkOfList with cognition.pipeline.service.CoordinatorServiceTest-shouldGetChunkOfList
+Tue May 15 22:03:41 UTC 2018: No link for: cognition.pipeline.service.CoordinatorServiceTest-shouldGetTheRestIfChunkIsTooBig
+Tue May 15 22:03:42 UTC 2018: No link for: cognition.pipeline.service.CoordinatorServiceTest-shouldReturnEmptyListIfRequestedStartPositionIsBeyondTheSizeOfTheList
+Tue May 15 22:03:42 UTC 2018: Linking done for iemre__cognition test class cognition.pipeline.service.CoordinatorServiceTest
+Tue May 15 22:03:43 UTC 2018: Found element on the queue
+Tue May 15 22:03:43 UTC 2018: Updating status
+Tue May 15 22:03:43 UTC 2018: Working
+Tue May 15 22:03:47 UTC 2018: Start iemre__cognition test class cognition.pipeline.service.anonymisation.TemplateFillerTest
+Tue May 15 22:03:47 UTC 2018: Setting lastTestMethodIndex: 48796
+Tue May 15 22:03:47 UTC 2018: Starting linking
+Tue May 15 22:03:47 UTC 2018: No link for: cognition.pipeline.service.anonymisation.TemplateFillerTest-shouldStringSplittingWork
+Tue May 15 22:03:47 UTC 2018: No link for: cognition.pipeline.service.anonymisation.TemplateFillerTest-shouldFillVelocityTemplate
+Tue May 15 22:03:47 UTC 2018: Linking done for iemre__cognition test class cognition.pipeline.service.anonymisation.TemplateFillerTest

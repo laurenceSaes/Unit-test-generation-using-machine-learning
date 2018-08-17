@@ -1,0 +1,571 @@
+Tue May 15 19:13:37 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 19:13:37 UTC 2018: Starting
+Tue May 15 19:13:38 UTC 2018: Found element on the queue
+Tue May 15 19:13:38 UTC 2018: Updating status
+Tue May 15 19:13:38 UTC 2018: Working
+Tue May 15 19:13:38 UTC 2018: Create project parser
+Tue May 15 19:13:44 UTC 2018: Create slicer
+Tue May 15 19:13:47 UTC 2018: Create call graph
+Tue May 15 19:13:50 UTC 2018: Create point analysis
+Tue May 15 19:13:50 UTC 2018: Create call graph done
+Tue May 15 19:13:50 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.aggregate.EventAggregatorTest
+Tue May 15 19:13:50 UTC 2018: Setting lastTestMethodIndex: 44147
+Tue May 15 19:13:50 UTC 2018: Starting linking
+Tue May 15 19:13:50 UTC 2018: No link for: org.motechproject.event.aggregation.aggregate.EventAggregatorTest-shouldAddEventToAggregation
+Tue May 15 19:13:51 UTC 2018: No link for: org.motechproject.event.aggregation.aggregate.EventAggregatorTest-shouldMarkAggregateEventIfItHasAnyFieldMissing
+Tue May 15 19:13:51 UTC 2018: No link for: org.motechproject.event.aggregation.aggregate.EventAggregatorTest-shouldNotAggregateWhilePaused
+Tue May 15 19:13:51 UTC 2018: No link for: org.motechproject.event.aggregation.aggregate.EventAggregatorTest-shouldSortKeysInAggregatedParametersMap
+Tue May 15 19:13:51 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.aggregate.EventAggregatorTest
+Tue May 15 19:13:52 UTC 2018: Found element on the queue
+Tue May 15 19:13:52 UTC 2018: Updating status
+Tue May 15 19:13:52 UTC 2018: Working
+Tue May 15 19:13:55 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.dispatch.PeriodicDispatcherTest
+Tue May 15 19:13:55 UTC 2018: Setting lastTestMethodIndex: 44151
+Tue May 15 19:13:55 UTC 2018: Starting linking
+Tue May 15 19:13:55 UTC 2018: No link for: org.motechproject.event.aggregation.dispatch.PeriodicDispatcherTest-shouldPublishAggregatedEvent
+Tue May 15 19:13:55 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.dispatch.PeriodicDispatcherTest
+Tue May 15 19:13:56 UTC 2018: Found element on the queue
+Tue May 15 19:13:56 UTC 2018: Updating status
+Tue May 15 19:13:56 UTC 2018: Working
+Tue May 15 19:13:59 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.dispatch.SporadicDispatcherTest
+Tue May 15 19:13:59 UTC 2018: Setting lastTestMethodIndex: 44155
+Tue May 15 19:13:59 UTC 2018: Starting linking
+Tue May 15 19:13:59 UTC 2018: No link for: org.motechproject.event.aggregation.dispatch.SporadicDispatcherTest-shouldPublishAggregatedEventWhenRuleIsSatisfied
+Tue May 15 19:14:00 UTC 2018: No link for: org.motechproject.event.aggregation.dispatch.SporadicDispatcherTest-shouldPublishAggregatedEventIfRuleIsNotSatisfied
+Tue May 15 19:14:00 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.dispatch.SporadicDispatcherTest
+Tue May 15 19:14:01 UTC 2018: Found element on the queue
+Tue May 15 19:14:01 UTC 2018: Updating status
+Tue May 15 19:14:01 UTC 2018: Working
+Tue May 15 19:14:04 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.dispatch.EventDispatcherTest
+Tue May 15 19:14:04 UTC 2018: Setting lastTestMethodIndex: 44160
+Tue May 15 19:14:04 UTC 2018: Starting linking
+Tue May 15 19:14:05 UTC 2018: No link for: org.motechproject.event.aggregation.dispatch.EventDispatcherTest-shouldClearCurrentAggregationAfterPublishingEvent
+Tue May 15 19:14:05 UTC 2018: No link for: org.motechproject.event.aggregation.dispatch.EventDispatcherTest-shouldExtractAggregationAndPublishAggregatedEvent
+Tue May 15 19:14:05 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.dispatch.EventDispatcherTest
+Tue May 15 19:14:06 UTC 2018: Found element on the queue
+Tue May 15 19:14:06 UTC 2018: Updating status
+Tue May 15 19:14:06 UTC 2018: Working
+Tue May 15 19:14:09 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.model.AggregationRuleMapperTest
+Tue May 15 19:14:09 UTC 2018: Setting lastTestMethodIndex: 44165
+Tue May 15 19:14:09 UTC 2018: Starting linking
+Tue May 15 19:14:09 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.model.AggregationRuleMapperTest
+Tue May 15 19:14:09 UTC 2018: Found element on the queue
+Tue May 15 19:14:09 UTC 2018: Updating status
+Tue May 15 19:14:09 UTC 2018: Working
+Tue May 15 19:14:12 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.model.AggregationScheduleMapperTest
+Tue May 15 19:14:12 UTC 2018: Setting lastTestMethodIndex: 44170
+Tue May 15 19:14:12 UTC 2018: Starting linking
+Tue May 15 19:14:12 UTC 2018: No link for: org.motechproject.event.aggregation.model.AggregationScheduleMapperTest-shouldMapCronScheduleRecord
+Tue May 15 19:14:13 UTC 2018: No link for: org.motechproject.event.aggregation.model.AggregationScheduleMapperTest-shouldMapPeriodicScheduleRequest
+Tue May 15 19:14:13 UTC 2018: No link for: org.motechproject.event.aggregation.model.AggregationScheduleMapperTest-shouldMapPeriodicScheduleRecord
+Tue May 15 19:14:13 UTC 2018: No link for: org.motechproject.event.aggregation.model.AggregationScheduleMapperTest-shouldMapCustomScheduleRequest
+Tue May 15 19:14:13 UTC 2018: No link for: org.motechproject.event.aggregation.model.AggregationScheduleMapperTest-shouldMapCronScheduleRequest
+Tue May 15 19:14:14 UTC 2018: No link for: org.motechproject.event.aggregation.model.AggregationScheduleMapperTest-shouldMapCustomScheduleRecord
+Tue May 15 19:14:14 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.model.AggregationScheduleMapperTest
+Tue May 15 19:14:14 UTC 2018: Found element on the queue
+Tue May 15 19:14:14 UTC 2018: Updating status
+Tue May 15 19:14:14 UTC 2018: Working
+Tue May 15 19:14:17 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.service.impl.EventAggregationServiceImplTest
+Tue May 15 19:14:18 UTC 2018: Setting lastTestMethodIndex: 44175
+Tue May 15 19:14:18 UTC 2018: Starting linking
+Tue May 15 19:14:18 UTC 2018: No link for: org.motechproject.event.aggregation.service.impl.EventAggregationServiceImplTest-shouldSubscribeToEventThatsBeingAggregated
+Tue May 15 19:14:18 UTC 2018: No link for: org.motechproject.event.aggregation.service.impl.EventAggregationServiceImplTest-shouldCreateAggregationRule
+Tue May 15 19:14:18 UTC 2018: No link for: org.motechproject.event.aggregation.service.impl.EventAggregationServiceImplTest-shouldScheduleMinutelyJobToDispatchAggregationsInARollingWindow
+Tue May 15 19:14:18 UTC 2018: No link for: org.motechproject.event.aggregation.service.impl.EventAggregationServiceImplTest-shouldScheduleCronJobToDispatchCronBasedAggregation
+Tue May 15 19:14:19 UTC 2018: No link for: org.motechproject.event.aggregation.service.impl.EventAggregationServiceImplTest-shouldScheduleRepeatJobToDispatchPeriodicAggregation
+Tue May 15 19:14:19 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.service.impl.EventAggregationServiceImplTest
+Tue May 15 19:14:19 UTC 2018: Found element on the queue
+Tue May 15 19:14:19 UTC 2018: Updating status
+Tue May 15 19:14:19 UTC 2018: Working
+Tue May 15 19:14:23 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.rule.RuleAgentTest
+Tue May 15 19:14:23 UTC 2018: Setting lastTestMethodIndex: 44179
+Tue May 15 19:14:23 UTC 2018: Starting linking
+Tue May 15 19:14:23 UTC 2018: No link for: org.motechproject.event.aggregation.rule.RuleAgentTest-shouldBeTrueIfNoEventWasReceivedInTheLast10Minutes
+Tue May 15 19:14:23 UTC 2018: No link for: org.motechproject.event.aggregation.rule.RuleAgentTest-shouldBeFalseIfSomeEventWasReceivedInTheLast10Minutes
+Tue May 15 19:14:23 UTC 2018: No link for: org.motechproject.event.aggregation.rule.RuleAgentTest-shouldBeFalseIfFirstEventWasReceivedLessThan10MinutesAgo
+Tue May 15 19:14:23 UTC 2018: No link for: org.motechproject.event.aggregation.rule.RuleAgentTest-shouldBeTrueIfFirstEventWasReceivedMoreThan10MinutesAgo
+Tue May 15 19:14:24 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.rule.RuleAgentTest
+Tue May 15 19:14:24 UTC 2018: Found element on the queue
+Tue May 15 19:14:24 UTC 2018: Updating status
+Tue May 15 19:14:24 UTC 2018: Working
+Tue May 15 19:14:28 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.repository.AllAggregatedEventsLoadTest
+Tue May 15 19:14:28 UTC 2018: Setting lastTestMethodIndex: 44183
+Tue May 15 19:14:28 UTC 2018: Starting linking
+Tue May 15 19:14:28 UTC 2018: No link for: org.motechproject.event.aggregation.repository.AllAggregatedEventsLoadTest-run
+Tue May 15 19:14:29 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.aggregation.repository.AllAggregatedEventsLoadTest
+Tue May 15 19:14:30 UTC 2018: Found element on the queue
+Tue May 15 19:14:30 UTC 2018: Updating status
+Tue May 15 19:14:30 UTC 2018: Working
+Tue May 15 19:14:30 UTC 2018: Create project parser
+Tue May 15 19:14:34 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.eventlogging.converter.impl.DefaultFileToLogConverterTest
+Tue May 15 19:14:34 UTC 2018: Setting lastTestMethodIndex: 44188
+Tue May 15 19:14:34 UTC 2018: Starting linking
+Tue May 15 19:14:34 UTC 2018: No link for: org.motechproject.eventlogging.converter.impl.DefaultFileToLogConverterTest-testShouldConvertEventToCorrectString
+Tue May 15 19:14:34 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.eventlogging.converter.impl.DefaultFileToLogConverterTest
+Tue May 15 19:14:35 UTC 2018: Found element on the queue
+Tue May 15 19:14:35 UTC 2018: Updating status
+Tue May 15 19:14:35 UTC 2018: Working
+Tue May 15 19:14:39 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.eventlogging.repository.AllEventMappingsTest
+Tue May 15 19:14:39 UTC 2018: Setting lastTestMethodIndex: 44193
+Tue May 15 19:14:39 UTC 2018: Starting linking
+Tue May 15 19:14:39 UTC 2018: No link for: org.motechproject.eventlogging.repository.AllEventMappingsTest-shouldReadTheEventMappingsFileCorrectly
+Tue May 15 19:14:39 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.eventlogging.repository.AllEventMappingsTest
+Tue May 15 19:14:40 UTC 2018: Found element on the queue
+Tue May 15 19:14:40 UTC 2018: Updating status
+Tue May 15 19:14:40 UTC 2018: Working
+Tue May 15 19:14:43 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.eventlogging.service.impl.CouchEventLoggingServiceTest
+Tue May 15 19:14:43 UTC 2018: Setting lastTestMethodIndex: 44198
+Tue May 15 19:14:43 UTC 2018: Starting linking
+Tue May 15 19:14:43 UTC 2018: No link for: org.motechproject.eventlogging.service.impl.CouchEventLoggingServiceTest-shouldSetAllLoggableEventsCorrectly
+Tue May 15 19:14:44 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.eventlogging.service.impl.CouchEventLoggingServiceTest
+Tue May 15 19:14:45 UTC 2018: Found element on the queue
+Tue May 15 19:14:45 UTC 2018: Updating status
+Tue May 15 19:14:45 UTC 2018: Working
+Tue May 15 19:14:45 UTC 2018: Create project parser
+Tue May 15 19:14:48 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.ivr.domain.CallDetailRecordTest
+Tue May 15 19:14:48 UTC 2018: Setting lastTestMethodIndex: 44202
+Tue May 15 19:14:48 UTC 2018: Starting linking
+Tue May 15 19:14:48 UTC 2018: Code found org.motechproject.ivr.model.CallDetailRecord-lastCallEvent with org.motechproject.ivr.domain.CallDetailRecordTest-lastCallEvent
+Tue May 15 19:14:48 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.ivr.domain.CallDetailRecordTest
+Tue May 15 19:14:49 UTC 2018: Found element on the queue
+Tue May 15 19:14:49 UTC 2018: Updating status
+Tue May 15 19:14:49 UTC 2018: Working
+Tue May 15 19:14:52 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.ivr.event.CallEventCustomDataTest
+Tue May 15 19:14:52 UTC 2018: Setting lastTestMethodIndex: 44206
+Tue May 15 19:14:52 UTC 2018: Starting linking
+Tue May 15 19:14:52 UTC 2018: Code found org.motechproject.ivr.event.CallEventCustomData-update with org.motechproject.ivr.event.CallEventCustomDataTest-update
+Tue May 15 19:14:52 UTC 2018: Code found org.motechproject.ivr.event.CallEventCustomData-getFirst with org.motechproject.ivr.event.CallEventCustomDataTest-getFirst
+Tue May 15 19:14:52 UTC 2018: Code found org.motechproject.ivr.event.CallEventCustomData-add with org.motechproject.ivr.event.CallEventCustomDataTest-add
+Tue May 15 19:14:52 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.ivr.event.CallEventCustomDataTest
+Tue May 15 19:14:53 UTC 2018: Found element on the queue
+Tue May 15 19:14:53 UTC 2018: Updating status
+Tue May 15 19:14:53 UTC 2018: Working
+Tue May 15 19:14:57 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.ivr.event.CallEventTest
+Tue May 15 19:14:57 UTC 2018: Setting lastTestMethodIndex: 44211
+Tue May 15 19:14:57 UTC 2018: Starting linking
+Tue May 15 19:14:57 UTC 2018: No link for: org.motechproject.ivr.event.CallEventTest-appendData
+Tue May 15 19:14:57 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.ivr.event.CallEventTest
+Tue May 15 19:14:58 UTC 2018: Found element on the queue
+Tue May 15 19:14:58 UTC 2018: Updating status
+Tue May 15 19:14:58 UTC 2018: Working
+Tue May 15 19:15:00 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.ivr.model.CallDetailRecordTest
+Tue May 15 19:15:01 UTC 2018: Setting lastTestMethodIndex: 44215
+Tue May 15 19:15:01 UTC 2018: Starting linking
+Tue May 15 19:15:01 UTC 2018: Code found org.motechproject.ivr.model.CallDetailRecord-lastCallEvent with org.motechproject.ivr.model.CallDetailRecordTest-lastCallEvent
+Tue May 15 19:15:01 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:15:01 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.ivr.model.CallDetailRecordTest
+Tue May 15 19:15:02 UTC 2018: Found element on the queue
+Tue May 15 19:15:02 UTC 2018: Updating status
+Tue May 15 19:15:02 UTC 2018: Working
+Tue May 15 19:15:06 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.ivr.TestInitiateCallData
+Tue May 15 19:15:06 UTC 2018: Setting lastTestMethodIndex: 44218
+Tue May 15 19:15:06 UTC 2018: Starting linking
+Tue May 15 19:15:06 UTC 2018: No link for: org.motechproject.ivr.TestInitiateCallData-TestConstructor
+Tue May 15 19:15:06 UTC 2018: No link for: org.motechproject.ivr.TestInitiateCallData-TestConstructorNullPhone
+Tue May 15 19:15:06 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.ivr.TestInitiateCallData
+Tue May 15 19:15:07 UTC 2018: Found element on the queue
+Tue May 15 19:15:07 UTC 2018: Updating status
+Tue May 15 19:15:07 UTC 2018: Working
+Tue May 15 19:15:07 UTC 2018: Create project parser
+Tue May 15 19:15:11 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.JobIdTest
+Tue May 15 19:15:11 UTC 2018: Setting lastTestMethodIndex: 44225
+Tue May 15 19:15:11 UTC 2018: Starting linking
+Tue May 15 19:15:11 UTC 2018: Code found org.motechproject.scheduler.domain.JobId-value with org.motechproject.scheduler.domain.JobIdTest-value
+Tue May 15 19:15:11 UTC 2018: No link for: org.motechproject.scheduler.domain.JobIdTest-repeatingId
+Tue May 15 19:15:11 UTC 2018: No link for: org.motechproject.scheduler.domain.JobIdTest-initializeUsingMotechEvent
+Tue May 15 19:15:11 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.JobIdTest
+Tue May 15 19:15:12 UTC 2018: Found element on the queue
+Tue May 15 19:15:12 UTC 2018: Updating status
+Tue May 15 19:15:12 UTC 2018: Working
+Tue May 15 19:15:15 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.TestMotechSchedulerException
+Tue May 15 19:15:15 UTC 2018: Setting lastTestMethodIndex: 44228
+Tue May 15 19:15:15 UTC 2018: Starting linking
+Tue May 15 19:15:15 UTC 2018: No link for: org.motechproject.scheduler.domain.TestMotechSchedulerException-newTest
+Tue May 15 19:15:16 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.TestMotechSchedulerException
+Tue May 15 19:15:16 UTC 2018: Found element on the queue
+Tue May 15 19:15:16 UTC 2018: Updating status
+Tue May 15 19:15:16 UTC 2018: Working
+Tue May 15 19:15:19 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.TestRunOnceSchedulableJob
+Tue May 15 19:15:19 UTC 2018: Setting lastTestMethodIndex: 44233
+Tue May 15 19:15:19 UTC 2018: Starting linking
+Tue May 15 19:15:19 UTC 2018: Code found org.motechproject.scheduler.domain.RunOnceSchedulableJob-equals with org.motechproject.scheduler.domain.TestRunOnceSchedulableJob-equalsTest
+Tue May 15 19:15:19 UTC 2018: No link for: org.motechproject.scheduler.domain.TestRunOnceSchedulableJob-newConstructor_NullEvent
+Tue May 15 19:15:20 UTC 2018: No link for: org.motechproject.scheduler.domain.TestRunOnceSchedulableJob-newConstructor_NullDate
+Tue May 15 19:15:20 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.TestRunOnceSchedulableJob
+Tue May 15 19:15:21 UTC 2018: Found element on the queue
+Tue May 15 19:15:21 UTC 2018: Updating status
+Tue May 15 19:15:21 UTC 2018: Working
+Tue May 15 19:15:24 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.TestMotechScheduledEvent
+Tue May 15 19:15:24 UTC 2018: Setting lastTestMethodIndex: 44238
+Tue May 15 19:15:24 UTC 2018: Starting linking
+Tue May 15 19:15:24 UTC 2018: No link for: org.motechproject.scheduler.domain.TestMotechScheduledEvent-equalsTest
+Tue May 15 19:15:24 UTC 2018: No link for: org.motechproject.scheduler.domain.TestMotechScheduledEvent-testGetParameters
+Tue May 15 19:15:24 UTC 2018: No link for: org.motechproject.scheduler.domain.TestMotechScheduledEvent-newTest
+Tue May 15 19:15:25 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.TestMotechScheduledEvent
+Tue May 15 19:15:25 UTC 2018: Found element on the queue
+Tue May 15 19:15:25 UTC 2018: Updating status
+Tue May 15 19:15:25 UTC 2018: Working
+Tue May 15 19:15:28 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.TestCronSchedulabeJob
+Tue May 15 19:15:28 UTC 2018: Setting lastTestMethodIndex: 44242
+Tue May 15 19:15:28 UTC 2018: Starting linking
+Tue May 15 19:15:28 UTC 2018: Code found org.motechproject.scheduler.domain.CronSchedulableJob-equals with org.motechproject.scheduler.domain.TestCronSchedulabeJob-equalsTest
+Tue May 15 19:15:28 UTC 2018: No link for: org.motechproject.scheduler.domain.TestCronSchedulabeJob-testConstructor_NullEvent
+Tue May 15 19:15:29 UTC 2018: No link for: org.motechproject.scheduler.domain.TestCronSchedulabeJob-testConstructor_InvalidCronExpression
+Tue May 15 19:15:29 UTC 2018: No link for: org.motechproject.scheduler.domain.TestCronSchedulabeJob-testConstructor_NullCronExpression
+Tue May 15 19:15:29 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.scheduler.domain.TestCronSchedulabeJob
+Tue May 15 19:15:30 UTC 2018: Found element on the queue
+Tue May 15 19:15:30 UTC 2018: Updating status
+Tue May 15 19:15:30 UTC 2018: Working
+Tue May 15 19:15:33 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilderTest
+Tue May 15 19:15:33 UTC 2018: Setting lastTestMethodIndex: 44247
+Tue May 15 19:15:33 UTC 2018: Starting linking
+Tue May 15 19:15:33 UTC 2018: Code found org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilder-build with org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilderTest-shouldBuildCronExpressionForAParticularDayOfWeek
+Tue May 15 19:15:33 UTC 2018: Code found org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilder-build with org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilderTest-shouldBuildCronExpressionForAParticularDayAndTime
+Tue May 15 19:15:33 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilderTest
+Tue May 15 19:15:34 UTC 2018: Found element on the queue
+Tue May 15 19:15:34 UTC 2018: Updating status
+Tue May 15 19:15:34 UTC 2018: Working
+Tue May 15 19:15:38 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest
+Tue May 15 19:15:38 UTC 2018: Setting lastTestMethodIndex: 44252
+Tue May 15 19:15:38 UTC 2018: Starting linking
+Tue May 15 19:15:38 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest-shouldBuildValidCronExpressionWithDayRepeat
+Tue May 15 19:15:38 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest-testBuild
+Tue May 15 19:15:38 UTC 2018: No link for: org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest-shouldScheduleJobEverySevenDays
+Tue May 15 19:15:39 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest
+Tue May 15 19:15:39 UTC 2018: Found element on the queue
+Tue May 15 19:15:39 UTC 2018: Updating status
+Tue May 15 19:15:39 UTC 2018: Working
+Tue May 15 19:15:42 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.scheduler.builder.CronJobExpressionBuilderTest
+Tue May 15 19:15:42 UTC 2018: Setting lastTestMethodIndex: 44256
+Tue May 15 19:15:42 UTC 2018: Starting linking
+Tue May 15 19:15:42 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobExpressionBuilderTest-testBuild_case3
+Tue May 15 19:15:43 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobExpressionBuilderTest-testBuild_case1
+Tue May 15 19:15:43 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobExpressionBuilderTest-testBuild_case2
+Tue May 15 19:15:44 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobExpressionBuilderTest-testBuild_SetEndHourAsTwentyThreeIfReminderWindowExtendsBeyondTheCurrentDay
+Tue May 15 19:15:44 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.scheduler.builder.CronJobExpressionBuilderTest
+Tue May 15 19:15:45 UTC 2018: Found element on the queue
+Tue May 15 19:15:45 UTC 2018: Updating status
+Tue May 15 19:15:45 UTC 2018: Working
+Tue May 15 19:15:45 UTC 2018: Create project parser
+Tue May 15 19:15:48 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.commons.api.json.MotechJsonReaderTest
+Tue May 15 19:15:48 UTC 2018: Setting lastTestMethodIndex: 44260
+Tue May 15 19:15:48 UTC 2018: Starting linking
+Tue May 15 19:15:48 UTC 2018: No link for: org.motechproject.commons.api.json.MotechJsonReaderTest-shouldFailGracefullyWhenJsonFileIsNotFound
+Tue May 15 19:15:48 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.commons.api.json.MotechJsonReaderTest
+Tue May 15 19:15:49 UTC 2018: Found element on the queue
+Tue May 15 19:15:49 UTC 2018: Updating status
+Tue May 15 19:15:49 UTC 2018: Working
+Tue May 15 19:15:52 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.commons.api.CastUtilsTest
+Tue May 15 19:15:52 UTC 2018: Setting lastTestMethodIndex: 44264
+Tue May 15 19:15:52 UTC 2018: Starting linking
+Tue May 15 19:15:52 UTC 2018: Code found org.motechproject.commons.api.CastUtils-cast with org.motechproject.commons.api.CastUtilsTest-shouldCastObjects
+Tue May 15 19:15:52 UTC 2018: No link for: org.motechproject.commons.api.CastUtilsTest-shouldReturnEmptyList
+Tue May 15 19:15:52 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.commons.api.CastUtilsTest
+Tue May 15 19:15:53 UTC 2018: Found element on the queue
+Tue May 15 19:15:53 UTC 2018: Updating status
+Tue May 15 19:15:53 UTC 2018: Working
+Tue May 15 19:15:53 UTC 2018: Create project parser
+Tue May 15 19:15:57 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.commons.date.model.DayOfWeekTest
+Tue May 15 19:15:57 UTC 2018: Setting lastTestMethodIndex: 44269
+Tue May 15 19:15:57 UTC 2018: Starting linking
+Tue May 15 19:15:57 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldGetValueOfDays
+Tue May 15 19:15:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:15:57 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldParseDayOfWeek
+Tue May 15 19:15:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:15:57 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDaysOfWeekStartingToday
+Tue May 15 19:15:57 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDayOfWeekForTheSpecifiedNumber
+Tue May 15 19:15:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:15:58 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldThrowExceptionWhenSpecifiedNonExistingDay
+Tue May 15 19:15:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:15:58 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldVerifyCronDayOfWeek
+Tue May 15 19:15:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:15:58 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDayOfWeekForTheSpecifiedDate
+Tue May 15 19:15:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:15:58 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDaysOfWeek_IfOnlyToday
+Tue May 15 19:15:58 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.commons.date.model.DayOfWeekTest
+Tue May 15 19:16:00 UTC 2018: Found element on the queue
+Tue May 15 19:16:00 UTC 2018: Updating status
+Tue May 15 19:16:00 UTC 2018: Working
+Tue May 15 19:16:03 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.commons.date.model.TimeTest
+Tue May 15 19:16:03 UTC 2018: Setting lastTestMethodIndex: 44272
+Tue May 15 19:16:03 UTC 2018: Starting linking
+Tue May 15 19:16:03 UTC 2018: Code found org.motechproject.commons.date.model.Time-le with org.motechproject.commons.date.model.TimeTest-shouldTestIfCurrentTimeLessThanGivenTime
+Tue May 15 19:16:03 UTC 2018: Code found org.motechproject.commons.date.model.Time-parseTime with org.motechproject.commons.date.model.TimeTest-parseTime
+Tue May 15 19:16:04 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-compareTo
+Tue May 15 19:16:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:04 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-shouldTestIfCurrentTimeGreaterThanGivenTime
+Tue May 15 19:16:04 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-testStringConstructor
+Tue May 15 19:16:04 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:04 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.commons.date.model.TimeTest
+Tue May 15 19:16:05 UTC 2018: Found element on the queue
+Tue May 15 19:16:05 UTC 2018: Updating status
+Tue May 15 19:16:05 UTC 2018: Working
+Tue May 15 19:16:08 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.commons.date.util.JodaFormatterTest
+Tue May 15 19:16:08 UTC 2018: Setting lastTestMethodIndex: 44276
+Tue May 15 19:16:08 UTC 2018: Starting linking
+Tue May 15 19:16:08 UTC 2018: Code found org.motechproject.commons.date.util.JodaFormatter-parseDateTime with org.motechproject.commons.date.util.JodaFormatterTest-shouldParseDateTime
+Tue May 15 19:16:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:16:09 UTC 2018: Code found org.motechproject.commons.date.util.JodaFormatter-formatPeriod with org.motechproject.commons.date.util.JodaFormatterTest-shouldFormatPeriod
+Tue May 15 19:16:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:16:09 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldParseIntervalInYear
+Tue May 15 19:16:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:09 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldPrintDateTime
+Tue May 15 19:16:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:09 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldParseIntervalInMonth
+Tue May 15 19:16:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:10 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldFailParsingForInvalidFormat
+Tue May 15 19:16:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:10 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.commons.date.util.JodaFormatterTest
+Tue May 15 19:16:10 UTC 2018: Found element on the queue
+Tue May 15 19:16:10 UTC 2018: Updating status
+Tue May 15 19:16:10 UTC 2018: Working
+Tue May 15 19:16:14 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.commons.date.util.DateUtilTest
+Tue May 15 19:16:14 UTC 2018: Setting lastTestMethodIndex: 44281
+Tue May 15 19:16:14 UTC 2018: Starting linking
+Tue May 15 19:16:14 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-daysToCalendarWeekEnd with org.motechproject.commons.date.util.DateUtilTest-shouldFindDaysToCalendarWeekEnd
+Tue May 15 19:16:14 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:16:14 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-time with org.motechproject.commons.date.util.DateUtilTest-shouldReturnTimeFromDateTime
+Tue May 15 19:16:14 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:16:14 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-endOfDay with org.motechproject.commons.date.util.DateUtilTest-shouldReturnEndOfDayForGivenTime
+Tue May 15 19:16:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:16:15 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldReturnTheNumberOfYearsFromAGivenDate
+Tue May 15 19:16:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:15 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldGetNextApplicableDateIncludingFromDateBasedOnApplicableWeekDays
+Tue May 15 19:16:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:15 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldGetNextApplicableDateAfterGivenDateBasedOnApplicableWeekDays
+Tue May 15 19:16:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:15 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldThrowExceptionIfApplicableDaysIsEmptyForNextApplicableDate
+Tue May 15 19:16:15 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:15 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldReturnWhetherGivenDateTimeFallsUnderSpecifiedInclusiveRange
+Tue May 15 19:16:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:16 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.commons.date.util.DateUtilTest
+Tue May 15 19:16:16 UTC 2018: Found element on the queue
+Tue May 15 19:16:16 UTC 2018: Updating status
+Tue May 15 19:16:16 UTC 2018: Working
+Tue May 15 19:16:20 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.commons.date.valueobject.WallTimeTest
+Tue May 15 19:16:20 UTC 2018: Setting lastTestMethodIndex: 44286
+Tue May 15 19:16:20 UTC 2018: Starting linking
+Tue May 15 19:16:20 UTC 2018: No link for: org.motechproject.commons.date.valueobject.WallTimeTest-periodElapsedSince
+Tue May 15 19:16:20 UTC 2018: No link for: org.motechproject.commons.date.valueobject.WallTimeTest-zeroValue
+Tue May 15 19:16:20 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.commons.date.valueobject.WallTimeTest
+Tue May 15 19:16:21 UTC 2018: Found element on the queue
+Tue May 15 19:16:21 UTC 2018: Updating status
+Tue May 15 19:16:21 UTC 2018: Working
+Tue May 15 19:16:21 UTC 2018: Create project parser
+Tue May 15 19:16:25 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.MotechEventTest
+Tue May 15 19:16:25 UTC 2018: Setting lastTestMethodIndex: 44292
+Tue May 15 19:16:25 UTC 2018: Starting linking
+Tue May 15 19:16:25 UTC 2018: Code found org.motechproject.event.MotechEvent-copy with org.motechproject.event.MotechEventTest-shouldCopyMotechEvent
+Tue May 15 19:16:25 UTC 2018: Code found org.motechproject.event.MotechEvent-copy with org.motechproject.event.MotechEventTest-shouldCopyMotechEventWithoutStartAndEndTime
+Tue May 15 19:16:26 UTC 2018: No link for: org.motechproject.event.MotechEventTest-testConstructor_WildcardSubject
+Tue May 15 19:16:26 UTC 2018: No link for: org.motechproject.event.MotechEventTest-testConstructor_NullSubject
+Tue May 15 19:16:26 UTC 2018: No link for: org.motechproject.event.MotechEventTest-testConstructor_EmptyPathSubject
+Tue May 15 19:16:26 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.MotechEventTest
+Tue May 15 19:16:27 UTC 2018: Found element on the queue
+Tue May 15 19:16:27 UTC 2018: Updating status
+Tue May 15 19:16:27 UTC 2018: Working
+Tue May 15 19:16:30 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.listener.EventListenerTreeTest
+Tue May 15 19:16:30 UTC 2018: Setting lastTestMethodIndex: 44297
+Tue May 15 19:16:30 UTC 2018: Starting linking
+Tue May 15 19:16:30 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_InvalidSubjectWildcardInMiddle
+Tue May 15 19:16:30 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_SingleListener
+Tue May 15 19:16:30 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_InvalidSubjectWildcard
+Tue May 15 19:16:30 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_WildcardListener2
+Tue May 15 19:16:31 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-getListenerCount with org.motechproject.event.listener.EventListenerTreeTest-getListenerCount_Multiple
+Tue May 15 19:16:31 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-removeAllListeners with org.motechproject.event.listener.EventListenerTreeTest-testRemoveAllListeners
+Tue May 15 19:16:31 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-getListenerCount with org.motechproject.event.listener.EventListenerTreeTest-getListenerCount_Simple
+Tue May 15 19:16:31 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_DoubleListener
+Tue May 15 19:16:32 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-getListenerCount with org.motechproject.event.listener.EventListenerTreeTest-getListenerCount_Wildcard
+Tue May 15 19:16:32 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_Nullsubject
+Tue May 15 19:16:32 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_UniversalListener
+Tue May 15 19:16:32 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-getSubject with org.motechproject.event.listener.EventListenerTreeTest-testGetSubject_NoListeners
+Tue May 15 19:16:33 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_InvalidSubjectEmptyPath
+Tue May 15 19:16:33 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_WildcardListener
+Tue May 15 19:16:33 UTC 2018: No link for: org.motechproject.event.listener.EventListenerTreeTest-testRemoveAllNonWildcardListeners
+Tue May 15 19:16:33 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.listener.EventListenerTreeTest
+Tue May 15 19:16:34 UTC 2018: Found element on the queue
+Tue May 15 19:16:34 UTC 2018: Updating status
+Tue May 15 19:16:34 UTC 2018: Working
+Tue May 15 19:16:38 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.metrics.MultipleMetricsAgentImplTest
+Tue May 15 19:16:38 UTC 2018: Setting lastTestMethodIndex: 44302
+Tue May 15 19:16:38 UTC 2018: Starting linking
+Tue May 15 19:16:38 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-startTimer with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testMultipleStartTimerCalls
+Tue May 15 19:16:38 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-logEvent with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testLogEventNullParameters
+Tue May 15 19:16:38 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-startTimer with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testStartTimerNoAgents
+Tue May 15 19:16:39 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-logEvent with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testLogEventNoAgents
+Tue May 15 19:16:39 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-logEvent with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testLogEvent
+Tue May 15 19:16:39 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-logEvent with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testLogEventTwoAgents
+Tue May 15 19:16:39 UTC 2018: No link for: org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testTimerTwoAgents
+Tue May 15 19:16:40 UTC 2018: No link for: org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testTimerOneAgent
+Tue May 15 19:16:40 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.metrics.MultipleMetricsAgentImplTest
+Tue May 15 19:16:41 UTC 2018: Found element on the queue
+Tue May 15 19:16:41 UTC 2018: Updating status
+Tue May 15 19:16:41 UTC 2018: Working
+Tue May 15 19:16:45 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.event.osgi.ApplicationContextServiceReferenceTest
+Tue May 15 19:16:45 UTC 2018: Setting lastTestMethodIndex: 44310
+Tue May 15 19:16:45 UTC 2018: Starting linking
+Tue May 15 19:16:45 UTC 2018: No link for: org.motechproject.event.osgi.ApplicationContextServiceReferenceTest-shouldNotRecogniseAsApplicationContextServiceWhenServiceNameIsDifferent
+Tue May 15 19:16:45 UTC 2018: No link for: org.motechproject.event.osgi.ApplicationContextServiceReferenceTest-shouldRecogniseAsApplicationContextService
+Tue May 15 19:16:45 UTC 2018: No link for: org.motechproject.event.osgi.ApplicationContextServiceReferenceTest-shouldNotRecogniseAsApplicationContextServiceWhenObjectClassIsDifferent
+Tue May 15 19:16:46 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.event.osgi.ApplicationContextServiceReferenceTest
+Tue May 15 19:16:46 UTC 2018: Found element on the queue
+Tue May 15 19:16:46 UTC 2018: Updating status
+Tue May 15 19:16:46 UTC 2018: Working
+Tue May 15 19:16:46 UTC 2018: Create project parser
+Tue May 15 19:16:50 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.osgi.web.ext.BundleNameTest
+Tue May 15 19:16:50 UTC 2018: Setting lastTestMethodIndex: 44315
+Tue May 15 19:16:50 UTC 2018: Starting linking
+Tue May 15 19:16:50 UTC 2018: Code found org.motechproject.osgi.web.ext.BundleName-underscore with org.motechproject.osgi.web.ext.BundleNameTest-shouldUnderscoreBundleName
+Tue May 15 19:16:51 UTC 2018: No link for: org.motechproject.osgi.web.ext.BundleNameTest-shouldTestBundleNameEquality
+Tue May 15 19:16:51 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.osgi.web.ext.BundleNameTest
+Tue May 15 19:16:52 UTC 2018: Found element on the queue
+Tue May 15 19:16:52 UTC 2018: Updating status
+Tue May 15 19:16:52 UTC 2018: Working
+Tue May 15 19:16:52 UTC 2018: Create project parser
+Tue May 15 19:16:55 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.server.osgi.BundleIconTest
+Tue May 15 19:16:55 UTC 2018: Setting lastTestMethodIndex: 44320
+Tue May 15 19:16:55 UTC 2018: Starting linking
+Tue May 15 19:16:55 UTC 2018: No link for: org.motechproject.server.osgi.BundleIconTest-testBundleIcon
+Tue May 15 19:16:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:16:55 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.server.osgi.BundleIconTest
+Tue May 15 19:16:56 UTC 2018: Found element on the queue
+Tue May 15 19:16:56 UTC 2018: Updating status
+Tue May 15 19:16:56 UTC 2018: Working
+Tue May 15 19:16:56 UTC 2018: Create project parser
+Tue May 15 19:17:00 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.server.config.ConfigLoaderTest
+Tue May 15 19:17:00 UTC 2018: Setting lastTestMethodIndex: 44324
+Tue May 15 19:17:00 UTC 2018: Starting linking
+Tue May 15 19:17:00 UTC 2018: No link for: org.motechproject.server.config.ConfigLoaderTest-testActiveMqPropertiesLoading
+Tue May 15 19:17:00 UTC 2018: No link for: org.motechproject.server.config.ConfigLoaderTest-testMotechSettingsLoading
+Tue May 15 19:17:00 UTC 2018: No link for: org.motechproject.server.config.ConfigLoaderTest-testNoFolderExists
+Tue May 15 19:17:00 UTC 2018: No link for: org.motechproject.server.config.ConfigLoaderTest-shouldLoadDefaultActiveMq
+Tue May 15 19:17:01 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.server.config.ConfigLoaderTest
+Tue May 15 19:17:01 UTC 2018: Found element on the queue
+Tue May 15 19:17:01 UTC 2018: Updating status
+Tue May 15 19:17:01 UTC 2018: Working
+Tue May 15 19:17:05 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.server.config.SettingsFacadeTest
+Tue May 15 19:17:05 UTC 2018: Setting lastTestMethodIndex: 44329
+Tue May 15 19:17:05 UTC 2018: Starting linking
+Tue May 15 19:17:05 UTC 2018: Code found org.motechproject.server.config.SettingsFacade-asProperties with org.motechproject.server.config.SettingsFacadeTest-testAsProperties
+Tue May 15 19:17:05 UTC 2018: No link for: org.motechproject.server.config.SettingsFacadeTest-testGetConfigNoService
+Tue May 15 19:17:05 UTC 2018: No link for: org.motechproject.server.config.SettingsFacadeTest-testGetConfigWithService
+Tue May 15 19:17:05 UTC 2018: No link for: org.motechproject.server.config.SettingsFacadeTest-testSetConfig
+Tue May 15 19:17:06 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.server.config.SettingsFacadeTest
+Tue May 15 19:17:06 UTC 2018: Found element on the queue
+Tue May 15 19:17:06 UTC 2018: Updating status
+Tue May 15 19:17:06 UTC 2018: Working
+Tue May 15 19:17:09 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest
+Tue May 15 19:17:09 UTC 2018: Setting lastTestMethodIndex: 44333
+Tue May 15 19:17:09 UTC 2018: Starting linking
+Tue May 15 19:17:09 UTC 2018: Code found org.motechproject.server.config.settings.ConfigFileSettings-getLanguage with org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest-testGetLanguage
+Tue May 15 19:17:10 UTC 2018: No link for: org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest-testGetLocale
+Tue May 15 19:17:10 UTC 2018: No link for: org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest-testExport
+Tue May 15 19:17:10 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest
+Tue May 15 19:17:11 UTC 2018: Found element on the queue
+Tue May 15 19:17:11 UTC 2018: Updating status
+Tue May 15 19:17:11 UTC 2018: Working
+Tue May 15 19:17:11 UTC 2018: Create project parser
+Tue May 15 19:17:14 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.server.startup.StartupManagerTest
+Tue May 15 19:17:14 UTC 2018: Setting lastTestMethodIndex: 44338
+Tue May 15 19:17:14 UTC 2018: Starting linking
+Tue May 15 19:17:14 UTC 2018: No link for: org.motechproject.server.startup.StartupManagerTest-testNoSettings
+Tue May 15 19:17:14 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.server.startup.StartupManagerTest
+Tue May 15 19:17:15 UTC 2018: Found element on the queue
+Tue May 15 19:17:15 UTC 2018: Updating status
+Tue May 15 19:17:15 UTC 2018: Working
+Tue May 15 19:17:15 UTC 2018: Create project parser
+Tue May 15 19:17:19 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.security.domain.MotechUserTest
+Tue May 15 19:17:19 UTC 2018: Setting lastTestMethodIndex: 44342
+Tue May 15 19:17:19 UTC 2018: Starting linking
+Tue May 15 19:17:19 UTC 2018: No link for: org.motechproject.security.domain.MotechUserTest-userNameShouldBeSetToLowercase
+Tue May 15 19:17:19 UTC 2018: No link for: org.motechproject.security.domain.MotechUserTest-shouldHandleNullValueForUserName
+Tue May 15 19:17:19 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.security.domain.MotechUserTest
+Tue May 15 19:17:20 UTC 2018: Found element on the queue
+Tue May 15 19:17:20 UTC 2018: Updating status
+Tue May 15 19:17:20 UTC 2018: Working
+Tue May 15 19:17:23 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.security.authentication.MotechAuthenticationProviderTest
+Tue May 15 19:17:23 UTC 2018: Setting lastTestMethodIndex: 44345
+Tue May 15 19:17:23 UTC 2018: Starting linking
+Tue May 15 19:17:23 UTC 2018: Code found org.motechproject.security.authentication.MotechAuthenticationProvider-retrieveUser with org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldRetrieveUserFromDatabase
+Tue May 15 19:17:23 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldThrowExceptionIfUserDoesntExist
+Tue May 15 19:17:23 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldAuthenticateUser
+Tue May 15 19:17:24 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldNotAuthenticateWrongPassword
+Tue May 15 19:17:24 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldNotAuthenticateEmptyPassword
+Tue May 15 19:17:24 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldThrowExceptionIfUserIsInactive
+Tue May 15 19:17:24 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.security.authentication.MotechAuthenticationProviderTest
+Tue May 15 19:17:25 UTC 2018: Found element on the queue
+Tue May 15 19:17:25 UTC 2018: Updating status
+Tue May 15 19:17:25 UTC 2018: Working
+Tue May 15 19:17:27 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.security.service.PasswordRecoveryServiceTest
+Tue May 15 19:17:27 UTC 2018: Setting lastTestMethodIndex: 44351
+Tue May 15 19:17:27 UTC 2018: Starting linking
+Tue May 15 19:17:28 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testResetPassword
+Tue May 15 19:17:28 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testUserNotFound
+Tue May 15 19:17:28 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testCleanUpExpired
+Tue May 15 19:17:28 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testCreateOpenIDRecovery
+Tue May 15 19:17:28 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testNoFindUserInOneTimeToken
+Tue May 15 19:17:29 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testInvalidToken
+Tue May 15 19:17:29 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testWrongConfirmation
+Tue May 15 19:17:29 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testCreateRecovery
+Tue May 15 19:17:29 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testExpiredRequest
+Tue May 15 19:17:30 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testNonAdminUserInOneTimeToken
+Tue May 15 19:17:30 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.security.service.PasswordRecoveryServiceTest
+Tue May 15 19:17:31 UTC 2018: Found element on the queue
+Tue May 15 19:17:31 UTC 2018: Updating status
+Tue May 15 19:17:31 UTC 2018: Working
+Tue May 15 19:17:34 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.security.web.controllers.ForgotPasswordControllerTest
+Tue May 15 19:17:34 UTC 2018: Setting lastTestMethodIndex: 44359
+Tue May 15 19:17:34 UTC 2018: Starting linking
+Tue May 15 19:17:34 UTC 2018: Code found org.motechproject.security.web.controllers.ForgotPasswordController-forgotPost with org.motechproject.security.web.controllers.ForgotPasswordControllerTest-testForgotPost
+Tue May 15 19:17:34 UTC 2018: No link for: org.motechproject.security.web.controllers.ForgotPasswordControllerTest-testInvalidEmail
+Tue May 15 19:17:34 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.security.web.controllers.ForgotPasswordControllerTest
+Tue May 15 19:17:35 UTC 2018: Found element on the queue
+Tue May 15 19:17:35 UTC 2018: Updating status
+Tue May 15 19:17:35 UTC 2018: Working
+Tue May 15 19:17:39 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.security.web.controllers.ResetControllerTest
+Tue May 15 19:17:39 UTC 2018: Setting lastTestMethodIndex: 44363
+Tue May 15 19:17:39 UTC 2018: Starting linking
+Tue May 15 19:17:39 UTC 2018: Code found org.motechproject.security.web.controllers.ResetController-reset with org.motechproject.security.web.controllers.ResetControllerTest-testReset
+Tue May 15 19:17:39 UTC 2018: Code found org.motechproject.security.web.controllers.ResetController-reset with org.motechproject.security.web.controllers.ResetControllerTest-testResetInvalidToken
+Tue May 15 19:17:40 UTC 2018: No link for: org.motechproject.security.web.controllers.ResetControllerTest-testBindingErrors
+Tue May 15 19:17:40 UTC 2018: No link for: org.motechproject.security.web.controllers.ResetControllerTest-testInvalidTokenOnView
+Tue May 15 19:17:40 UTC 2018: No link for: org.motechproject.security.web.controllers.ResetControllerTest-testValidView
+Tue May 15 19:17:40 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.security.web.controllers.ResetControllerTest
+Tue May 15 19:17:41 UTC 2018: Found element on the queue
+Tue May 15 19:17:41 UTC 2018: Updating status
+Tue May 15 19:17:41 UTC 2018: Working
+Tue May 15 19:17:41 UTC 2018: Create project parser
+Tue May 15 19:17:45 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.http.agent.listener.HttpClientEventListenerTest
+Tue May 15 19:17:45 UTC 2018: Setting lastTestMethodIndex: 44368
+Tue May 15 19:17:45 UTC 2018: Starting linking
+Tue May 15 19:17:45 UTC 2018: No link for: org.motechproject.http.agent.listener.HttpClientEventListenerTest-shouldReadFromQueueAndMakeAHttpDeleteCall
+Tue May 15 19:17:45 UTC 2018: No link for: org.motechproject.http.agent.listener.HttpClientEventListenerTest-shouldReadFromQueueAndMakeAHttpCall
+Tue May 15 19:17:45 UTC 2018: No link for: org.motechproject.http.agent.listener.HttpClientEventListenerTest-shouldReadFromQueueAndMakeAHttpCallForPost
+Tue May 15 19:17:45 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.http.agent.listener.HttpClientEventListenerTest
+Tue May 15 19:17:46 UTC 2018: Found element on the queue
+Tue May 15 19:17:46 UTC 2018: Updating status
+Tue May 15 19:17:46 UTC 2018: Working
+Tue May 15 19:17:49 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.http.agent.service.AsynchronousCallTest
+Tue May 15 19:17:49 UTC 2018: Setting lastTestMethodIndex: 44373
+Tue May 15 19:17:49 UTC 2018: Starting linking
+Tue May 15 19:17:49 UTC 2018: Code found org.motechproject.http.agent.components.AsynchronousCall-send with org.motechproject.http.agent.service.AsynchronousCallTest-shouldSendThroughEventRelay
+Tue May 15 19:17:50 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.http.agent.service.AsynchronousCallTest
+Tue May 15 19:17:50 UTC 2018: Found element on the queue
+Tue May 15 19:17:50 UTC 2018: Updating status
+Tue May 15 19:17:50 UTC 2018: Working
+Tue May 15 19:17:53 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.http.agent.service.HttpClientServiceImplTest
+Tue May 15 19:17:53 UTC 2018: Setting lastTestMethodIndex: 44378
+Tue May 15 19:17:53 UTC 2018: Starting linking
+Tue May 15 19:17:53 UTC 2018: Code found org.motechproject.http.agent.service.HttpAgentImpl-executeSync with org.motechproject.http.agent.service.HttpClientServiceImplTest-shouldExecuteSynchronousCalls
+Tue May 15 19:17:54 UTC 2018: Code found org.motechproject.http.agent.service.HttpAgentImpl-execute with org.motechproject.http.agent.service.HttpClientServiceImplTest-shouldExecuteDeleteRequest
+Tue May 15 19:17:54 UTC 2018: Code found org.motechproject.http.agent.service.HttpAgentImpl-execute with org.motechproject.http.agent.service.HttpClientServiceImplTest-shouldExecutePostRequest
+Tue May 15 19:17:54 UTC 2018: Code found org.motechproject.http.agent.service.HttpAgentImpl-execute with org.motechproject.http.agent.service.HttpClientServiceImplTest-shouldExecutePutRequest
+Tue May 15 19:17:54 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.http.agent.service.HttpClientServiceImplTest
+Tue May 15 19:17:55 UTC 2018: Found element on the queue
+Tue May 15 19:17:55 UTC 2018: Updating status
+Tue May 15 19:17:55 UTC 2018: Working
+Tue May 15 19:17:58 UTC 2018: Start gudipatiharitha__medicmobile test class org.motechproject.http.agent.service.SynchronousCallTest
+Tue May 15 19:17:58 UTC 2018: Setting lastTestMethodIndex: 44381
+Tue May 15 19:17:58 UTC 2018: Starting linking
+Tue May 15 19:17:58 UTC 2018: No link for: org.motechproject.http.agent.service.SynchronousCallTest-shouldInvokeHttpClientEventListenerDirectly
+Tue May 15 19:17:59 UTC 2018: Linking done for gudipatiharitha__medicmobile test class org.motechproject.http.agent.service.SynchronousCallTest

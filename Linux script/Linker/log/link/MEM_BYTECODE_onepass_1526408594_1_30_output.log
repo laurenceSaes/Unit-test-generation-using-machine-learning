@@ -1,0 +1,289 @@
+Tue May 15 21:39:41 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 21:39:42 UTC 2018: Starting
+Tue May 15 21:39:43 UTC 2018: Found element on the queue
+Tue May 15 21:39:43 UTC 2018: Updating status
+Tue May 15 21:39:43 UTC 2018: Working
+Tue May 15 21:39:43 UTC 2018: Create project parser
+Tue May 15 21:39:54 UTC 2018: Create slicer
+Tue May 15 21:39:58 UTC 2018: Create call graph
+Tue May 15 21:40:05 UTC 2018: Create point analysis
+Tue May 15 21:40:05 UTC 2018: Create call graph done
+Tue May 15 21:40:05 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.TestNSEC3NoData
+Tue May 15 21:40:05 UTC 2018: Setting lastTestMethodIndex: 48424
+Tue May 15 21:40:05 UTC 2018: Starting linking
+Tue May 15 21:40:05 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNodataApexNsec3AbusedForNoDS
+Tue May 15 21:40:05 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNodataButHasCname
+Tue May 15 21:40:06 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNodataApexNsec3ProofInsecureDelegation
+Tue May 15 21:40:06 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNodataApexNsec3WithSOAValid
+Tue May 15 21:40:06 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNodataNsec3ForDSMustNotHaveSOA
+Tue May 15 21:40:07 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNoDSProofCanExistForRoot
+Tue May 15 21:40:07 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNsec3ClosestEncloserIsInsecureDelegationDS
+Tue May 15 21:40:07 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNodataApexNsec3Abused
+Tue May 15 21:40:07 UTC 2018: No link for: org.jitsi.dnssec.TestNSEC3NoData-testNsec3ClosestEncloserIsInsecureDelegation
+Tue May 15 21:40:08 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.TestNSEC3NoData
+Tue May 15 21:40:09 UTC 2018: Found element on the queue
+Tue May 15 21:40:09 UTC 2018: Updating status
+Tue May 15 21:40:09 UTC 2018: Working
+Tue May 15 21:40:12 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.validator.TestNsec3ValUtils
+Tue May 15 21:40:12 UTC 2018: Setting lastTestMethodIndex: 48426
+Tue May 15 21:40:12 UTC 2018: Starting linking
+Tue May 15 21:40:12 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testNsec3ClosestEncloserIsInsecureDelegation
+Tue May 15 21:40:12 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testNsec3WithoutClosestEncloser
+Tue May 15 21:40:13 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testNsecEcdsa384
+Tue May 15 21:40:13 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testNsec3ClosestEncloserIsDelegation
+Tue May 15 21:40:13 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testPublicKeyLoadingException
+Tue May 15 21:40:13 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testNsecEcdsa256
+Tue May 15 21:40:14 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testTooLargeIterationCountMustThrow
+Tue May 15 21:40:14 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testNsec3NodataChangedToNxdomainIsBogus
+Tue May 15 21:40:14 UTC 2018: No link for: org.jitsi.dnssec.validator.TestNsec3ValUtils-testInvalidIterationCountMarksInsecure
+Tue May 15 21:40:14 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.validator.TestNsec3ValUtils
+Tue May 15 21:40:15 UTC 2018: Found element on the queue
+Tue May 15 21:40:15 UTC 2018: Updating status
+Tue May 15 21:40:15 UTC 2018: Working
+Tue May 15 21:40:18 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.validator.TestValUtils
+Tue May 15 21:40:18 UTC 2018: Setting lastTestMethodIndex: 48428
+Tue May 15 21:40:18 UTC 2018: Starting linking
+Tue May 15 21:40:18 UTC 2018: Code found org.jitsi.dnssec.validator.ValUtils-longestCommonName with org.jitsi.dnssec.validator.TestValUtils-testLongestCommonNameRootIsRoot
+Tue May 15 21:40:19 UTC 2018: No code found org.jitsi.dnssec.validator.ValUtils-hasSignedNsecs with org.jitsi.dnssec.validator.TestValUtils-testHasSignedNsecsWithoutSignedSigsReturnsFalse
+Tue May 15 21:40:19 UTC 2018: No code found org.jitsi.dnssec.validator.ValUtils-atLeastOneSupportedAlgorithm with org.jitsi.dnssec.validator.TestValUtils-testAtLeastOneSupportedAlgorithmWithOnlyNonDSRecords
+Tue May 15 21:40:19 UTC 2018: No code found org.jitsi.dnssec.validator.ValUtils-nsecProvesNoDS with org.jitsi.dnssec.validator.TestValUtils-testNsecProvesNoDSWithDSPresentForRoot
+Tue May 15 21:40:20 UTC 2018: No code found org.jitsi.dnssec.validator.ValUtils-atLeastOneDigestSupported with org.jitsi.dnssec.validator.TestValUtils-testAtLeastOneDigestSupportedWithOnlyNonDSRecords
+Tue May 15 21:40:20 UTC 2018: No code found org.jitsi.dnssec.validator.ValUtils-nsecProvesNoDS with org.jitsi.dnssec.validator.TestValUtils-testNsecProvesNoDS
+Tue May 15 21:40:20 UTC 2018: No code found org.jitsi.dnssec.validator.ValUtils-nsecProvesNoDS with org.jitsi.dnssec.validator.TestValUtils-testNsecProvesNoDSWithSOAForNonRoot
+Tue May 15 21:40:21 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testDsNoDataWhenNsecProvesDs
+Tue May 15 21:40:21 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataWhenDSResultIsFromChild
+Tue May 15 21:40:21 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataWhenNsecHasCname
+Tue May 15 21:40:22 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataWhenWcNsecProvesType
+Tue May 15 21:40:22 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNameErrorWhenNsecIsLastAndQnameBefore
+Tue May 15 21:40:22 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNameErrorWhenNsecIsLastAndQnameIsZoneApex
+Tue May 15 21:40:23 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataOnEntWithWrongNsec
+Tue May 15 21:40:23 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNameErrorWhenNsecIsLastAndQnameDifferentDomain
+Tue May 15 21:40:23 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataWhenResultIsFromDelegationPoint
+Tue May 15 21:40:24 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNameErrorWhenNsecIsNotFromApex
+Tue May 15 21:40:24 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataWhenNsecProvesExistence
+Tue May 15 21:40:24 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataWhenWcNsecProvesCname
+Tue May 15 21:40:25 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataOfDSForRoot
+Tue May 15 21:40:25 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNoDataWhenWcNsecIsForDifferentName
+Tue May 15 21:40:25 UTC 2018: No link for: org.jitsi.dnssec.validator.TestValUtils-testNameErrorWhenResultIsFromDelegationPoint
+Tue May 15 21:40:26 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.validator.TestValUtils
+Tue May 15 21:40:27 UTC 2018: Found element on the queue
+Tue May 15 21:40:27 UTC 2018: Updating status
+Tue May 15 21:40:27 UTC 2018: Working
+Tue May 15 21:40:30 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.TestKeyCache
+Tue May 15 21:40:30 UTC 2018: Setting lastTestMethodIndex: 48432
+Tue May 15 21:40:30 UTC 2018: Starting linking
+Tue May 15 21:40:30 UTC 2018: No link for: org.jitsi.dnssec.TestKeyCache-testNullPropertiesDontFail
+Tue May 15 21:40:30 UTC 2018: No link for: org.jitsi.dnssec.TestKeyCache-testTtlExpiration
+Tue May 15 21:40:31 UTC 2018: No link for: org.jitsi.dnssec.TestKeyCache-testPositiveEntryEncloserMatch
+Tue May 15 21:40:31 UTC 2018: No link for: org.jitsi.dnssec.TestKeyCache-testTtlNoLongerThanMaxTtl
+Tue May 15 21:40:31 UTC 2018: No link for: org.jitsi.dnssec.TestKeyCache-testCacheOnlySecureDNSKEYs
+Tue May 15 21:40:31 UTC 2018: No link for: org.jitsi.dnssec.TestKeyCache-testPositiveEntryExactMatch
+Tue May 15 21:40:32 UTC 2018: No link for: org.jitsi.dnssec.TestKeyCache-testMaxCacheSize
+Tue May 15 21:40:32 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.TestKeyCache
+Tue May 15 21:40:33 UTC 2018: Found element on the queue
+Tue May 15 21:40:33 UTC 2018: Updating status
+Tue May 15 21:40:33 UTC 2018: Working
+Tue May 15 21:40:36 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.TestUnsigned
+Tue May 15 21:40:36 UTC 2018: Setting lastTestMethodIndex: 48433
+Tue May 15 21:40:36 UTC 2018: Starting linking
+Tue May 15 21:40:36 UTC 2018: No link for: org.jitsi.dnssec.TestUnsigned-testUnsignedBelowSignedTldNsec3NoOptOut
+Tue May 15 21:40:37 UTC 2018: No link for: org.jitsi.dnssec.TestUnsigned-testUnsignedBelowSignedTldNsec3OptOut
+Tue May 15 21:40:37 UTC 2018: No link for: org.jitsi.dnssec.TestUnsigned-testUnsignedBelowSignedZoneBind
+Tue May 15 21:40:37 UTC 2018: No link for: org.jitsi.dnssec.TestUnsigned-testUnsignedBelowUnsignedZone
+Tue May 15 21:40:38 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.TestUnsigned
+Tue May 15 21:40:39 UTC 2018: Found element on the queue
+Tue May 15 21:40:39 UTC 2018: Updating status
+Tue May 15 21:40:39 UTC 2018: Working
+Tue May 15 21:40:43 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.TestBogusReasonMessage
+Tue May 15 21:40:43 UTC 2018: Setting lastTestMethodIndex: 48434
+Tue May 15 21:40:43 UTC 2018: Starting linking
+Tue May 15 21:40:43 UTC 2018: No link for: org.jitsi.dnssec.TestBogusReasonMessage-testLongBogusReasonIsSplitCorrectly
+Tue May 15 21:40:43 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.TestBogusReasonMessage
+Tue May 15 21:40:45 UTC 2018: Found element on the queue
+Tue May 15 21:40:45 UTC 2018: Updating status
+Tue May 15 21:40:45 UTC 2018: Working
+Tue May 15 21:40:48 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.TestCNames
+Tue May 15 21:40:48 UTC 2018: Setting lastTestMethodIndex: 48436
+Tue May 15 21:40:48 UTC 2018: Starting linking
+Tue May 15 21:40:48 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToUnsignedMX
+Tue May 15 21:40:48 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToSubSigned
+Tue May 15 21:40:49 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToInvalidSigned
+Tue May 15 21:40:49 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToVoid
+Tue May 15 21:40:49 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToExternalUnsignedVoid
+Tue May 15 21:40:50 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToUnsignedNsec3
+Tue May 15 21:40:50 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToVoidNsec3
+Tue May 15 21:40:50 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToSignedA
+Tue May 15 21:40:50 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToSignedNsec3
+Tue May 15 21:40:51 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToInvalidSignedNsec3
+Tue May 15 21:40:51 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToVoidExternalValidTld
+Tue May 15 21:40:51 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToSignedMX
+Tue May 15 21:40:52 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToSignedAExternal
+Tue May 15 21:40:52 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToUnsignedA
+Tue May 15 21:40:52 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToVoid2Chain
+Tue May 15 21:40:53 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToVoidExternalInvalidTld
+Tue May 15 21:40:53 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToVoid3Chain
+Tue May 15 21:40:53 UTC 2018: No link for: org.jitsi.dnssec.TestCNames-testCNameToUnsignedVoid
+Tue May 15 21:40:54 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.TestCNames
+Tue May 15 21:40:54 UTC 2018: Found element on the queue
+Tue May 15 21:40:54 UTC 2018: Updating status
+Tue May 15 21:40:55 UTC 2018: Working
+Tue May 15 21:40:59 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.TestPositive
+Tue May 15 21:40:59 UTC 2018: Setting lastTestMethodIndex: 48438
+Tue May 15 21:40:59 UTC 2018: Starting linking
+Tue May 15 21:40:59 UTC 2018: No link for: org.jitsi.dnssec.TestPositive-testValidNonExising
+Tue May 15 21:40:59 UTC 2018: No link for: org.jitsi.dnssec.TestPositive-testValidExising
+Tue May 15 21:40:59 UTC 2018: No link for: org.jitsi.dnssec.TestPositive-testValidAnswerToDifferentQueryTypeIsBogus
+Tue May 15 21:41:00 UTC 2018: No link for: org.jitsi.dnssec.TestPositive-testCDonQueryDoesntDoAnything
+Tue May 15 21:41:00 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.TestPositive
+Tue May 15 21:41:01 UTC 2018: Found element on the queue
+Tue May 15 21:41:01 UTC 2018: Updating status
+Tue May 15 21:41:01 UTC 2018: Working
+Tue May 15 21:41:05 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.TestInvalid
+Tue May 15 21:41:05 UTC 2018: Setting lastTestMethodIndex: 48440
+Tue May 15 21:41:05 UTC 2018: Starting linking
+Tue May 15 21:41:05 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testSignedBelowUnsignedBelowSigned
+Tue May 15 21:41:05 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testReturnServfailIfIntermediateQueryFails
+Tue May 15 21:41:06 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testSigNotIncepted
+Tue May 15 21:41:06 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testSignedBelowUnsignedBelowSignedNsec3
+Tue May 15 21:41:06 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testBogusSig
+Tue May 15 21:41:06 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testBogusSigNsec3
+Tue May 15 21:41:07 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testModifiedSignature
+Tue May 15 21:41:07 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testSigExpiredNsec3
+Tue May 15 21:41:07 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testSigExpired
+Tue May 15 21:41:08 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testUnknownAlgNsec3
+Tue May 15 21:41:08 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testReturnOriginalRcodeIfPrimaryQueryFails
+Tue May 15 21:41:08 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testSigNotInceptedNsec3
+Tue May 15 21:41:08 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testUnknownAlg
+Tue May 15 21:41:09 UTC 2018: No link for: org.jitsi.dnssec.TestInvalid-testUnsignedThatMustBeSigned
+Tue May 15 21:41:09 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.TestInvalid
+Tue May 15 21:41:10 UTC 2018: Found element on the queue
+Tue May 15 21:41:10 UTC 2018: Updating status
+Tue May 15 21:41:10 UTC 2018: Working
+Tue May 15 21:41:13 UTC 2018: Start ibauersachs__dnssecjava test class org.jitsi.dnssec.unbound.rpl.UnboundTests
+Tue May 15 21:41:13 UTC 2018: Setting lastTestMethodIndex: 48442
+Tue May 15 21:41:13 UTC 2018: Starting linking
+Tue May 15 21:41:13 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b3_optout
+Tue May 15 21:41:13 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nsec3_params
+Tue May 15 21:41:14 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodatawc_badce
+Tue May 15 21:41:14 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_entnodata_optout_match
+Tue May 15 21:41:14 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nokeyprime
+Tue May 15 21:41:15 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_secds
+Tue May 15 21:41:15 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnamenx_dblnsec
+Tue May 15 21:41:15 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametopos
+Tue May 15 21:41:15 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_wcany
+Tue May 15 21:41:16 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b4_wild_wr
+Tue May 15 21:41:16 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnamewctonx
+Tue May 15 21:41:16 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_unsecds
+Tue May 15 21:41:17 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_adcopy
+Tue May 15 21:41:17 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b2_nodata
+Tue May 15 21:41:17 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ans_dsent
+Tue May 15 21:41:18 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_nodatawccname
+Tue May 15 21:41:18 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodata
+Tue May 15 21:41:18 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_pos_truncns
+Tue May 15 21:41:19 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_unalgo_dlv
+Tue May 15 21:41:19 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_cnametocnamewctoposwc
+Tue May 15 21:41:19 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnamenx_rcodenx
+Tue May 15 21:41:20 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_dnametoolong
+Tue May 15 21:41:20 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametoposnowc
+Tue May 15 21:41:20 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b21_nodataent
+Tue May 15 21:41:21 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodatawc
+Tue May 15 21:41:21 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_stub_noroot
+Tue May 15 21:41:21 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametonx
+Tue May 15 21:41:21 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_any_dname
+Tue May 15 21:41:22 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_rrsig
+Tue May 15 21:41:22 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_wcany_nodeny
+Tue May 15 21:41:22 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_mal_wc
+Tue May 15 21:41:23 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodata_entwc
+Tue May 15 21:41:23 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b5_wcnodata_nonc
+Tue May 15 21:41:23 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnameqtype
+Tue May 15 21:41:23 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_entds
+Tue May 15 21:41:23 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b1_nameerror_nowc
+Tue May 15 21:41:24 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametocloser
+Tue May 15 21:41:24 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b21_nodataent_wr
+Tue May 15 21:41:24 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_overreach
+Tue May 15 21:41:24 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ta_algo_dnskey
+Tue May 15 21:41:24 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_unalgo_anchor
+Tue May 15 21:41:25 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ans_nx
+Tue May 15 21:41:25 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_keyprefetch
+Tue May 15 21:41:25 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodata_hasdata
+Tue May 15 21:41:25 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b1_nameerror
+Tue May 15 21:41:25 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b5_wcnodata_nowc
+Tue May 15 21:41:26 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ds_sha2
+Tue May 15 21:41:26 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_keyprefetch_verify
+Tue May 15 21:41:27 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_nods_soa
+Tue May 15 21:41:27 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodatawc_wcns
+Tue May 15 21:41:27 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nsec3_hashalg
+Tue May 15 21:41:28 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b3_optout_noce
+Tue May 15 21:41:28 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_cname_ds
+Tue May 15 21:41:28 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_cname_sub
+Tue May 15 21:41:29 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_nods
+Tue May 15 21:41:29 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b2_nodata_nons
+Tue May 15 21:41:29 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_iter_high
+Tue May 15 21:41:30 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nsec3_collision
+Tue May 15 21:41:30 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnamewctoposwc
+Tue May 15 21:41:30 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_entnodata_optout_badopt
+Tue May 15 21:41:30 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_positive
+Tue May 15 21:41:31 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodatawc_nodeny
+Tue May 15 21:41:31 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_dnamewc
+Tue May 15 21:41:31 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametooptout
+Tue May 15 21:41:32 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_wild_pos
+Tue May 15 21:41:32 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametocloser_nosig
+Tue May 15 21:41:32 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ds_sha2_downgrade
+Tue May 15 21:41:33 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnameinsectopos
+Tue May 15 21:41:33 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ta_algo_missing
+Tue May 15 21:41:33 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nodeny
+Tue May 15 21:41:33 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_dnametoposwc
+Tue May 15 21:41:34 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_nods_badsig
+Tue May 15 21:41:34 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ds_cname
+Tue May 15 21:41:34 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ds_cnamesubbogus
+Tue May 15 21:41:35 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ds_cnamesub
+Tue May 15 21:41:35 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nsec3_collision2
+Tue May 15 21:41:35 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nsec3_collision3
+Tue May 15 21:41:36 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_positive_nosigs
+Tue May 15 21:41:36 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nsec3_collision4
+Tue May 15 21:41:36 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodatawc_one
+Tue May 15 21:41:37 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b1_nameerror_nonc
+Tue May 15 21:41:37 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nsec3_nsecmix
+Tue May 15 21:41:38 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_any
+Tue May 15 21:41:38 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_any_cname
+Tue May 15 21:41:39 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_nods_badopt
+Tue May 15 21:41:39 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b5_wcnodata
+Tue May 15 21:41:39 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx
+Tue May 15 21:41:39 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodata_ent
+Tue May 15 21:41:40 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b3_optout_nonc
+Tue May 15 21:41:40 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_unalgo_ds
+Tue May 15 21:41:40 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ds_sha2_downgrade_override
+Tue May 15 21:41:41 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodata_zonecut
+Tue May 15 21:41:41 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnamewctonodata
+Tue May 15 21:41:41 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_adbit
+Tue May 15 21:41:41 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_qds_oneanc
+Tue May 15 21:41:42 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_twocname
+Tue May 15 21:41:42 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_dnametopos
+Tue May 15 21:41:42 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nx_nowc
+Tue May 15 21:41:42 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_positive_wc_nodeny
+Tue May 15 21:41:43 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_cname_par
+Tue May 15 21:41:43 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametonodata
+Tue May 15 21:41:43 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b4_wild
+Tue May 15 21:41:43 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_qds_badanc
+Tue May 15 21:41:44 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cname_loop3
+Tue May 15 21:41:44 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cname_loop2
+Tue May 15 21:41:44 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cname_loop1
+Tue May 15 21:41:45 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_qds_twoanc
+Tue May 15 21:41:45 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametoposwc
+Tue May 15 21:41:45 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_ds_afterprime
+Tue May 15 21:41:45 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_unsec_cname
+Tue May 15 21:41:46 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametonodata_nonsec
+Tue May 15 21:41:46 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_negcache_ds
+Tue May 15 21:41:46 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_faildnskey
+Tue May 15 21:41:46 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b5_wcnodata_noce
+Tue May 15 21:41:47 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametocnamewctoposwc
+Tue May 15 21:41:47 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodata_failsig
+Tue May 15 21:41:47 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_b1_nameerror_noce
+Tue May 15 21:41:47 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_positive_wc
+Tue May 15 21:41:47 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_secds_nosig
+Tue May 15 21:41:48 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nodatawc_wrongdeleg
+Tue May 15 21:41:48 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_entnodata_optout
+Tue May 15 21:41:48 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametodnametocnametopos
+Tue May 15 21:41:48 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_cnametodname
+Tue May 15 21:41:49 UTC 2018: No link for: org.jitsi.dnssec.unbound.rpl.UnboundTests-val_nsec3_optout_ad
+Tue May 15 21:41:49 UTC 2018: Linking done for ibauersachs__dnssecjava test class org.jitsi.dnssec.unbound.rpl.UnboundTests

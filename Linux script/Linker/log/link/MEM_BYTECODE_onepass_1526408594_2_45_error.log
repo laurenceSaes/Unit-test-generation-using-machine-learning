@@ -1,0 +1,14 @@
+Tue May 15 23:37:07 UTC 2018 WARN: Establishing SSL connection without server's identity verification is not recommended. According to MySQL 5.5.45+, 5.6.26+ and 5.7.6+ requirements SSL connection must be established by default if explicit option isn't set. For compliance with existing applications not using SSL the verifyServerCertificate property is set to 'false'. You need either to explicitly disable SSL by setting useSSL=false, or set useSSL=true and provide truststore for server certificate verification.
+Exception in thread "main" com.ibm.wala.util.debug.UnimplementedError: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1347093252
+	at com.ibm.wala.util.debug.Assertions.UNREACHABLE(Assertions.java:55)
+	at com.ibm.wala.util.config.AnalysisScopeReader.addClassPathToScope(AnalysisScopeReader.java:249)
+	at com.ibm.wala.util.config.AnalysisScopeReader.makeJavaBinaryAnalysisScope(AnalysisScopeReader.java:209)
+	at slicer.ClassAnalyzer.getAnalysisScope(ClassAnalyzer.java:120)
+	at slicer.ClassAnalyzer.initialize(ClassAnalyzer.java:57)
+	at slicer.ClassAnalyzer.<init>(ClassAnalyzer.java:39)
+	at slicer.Slicer.<init>(Slicer.java:30)
+	at linker.UnitTestLinker.getSlicer(UnitTestLinker.java:117)
+	at linker.methods.BytecodeAnalysisWithLargestMatchingClass.initialize(BytecodeAnalysisWithLargestMatchingClass.java:31)
+	at application.LinkBasedOnQueue.getUnitTestLinker(LinkBasedOnQueue.java:226)
+	at application.LinkBasedOnQueue.processTest(LinkBasedOnQueue.java:191)
+	at application.LinkBasedOnQueue.main(LinkBasedOnQueue.java:107)

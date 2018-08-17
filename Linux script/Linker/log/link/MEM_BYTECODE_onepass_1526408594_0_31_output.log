@@ -1,0 +1,125 @@
+Tue May 15 23:38:19 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 23:38:19 UTC 2018: Starting
+Tue May 15 23:38:20 UTC 2018: Found element on the queue
+Tue May 15 23:38:20 UTC 2018: Updating status
+Tue May 15 23:38:20 UTC 2018: Working
+Tue May 15 23:38:20 UTC 2018: Create project parser
+Tue May 15 23:38:24 UTC 2018: Create slicer
+Tue May 15 23:38:25 UTC 2018: Create call graph
+Tue May 15 23:38:27 UTC 2018: Create point analysis
+Tue May 15 23:38:27 UTC 2018: Create call graph done
+Tue May 15 23:38:27 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.utils.ExpressionHelperTest
+Tue May 15 23:38:27 UTC 2018: Setting lastTestMethodIndex: 51402
+Tue May 15 23:38:27 UTC 2018: Starting linking
+Tue May 15 23:38:27 UTC 2018: No link for: org.jentrata.ebms.utils.ExpressionHelperTest-shouldGetHeaderValue
+Tue May 15 23:38:27 UTC 2018: No link for: org.jentrata.ebms.utils.ExpressionHelperTest-shouldGetDefaultSimpleValue
+Tue May 15 23:38:28 UTC 2018: No link for: org.jentrata.ebms.utils.ExpressionHelperTest-shouldGetDefaultValue
+Tue May 15 23:38:28 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.utils.ExpressionHelperTest
+Tue May 15 23:38:28 UTC 2018: Found element on the queue
+Tue May 15 23:38:28 UTC 2018: Updating status
+Tue May 15 23:38:28 UTC 2018: Working
+Tue May 15 23:38:31 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.utils.EbmsUtilsTest
+Tue May 15 23:38:31 UTC 2018: Setting lastTestMethodIndex: 51405
+Tue May 15 23:38:31 UTC 2018: Starting linking
+Tue May 15 23:38:31 UTC 2018: Code found org.jentrata.ebms.utils.EbmsUtils-extractPartProperties with org.jentrata.ebms.utils.EbmsUtilsTest-testExtractPartProperties
+Tue May 15 23:38:31 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.utils.EbmsUtilsTest
+Tue May 15 23:38:32 UTC 2018: Found element on the queue
+Tue May 15 23:38:32 UTC 2018: Updating status
+Tue May 15 23:38:32 UTC 2018: Working
+Tue May 15 23:38:34 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest
+Tue May 15 23:38:34 UTC 2018: Setting lastTestMethodIndex: 51408
+Tue May 15 23:38:34 UTC 2018: Starting linking
+Tue May 15 23:38:34 UTC 2018: No link for: org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest-testDontCopyMessageSplitter
+Tue May 15 23:38:35 UTC 2018: No link for: org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest-testCopyCustomHeadersSplitter
+Tue May 15 23:38:35 UTC 2018: No link for: org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest-testIncludeOriginalMessageSplitter
+Tue May 15 23:38:35 UTC 2018: No link for: org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest-testDontCopyHeadersSplitter
+Tue May 15 23:38:35 UTC 2018: No link for: org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest-testDefaultSplitter
+Tue May 15 23:38:36 UTC 2018: No link for: org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest-testWithBodyOnly
+Tue May 15 23:38:36 UTC 2018: No link for: org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest-testIncludeOriginalMessageSplitterWithContentIDAndType
+Tue May 15 23:38:36 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.messaging.SplitAttachmentsToBodyTest
+Tue May 15 23:38:37 UTC 2018: Found element on the queue
+Tue May 15 23:38:37 UTC 2018: Updating status
+Tue May 15 23:38:37 UTC 2018: Working
+Tue May 15 23:38:40 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.messaging.XmlSchemaValidatorTest
+Tue May 15 23:38:40 UTC 2018: Setting lastTestMethodIndex: 51411
+Tue May 15 23:38:40 UTC 2018: Starting linking
+Tue May 15 23:38:40 UTC 2018: No link for: org.jentrata.ebms.messaging.XmlSchemaValidatorTest-testValidEbmsUserMessage
+Tue May 15 23:38:40 UTC 2018: No link for: org.jentrata.ebms.messaging.XmlSchemaValidatorTest-testInvalidEbmsUserMessage
+Tue May 15 23:38:40 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.messaging.XmlSchemaValidatorTest
+Tue May 15 23:38:41 UTC 2018: Found element on the queue
+Tue May 15 23:38:41 UTC 2018: Updating status
+Tue May 15 23:38:41 UTC 2018: Working
+Tue May 15 23:38:41 UTC 2018: Create project parser
+Tue May 15 23:38:44 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest
+Tue May 15 23:38:44 UTC 2018: Setting lastTestMethodIndex: 51414
+Tue May 15 23:38:44 UTC 2018: Starting linking
+Tue May 15 23:38:44 UTC 2018: Code found org.jentrata.ebms.cpa.internal.JSONCPARepository-isValidPartnerAgreement with org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testIsValidPartnerAgreement
+Tue May 15 23:38:45 UTC 2018: Code found org.jentrata.ebms.cpa.internal.JSONCPARepository-init with org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testInitiatorAndResponder
+Tue May 15 23:38:45 UTC 2018: Code found org.jentrata.ebms.cpa.internal.JSONCPARepository-findByMessage with org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testFindByMessageWithDefaultMatches
+Tue May 15 23:38:45 UTC 2018: Code found org.jentrata.ebms.cpa.internal.JSONCPARepository-findByMessage with org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testFindByMessageWithServiceIdentifier
+Tue May 15 23:38:46 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testPayloadServiceWithDefaults
+Tue May 15 23:38:46 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testXpathValidations
+Tue May 15 23:38:46 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testFindAgreementByServiceAndAction
+Tue May 15 23:38:46 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testAgreementWithMinimalSecurity
+Tue May 15 23:38:47 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testCustomReceptionAwareness
+Tue May 15 23:38:47 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testLoadSingleAgreement
+Tue May 15 23:38:47 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testAgreementWithSignatureSecurityAndInclusiveNamespaces
+Tue May 15 23:38:47 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testPayloadServiceWithPayloadId
+Tue May 15 23:38:48 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testDefaultReceptionAwareness
+Tue May 15 23:38:48 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testPayloadServiceWithGZipCompression
+Tue May 15 23:38:48 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testLoadNonExistentFile
+Tue May 15 23:38:48 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testLoadEmptyFile
+Tue May 15 23:38:49 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testMultipleXpathValidations
+Tue May 15 23:38:49 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testGetAllAgreements
+Tue May 15 23:38:49 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testAgreementWithNoSecurity
+Tue May 15 23:38:49 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testLoadMultipleAgreementsWithOneActive
+Tue May 15 23:38:50 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testLoadMultipleAgreements
+Tue May 15 23:38:50 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testAgreementWithSignatureSecurity
+Tue May 15 23:38:50 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testLoadNullFile
+Tue May 15 23:38:50 UTC 2018: No link for: org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest-testAgreementWithSecurity
+Tue May 15 23:38:51 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.cpa.internal.JSONCPARepositoryTest
+Tue May 15 23:38:51 UTC 2018: Found element on the queue
+Tue May 15 23:38:51 UTC 2018: Updating status
+Tue May 15 23:38:51 UTC 2018: Working
+Tue May 15 23:38:51 UTC 2018: Create project parser
+Tue May 15 23:38:54 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.messaging.internal.FileMessageStoreTest
+Tue May 15 23:38:54 UTC 2018: Setting lastTestMethodIndex: 51417
+Tue May 15 23:38:54 UTC 2018: Starting linking
+Tue May 15 23:38:54 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.FileMessageStoreTest-testFileMessageStore
+Tue May 15 23:38:55 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.FileMessageStoreTest-testUpdateMessageInMessageStore
+Tue May 15 23:38:55 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.FileMessageStoreTest-testFindPayloadById
+Tue May 15 23:38:56 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.messaging.internal.FileMessageStoreTest
+Tue May 15 23:38:57 UTC 2018: Found element on the queue
+Tue May 15 23:38:57 UTC 2018: Updating status
+Tue May 15 23:38:57 UTC 2018: Working
+Tue May 15 23:38:57 UTC 2018: Create project parser
+Tue May 15 23:39:00 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest
+Tue May 15 23:39:00 UTC 2018: Setting lastTestMethodIndex: 51420
+Tue May 15 23:39:00 UTC 2018: Starting linking
+Tue May 15 23:39:00 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest-testFindMessageByStatus
+Tue May 15 23:39:00 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest-testUpdateStoreMimeMessage
+Tue May 15 23:39:00 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest-testDuplicateMessage
+Tue May 15 23:39:01 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest-testShouldStoreMimeMessage
+Tue May 15 23:39:01 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest-testFindByMessageId
+Tue May 15 23:39:01 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest-testFindPayloadById
+Tue May 15 23:39:02 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest-testShouldCreateMessageStoreTablesByDefault
+Tue May 15 23:39:02 UTC 2018: No link for: org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest-testShouldStoreSoapMessage
+Tue May 15 23:39:02 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.messaging.internal.JDBCMessageStoreTest
+Tue May 15 23:39:03 UTC 2018: Found element on the queue
+Tue May 15 23:39:03 UTC 2018: Updating status
+Tue May 15 23:39:03 UTC 2018: Working
+Tue May 15 23:39:03 UTC 2018: Create project parser
+Tue May 15 23:39:06 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.rest.internal.routes.RestApiRouteBuilderTest
+Tue May 15 23:39:06 UTC 2018: Setting lastTestMethodIndex: 51424
+Tue May 15 23:39:06 UTC 2018: Starting linking
+Tue May 15 23:39:06 UTC 2018: No link for: org.jentrata.ebms.rest.internal.routes.RestApiRouteBuilderTest-testCallServiceRouteImpl
+Tue May 15 23:39:06 UTC 2018: No link for: org.jentrata.ebms.rest.internal.routes.RestApiRouteBuilderTest-testCallServiceRouteImplWithEmptyResponse
+Tue May 15 23:39:06 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.rest.internal.routes.RestApiRouteBuilderTest
+Tue May 15 23:39:07 UTC 2018: Found element on the queue
+Tue May 15 23:39:07 UTC 2018: Updating status
+Tue May 15 23:39:07 UTC 2018: Working
+Tue May 15 23:39:09 UTC 2018: Start jentrata__jentrata test class org.jentrata.ebms.rest.internal.routes.RepositoryServiceRouteBuilderTest
+Tue May 15 23:39:09 UTC 2018: Setting lastTestMethodIndex: 51427
+Tue May 15 23:39:09 UTC 2018: Starting linking
+Tue May 15 23:39:10 UTC 2018: No link for: org.jentrata.ebms.rest.internal.routes.RepositoryServiceRouteBuilderTest-testFindByMessageID
+Tue May 15 23:39:10 UTC 2018: Linking done for jentrata__jentrata test class org.jentrata.ebms.rest.internal.routes.RepositoryServiceRouteBuilderTest

@@ -1,0 +1,1253 @@
+Wed May 16 07:16:59 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 07:16:59 UTC 2018: Starting
+Wed May 16 07:17:00 UTC 2018: Found element on the queue
+Wed May 16 07:17:00 UTC 2018: Updating status
+Wed May 16 07:17:00 UTC 2018: Working
+Wed May 16 07:17:00 UTC 2018: Create project parser
+Wed May 16 07:17:10 UTC 2018: Create slicer
+Wed May 16 07:17:52 UTC 2018: Create call graph
+Wed May 16 07:18:18 UTC 2018: Create point analysis
+Wed May 16 07:18:18 UTC 2018: Create call graph done
+Wed May 16 07:18:18 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.segment.loading.DataSegmentPusherUtilTest
+Wed May 16 07:18:18 UTC 2018: Setting lastTestMethodIndex: 66259
+Wed May 16 07:18:18 UTC 2018: Starting linking
+Wed May 16 07:18:18 UTC 2018: No link for: io.druid.segment.loading.DataSegmentPusherUtilTest-shouldNotHaveColonsInHdfsStorageDir
+Wed May 16 07:18:18 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.segment.loading.DataSegmentPusherUtilTest
+Wed May 16 07:18:19 UTC 2018: Found element on the queue
+Wed May 16 07:18:19 UTC 2018: Updating status
+Wed May 16 07:18:19 UTC 2018: Working
+Wed May 16 07:18:21 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.js.JavaScriptConfigTest
+Wed May 16 07:18:21 UTC 2018: Setting lastTestMethodIndex: 66261
+Wed May 16 07:18:21 UTC 2018: Starting linking
+Wed May 16 07:18:21 UTC 2018: No link for: io.druid.js.JavaScriptConfigTest-testSerdeWithDefaults
+Wed May 16 07:18:21 UTC 2018: No link for: io.druid.js.JavaScriptConfigTest-testSerde
+Wed May 16 07:18:22 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.js.JavaScriptConfigTest
+Wed May 16 07:18:22 UTC 2018: Found element on the queue
+Wed May 16 07:18:22 UTC 2018: Updating status
+Wed May 16 07:18:22 UTC 2018: Working
+Wed May 16 07:18:25 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.timeline.DataSegmentTest
+Wed May 16 07:18:25 UTC 2018: Setting lastTestMethodIndex: 66262
+Wed May 16 07:18:25 UTC 2018: Starting linking
+Wed May 16 07:18:25 UTC 2018: Code found io.druid.timeline.DataSegment-bucketMonthComparator with io.druid.timeline.DataSegmentTest-testBucketMonthComparator
+Wed May 16 07:18:25 UTC 2018: No link for: io.druid.timeline.DataSegmentTest-testIdentifier
+Wed May 16 07:18:26 UTC 2018: No link for: io.druid.timeline.DataSegmentTest-testV1Serialization
+Wed May 16 07:18:26 UTC 2018: No link for: io.druid.timeline.DataSegmentTest-testV1SerializationNullMetrics
+Wed May 16 07:18:26 UTC 2018: No link for: io.druid.timeline.DataSegmentTest-testIdentifierWithZeroPartition
+Wed May 16 07:18:27 UTC 2018: No link for: io.druid.timeline.DataSegmentTest-testIdentifierWithNonzeroPartition
+Wed May 16 07:18:27 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.timeline.DataSegmentTest
+Wed May 16 07:18:28 UTC 2018: Found element on the queue
+Wed May 16 07:18:28 UTC 2018: Updating status
+Wed May 16 07:18:28 UTC 2018: Working
+Wed May 16 07:18:30 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.timeline.partition.NoneShardSpecTest
+Wed May 16 07:18:30 UTC 2018: Setting lastTestMethodIndex: 66263
+Wed May 16 07:18:30 UTC 2018: Starting linking
+Wed May 16 07:18:30 UTC 2018: Code found io.druid.timeline.partition.NoneShardSpec-hashCode with io.druid.timeline.partition.NoneShardSpecTest-testEqualsAndHashCode
+Wed May 16 07:18:31 UTC 2018: No link for: io.druid.timeline.partition.NoneShardSpecTest-testSerde
+Wed May 16 07:18:31 UTC 2018: No link for: io.druid.timeline.partition.NoneShardSpecTest-testPartitionFieldIgnored
+Wed May 16 07:18:31 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.timeline.partition.NoneShardSpecTest
+Wed May 16 07:18:32 UTC 2018: Found element on the queue
+Wed May 16 07:18:32 UTC 2018: Updating status
+Wed May 16 07:18:32 UTC 2018: Working
+Wed May 16 07:18:34 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.timeline.DataSegmentUtilsTest
+Wed May 16 07:18:34 UTC 2018: Setting lastTestMethodIndex: 66264
+Wed May 16 07:18:34 UTC 2018: Starting linking
+Wed May 16 07:18:34 UTC 2018: No link for: io.druid.timeline.DataSegmentUtilsTest-testInvalidFormat1
+Wed May 16 07:18:35 UTC 2018: No link for: io.druid.timeline.DataSegmentUtilsTest-testInvalidFormat0
+Wed May 16 07:18:35 UTC 2018: No link for: io.druid.timeline.DataSegmentUtilsTest-testInvalidFormat2
+Wed May 16 07:18:36 UTC 2018: No link for: io.druid.timeline.DataSegmentUtilsTest-testDataSourceWithUnderscore1
+Wed May 16 07:18:36 UTC 2018: No link for: io.druid.timeline.DataSegmentUtilsTest-testBasic
+Wed May 16 07:18:36 UTC 2018: No link for: io.druid.timeline.DataSegmentUtilsTest-testDataSourceWithUnderscore2
+Wed May 16 07:18:37 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.timeline.DataSegmentUtilsTest
+Wed May 16 07:18:37 UTC 2018: Found element on the queue
+Wed May 16 07:18:37 UTC 2018: Updating status
+Wed May 16 07:18:37 UTC 2018: Working
+Wed May 16 07:18:40 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.TimestampSpecTest
+Wed May 16 07:18:40 UTC 2018: Setting lastTestMethodIndex: 66266
+Wed May 16 07:18:40 UTC 2018: Starting linking
+Wed May 16 07:18:40 UTC 2018: No link for: io.druid.data.input.impl.TimestampSpecTest-testExtractTimestampWithMissingTimestampColumn
+Wed May 16 07:18:41 UTC 2018: No link for: io.druid.data.input.impl.TimestampSpecTest-testContextualTimestampList
+Wed May 16 07:18:41 UTC 2018: No link for: io.druid.data.input.impl.TimestampSpecTest-testExtractTimestamp
+Wed May 16 07:18:42 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.TimestampSpecTest
+Wed May 16 07:18:42 UTC 2018: Found element on the queue
+Wed May 16 07:18:42 UTC 2018: Updating status
+Wed May 16 07:18:42 UTC 2018: Working
+Wed May 16 07:18:45 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.FileIteratingFirehoseTest
+Wed May 16 07:18:45 UTC 2018: Setting lastTestMethodIndex: 66267
+Wed May 16 07:18:45 UTC 2018: Starting linking
+Wed May 16 07:18:45 UTC 2018: No link for: io.druid.data.input.impl.FileIteratingFirehoseTest-testFirehose
+Wed May 16 07:18:45 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.FileIteratingFirehoseTest
+Wed May 16 07:18:46 UTC 2018: Found element on the queue
+Wed May 16 07:18:46 UTC 2018: Updating status
+Wed May 16 07:18:46 UTC 2018: Working
+Wed May 16 07:18:48 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.DelimitedParseSpecTest
+Wed May 16 07:18:48 UTC 2018: Setting lastTestMethodIndex: 66269
+Wed May 16 07:18:48 UTC 2018: Starting linking
+Wed May 16 07:18:48 UTC 2018: No link for: io.druid.data.input.impl.DelimitedParseSpecTest-testDefaultColumnList
+Wed May 16 07:18:49 UTC 2018: No link for: io.druid.data.input.impl.DelimitedParseSpecTest-testColumnMissing
+Wed May 16 07:18:49 UTC 2018: No link for: io.druid.data.input.impl.DelimitedParseSpecTest-testSerde
+Wed May 16 07:18:50 UTC 2018: No link for: io.druid.data.input.impl.DelimitedParseSpecTest-testComma
+Wed May 16 07:18:50 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.DelimitedParseSpecTest
+Wed May 16 07:18:50 UTC 2018: Found element on the queue
+Wed May 16 07:18:50 UTC 2018: Updating status
+Wed May 16 07:18:50 UTC 2018: Working
+Wed May 16 07:18:53 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.JSONLowercaseParseSpecTest
+Wed May 16 07:18:53 UTC 2018: Setting lastTestMethodIndex: 66272
+Wed May 16 07:18:53 UTC 2018: Starting linking
+Wed May 16 07:18:53 UTC 2018: No link for: io.druid.data.input.impl.JSONLowercaseParseSpecTest-testLowercasing
+Wed May 16 07:18:53 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.JSONLowercaseParseSpecTest
+Wed May 16 07:18:54 UTC 2018: Found element on the queue
+Wed May 16 07:18:54 UTC 2018: Updating status
+Wed May 16 07:18:54 UTC 2018: Working
+Wed May 16 07:18:56 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.InputRowParserSerdeTest
+Wed May 16 07:18:56 UTC 2018: Setting lastTestMethodIndex: 66273
+Wed May 16 07:18:56 UTC 2018: Starting linking
+Wed May 16 07:18:56 UTC 2018: Code found io.druid.data.input.impl.MapInputRowParser-parse with io.druid.data.input.impl.InputRowParserSerdeTest-testMapInputRowParserNumbersSerde
+Wed May 16 07:18:57 UTC 2018: Code found io.druid.data.input.impl.MapInputRowParser-parse with io.druid.data.input.impl.InputRowParserSerdeTest-testMapInputRowParserSerde
+Wed May 16 07:18:57 UTC 2018: No link for: io.druid.data.input.impl.InputRowParserSerdeTest-testStringInputRowParserSerdeMultiCharset
+Wed May 16 07:18:58 UTC 2018: No link for: io.druid.data.input.impl.InputRowParserSerdeTest-testFlattenParse
+Wed May 16 07:18:58 UTC 2018: No link for: io.druid.data.input.impl.InputRowParserSerdeTest-testStringInputRowParserSerde
+Wed May 16 07:18:58 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.InputRowParserSerdeTest
+Wed May 16 07:18:59 UTC 2018: Found element on the queue
+Wed May 16 07:18:59 UTC 2018: Updating status
+Wed May 16 07:18:59 UTC 2018: Working
+Wed May 16 07:19:01 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.RegexParseSpecTest
+Wed May 16 07:19:01 UTC 2018: Setting lastTestMethodIndex: 66276
+Wed May 16 07:19:01 UTC 2018: Starting linking
+Wed May 16 07:19:01 UTC 2018: No link for: io.druid.data.input.impl.RegexParseSpecTest-testSerde
+Wed May 16 07:19:02 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.RegexParseSpecTest
+Wed May 16 07:19:03 UTC 2018: Found element on the queue
+Wed May 16 07:19:03 UTC 2018: Updating status
+Wed May 16 07:19:03 UTC 2018: Working
+Wed May 16 07:19:05 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.TimeAndDimsParseSpecTest
+Wed May 16 07:19:05 UTC 2018: Setting lastTestMethodIndex: 66277
+Wed May 16 07:19:05 UTC 2018: Starting linking
+Wed May 16 07:19:06 UTC 2018: No link for: io.druid.data.input.impl.TimeAndDimsParseSpecTest-testSerdeWithNonNulls
+Wed May 16 07:19:06 UTC 2018: No link for: io.druid.data.input.impl.TimeAndDimsParseSpecTest-testSerdeWithNulls
+Wed May 16 07:19:07 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.TimeAndDimsParseSpecTest
+Wed May 16 07:19:07 UTC 2018: Found element on the queue
+Wed May 16 07:19:07 UTC 2018: Updating status
+Wed May 16 07:19:07 UTC 2018: Working
+Wed May 16 07:19:10 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.CSVParseSpecTest
+Wed May 16 07:19:10 UTC 2018: Setting lastTestMethodIndex: 66279
+Wed May 16 07:19:10 UTC 2018: Starting linking
+Wed May 16 07:19:10 UTC 2018: No link for: io.druid.data.input.impl.CSVParseSpecTest-testColumnMissing
+Wed May 16 07:19:11 UTC 2018: No link for: io.druid.data.input.impl.CSVParseSpecTest-testComma
+Wed May 16 07:19:11 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.CSVParseSpecTest
+Wed May 16 07:19:12 UTC 2018: Found element on the queue
+Wed May 16 07:19:12 UTC 2018: Updating status
+Wed May 16 07:19:12 UTC 2018: Working
+Wed May 16 07:19:14 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.NoopInputRowParserTest
+Wed May 16 07:19:14 UTC 2018: Setting lastTestMethodIndex: 66280
+Wed May 16 07:19:14 UTC 2018: Starting linking
+Wed May 16 07:19:15 UTC 2018: No link for: io.druid.data.input.impl.NoopInputRowParserTest-testSerdeWithNonNullParseSpec
+Wed May 16 07:19:15 UTC 2018: No link for: io.druid.data.input.impl.NoopInputRowParserTest-testSerdeWithNullParseSpec
+Wed May 16 07:19:16 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.NoopInputRowParserTest
+Wed May 16 07:19:16 UTC 2018: Found element on the queue
+Wed May 16 07:19:16 UTC 2018: Updating status
+Wed May 16 07:19:16 UTC 2018: Working
+Wed May 16 07:19:19 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.JSONPathSpecTest
+Wed May 16 07:19:19 UTC 2018: Setting lastTestMethodIndex: 66282
+Wed May 16 07:19:19 UTC 2018: Starting linking
+Wed May 16 07:19:19 UTC 2018: No link for: io.druid.data.input.impl.JSONPathSpecTest-testSerde
+Wed May 16 07:19:20 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.JSONPathSpecTest
+Wed May 16 07:19:20 UTC 2018: Found element on the queue
+Wed May 16 07:19:20 UTC 2018: Updating status
+Wed May 16 07:19:20 UTC 2018: Working
+Wed May 16 07:19:22 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.ParseSpecTest
+Wed May 16 07:19:22 UTC 2018: Setting lastTestMethodIndex: 66283
+Wed May 16 07:19:22 UTC 2018: Starting linking
+Wed May 16 07:19:22 UTC 2018: No link for: io.druid.data.input.impl.ParseSpecTest-testDuplicateNames
+Wed May 16 07:19:23 UTC 2018: No link for: io.druid.data.input.impl.ParseSpecTest-testDimExclusionDuplicate
+Wed May 16 07:19:23 UTC 2018: No link for: io.druid.data.input.impl.ParseSpecTest-testDimAndDimExcluOverlap
+Wed May 16 07:19:24 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.ParseSpecTest
+Wed May 16 07:19:24 UTC 2018: Found element on the queue
+Wed May 16 07:19:24 UTC 2018: Updating status
+Wed May 16 07:19:24 UTC 2018: Working
+Wed May 16 07:19:27 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.JSONParseSpecTest
+Wed May 16 07:19:27 UTC 2018: Setting lastTestMethodIndex: 66284
+Wed May 16 07:19:27 UTC 2018: Starting linking
+Wed May 16 07:19:27 UTC 2018: No link for: io.druid.data.input.impl.JSONParseSpecTest-testSerde
+Wed May 16 07:19:27 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.JSONParseSpecTest
+Wed May 16 07:19:27 UTC 2018: Found element on the queue
+Wed May 16 07:19:27 UTC 2018: Updating status
+Wed May 16 07:19:27 UTC 2018: Working
+Wed May 16 07:19:30 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.JavaScriptParseSpecTest
+Wed May 16 07:19:30 UTC 2018: Setting lastTestMethodIndex: 66285
+Wed May 16 07:19:30 UTC 2018: Starting linking
+Wed May 16 07:19:30 UTC 2018: Code found io.druid.data.input.impl.JavaScriptParseSpec-makeParser with io.druid.data.input.impl.JavaScriptParseSpecTest-testMakeParserNotAllowed
+Wed May 16 07:19:30 UTC 2018: Code found io.druid.data.input.impl.JavaScriptParseSpec-makeParser with io.druid.data.input.impl.JavaScriptParseSpecTest-testMakeParser
+Wed May 16 07:19:31 UTC 2018: No link for: io.druid.data.input.impl.JavaScriptParseSpecTest-testSerde
+Wed May 16 07:19:31 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.JavaScriptParseSpecTest
+Wed May 16 07:19:31 UTC 2018: Found element on the queue
+Wed May 16 07:19:31 UTC 2018: Updating status
+Wed May 16 07:19:31 UTC 2018: Working
+Wed May 16 07:19:34 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.impl.DimensionsSpecSerdeTest
+Wed May 16 07:19:34 UTC 2018: Setting lastTestMethodIndex: 66286
+Wed May 16 07:19:34 UTC 2018: Starting linking
+Wed May 16 07:19:34 UTC 2018: No link for: io.druid.data.input.impl.DimensionsSpecSerdeTest-testDimensionsSpecSerde
+Wed May 16 07:19:34 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.impl.DimensionsSpecSerdeTest
+Wed May 16 07:19:35 UTC 2018: Found element on the queue
+Wed May 16 07:19:35 UTC 2018: Updating status
+Wed May 16 07:19:35 UTC 2018: Working
+Wed May 16 07:19:37 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.MapBasedRowTest
+Wed May 16 07:19:37 UTC 2018: Setting lastTestMethodIndex: 66287
+Wed May 16 07:19:37 UTC 2018: Starting linking
+Wed May 16 07:19:37 UTC 2018: Code found io.druid.data.input.MapBasedRow-getLongMetric with io.druid.data.input.MapBasedRowTest-testGetLongMetricFromString
+Wed May 16 07:19:38 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.MapBasedRowTest
+Wed May 16 07:19:38 UTC 2018: Found element on the queue
+Wed May 16 07:19:38 UTC 2018: Updating status
+Wed May 16 07:19:38 UTC 2018: Working
+Wed May 16 07:19:41 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.guice.JsonConfiguratorTest
+Wed May 16 07:19:41 UTC 2018: Setting lastTestMethodIndex: 66288
+Wed May 16 07:19:41 UTC 2018: Starting linking
+Wed May 16 07:19:41 UTC 2018: Code found io.druid.guice.JsonConfigurator-configurate with io.druid.guice.JsonConfiguratorTest-testsimpleConfigurate
+Wed May 16 07:19:41 UTC 2018: No link for: io.druid.guice.JsonConfiguratorTest-testMissingConfig
+Wed May 16 07:19:42 UTC 2018: No link for: io.druid.guice.JsonConfiguratorTest-testMissingConfigList
+Wed May 16 07:19:42 UTC 2018: No link for: io.druid.guice.JsonConfiguratorTest-testQuotedConfig
+Wed May 16 07:19:42 UTC 2018: No link for: io.druid.guice.JsonConfiguratorTest-testTest
+Wed May 16 07:19:43 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.guice.JsonConfiguratorTest
+Wed May 16 07:19:43 UTC 2018: Found element on the queue
+Wed May 16 07:19:43 UTC 2018: Updating status
+Wed May 16 07:19:43 UTC 2018: Working
+Wed May 16 07:19:46 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.guice.ConditionalMultibindTest
+Wed May 16 07:19:46 UTC 2018: Setting lastTestMethodIndex: 66289
+Wed May 16 07:19:46 UTC 2018: Starting linking
+Wed May 16 07:19:46 UTC 2018: No link for: io.druid.guice.ConditionalMultibindTest-testMultiConditionalBind_multiple_modules_with_annotation
+Wed May 16 07:19:46 UTC 2018: No link for: io.druid.guice.ConditionalMultibindTest-testMultiConditionalBind_cat
+Wed May 16 07:19:47 UTC 2018: No link for: io.druid.guice.ConditionalMultibindTest-testMultiConditionalBind_multiple_modules
+Wed May 16 07:19:47 UTC 2018: No link for: io.druid.guice.ConditionalMultibindTest-testMultiConditionalBind_inject
+Wed May 16 07:19:47 UTC 2018: No link for: io.druid.guice.ConditionalMultibindTest-testMultiConditionalBind_cat_dog
+Wed May 16 07:19:48 UTC 2018: No link for: io.druid.guice.ConditionalMultibindTest-testMultiConditionalBind_cat_dog_non_continuous_syntax
+Wed May 16 07:19:48 UTC 2018: No link for: io.druid.guice.ConditionalMultibindTest-testMultiConditionalBind_typeLiteral
+Wed May 16 07:19:49 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.guice.ConditionalMultibindTest
+Wed May 16 07:19:49 UTC 2018: Found element on the queue
+Wed May 16 07:19:49 UTC 2018: Updating status
+Wed May 16 07:19:49 UTC 2018: Working
+Wed May 16 07:19:52 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.guice.PolyBindTest
+Wed May 16 07:19:52 UTC 2018: Setting lastTestMethodIndex: 66291
+Wed May 16 07:19:52 UTC 2018: Starting linking
+Wed May 16 07:19:52 UTC 2018: No link for: io.druid.guice.PolyBindTest-testSanity
+Wed May 16 07:19:52 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.guice.PolyBindTest
+Wed May 16 07:19:52 UTC 2018: Found element on the queue
+Wed May 16 07:19:52 UTC 2018: Updating status
+Wed May 16 07:19:52 UTC 2018: Working
+Wed May 16 07:19:52 UTC 2018: Create project parser
+Wed May 16 07:19:58 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.benchmark.FlattenJSONBenchmarkUtilTest
+Wed May 16 07:19:58 UTC 2018: Setting lastTestMethodIndex: 66292
+Wed May 16 07:19:58 UTC 2018: Starting linking
+Wed May 16 07:19:58 UTC 2018: No link for: io.druid.benchmark.FlattenJSONBenchmarkUtilTest-testOne
+Wed May 16 07:19:59 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.benchmark.FlattenJSONBenchmarkUtilTest
+Wed May 16 07:19:59 UTC 2018: Found element on the queue
+Wed May 16 07:19:59 UTC 2018: Updating status
+Wed May 16 07:19:59 UTC 2018: Working
+Wed May 16 07:20:01 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.benchmark.BenchmarkDataGeneratorTest
+Wed May 16 07:20:01 UTC 2018: Setting lastTestMethodIndex: 66293
+Wed May 16 07:20:01 UTC 2018: Starting linking
+Wed May 16 07:20:01 UTC 2018: No link for: io.druid.benchmark.BenchmarkDataGeneratorTest-testRoundedNormal
+Wed May 16 07:20:02 UTC 2018: No link for: io.druid.benchmark.BenchmarkDataGeneratorTest-testZipf
+Wed May 16 07:20:02 UTC 2018: No link for: io.druid.benchmark.BenchmarkDataGeneratorTest-testIntervalBasedTimeGeneration
+Wed May 16 07:20:03 UTC 2018: No link for: io.druid.benchmark.BenchmarkDataGeneratorTest-testSequential
+Wed May 16 07:20:03 UTC 2018: No link for: io.druid.benchmark.BenchmarkDataGeneratorTest-testDiscreteUniform
+Wed May 16 07:20:04 UTC 2018: No link for: io.druid.benchmark.BenchmarkDataGeneratorTest-testRealUniform
+Wed May 16 07:20:04 UTC 2018: No link for: io.druid.benchmark.BenchmarkDataGeneratorTest-testEnumerated
+Wed May 16 07:20:04 UTC 2018: No link for: io.druid.benchmark.BenchmarkDataGeneratorTest-testNormal
+Wed May 16 07:20:05 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.benchmark.BenchmarkDataGeneratorTest
+Wed May 16 07:20:05 UTC 2018: Found element on the queue
+Wed May 16 07:20:05 UTC 2018: Updating status
+Wed May 16 07:20:05 UTC 2018: Working
+Wed May 16 07:20:05 UTC 2018: Create project parser
+Wed May 16 07:20:08 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.TestIntegerSet
+Wed May 16 07:20:08 UTC 2018: Setting lastTestMethodIndex: 66294
+Wed May 16 07:20:08 UTC 2018: Starting linking
+Wed May 16 07:20:08 UTC 2018: Code found io.druid.collections.IntegerSet-containsAll with io.druid.collections.TestIntegerSet-testContainsAll
+Wed May 16 07:20:09 UTC 2018: Code found io.druid.collections.IntegerSet-isEmpty with io.druid.collections.TestIntegerSet-testIsEmpty
+Wed May 16 07:20:09 UTC 2018: Code found io.druid.collections.IntegerSet-add with io.druid.collections.TestIntegerSet-testSimpleAdd
+Wed May 16 07:20:10 UTC 2018: Code found io.druid.collections.IntegerSet-remove with io.druid.collections.TestIntegerSet-testRemoveOneThing
+Wed May 16 07:20:10 UTC 2018: Code found io.druid.collections.IntegerSet-toArray with io.druid.collections.TestIntegerSet-testToArray
+Wed May 16 07:20:11 UTC 2018: Code found io.druid.collections.IntegerSet-size with io.druid.collections.TestIntegerSet-testSize
+Wed May 16 07:20:11 UTC 2018: Code found io.druid.collections.IntegerSet-retainAll with io.druid.collections.TestIntegerSet-testRetainAll
+Wed May 16 07:20:12 UTC 2018: No link for: io.druid.collections.TestIntegerSet-testToBigArray
+Wed May 16 07:20:12 UTC 2018: No link for: io.druid.collections.TestIntegerSet-testToSmallArray
+Wed May 16 07:20:12 UTC 2018: No link for: io.druid.collections.TestIntegerSet-testRemoveEverything
+Wed May 16 07:20:13 UTC 2018: No link for: io.druid.collections.TestIntegerSet-testSimpleSet
+Wed May 16 07:20:13 UTC 2018: No link for: io.druid.collections.TestIntegerSet-testIntOverflow
+Wed May 16 07:20:14 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.TestIntegerSet
+Wed May 16 07:20:14 UTC 2018: Found element on the queue
+Wed May 16 07:20:14 UTC 2018: Updating status
+Wed May 16 07:20:14 UTC 2018: Working
+Wed May 16 07:20:17 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest
+Wed May 16 07:20:17 UTC 2018: Setting lastTestMethodIndex: 66297
+Wed May 16 07:20:17 UTC 2018: Starting linking
+Wed May 16 07:20:17 UTC 2018: Code found io.druid.collections.bitmap.WrappedBitSetBitmap-size with io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testSize
+Wed May 16 07:20:17 UTC 2018: Code found io.druid.collections.bitmap.WrappedBitSetBitmap-union with io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testUnion
+Wed May 16 07:20:18 UTC 2018: Code found io.druid.collections.bitmap.WrappedBitSetBitmap-andNot with io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testAndNot
+Wed May 16 07:20:18 UTC 2018: Code found io.druid.collections.bitmap.WrappedBitSetBitmap-serialize with io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testSerialize
+Wed May 16 07:20:19 UTC 2018: Code found io.druid.collections.bitmap.WrappedBitSetBitmap-and with io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testAnd
+Wed May 16 07:20:19 UTC 2018: Code found io.druid.collections.bitmap.WrappedBitSetBitmap-or with io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testOr
+Wed May 16 07:20:19 UTC 2018: Code found io.druid.collections.bitmap.WrappedBitSetBitmap-iterator with io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testIterator
+Wed May 16 07:20:20 UTC 2018: Code found io.druid.collections.bitmap.WrappedBitSetBitmap-intersection with io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testIntersection
+Wed May 16 07:20:20 UTC 2018: No link for: io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testOffHeap
+Wed May 16 07:20:20 UTC 2018: No link for: io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest-testSimpleBitSet
+Wed May 16 07:20:21 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.bitmap.WrappedBitSetBitmapBitSetTest
+Wed May 16 07:20:21 UTC 2018: Found element on the queue
+Wed May 16 07:20:21 UTC 2018: Updating status
+Wed May 16 07:20:21 UTC 2018: Working
+Wed May 16 07:20:24 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.bitmap.RoaringBitmapFactoryTest
+Wed May 16 07:20:24 UTC 2018: Setting lastTestMethodIndex: 66299
+Wed May 16 07:20:24 UTC 2018: Starting linking
+Wed May 16 07:20:24 UTC 2018: No link for: io.druid.collections.bitmap.RoaringBitmapFactoryTest-testUnwrapMerge
+Wed May 16 07:20:24 UTC 2018: No link for: io.druid.collections.bitmap.RoaringBitmapFactoryTest-testUnwrapWithNull
+Wed May 16 07:20:25 UTC 2018: No link for: io.druid.collections.bitmap.RoaringBitmapFactoryTest-testIssue26
+Wed May 16 07:20:25 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.bitmap.RoaringBitmapFactoryTest
+Wed May 16 07:20:26 UTC 2018: Found element on the queue
+Wed May 16 07:20:26 UTC 2018: Updating status
+Wed May 16 07:20:26 UTC 2018: Working
+Wed May 16 07:20:28 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.bitmap.WrappedRoaringBitmapTest
+Wed May 16 07:20:28 UTC 2018: Setting lastTestMethodIndex: 66302
+Wed May 16 07:20:28 UTC 2018: Starting linking
+Wed May 16 07:20:28 UTC 2018: Code found io.druid.collections.bitmap.WrappedRoaringBitmap-serialize with io.druid.collections.bitmap.WrappedRoaringBitmapTest-testSerialize
+Wed May 16 07:20:28 UTC 2018: No link for: io.druid.collections.bitmap.WrappedRoaringBitmapTest-testToByteArray
+Wed May 16 07:20:29 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.bitmap.WrappedRoaringBitmapTest
+Wed May 16 07:20:29 UTC 2018: Found element on the queue
+Wed May 16 07:20:29 UTC 2018: Updating status
+Wed May 16 07:20:29 UTC 2018: Working
+Wed May 16 07:20:32 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.bitmap.ConciseBitmapFactoryTest
+Wed May 16 07:20:32 UTC 2018: Setting lastTestMethodIndex: 66304
+Wed May 16 07:20:32 UTC 2018: Starting linking
+Wed May 16 07:20:32 UTC 2018: Code found io.druid.collections.bitmap.WrappedImmutableConciseBitmap-get with io.druid.collections.bitmap.ConciseBitmapFactoryTest-testGetOutOfBounds
+Wed May 16 07:20:32 UTC 2018: No link for: io.druid.collections.bitmap.ConciseBitmapFactoryTest-testUnwrapMerge
+Wed May 16 07:20:33 UTC 2018: No link for: io.druid.collections.bitmap.ConciseBitmapFactoryTest-testUnwrapWithNull
+Wed May 16 07:20:33 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.bitmap.ConciseBitmapFactoryTest
+Wed May 16 07:20:34 UTC 2018: Found element on the queue
+Wed May 16 07:20:34 UTC 2018: Updating status
+Wed May 16 07:20:34 UTC 2018: Working
+Wed May 16 07:20:36 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.spatial.RTreeTest
+Wed May 16 07:20:36 UTC 2018: Setting lastTestMethodIndex: 66305
+Wed May 16 07:20:36 UTC 2018: Starting linking
+Wed May 16 07:20:36 UTC 2018: Code found io.druid.collections.spatial.RTree-insert with io.druid.collections.spatial.RTreeTest-testInsertNoSplit
+Wed May 16 07:20:37 UTC 2018: Code found io.druid.collections.spatial.RTree-insert with io.druid.collections.spatial.RTreeTest-testInsertDuplicatesNoSplit
+Wed May 16 07:20:37 UTC 2018: Code found io.druid.collections.spatial.RTree-insert with io.druid.collections.spatial.RTreeTest-testInsertDuplicatesNoSplitRoaring
+Wed May 16 07:20:37 UTC 2018: No link for: io.druid.collections.spatial.RTreeTest-testSplitOccurs
+Wed May 16 07:20:38 UTC 2018: No link for: io.druid.collections.spatial.RTreeTest-testSplitOccursRoaring
+Wed May 16 07:20:38 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.spatial.RTreeTest
+Wed May 16 07:20:39 UTC 2018: Found element on the queue
+Wed May 16 07:20:39 UTC 2018: Updating status
+Wed May 16 07:20:39 UTC 2018: Working
+Wed May 16 07:20:41 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.spatial.search.RadiusBoundTest
+Wed May 16 07:20:41 UTC 2018: Setting lastTestMethodIndex: 66307
+Wed May 16 07:20:41 UTC 2018: Starting linking
+Wed May 16 07:20:41 UTC 2018: No link for: io.druid.collections.spatial.search.RadiusBoundTest-testCacheKey
+Wed May 16 07:20:42 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.spatial.search.RadiusBoundTest
+Wed May 16 07:20:42 UTC 2018: Found element on the queue
+Wed May 16 07:20:42 UTC 2018: Updating status
+Wed May 16 07:20:42 UTC 2018: Working
+Wed May 16 07:20:45 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.spatial.search.RectangularBoundTest
+Wed May 16 07:20:45 UTC 2018: Setting lastTestMethodIndex: 66309
+Wed May 16 07:20:45 UTC 2018: Starting linking
+Wed May 16 07:20:45 UTC 2018: No link for: io.druid.collections.spatial.search.RectangularBoundTest-testCacheKey
+Wed May 16 07:20:45 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.spatial.search.RectangularBoundTest
+Wed May 16 07:20:46 UTC 2018: Found element on the queue
+Wed May 16 07:20:46 UTC 2018: Updating status
+Wed May 16 07:20:46 UTC 2018: Working
+Wed May 16 07:20:48 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.spatial.search.PolygonBoundTest
+Wed May 16 07:20:48 UTC 2018: Setting lastTestMethodIndex: 66310
+Wed May 16 07:20:48 UTC 2018: Starting linking
+Wed May 16 07:20:48 UTC 2018: No link for: io.druid.collections.spatial.search.PolygonBoundTest-testCacheKey
+Wed May 16 07:20:49 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.spatial.search.PolygonBoundTest
+Wed May 16 07:20:49 UTC 2018: Found element on the queue
+Wed May 16 07:20:49 UTC 2018: Updating status
+Wed May 16 07:20:49 UTC 2018: Working
+Wed May 16 07:20:52 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.spatial.ImmutableRTreeTest
+Wed May 16 07:20:52 UTC 2018: Setting lastTestMethodIndex: 66312
+Wed May 16 07:20:52 UTC 2018: Starting linking
+Wed May 16 07:20:52 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplitLimitedBoundRoaring
+Wed May 16 07:20:52 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplit4Roaring
+Wed May 16 07:20:52 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplit4
+Wed May 16 07:20:53 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchNoSplitRoaring
+Wed May 16 07:20:53 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplitLimitedBound
+Wed May 16 07:20:54 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplit3
+Wed May 16 07:20:54 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplit2
+Wed May 16 07:20:54 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplit2Roaring
+Wed May 16 07:20:55 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplit3Roaring
+Wed May 16 07:20:55 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchNoSplit
+Wed May 16 07:20:56 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplit
+Wed May 16 07:20:56 UTC 2018: Code found io.druid.collections.spatial.ImmutableRTree-search with io.druid.collections.spatial.ImmutableRTreeTest-testSearchWithSplitRoaring
+Wed May 16 07:20:57 UTC 2018: No link for: io.druid.collections.spatial.ImmutableRTreeTest-testToAndFromByteBufferRoaring
+Wed May 16 07:20:57 UTC 2018: No link for: io.druid.collections.spatial.ImmutableRTreeTest-testToAndFromByteBuffer
+Wed May 16 07:20:57 UTC 2018: No link for: io.druid.collections.spatial.ImmutableRTreeTest-testEmptyConciseSet
+Wed May 16 07:20:58 UTC 2018: No link for: io.druid.collections.spatial.ImmutableRTreeTest-testEmptyRoaringBitmap
+Wed May 16 07:20:58 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.spatial.ImmutableRTreeTest
+Wed May 16 07:20:59 UTC 2018: Found element on the queue
+Wed May 16 07:20:59 UTC 2018: Updating status
+Wed May 16 07:20:59 UTC 2018: Working
+Wed May 16 07:21:01 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.spatial.split.LinearGutmanSplitStrategyTest
+Wed May 16 07:21:01 UTC 2018: Setting lastTestMethodIndex: 66314
+Wed May 16 07:21:01 UTC 2018: Starting linking
+Wed May 16 07:21:01 UTC 2018: No link for: io.druid.collections.spatial.split.LinearGutmanSplitStrategyTest-testPickSeedsRoaring
+Wed May 16 07:21:02 UTC 2018: No link for: io.druid.collections.spatial.split.LinearGutmanSplitStrategyTest-testPickSeeds
+Wed May 16 07:21:02 UTC 2018: No link for: io.druid.collections.spatial.split.LinearGutmanSplitStrategyTest-testNumChildrenSizeRoaring
+Wed May 16 07:21:02 UTC 2018: No link for: io.druid.collections.spatial.split.LinearGutmanSplitStrategyTest-testNumChildrenSize
+Wed May 16 07:21:03 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.spatial.split.LinearGutmanSplitStrategyTest
+Wed May 16 07:21:03 UTC 2018: Found element on the queue
+Wed May 16 07:21:03 UTC 2018: Updating status
+Wed May 16 07:21:03 UTC 2018: Working
+Wed May 16 07:21:03 UTC 2018: Create project parser
+Wed May 16 07:21:07 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.concurrent.ExecsTest
+Wed May 16 07:21:07 UTC 2018: Setting lastTestMethodIndex: 66315
+Wed May 16 07:21:07 UTC 2018: Starting linking
+Wed May 16 07:21:07 UTC 2018: No link for: io.druid.concurrent.ExecsTest-testBlockingExecutorServiceZeroCapacity
+Wed May 16 07:21:08 UTC 2018: No link for: io.druid.concurrent.ExecsTest-testBlockingExecutorServiceThreeCapacity
+Wed May 16 07:21:08 UTC 2018: No link for: io.druid.concurrent.ExecsTest-testBlockingExecutorServiceOneCapacity
+Wed May 16 07:21:09 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.concurrent.ExecsTest
+Wed May 16 07:21:10 UTC 2018: Found element on the queue
+Wed May 16 07:21:10 UTC 2018: Updating status
+Wed May 16 07:21:10 UTC 2018: Working
+Wed May 16 07:21:13 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.math.expr.EvalTest
+Wed May 16 07:21:13 UTC 2018: Setting lastTestMethodIndex: 66317
+Wed May 16 07:21:13 UTC 2018: Starting linking
+Wed May 16 07:21:14 UTC 2018: No link for: io.druid.math.expr.EvalTest-testDoubleEval
+Wed May 16 07:21:14 UTC 2018: No link for: io.druid.math.expr.EvalTest-testLongEval
+Wed May 16 07:21:15 UTC 2018: No link for: io.druid.math.expr.EvalTest-testBooleanReturn
+Wed May 16 07:21:16 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.math.expr.EvalTest
+Wed May 16 07:21:17 UTC 2018: Found element on the queue
+Wed May 16 07:21:17 UTC 2018: Updating status
+Wed May 16 07:21:17 UTC 2018: Working
+Wed May 16 07:21:20 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.math.expr.ParserTest
+Wed May 16 07:21:20 UTC 2018: Setting lastTestMethodIndex: 66319
+Wed May 16 07:21:20 UTC 2018: Starting linking
+Wed May 16 07:21:20 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleAdditivityOp2
+Wed May 16 07:21:21 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleMultiplicativeOp1
+Wed May 16 07:21:22 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleAdditivityOp1
+Wed May 16 07:21:23 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleUnaryOps2
+Wed May 16 07:21:23 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleCarrot1
+Wed May 16 07:21:24 UTC 2018: No link for: io.druid.math.expr.ParserTest-testMixed
+Wed May 16 07:21:25 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleLogicalOps1
+Wed May 16 07:21:26 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleCarrot2
+Wed May 16 07:21:26 UTC 2018: No link for: io.druid.math.expr.ParserTest-testFunctions
+Wed May 16 07:21:27 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleUnaryOps1
+Wed May 16 07:21:28 UTC 2018: No link for: io.druid.math.expr.ParserTest-testIdentifiers
+Wed May 16 07:21:28 UTC 2018: No link for: io.druid.math.expr.ParserTest-testLiterals
+Wed May 16 07:21:29 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimpleMultiplicativeOp2
+Wed May 16 07:21:29 UTC 2018: No link for: io.druid.math.expr.ParserTest-testSimple
+Wed May 16 07:21:30 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.math.expr.ParserTest
+Wed May 16 07:21:31 UTC 2018: Found element on the queue
+Wed May 16 07:21:31 UTC 2018: Updating status
+Wed May 16 07:21:31 UTC 2018: Working
+Wed May 16 07:21:34 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.metadata.DefaultPasswordProviderTest
+Wed May 16 07:21:34 UTC 2018: Setting lastTestMethodIndex: 66321
+Wed May 16 07:21:34 UTC 2018: Starting linking
+Wed May 16 07:21:34 UTC 2018: Code found io.druid.metadata.DefaultPasswordProvider-fromString with io.druid.metadata.DefaultPasswordProviderTest-testFromStringConstruction
+Wed May 16 07:21:35 UTC 2018: No link for: io.druid.metadata.DefaultPasswordProviderTest-testDeserializationFromJson
+Wed May 16 07:21:35 UTC 2018: No link for: io.druid.metadata.DefaultPasswordProviderTest-testDeserializationFromJsonString
+Wed May 16 07:21:36 UTC 2018: No link for: io.druid.metadata.DefaultPasswordProviderTest-testExplicitConstruction
+Wed May 16 07:21:37 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.metadata.DefaultPasswordProviderTest
+Wed May 16 07:21:38 UTC 2018: Found element on the queue
+Wed May 16 07:21:38 UTC 2018: Updating status
+Wed May 16 07:21:38 UTC 2018: Working
+Wed May 16 07:21:41 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.metadata.MetadataStorageConnectorConfigTest
+Wed May 16 07:21:41 UTC 2018: Setting lastTestMethodIndex: 66323
+Wed May 16 07:21:41 UTC 2018: Starting linking
+Wed May 16 07:21:41 UTC 2018: Code found io.druid.metadata.MetadataStorageConnectorConfig-equals with io.druid.metadata.MetadataStorageConnectorConfigTest-testEquals
+Wed May 16 07:21:42 UTC 2018: No link for: io.druid.metadata.MetadataStorageConnectorConfigTest-testMetadaStorageConnectionConfigSimplePassword
+Wed May 16 07:21:42 UTC 2018: No link for: io.druid.metadata.MetadataStorageConnectorConfigTest-testMetadaStorageConnectionConfigWithDefaultProviderPassword
+Wed May 16 07:21:43 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.metadata.MetadataStorageConnectorConfigTest
+Wed May 16 07:21:44 UTC 2018: Found element on the queue
+Wed May 16 07:21:44 UTC 2018: Updating status
+Wed May 16 07:21:44 UTC 2018: Working
+Wed May 16 07:21:47 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.metadata.EnvironmentVariablePasswordProviderTest
+Wed May 16 07:21:47 UTC 2018: Setting lastTestMethodIndex: 66324
+Wed May 16 07:21:47 UTC 2018: Starting linking
+Wed May 16 07:21:47 UTC 2018: No link for: io.druid.metadata.EnvironmentVariablePasswordProviderTest-testSerde
+Wed May 16 07:21:48 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.metadata.EnvironmentVariablePasswordProviderTest
+Wed May 16 07:21:49 UTC 2018: Found element on the queue
+Wed May 16 07:21:49 UTC 2018: Updating status
+Wed May 16 07:21:49 UTC 2018: Working
+Wed May 16 07:21:53 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.timeline.partition.IntegerPartitionChunkTest
+Wed May 16 07:21:53 UTC 2018: Setting lastTestMethodIndex: 66326
+Wed May 16 07:21:53 UTC 2018: Starting linking
+Wed May 16 07:21:53 UTC 2018: Code found io.druid.timeline.partition.IntegerPartitionChunk-isStart with io.druid.timeline.partition.IntegerPartitionChunkTest-testIsStart
+Wed May 16 07:21:54 UTC 2018: Code found io.druid.timeline.partition.IntegerPartitionChunk-isEnd with io.druid.timeline.partition.IntegerPartitionChunkTest-testIsEnd
+Wed May 16 07:21:54 UTC 2018: Code found io.druid.timeline.partition.IntegerPartitionChunk-compareTo with io.druid.timeline.partition.IntegerPartitionChunkTest-testCompareTo
+Wed May 16 07:21:56 UTC 2018: Code found io.druid.timeline.partition.IntegerPartitionChunk-abuts with io.druid.timeline.partition.IntegerPartitionChunkTest-testAbuts
+Wed May 16 07:21:57 UTC 2018: No link for: io.druid.timeline.partition.IntegerPartitionChunkTest-testEquals
+Wed May 16 07:21:58 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.timeline.partition.IntegerPartitionChunkTest
+Wed May 16 07:21:59 UTC 2018: Found element on the queue
+Wed May 16 07:21:59 UTC 2018: Updating status
+Wed May 16 07:21:59 UTC 2018: Working
+Wed May 16 07:22:02 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.timeline.partition.StringPartitionChunkTest
+Wed May 16 07:22:02 UTC 2018: Setting lastTestMethodIndex: 66328
+Wed May 16 07:22:02 UTC 2018: Starting linking
+Wed May 16 07:22:02 UTC 2018: Code found io.druid.timeline.partition.StringPartitionChunk-isStart with io.druid.timeline.partition.StringPartitionChunkTest-testIsStart
+Wed May 16 07:22:02 UTC 2018: Code found io.druid.timeline.partition.StringPartitionChunk-isEnd with io.druid.timeline.partition.StringPartitionChunkTest-testIsEnd
+Wed May 16 07:22:03 UTC 2018: Code found io.druid.timeline.partition.StringPartitionChunk-abuts with io.druid.timeline.partition.StringPartitionChunkTest-testAbuts
+Wed May 16 07:22:03 UTC 2018: Code found io.druid.timeline.partition.StringPartitionChunk-compareTo with io.druid.timeline.partition.StringPartitionChunkTest-testCompareTo
+Wed May 16 07:22:05 UTC 2018: No link for: io.druid.timeline.partition.StringPartitionChunkTest-testEquals
+Wed May 16 07:22:05 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.timeline.partition.StringPartitionChunkTest
+Wed May 16 07:22:06 UTC 2018: Found element on the queue
+Wed May 16 07:22:06 UTC 2018: Updating status
+Wed May 16 07:22:06 UTC 2018: Working
+Wed May 16 07:22:09 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.timeline.VersionedIntervalTimelineTest
+Wed May 16 07:22:09 UTC 2018: Setting lastTestMethodIndex: 66331
+Wed May 16 07:22:09 UTC 2018: Starting linking
+Wed May 16 07:22:09 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testRemovePartitionMakesIncomplete
+Wed May 16 07:22:10 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testOverlapAndRemove
+Wed May 16 07:22:10 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testRemoveSomethingDontHave
+Wed May 16 07:22:11 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-findEntry with io.druid.timeline.VersionedIntervalTimelineTest-testFindEntry
+Wed May 16 07:22:11 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-findEntry with io.druid.timeline.VersionedIntervalTimelineTest-testFindEntryWithOverlap
+Wed May 16 07:22:12 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-isOvershadowed with io.druid.timeline.VersionedIntervalTimelineTest-testIsOvershadowedWithNonOverlappingSegmentsInTimeline
+Wed May 16 07:22:12 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testRemoveNothingBacking
+Wed May 16 07:22:13 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testOverlapAndRemove2
+Wed May 16 07:22:13 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testRemove
+Wed May 16 07:22:13 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testInsertAndRemoveSameThingsion
+Wed May 16 07:22:14 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testOverlapAndRemove5
+Wed May 16 07:22:15 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testOverlapAndRemove3
+Wed May 16 07:22:15 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-remove with io.druid.timeline.VersionedIntervalTimelineTest-testOverlapAndRemove4
+Wed May 16 07:22:16 UTC 2018: Code found io.druid.timeline.VersionedIntervalTimeline-isOvershadowed with io.druid.timeline.VersionedIntervalTimelineTest-testIsOvershadowedWithOverlappingSegmentsInTimeline
+Wed May 16 07:22:16 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapFirstBefore
+Wed May 16 07:22:17 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapV1LargeIsAfter
+Wed May 16 07:22:18 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapLargeUnderlyingWithSmallDayAlignedOverlays
+Wed May 16 07:22:18 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapV1SecondLargeIsAfter
+Wed May 16 07:22:18 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionNeverOvershadowedByLower1
+Wed May 16 07:22:19 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testPartialPartitionNotReturned
+Wed May 16 07:22:20 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapV1FirstBetween
+Wed May 16 07:22:21 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionNeverOvershadowedByLower2
+Wed May 16 07:22:22 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionNeverOvershadowedByLower3
+Wed May 16 07:22:22 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionNeverOvershadowedByLower4
+Wed May 16 07:22:24 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapOvershadowedSomeComplexOverlapsCantThinkOfBetterName
+Wed May 16 07:22:24 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapDescending
+Wed May 16 07:22:25 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapFirstBetween
+Wed May 16 07:22:26 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapCausesNullEntries
+Wed May 16 07:22:27 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionNeverOvershadowedByLower5
+Wed May 16 07:22:27 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapFirstPartialAlign
+Wed May 16 07:22:28 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapFirstContainsSecond
+Wed May 16 07:22:29 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testApril
+Wed May 16 07:22:30 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSecondLarger
+Wed May 16 07:22:31 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapAscending
+Wed May 16 07:22:32 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testNotFoundReturnsEmpty
+Wed May 16 07:22:33 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapFirstLarger
+Wed May 16 07:22:33 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSecondContained
+Wed May 16 07:22:34 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingSameIntervalHighVersionWins
+Wed May 16 07:22:36 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapV1Large
+Wed May 16 07:22:36 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapLayeredDescending
+Wed May 16 07:22:37 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSecondBefore
+Wed May 16 07:22:38 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testRemoveIncompleteKeepsComplete
+Wed May 16 07:22:38 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testIncompletePartitionDoesNotOvershadow
+Wed May 16 07:22:39 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapOvershadowedAligned
+Wed May 16 07:22:40 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapContainedmixed
+Wed May 16 07:22:41 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testMay
+Wed May 16 07:22:41 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapFirstContained
+Wed May 16 07:22:42 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapOvershadowedThirdContains
+Wed May 16 07:22:43 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapV2Large
+Wed May 16 07:22:44 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSecondPartialAlign
+Wed May 16 07:22:44 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testPartitioning
+Wed May 16 07:22:45 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSameVersionThrowException
+Wed May 16 07:22:45 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapLayeredAscending
+Wed May 16 07:22:46 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testInsertInWrongOrder
+Wed May 16 07:22:47 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSecondAfter
+Wed May 16 07:22:47 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapContainedDescending
+Wed May 16 07:22:48 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSecondBetween
+Wed May 16 07:22:48 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapContainedAscending
+Wed May 16 07:22:49 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionWins1
+Wed May 16 07:22:49 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingSameIntervalSameVersionAllKept
+Wed May 16 07:22:50 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSecondContainsFirst
+Wed May 16 07:22:51 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionWins2
+Wed May 16 07:22:51 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionWins3
+Wed May 16 07:22:52 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOvershadowingHigherVersionWins4
+Wed May 16 07:22:53 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapMixed
+Wed May 16 07:22:53 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testApril2
+Wed May 16 07:22:55 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testApril3
+Wed May 16 07:22:56 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testApril4
+Wed May 16 07:22:56 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testMay3
+Wed May 16 07:22:57 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testMay2
+Wed May 16 07:22:57 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapSameVersionIsOkay
+Wed May 16 07:22:58 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapV1SecondBetween
+Wed May 16 07:22:58 UTC 2018: No link for: io.druid.timeline.VersionedIntervalTimelineTest-testOverlapFirstAfter
+Wed May 16 07:22:58 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.timeline.VersionedIntervalTimelineTest
+Wed May 16 07:22:59 UTC 2018: Found element on the queue
+Wed May 16 07:22:59 UTC 2018: Updating status
+Wed May 16 07:22:59 UTC 2018: Working
+Wed May 16 07:23:02 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.StupidPoolTest
+Wed May 16 07:23:02 UTC 2018: Setting lastTestMethodIndex: 66339
+Wed May 16 07:23:02 UTC 2018: Starting linking
+Wed May 16 07:23:02 UTC 2018: Code found io.druid.collections.StupidPool$ObjectResourceHolder-get with io.druid.collections.StupidPoolTest-testExceptionInResourceHolderGet
+Wed May 16 07:23:03 UTC 2018: No link for: io.druid.collections.StupidPoolTest-testTake
+Wed May 16 07:23:04 UTC 2018: No link for: io.druid.collections.StupidPoolTest-testResourceHandlerClearedByJVM
+Wed May 16 07:23:04 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.StupidPoolTest
+Wed May 16 07:23:06 UTC 2018: Found element on the queue
+Wed May 16 07:23:06 UTC 2018: Updating status
+Wed May 16 07:23:06 UTC 2018: Working
+Wed May 16 07:23:09 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.BlockingPoolTest
+Wed May 16 07:23:09 UTC 2018: Setting lastTestMethodIndex: 66341
+Wed May 16 07:23:09 UTC 2018: Starting linking
+Wed May 16 07:23:09 UTC 2018: Code found io.druid.collections.BlockingPool-takeBatch with io.druid.collections.BlockingPoolTest-testTakeBatch
+Wed May 16 07:23:11 UTC 2018: Code found io.druid.collections.BlockingPool-takeBatch with io.druid.collections.BlockingPoolTest-testWaitAndTakeBatch
+Wed May 16 07:23:11 UTC 2018: Code found io.druid.collections.BlockingPool-takeBatch with io.druid.collections.BlockingPoolTest-testTakeBatchTooManyObjects
+Wed May 16 07:23:12 UTC 2018: Code found io.druid.collections.BlockingPool-take with io.druid.collections.BlockingPoolTest-testTakeTimeout
+Wed May 16 07:23:13 UTC 2018: Code found io.druid.collections.BlockingPool-take with io.druid.collections.BlockingPoolTest-testTakeFromEmptyPool
+Wed May 16 07:23:14 UTC 2018: Code found io.druid.collections.BlockingPool-takeBatch with io.druid.collections.BlockingPoolTest-testConcurrentTakeBatchClose
+Wed May 16 07:23:15 UTC 2018: Code found io.druid.collections.BlockingPool-take with io.druid.collections.BlockingPoolTest-testTake
+Wed May 16 07:23:15 UTC 2018: No link for: io.druid.collections.BlockingPoolTest-testConcurrentBatchClose
+Wed May 16 07:23:16 UTC 2018: No link for: io.druid.collections.BlockingPoolTest-testDrainFromEmptyPool
+Wed May 16 07:23:16 UTC 2018: No link for: io.druid.collections.BlockingPoolTest-testConcurrentTake
+Wed May 16 07:23:17 UTC 2018: No link for: io.druid.collections.BlockingPoolTest-testConcurrentTakeBatch
+Wed May 16 07:23:18 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.BlockingPoolTest
+Wed May 16 07:23:18 UTC 2018: Found element on the queue
+Wed May 16 07:23:18 UTC 2018: Updating status
+Wed May 16 07:23:18 UTC 2018: Working
+Wed May 16 07:23:21 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.ReferenceCountingResourceHolderTest
+Wed May 16 07:23:21 UTC 2018: Setting lastTestMethodIndex: 66344
+Wed May 16 07:23:21 UTC 2018: Starting linking
+Wed May 16 07:23:21 UTC 2018: No link for: io.druid.collections.ReferenceCountingResourceHolderTest-testIdiomaticUsage
+Wed May 16 07:23:22 UTC 2018: No link for: io.druid.collections.ReferenceCountingResourceHolderTest-testResourceHandlerClearedByJVM
+Wed May 16 07:23:22 UTC 2018: No link for: io.druid.collections.ReferenceCountingResourceHolderTest-testResourceHandlerWithReleaserClearedByJVM
+Wed May 16 07:23:23 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.ReferenceCountingResourceHolderTest
+Wed May 16 07:23:24 UTC 2018: Found element on the queue
+Wed May 16 07:23:24 UTC 2018: Updating status
+Wed May 16 07:23:24 UTC 2018: Working
+Wed May 16 07:23:28 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.OrderedMergeSequenceTest
+Wed May 16 07:23:28 UTC 2018: Setting lastTestMethodIndex: 66345
+Wed May 16 07:23:28 UTC 2018: Starting linking
+Wed May 16 07:23:28 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testScrewsUpOnOutOfOrderBeginningOfList
+Wed May 16 07:23:28 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testLazinessYielder
+Wed May 16 07:23:29 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testLazinessAccumulation
+Wed May 16 07:23:30 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testMergeEmptySequence
+Wed May 16 07:23:30 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testScrewsUpOnOutOfOrderInList
+Wed May 16 07:23:31 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testSanity
+Wed May 16 07:23:32 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testMergeEmptySequenceMiddle
+Wed May 16 07:23:32 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testHierarchicalMerge
+Wed May 16 07:23:33 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testMergeMerge
+Wed May 16 07:23:34 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testMergeEmptySequenceAtEnd
+Wed May 16 07:23:35 UTC 2018: No link for: io.druid.collections.OrderedMergeSequenceTest-testOne
+Wed May 16 07:23:35 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.OrderedMergeSequenceTest
+Wed May 16 07:23:36 UTC 2018: Found element on the queue
+Wed May 16 07:23:36 UTC 2018: Updating status
+Wed May 16 07:23:36 UTC 2018: Working
+Wed May 16 07:23:39 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.CombiningIteratorTest
+Wed May 16 07:23:39 UTC 2018: Setting lastTestMethodIndex: 66347
+Wed May 16 07:23:39 UTC 2018: Starting linking
+Wed May 16 07:23:39 UTC 2018: Code found io.druid.collections.CombiningIterator-next with io.druid.collections.CombiningIteratorTest-testNext
+Wed May 16 07:23:39 UTC 2018: Code found io.druid.collections.CombiningIterator-next with io.druid.collections.CombiningIteratorTest-testExceptionInNext
+Wed May 16 07:23:40 UTC 2018: Code found io.druid.collections.CombiningIterator-remove with io.druid.collections.CombiningIteratorTest-testRemove
+Wed May 16 07:23:41 UTC 2018: Code found io.druid.collections.CombiningIterator-hasNext with io.druid.collections.CombiningIteratorTest-testHasNext
+Wed May 16 07:23:41 UTC 2018: Code found io.druid.collections.CombiningIterator-next with io.druid.collections.CombiningIteratorTest-testFalseBranchNext
+Wed May 16 07:23:42 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.CombiningIteratorTest
+Wed May 16 07:23:42 UTC 2018: Found element on the queue
+Wed May 16 07:23:42 UTC 2018: Updating status
+Wed May 16 07:23:42 UTC 2018: Working
+Wed May 16 07:23:45 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.OrderedMergeIteratorTest
+Wed May 16 07:23:45 UTC 2018: Setting lastTestMethodIndex: 66349
+Wed May 16 07:23:45 UTC 2018: Starting linking
+Wed May 16 07:23:45 UTC 2018: Code found io.druid.collections.OrderedMergeIterator-next with io.druid.collections.OrderedMergeIteratorTest-testNoElementInNext
+Wed May 16 07:23:45 UTC 2018: Code found io.druid.collections.OrderedMergeIterator-remove with io.druid.collections.OrderedMergeIteratorTest-testRemove
+Wed May 16 07:23:46 UTC 2018: No link for: io.druid.collections.OrderedMergeIteratorTest-testLaziness
+Wed May 16 07:23:46 UTC 2018: No link for: io.druid.collections.OrderedMergeIteratorTest-testSanity
+Wed May 16 07:23:47 UTC 2018: No link for: io.druid.collections.OrderedMergeIteratorTest-testScrewsUpOnOutOfOrderBeginningOfList
+Wed May 16 07:23:48 UTC 2018: No link for: io.druid.collections.OrderedMergeIteratorTest-testScrewsUpOnOutOfOrderInList
+Wed May 16 07:23:48 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.OrderedMergeIteratorTest
+Wed May 16 07:23:50 UTC 2018: Found element on the queue
+Wed May 16 07:23:50 UTC 2018: Updating status
+Wed May 16 07:23:50 UTC 2018: Working
+Wed May 16 07:23:54 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.CountingMapTest
+Wed May 16 07:23:54 UTC 2018: Setting lastTestMethodIndex: 66350
+Wed May 16 07:23:54 UTC 2018: Starting linking
+Wed May 16 07:23:54 UTC 2018: Code found io.druid.collections.CountingMap-add with io.druid.collections.CountingMapTest-testAdd
+Wed May 16 07:23:55 UTC 2018: Code found io.druid.collections.CountingMap-snapshot with io.druid.collections.CountingMapTest-testSnapshot
+Wed May 16 07:23:55 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.CountingMapTest
+Wed May 16 07:23:56 UTC 2018: Found element on the queue
+Wed May 16 07:23:56 UTC 2018: Updating status
+Wed May 16 07:23:56 UTC 2018: Working
+Wed May 16 07:23:59 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.IntListTest
+Wed May 16 07:23:59 UTC 2018: Setting lastTestMethodIndex: 66351
+Wed May 16 07:23:59 UTC 2018: Starting linking
+Wed May 16 07:23:59 UTC 2018: Code found io.druid.collections.IntList-get with io.druid.collections.IntListTest-testExceptionInGet
+Wed May 16 07:23:59 UTC 2018: Code found io.druid.collections.IntList-getBaseList with io.druid.collections.IntListTest-testNullCaseGetBaseList
+Wed May 16 07:24:00 UTC 2018: Code found io.druid.collections.IntList-set with io.druid.collections.IntListTest-testSet
+Wed May 16 07:24:00 UTC 2018: Code found io.druid.collections.IntList-add with io.druid.collections.IntListTest-testAdd
+Wed May 16 07:24:01 UTC 2018: Code found io.druid.collections.IntList-toArray with io.druid.collections.IntListTest-testToArray
+Wed May 16 07:24:01 UTC 2018: Code found io.druid.collections.IntList-getBaseList with io.druid.collections.IntListTest-testGetBaseList
+Wed May 16 07:24:02 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.IntListTest
+Wed May 16 07:24:02 UTC 2018: Found element on the queue
+Wed May 16 07:24:02 UTC 2018: Updating status
+Wed May 16 07:24:02 UTC 2018: Working
+Wed May 16 07:24:05 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.SerializablePairTest
+Wed May 16 07:24:05 UTC 2018: Setting lastTestMethodIndex: 66352
+Wed May 16 07:24:05 UTC 2018: Starting linking
+Wed May 16 07:24:05 UTC 2018: No link for: io.druid.collections.SerializablePairTest-testBytesSerde
+Wed May 16 07:24:05 UTC 2018: No link for: io.druid.collections.SerializablePairTest-testStringSerde
+Wed May 16 07:24:06 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.SerializablePairTest
+Wed May 16 07:24:06 UTC 2018: Found element on the queue
+Wed May 16 07:24:06 UTC 2018: Updating status
+Wed May 16 07:24:06 UTC 2018: Working
+Wed May 16 07:24:10 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.collections.StupidResourceHolderTest
+Wed May 16 07:24:10 UTC 2018: Setting lastTestMethodIndex: 66353
+Wed May 16 07:24:10 UTC 2018: Starting linking
+Wed May 16 07:24:10 UTC 2018: Code found io.druid.collections.StupidResourceHolder-create with io.druid.collections.StupidResourceHolderTest-testCreateAndGet
+Wed May 16 07:24:11 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.collections.StupidResourceHolderTest
+Wed May 16 07:24:12 UTC 2018: Found element on the queue
+Wed May 16 07:24:12 UTC 2018: Updating status
+Wed May 16 07:24:12 UTC 2018: Working
+Wed May 16 07:24:15 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.PropUtilsTest
+Wed May 16 07:24:16 UTC 2018: Setting lastTestMethodIndex: 66354
+Wed May 16 07:24:16 UTC 2018: Starting linking
+Wed May 16 07:24:16 UTC 2018: Code found io.druid.common.utils.PropUtils-getPropertyAsInt with io.druid.common.utils.PropUtilsTest-testDefaultValueGetPropertyAsInt
+Wed May 16 07:24:17 UTC 2018: Code found io.druid.common.utils.PropUtils-getPropertyAsInt with io.druid.common.utils.PropUtilsTest-testNotSpecifiedGetPropertyAsInt
+Wed May 16 07:24:18 UTC 2018: Code found io.druid.common.utils.PropUtils-getProperty with io.druid.common.utils.PropUtilsTest-testGetProperty
+Wed May 16 07:24:18 UTC 2018: Code found io.druid.common.utils.PropUtils-getPropertyAsInt with io.druid.common.utils.PropUtilsTest-testFormatExceptionGetPropertyAsInt
+Wed May 16 07:24:19 UTC 2018: Code found io.druid.common.utils.PropUtils-getProperty with io.druid.common.utils.PropUtilsTest-testNotSpecifiedGetProperty
+Wed May 16 07:24:20 UTC 2018: Code found io.druid.common.utils.PropUtils-getPropertyAsInt with io.druid.common.utils.PropUtilsTest-testParseGetPropertyAsInt
+Wed May 16 07:24:21 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.PropUtilsTest
+Wed May 16 07:24:22 UTC 2018: Found element on the queue
+Wed May 16 07:24:22 UTC 2018: Updating status
+Wed May 16 07:24:22 UTC 2018: Working
+Wed May 16 07:24:25 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.JodaUtilsTest
+Wed May 16 07:24:25 UTC 2018: Setting lastTestMethodIndex: 66355
+Wed May 16 07:24:25 UTC 2018: Starting linking
+Wed May 16 07:24:25 UTC 2018: Code found io.druid.common.utils.JodaUtils-umbrellaInterval with io.druid.common.utils.JodaUtilsTest-testUmbrellaIntervalsNull
+Wed May 16 07:24:25 UTC 2018: Code found io.druid.common.utils.JodaUtils-condenseIntervals with io.druid.common.utils.JodaUtilsTest-testCondenseIntervalsSimple
+Wed May 16 07:24:26 UTC 2018: Code found io.druid.common.utils.JodaUtils-condenseIntervals with io.druid.common.utils.JodaUtilsTest-testCondenseIntervalsMixedUp
+Wed May 16 07:24:27 UTC 2018: Code found io.druid.common.utils.JodaUtils-umbrellaInterval with io.druid.common.utils.JodaUtilsTest-testUmbrellaIntervalsSimple
+Wed May 16 07:24:27 UTC 2018: No link for: io.druid.common.utils.JodaUtilsTest-testMinMaxPeriod
+Wed May 16 07:24:28 UTC 2018: No link for: io.druid.common.utils.JodaUtilsTest-testMinMaxDuration
+Wed May 16 07:24:28 UTC 2018: No link for: io.druid.common.utils.JodaUtilsTest-testMinMaxInterval
+Wed May 16 07:24:29 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.JodaUtilsTest
+Wed May 16 07:24:30 UTC 2018: Found element on the queue
+Wed May 16 07:24:30 UTC 2018: Updating status
+Wed May 16 07:24:30 UTC 2018: Working
+Wed May 16 07:24:34 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.VMUtilsTest
+Wed May 16 07:24:34 UTC 2018: Setting lastTestMethodIndex: 66356
+Wed May 16 07:24:34 UTC 2018: Starting linking
+Wed May 16 07:24:34 UTC 2018: Code found io.druid.common.utils.VMUtils-getMaxDirectMemory with io.druid.common.utils.VMUtilsTest-testgetMaxDirectMemory
+Wed May 16 07:24:34 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.VMUtilsTest
+Wed May 16 07:24:35 UTC 2018: Found element on the queue
+Wed May 16 07:24:35 UTC 2018: Updating status
+Wed May 16 07:24:35 UTC 2018: Working
+Wed May 16 07:24:39 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.SerializerUtilsTest
+Wed May 16 07:24:39 UTC 2018: Setting lastTestMethodIndex: 66357
+Wed May 16 07:24:39 UTC 2018: Starting linking
+Wed May 16 07:24:39 UTC 2018: Code found io.druid.common.utils.SerializerUtils-writeStrings with io.druid.common.utils.SerializerUtilsTest-testWriteStrings
+Wed May 16 07:24:40 UTC 2018: Code found io.druid.common.utils.SerializerUtils-writeFloats with io.druid.common.utils.SerializerUtilsTest-testWriteFloats
+Wed May 16 07:24:40 UTC 2018: Code found io.druid.common.utils.SerializerUtils-writeLongs with io.druid.common.utils.SerializerUtilsTest-testWriteLongs
+Wed May 16 07:24:41 UTC 2018: Code found io.druid.common.utils.SerializerUtils-readInts with io.druid.common.utils.SerializerUtilsTest-testReadInts
+Wed May 16 07:24:41 UTC 2018: Code found io.druid.common.utils.SerializerUtils-writeFloat with io.druid.common.utils.SerializerUtilsTest-testChannelWritefloat
+Wed May 16 07:24:42 UTC 2018: Code found io.druid.common.utils.SerializerUtils-readStrings with io.druid.common.utils.SerializerUtilsTest-testReadStrings
+Wed May 16 07:24:42 UTC 2018: Code found io.druid.common.utils.SerializerUtils-readLongs with io.druid.common.utils.SerializerUtilsTest-testReadLongs
+Wed May 16 07:24:43 UTC 2018: Code found io.druid.common.utils.SerializerUtils-writeLong with io.druid.common.utils.SerializerUtilsTest-testChannelWritelong
+Wed May 16 07:24:43 UTC 2018: Code found io.druid.common.utils.SerializerUtils-writeInts with io.druid.common.utils.SerializerUtilsTest-testWriteInts
+Wed May 16 07:24:44 UTC 2018: Code found io.druid.common.utils.SerializerUtils-readStrings with io.druid.common.utils.SerializerUtilsTest-testByteBufferReadStrings
+Wed May 16 07:24:45 UTC 2018: Code found io.druid.common.utils.SerializerUtils-readFloats with io.druid.common.utils.SerializerUtilsTest-testReadFloats
+Wed May 16 07:24:45 UTC 2018: Code found io.druid.common.utils.SerializerUtils-writeString with io.druid.common.utils.SerializerUtilsTest-testChannelWriteString
+Wed May 16 07:24:46 UTC 2018: No link for: io.druid.common.utils.SerializerUtilsTest-testWriteIntList
+Wed May 16 07:24:48 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.SerializerUtilsTest
+Wed May 16 07:24:48 UTC 2018: Found element on the queue
+Wed May 16 07:24:48 UTC 2018: Updating status
+Wed May 16 07:24:48 UTC 2018: Working
+Wed May 16 07:24:51 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.UUIDUtilsTest
+Wed May 16 07:24:51 UTC 2018: Setting lastTestMethodIndex: 66358
+Wed May 16 07:24:51 UTC 2018: Starting linking
+Wed May 16 07:24:51 UTC 2018: No link for: io.druid.common.utils.UUIDUtilsTest-testUuid
+Wed May 16 07:24:51 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.UUIDUtilsTest
+Wed May 16 07:24:52 UTC 2018: Found element on the queue
+Wed May 16 07:24:52 UTC 2018: Updating status
+Wed May 16 07:24:52 UTC 2018: Working
+Wed May 16 07:24:54 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.SocketUtilTest
+Wed May 16 07:24:54 UTC 2018: Setting lastTestMethodIndex: 66359
+Wed May 16 07:24:54 UTC 2018: Starting linking
+Wed May 16 07:24:54 UTC 2018: No link for: io.druid.common.utils.SocketUtilTest-testIllegalArgument
+Wed May 16 07:24:55 UTC 2018: No link for: io.druid.common.utils.SocketUtilTest-testISEexception
+Wed May 16 07:24:55 UTC 2018: No link for: io.druid.common.utils.SocketUtilTest-testSocketUtil
+Wed May 16 07:24:55 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.SocketUtilTest
+Wed May 16 07:24:56 UTC 2018: Found element on the queue
+Wed May 16 07:24:56 UTC 2018: Updating status
+Wed May 16 07:24:56 UTC 2018: Working
+Wed May 16 07:24:59 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.StringUtilsTest
+Wed May 16 07:24:59 UTC 2018: Setting lastTestMethodIndex: 66360
+Wed May 16 07:24:59 UTC 2018: Starting linking
+Wed May 16 07:24:59 UTC 2018: No link for: io.druid.common.utils.StringUtilsTest-binaryLengthAsUTF8InvalidTest
+Wed May 16 07:25:00 UTC 2018: No link for: io.druid.common.utils.StringUtilsTest-binaryLengthAsUTF8Test
+Wed May 16 07:25:00 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.StringUtilsTest
+Wed May 16 07:25:01 UTC 2018: Found element on the queue
+Wed May 16 07:25:01 UTC 2018: Updating status
+Wed May 16 07:25:02 UTC 2018: Working
+Wed May 16 07:25:06 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.LogTest
+Wed May 16 07:25:06 UTC 2018: Setting lastTestMethodIndex: 66361
+Wed May 16 07:25:06 UTC 2018: Starting linking
+Wed May 16 07:25:06 UTC 2018: No link for: io.druid.common.utils.LogTest-testGoodLog
+Wed May 16 07:25:06 UTC 2018: No link for: io.druid.common.utils.LogTest-testBadLog
+Wed May 16 07:25:07 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.LogTest
+Wed May 16 07:25:08 UTC 2018: Found element on the queue
+Wed May 16 07:25:08 UTC 2018: Updating status
+Wed May 16 07:25:08 UTC 2018: Working
+Wed May 16 07:25:12 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.utils.ServletResourceUtilsTest
+Wed May 16 07:25:12 UTC 2018: Setting lastTestMethodIndex: 66362
+Wed May 16 07:25:12 UTC 2018: Starting linking
+Wed May 16 07:25:12 UTC 2018: Code found io.druid.common.utils.ServletResourceUtils-sanitizeException with io.druid.common.utils.ServletResourceUtilsTest-testSanitizeException
+Wed May 16 07:25:13 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.utils.ServletResourceUtilsTest
+Wed May 16 07:25:13 UTC 2018: Found element on the queue
+Wed May 16 07:25:13 UTC 2018: Updating status
+Wed May 16 07:25:13 UTC 2018: Working
+Wed May 16 07:25:17 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.guava.CombiningSequenceTest
+Wed May 16 07:25:17 UTC 2018: Setting lastTestMethodIndex: 66363
+Wed May 16 07:25:17 UTC 2018: Starting linking
+Wed May 16 07:25:17 UTC 2018: No link for: io.druid.common.guava.CombiningSequenceTest-testMergeSomeThingsMergedAtEnd
+Wed May 16 07:25:17 UTC 2018: No link for: io.druid.common.guava.CombiningSequenceTest-testNoMergeTwo
+Wed May 16 07:25:18 UTC 2018: No link for: io.druid.common.guava.CombiningSequenceTest-testMerge
+Wed May 16 07:25:18 UTC 2018: No link for: io.druid.common.guava.CombiningSequenceTest-testMergeMany
+Wed May 16 07:25:19 UTC 2018: No link for: io.druid.common.guava.CombiningSequenceTest-testMergeTwo
+Wed May 16 07:25:19 UTC 2018: No link for: io.druid.common.guava.CombiningSequenceTest-testNoMergeOne
+Wed May 16 07:25:20 UTC 2018: No link for: io.druid.common.guava.CombiningSequenceTest-testNothing
+Wed May 16 07:25:21 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.guava.CombiningSequenceTest
+Wed May 16 07:25:21 UTC 2018: Found element on the queue
+Wed May 16 07:25:21 UTC 2018: Updating status
+Wed May 16 07:25:23 UTC 2018: Working
+Wed May 16 07:25:27 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.guava.ComplexSequenceTest
+Wed May 16 07:25:37 UTC 2018: Setting lastTestMethodIndex: 66365
+Wed May 16 07:25:38 UTC 2018: Starting linking
+Wed May 16 07:25:38 UTC 2018: No link for: io.druid.common.guava.ComplexSequenceTest-testComplexSequence
+Wed May 16 07:25:50 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.guava.ComplexSequenceTest
+Wed May 16 07:25:56 UTC 2018: Found element on the queue
+Wed May 16 07:25:56 UTC 2018: Updating status
+Wed May 16 07:27:04 UTC 2018: Working
+Wed May 16 07:27:06 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.common.guava.GuavaUtilsTest
+Wed May 16 07:27:06 UTC 2018: Setting lastTestMethodIndex: 66366
+Wed May 16 07:27:06 UTC 2018: Starting linking
+Wed May 16 07:27:06 UTC 2018: No link for: io.druid.common.guava.GuavaUtilsTest-testParsLong
+Wed May 16 07:27:07 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.common.guava.GuavaUtilsTest
+Wed May 16 07:27:07 UTC 2018: Found element on the queue
+Wed May 16 07:27:07 UTC 2018: Updating status
+Wed May 16 07:27:07 UTC 2018: Working
+Wed May 16 07:27:10 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.guice.LifecycleScopeTest
+Wed May 16 07:27:11 UTC 2018: Setting lastTestMethodIndex: 66368
+Wed May 16 07:27:11 UTC 2018: Starting linking
+Wed May 16 07:27:11 UTC 2018: No link for: io.druid.guice.LifecycleScopeTest-testAnnotation
+Wed May 16 07:27:14 UTC 2018: No link for: io.druid.guice.LifecycleScopeTest-testAnnotatedAndExplicit
+Wed May 16 07:27:15 UTC 2018: No link for: io.druid.guice.LifecycleScopeTest-testExplicit
+Wed May 16 07:27:16 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.guice.LifecycleScopeTest
+Wed May 16 07:27:17 UTC 2018: Found element on the queue
+Wed May 16 07:27:17 UTC 2018: Updating status
+Wed May 16 07:27:17 UTC 2018: Working
+Wed May 16 07:27:17 UTC 2018: Create project parser
+Wed May 16 07:27:36 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.extendedset.intset.ImmutableConciseSetTest
+Wed May 16 07:27:43 UTC 2018: Setting lastTestMethodIndex: 66370
+Wed May 16 07:27:43 UTC 2018: Starting linking
+Wed May 16 07:27:43 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactZeroFillPureZeroFill
+Wed May 16 07:27:45 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactDoubleZeroBitLitPureOneFill
+Wed May 16 07:27:59 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactSingleZeroBitLitPureOneFill
+Wed May 16 07:28:00 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactDoubleOneBitLitZeroLit
+Wed May 16 07:28:02 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactDoubleZeroBitLitOneLit
+Wed May 16 07:28:04 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactZeroLitDirtyZeroFill
+Wed May 16 07:28:05 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactDoubleOneBitLitPureZeroFill
+Wed May 16 07:28:07 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactZeroLitPureZeroFill
+Wed May 16 07:28:08 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-contains with io.druid.extendedset.intset.ImmutableConciseSetTest-testContains
+Wed May 16 07:28:08 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactTwoLiterals
+Wed May 16 07:28:09 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactSingleOneBitLitDirtyZeroFill
+Wed May 16 07:28:09 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactOneFillPureOneFill
+Wed May 16 07:28:10 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactOneLitPureOneFill
+Wed May 16 07:28:11 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactOneLitOneLit
+Wed May 16 07:28:12 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactSingleOneBitLitPureZeroFill
+Wed May 16 07:28:13 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactZeroFillZeroLit
+Wed May 16 07:28:14 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactSingleOneBitLitZeroLit
+Wed May 16 07:28:15 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactOneFillDirtyOneFill
+Wed May 16 07:28:16 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactZeroFillDirtyZeroFill
+Wed May 16 07:28:17 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-complement with io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement9
+Wed May 16 07:28:18 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactOneFillOneLit
+Wed May 16 07:28:18 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactSingleZeroBitLitOneLit
+Wed May 16 07:28:20 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactZeroLitZeroLit
+Wed May 16 07:28:20 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactOneLitDirtyOneFill
+Wed May 16 07:28:21 UTC 2018: Code found io.druid.extendedset.intset.ImmutableConciseSet-compact with io.druid.extendedset.intset.ImmutableConciseSetTest-testCompactSingleZeroBitLitDirtyOneFill
+Wed May 16 07:28:22 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion6
+Wed May 16 07:28:23 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion7
+Wed May 16 07:28:25 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion8
+Wed May 16 07:28:25 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersectionZeroSequenceRemovedFromQueue
+Wed May 16 07:28:27 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion9
+Wed May 16 07:28:28 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersectionOneFillAndOneFillWithFlipBit
+Wed May 16 07:28:29 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection3
+Wed May 16 07:28:30 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection2
+Wed May 16 07:28:31 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion23
+Wed May 16 07:28:32 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection1
+Wed May 16 07:28:33 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement12
+Wed May 16 07:28:33 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion22
+Wed May 16 07:28:34 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement13
+Wed May 16 07:28:34 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion21
+Wed May 16 07:28:35 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion20
+Wed May 16 07:28:35 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersectionLiteralAndOneFill
+Wed May 16 07:28:36 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement10
+Wed May 16 07:28:36 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement11
+Wed May 16 07:28:37 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion1
+Wed May 16 07:28:37 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion2
+Wed May 16 07:28:39 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion3
+Wed May 16 07:28:39 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion4
+Wed May 16 07:28:40 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion5
+Wed May 16 07:28:40 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testWordIteratorAdvanceTo2
+Wed May 16 07:28:41 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersectionTerminates
+Wed May 16 07:28:41 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testWordIteratorAdvanceTo1
+Wed May 16 07:28:42 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testWordIteratorNext1
+Wed May 16 07:28:43 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testWordIteratorNext2
+Wed May 16 07:28:43 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement8
+Wed May 16 07:28:44 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement7
+Wed May 16 07:28:45 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement6
+Wed May 16 07:28:50 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement5
+Wed May 16 07:28:51 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement4
+Wed May 16 07:28:52 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement3
+Wed May 16 07:28:55 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement2
+Wed May 16 07:28:58 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testComplement1
+Wed May 16 07:28:59 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection19
+Wed May 16 07:29:06 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection17
+Wed May 16 07:29:07 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection18
+Wed May 16 07:29:10 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection11
+Wed May 16 07:29:13 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersectionFirstOneFillRemovedFromQueue
+Wed May 16 07:29:17 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection12
+Wed May 16 07:29:18 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection9
+Wed May 16 07:29:22 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection8
+Wed May 16 07:29:24 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection10
+Wed May 16 07:29:25 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection7
+Wed May 16 07:29:28 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection15
+Wed May 16 07:29:33 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection6
+Wed May 16 07:29:35 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection16
+Wed May 16 07:29:36 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection5
+Wed May 16 07:29:40 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection13
+Wed May 16 07:29:40 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection4
+Wed May 16 07:29:42 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersection14
+Wed May 16 07:29:53 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion14
+Wed May 16 07:30:07 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion13
+Wed May 16 07:30:08 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion12
+Wed May 16 07:30:09 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion11
+Wed May 16 07:30:11 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion10
+Wed May 16 07:30:12 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion19
+Wed May 16 07:30:12 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion18
+Wed May 16 07:30:13 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion17
+Wed May 16 07:30:15 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion16
+Wed May 16 07:30:16 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testIntersectionSecondOneFillRemovedFromQueue
+Wed May 16 07:30:18 UTC 2018: No link for: io.druid.extendedset.intset.ImmutableConciseSetTest-testUnion15
+Wed May 16 07:30:19 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.extendedset.intset.ImmutableConciseSetTest
+Wed May 16 07:30:20 UTC 2018: Found element on the queue
+Wed May 16 07:30:20 UTC 2018: Updating status
+Wed May 16 07:30:20 UTC 2018: Working
+Wed May 16 07:30:20 UTC 2018: Create project parser
+Wed May 16 07:30:30 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.emitter.ambari.metrics.AmbariMetricsEmitterConfigTest
+Wed May 16 07:30:30 UTC 2018: Setting lastTestMethodIndex: 66380
+Wed May 16 07:30:30 UTC 2018: Starting linking
+Wed May 16 07:30:30 UTC 2018: No link for: io.druid.emitter.ambari.metrics.AmbariMetricsEmitterConfigTest-testSerDeDruidToTimelineEventConverter
+Wed May 16 07:30:31 UTC 2018: No link for: io.druid.emitter.ambari.metrics.AmbariMetricsEmitterConfigTest-testSerDeAmbariMetricsEmitterConfig
+Wed May 16 07:30:31 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.emitter.ambari.metrics.AmbariMetricsEmitterConfigTest
+Wed May 16 07:30:32 UTC 2018: Found element on the queue
+Wed May 16 07:30:32 UTC 2018: Updating status
+Wed May 16 07:30:32 UTC 2018: Working
+Wed May 16 07:30:37 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.emitter.ambari.metrics.WhiteListBasedDruidToTimelineEventConverterTest
+Wed May 16 07:30:38 UTC 2018: Setting lastTestMethodIndex: 66383
+Wed May 16 07:30:38 UTC 2018: Starting linking
+Wed May 16 07:30:38 UTC 2018: No link for: io.druid.emitter.ambari.metrics.WhiteListBasedDruidToTimelineEventConverterTest-testDefaultIsInWhiteList
+Wed May 16 07:30:39 UTC 2018: No link for: io.druid.emitter.ambari.metrics.WhiteListBasedDruidToTimelineEventConverterTest-testGetName
+Wed May 16 07:30:42 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.emitter.ambari.metrics.WhiteListBasedDruidToTimelineEventConverterTest
+Wed May 16 07:30:43 UTC 2018: Found element on the queue
+Wed May 16 07:30:43 UTC 2018: Updating status
+Wed May 16 07:30:43 UTC 2018: Working
+Wed May 16 07:30:49 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.emitter.ambari.metrics.DruidToWhiteListBasedConverterTest
+Wed May 16 07:30:49 UTC 2018: Setting lastTestMethodIndex: 66386
+Wed May 16 07:30:49 UTC 2018: Starting linking
+Wed May 16 07:30:49 UTC 2018: No code found io.druid.emitter.ambari.metrics.AmbariMetricsEmitter-sanitize with io.druid.emitter.ambari.metrics.DruidToWhiteListBasedConverterTest-testSanitize
+Wed May 16 07:30:49 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.emitter.ambari.metrics.DruidToWhiteListBasedConverterTest
+Wed May 16 07:30:51 UTC 2018: Found element on the queue
+Wed May 16 07:30:51 UTC 2018: Updating status
+Wed May 16 07:30:51 UTC 2018: Working
+Wed May 16 07:30:51 UTC 2018: Create project parser
+Wed May 16 07:31:05 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.azure.AzureTaskLogsTest
+Wed May 16 07:31:05 UTC 2018: Setting lastTestMethodIndex: 66392
+Wed May 16 07:31:05 UTC 2018: Starting linking
+Wed May 16 07:31:05 UTC 2018: No link for: io.druid.storage.azure.AzureTaskLogsTest-testStreamTaskLogWithPositiveOffset
+Wed May 16 07:31:07 UTC 2018: No link for: io.druid.storage.azure.AzureTaskLogsTest-testPushTaskLog
+Wed May 16 07:31:08 UTC 2018: No link for: io.druid.storage.azure.AzureTaskLogsTest-testStreamTaskLogWithNegative
+Wed May 16 07:31:09 UTC 2018: No link for: io.druid.storage.azure.AzureTaskLogsTest-testStreamTaskLogWithoutOffset
+Wed May 16 07:31:11 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.azure.AzureTaskLogsTest
+Wed May 16 07:31:13 UTC 2018: Found element on the queue
+Wed May 16 07:31:13 UTC 2018: Updating status
+Wed May 16 07:31:14 UTC 2018: Working
+Wed May 16 07:31:29 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.azure.AzureDataSegmentKillerTest
+Wed May 16 07:31:29 UTC 2018: Setting lastTestMethodIndex: 66395
+Wed May 16 07:31:29 UTC 2018: Starting linking
+Wed May 16 07:31:29 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentKillerTest-killTest
+Wed May 16 07:31:31 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentKillerTest-killWithErrorTest
+Wed May 16 07:31:33 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.azure.AzureDataSegmentKillerTest
+Wed May 16 07:31:37 UTC 2018: Found element on the queue
+Wed May 16 07:31:37 UTC 2018: Updating status
+Wed May 16 07:31:37 UTC 2018: Working
+Wed May 16 07:31:42 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.azure.AzureDataSegmentPusherTest
+Wed May 16 07:31:42 UTC 2018: Setting lastTestMethodIndex: 66398
+Wed May 16 07:31:42 UTC 2018: Starting linking
+Wed May 16 07:31:42 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentPusherTest-testPush
+Wed May 16 07:31:43 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentPusherTest-uploadDataSegmentTest
+Wed May 16 07:31:45 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentPusherTest-getAzurePathsTest
+Wed May 16 07:31:46 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.azure.AzureDataSegmentPusherTest
+Wed May 16 07:31:46 UTC 2018: Found element on the queue
+Wed May 16 07:31:46 UTC 2018: Updating status
+Wed May 16 07:31:46 UTC 2018: Working
+Wed May 16 07:31:51 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.azure.AzureByteSourceTest
+Wed May 16 07:31:51 UTC 2018: Setting lastTestMethodIndex: 66401
+Wed May 16 07:31:51 UTC 2018: Starting linking
+Wed May 16 07:31:51 UTC 2018: No link for: io.druid.storage.azure.AzureByteSourceTest-openStreamTest
+Wed May 16 07:31:52 UTC 2018: No link for: io.druid.storage.azure.AzureByteSourceTest-openStreamWithRecoverableErrorTest
+Wed May 16 07:31:54 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.azure.AzureByteSourceTest
+Wed May 16 07:31:59 UTC 2018: Found element on the queue
+Wed May 16 07:31:59 UTC 2018: Updating status
+Wed May 16 07:31:59 UTC 2018: Working
+Wed May 16 07:32:07 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.azure.AzureDataSegmentPullerTest
+Wed May 16 07:32:07 UTC 2018: Setting lastTestMethodIndex: 66404
+Wed May 16 07:32:07 UTC 2018: Starting linking
+Wed May 16 07:32:07 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentPullerTest-prepareOutDirTest
+Wed May 16 07:32:07 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentPullerTest-testZIPUncompress
+Wed May 16 07:32:08 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentPullerTest-testDeleteOutputDirectoryWhenErrorIsRaisedPullingSegmentFiles
+Wed May 16 07:32:09 UTC 2018: No link for: io.druid.storage.azure.AzureDataSegmentPullerTest-getSegmentFilesTest
+Wed May 16 07:32:10 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.azure.AzureDataSegmentPullerTest
+Wed May 16 07:32:10 UTC 2018: Found element on the queue
+Wed May 16 07:32:10 UTC 2018: Updating status
+Wed May 16 07:32:10 UTC 2018: Working
+Wed May 16 07:32:10 UTC 2018: Create project parser
+Wed May 16 07:32:29 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.cloudfiles.CloudFilesDataSegmentPusherTest
+Wed May 16 07:32:30 UTC 2018: Setting lastTestMethodIndex: 66411
+Wed May 16 07:32:30 UTC 2018: Starting linking
+Wed May 16 07:32:30 UTC 2018: Code found io.druid.storage.cloudfiles.CloudFilesDataSegmentPusher-push with io.druid.storage.cloudfiles.CloudFilesDataSegmentPusherTest-testPush
+Wed May 16 07:32:32 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.cloudfiles.CloudFilesDataSegmentPusherTest
+Wed May 16 07:32:34 UTC 2018: Found element on the queue
+Wed May 16 07:32:34 UTC 2018: Updating status
+Wed May 16 07:32:34 UTC 2018: Working
+Wed May 16 07:32:40 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.cloudfiles.CloudFilesByteSourceTest
+Wed May 16 07:32:40 UTC 2018: Setting lastTestMethodIndex: 66415
+Wed May 16 07:32:40 UTC 2018: Starting linking
+Wed May 16 07:32:40 UTC 2018: No link for: io.druid.storage.cloudfiles.CloudFilesByteSourceTest-openStreamTest
+Wed May 16 07:32:41 UTC 2018: No link for: io.druid.storage.cloudfiles.CloudFilesByteSourceTest-openStreamWithRecoverableErrorTest
+Wed May 16 07:32:44 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.cloudfiles.CloudFilesByteSourceTest
+Wed May 16 07:32:45 UTC 2018: Found element on the queue
+Wed May 16 07:32:45 UTC 2018: Updating status
+Wed May 16 07:32:45 UTC 2018: Working
+Wed May 16 07:32:56 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.cloudfiles.CloudFilesObjectApiProxyTest
+Wed May 16 07:33:06 UTC 2018: Setting lastTestMethodIndex: 66417
+Wed May 16 07:33:06 UTC 2018: Starting linking
+Wed May 16 07:33:06 UTC 2018: No link for: io.druid.storage.cloudfiles.CloudFilesObjectApiProxyTest-getTest
+Wed May 16 07:33:10 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.cloudfiles.CloudFilesObjectApiProxyTest
+Wed May 16 07:33:25 UTC 2018: Found element on the queue
+Wed May 16 07:33:25 UTC 2018: Updating status
+Wed May 16 07:33:25 UTC 2018: Working
+Wed May 16 07:33:25 UTC 2018: Create project parser
+Wed May 16 07:33:34 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.query.aggregation.distinctcount.DistinctCountTopNQueryTest
+Wed May 16 07:33:35 UTC 2018: Setting lastTestMethodIndex: 66419
+Wed May 16 07:33:35 UTC 2018: Starting linking
+Wed May 16 07:33:35 UTC 2018: No link for: io.druid.query.aggregation.distinctcount.DistinctCountTopNQueryTest-testTopNWithDistinctCountAgg
+Wed May 16 07:33:37 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.query.aggregation.distinctcount.DistinctCountTopNQueryTest
+Wed May 16 07:33:38 UTC 2018: Found element on the queue
+Wed May 16 07:33:38 UTC 2018: Updating status
+Wed May 16 07:33:38 UTC 2018: Working
+Wed May 16 07:33:45 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.query.aggregation.distinctcount.DistinctCountGroupByQueryTest
+Wed May 16 07:33:45 UTC 2018: Setting lastTestMethodIndex: 66421
+Wed May 16 07:33:45 UTC 2018: Starting linking
+Wed May 16 07:33:45 UTC 2018: No link for: io.druid.query.aggregation.distinctcount.DistinctCountGroupByQueryTest-testGroupByWithDistinctCountAgg
+Wed May 16 07:33:46 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.query.aggregation.distinctcount.DistinctCountGroupByQueryTest
+Wed May 16 07:33:47 UTC 2018: Found element on the queue
+Wed May 16 07:33:47 UTC 2018: Updating status
+Wed May 16 07:33:47 UTC 2018: Working
+Wed May 16 07:33:53 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.query.aggregation.distinctcount.DistinctCountTimeseriesQueryTest
+Wed May 16 07:33:53 UTC 2018: Setting lastTestMethodIndex: 66422
+Wed May 16 07:33:53 UTC 2018: Starting linking
+Wed May 16 07:33:53 UTC 2018: No link for: io.druid.query.aggregation.distinctcount.DistinctCountTimeseriesQueryTest-testTopNWithDistinctCountAgg
+Wed May 16 07:33:54 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.query.aggregation.distinctcount.DistinctCountTimeseriesQueryTest
+Wed May 16 07:33:55 UTC 2018: Found element on the queue
+Wed May 16 07:33:55 UTC 2018: Updating status
+Wed May 16 07:33:55 UTC 2018: Working
+Wed May 16 07:33:55 UTC 2018: Create project parser
+Wed May 16 07:34:06 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.google.GoogleDataSegmentPullerTest
+Wed May 16 07:34:06 UTC 2018: Setting lastTestMethodIndex: 66425
+Wed May 16 07:34:06 UTC 2018: Starting linking
+Wed May 16 07:34:06 UTC 2018: No link for: io.druid.storage.google.GoogleDataSegmentPullerTest-testDeleteOutputDirectoryWhenErrorIsRaisedPullingSegmentFiles
+Wed May 16 07:34:08 UTC 2018: No link for: io.druid.storage.google.GoogleDataSegmentPullerTest-prepareOutDirTest
+Wed May 16 07:34:15 UTC 2018: No link for: io.druid.storage.google.GoogleDataSegmentPullerTest-getSegmentFilesTest
+Wed May 16 07:34:20 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.google.GoogleDataSegmentPullerTest
+Wed May 16 07:34:22 UTC 2018: Found element on the queue
+Wed May 16 07:34:22 UTC 2018: Updating status
+Wed May 16 07:34:22 UTC 2018: Working
+Wed May 16 07:34:32 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.google.GoogleByteSourceTest
+Wed May 16 07:34:33 UTC 2018: Setting lastTestMethodIndex: 66429
+Wed May 16 07:34:33 UTC 2018: Starting linking
+Wed May 16 07:34:33 UTC 2018: No link for: io.druid.storage.google.GoogleByteSourceTest-openStreamWithRecoverableErrorTest
+Wed May 16 07:34:34 UTC 2018: No link for: io.druid.storage.google.GoogleByteSourceTest-openStreamTest
+Wed May 16 07:34:37 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.google.GoogleByteSourceTest
+Wed May 16 07:34:39 UTC 2018: Found element on the queue
+Wed May 16 07:34:39 UTC 2018: Updating status
+Wed May 16 07:34:39 UTC 2018: Working
+Wed May 16 07:34:47 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.google.GoogleDataSegmentPusherTest
+Wed May 16 07:34:50 UTC 2018: Setting lastTestMethodIndex: 66432
+Wed May 16 07:34:50 UTC 2018: Starting linking
+Wed May 16 07:34:50 UTC 2018: No link for: io.druid.storage.google.GoogleDataSegmentPusherTest-testPush
+Wed May 16 07:34:52 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.google.GoogleDataSegmentPusherTest
+Wed May 16 07:34:53 UTC 2018: Found element on the queue
+Wed May 16 07:34:53 UTC 2018: Updating status
+Wed May 16 07:34:54 UTC 2018: Working
+Wed May 16 07:34:59 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.google.GoogleTaskLogsTest
+Wed May 16 07:34:59 UTC 2018: Setting lastTestMethodIndex: 66434
+Wed May 16 07:34:59 UTC 2018: Starting linking
+Wed May 16 07:34:59 UTC 2018: No link for: io.druid.storage.google.GoogleTaskLogsTest-testPushTaskLog
+Wed May 16 07:35:00 UTC 2018: No link for: io.druid.storage.google.GoogleTaskLogsTest-testStreamTaskLogWithoutOffset
+Wed May 16 07:35:01 UTC 2018: No link for: io.druid.storage.google.GoogleTaskLogsTest-testStreamTaskLogWithPositiveOffset
+Wed May 16 07:35:08 UTC 2018: No link for: io.druid.storage.google.GoogleTaskLogsTest-testStreamTaskLogWithNegative
+Wed May 16 07:35:09 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.google.GoogleTaskLogsTest
+Wed May 16 07:35:14 UTC 2018: Found element on the queue
+Wed May 16 07:35:14 UTC 2018: Updating status
+Wed May 16 07:35:14 UTC 2018: Working
+Wed May 16 07:35:26 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.storage.google.GoogleDataSegmentKillerTest
+Wed May 16 07:35:26 UTC 2018: Setting lastTestMethodIndex: 66437
+Wed May 16 07:35:26 UTC 2018: Starting linking
+Wed May 16 07:35:26 UTC 2018: No link for: io.druid.storage.google.GoogleDataSegmentKillerTest-killTest
+Wed May 16 07:35:27 UTC 2018: No link for: io.druid.storage.google.GoogleDataSegmentKillerTest-killWithErrorTest
+Wed May 16 07:35:31 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.storage.google.GoogleDataSegmentKillerTest
+Wed May 16 07:35:34 UTC 2018: Found element on the queue
+Wed May 16 07:35:34 UTC 2018: Updating status
+Wed May 16 07:35:35 UTC 2018: Working
+Wed May 16 07:35:35 UTC 2018: Create project parser
+Wed May 16 07:35:42 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.emitter.graphite.GraphiteEmitterConfigTest
+Wed May 16 07:35:42 UTC 2018: Setting lastTestMethodIndex: 66441
+Wed May 16 07:35:42 UTC 2018: Starting linking
+Wed May 16 07:35:42 UTC 2018: No link for: io.druid.emitter.graphite.GraphiteEmitterConfigTest-testSerDeserDruidToGraphiteEventConverter
+Wed May 16 07:35:46 UTC 2018: No link for: io.druid.emitter.graphite.GraphiteEmitterConfigTest-testSerDeserGraphiteEmitterConfig
+Wed May 16 07:35:47 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.emitter.graphite.GraphiteEmitterConfigTest
+Wed May 16 07:35:48 UTC 2018: Found element on the queue
+Wed May 16 07:35:48 UTC 2018: Updating status
+Wed May 16 07:35:48 UTC 2018: Working
+Wed May 16 07:35:58 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.emitter.graphite.WhiteListBasedConverterTest
+Wed May 16 07:35:58 UTC 2018: Setting lastTestMethodIndex: 66443
+Wed May 16 07:35:58 UTC 2018: Starting linking
+Wed May 16 07:35:58 UTC 2018: No link for: io.druid.emitter.graphite.WhiteListBasedConverterTest-testGetPath
+Wed May 16 07:36:00 UTC 2018: No link for: io.druid.emitter.graphite.WhiteListBasedConverterTest-testDefaultIsInWhiteList
+Wed May 16 07:36:03 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.emitter.graphite.WhiteListBasedConverterTest
+Wed May 16 07:36:05 UTC 2018: Found element on the queue
+Wed May 16 07:36:06 UTC 2018: Updating status
+Wed May 16 07:36:06 UTC 2018: Working
+Wed May 16 07:36:13 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.emitter.graphite.DruidToWhiteListBasedConverterTest
+Wed May 16 07:36:13 UTC 2018: Setting lastTestMethodIndex: 66446
+Wed May 16 07:36:13 UTC 2018: Starting linking
+Wed May 16 07:36:13 UTC 2018: No code found io.druid.emitter.graphite.GraphiteEmitter-sanitize with io.druid.emitter.graphite.DruidToWhiteListBasedConverterTest-testSanitize
+Wed May 16 07:36:14 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.emitter.graphite.DruidToWhiteListBasedConverterTest
+Wed May 16 07:36:16 UTC 2018: Found element on the queue
+Wed May 16 07:36:16 UTC 2018: Updating status
+Wed May 16 07:36:16 UTC 2018: Working
+Wed May 16 07:36:16 UTC 2018: Create project parser
+Wed May 16 07:36:24 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.orc.OrcHadoopInputRowParserTest
+Wed May 16 07:36:25 UTC 2018: Setting lastTestMethodIndex: 66449
+Wed May 16 07:36:25 UTC 2018: Starting linking
+Wed May 16 07:36:25 UTC 2018: No link for: io.druid.data.input.orc.OrcHadoopInputRowParserTest-testTypeFromParseSpec
+Wed May 16 07:36:26 UTC 2018: No link for: io.druid.data.input.orc.OrcHadoopInputRowParserTest-testSerde
+Wed May 16 07:36:27 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.orc.OrcHadoopInputRowParserTest
+Wed May 16 07:36:28 UTC 2018: Found element on the queue
+Wed May 16 07:36:28 UTC 2018: Updating status
+Wed May 16 07:36:29 UTC 2018: Working
+Wed May 16 07:36:36 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.orc.DruidOrcInputFormatTest
+Wed May 16 07:36:37 UTC 2018: Setting lastTestMethodIndex: 66452
+Wed May 16 07:36:37 UTC 2018: Starting linking
+Wed May 16 07:36:37 UTC 2018: No link for: io.druid.data.input.orc.DruidOrcInputFormatTest-testRead
+Wed May 16 07:36:38 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.orc.DruidOrcInputFormatTest
+Wed May 16 07:36:39 UTC 2018: Found element on the queue
+Wed May 16 07:36:39 UTC 2018: Updating status
+Wed May 16 07:36:39 UTC 2018: Working
+Wed May 16 07:36:47 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.orc.OrcIndexGeneratorJobTest
+Wed May 16 07:36:48 UTC 2018: Setting lastTestMethodIndex: 66455
+Wed May 16 07:36:48 UTC 2018: Starting linking
+Wed May 16 07:36:48 UTC 2018: No link for: io.druid.data.input.orc.OrcIndexGeneratorJobTest-testIndexGeneratorJob
+Wed May 16 07:36:50 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.orc.OrcIndexGeneratorJobTest
+Wed May 16 07:36:52 UTC 2018: Found element on the queue
+Wed May 16 07:36:52 UTC 2018: Updating status
+Wed May 16 07:36:52 UTC 2018: Working
+Wed May 16 07:36:52 UTC 2018: Create project parser
+Wed May 16 07:36:58 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.parquet.DruidParquetInputTest
+Wed May 16 07:36:59 UTC 2018: Setting lastTestMethodIndex: 66459
+Wed May 16 07:36:59 UTC 2018: Starting linking
+Wed May 16 07:36:59 UTC 2018: No link for: io.druid.data.input.parquet.DruidParquetInputTest-test
+Wed May 16 07:37:00 UTC 2018: No link for: io.druid.data.input.parquet.DruidParquetInputTest-testBinaryAsString
+Wed May 16 07:37:01 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.data.input.parquet.DruidParquetInputTest
+Wed May 16 07:37:05 UTC 2018: Found element on the queue
+Wed May 16 07:37:05 UTC 2018: Updating status
+Wed May 16 07:37:05 UTC 2018: Working
+Wed May 16 07:37:05 UTC 2018: Create project parser
+Wed May 16 07:37:12 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.examples.rabbitmq.RabbitMQFirehoseFactoryTest
+Wed May 16 07:37:12 UTC 2018: Setting lastTestMethodIndex: 66461
+Wed May 16 07:37:12 UTC 2018: Starting linking
+Wed May 16 07:37:12 UTC 2018: No link for: io.druid.examples.rabbitmq.RabbitMQFirehoseFactoryTest-testSerde
+Wed May 16 07:37:13 UTC 2018: No link for: io.druid.examples.rabbitmq.RabbitMQFirehoseFactoryTest-testDefaultSerde
+Wed May 16 07:37:14 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.examples.rabbitmq.RabbitMQFirehoseFactoryTest
+Wed May 16 07:37:17 UTC 2018: Found element on the queue
+Wed May 16 07:37:17 UTC 2018: Updating status
+Wed May 16 07:37:17 UTC 2018: Working
+Wed May 16 07:37:17 UTC 2018: Create project parser
+Wed May 16 07:37:27 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.query.scan.ScanQueryRunnerTest
+Wed May 16 07:37:27 UTC 2018: Setting lastTestMethodIndex: 66465
+Wed May 16 07:37:27 UTC 2018: Starting linking
+Wed May 16 07:37:27 UTC 2018: Code found io.druid.query.scan.ScanQuery$ScanQueryBuilder-limit with io.druid.query.scan.ScanQueryRunnerTest-testFullOnSelectWithFilterAndLimit
+Wed May 16 07:37:28 UTC 2018: No link for: io.druid.query.scan.ScanQueryRunnerTest-testSelectWithDimsAndMetsAsCompactedList
+Wed May 16 07:37:32 UTC 2018: No link for: io.druid.query.scan.ScanQueryRunnerTest-testFullSelectNoDimensionAndMetric
+Wed May 16 07:37:33 UTC 2018: No link for: io.druid.query.scan.ScanQueryRunnerTest-testFullSelectNoResults
+Wed May 16 07:37:35 UTC 2018: No link for: io.druid.query.scan.ScanQueryRunnerTest-testSelectWithFilterLookupExtractionFn
+Wed May 16 07:37:35 UTC 2018: No link for: io.druid.query.scan.ScanQueryRunnerTest-testFullOnSelectAsCompactedList
+Wed May 16 07:37:38 UTC 2018: No link for: io.druid.query.scan.ScanQueryRunnerTest-testFullOnSelect
+Wed May 16 07:37:40 UTC 2018: No link for: io.druid.query.scan.ScanQueryRunnerTest-testSelectWithDimsAndMets
+Wed May 16 07:37:41 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.query.scan.ScanQueryRunnerTest
+Wed May 16 07:37:44 UTC 2018: Found element on the queue
+Wed May 16 07:37:44 UTC 2018: Updating status
+Wed May 16 07:37:44 UTC 2018: Working
+Wed May 16 07:37:53 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.query.scan.MultiSegmentScanQueryTest
+Wed May 16 07:37:53 UTC 2018: Setting lastTestMethodIndex: 66469
+Wed May 16 07:37:53 UTC 2018: Starting linking
+Wed May 16 07:37:53 UTC 2018: Code found io.druid.query.scan.ScanQueryRunnerFactory-mergeRunners with io.druid.query.scan.MultiSegmentScanQueryTest-testMergeRunnersWithLimit
+Wed May 16 07:37:56 UTC 2018: No link for: io.druid.query.scan.MultiSegmentScanQueryTest-testMergeResultsWithLimit
+Wed May 16 07:37:57 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.query.scan.MultiSegmentScanQueryTest
+Wed May 16 07:37:58 UTC 2018: Found element on the queue
+Wed May 16 07:37:58 UTC 2018: Updating status
+Wed May 16 07:37:59 UTC 2018: Working
+Wed May 16 07:38:05 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.query.scan.ScanQuerySpecTest
+Wed May 16 07:38:05 UTC 2018: Setting lastTestMethodIndex: 66472
+Wed May 16 07:38:05 UTC 2018: Starting linking
+Wed May 16 07:38:05 UTC 2018: No link for: io.druid.query.scan.ScanQuerySpecTest-testSerializationLegacyString
+Wed May 16 07:38:07 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.query.scan.ScanQuerySpecTest
+Wed May 16 07:38:10 UTC 2018: Found element on the queue
+Wed May 16 07:38:10 UTC 2018: Updating status
+Wed May 16 07:38:10 UTC 2018: Working
+Wed May 16 07:38:10 UTC 2018: Create project parser
+Wed May 16 07:38:20 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.metadata.storage.sqlserver.SQLServerConnectorTest
+Wed May 16 07:38:21 UTC 2018: Setting lastTestMethodIndex: 66474
+Wed May 16 07:38:21 UTC 2018: Starting linking
+Wed May 16 07:38:21 UTC 2018: No code found io.druid.metadata.storage.sqlserver.SQLServerConnector-isTransientException with io.druid.metadata.storage.sqlserver.SQLServerConnectorTest-testIsTransientException
+Wed May 16 07:38:24 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.metadata.storage.sqlserver.SQLServerConnectorTest
+Wed May 16 07:38:25 UTC 2018: Found element on the queue
+Wed May 16 07:38:25 UTC 2018: Updating status
+Wed May 16 07:38:25 UTC 2018: Working
+Wed May 16 07:38:30 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.metadata.storage.sqlserver.CustomStatementRewriterTest
+Wed May 16 07:38:30 UTC 2018: Setting lastTestMethodIndex: 66477
+Wed May 16 07:38:30 UTC 2018: Starting linking
+Wed May 16 07:38:31 UTC 2018: No link for: io.druid.metadata.storage.sqlserver.CustomStatementRewriterTest-testSQLMetadataStorageActionHandlerGetInactiveStatusesSince
+Wed May 16 07:38:32 UTC 2018: No link for: io.druid.metadata.storage.sqlserver.CustomStatementRewriterTest-testCustomStatementRewriter
+Wed May 16 07:38:34 UTC 2018: No link for: io.druid.metadata.storage.sqlserver.CustomStatementRewriterTest-testSQLMetadataConnectorCreateTable
+Wed May 16 07:38:37 UTC 2018: No link for: io.druid.metadata.storage.sqlserver.CustomStatementRewriterTest-testSQLMetadataStorageActionHandlerSetStatus
+Wed May 16 07:38:38 UTC 2018: No link for: io.druid.metadata.storage.sqlserver.CustomStatementRewriterTest-testExactPatternReplacement
+Wed May 16 07:38:39 UTC 2018: Linking done for naman-aasaan__DruidBase test class io.druid.metadata.storage.sqlserver.CustomStatementRewriterTest
+Wed May 16 07:38:40 UTC 2018: Found element on the queue
+Wed May 16 07:38:40 UTC 2018: Updating status
+Wed May 16 07:38:40 UTC 2018: Working
+Wed May 16 07:38:40 UTC 2018: Create project parser
+Wed May 16 07:38:47 UTC 2018: Start naman-aasaan__DruidBase test class DimensionConverterTest
+Wed May 16 07:38:47 UTC 2018: Setting lastTestMethodIndex: 66481
+Wed May 16 07:38:47 UTC 2018: Starting linking
+Wed May 16 07:38:47 UTC 2018: No link for: DimensionConverterTest-testConvert
+Wed May 16 07:38:48 UTC 2018: Linking done for naman-aasaan__DruidBase test class DimensionConverterTest
+Wed May 16 07:38:49 UTC 2018: Found element on the queue
+Wed May 16 07:38:49 UTC 2018: Updating status
+Wed May 16 07:38:49 UTC 2018: Working
+Wed May 16 07:38:57 UTC 2018: Start naman-aasaan__DruidBase test class StatsDEmitterTest
+Wed May 16 07:38:57 UTC 2018: Setting lastTestMethodIndex: 66484
+Wed May 16 07:38:57 UTC 2018: Starting linking
+Wed May 16 07:38:57 UTC 2018: No link for: StatsDEmitterTest-testNoConvertRange
+Wed May 16 07:39:00 UTC 2018: No link for: StatsDEmitterTest-testConfigOptions
+Wed May 16 07:39:01 UTC 2018: No link for: StatsDEmitterTest-testConvertRange
+Wed May 16 07:39:02 UTC 2018: Linking done for naman-aasaan__DruidBase test class StatsDEmitterTest
+Wed May 16 07:39:03 UTC 2018: Found element on the queue
+Wed May 16 07:39:03 UTC 2018: Updating status
+Wed May 16 07:39:03 UTC 2018: Working
+Wed May 16 07:39:03 UTC 2018: Create project parser
+Wed May 16 07:39:13 UTC 2018: Start naman-aasaan__DruidBase test class io.druid.data.input.thrift.ThriftInputRowParserTest
+Wed May 16 07:39:13 UTC 2018: Setting lastTestMethodIndex: 66486
+Wed May 16 07:39:13 UTC 2018: Starting linking
+Wed May 16 07:39:14 UTC 2018: Code found io.druid.data.input.thrift.ThriftInputRowParser-getThriftClass with io.druid.data.input.thrift.ThriftInputRowParserTest-testGetThriftClass
+Wed May 16 07:39:16 UTC 2018: No link for: io.druid.data.input.thrift.ThriftInputRowParserTest-testParse

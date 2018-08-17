@@ -1,0 +1,274 @@
+Wed May 16 06:17:54 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:17:55 UTC 2018: Starting
+Wed May 16 06:17:55 UTC 2018: Found element on the queue
+Wed May 16 06:17:55 UTC 2018: Updating status
+Wed May 16 06:17:55 UTC 2018: Working
+Wed May 16 06:17:55 UTC 2018: Create project parser
+Wed May 16 06:18:01 UTC 2018: Create slicer
+Wed May 16 06:18:03 UTC 2018: Create call graph
+Wed May 16 06:18:06 UTC 2018: Create point analysis
+Wed May 16 06:18:06 UTC 2018: Create call graph done
+Wed May 16 06:18:06 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.RelativeProgramMessageParserTest
+Wed May 16 06:18:06 UTC 2018: Setting lastTestMethodIndex: 64796
+Wed May 16 06:18:06 UTC 2018: Starting linking
+Wed May 16 06:18:06 UTC 2018: Code found org.motechproject.ghana.telco.parser.RelativeProgramMessageParser-parse with org.motechproject.ghana.telco.parser.RelativeProgramMessageParserTest-ShouldParseRelativeMessage
+Wed May 16 06:18:06 UTC 2018: Code found org.motechproject.ghana.telco.parser.RelativeProgramMessageParser-parse with org.motechproject.ghana.telco.parser.RelativeProgramMessageParserTest-ShouldNotParseNonRelativeMessages
+Wed May 16 06:18:06 UTC 2018: No link for: org.motechproject.ghana.telco.parser.RelativeProgramMessageParserTest-ShouldThrowInvalidMobileNumberExceptionWhenMobileNumberIsLessThanTenDigits
+Wed May 16 06:18:07 UTC 2018: No link for: org.motechproject.ghana.telco.parser.RelativeProgramMessageParserTest-ShouldThrowInvalidMobileNumberException
+Wed May 16 06:18:07 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.RelativeProgramMessageParserTest
+Wed May 16 06:18:08 UTC 2018: Found element on the queue
+Wed May 16 06:18:08 UTC 2018: Updating status
+Wed May 16 06:18:08 UTC 2018: Working
+Wed May 16 06:18:10 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.StopMessageParserTest
+Wed May 16 06:18:10 UTC 2018: Setting lastTestMethodIndex: 64798
+Wed May 16 06:18:10 UTC 2018: Starting linking
+Wed May 16 06:18:10 UTC 2018: Code found org.motechproject.ghana.telco.parser.StopMessageParser-parse with org.motechproject.ghana.telco.parser.StopMessageParserTest-ShouldParseStopMessageWithoutProgram
+Wed May 16 06:18:10 UTC 2018: Code found org.motechproject.ghana.telco.parser.StopMessageParser-parse with org.motechproject.ghana.telco.parser.StopMessageParserTest-ShouldParseStopMessageWithProgram
+Wed May 16 06:18:11 UTC 2018: Code found org.motechproject.ghana.telco.parser.StopMessageParser-parse with org.motechproject.ghana.telco.parser.StopMessageParserTest-ShouldParseStopMessageWithProgramCaseInsensitive
+Wed May 16 06:18:11 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.StopMessageParserTest
+Wed May 16 06:18:12 UTC 2018: Found element on the queue
+Wed May 16 06:18:12 UTC 2018: Updating status
+Wed May 16 06:18:12 UTC 2018: Working
+Wed May 16 06:18:14 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.RegisterProgramMessageParserTest
+Wed May 16 06:18:14 UTC 2018: Setting lastTestMethodIndex: 64801
+Wed May 16 06:18:14 UTC 2018: Starting linking
+Wed May 16 06:18:14 UTC 2018: Code found org.motechproject.ghana.telco.domain.ProgramType-weekFor with org.motechproject.ghana.telco.parser.RegisterProgramMessageParserTest-shouldGetMessageStartWeekForProgramType
+Wed May 16 06:18:15 UTC 2018: No link for: org.motechproject.ghana.telco.parser.RegisterProgramMessageParserTest-shouldReturnNullOnInvalidMonthException
+Wed May 16 06:18:15 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.RegisterProgramMessageParserTest
+Wed May 16 06:18:16 UTC 2018: Found element on the queue
+Wed May 16 06:18:16 UTC 2018: Updating status
+Wed May 16 06:18:16 UTC 2018: Working
+Wed May 16 06:18:18 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.DeliveryMessageParserTest
+Wed May 16 06:18:18 UTC 2018: Setting lastTestMethodIndex: 64803
+Wed May 16 06:18:18 UTC 2018: Starting linking
+Wed May 16 06:18:18 UTC 2018: Code found org.motechproject.ghana.telco.parser.DeliveryMessageParser-parse with org.motechproject.ghana.telco.parser.DeliveryMessageParserTest-ShouldParseDeliveryMessageWithoutDate
+Wed May 16 06:18:19 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.DeliveryMessageParserTest
+Wed May 16 06:18:19 UTC 2018: Found element on the queue
+Wed May 16 06:18:19 UTC 2018: Updating status
+Wed May 16 06:18:19 UTC 2018: Working
+Wed May 16 06:18:22 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.RetainOrRollOverChildCareMessageParserTest
+Wed May 16 06:18:22 UTC 2018: Setting lastTestMethodIndex: 64805
+Wed May 16 06:18:22 UTC 2018: Starting linking
+Wed May 16 06:18:22 UTC 2018: Code found org.motechproject.ghana.telco.parser.RetainOrRollOverChildCareMessageParser-parse with org.motechproject.ghana.telco.parser.RetainOrRollOverChildCareMessageParserTest-shouldParseRollOverDecisionMessage
+Wed May 16 06:18:22 UTC 2018: Code found org.motechproject.ghana.telco.parser.RetainOrRollOverChildCareMessageParser-parse with org.motechproject.ghana.telco.parser.RetainOrRollOverChildCareMessageParserTest-shouldReturnNullIfParseRollOverDecisionMessageIsNotMatching
+Wed May 16 06:18:23 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.RetainOrRollOverChildCareMessageParserTest
+Wed May 16 06:18:23 UTC 2018: Found element on the queue
+Wed May 16 06:18:23 UTC 2018: Updating status
+Wed May 16 06:18:23 UTC 2018: Working
+Wed May 16 06:18:26 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest
+Wed May 16 06:18:26 UTC 2018: Setting lastTestMethodIndex: 64807
+Wed May 16 06:18:26 UTC 2018: Starting linking
+Wed May 16 06:18:26 UTC 2018: Code found org.motechproject.ghana.telco.parser.CompositeInputMessageParser-parse with org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldParseChildCareMessage
+Wed May 16 06:18:26 UTC 2018: Code found org.motechproject.ghana.telco.parser.CompositeInputMessageParser-parse with org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldParsePregnancyMessage
+Wed May 16 06:18:27 UTC 2018: Code found org.motechproject.ghana.telco.parser.CompositeInputMessageParser-parse with org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldParseStopMessageWithProgramCaseInsensitive
+Wed May 16 06:18:27 UTC 2018: Code found org.motechproject.ghana.telco.parser.CompositeInputMessageParser-parse with org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldParseDeliveryMessage
+Wed May 16 06:18:27 UTC 2018: Code found org.motechproject.ghana.telco.parser.CompositeInputMessageParser-parse with org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldParseBasedOnNewShortCodes
+Wed May 16 06:18:28 UTC 2018: Code found org.motechproject.ghana.telco.parser.CompositeInputMessageParser-parse with org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldParseMessagesEvenWithLowerCase
+Wed May 16 06:18:28 UTC 2018: No link for: org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldCreateSubscriptionForWeekWithSingleDigit
+Wed May 16 06:18:29 UTC 2018: No link for: org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldFailForMessagesThatAreNotValid
+Wed May 16 06:18:29 UTC 2018: No link for: org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest-ShouldCreateSubscriptionWithActiveStatusForValidInputMessage
+Wed May 16 06:18:30 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.parser.CompositeInputMessageParserTest
+Wed May 16 06:18:30 UTC 2018: Found element on the queue
+Wed May 16 06:18:30 UTC 2018: Updating status
+Wed May 16 06:18:30 UTC 2018: Working
+Wed May 16 06:18:33 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.utils.DateUtilsTest
+Wed May 16 06:18:33 UTC 2018: Setting lastTestMethodIndex: 64809
+Wed May 16 06:18:33 UTC 2018: Starting linking
+Wed May 16 06:18:33 UTC 2018: No link for: org.motechproject.ghana.telco.utils.DateUtilsTest-shouldTestOrdinalForAllDaysOfMonth
+Wed May 16 06:18:33 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.utils.DateUtilsTest
+Wed May 16 06:18:34 UTC 2018: Found element on the queue
+Wed May 16 06:18:34 UTC 2018: Updating status
+Wed May 16 06:18:34 UTC 2018: Working
+Wed May 16 06:18:36 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.utils.EncryptTest
+Wed May 16 06:18:36 UTC 2018: Setting lastTestMethodIndex: 64811
+Wed May 16 06:18:36 UTC 2018: Starting linking
+Wed May 16 06:18:36 UTC 2018: Code found org.motechproject.ghana.telco.utils.Encrypt-encrypt with org.motechproject.ghana.telco.utils.EncryptTest-shouldEncryptAsSHA256
+Wed May 16 06:18:37 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.utils.EncryptTest
+Wed May 16 06:18:37 UTC 2018: Found element on the queue
+Wed May 16 06:18:37 UTC 2018: Updating status
+Wed May 16 06:18:38 UTC 2018: Working
+Wed May 16 06:18:41 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.security.AuthenticationProviderTest
+Wed May 16 06:18:41 UTC 2018: Setting lastTestMethodIndex: 64812
+Wed May 16 06:18:41 UTC 2018: Starting linking
+Wed May 16 06:18:41 UTC 2018: Code found org.motechproject.ghana.telco.security.AuthenticationProvider-retrieveUser with org.motechproject.ghana.telco.security.AuthenticationProviderTest-shouldRetrieveUserBasedOnCredentialsProvided
+Wed May 16 06:18:41 UTC 2018: No link for: org.motechproject.ghana.telco.security.AuthenticationProviderTest-shouldThrowExceptionIfUserIsNotFound
+Wed May 16 06:18:41 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.security.AuthenticationProviderTest
+Wed May 16 06:18:42 UTC 2018: Found element on the queue
+Wed May 16 06:18:42 UTC 2018: Updating status
+Wed May 16 06:18:42 UTC 2018: Working
+Wed May 16 06:18:45 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.ProgramMessageCycleTest
+Wed May 16 06:18:45 UTC 2018: Setting lastTestMethodIndex: 64813
+Wed May 16 06:18:45 UTC 2018: Starting linking
+Wed May 16 06:18:45 UTC 2018: No link for: org.motechproject.ghana.telco.domain.ProgramMessageCycleTest-shouldReturnStartOfCycleDate_IfGivenDateExactlyFallsOnCycleEndOrAfter
+Wed May 16 06:18:45 UTC 2018: No link for: org.motechproject.ghana.telco.domain.ProgramMessageCycleTest-shouldGetNearestCycleDateBasedOnCurrentDayOfWeek
+Wed May 16 06:18:46 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.ProgramMessageCycleTest
+Wed May 16 06:18:46 UTC 2018: Found element on the queue
+Wed May 16 06:18:46 UTC 2018: Updating status
+Wed May 16 06:18:46 UTC 2018: Working
+Wed May 16 06:18:49 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.WeekTest
+Wed May 16 06:18:49 UTC 2018: Setting lastTestMethodIndex: 64815
+Wed May 16 06:18:49 UTC 2018: Starting linking
+Wed May 16 06:18:49 UTC 2018: No link for: org.motechproject.ghana.telco.domain.WeekTest-shouldAnswerForItsValue
+Wed May 16 06:18:49 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.WeekTest
+Wed May 16 06:18:50 UTC 2018: Found element on the queue
+Wed May 16 06:18:50 UTC 2018: Updating status
+Wed May 16 06:18:50 UTC 2018: Working
+Wed May 16 06:18:53 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.builder.ShortCodeBuilderTest
+Wed May 16 06:18:53 UTC 2018: Setting lastTestMethodIndex: 64817
+Wed May 16 06:18:53 UTC 2018: Starting linking
+Wed May 16 06:18:53 UTC 2018: Code found org.motechproject.ghana.telco.domain.builder.Builder-build with org.motechproject.ghana.telco.domain.builder.ShortCodeBuilderTest-ShouldBuildShortCode
+Wed May 16 06:18:53 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.builder.ShortCodeBuilderTest
+Wed May 16 06:18:53 UTC 2018: Found element on the queue
+Wed May 16 06:18:53 UTC 2018: Updating status
+Wed May 16 06:18:53 UTC 2018: Working
+Wed May 16 06:18:57 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.builder.SubscriptionBuilderTest
+Wed May 16 06:18:57 UTC 2018: Setting lastTestMethodIndex: 64819
+Wed May 16 06:18:57 UTC 2018: Starting linking
+Wed May 16 06:18:57 UTC 2018: Code found org.motechproject.ghana.telco.domain.builder.Builder-build with org.motechproject.ghana.telco.domain.builder.SubscriptionBuilderTest-ShouldCreateSubscriptionUsingBuilder
+Wed May 16 06:18:58 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.builder.SubscriptionBuilderTest
+Wed May 16 06:18:58 UTC 2018: Found element on the queue
+Wed May 16 06:18:58 UTC 2018: Updating status
+Wed May 16 06:18:58 UTC 2018: Working
+Wed May 16 06:19:01 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.builder.ProgramTypeBuilderTest
+Wed May 16 06:19:01 UTC 2018: Setting lastTestMethodIndex: 64821
+Wed May 16 06:19:01 UTC 2018: Starting linking
+Wed May 16 06:19:01 UTC 2018: Code found org.motechproject.ghana.telco.domain.builder.ProgramTypeBuilder-build with org.motechproject.ghana.telco.domain.builder.ProgramTypeBuilderTest-ShouldCreateProgramTypeObjectUsingBuilder
+Wed May 16 06:19:02 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.builder.ProgramTypeBuilderTest
+Wed May 16 06:19:02 UTC 2018: Found element on the queue
+Wed May 16 06:19:02 UTC 2018: Updating status
+Wed May 16 06:19:02 UTC 2018: Working
+Wed May 16 06:19:05 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.SubscriptionTest
+Wed May 16 06:19:05 UTC 2018: Setting lastTestMethodIndex: 64823
+Wed May 16 06:19:05 UTC 2018: Starting linking
+Wed May 16 06:19:05 UTC 2018: Code found org.motechproject.ghana.telco.domain.Subscription-currentDay with org.motechproject.ghana.telco.domain.SubscriptionTest-shouldReturnCurrentDay
+Wed May 16 06:19:06 UTC 2018: No link for: org.motechproject.ghana.telco.domain.SubscriptionTest-shouldCreateCampaignRegistrationRequest
+Wed May 16 06:19:06 UTC 2018: No link for: org.motechproject.ghana.telco.domain.SubscriptionTest-shouldComputeEndDate_BasedOnCycleStartDate
+Wed May 16 06:19:07 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.SubscriptionTest
+Wed May 16 06:19:07 UTC 2018: Found element on the queue
+Wed May 16 06:19:07 UTC 2018: Updating status
+Wed May 16 06:19:07 UTC 2018: Working
+Wed May 16 06:19:10 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.ProgramTypeTest
+Wed May 16 06:19:10 UTC 2018: Setting lastTestMethodIndex: 64826
+Wed May 16 06:19:10 UTC 2018: Starting linking
+Wed May 16 06:19:10 UTC 2018: Code found org.motechproject.ghana.telco.domain.ProgramType-isInRange with org.motechproject.ghana.telco.domain.ProgramTypeTest-ShouldVerifySubscriptionWeekIsInRangeForChildCare
+Wed May 16 06:19:11 UTC 2018: Code found org.motechproject.ghana.telco.domain.ProgramType-isInRange with org.motechproject.ghana.telco.domain.ProgramTypeTest-ShouldVerifySubscriptionWeekIsInRangeForPregnancy
+Wed May 16 06:19:11 UTC 2018: No link for: org.motechproject.ghana.telco.domain.ProgramTypeTest-shouldConvertMonthsToWeeks
+Wed May 16 06:19:12 UTC 2018: No link for: org.motechproject.ghana.telco.domain.ProgramTypeTest-shouldThrowIllegalArgumentExceptionInCaseOfInvalidMonthNumberForChildCare
+Wed May 16 06:19:12 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.domain.ProgramTypeTest
+Wed May 16 06:19:12 UTC 2018: Found element on the queue
+Wed May 16 06:19:12 UTC 2018: Updating status
+Wed May 16 06:19:12 UTC 2018: Working
+Wed May 16 06:19:15 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.eventhandler.RollOverWaitScheduleEventHandlerTest
+Wed May 16 06:19:15 UTC 2018: Setting lastTestMethodIndex: 64829
+Wed May 16 06:19:15 UTC 2018: Starting linking
+Wed May 16 06:19:15 UTC 2018: No link for: org.motechproject.ghana.telco.eventhandler.RollOverWaitScheduleEventHandlerTest-shouldRollOverOrRetainSubscription
+Wed May 16 06:19:16 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.eventhandler.RollOverWaitScheduleEventHandlerTest
+Wed May 16 06:19:16 UTC 2018: Found element on the queue
+Wed May 16 06:19:16 UTC 2018: Updating status
+Wed May 16 06:19:16 UTC 2018: Working
+Wed May 16 06:19:19 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.eventhandler.ProgramMessageEventHandlerTest
+Wed May 16 06:19:19 UTC 2018: Setting lastTestMethodIndex: 64831
+Wed May 16 06:19:19 UTC 2018: Starting linking
+Wed May 16 06:19:19 UTC 2018: No link for: org.motechproject.ghana.telco.eventhandler.ProgramMessageEventHandlerTest-shouldUseSubscriptionMessageSenderAfterPickingRightSubscription
+Wed May 16 06:19:19 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.eventhandler.ProgramMessageEventHandlerTest
+Wed May 16 06:19:20 UTC 2018: Found element on the queue
+Wed May 16 06:19:20 UTC 2018: Updating status
+Wed May 16 06:19:20 UTC 2018: Working
+Wed May 16 06:19:22 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.eventhandler.IncomingMessageListenerTest
+Wed May 16 06:19:22 UTC 2018: Setting lastTestMethodIndex: 64833
+Wed May 16 06:19:22 UTC 2018: Starting linking
+Wed May 16 06:19:22 UTC 2018: Code found org.motechproject.ghana.telco.eventhandler.IncomingMessageListener-processIncomingMessage with org.motechproject.ghana.telco.eventhandler.IncomingMessageListenerTest-shouldProcessIncomingMessages
+Wed May 16 06:19:23 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.eventhandler.IncomingMessageListenerTest
+Wed May 16 06:19:23 UTC 2018: Found element on the queue
+Wed May 16 06:19:23 UTC 2018: Updating status
+Wed May 16 06:19:23 UTC 2018: Working
+Wed May 16 06:19:27 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.controller.SubscriptionControllerTest
+Wed May 16 06:19:27 UTC 2018: Setting lastTestMethodIndex: 64836
+Wed May 16 06:19:27 UTC 2018: Starting linking
+Wed May 16 06:19:27 UTC 2018: Code found org.motechproject.ghana.telco.controller.SubscriptionController-unRegister with org.motechproject.ghana.telco.controller.SubscriptionControllerTest-shouldUnregisterUserFromGivenProgram
+Wed May 16 06:19:27 UTC 2018: Code found org.motechproject.ghana.telco.controller.SubscriptionController-rollover with org.motechproject.ghana.telco.controller.SubscriptionControllerTest-shouldRolloverUserFromGivenProgram
+Wed May 16 06:19:27 UTC 2018: No link for: org.motechproject.ghana.telco.controller.SubscriptionControllerTest-ShouldParseAndValidateInputMessage
+Wed May 16 06:19:28 UTC 2018: No link for: org.motechproject.ghana.telco.controller.SubscriptionControllerTest-shouldFilterSubscriptionsBasedOnParam
+Wed May 16 06:19:28 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.controller.SubscriptionControllerTest
+Wed May 16 06:19:29 UTC 2018: Found element on the queue
+Wed May 16 06:19:29 UTC 2018: Updating status
+Wed May 16 06:19:29 UTC 2018: Working
+Wed May 16 06:19:32 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.sms.TelcoServiceTest
+Wed May 16 06:19:32 UTC 2018: Setting lastTestMethodIndex: 64838
+Wed May 16 06:19:32 UTC 2018: Starting linking
+Wed May 16 06:19:32 UTC 2018: Code found org.motechproject.ghana.telco.sms.TelcoService-send with org.motechproject.ghana.telco.sms.TelcoServiceTest-shouldSendSMSToTheGateWay
+Wed May 16 06:19:32 UTC 2018: No link for: org.motechproject.ghana.telco.sms.TelcoServiceTest-shouldVerifyTheDeliveryTime
+Wed May 16 06:19:32 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.sms.TelcoServiceTest
+Wed May 16 06:19:33 UTC 2018: Found element on the queue
+Wed May 16 06:19:33 UTC 2018: Updating status
+Wed May 16 06:19:33 UTC 2018: Working
+Wed May 16 06:19:36 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.service.SMSHandlerTest
+Wed May 16 06:19:36 UTC 2018: Setting lastTestMethodIndex: 64840
+Wed May 16 06:19:36 UTC 2018: Starting linking
+Wed May 16 06:19:36 UTC 2018: Code found org.motechproject.ghana.telco.service.SMSHandler-stop with org.motechproject.ghana.telco.service.SMSHandlerTest-ShouldStopIfSubscriberSendsStop
+Wed May 16 06:19:36 UTC 2018: Code found org.motechproject.ghana.telco.service.SMSHandler-register with org.motechproject.ghana.telco.service.SMSHandlerTest-ShouldRegisterSubscriberForProgram
+Wed May 16 06:19:36 UTC 2018: No link for: org.motechproject.ghana.telco.service.SMSHandlerTest-ShouldSendMessageIfInvalidProgramExceptionHappensInCallRetainOrRollOverSMS
+Wed May 16 06:19:37 UTC 2018: No link for: org.motechproject.ghana.telco.service.SMSHandlerTest-ShouldCallRetainOrRollOverIfSubscriberSendsRetainOrRollOverSMS
+Wed May 16 06:19:37 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.service.SMSHandlerTest
+Wed May 16 06:19:38 UTC 2018: Found element on the queue
+Wed May 16 06:19:38 UTC 2018: Updating status
+Wed May 16 06:19:38 UTC 2018: Working
+Wed May 16 06:19:40 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.service.UserServiceTest
+Wed May 16 06:19:40 UTC 2018: Setting lastTestMethodIndex: 64843
+Wed May 16 06:19:40 UTC 2018: Starting linking
+Wed May 16 06:19:41 UTC 2018: No link for: org.motechproject.ghana.telco.service.UserServiceTest-shouldCreateTeloUser
+Wed May 16 06:19:41 UTC 2018: No link for: org.motechproject.ghana.telco.service.UserServiceTest-shouldResetThePassword
+Wed May 16 06:19:41 UTC 2018: No link for: org.motechproject.ghana.telco.service.UserServiceTest-shouldFindAllUserByNameAndPassword
+Wed May 16 06:19:42 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.service.UserServiceTest
+Wed May 16 06:19:42 UTC 2018: Found element on the queue
+Wed May 16 06:19:42 UTC 2018: Updating status
+Wed May 16 06:19:42 UTC 2018: Working
+Wed May 16 06:19:45 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.service.SubscriptionServiceImplTest
+Wed May 16 06:19:45 UTC 2018: Setting lastTestMethodIndex: 64846
+Wed May 16 06:19:45 UTC 2018: Starting linking
+Wed May 16 06:19:45 UTC 2018: Code found org.motechproject.ghana.telco.process.CampaignProcess-rollOver with org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldNotInvokeRollOverIfValidationIsNotSuccessful
+Wed May 16 06:19:45 UTC 2018: Code found org.motechproject.ghana.telco.process.CampaignProcess-rollOver with org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldRollOverDuringDuringProcessAfterEvent
+Wed May 16 06:19:46 UTC 2018: Code found org.motechproject.ghana.telco.process.CampaignProcess-retainExistingChildCare with org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldRetainExistingChildCareProgramForContinueWithExistingChildCareResponse
+Wed May 16 06:19:46 UTC 2018: Code found org.motechproject.ghana.telco.process.CampaignProcess-rollOver with org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldInvokeAllProcessInvolvedInRollOverProcessForEvent
+Wed May 16 06:19:46 UTC 2018: Code found org.motechproject.ghana.telco.process.CampaignProcess-rollOverToNewChildCareProgram with org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldRollOverToNewChildCareProgramForUserResponse
+Wed May 16 06:19:47 UTC 2018: Code found org.motechproject.ghana.telco.process.CampaignProcess-rollOver with org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldInvokeRollOverIfValidationIsSuccessful
+Wed May 16 06:19:47 UTC 2018: No link for: org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldGetAllActiveSubscriptions
+Wed May 16 06:19:48 UTC 2018: No link for: org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldNotInvokeAllStopProcessByUserIfValidationFailsInFindingSubscriptionToStop
+Wed May 16 06:19:48 UTC 2018: No link for: org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldCallAllProcessInvolvedOnNoErrorsDuringStartSubscription
+Wed May 16 06:19:48 UTC 2018: No link for: org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldStopIfSubscriptionIsCompletedAndCannotRollOffDuringProcessAfterEvent
+Wed May 16 06:19:49 UTC 2018: No link for: org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldInvokeAllProcessInvolvedInStopProcessByUser
+Wed May 16 06:19:49 UTC 2018: No link for: org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldCallAllProcessInvolvedOnNoErrorsDuringStopSubscription
+Wed May 16 06:19:50 UTC 2018: No link for: org.motechproject.ghana.telco.service.SubscriptionServiceImplTest-shouldFindSubscriptionByMobileNumberUsingRepository
+Wed May 16 06:19:50 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.service.SubscriptionServiceImplTest
+Wed May 16 06:19:51 UTC 2018: Found element on the queue
+Wed May 16 06:19:51 UTC 2018: Updating status
+Wed May 16 06:19:51 UTC 2018: Working
+Wed May 16 06:19:53 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.service.SMSServiceTest
+Wed May 16 06:19:53 UTC 2018: Setting lastTestMethodIndex: 64850
+Wed May 16 06:19:53 UTC 2018: Starting linking
+Wed May 16 06:19:53 UTC 2018: Code found org.motechproject.ghana.telco.service.SMSService-send with org.motechproject.ghana.telco.service.SMSServiceTest-ShouldSendSMSAndAudit
+Wed May 16 06:19:54 UTC 2018: Code found org.motechproject.ghana.telco.service.SMSService-send with org.motechproject.ghana.telco.service.SMSServiceTest-ShouldSendSMSAndAuditWithoutProgramType
+Wed May 16 06:19:54 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.service.SMSServiceTest
+Wed May 16 06:19:54 UTC 2018: Found element on the queue
+Wed May 16 06:19:54 UTC 2018: Updating status
+Wed May 16 06:19:54 UTC 2018: Working
+Wed May 16 06:19:57 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.process.PersistenceProcessTest
+Wed May 16 06:19:57 UTC 2018: Setting lastTestMethodIndex: 64852
+Wed May 16 06:19:57 UTC 2018: Starting linking
+Wed May 16 06:19:57 UTC 2018: No code found org.motechproject.ghana.telco.repository.AllSubscriptions-update with org.motechproject.ghana.telco.process.PersistenceProcessTest-shouldUpdateSubscriptionOfPregnancyToExpiredStatus_IfUserWantsToRetainExistingChildCareProgram
+Wed May 16 06:19:58 UTC 2018: No code found org.motechproject.ghana.telco.repository.AllSubscriptions-update with org.motechproject.ghana.telco.process.PersistenceProcessTest-shouldUpdateSubscriptionStateAsSuspendedAndSaveItOnEnding
+Wed May 16 06:19:58 UTC 2018: No code found org.motechproject.ghana.telco.repository.AllSubscriptions-update with org.motechproject.ghana.telco.process.PersistenceProcessTest-shouldUpdateSubscriptionStateToWaitingForResponseAndTargetSubscriptionShouldNotBeSaved
+Wed May 16 06:19:58 UTC 2018: No code found org.motechproject.ghana.telco.repository.AllSubscriptions-update with org.motechproject.ghana.telco.process.PersistenceProcessTest-shouldUpdateExistingChildCareSubscriptionToExpiredStatusAndUpdateRollOverPregnancySubscription_IfUserWantsToStopTheExistingChildCareProgram
+Wed May 16 06:19:59 UTC 2018: No code found org.motechproject.ghana.telco.repository.AllSubscriptions-update with org.motechproject.ghana.telco.process.PersistenceProcessTest-shouldUpdateSubscriptionStateAndSaveItOnEnding
+Wed May 16 06:19:59 UTC 2018: No code found org.motechproject.ghana.telco.repository.AllSubscriptions-update with org.motechproject.ghana.telco.process.PersistenceProcessTest-shouldUpdateSubscriptionStateOfSourceAndTargetSubscription
+Wed May 16 06:20:00 UTC 2018: No link for: org.motechproject.ghana.telco.process.PersistenceProcessTest-shouldUpdateSubscriptionStateAndSaveItAndSubscriber
+Wed May 16 06:20:00 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.process.PersistenceProcessTest
+Wed May 16 06:20:00 UTC 2018: Found element on the queue
+Wed May 16 06:20:00 UTC 2018: Updating status
+Wed May 16 06:20:00 UTC 2018: Working
+Wed May 16 06:20:03 UTC 2018: Start motech__GHANA-TELCO test class org.motechproject.ghana.telco.process.RollOverWaitScheduleTest
+Wed May 16 06:20:03 UTC 2018: Setting lastTestMethodIndex: 64854
+Wed May 16 06:20:03 UTC 2018: Starting linking
+Wed May 16 06:20:03 UTC 2018: No link for: org.motechproject.ghana.telco.process.RollOverWaitScheduleTest-shouldStopSchedule
+Wed May 16 06:20:03 UTC 2018: No link for: org.motechproject.ghana.telco.process.RollOverWaitScheduleTest-shouldCreateRunOnceSchedule
+Wed May 16 06:20:04 UTC 2018: Linking done for motech__GHANA-TELCO test class org.motechproject.ghana.telco.process.RollOverWaitScheduleTest

@@ -1,0 +1,696 @@
+Wed May 16 03:40:39 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 03:40:39 UTC 2018: Starting
+Wed May 16 03:40:40 UTC 2018: Found element on the queue
+Wed May 16 03:40:40 UTC 2018: Updating status
+Wed May 16 03:40:40 UTC 2018: Working
+Wed May 16 03:40:40 UTC 2018: Create project parser
+Wed May 16 03:40:46 UTC 2018: Create slicer
+Wed May 16 03:40:46 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1010792557
+Wed May 16 03:40:47 UTC 2018: Create call graph
+Wed May 16 03:40:51 UTC 2018: Create point analysis
+Wed May 16 03:40:51 UTC 2018: Create call graph done
+Wed May 16 03:40:51 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT
+Wed May 16 03:40:51 UTC 2018: Setting lastTestMethodIndex: 59889
+Wed May 16 03:40:51 UTC 2018: Starting linking
+Wed May 16 03:40:51 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-moreStatementsFromOneConnection
+Wed May 16 03:40:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-setAutoCommitShouldWorkAfterMultipleChanges
+Wed May 16 03:40:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-killingQueryThreadExecutionShouldNotInvalidateTheConnection
+Wed May 16 03:40:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-shouldRollbackAnEmptyTransaction
+Wed May 16 03:40:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-multipleRunShouldNotFail
+Wed May 16 03:40:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-setAutoCommitShouldCommitFromFalseToTrue
+Wed May 16 03:40:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-getMetaDataShouldWork
+Wed May 16 03:40:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-commitShouldWorkFine
+Wed May 16 03:40:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-rollbackShouldWorkFine
+Wed May 16 03:40:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT-autoCommitShouldWorkFine
+Wed May 16 03:40:55 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jConnectionIT
+Wed May 16 03:40:55 UTC 2018: Found element on the queue
+Wed May 16 03:40:55 UTC 2018: Updating status
+Wed May 16 03:40:55 UTC 2018: Working
+Wed May 16 03:40:58 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT
+Wed May 16 03:40:58 UTC 2018: Setting lastTestMethodIndex: 59894
+Wed May 16 03:40:58 UTC 2018: Starting linking
+Wed May 16 03:40:58 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldAuthenticate
+Wed May 16 03:40:58 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldNotAuthenticateBecauseOfABadPassword
+Wed May 16 03:40:59 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldAuthenticateUsernameUser
+Wed May 16 03:40:59 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldAuthenticateUserUsername
+Wed May 16 03:40:59 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldAuthenticateUsername
+Wed May 16 03:41:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldAuthenticateDefaultUser
+Wed May 16 03:41:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldNotAuthenticateBecauseNoUserAndPasswordAreProvided
+Wed May 16 03:41:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldNotAuthenticateBecauseNoPasswordIsProvided
+Wed May 16 03:41:01 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldNotAuthenticateBecauseOfABadUserAndPassword
+Wed May 16 03:41:01 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT-shouldNotAuthenticateBecauseOfABadUser
+Wed May 16 03:41:01 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jAuthenticationIT
+Wed May 16 03:41:02 UTC 2018: Found element on the queue
+Wed May 16 03:41:02 UTC 2018: Updating status
+Wed May 16 03:41:02 UTC 2018: Working
+Wed May 16 03:41:04 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.SampleIT
+Wed May 16 03:41:04 UTC 2018: Setting lastTestMethodIndex: 59898
+Wed May 16 03:41:04 UTC 2018: Starting linking
+Wed May 16 03:41:04 UTC 2018: No link for: org.neo4j.jdbc.bolt.SampleIT-exampleTestInMemory
+Wed May 16 03:41:04 UTC 2018: No link for: org.neo4j.jdbc.bolt.SampleIT-shouldSimpleServerTestSucceed
+Wed May 16 03:41:05 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.SampleIT
+Wed May 16 03:41:05 UTC 2018: Found element on the queue
+Wed May 16 03:41:05 UTC 2018: Updating status
+Wed May 16 03:41:05 UTC 2018: Working
+Wed May 16 03:41:07 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT
+Wed May 16 03:41:08 UTC 2018: Setting lastTestMethodIndex: 59900
+Wed May 16 03:41:08 UTC 2018: Starting linking
+Wed May 16 03:41:08 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-shouldNotAddVirtualColumnsOnNodeIfNotOnlyNodes
+Wed May 16 03:41:08 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-getColumnTypeShouldSucceed
+Wed May 16 03:41:08 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-shouldAddVirtualColumnsOnNodeWithMultipleNodes
+Wed May 16 03:41:09 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-shouldAddVirtualColumnsOnRelationsAndNodesWithMultiple
+Wed May 16 03:41:09 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-shouldAddVirtualColumnsOnNodeAndPreserveResultSet
+Wed May 16 03:41:09 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-shouldAddVirtualColumnsOnRelationsWithMultipleRelations
+Wed May 16 03:41:10 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-flatteningShouldBeDisabledByDefault
+Wed May 16 03:41:10 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-getColumnTypeNameShouldBeCorrectAfterFlattening
+Wed May 16 03:41:10 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT-getColumnClassNameShouldBeCorrectAfterFlattening
+Wed May 16 03:41:11 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataIT
+Wed May 16 03:41:11 UTC 2018: Found element on the queue
+Wed May 16 03:41:11 UTC 2018: Updating status
+Wed May 16 03:41:11 UTC 2018: Working
+Wed May 16 03:41:14 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetIT
+Wed May 16 03:41:14 UTC 2018: Setting lastTestMethodIndex: 59903
+Wed May 16 03:41:14 UTC 2018: Starting linking
+Wed May 16 03:41:14 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetIT-shouldGetRowReturnValidNumbers
+Wed May 16 03:41:14 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetIT-findColumnShouldWorkWithFlattening
+Wed May 16 03:41:15 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetIT-flatteningNumberWorkingAllRows
+Wed May 16 03:41:15 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetIT-flatteningNumberWorking
+Wed May 16 03:41:16 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetIT-flatteningNumberWorkingMoreRows
+Wed May 16 03:41:16 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetIT
+Wed May 16 03:41:16 UTC 2018: Found element on the queue
+Wed May 16 03:41:16 UTC 2018: Updating status
+Wed May 16 03:41:16 UTC 2018: Working
+Wed May 16 03:41:19 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaDataTest
+Wed May 16 03:41:19 UTC 2018: Setting lastTestMethodIndex: 59907
+Wed May 16 03:41:19 UTC 2018: Starting linking
+Wed May 16 03:41:19 UTC 2018: No code found org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaData-getConnection with org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaDataTest-getConnectionShouldGetConnection
+Wed May 16 03:41:19 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaDataTest
+Wed May 16 03:41:20 UTC 2018: Found element on the queue
+Wed May 16 03:41:20 UTC 2018: Updating status
+Wed May 16 03:41:20 UTC 2018: Working
+Wed May 16 03:41:22 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jDataSourceIT
+Wed May 16 03:41:22 UTC 2018: Setting lastTestMethodIndex: 59910
+Wed May 16 03:41:22 UTC 2018: Starting linking
+Wed May 16 03:41:22 UTC 2018: Code found org.neo4j.jdbc.bolt.BoltNeo4jDataSource-getConnection with org.neo4j.jdbc.bolt.BoltNeo4jDataSourceIT-getConnectionShouldWork
+Wed May 16 03:41:23 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jDataSourceIT
+Wed May 16 03:41:23 UTC 2018: Found element on the queue
+Wed May 16 03:41:23 UTC 2018: Updating status
+Wed May 16 03:41:23 UTC 2018: Working
+Wed May 16 03:41:26 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest
+Wed May 16 03:41:26 UTC 2018: Setting lastTestMethodIndex: 59913
+Wed May 16 03:41:26 UTC 2018: Starting linking
+Wed May 16 03:41:26 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getLongByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:26 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getTypeShouldReturnCorrectType
+Wed May 16 03:41:26 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByLabelShouldReturnArray
+Wed May 16 03:41:27 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getLongByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:27 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getFloatByLabelShouldReturnFloat
+Wed May 16 03:41:27 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-wasNullShouldThrowExceptionOnClosedResultSet
+Wed May 16 03:41:28 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getLongByLabelShouldReturnLong
+Wed May 16 03:41:28 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:28 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:29 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getConcurrencyShouldReturnCorrectConcurrency
+Wed May 16 03:41:29 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-findColumnShouldReturnCorrectIndexOnDifferentColumns
+Wed May 16 03:41:29 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-findColumnShouldThrowExceptionOnClosedResultSet
+Wed May 16 03:41:30 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectByLabelShouldReturnObject
+Wed May 16 03:41:30 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getLongByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:30 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getShortByIndexShouldReturnShort
+Wed May 16 03:41:31 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:31 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringShouldReturnStringOnRelationship
+Wed May 16 03:41:31 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getDoubleByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:32 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByLabelShouldReturnCorrectVirtualColumn
+Wed May 16 03:41:32 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getHoldabilityShouldThrowExceptionOnClosedRS
+Wed May 16 03:41:32 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:33 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getBooleanByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:33 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getBooleanShouldReturnFalseForNull
+Wed May 16 03:41:33 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectByIndexShouldReturnObject
+Wed May 16 03:41:34 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByIndexShouldReturnArray
+Wed May 16 03:41:34 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getDoubleShouldReturnZeroForNull
+Wed May 16 03:41:34 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:35 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:35 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getShortByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:35 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getBooleanByLabelShouldReturnBoolean
+Wed May 16 03:41:36 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getBooleanByIndexShouldReturnBoolean
+Wed May 16 03:41:36 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByIndexShouldReturnCorrectVirtualColumn
+Wed May 16 03:41:36 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringShouldReturnStringOnNode
+Wed May 16 03:41:37 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getShortByLabelShouldReturnShort
+Wed May 16 03:41:37 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getConcurrencyShouldThrowExceptionOnClosedRS
+Wed May 16 03:41:37 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getFloatByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:38 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-findColumnShouldReturnCorrectIndex
+Wed May 16 03:41:38 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getFloatByIndexShouldReturnFloat
+Wed May 16 03:41:38 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByLabelShouldReturnInt
+Wed May 16 03:41:39 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getFloatByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:39 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:39 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getDoubleByIndexShouldReturnDouble
+Wed May 16 03:41:40 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getDoubleByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:40 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByIndexShouldReturnString
+Wed May 16 03:41:40 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-wasNullShouldReturnFalse
+Wed May 16 03:41:41 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:41 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByIndexShouldReturnInt
+Wed May 16 03:41:41 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getShortByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:42 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getFloatByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:42 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getShortByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:42 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:43 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getBooleanByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:43 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getShortByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:43 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getDoubleByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:44 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getLongShouldReturnZeroForNull
+Wed May 16 03:41:44 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:44 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getBooleanByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:45 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:45 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntShouldReturnZeroForNull
+Wed May 16 03:41:45 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByLabelShouldReturnCorrectVirtualColumn
+Wed May 16 03:41:46 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getShortShouldReturnZeroForNull
+Wed May 16 03:41:46 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:46 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getLongByIndexShouldReturnLong
+Wed May 16 03:41:47 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getLongByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:47 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:47 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:48 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getHoldabilityShouldReturnCorrectHoldability
+Wed May 16 03:41:48 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getBooleanByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:48 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:49 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getShortByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:49 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getBooleanByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:49 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByLabelShouldReturnCorrectVirtualColumn
+Wed May 16 03:41:49 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:50 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectShouldReturnCorrectNodeAsMap
+Wed May 16 03:41:50 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectShouldReturnCorrectPathAsMap
+Wed May 16 03:41:50 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:51 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-wasNullShouldReturnTrue
+Wed May 16 03:41:51 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getFloatShouldReturnZeroForNull
+Wed May 16 03:41:51 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getFloatByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectShouldReturnCorrectRelationsAsMap
+Wed May 16 03:41:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByIndexShouldReturnCorrectVirtualColumn
+Wed May 16 03:41:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getFloatByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringShouldReturnStringOnPath
+Wed May 16 03:41:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getDoubleByIndexShouldThrowExceptionNoIndex
+Wed May 16 03:41:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getLongByIndexShouldThrowExceptionClosed
+Wed May 16 03:41:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getTypeShouldThrowExceptionOnClosedRS
+Wed May 16 03:41:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getIntByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getObjectByIndexShouldThrowExceptionNoIndexZero
+Wed May 16 03:41:55 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getDoubleByLabelShouldThrowExceptionNoLabel
+Wed May 16 03:41:55 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByLabelShouldThrowExceptionClosed
+Wed May 16 03:41:55 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getArrayByIndexShouldReturnCorrectVirtualColumn
+Wed May 16 03:41:56 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-findColumnShouldThrowExceptionOnWrongLabel
+Wed May 16 03:41:56 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getStringByLabelShouldReturnString
+Wed May 16 03:41:56 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest-getDoubleByLabelShouldReturnDouble
+Wed May 16 03:41:57 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetGettersTest
+Wed May 16 03:41:57 UTC 2018: Found element on the queue
+Wed May 16 03:41:57 UTC 2018: Updating status
+Wed May 16 03:41:57 UTC 2018: Working
+Wed May 16 03:42:00 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetTest
+Wed May 16 03:42:00 UTC 2018: Setting lastTestMethodIndex: 59932
+Wed May 16 03:42:00 UTC 2018: Starting linking
+Wed May 16 03:42:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetTest-isClosedReturnTrueWhenConnectionClosed
+Wed May 16 03:42:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetTest-closeShouldThrowExceptionIfIteratorIsNull
+Wed May 16 03:42:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetTest-isClosedReturnFalseWhenConnectionOpen
+Wed May 16 03:42:01 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetTest
+Wed May 16 03:42:01 UTC 2018: Found element on the queue
+Wed May 16 03:42:01 UTC 2018: Updating status
+Wed May 16 03:42:01 UTC 2018: Working
+Wed May 16 03:42:04 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT
+Wed May 16 03:42:04 UTC 2018: Setting lastTestMethodIndex: 59935
+Wed May 16 03:42:04 UTC 2018: Starting linking
+Wed May 16 03:42:04 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT-executeShouldExecuteAndReturnFalse
+Wed May 16 03:42:04 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT-executeBatchShouldWorkWhenError
+Wed May 16 03:42:05 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT-executeQueryWithNamedParamShouldExecuteAndReturnCorrectData
+Wed May 16 03:42:05 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT-executeUpdateShouldExecuteAndReturnCorrectData
+Wed May 16 03:42:05 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT-executeShouldExecuteAndReturnTrue
+Wed May 16 03:42:06 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT-executeQueryShouldExecuteAndReturnCorrectData
+Wed May 16 03:42:06 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT-executeBatchShouldWork
+Wed May 16 03:42:06 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT-executeBatchShouldWorkWithTransaction
+Wed May 16 03:42:07 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementIT
+Wed May 16 03:42:07 UTC 2018: Found element on the queue
+Wed May 16 03:42:07 UTC 2018: Updating status
+Wed May 16 03:42:07 UTC 2018: Working
+Wed May 16 03:42:10 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest
+Wed May 16 03:42:10 UTC 2018: Setting lastTestMethodIndex: 59939
+Wed May 16 03:42:10 UTC 2018: Starting linking
+Wed May 16 03:42:10 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnLabelShouldThrowExceptionWhenEmptyCursor
+Wed May 16 03:42:10 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnNameShouldThrowExceptionIfCursorNull
+Wed May 16 03:42:10 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnLabelShouldThrowExceptionWhenColumnOutOfRange
+Wed May 16 03:42:11 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnLabelShouldThrowExceptionIfCursorNull
+Wed May 16 03:42:11 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getCatalogNameShouldReturnEmptyString
+Wed May 16 03:42:11 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-flatteningTestWorking
+Wed May 16 03:42:12 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnNameShouldThrowExceptionWhenEmptyCursor
+Wed May 16 03:42:12 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnClassNameTest
+Wed May 16 03:42:12 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnTypeTest
+Wed May 16 03:42:13 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnNameShouldReturnCorrectColumnName
+Wed May 16 03:42:13 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnNameShouldThrowExceptionWhenColumnOutOfRange
+Wed May 16 03:42:13 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnsCountShouldReturnCorrectNumberMoreElements
+Wed May 16 03:42:14 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnLabelShouldReturnCorrectColumnName
+Wed May 16 03:42:14 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getColumnsCountShouldReturnCorrectNumberEmpty
+Wed May 16 03:42:14 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest-getSchemaNameShouldReturnDefaultValue
+Wed May 16 03:42:15 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jResultSetMetaDataTest
+Wed May 16 03:42:15 UTC 2018: Found element on the queue
+Wed May 16 03:42:15 UTC 2018: Updating status
+Wed May 16 03:42:15 UTC 2018: Working
+Wed May 16 03:42:18 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jDriverTest
+Wed May 16 03:42:18 UTC 2018: Setting lastTestMethodIndex: 59944
+Wed May 16 03:42:18 UTC 2018: Starting linking
+Wed May 16 03:42:18 UTC 2018: Code found org.neo4j.jdbc.bolt.BoltDriver-connect with org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldConnectCreateConnectionWithNoAuthTokenWithPropertiesObjectWithoutUserAndPassword
+Wed May 16 03:42:18 UTC 2018: Code found org.neo4j.jdbc.bolt.BoltDriver-connect with org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldConnectThrowExceptionOnNullURL
+Wed May 16 03:42:18 UTC 2018: Code found org.neo4j.jdbc.bolt.BoltDriver-connect with org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldConnectThrowExceptionOnConnectionFailed
+Wed May 16 03:42:19 UTC 2018: Code found org.neo4j.jdbc.bolt.BoltDriver-connect with org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldConnectCreateConnection
+Wed May 16 03:42:19 UTC 2018: Code found org.neo4j.jdbc.bolt.BoltDriver-connect with org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldConnectReturnNullIfUrlNotValid
+Wed May 16 03:42:19 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptTrustStrategyParamsTrustSignedFileOk
+Wed May 16 03:42:20 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldThrowException
+Wed May 16 03:42:20 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptTrustStrategyParamsCustomCertificateWithoutFile
+Wed May 16 03:42:20 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptTrustStrategyParamsSystemCertificates
+Wed May 16 03:42:21 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptTrustStrategyParamsCustomCertificateWithFileOk
+Wed May 16 03:42:21 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptTrustStrategyParamsTrustFirstUseWithoutFile
+Wed May 16 03:42:21 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptURLOK
+Wed May 16 03:42:22 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptTrustStrategyParamsTrustSignedWithoutFile
+Wed May 16 03:42:22 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptTrustStrategyParamsTrustFirstUseFileOk
+Wed May 16 03:42:22 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldAcceptURLKO
+Wed May 16 03:42:22 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDriverTest-shouldThrowExceptionIfWrongValueTrustStrategyParam
+Wed May 16 03:42:23 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jDriverTest
+Wed May 16 03:42:23 UTC 2018: Found element on the queue
+Wed May 16 03:42:23 UTC 2018: Updating status
+Wed May 16 03:42:23 UTC 2018: Working
+Wed May 16 03:42:25 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jStatementIT
+Wed May 16 03:42:25 UTC 2018: Setting lastTestMethodIndex: 59949
+Wed May 16 03:42:25 UTC 2018: Starting linking
+Wed May 16 03:42:25 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeUpdateShouldExecuteAndReturnCorrectData
+Wed May 16 03:42:26 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeQueryShouldExecuteAndReturnCorrectData
+Wed May 16 03:42:26 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeShouldExecuteAndReturnTrue
+Wed May 16 03:42:26 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeBadCypherQueryWithoutAutoCommitShouldReturnAnSQLException
+Wed May 16 03:42:27 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeShouldExecuteAndReturnFalse
+Wed May 16 03:42:27 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeBadCypherQueryOnAutoCommitShouldReturnAnSQLException
+Wed May 16 03:42:27 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeQueryShouldExecuteAndReturnCorrectDataOnAutoCommitFalseStatementAndCreatedWithParams
+Wed May 16 03:42:28 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-closeShouldNotCloseTransaction
+Wed May 16 03:42:28 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeBatchShouldWorkWhenError
+Wed May 16 03:42:28 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeBatchShouldWorkWithTransaction
+Wed May 16 03:42:29 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeQueryShouldExecuteAndReturnCorrectDataOnAutoCommitFalseStatement
+Wed May 16 03:42:29 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jStatementIT-executeBatchShouldWork
+Wed May 16 03:42:30 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jStatementIT
+Wed May 16 03:42:30 UTC 2018: Found element on the queue
+Wed May 16 03:42:30 UTC 2018: Updating status
+Wed May 16 03:42:30 UTC 2018: Working
+Wed May 16 03:42:33 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaDataIT
+Wed May 16 03:42:33 UTC 2018: Setting lastTestMethodIndex: 59956
+Wed May 16 03:42:33 UTC 2018: Starting linking
+Wed May 16 03:42:33 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaDataIT-classShouldWorkIfTransactionIsAlreadyOpened
+Wed May 16 03:42:33 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaDataIT-getDatabaseVersionShouldBeOK
+Wed May 16 03:42:33 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaDataIT-getDatabaseLabelsShouldBeOK
+Wed May 16 03:42:34 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jDatabaseMetaDataIT
+Wed May 16 03:42:34 UTC 2018: Found element on the queue
+Wed May 16 03:42:34 UTC 2018: Updating status
+Wed May 16 03:42:34 UTC 2018: Working
+Wed May 16 03:42:37 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest
+Wed May 16 03:42:37 UTC 2018: Setting lastTestMethodIndex: 59959
+Wed May 16 03:42:37 UTC 2018: Starting linking
+Wed May 16 03:42:37 UTC 2018: No code found org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatement-getUpdateCount with org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getUpdateCountShouldReturnOne
+Wed May 16 03:42:37 UTC 2018: No code found org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatement-getUpdateCount with org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getUpdateCountShouldReturnMinusOne
+Wed May 16 03:42:37 UTC 2018: Code found org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatement-execute with org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeShouldRunQuery
+Wed May 16 03:42:38 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-clearParametersShouldThrowExceptionIfStatementClosed
+Wed May 16 03:42:38 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeQueryShouldThrowExceptionWhenClosedConnection
+Wed May 16 03:42:38 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-closeShouldNotCallCloseOnAnyResultSet
+Wed May 16 03:42:39 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setBooleanShouldInsertTheCorrectBooleanValue
+Wed May 16 03:42:39 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnRowId
+Wed May 16 03:42:39 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getUpdateCountShouldThrowExceptionOnClosedStatement
+Wed May 16 03:42:40 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getResultSetHoldabilityShouldThrowExceptionWhenCalledOnClosedStatement
+Wed May 16 03:42:40 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeQueryShouldThrowExceptionOnClosedStatement
+Wed May 16 03:42:40 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeUpdateShouldRun
+Wed May 16 03:42:41 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setLongShouldInsertTheCorrectLongValue
+Wed May 16 03:42:41 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-addBatchShouldThrowExceptionIfClosedStatement
+Wed May 16 03:42:41 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setObjectShouldThrowExceptionIfObjectIsNotSupported
+Wed May 16 03:42:42 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-closeShouldCloseExistingResultSet
+Wed May 16 03:42:42 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-clearBatchShouldWork
+Wed May 16 03:42:42 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setBooleanShouldOverrideOldValue
+Wed May 16 03:42:43 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getResultSetTypeShouldThrowExceptionWhenCalledOnClosedStatement
+Wed May 16 03:42:43 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeUpdateShouldThrowExceptionOnClosedConnection
+Wed May 16 03:42:43 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-isClosedShouldReturnFalseWhenCreated
+Wed May 16 03:42:44 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:42:44 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setDoubleShouldOverrideOldValue
+Wed May 16 03:42:44 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setIntShouldOverrideOldValue
+Wed May 16 03:42:45 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setLongShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:42:45 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setIntShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:42:45 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getResultSetShouldThrowExceptionOnClosedStatement
+Wed May 16 03:42:46 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setLongShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:42:46 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getResultSetShouldReturnNull
+Wed May 16 03:42:46 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setObjectShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:42:46 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setStringShouldInsertTheCorrectStringValue
+Wed May 16 03:42:47 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:42:47 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeNClob
+Wed May 16 03:42:47 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setFloatShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:42:48 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setShortShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:42:48 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setIntShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarkerTwoParams
+Wed May 16 03:42:48 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setObjectShouldOverrideOldValue
+Wed May 16 03:42:49 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getResultSetShouldNotReturnNull
+Wed May 16 03:42:49 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeJavaObject
+Wed May 16 03:42:49 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setObjectShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:42:50 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getConnectionShouldThrowExceptionOnClosedStatement
+Wed May 16 03:42:50 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeDatalink
+Wed May 16 03:42:50 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setLongShouldOverrideOldValue
+Wed May 16 03:42:50 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setFloatShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:42:51 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldInsertTheCorrectNullValue
+Wed May 16 03:42:51 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnSQLXML
+Wed May 16 03:42:51 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getResultSetConcurrencyShouldThrowExceptionWhenCalledOnClosedStatement
+Wed May 16 03:42:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-clearBatchShouldThrowExceptionIfClosedStatement
+Wed May 16 03:42:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setIntShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:42:52 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setDoubleShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:42:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeShouldThrowExceptionOnUpdateOnClosedConnection
+Wed May 16 03:42:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getConnectionShouldWork
+Wed May 16 03:42:53 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setFloatShouldInsertTheCorrectFloatValue
+Wed May 16 03:42:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setBooleanShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:42:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setDoubleShouldInsertTheCorrectDoubleValue
+Wed May 16 03:42:54 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setShortShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:42:55 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeNCVarchar
+Wed May 16 03:42:55 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setShortShouldOverrideOldValue
+Wed May 16 03:42:55 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeQueryShouldReturnCorrectResultSetStructureConnectionNotAutocommit
+Wed May 16 03:42:55 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnRef
+Wed May 16 03:42:56 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setIntShouldInsertTheCorrectIntegerValue
+Wed May 16 03:42:56 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeNChar
+Wed May 16 03:42:56 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeBlob
+Wed May 16 03:42:57 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeShouldThrowExceptionOnUpdateOnClosedStatement
+Wed May 16 03:42:57 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setStringShouldOverrideOldValue
+Wed May 16 03:42:57 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setStringShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:42:58 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setFloatShouldOverrideOldValue
+Wed May 16 03:42:58 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getParameterMetaDataShouldReturnANewParameterMetaData
+Wed May 16 03:42:58 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeArray
+Wed May 16 03:42:59 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeShouldThrowExceptionOnQueryOnClosedStatement
+Wed May 16 03:42:59 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setDoubleShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:42:59 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-addBatchShouldClearParameters
+Wed May 16 03:43:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeShouldThrowExceptionOnQueryOnClosedConnection
+Wed May 16 03:43:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeBatchShouldThrowExceptionOnError
+Wed May 16 03:43:00 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-clearParametersShouldDeleteAllParameters
+Wed May 16 03:43:01 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setStringShouldThrowExceptionIfClosedPreparedStatement
+Wed May 16 03:43:01 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeShouldRunUpdate
+Wed May 16 03:43:01 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-addBatchShouldAddParametersToStack
+Wed May 16 03:43:02 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setShortShouldInsertTheCorrectShortValue
+Wed May 16 03:43:02 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnStruct
+Wed May 16 03:43:02 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeBatchShouldThrowExceptionOnClosed
+Wed May 16 03:43:02 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeLongNVarchar
+Wed May 16 03:43:03 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeUpdateShouldThrowExceptionOnClosedStatement
+Wed May 16 03:43:03 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-closeMultipleTimesIsNOOP
+Wed May 16 03:43:03 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setObjectShouldInsertTheCorrectObjectValue
+Wed May 16 03:43:04 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setBooleanShouldThrowExceptionIfIndexDoesNotCorrespondToParameterMarker
+Wed May 16 03:43:04 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-executeBatchShouldWork
+Wed May 16 03:43:04 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-setNullShouldThrowExceptionNotSupportedOnTypeClob
+Wed May 16 03:43:05 UTC 2018: No link for: org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest-getParameterMetaDataShouldThrowExceptionIfCalledOnClosedStatement
+Wed May 16 03:43:05 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.bolt.BoltNeo4jPreparedStatementTest
+Wed May 16 03:43:05 UTC 2018: Found element on the queue
+Wed May 16 03:43:05 UTC 2018: Updating status
+Wed May 16 03:43:05 UTC 2018: Working
+Wed May 16 03:43:05 UTC 2018: Create project parser
+Wed May 16 03:43:08 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.DriverTestIT
+Wed May 16 03:43:08 UTC 2018: Setting lastTestMethodIndex: 59977
+Wed May 16 03:43:08 UTC 2018: Starting linking
+Wed May 16 03:43:08 UTC 2018: Code found org.neo4j.jdbc.Driver-connect with org.neo4j.jdbc.DriverTestIT-shouldReturnABoltConnection
+Wed May 16 03:43:09 UTC 2018: Code found org.neo4j.jdbc.Driver-connect with org.neo4j.jdbc.DriverTestIT-shouldReturnAHttpConnection2
+Wed May 16 03:43:09 UTC 2018: Code found org.neo4j.jdbc.Driver-connect with org.neo4j.jdbc.DriverTestIT-shouldReturnAHttpConnection
+Wed May 16 03:43:09 UTC 2018: Code found org.neo4j.jdbc.Driver-connect with org.neo4j.jdbc.DriverTestIT-shouldReturnAHttpsConnection
+Wed May 16 03:43:10 UTC 2018: No link for: org.neo4j.jdbc.DriverTestIT-shouldCallTheNextDriverWhenNonNeo4jUrl
+Wed May 16 03:43:10 UTC 2018: No link for: org.neo4j.jdbc.DriverTestIT-shouldReturnNullWithUrlThatContainsOnlyJDBC
+Wed May 16 03:43:10 UTC 2018: No link for: org.neo4j.jdbc.DriverTestIT-shouldReturnNullWithEmptyUrl
+Wed May 16 03:43:11 UTC 2018: No link for: org.neo4j.jdbc.DriverTestIT-shouldReturnNullWithBadUrl
+Wed May 16 03:43:11 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.DriverTestIT
+Wed May 16 03:43:11 UTC 2018: Found element on the queue
+Wed May 16 03:43:11 UTC 2018: Updating status
+Wed May 16 03:43:11 UTC 2018: Working
+Wed May 16 03:43:11 UTC 2018: Create project parser
+Wed May 16 03:43:14 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.example.mybatis.ActorManagerIT
+Wed May 16 03:43:14 UTC 2018: Setting lastTestMethodIndex: 59982
+Wed May 16 03:43:14 UTC 2018: Starting linking
+Wed May 16 03:43:14 UTC 2018: No link for: org.neo4j.jdbc.example.mybatis.ActorManagerIT-testMybatisViaHttp
+Wed May 16 03:43:14 UTC 2018: No link for: org.neo4j.jdbc.example.mybatis.ActorManagerIT-testMybatisViaBolt
+Wed May 16 03:43:15 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.example.mybatis.ActorManagerIT
+Wed May 16 03:43:15 UTC 2018: Found element on the queue
+Wed May 16 03:43:15 UTC 2018: Updating status
+Wed May 16 03:43:15 UTC 2018: Working
+Wed May 16 03:43:15 UTC 2018: Create project parser
+Wed May 16 03:43:18 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT
+Wed May 16 03:43:18 UTC 2018: Setting lastTestMethodIndex: 59984
+Wed May 16 03:43:18 UTC 2018: Starting linking
+Wed May 16 03:43:18 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT-executeWithUpdateStatementShouldRunAndReturnCorrectData
+Wed May 16 03:43:18 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT-executeQueryShouldRunAndReturnCorrectData
+Wed May 16 03:43:18 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT-executeBatchShouldWorkWhenError
+Wed May 16 03:43:19 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT-executeUpdateShouldRunAndReturnCorrectData
+Wed May 16 03:43:19 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT-executeWithReadOnlyStatementShouldRunAndReturnCorrectData
+Wed May 16 03:43:19 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT-executeBatchShouldWork
+Wed May 16 03:43:20 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT-executeBatchShouldWorkWithTransaction
+Wed May 16 03:43:20 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jPreparedStatementIT
+Wed May 16 03:43:21 UTC 2018: Found element on the queue
+Wed May 16 03:43:21 UTC 2018: Updating status
+Wed May 16 03:43:21 UTC 2018: Working
+Wed May 16 03:43:23 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jResultSetMetaDataTest
+Wed May 16 03:43:23 UTC 2018: Setting lastTestMethodIndex: 59987
+Wed May 16 03:43:23 UTC 2018: Starting linking
+Wed May 16 03:43:23 UTC 2018: Code found org.neo4j.jdbc.http.HttpNeo4jResultSetMetaData-getColumnType with org.neo4j.jdbc.http.HttpNeo4jResultSetMetaDataTest-getColumnTypeShouldReturnTheCorrectValue
+Wed May 16 03:43:23 UTC 2018: Code found org.neo4j.jdbc.http.HttpNeo4jResultSetMetaData-getColumnClassName with org.neo4j.jdbc.http.HttpNeo4jResultSetMetaDataTest-getColumnClassNameShouldReturnTheCorrectValue
+Wed May 16 03:43:24 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jResultSetMetaDataTest
+Wed May 16 03:43:24 UTC 2018: Found element on the queue
+Wed May 16 03:43:24 UTC 2018: Updating status
+Wed May 16 03:43:24 UTC 2018: Working
+Wed May 16 03:43:27 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.driver.CypherExecutorTest
+Wed May 16 03:43:27 UTC 2018: Setting lastTestMethodIndex: 59989
+Wed May 16 03:43:27 UTC 2018: Starting linking
+Wed May 16 03:43:27 UTC 2018: Code found org.neo4j.jdbc.http.driver.CypherExecutor-getTransactionId with org.neo4j.jdbc.http.driver.CypherExecutorTest-getTransactionIdShouldReturnNegativeId
+Wed May 16 03:43:27 UTC 2018: Code found org.neo4j.jdbc.http.driver.CypherExecutor-getTransactionId with org.neo4j.jdbc.http.driver.CypherExecutorTest-getTransactionIdShouldReturnCorrectId
+Wed May 16 03:43:27 UTC 2018: No link for: org.neo4j.jdbc.http.driver.CypherExecutorTest-executeQueryOnDownServerShouldFail
+Wed May 16 03:43:28 UTC 2018: No link for: org.neo4j.jdbc.http.driver.CypherExecutorTest-executeEmptyQueryShouldFail
+Wed May 16 03:43:28 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.driver.CypherExecutorTest
+Wed May 16 03:43:28 UTC 2018: Found element on the queue
+Wed May 16 03:43:28 UTC 2018: Updating status
+Wed May 16 03:43:28 UTC 2018: Working
+Wed May 16 03:43:31 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.driver.Neo4jResponseTest
+Wed May 16 03:43:31 UTC 2018: Setting lastTestMethodIndex: 59993
+Wed May 16 03:43:31 UTC 2018: Starting linking
+Wed May 16 03:43:31 UTC 2018: Code found org.neo4j.jdbc.http.driver.Neo4jResponse-hasErrors with org.neo4j.jdbc.http.driver.Neo4jResponseTest-hasErrorShoudlReturnTrue
+Wed May 16 03:43:31 UTC 2018: Code found org.neo4j.jdbc.http.driver.Neo4jResponse-hasErrors with org.neo4j.jdbc.http.driver.Neo4jResponseTest-hasErrorShoudlReturnFalse
+Wed May 16 03:43:32 UTC 2018: Code found org.neo4j.jdbc.http.driver.Neo4jResponse-displayErrors with org.neo4j.jdbc.http.driver.Neo4jResponseTest-displayErrorShouldSucceed
+Wed May 16 03:43:32 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.driver.Neo4jResponseTest
+Wed May 16 03:43:32 UTC 2018: Found element on the queue
+Wed May 16 03:43:32 UTC 2018: Updating status
+Wed May 16 03:43:32 UTC 2018: Working
+Wed May 16 03:43:35 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.driver.CypherExecutorIT
+Wed May 16 03:43:35 UTC 2018: Setting lastTestMethodIndex: 59995
+Wed May 16 03:43:35 UTC 2018: Starting linking
+Wed May 16 03:43:35 UTC 2018: Code found org.neo4j.jdbc.http.driver.CypherExecutor-executeQuery with org.neo4j.jdbc.http.driver.CypherExecutorIT-executeQueryThenRollbackShouldSucceed
+Wed May 16 03:43:35 UTC 2018: Code found org.neo4j.jdbc.http.driver.CypherExecutor-rollback with org.neo4j.jdbc.http.driver.CypherExecutorIT-shouldRollbackAnEmptyTransaction
+Wed May 16 03:43:36 UTC 2018: Code found org.neo4j.jdbc.http.driver.CypherExecutor-commit with org.neo4j.jdbc.http.driver.CypherExecutorIT-shouldCommitAnEmptyTransaction
+Wed May 16 03:43:36 UTC 2018: Code found org.neo4j.jdbc.http.driver.CypherExecutor-commit with org.neo4j.jdbc.http.driver.CypherExecutorIT-executeMultipleQueryThenCommitShouldSucceed
+Wed May 16 03:43:36 UTC 2018: Code found org.neo4j.jdbc.http.driver.CypherExecutor-getServerVersion with org.neo4j.jdbc.http.driver.CypherExecutorIT-getServerVersionShouldSucceed
+Wed May 16 03:43:37 UTC 2018: No link for: org.neo4j.jdbc.http.driver.CypherExecutorIT-executeValidThenInvalidQueryShouldRollbackTransaction
+Wed May 16 03:43:37 UTC 2018: No link for: org.neo4j.jdbc.http.driver.CypherExecutorIT-executeInvalidQueryShouldNotOpenTransaction
+Wed May 16 03:43:37 UTC 2018: No link for: org.neo4j.jdbc.http.driver.CypherExecutorIT-executeQueryShouldSucceed
+Wed May 16 03:43:38 UTC 2018: No link for: org.neo4j.jdbc.http.driver.CypherExecutorIT-executeBadQueryOnAutocommitShoudMotChangeTransactionEndpoint
+Wed May 16 03:43:38 UTC 2018: No link for: org.neo4j.jdbc.http.driver.CypherExecutorIT-transactionToAutoCommitModeShouldCommitCurrentTransaction
+Wed May 16 03:43:38 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.driver.CypherExecutorIT
+Wed May 16 03:43:39 UTC 2018: Found element on the queue
+Wed May 16 03:43:39 UTC 2018: Updating status
+Wed May 16 03:43:39 UTC 2018: Working
+Wed May 16 03:43:41 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.driver.Neo4jStatementTest
+Wed May 16 03:43:41 UTC 2018: Setting lastTestMethodIndex: 59999
+Wed May 16 03:43:41 UTC 2018: Starting linking
+Wed May 16 03:43:41 UTC 2018: Code found org.neo4j.jdbc.http.driver.Neo4jStatement-toJson with org.neo4j.jdbc.http.driver.Neo4jStatementTest-toJsonShouldSucceed
+Wed May 16 03:43:41 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.driver.Neo4jStatementTest
+Wed May 16 03:43:42 UTC 2018: Found element on the queue
+Wed May 16 03:43:42 UTC 2018: Updating status
+Wed May 16 03:43:42 UTC 2018: Working
+Wed May 16 03:43:44 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jConnectionIT
+Wed May 16 03:43:44 UTC 2018: Setting lastTestMethodIndex: 60002
+Wed May 16 03:43:44 UTC 2018: Starting linking
+Wed May 16 03:43:44 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-shouldRollbackAnEmptyTransaction
+Wed May 16 03:43:45 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-closeOnClosedTransactionShouldWork
+Wed May 16 03:43:45 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-isValidShouldWork
+Wed May 16 03:43:45 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-killingThreadQueryExecutionDoesNotInvalidateWrappedSession
+Wed May 16 03:43:46 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-rollbackOnAutocommitShouldFail
+Wed May 16 03:43:46 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-commitShouldWork
+Wed May 16 03:43:46 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-changeCommitModeOnOpenedTransactionShouldCommit
+Wed May 16 03:43:47 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-rollbackShouldWork
+Wed May 16 03:43:47 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-getMetaDataShouldWork
+Wed May 16 03:43:47 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-closeOnOpenTransactionShouldRollback
+Wed May 16 03:43:48 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-autocommitShouldWork
+Wed May 16 03:43:48 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-isValidOnClosedTransactionShouldFail
+Wed May 16 03:43:48 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-shouldCommitAnEmptyTransaction
+Wed May 16 03:43:49 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jConnectionIT-holdabilityShouldFail
+Wed May 16 03:43:49 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jConnectionIT
+Wed May 16 03:43:49 UTC 2018: Found element on the queue
+Wed May 16 03:43:49 UTC 2018: Updating status
+Wed May 16 03:43:49 UTC 2018: Working
+Wed May 16 03:43:52 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jResultSetIT
+Wed May 16 03:43:52 UTC 2018: Setting lastTestMethodIndex: 60008
+Wed May 16 03:43:52 UTC 2018: Starting linking
+Wed May 16 03:43:52 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jResultSetIT-paramConversionShouldWork
+Wed May 16 03:43:52 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jResultSetIT
+Wed May 16 03:43:53 UTC 2018: Found element on the queue
+Wed May 16 03:43:53 UTC 2018: Updating status
+Wed May 16 03:43:53 UTC 2018: Working
+Wed May 16 03:43:55 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jResultSetTest
+Wed May 16 03:43:55 UTC 2018: Setting lastTestMethodIndex: 60011
+Wed May 16 03:43:55 UTC 2018: Starting linking
+Wed May 16 03:43:55 UTC 2018: Code found org.neo4j.jdbc.http.HttpNeo4jResultSet-close with org.neo4j.jdbc.http.HttpNeo4jResultSetTest-closeMultipleTimeShouldBeNOOP
+Wed May 16 03:43:56 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jResultSetTest
+Wed May 16 03:43:56 UTC 2018: Found element on the queue
+Wed May 16 03:43:56 UTC 2018: Updating status
+Wed May 16 03:43:56 UTC 2018: Working
+Wed May 16 03:43:59 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jResultSetMetaDataIT
+Wed May 16 03:43:59 UTC 2018: Setting lastTestMethodIndex: 60013
+Wed May 16 03:43:59 UTC 2018: Starting linking
+Wed May 16 03:43:59 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jResultSetMetaDataIT-getColumnClassNameShouldSucceed
+Wed May 16 03:43:59 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jResultSetMetaDataIT
+Wed May 16 03:43:59 UTC 2018: Found element on the queue
+Wed May 16 03:43:59 UTC 2018: Updating status
+Wed May 16 03:43:59 UTC 2018: Working
+Wed May 16 03:44:02 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jStatementIT
+Wed May 16 03:44:02 UTC 2018: Setting lastTestMethodIndex: 60015
+Wed May 16 03:44:02 UTC 2018: Starting linking
+Wed May 16 03:44:02 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jStatementIT-executeBatchShouldWorkWithTransaction
+Wed May 16 03:44:02 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jStatementIT-executeQueryWithNullResponseValueShouldExecuteAndReturnCorrectData
+Wed May 16 03:44:03 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jStatementIT-executeBatchShouldWork
+Wed May 16 03:44:03 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jStatementIT-executeBatchShouldWorkWhenError
+Wed May 16 03:44:03 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jStatementIT-executeBadCypherQueryShouldReturnAnSQLException
+Wed May 16 03:44:04 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jStatementIT-executeUpdateShouldExecuteAndReturnCorrectData
+Wed May 16 03:44:04 UTC 2018: No link for: org.neo4j.jdbc.http.HttpNeo4jStatementIT-executeQueryShouldExecuteAndReturnCorrectData
+Wed May 16 03:44:04 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.http.HttpNeo4jStatementIT
+Wed May 16 03:44:05 UTC 2018: Found element on the queue
+Wed May 16 03:44:05 UTC 2018: Updating status
+Wed May 16 03:44:05 UTC 2018: Working
+Wed May 16 03:44:05 UTC 2018: Create project parser
+Wed May 16 03:44:09 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.impl.ListNeo4jArrayTest
+Wed May 16 03:44:09 UTC 2018: Setting lastTestMethodIndex: 60018
+Wed May 16 03:44:09 UTC 2018: Starting linking
+Wed May 16 03:44:09 UTC 2018: Code found org.neo4j.jdbc.Neo4jArray-getBaseType with org.neo4j.jdbc.impl.ListNeo4jArrayTest-getBaseTypeShouldThrowExceptionWhenNoNeo4jTypeProvided
+Wed May 16 03:44:09 UTC 2018: Code found org.neo4j.jdbc.Neo4jArray-getBaseTypeName with org.neo4j.jdbc.impl.ListNeo4jArrayTest-getBaseTypeNameShouldThrowExceptionWhenNoNeo4jTypeProvided
+Wed May 16 03:44:09 UTC 2018: Code found org.neo4j.jdbc.Neo4jArray-getArray with org.neo4j.jdbc.impl.ListNeo4jArrayTest-getArrayShouldReturnCorrectArray
+Wed May 16 03:44:10 UTC 2018: Code found org.neo4j.jdbc.Neo4jArray-getArray with org.neo4j.jdbc.impl.ListNeo4jArrayTest-getArrayShouldThrowExceptionWhenElementsAreOfDifferentType
+Wed May 16 03:44:10 UTC 2018: Code found org.neo4j.jdbc.Neo4jArray-getBaseType with org.neo4j.jdbc.impl.ListNeo4jArrayTest-getBaseTypeShouldReturnCorrectType
+Wed May 16 03:44:10 UTC 2018: Code found org.neo4j.jdbc.Neo4jArray-getBaseTypeName with org.neo4j.jdbc.impl.ListNeo4jArrayTest-getBaseTypeNameShouldReturnCorrectType
+Wed May 16 03:44:11 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.impl.ListNeo4jArrayTest
+Wed May 16 03:44:11 UTC 2018: Found element on the queue
+Wed May 16 03:44:11 UTC 2018: Updating status
+Wed May 16 03:44:11 UTC 2018: Working
+Wed May 16 03:44:13 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest
+Wed May 16 03:44:13 UTC 2018: Setting lastTestMethodIndex: 60023
+Wed May 16 03:44:13 UTC 2018: Starting linking
+Wed May 16 03:44:13 UTC 2018: Code found org.neo4j.jdbc.utils.PreparedStatementBuilder-replacePlaceholders with org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-replacePlaceholderShouldReplaceQuestionMarksByDefaultWithOrderedCurlyBracesMultiple
+Wed May 16 03:44:14 UTC 2018: Code found org.neo4j.jdbc.utils.PreparedStatementBuilder-replacePlaceholders with org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-replacePlaceholderShouldReplaceQuestionMarksWithOrderedCurlyBracesNotInQuotesAndNotCommentedMultilineMulti
+Wed May 16 03:44:14 UTC 2018: Code found org.neo4j.jdbc.utils.PreparedStatementBuilder-replacePlaceholders with org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-replacePlaceholderShouldReplaceQuestionMarksByDefaultWithOrderedCurlyBracesMultipleNotInStrings
+Wed May 16 03:44:14 UTC 2018: Code found org.neo4j.jdbc.utils.PreparedStatementBuilder-replacePlaceholders with org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-replacePlaceholderShouldReturnSameStatementIfNoPlaceholders
+Wed May 16 03:44:15 UTC 2018: Code found org.neo4j.jdbc.utils.PreparedStatementBuilder-replacePlaceholders with org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-replacePlaceholderShouldReplaceQuestionMarksMultiline
+Wed May 16 03:44:15 UTC 2018: Code found org.neo4j.jdbc.utils.PreparedStatementBuilder-replacePlaceholders with org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-replacePlaceholderShouldReplaceQuestionMarksByDefaultWithOrderedCurlyBraces
+Wed May 16 03:44:15 UTC 2018: No link for: org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-placeholdersCountShouldCountCorrectlyIfOneLineStringMultiline
+Wed May 16 03:44:16 UTC 2018: No link for: org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-placeholdersCountShouldCountCorrectlyIfOneLineString
+Wed May 16 03:44:16 UTC 2018: No link for: org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-placeholdersCountShouldCountCorrectlyIfNoPlaceholdersArePresent
+Wed May 16 03:44:16 UTC 2018: No link for: org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest-placeholdersCountShouldCountCorrectlyIfOneLine
+Wed May 16 03:44:17 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.utils.Neo4jPreparedStatementBuilderTest
+Wed May 16 03:44:17 UTC 2018: Found element on the queue
+Wed May 16 03:44:17 UTC 2018: Updating status
+Wed May 16 03:44:17 UTC 2018: Working
+Wed May 16 03:44:20 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jConnectionTest
+Wed May 16 03:44:20 UTC 2018: Setting lastTestMethodIndex: 60027
+Wed May 16 03:44:20 UTC 2018: Starting linking
+Wed May 16 03:44:20 UTC 2018: No link for: org.neo4j.jdbc.Neo4jConnectionTest-unwrapShouldThrowException
+Wed May 16 03:44:20 UTC 2018: No link for: org.neo4j.jdbc.Neo4jConnectionTest-unwrapShouldReturnCorrectClass
+Wed May 16 03:44:20 UTC 2018: No link for: org.neo4j.jdbc.Neo4jConnectionTest-isWrapperForShouldReturnTrue
+Wed May 16 03:44:21 UTC 2018: No link for: org.neo4j.jdbc.Neo4jConnectionTest-isWrapperForShouldReturnFalse
+Wed May 16 03:44:21 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jConnectionTest
+Wed May 16 03:44:22 UTC 2018: Found element on the queue
+Wed May 16 03:44:22 UTC 2018: Updating status
+Wed May 16 03:44:22 UTC 2018: Working
+Wed May 16 03:44:24 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jCallableStatementTest
+Wed May 16 03:44:24 UTC 2018: Setting lastTestMethodIndex: 60030
+Wed May 16 03:44:24 UTC 2018: Starting linking
+Wed May 16 03:44:24 UTC 2018: Code found org.neo4j.jdbc.Neo4jCallableStatement-unwrap with org.neo4j.jdbc.Neo4jCallableStatementTest-unwrapShouldThrowException
+Wed May 16 03:44:25 UTC 2018: Code found org.neo4j.jdbc.Neo4jCallableStatement-unwrap with org.neo4j.jdbc.Neo4jCallableStatementTest-unwrapShouldReturnCorrectClass
+Wed May 16 03:44:25 UTC 2018: Code found org.neo4j.jdbc.Neo4jCallableStatement-isWrapperFor with org.neo4j.jdbc.Neo4jCallableStatementTest-isWrapperForShouldReturnFalse
+Wed May 16 03:44:25 UTC 2018: Code found org.neo4j.jdbc.Neo4jCallableStatement-isWrapperFor with org.neo4j.jdbc.Neo4jCallableStatementTest-isWrapperForShouldReturnTrue
+Wed May 16 03:44:26 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jCallableStatementTest
+Wed May 16 03:44:26 UTC 2018: Found element on the queue
+Wed May 16 03:44:26 UTC 2018: Updating status
+Wed May 16 03:44:26 UTC 2018: Working
+Wed May 16 03:44:29 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jParameterMetaDataTest
+Wed May 16 03:44:29 UTC 2018: Setting lastTestMethodIndex: 60033
+Wed May 16 03:44:29 UTC 2018: Starting linking
+Wed May 16 03:44:29 UTC 2018: Code found org.neo4j.jdbc.Neo4jParameterMetaData-isWrapperFor with org.neo4j.jdbc.Neo4jParameterMetaDataTest-isWrapperForShouldReturnTrue
+Wed May 16 03:44:29 UTC 2018: Code found org.neo4j.jdbc.Neo4jParameterMetaData-isWrapperFor with org.neo4j.jdbc.Neo4jParameterMetaDataTest-isWrapperForShouldReturnFalse
+Wed May 16 03:44:29 UTC 2018: Code found org.neo4j.jdbc.Neo4jParameterMetaData-unwrap with org.neo4j.jdbc.Neo4jParameterMetaDataTest-unwrapShouldReturnCorrectClass
+Wed May 16 03:44:30 UTC 2018: Code found org.neo4j.jdbc.Neo4jParameterMetaData-unwrap with org.neo4j.jdbc.Neo4jParameterMetaDataTest-unwrapShouldThrowException
+Wed May 16 03:44:30 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jParameterMetaDataTest
+Wed May 16 03:44:30 UTC 2018: Found element on the queue
+Wed May 16 03:44:30 UTC 2018: Updating status
+Wed May 16 03:44:30 UTC 2018: Working
+Wed May 16 03:44:33 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jDatabaseMetaDataTest
+Wed May 16 03:44:33 UTC 2018: Setting lastTestMethodIndex: 60037
+Wed May 16 03:44:33 UTC 2018: Starting linking
+Wed May 16 03:44:33 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-unwrap with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-unwrapShouldReturnCorrectClass
+Wed May 16 03:44:33 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-storesLowerCaseIdentifiers with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-storesLowerCaseIdentifiersShouldBeReturnFalse
+Wed May 16 03:44:34 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-unwrap with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-unwrapShouldThrowException
+Wed May 16 03:44:34 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-getDriverVersion with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-getDriverVersionShouldReturnNegativeNumberOnBadVersion
+Wed May 16 03:44:34 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-storesUpperCaseIdentifiers with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-storesUpperCaseIdentifiersShouldBeReturnFalse
+Wed May 16 03:44:35 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-isWrapperFor with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-isWrapperForShouldReturnTrue
+Wed May 16 03:44:35 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-getDriverVersion with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-getDriverVersionShouldBeCorrectOnSomeExampleVersions
+Wed May 16 03:44:35 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-isWrapperFor with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-isWrapperForShouldReturnFalse
+Wed May 16 03:44:36 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-storesMixedCaseQuotedIdentifiers with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-storesMixedCaseQuotedIdentifiersShouldBeReturnFalse
+Wed May 16 03:44:36 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-getDriverVersion with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-getDriverVersionShouldBeCorrect
+Wed May 16 03:44:36 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-storesUpperCaseQuotedIdentifiers with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-storesUpperCaseQuotedIdentifiersShouldBeReturnFalse
+Wed May 16 03:44:37 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-supportsMixedCaseIdentifiers with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-supportsMixedCaseIdentifiersShouldBeReturnTrue
+Wed May 16 03:44:37 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-storesMixedCaseIdentifiers with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-storesMixedCaseIdentifiersShouldBeReturnTrue
+Wed May 16 03:44:37 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-supportsMixedCaseQuotedIdentifiers with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-supportsMixedCaseQuotedIdentifiersShouldBeReturnFalse
+Wed May 16 03:44:38 UTC 2018: Code found org.neo4j.jdbc.Neo4jDatabaseMetaData-storesLowerCaseQuotedIdentifiers with org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-storesLowerCaseQuotedIdentifiersShouldBeReturnFalse
+Wed May 16 03:44:38 UTC 2018: No link for: org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-getDriverMajorVersionShouldBeCorrect
+Wed May 16 03:44:38 UTC 2018: No link for: org.neo4j.jdbc.Neo4jDatabaseMetaDataTest-getDriverMinorVersionShouldBeCorrect
+Wed May 16 03:44:39 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jDatabaseMetaDataTest
+Wed May 16 03:44:39 UTC 2018: Found element on the queue
+Wed May 16 03:44:39 UTC 2018: Updating status
+Wed May 16 03:44:39 UTC 2018: Working
+Wed May 16 03:44:41 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jPreparedStatementTest
+Wed May 16 03:44:41 UTC 2018: Setting lastTestMethodIndex: 60043
+Wed May 16 03:44:41 UTC 2018: Starting linking
+Wed May 16 03:44:41 UTC 2018: Code found org.neo4j.jdbc.Neo4jPreparedStatement-addBatch with org.neo4j.jdbc.Neo4jPreparedStatementTest-addBatchShouldThrowException
+Wed May 16 03:44:42 UTC 2018: Code found org.neo4j.jdbc.Neo4jPreparedStatement-isWrapperFor with org.neo4j.jdbc.Neo4jPreparedStatementTest-isWrapperForShouldReturnFalse
+Wed May 16 03:44:42 UTC 2018: Code found org.neo4j.jdbc.Neo4jPreparedStatement-isWrapperFor with org.neo4j.jdbc.Neo4jPreparedStatementTest-isWrapperForShouldReturnTrue
+Wed May 16 03:44:43 UTC 2018: Code found org.neo4j.jdbc.Neo4jPreparedStatement-unwrap with org.neo4j.jdbc.Neo4jPreparedStatementTest-unwrapShouldReturnCorrectClass
+Wed May 16 03:44:43 UTC 2018: Code found org.neo4j.jdbc.Neo4jPreparedStatement-unwrap with org.neo4j.jdbc.Neo4jPreparedStatementTest-unwrapShouldThrowException
+Wed May 16 03:44:43 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jPreparedStatementTest
+Wed May 16 03:44:44 UTC 2018: Found element on the queue
+Wed May 16 03:44:44 UTC 2018: Updating status
+Wed May 16 03:44:44 UTC 2018: Working
+Wed May 16 03:44:46 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jDataSourceTest
+Wed May 16 03:44:46 UTC 2018: Setting lastTestMethodIndex: 60047
+Wed May 16 03:44:46 UTC 2018: Starting linking
+Wed May 16 03:44:46 UTC 2018: Code found org.neo4j.jdbc.Neo4jDataSource-unwrap with org.neo4j.jdbc.Neo4jDataSourceTest-unwrapShouldThrowException
+Wed May 16 03:44:47 UTC 2018: Code found org.neo4j.jdbc.Neo4jDataSource-getUrl with org.neo4j.jdbc.Neo4jDataSourceTest-getUrlTest
+Wed May 16 03:44:47 UTC 2018: Code found org.neo4j.jdbc.Neo4jDataSource-isWrapperFor with org.neo4j.jdbc.Neo4jDataSourceTest-isWrapperForShouldReturnTrue
+Wed May 16 03:44:47 UTC 2018: Code found org.neo4j.jdbc.Neo4jDataSource-isWrapperFor with org.neo4j.jdbc.Neo4jDataSourceTest-isWrapperForShouldReturnFalse
+Wed May 16 03:44:47 UTC 2018: Code found org.neo4j.jdbc.Neo4jDataSource-unwrap with org.neo4j.jdbc.Neo4jDataSourceTest-unwrapShouldReturnCorrectClass
+Wed May 16 03:44:48 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jDataSourceTest
+Wed May 16 03:44:48 UTC 2018: Found element on the queue
+Wed May 16 03:44:48 UTC 2018: Updating status
+Wed May 16 03:44:48 UTC 2018: Working
+Wed May 16 03:44:51 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jResultSetTest
+Wed May 16 03:44:51 UTC 2018: Setting lastTestMethodIndex: 60050
+Wed May 16 03:44:51 UTC 2018: Starting linking
+Wed May 16 03:44:51 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSet-isWrapperFor with org.neo4j.jdbc.Neo4jResultSetTest-isWrapperForShouldReturnTrue
+Wed May 16 03:44:51 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSet-getWarnings with org.neo4j.jdbc.Neo4jResultSetTest-getWarningsShouldReturnNull
+Wed May 16 03:44:52 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSet-unwrap with org.neo4j.jdbc.Neo4jResultSetTest-unwrapShouldThrowException
+Wed May 16 03:44:52 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSet-clearWarnings with org.neo4j.jdbc.Neo4jResultSetTest-clearWarningsShouldNotThrowException
+Wed May 16 03:44:52 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSet-unwrap with org.neo4j.jdbc.Neo4jResultSetTest-unwrapShouldReturnCorrectClass
+Wed May 16 03:44:53 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSet-isWrapperFor with org.neo4j.jdbc.Neo4jResultSetTest-isWrapperForShouldReturnFalse
+Wed May 16 03:44:53 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jResultSetTest
+Wed May 16 03:44:54 UTC 2018: Found element on the queue
+Wed May 16 03:44:54 UTC 2018: Updating status
+Wed May 16 03:44:54 UTC 2018: Working
+Wed May 16 03:44:56 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jResultSetMetaDataTest
+Wed May 16 03:44:56 UTC 2018: Setting lastTestMethodIndex: 60052
+Wed May 16 03:44:56 UTC 2018: Starting linking
+Wed May 16 03:44:56 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-unwrap with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-unwrapShouldReturnCorrectClass
+Wed May 16 03:44:57 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-isAutoIncrement with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-isAutoIncrementShouldAlwaysReturnFalse
+Wed May 16 03:44:57 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-isSearchable with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-isSearchableShouldReturnTrueIfExistingColumnIndex
+Wed May 16 03:44:57 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-isNullable with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-isNullableShouldReturnAlwaysNotNull
+Wed May 16 03:44:58 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-isSearchable with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-isSearchableShouldAlwaysReturnFalseIfIndexLessThanZero
+Wed May 16 03:44:58 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-unwrap with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-unwrapShouldThrowException
+Wed May 16 03:44:59 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-isSearchable with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-isSearchableShouldAlwaysReturnFalseIfIndexOutOfRange
+Wed May 16 03:44:59 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-isWrapperFor with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-isWrapperForShouldReturnTrue
+Wed May 16 03:44:59 UTC 2018: Code found org.neo4j.jdbc.Neo4jResultSetMetaData-isWrapperFor with org.neo4j.jdbc.Neo4jResultSetMetaDataTest-isWrapperForShouldReturnFalse
+Wed May 16 03:45:00 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jResultSetMetaDataTest
+Wed May 16 03:45:00 UTC 2018: Found element on the queue
+Wed May 16 03:45:00 UTC 2018: Updating status
+Wed May 16 03:45:00 UTC 2018: Working
+Wed May 16 03:45:03 UTC 2018: Start larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jDriverTest
+Wed May 16 03:45:03 UTC 2018: Setting lastTestMethodIndex: 60056
+Wed May 16 03:45:03 UTC 2018: Starting linking
+Wed May 16 03:45:03 UTC 2018: Code found org.neo4j.jdbc.Neo4jDriver-acceptsURL with org.neo4j.jdbc.Neo4jDriverTest-acceptsURL
+Wed May 16 03:45:03 UTC 2018: Code found org.neo4j.jdbc.Neo4jDriver-parseUrlProperties with org.neo4j.jdbc.Neo4jDriverTest-parseUrlProperties
+Wed May 16 03:45:04 UTC 2018: Linking done for larusba__neo4j-jdbc test class org.neo4j.jdbc.Neo4jDriverTest

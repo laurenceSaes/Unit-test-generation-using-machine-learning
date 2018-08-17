@@ -1,0 +1,68 @@
+Tue May 15 22:41:14 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:41:15 UTC 2018: Starting
+Tue May 15 22:41:16 UTC 2018: Found element on the queue
+Tue May 15 22:41:16 UTC 2018: Updating status
+Tue May 15 22:41:16 UTC 2018: Working
+Tue May 15 22:41:16 UTC 2018: Create project parser
+Tue May 15 22:41:24 UTC 2018: Create slicer
+Tue May 15 22:41:28 UTC 2018: Create call graph
+Tue May 15 22:41:30 UTC 2018: Create point analysis
+Tue May 15 22:41:30 UTC 2018: Create call graph done
+Tue May 15 22:41:30 UTC 2018: Start intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.TestCompatibilitySingletonFactory
+Tue May 15 22:41:30 UTC 2018: Setting lastTestMethodIndex: 49407
+Tue May 15 22:41:30 UTC 2018: Starting linking
+Tue May 15 22:41:30 UTC 2018: Linking done for intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.TestCompatibilitySingletonFactory
+Tue May 15 22:41:31 UTC 2018: Found element on the queue
+Tue May 15 22:41:31 UTC 2018: Updating status
+Tue May 15 22:41:31 UTC 2018: Working
+Tue May 15 22:41:35 UTC 2018: Start intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.rest.TestMetricsRESTSource
+Tue May 15 22:41:35 UTC 2018: Setting lastTestMethodIndex: 49410
+Tue May 15 22:41:35 UTC 2018: Starting linking
+Tue May 15 22:41:35 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.rest.TestMetricsRESTSource-testGetInstanceNoHadoopCompat
+Tue May 15 22:41:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 22:41:35 UTC 2018: Linking done for intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.rest.TestMetricsRESTSource
+Tue May 15 22:41:36 UTC 2018: Found element on the queue
+Tue May 15 22:41:36 UTC 2018: Updating status
+Tue May 15 22:41:36 UTC 2018: Working
+Tue May 15 22:41:40 UTC 2018: Start intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory
+Tue May 15 22:41:40 UTC 2018: Setting lastTestMethodIndex: 49412
+Tue May 15 22:41:40 UTC 2018: Starting linking
+Tue May 15 22:41:40 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 22:41:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 22:41:40 UTC 2018: Linking done for intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory
+Tue May 15 22:41:41 UTC 2018: Found element on the queue
+Tue May 15 22:41:41 UTC 2018: Updating status
+Tue May 15 22:41:41 UTC 2018: Working
+Tue May 15 22:41:43 UTC 2018: Start intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory
+Tue May 15 22:41:43 UTC 2018: Setting lastTestMethodIndex: 49415
+Tue May 15 22:41:43 UTC 2018: Starting linking
+Tue May 15 22:41:43 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 22:41:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 22:41:43 UTC 2018: Linking done for intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory
+Tue May 15 22:41:44 UTC 2018: Found element on the queue
+Tue May 15 22:41:44 UTC 2018: Updating status
+Tue May 15 22:41:44 UTC 2018: Working
+Tue May 15 22:41:47 UTC 2018: Start intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource
+Tue May 15 22:41:47 UTC 2018: Setting lastTestMethodIndex: 49418
+Tue May 15 22:41:47 UTC 2018: Starting linking
+Tue May 15 22:41:47 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource-testGetInstanceNoHadoopCompat
+Tue May 15 22:41:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 22:41:47 UTC 2018: Linking done for intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource
+Tue May 15 22:41:48 UTC 2018: Found element on the queue
+Tue May 15 22:41:48 UTC 2018: Updating status
+Tue May 15 22:41:48 UTC 2018: Working
+Tue May 15 22:41:50 UTC 2018: Start intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory
+Tue May 15 22:41:50 UTC 2018: Setting lastTestMethodIndex: 49421
+Tue May 15 22:41:50 UTC 2018: Starting linking
+Tue May 15 22:41:50 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 22:41:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 22:41:50 UTC 2018: Linking done for intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory
+Tue May 15 22:41:51 UTC 2018: Found element on the queue
+Tue May 15 22:41:51 UTC 2018: Updating status
+Tue May 15 22:41:51 UTC 2018: Working
+Tue May 15 22:41:53 UTC 2018: Start intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory
+Tue May 15 22:41:53 UTC 2018: Setting lastTestMethodIndex: 49422
+Tue May 15 22:41:53 UTC 2018: Starting linking
+Tue May 15 22:41:53 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 22:41:53 UTC 2018: Match not added in database because it already exists
+Tue May 15 22:41:53 UTC 2018: Linking done for intel-hadoop__hbase-rhino test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory

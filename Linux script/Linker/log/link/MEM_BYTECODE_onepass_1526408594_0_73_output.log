@@ -1,0 +1,815 @@
+Wed May 16 02:27:00 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:27:01 UTC 2018: Starting
+Wed May 16 02:27:01 UTC 2018: Found element on the queue
+Wed May 16 02:27:01 UTC 2018: Updating status
+Wed May 16 02:27:01 UTC 2018: Working
+Wed May 16 02:27:01 UTC 2018: Create project parser
+Wed May 16 02:27:05 UTC 2018: Create slicer
+Wed May 16 02:27:09 UTC 2018: Create call graph
+Wed May 16 02:27:13 UTC 2018: Create point analysis
+Wed May 16 02:27:13 UTC 2018: Create call graph done
+Wed May 16 02:27:13 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.alluxio.AlluxioInterpreterTest
+Wed May 16 02:27:13 UTC 2018: Setting lastTestMethodIndex: 57235
+Wed May 16 02:27:13 UTC 2018: Starting linking
+Wed May 16 02:27:13 UTC 2018: Code found org.apache.zeppelin.alluxio.AlluxioInterpreter-completion with org.apache.zeppelin.alluxio.AlluxioInterpreterTest-testCompletion
+Wed May 16 02:27:13 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-loadFileTest
+Wed May 16 02:27:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:14 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalTestWithFullURI
+Wed May 16 02:27:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:14 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalTest
+Wed May 16 02:27:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:14 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirExistingTest
+Wed May 16 02:27:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:15 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-locationNotExistTest
+Wed May 16 02:27:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:15 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-fileinfoNotExistTest
+Wed May 16 02:27:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:15 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-loadDirTest
+Wed May 16 02:27:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:15 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-countTest
+Wed May 16 02:27:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:16 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyToLocalTest
+Wed May 16 02:27:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:16 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirInvalidPathTest
+Wed May 16 02:27:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:16 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catNotExistTest
+Wed May 16 02:27:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:17 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalLargeTest
+Wed May 16 02:27:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:17 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catDirectoryTest
+Wed May 16 02:27:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:17 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirShortPathTest
+Wed May 16 02:27:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:17 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirTest
+Wed May 16 02:27:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:18 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-lsRecursiveTest
+Wed May 16 02:27:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:18 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-lsTest
+Wed May 16 02:27:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:18 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-countNotExistTest
+Wed May 16 02:27:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:19 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyToLocalLargeTest
+Wed May 16 02:27:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:19 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-copyFromLocalFileToDstPathTest
+Wed May 16 02:27:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:19 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-catTest
+Wed May 16 02:27:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:19 UTC 2018: No link for: org.apache.zeppelin.alluxio.AlluxioInterpreterTest-mkdirComplexPathTest
+Wed May 16 02:27:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:20 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.alluxio.AlluxioInterpreterTest
+Wed May 16 02:27:20 UTC 2018: Found element on the queue
+Wed May 16 02:27:20 UTC 2018: Updating status
+Wed May 16 02:27:20 UTC 2018: Working
+Wed May 16 02:27:20 UTC 2018: Create project parser
+Wed May 16 02:27:23 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.cassandra.InterpreterLogicTest
+Wed May 16 02:27:23 UTC 2018: Setting lastTestMethodIndex: 57239
+Wed May 16 02:27:23 UTC 2018: Starting linking
+Wed May 16 02:27:23 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_serial_consistency_option
+Wed May 16 02:27:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:24 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_timestamp_option
+Wed May 16 02:27:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:24 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_retry_policy_option
+Wed May 16 02:27:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:24 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_generate_batch_statement
+Wed May 16 02:27:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:25 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_from_angular_object_registry
+Wed May 16 02:27:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:25 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_request_timeout_option
+Wed May 16 02:27:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:25 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_input_string_block
+Wed May 16 02:27:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:26 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_exception_while_parsing_input
+Wed May 16 02:27:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:26 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_and_default_value
+Wed May 16 02:27:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:26 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_variable_and_choices
+Wed May 16 02:27:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:26 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_consistency_option
+Wed May 16 02:27:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:27 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_bound_values
+Wed May 16 02:27:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:27 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_simple_date
+Wed May 16 02:27:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:27 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_parse_accurate_date
+Wed May 16 02:27:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:28 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_extract_no_variable
+Wed May 16 02:27:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:28 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_error_if_incorrect_variable_definition
+Wed May 16 02:27:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:28 UTC 2018: No link for: org.apache.zeppelin.cassandra.InterpreterLogicTest-should_generate_simple_statement
+Wed May 16 02:27:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:28 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.cassandra.InterpreterLogicTest
+Wed May 16 02:27:29 UTC 2018: Found element on the queue
+Wed May 16 02:27:29 UTC 2018: Updating status
+Wed May 16 02:27:29 UTC 2018: Working
+Wed May 16 02:27:31 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.cassandra.CassandraInterpreterTest
+Wed May 16 02:27:31 UTC 2018: Setting lastTestMethodIndex: 57246
+Wed May 16 02:27:31 UTC 2018: Starting linking
+Wed May 16 02:27:32 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_multiple_statements_with_single_line_logged_batch
+Wed May 16 02:27:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:27:32 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_select_statement
+Wed May 16 02:27:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:27:32 UTC 2018: Code found org.apache.zeppelin.cassandra.CassandraInterpreter-interpret with org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_interpret_simple_select
+Wed May 16 02:27:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:27:32 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_request_timeout
+Wed May 16 02:27:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:33 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_validate_statement
+Wed May 16 02:27:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:33 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_table
+Wed May 16 02:27:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:33 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_display_statistics_for_non_select_statement
+Wed May 16 02:27:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:34 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_throw_statement_not_having_semi_colon
+Wed May 16 02:27:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:34 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_udt_withing_logged_in_keyspace
+Wed May 16 02:27:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:34 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_describing_non_existing_table
+Wed May 16 02:27:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:34 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_prepared_and_bound_statements
+Wed May 16 02:27:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:35 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_function
+Wed May 16 02:27:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:35 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_materialized_view
+Wed May 16 02:27:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:35 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_bound_statement
+Wed May 16 02:27:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:36 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_timestamp_option
+Wed May 16 02:27:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:36 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_udt
+Wed May 16 02:27:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:36 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_bind_boolean_value
+Wed May 16 02:27:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:36 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_show_help
+Wed May 16 02:27:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:37 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_just_prepare_statement
+Wed May 16 02:27:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:37 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_create_cluster_and_session_upon_call_to_open
+Wed May 16 02:27:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:37 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_bound_statement_with_no_bound_value
+Wed May 16 02:27:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:38 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_and_display_stack_trace
+Wed May 16 02:27:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:38 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_keyspace
+Wed May 16 02:27:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:38 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_serial_consistency_option
+Wed May 16 02:27:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:38 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_bind_null_value
+Wed May 16 02:27:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:39 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_extract_variable_from_statement
+Wed May 16 02:27:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:39 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_aggregate
+Wed May 16 02:27:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:39 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_fail_when_executing_a_removed_prepared_statement
+Wed May 16 02:27:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:40 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_consistency_option
+Wed May 16 02:27:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:40 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_parse_date_value
+Wed May 16 02:27:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:40 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_cluster
+Wed May 16 02:27:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:40 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_exception_when_executing_unknown_bound_statement
+Wed May 16 02:27:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:41 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_error_describing_non_existing_udt
+Wed May 16 02:27:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:41 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_execute_statement_with_retry_policy
+Wed May 16 02:27:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:41 UTC 2018: No link for: org.apache.zeppelin.cassandra.CassandraInterpreterTest-should_describe_keyspaces
+Wed May 16 02:27:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:42 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.cassandra.CassandraInterpreterTest
+Wed May 16 02:27:42 UTC 2018: Found element on the queue
+Wed May 16 02:27:42 UTC 2018: Updating status
+Wed May 16 02:27:42 UTC 2018: Working
+Wed May 16 02:27:42 UTC 2018: Create project parser
+Wed May 16 02:27:43 UTC 2018: Found element on the queue
+Wed May 16 02:27:43 UTC 2018: Updating status
+Wed May 16 02:27:43 UTC 2018: Working
+Wed May 16 02:27:43 UTC 2018: Create project parser
+Wed May 16 02:27:46 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.file.HDFSFileInterpreterTest
+Wed May 16 02:27:46 UTC 2018: Setting lastTestMethodIndex: 57253
+Wed May 16 02:27:46 UTC 2018: Starting linking
+Wed May 16 02:27:46 UTC 2018: No link for: org.apache.zeppelin.file.HDFSFileInterpreterTest-test
+Wed May 16 02:27:46 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.file.HDFSFileInterpreterTest
+Wed May 16 02:27:47 UTC 2018: Found element on the queue
+Wed May 16 02:27:47 UTC 2018: Updating status
+Wed May 16 02:27:47 UTC 2018: Working
+Wed May 16 02:27:47 UTC 2018: Create project parser
+Wed May 16 02:27:50 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.flink.FlinkInterpreterTest
+Wed May 16 02:27:50 UTC 2018: Setting lastTestMethodIndex: 57256
+Wed May 16 02:27:50 UTC 2018: Starting linking
+Wed May 16 02:27:50 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testNextLineComments
+Wed May 16 02:27:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:50 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testSimpleStatement
+Wed May 16 02:27:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:50 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testWordCount
+Wed May 16 02:27:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:51 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testNextLineInvocation
+Wed May 16 02:27:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:51 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testNextLineCompanionObject
+Wed May 16 02:27:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:51 UTC 2018: No link for: org.apache.zeppelin.flink.FlinkInterpreterTest-testSimpleStatementWithSystemOutput
+Wed May 16 02:27:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:51 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.flink.FlinkInterpreterTest
+Wed May 16 02:27:52 UTC 2018: Found element on the queue
+Wed May 16 02:27:52 UTC 2018: Updating status
+Wed May 16 02:27:52 UTC 2018: Working
+Wed May 16 02:27:52 UTC 2018: Create project parser
+Wed May 16 02:27:55 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.hbase.HbaseInterpreterTest
+Wed May 16 02:27:55 UTC 2018: Setting lastTestMethodIndex: 57259
+Wed May 16 02:27:55 UTC 2018: Starting linking
+Wed May 16 02:27:55 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-newObject
+Wed May 16 02:27:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:55 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-testException
+Wed May 16 02:27:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:55 UTC 2018: No link for: org.apache.zeppelin.hbase.HbaseInterpreterTest-putsTest
+Wed May 16 02:27:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:55 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.hbase.HbaseInterpreterTest
+Wed May 16 02:27:56 UTC 2018: Found element on the queue
+Wed May 16 02:27:56 UTC 2018: Updating status
+Wed May 16 02:27:56 UTC 2018: Working
+Wed May 16 02:27:56 UTC 2018: Create project parser
+Wed May 16 02:27:59 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.ignite.IgniteSqlInterpreterTest
+Wed May 16 02:27:59 UTC 2018: Setting lastTestMethodIndex: 57262
+Wed May 16 02:27:59 UTC 2018: Starting linking
+Wed May 16 02:27:59 UTC 2018: No link for: org.apache.zeppelin.ignite.IgniteSqlInterpreterTest-testSql
+Wed May 16 02:27:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:59 UTC 2018: No link for: org.apache.zeppelin.ignite.IgniteSqlInterpreterTest-testInvalidSql
+Wed May 16 02:27:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:27:59 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.ignite.IgniteSqlInterpreterTest
+Wed May 16 02:28:00 UTC 2018: Found element on the queue
+Wed May 16 02:28:00 UTC 2018: Updating status
+Wed May 16 02:28:00 UTC 2018: Working
+Wed May 16 02:28:02 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.ignite.IgniteInterpreterTest
+Wed May 16 02:28:02 UTC 2018: Setting lastTestMethodIndex: 57264
+Wed May 16 02:28:02 UTC 2018: Starting linking
+Wed May 16 02:28:02 UTC 2018: Code found org.apache.zeppelin.ignite.IgniteInterpreter-interpret with org.apache.zeppelin.ignite.IgniteInterpreterTest-testInterpretInvalidInput
+Wed May 16 02:28:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:28:03 UTC 2018: Code found org.apache.zeppelin.ignite.IgniteInterpreter-interpret with org.apache.zeppelin.ignite.IgniteInterpreterTest-testInterpret
+Wed May 16 02:28:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:28:03 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.ignite.IgniteInterpreterTest
+Wed May 16 02:28:03 UTC 2018: Found element on the queue
+Wed May 16 02:28:03 UTC 2018: Updating status
+Wed May 16 02:28:03 UTC 2018: Working
+Wed May 16 02:28:03 UTC 2018: Create project parser
+Wed May 16 02:28:06 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.jdbc.JDBCInterpreterTest
+Wed May 16 02:28:06 UTC 2018: Setting lastTestMethodIndex: 57266
+Wed May 16 02:28:06 UTC 2018: Starting linking
+Wed May 16 02:28:06 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testForParsePropertyKey
+Wed May 16 02:28:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:07 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQuery
+Wed May 16 02:28:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:07 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-concurrentSettingTest
+Wed May 16 02:28:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:07 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testForMapPrefix
+Wed May 16 02:28:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:07 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQueryWithNull
+Wed May 16 02:28:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:08 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testAutoCompletion
+Wed May 16 02:28:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:08 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testDefaultProperties
+Wed May 16 02:28:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:08 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectQueryMaxResult
+Wed May 16 02:28:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:09 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSplitSqlQuery
+Wed May 16 02:28:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:09 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testSelectMultipleQuries
+Wed May 16 02:28:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:09 UTC 2018: No link for: org.apache.zeppelin.jdbc.JDBCInterpreterTest-testMultiTenant
+Wed May 16 02:28:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:10 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.jdbc.JDBCInterpreterTest
+Wed May 16 02:28:10 UTC 2018: Found element on the queue
+Wed May 16 02:28:10 UTC 2018: Updating status
+Wed May 16 02:28:10 UTC 2018: Working
+Wed May 16 02:28:10 UTC 2018: Create project parser
+Wed May 16 02:28:13 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class KylinInterpreterTest
+Wed May 16 02:28:13 UTC 2018: Setting lastTestMethodIndex: 57270
+Wed May 16 02:28:13 UTC 2018: Starting linking
+Wed May 16 02:28:13 UTC 2018: No link for: KylinInterpreterTest-testWithProject
+Wed May 16 02:28:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:13 UTC 2018: No link for: KylinInterpreterTest-testWithDefault
+Wed May 16 02:28:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:13 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class KylinInterpreterTest
+Wed May 16 02:28:14 UTC 2018: Found element on the queue
+Wed May 16 02:28:14 UTC 2018: Updating status
+Wed May 16 02:28:14 UTC 2018: Working
+Wed May 16 02:28:14 UTC 2018: Create project parser
+Wed May 16 02:28:16 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.lens.LensInterpreterTest
+Wed May 16 02:28:16 UTC 2018: Setting lastTestMethodIndex: 57273
+Wed May 16 02:28:16 UTC 2018: Starting linking
+Wed May 16 02:28:16 UTC 2018: No link for: org.apache.zeppelin.lens.LensInterpreterTest-test
+Wed May 16 02:28:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:17 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.lens.LensInterpreterTest
+Wed May 16 02:28:17 UTC 2018: Found element on the queue
+Wed May 16 02:28:17 UTC 2018: Updating status
+Wed May 16 02:28:17 UTC 2018: Working
+Wed May 16 02:28:17 UTC 2018: Create project parser
+Wed May 16 02:28:20 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.livy.LivySQLInterpreterTest
+Wed May 16 02:28:20 UTC 2018: Setting lastTestMethodIndex: 57276
+Wed May 16 02:28:20 UTC 2018: Starting linking
+Wed May 16 02:28:20 UTC 2018: Code found org.apache.zeppelin.livy.LivySparkSQLInterpreter-parseSQLOutput with org.apache.zeppelin.livy.LivySQLInterpreterTest-testParseSQLOutput
+Wed May 16 02:28:20 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:28:20 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.livy.LivySQLInterpreterTest
+Wed May 16 02:28:21 UTC 2018: Found element on the queue
+Wed May 16 02:28:21 UTC 2018: Updating status
+Wed May 16 02:28:21 UTC 2018: Working
+Wed May 16 02:28:21 UTC 2018: Create project parser
+Wed May 16 02:28:24 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.markdown.PegdownParserTest
+Wed May 16 02:28:24 UTC 2018: Setting lastTestMethodIndex: 57279
+Wed May 16 02:28:24 UTC 2018: Starting linking
+Wed May 16 02:28:24 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testHeader
+Wed May 16 02:28:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:24 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testStrikethrough
+Wed May 16 02:28:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:24 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testYumlPlugin
+Wed May 16 02:28:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:25 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testBlockQuotes
+Wed May 16 02:28:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:25 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testUnorderedList
+Wed May 16 02:28:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:26 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testItalics
+Wed May 16 02:28:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:26 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testStrongEmphasis
+Wed May 16 02:28:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:26 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testOrderedList
+Wed May 16 02:28:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:27 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testLinks
+Wed May 16 02:28:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:27 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testInlineCode
+Wed May 16 02:28:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:27 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testAlignedTable
+Wed May 16 02:28:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testWebsequencePlugin
+Wed May 16 02:28:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:28 UTC 2018: No link for: org.apache.zeppelin.markdown.PegdownParserTest-testSimpleTable
+Wed May 16 02:28:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:28 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.markdown.PegdownParserTest
+Wed May 16 02:28:29 UTC 2018: Found element on the queue
+Wed May 16 02:28:29 UTC 2018: Updating status
+Wed May 16 02:28:29 UTC 2018: Working
+Wed May 16 02:28:31 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.markdown.Markdown4jParserTest
+Wed May 16 02:28:31 UTC 2018: Setting lastTestMethodIndex: 57283
+Wed May 16 02:28:31 UTC 2018: Starting linking
+Wed May 16 02:28:31 UTC 2018: No link for: org.apache.zeppelin.markdown.Markdown4jParserTest-testStrikethrough
+Wed May 16 02:28:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:32 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.markdown.Markdown4jParserTest
+Wed May 16 02:28:32 UTC 2018: Found element on the queue
+Wed May 16 02:28:32 UTC 2018: Updating status
+Wed May 16 02:28:32 UTC 2018: Working
+Wed May 16 02:28:32 UTC 2018: Create project parser
+Wed May 16 02:28:35 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.pig.PigInterpreterSparkTest
+Wed May 16 02:28:35 UTC 2018: Setting lastTestMethodIndex: 57286
+Wed May 16 02:28:35 UTC 2018: Starting linking
+Wed May 16 02:28:35 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterSparkTest-testIncludeJobStats
+Wed May 16 02:28:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:35 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterSparkTest-testBasics
+Wed May 16 02:28:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:35 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.pig.PigInterpreterSparkTest
+Wed May 16 02:28:36 UTC 2018: Found element on the queue
+Wed May 16 02:28:36 UTC 2018: Updating status
+Wed May 16 02:28:36 UTC 2018: Working
+Wed May 16 02:28:38 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.pig.PigQueryInterpreterTest
+Wed May 16 02:28:38 UTC 2018: Setting lastTestMethodIndex: 57289
+Wed May 16 02:28:38 UTC 2018: Starting linking
+Wed May 16 02:28:38 UTC 2018: No link for: org.apache.zeppelin.pig.PigQueryInterpreterTest-testBasics
+Wed May 16 02:28:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:39 UTC 2018: No link for: org.apache.zeppelin.pig.PigQueryInterpreterTest-testMaxResult
+Wed May 16 02:28:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:39 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.pig.PigQueryInterpreterTest
+Wed May 16 02:28:40 UTC 2018: Found element on the queue
+Wed May 16 02:28:40 UTC 2018: Updating status
+Wed May 16 02:28:40 UTC 2018: Working
+Wed May 16 02:28:42 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.pig.PigInterpreterTest
+Wed May 16 02:28:42 UTC 2018: Setting lastTestMethodIndex: 57291
+Wed May 16 02:28:42 UTC 2018: Starting linking
+Wed May 16 02:28:42 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTest-testIncludeJobStats
+Wed May 16 02:28:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:42 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTest-testBasics
+Wed May 16 02:28:43 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:43 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.pig.PigInterpreterTest
+Wed May 16 02:28:43 UTC 2018: Found element on the queue
+Wed May 16 02:28:43 UTC 2018: Updating status
+Wed May 16 02:28:43 UTC 2018: Working
+Wed May 16 02:28:46 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.pig.PigInterpreterTezTest
+Wed May 16 02:28:46 UTC 2018: Setting lastTestMethodIndex: 57296
+Wed May 16 02:28:46 UTC 2018: Starting linking
+Wed May 16 02:28:46 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTezTest-testBasics
+Wed May 16 02:28:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:46 UTC 2018: No link for: org.apache.zeppelin.pig.PigInterpreterTezTest-testIncludeJobStats
+Wed May 16 02:28:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:46 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.pig.PigInterpreterTezTest
+Wed May 16 02:28:47 UTC 2018: Found element on the queue
+Wed May 16 02:28:47 UTC 2018: Updating status
+Wed May 16 02:28:47 UTC 2018: Working
+Wed May 16 02:28:47 UTC 2018: Create project parser
+Wed May 16 02:28:49 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest
+Wed May 16 02:28:49 UTC 2018: Setting lastTestMethodIndex: 57299
+Wed May 16 02:28:49 UTC 2018: Starting linking
+Wed May 16 02:28:49 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testSelectQuery
+Wed May 16 02:28:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:50 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testStatementCancel
+Wed May 16 02:28:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:50 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testSelectQueryWithSpecialCharacters
+Wed May 16 02:28:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:50 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testSelectQueryMaxResult
+Wed May 16 02:28:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:51 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testOpenCommandIndempotency
+Wed May 16 02:28:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:51 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testAutoCompletion
+Wed May 16 02:28:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:51 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testNullColumnResult
+Wed May 16 02:28:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:52 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testExplainQuery
+Wed May 16 02:28:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:52 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testExplainQueryWithSpecialCharachters
+Wed May 16 02:28:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:52 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testDefaultProperties
+Wed May 16 02:28:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:52 UTC 2018: No link for: org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest-testConnectionClose
+Wed May 16 02:28:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:53 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.postgresql.PostgreSqlInterpreterTest
+Wed May 16 02:28:53 UTC 2018: Found element on the queue
+Wed May 16 02:28:53 UTC 2018: Updating status
+Wed May 16 02:28:53 UTC 2018: Working
+Wed May 16 02:28:56 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.postgresql.SqlCompleterTest
+Wed May 16 02:28:56 UTC 2018: Setting lastTestMethodIndex: 57301
+Wed May 16 02:28:56 UTC 2018: Starting linking
+Wed May 16 02:28:56 UTC 2018: No link for: org.apache.zeppelin.postgresql.SqlCompleterTest-testDotDelimiter
+Wed May 16 02:28:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:56 UTC 2018: No link for: org.apache.zeppelin.postgresql.SqlCompleterTest-testAfterBufferEnd
+Wed May 16 02:28:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:56 UTC 2018: No link for: org.apache.zeppelin.postgresql.SqlCompleterTest-testSqlDelimiterCharacters
+Wed May 16 02:28:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:57 UTC 2018: No link for: org.apache.zeppelin.postgresql.SqlCompleterTest-testMultiLineBuffer
+Wed May 16 02:28:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:57 UTC 2018: No link for: org.apache.zeppelin.postgresql.SqlCompleterTest-testMultipleWords
+Wed May 16 02:28:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:57 UTC 2018: No link for: org.apache.zeppelin.postgresql.SqlCompleterTest-testMultipleCompletionSuggestions
+Wed May 16 02:28:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:58 UTC 2018: No link for: org.apache.zeppelin.postgresql.SqlCompleterTest-testEdges
+Wed May 16 02:28:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:28:58 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.postgresql.SqlCompleterTest
+Wed May 16 02:28:58 UTC 2018: Found element on the queue
+Wed May 16 02:28:58 UTC 2018: Updating status
+Wed May 16 02:28:58 UTC 2018: Working
+Wed May 16 02:28:58 UTC 2018: Create project parser
+Wed May 16 02:29:01 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.python.PythonCondaInterpreterTest
+Wed May 16 02:29:01 UTC 2018: Setting lastTestMethodIndex: 57305
+Wed May 16 02:29:01 UTC 2018: Starting linking
+Wed May 16 02:29:01 UTC 2018: Code found org.apache.zeppelin.python.PythonCondaInterpreter-parseCondaCommonStdout with org.apache.zeppelin.python.PythonCondaInterpreterTest-testParseCondaCommonStdout
+Wed May 16 02:29:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:29:01 UTC 2018: Code found org.apache.zeppelin.python.PythonCondaInterpreter-getRestArgsFromMatcher with org.apache.zeppelin.python.PythonCondaInterpreterTest-testGetRestArgsFromMatcher
+Wed May 16 02:29:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:29:02 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testListEnv
+Wed May 16 02:29:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:02 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testActivateEnv
+Wed May 16 02:29:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:02 UTC 2018: No link for: org.apache.zeppelin.python.PythonCondaInterpreterTest-testDeactivate
+Wed May 16 02:29:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:03 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.python.PythonCondaInterpreterTest
+Wed May 16 02:29:03 UTC 2018: Found element on the queue
+Wed May 16 02:29:03 UTC 2018: Updating status
+Wed May 16 02:29:03 UTC 2018: Working
+Wed May 16 02:29:06 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.python.PythonDockerInterpreterTest
+Wed May 16 02:29:06 UTC 2018: Setting lastTestMethodIndex: 57308
+Wed May 16 02:29:06 UTC 2018: Starting linking
+Wed May 16 02:29:06 UTC 2018: No link for: org.apache.zeppelin.python.PythonDockerInterpreterTest-testDeactivate
+Wed May 16 02:29:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:06 UTC 2018: No link for: org.apache.zeppelin.python.PythonDockerInterpreterTest-testActivateEnv
+Wed May 16 02:29:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:07 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.python.PythonDockerInterpreterTest
+Wed May 16 02:29:07 UTC 2018: Found element on the queue
+Wed May 16 02:29:07 UTC 2018: Updating status
+Wed May 16 02:29:07 UTC 2018: Working
+Wed May 16 02:29:07 UTC 2018: Create project parser
+Wed May 16 02:29:10 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.shell.ShellInterpreterTest
+Wed May 16 02:29:10 UTC 2018: Setting lastTestMethodIndex: 57311
+Wed May 16 02:29:10 UTC 2018: Starting linking
+Wed May 16 02:29:10 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-testShellTimeout
+Wed May 16 02:29:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:10 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-testInvalidCommand
+Wed May 16 02:29:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:10 UTC 2018: No link for: org.apache.zeppelin.shell.ShellInterpreterTest-test
+Wed May 16 02:29:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:11 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.shell.ShellInterpreterTest
+Wed May 16 02:29:11 UTC 2018: Found element on the queue
+Wed May 16 02:29:11 UTC 2018: Updating status
+Wed May 16 02:29:11 UTC 2018: Working
+Wed May 16 02:29:11 UTC 2018: Create project parser
+Wed May 16 02:29:18 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.user.CredentialsTest
+Wed May 16 02:29:18 UTC 2018: Setting lastTestMethodIndex: 57317
+Wed May 16 02:29:18 UTC 2018: Starting linking
+Wed May 16 02:29:18 UTC 2018: No link for: org.apache.zeppelin.user.CredentialsTest-testDefaultProperty
+Wed May 16 02:29:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:19 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.user.CredentialsTest
+Wed May 16 02:29:19 UTC 2018: Found element on the queue
+Wed May 16 02:29:19 UTC 2018: Updating status
+Wed May 16 02:29:19 UTC 2018: Working
+Wed May 16 02:29:22 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.dep.DependencyResolverTest
+Wed May 16 02:29:22 UTC 2018: Setting lastTestMethodIndex: 57319
+Wed May 16 02:29:22 UTC 2018: Starting linking
+Wed May 16 02:29:22 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-addRepo with org.apache.zeppelin.dep.DependencyResolverTest-testAddRepo
+Wed May 16 02:29:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:29:22 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-delRepo with org.apache.zeppelin.dep.DependencyResolverTest-testDelRepo
+Wed May 16 02:29:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:29:23 UTC 2018: Code found org.apache.zeppelin.dep.DependencyResolver-load with org.apache.zeppelin.dep.DependencyResolverTest-testLoad
+Wed May 16 02:29:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:29:23 UTC 2018: No link for: org.apache.zeppelin.dep.DependencyResolverTest-should_throw_exception_if_dependency_not_found
+Wed May 16 02:29:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:23 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.dep.DependencyResolverTest
+Wed May 16 02:29:24 UTC 2018: Found element on the queue
+Wed May 16 02:29:24 UTC 2018: Updating status
+Wed May 16 02:29:24 UTC 2018: Working
+Wed May 16 02:29:26 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.dep.BooterTest
+Wed May 16 02:29:26 UTC 2018: Setting lastTestMethodIndex: 57322
+Wed May 16 02:29:26 UTC 2018: Starting linking
+Wed May 16 02:29:26 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_return_absolute_path
+Wed May 16 02:29:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:26 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_not_change_absolute_path
+Wed May 16 02:29:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:27 UTC 2018: No link for: org.apache.zeppelin.dep.BooterTest-should_throw_exception_for_null
+Wed May 16 02:29:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:27 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.dep.BooterTest
+Wed May 16 02:29:28 UTC 2018: Found element on the queue
+Wed May 16 02:29:28 UTC 2018: Updating status
+Wed May 16 02:29:28 UTC 2018: Working
+Wed May 16 02:29:30 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.scheduler.ParallelSchedulerTest
+Wed May 16 02:29:30 UTC 2018: Setting lastTestMethodIndex: 57325
+Wed May 16 02:29:30 UTC 2018: Starting linking
+Wed May 16 02:29:30 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.scheduler.ParallelSchedulerTest
+Wed May 16 02:29:31 UTC 2018: Found element on the queue
+Wed May 16 02:29:31 UTC 2018: Updating status
+Wed May 16 02:29:31 UTC 2018: Working
+Wed May 16 02:29:33 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.scheduler.FIFOSchedulerTest
+Wed May 16 02:29:33 UTC 2018: Setting lastTestMethodIndex: 57328
+Wed May 16 02:29:33 UTC 2018: Starting linking
+Wed May 16 02:29:33 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.scheduler.FIFOSchedulerTest
+Wed May 16 02:29:34 UTC 2018: Found element on the queue
+Wed May 16 02:29:34 UTC 2018: Updating status
+Wed May 16 02:29:34 UTC 2018: Working
+Wed May 16 02:29:36 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.display.InputTest
+Wed May 16 02:29:36 UTC 2018: Setting lastTestMethodIndex: 57331
+Wed May 16 02:29:36 UTC 2018: Starting linking
+Wed May 16 02:29:36 UTC 2018: No link for: org.apache.zeppelin.display.InputTest-testFormExtraction
+Wed May 16 02:29:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:36 UTC 2018: No link for: org.apache.zeppelin.display.InputTest-testFormSubstitution
+Wed May 16 02:29:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:37 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.display.InputTest
+Wed May 16 02:29:37 UTC 2018: Found element on the queue
+Wed May 16 02:29:37 UTC 2018: Updating status
+Wed May 16 02:29:37 UTC 2018: Working
+Wed May 16 02:29:40 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.display.AngularObjectTest
+Wed May 16 02:29:40 UTC 2018: Setting lastTestMethodIndex: 57332
+Wed May 16 02:29:40 UTC 2018: Starting linking
+Wed May 16 02:29:40 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testWatcher
+Wed May 16 02:29:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:40 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testEquals
+Wed May 16 02:29:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:40 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectTest-testListener
+Wed May 16 02:29:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:41 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.display.AngularObjectTest
+Wed May 16 02:29:41 UTC 2018: Found element on the queue
+Wed May 16 02:29:41 UTC 2018: Updating status
+Wed May 16 02:29:41 UTC 2018: Working
+Wed May 16 02:29:44 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.display.AngularObjectRegistryTest
+Wed May 16 02:29:44 UTC 2018: Setting lastTestMethodIndex: 57336
+Wed May 16 02:29:44 UTC 2018: Starting linking
+Wed May 16 02:29:44 UTC 2018: Code found org.apache.zeppelin.display.AngularObjectRegistry-get with org.apache.zeppelin.display.AngularObjectRegistryTest-testGetDependOnScope
+Wed May 16 02:29:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:29:44 UTC 2018: Code found org.apache.zeppelin.display.AngularObjectRegistry-getAll with org.apache.zeppelin.display.AngularObjectRegistryTest-testGetAllDependOnScope
+Wed May 16 02:29:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:29:44 UTC 2018: No link for: org.apache.zeppelin.display.AngularObjectRegistryTest-testBasic
+Wed May 16 02:29:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:45 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.display.AngularObjectRegistryTest
+Wed May 16 02:29:45 UTC 2018: Found element on the queue
+Wed May 16 02:29:45 UTC 2018: Updating status
+Wed May 16 02:29:45 UTC 2018: Working
+Wed May 16 02:29:48 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.LazyOpenInterpreterTest
+Wed May 16 02:29:48 UTC 2018: Setting lastTestMethodIndex: 57339
+Wed May 16 02:29:48 UTC 2018: Starting linking
+Wed May 16 02:29:48 UTC 2018: Code found org.apache.zeppelin.interpreter.LazyOpenInterpreter-isOpen with org.apache.zeppelin.interpreter.LazyOpenInterpreterTest-isOpenTest
+Wed May 16 02:29:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:29:48 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.LazyOpenInterpreterTest
+Wed May 16 02:29:49 UTC 2018: Found element on the queue
+Wed May 16 02:29:49 UTC 2018: Updating status
+Wed May 16 02:29:49 UTC 2018: Working
+Wed May 16 02:29:51 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.AppendOutputRunnerTest
+Wed May 16 02:29:51 UTC 2018: Setting lastTestMethodIndex: 57342
+Wed May 16 02:29:51 UTC 2018: Starting linking
+Wed May 16 02:29:51 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.AppendOutputRunnerTest-testMultipleEventsOfDifferentParagraphs
+Wed May 16 02:29:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:51 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.AppendOutputRunnerTest-testWarnLoggerForLargeData
+Wed May 16 02:29:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:52 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.AppendOutputRunnerTest-testMultipleEventsOfSameParagraph
+Wed May 16 02:29:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:52 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.AppendOutputRunnerTest-testClubbedData
+Wed May 16 02:29:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:52 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.AppendOutputRunnerTest-testSingleEvent
+Wed May 16 02:29:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:29:52 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.AppendOutputRunnerTest
+Wed May 16 02:29:53 UTC 2018: Found element on the queue
+Wed May 16 02:29:53 UTC 2018: Updating status
+Wed May 16 02:29:53 UTC 2018: Working
+Wed May 16 02:29:56 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest
+Wed May 16 02:29:56 UTC 2018: Setting lastTestMethodIndex: 57345
+Wed May 16 02:29:56 UTC 2018: Starting linking
+Wed May 16 02:29:56 UTC 2018: No code found org.apache.zeppelin.interpreter.remote.RemoteInterpreterServer-start with org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest-testStartStop
+Wed May 16 02:29:56 UTC 2018: No code found org.apache.zeppelin.interpreter.remote.RemoteInterpreterServer-start with org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest-testStartStopWithQueuedEvents
+Wed May 16 02:29:56 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterServerTest
+Wed May 16 02:29:57 UTC 2018: Found element on the queue
+Wed May 16 02:29:57 UTC 2018: Updating status
+Wed May 16 02:29:57 UTC 2018: Working
+Wed May 16 02:29:59 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteAngularObjectTest
+Wed May 16 02:29:59 UTC 2018: Setting lastTestMethodIndex: 57348
+Wed May 16 02:29:59 UTC 2018: Starting linking
+Wed May 16 02:29:59 UTC 2018: Code found org.apache.zeppelin.interpreter.remote.RemoteInterpreter-interpret with org.apache.zeppelin.interpreter.remote.RemoteAngularObjectTest-testAngularObjectInterpreterSideCRUD
+Wed May 16 02:30:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:30:00 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteAngularObjectTest-testAngularObjectAddOnZeppelinServerSide
+Wed May 16 02:30:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:00 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteAngularObjectTest-testAngularObjectRemovalOnZeppelinServerSide
+Wed May 16 02:30:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:00 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteAngularObjectTest
+Wed May 16 02:30:01 UTC 2018: Found element on the queue
+Wed May 16 02:30:01 UTC 2018: Updating status
+Wed May 16 02:30:01 UTC 2018: Working
+Wed May 16 02:30:03 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest
+Wed May 16 02:30:03 UTC 2018: Setting lastTestMethodIndex: 57351
+Wed May 16 02:30:03 UTC 2018: Starting linking
+Wed May 16 02:30:03 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testInterpreterGroupResetBeforeProcessStarts
+Wed May 16 02:30:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:03 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testRunParallel
+Wed May 16 02:30:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:04 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testInterpreterGroupResetAfterProcessFinished
+Wed May 16 02:30:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:04 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testRemoteSchedulerSharing
+Wed May 16 02:30:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:04 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testRemoteSchedulerSharingSubmit
+Wed May 16 02:30:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:05 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testRemoteInterpreterSharesTheSameSchedulerInstanceInTheSameGroup
+Wed May 16 02:30:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:05 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testInterpreterGroupResetDuringProcessRunning
+Wed May 16 02:30:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:05 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testEnvStringPattern
+Wed May 16 02:30:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:06 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testRemoteInterperterErrorStatus
+Wed May 16 02:30:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:06 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testRunOrderPreserved
+Wed May 16 02:30:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:06 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testRemoteInterperterCall
+Wed May 16 02:30:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:06 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testMultiInterpreterSession
+Wed May 16 02:30:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:07 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-should_push_local_angular_repo_to_remote
+Wed May 16 02:30:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:07 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest-testEnvronmentAndPropertySet
+Wed May 16 02:30:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:07 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterTest
+Wed May 16 02:30:08 UTC 2018: Found element on the queue
+Wed May 16 02:30:08 UTC 2018: Updating status
+Wed May 16 02:30:08 UTC 2018: Working
+Wed May 16 02:30:10 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterProcessTest
+Wed May 16 02:30:10 UTC 2018: Setting lastTestMethodIndex: 57357
+Wed May 16 02:30:10 UTC 2018: Starting linking
+Wed May 16 02:30:10 UTC 2018: No code found org.apache.zeppelin.interpreter.remote.RemoteInterpreterServer-start with org.apache.zeppelin.interpreter.remote.RemoteInterpreterProcessTest-testStartStopRemoteInterpreter
+Wed May 16 02:30:11 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterProcessTest-testClientFactory
+Wed May 16 02:30:11 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterProcessTest-testPropagateError
+Wed May 16 02:30:11 UTC 2018: No link for: org.apache.zeppelin.interpreter.remote.RemoteInterpreterProcessTest-testStartStop
+Wed May 16 02:30:12 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterProcessTest
+Wed May 16 02:30:12 UTC 2018: Found element on the queue
+Wed May 16 02:30:12 UTC 2018: Updating status
+Wed May 16 02:30:12 UTC 2018: Working
+Wed May 16 02:30:15 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterUtilsTest
+Wed May 16 02:30:15 UTC 2018: Setting lastTestMethodIndex: 57359
+Wed May 16 02:30:15 UTC 2018: Starting linking
+Wed May 16 02:30:15 UTC 2018: Code found org.apache.zeppelin.interpreter.remote.RemoteInterpreterUtils-findRandomAvailablePortOnAllLocalInterfaces with org.apache.zeppelin.interpreter.remote.RemoteInterpreterUtilsTest-testFindRandomAvailablePortOnAllLocalInterfaces
+Wed May 16 02:30:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:30:15 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.remote.RemoteInterpreterUtilsTest
+Wed May 16 02:30:15 UTC 2018: Found element on the queue
+Wed May 16 02:30:15 UTC 2018: Updating status
+Wed May 16 02:30:15 UTC 2018: Working
+Wed May 16 02:30:18 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterResultTest
+Wed May 16 02:30:18 UTC 2018: Setting lastTestMethodIndex: 57362
+Wed May 16 02:30:18 UTC 2018: Starting linking
+Wed May 16 02:30:18 UTC 2018: Code found org.apache.zeppelin.interpreter.InterpreterResult-toString with org.apache.zeppelin.interpreter.InterpreterResultTest-testToString
+Wed May 16 02:30:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:30:18 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testSimpleMagicType
+Wed May 16 02:30:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:19 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testSimpleMagicData
+Wed May 16 02:30:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:19 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testComplexMagicData
+Wed May 16 02:30:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:19 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterResultTest-testTextType
+Wed May 16 02:30:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:19 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterResultTest
+Wed May 16 02:30:20 UTC 2018: Found element on the queue
+Wed May 16 02:30:20 UTC 2018: Updating status
+Wed May 16 02:30:20 UTC 2018: Working
+Wed May 16 02:30:22 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterContextTest
+Wed May 16 02:30:22 UTC 2018: Setting lastTestMethodIndex: 57365
+Wed May 16 02:30:22 UTC 2018: Starting linking
+Wed May 16 02:30:22 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterContextTest-testThreadLocal
+Wed May 16 02:30:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:23 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterContextTest
+Wed May 16 02:30:23 UTC 2018: Found element on the queue
+Wed May 16 02:30:23 UTC 2018: Updating status
+Wed May 16 02:30:23 UTC 2018: Working
+Wed May 16 02:30:26 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterOutputTest
+Wed May 16 02:30:26 UTC 2018: Setting lastTestMethodIndex: 57367
+Wed May 16 02:30:26 UTC 2018: Starting linking
+Wed May 16 02:30:26 UTC 2018: Code found org.apache.zeppelin.interpreter.InterpreterOutput-flush with org.apache.zeppelin.interpreter.InterpreterOutputTest-testFlush
+Wed May 16 02:30:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:30:26 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testDetectNewline
+Wed May 16 02:30:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:26 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeInTheBeginning
+Wed May 16 02:30:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:27 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testMagicData
+Wed May 16 02:30:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:27 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testType
+Wed May 16 02:30:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:27 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testTableCellFormatting
+Wed May 16 02:30:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:28 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeWithMultipleNewline
+Wed May 16 02:30:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:28 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testTruncate
+Wed May 16 02:30:28 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputTest-testChangeTypeWithoutData
+Wed May 16 02:30:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:28 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterOutputTest
+Wed May 16 02:30:29 UTC 2018: Found element on the queue
+Wed May 16 02:30:29 UTC 2018: Updating status
+Wed May 16 02:30:29 UTC 2018: Working
+Wed May 16 02:30:31 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterHookRegistryTest
+Wed May 16 02:30:31 UTC 2018: Setting lastTestMethodIndex: 57371
+Wed May 16 02:30:31 UTC 2018: Starting linking
+Wed May 16 02:30:31 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterHookRegistryTest-testBasic
+Wed May 16 02:30:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:32 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterHookRegistryTest-testValidEventCode
+Wed May 16 02:30:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:32 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterHookRegistryTest
+Wed May 16 02:30:33 UTC 2018: Found element on the queue
+Wed May 16 02:30:33 UTC 2018: Updating status
+Wed May 16 02:30:33 UTC 2018: Working
+Wed May 16 02:30:35 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest
+Wed May 16 02:30:35 UTC 2018: Setting lastTestMethodIndex: 57374
+Wed May 16 02:30:35 UTC 2018: Starting linking
+Wed May 16 02:30:35 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest-test
+Wed May 16 02:30:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:35 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterOutputChangeWatcherTest
+Wed May 16 02:30:36 UTC 2018: Found element on the queue
+Wed May 16 02:30:36 UTC 2018: Updating status
+Wed May 16 02:30:36 UTC 2018: Working
+Wed May 16 02:30:38 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterTest
+Wed May 16 02:30:38 UTC 2018: Setting lastTestMethodIndex: 57378
+Wed May 16 02:30:38 UTC 2018: Starting linking
+Wed May 16 02:30:39 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterTest-testDefaultProperty
+Wed May 16 02:30:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:39 UTC 2018: No link for: org.apache.zeppelin.interpreter.InterpreterTest-testOverriddenProperty
+Wed May 16 02:30:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:39 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.interpreter.InterpreterTest
+Wed May 16 02:30:40 UTC 2018: Found element on the queue
+Wed May 16 02:30:40 UTC 2018: Updating status
+Wed May 16 02:30:40 UTC 2018: Working
+Wed May 16 02:30:42 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.resource.LocalResourcePoolTest
+Wed May 16 02:30:42 UTC 2018: Setting lastTestMethodIndex: 57381
+Wed May 16 02:30:42 UTC 2018: Starting linking
+Wed May 16 02:30:42 UTC 2018: Code found org.apache.zeppelin.resource.Resource-get with org.apache.zeppelin.resource.LocalResourcePoolTest-testGetPutResourcePool
+Wed May 16 02:30:43 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:30:43 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.resource.LocalResourcePoolTest
+Wed May 16 02:30:43 UTC 2018: Found element on the queue
+Wed May 16 02:30:43 UTC 2018: Updating status
+Wed May 16 02:30:43 UTC 2018: Working
+Wed May 16 02:30:45 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.resource.DistributedResourcePoolTest
+Wed May 16 02:30:45 UTC 2018: Setting lastTestMethodIndex: 57384
+Wed May 16 02:30:45 UTC 2018: Starting linking
+Wed May 16 02:30:45 UTC 2018: No link for: org.apache.zeppelin.resource.DistributedResourcePoolTest-testResourcePoolUtils
+Wed May 16 02:30:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:46 UTC 2018: No link for: org.apache.zeppelin.resource.DistributedResourcePoolTest-testRemoteDistributedResourcePool
+Wed May 16 02:30:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:46 UTC 2018: No link for: org.apache.zeppelin.resource.DistributedResourcePoolTest-testDistributedResourcePool
+Wed May 16 02:30:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:46 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.resource.DistributedResourcePoolTest
+Wed May 16 02:30:47 UTC 2018: Found element on the queue
+Wed May 16 02:30:47 UTC 2018: Updating status
+Wed May 16 02:30:47 UTC 2018: Working
+Wed May 16 02:30:49 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.resource.ResourceSetTest
+Wed May 16 02:30:49 UTC 2018: Setting lastTestMethodIndex: 57386
+Wed May 16 02:30:49 UTC 2018: Starting linking
+Wed May 16 02:30:49 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceSetTest-testFilterByName
+Wed May 16 02:30:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:50 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceSetTest-testFilterByClassName
+Wed May 16 02:30:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:50 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.resource.ResourceSetTest
+Wed May 16 02:30:51 UTC 2018: Found element on the queue
+Wed May 16 02:30:51 UTC 2018: Updating status
+Wed May 16 02:30:51 UTC 2018: Working
+Wed May 16 02:30:53 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.resource.ResourceTest
+Wed May 16 02:30:53 UTC 2018: Setting lastTestMethodIndex: 57389
+Wed May 16 02:30:53 UTC 2018: Starting linking
+Wed May 16 02:30:53 UTC 2018: No link for: org.apache.zeppelin.resource.ResourceTest-testSerializeDeserialize
+Wed May 16 02:30:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 02:30:53 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.resource.ResourceTest
+Wed May 16 02:30:54 UTC 2018: Found element on the queue
+Wed May 16 02:30:54 UTC 2018: Updating status
+Wed May 16 02:30:54 UTC 2018: Working
+Wed May 16 02:30:56 UTC 2018: Start kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.helium.ApplicationLoaderTest
+Wed May 16 02:30:56 UTC 2018: Setting lastTestMethodIndex: 57391
+Wed May 16 02:30:56 UTC 2018: Starting linking
+Wed May 16 02:30:56 UTC 2018: No code found org.apache.zeppelin.helium.ApplicationLoader-load with org.apache.zeppelin.helium.ApplicationLoaderTest-loadUnloadApplication
+Wed May 16 02:30:57 UTC 2018: Linking done for kjmrknsn__zeppelin-livy-0.7.3-with-bug-fixes test class org.apache.zeppelin.helium.ApplicationLoaderTest

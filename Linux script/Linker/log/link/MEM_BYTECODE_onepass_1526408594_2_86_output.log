@@ -1,0 +1,630 @@
+Wed May 16 06:38:57 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:38:58 UTC 2018: Starting
+Wed May 16 06:38:58 UTC 2018: Found element on the queue
+Wed May 16 06:38:58 UTC 2018: Updating status
+Wed May 16 06:38:58 UTC 2018: Working
+Wed May 16 06:38:58 UTC 2018: Create project parser
+Wed May 16 06:39:04 UTC 2018: Create slicer
+Wed May 16 06:39:06 UTC 2018: Create call graph
+Wed May 16 06:39:09 UTC 2018: Create point analysis
+Wed May 16 06:39:09 UTC 2018: Create call graph done
+Wed May 16 06:39:09 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.cmslite.api.service.CMSLiteServiceImplTest
+Wed May 16 06:39:09 UTC 2018: Setting lastTestMethodIndex: 65392
+Wed May 16 06:39:09 UTC 2018: Starting linking
+Wed May 16 06:39:09 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldThrowIllegalArgumentExceptionWhileGettingContentWhenBothLanguageAndNameAreNull
+Wed May 16 06:39:09 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldThrowExceptionIfStreamContentDoesNotExist
+Wed May 16 06:39:10 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldThrowExceptionIfStringContentDoesNotExist
+Wed May 16 06:39:10 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldReturnTrueIfStringContentAvailable
+Wed May 16 06:39:11 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldThrowIllegalArgumentExceptionWhileGettingContentWhenLanguageIsNull
+Wed May 16 06:39:11 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldAddStringContent
+Wed May 16 06:39:12 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldReturnStreamContentIfContentExists
+Wed May 16 06:39:12 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldThrowIllegalArgumentExceptionWhileGettingContentWhenNameIsNull
+Wed May 16 06:39:12 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldThrowExceptionWhileAddingContentWhenLanguageIsNull
+Wed May 16 06:39:13 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldReturnStringContentIfContentExists
+Wed May 16 06:39:13 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldThrowExceptionWhileAddingContentWhenContentIsNull
+Wed May 16 06:39:14 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldReturnFalseIfStreamContentDoesNotAvailable
+Wed May 16 06:39:14 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldThrowExceptionWhileAddingContentWhenNameIsNull
+Wed May 16 06:39:15 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldReturnFalseIfStringContentNotAvailable
+Wed May 16 06:39:15 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldAddStreamContent
+Wed May 16 06:39:16 UTC 2018: No link for: org.motechproject.cmslite.api.service.CMSLiteServiceImplTest-shouldReturnTrueIfStreamContentAvailable
+Wed May 16 06:39:16 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.cmslite.api.service.CMSLiteServiceImplTest
+Wed May 16 06:39:16 UTC 2018: Found element on the queue
+Wed May 16 06:39:16 UTC 2018: Updating status
+Wed May 16 06:39:16 UTC 2018: Working
+Wed May 16 06:39:16 UTC 2018: Create project parser
+Wed May 16 06:39:22 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commcare.parser.CaseParserTest
+Wed May 16 06:39:22 UTC 2018: Setting lastTestMethodIndex: 65396
+Wed May 16 06:39:22 UTC 2018: Starting linking
+Wed May 16 06:39:22 UTC 2018: No link for: org.motechproject.commcare.parser.CaseParserTest-testShouldParseIndexElementCorrectly
+Wed May 16 06:39:23 UTC 2018: No link for: org.motechproject.commcare.parser.CaseParserTest-testShouldParseCloseAttributesCorrectly
+Wed May 16 06:39:23 UTC 2018: No link for: org.motechproject.commcare.parser.CaseParserTest-testShouldParseCreateAttributesCorrectly
+Wed May 16 06:39:24 UTC 2018: No link for: org.motechproject.commcare.parser.CaseParserTest-testShouldParseCaseAttributesCorrectly
+Wed May 16 06:39:24 UTC 2018: No link for: org.motechproject.commcare.parser.CaseParserTest-testShouldFetchAPIKeyFromCaseXML
+Wed May 16 06:39:25 UTC 2018: No link for: org.motechproject.commcare.parser.CaseParserTest-testShouldSetActionCorrectly
+Wed May 16 06:39:25 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commcare.parser.CaseParserTest
+Wed May 16 06:39:25 UTC 2018: Found element on the queue
+Wed May 16 06:39:25 UTC 2018: Updating status
+Wed May 16 06:39:25 UTC 2018: Working
+Wed May 16 06:39:28 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commcare.gateway.CaseTaskXmlConverterTest
+Wed May 16 06:39:29 UTC 2018: Setting lastTestMethodIndex: 65398
+Wed May 16 06:39:29 UTC 2018: Starting linking
+Wed May 16 06:39:29 UTC 2018: No link for: org.motechproject.commcare.gateway.CaseTaskXmlConverterTest-testCloseCaseXml
+Wed May 16 06:39:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:39:30 UTC 2018: No link for: org.motechproject.commcare.gateway.CaseTaskXmlConverterTest-testShouldRaiseExceptionEventWhenCaseNameIsMissing
+Wed May 16 06:39:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:39:30 UTC 2018: No link for: org.motechproject.commcare.gateway.CaseTaskXmlConverterTest-testNoIndexElementIncludedWhenNoIndices
+Wed May 16 06:39:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:39:31 UTC 2018: No link for: org.motechproject.commcare.gateway.CaseTaskXmlConverterTest-testCreateCaseXml
+Wed May 16 06:39:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:39:31 UTC 2018: No link for: org.motechproject.commcare.gateway.CaseTaskXmlConverterTest-testUpdateCaseXml
+Wed May 16 06:39:32 UTC 2018: No link for: org.motechproject.commcare.gateway.CaseTaskXmlConverterTest-testShouldRaiseExceptionEventWhenCaseTypeIsMissing
+Wed May 16 06:39:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:39:32 UTC 2018: No link for: org.motechproject.commcare.gateway.CaseTaskXmlConverterTest-testCorrectIndicesCaseXml
+Wed May 16 06:39:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:39:32 UTC 2018: No link for: org.motechproject.commcare.gateway.CaseTaskXmlConverterTest-testShouldRaiseExceptionEventWhenIndexIsMalformed
+Wed May 16 06:39:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:39:33 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commcare.gateway.CaseTaskXmlConverterTest
+Wed May 16 06:39:33 UTC 2018: Found element on the queue
+Wed May 16 06:39:33 UTC 2018: Updating status
+Wed May 16 06:39:33 UTC 2018: Working
+Wed May 16 06:39:36 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commcare.service.impl.CommcareUserServiceImplTest
+Wed May 16 06:39:36 UTC 2018: Setting lastTestMethodIndex: 65401
+Wed May 16 06:39:36 UTC 2018: Starting linking
+Wed May 16 06:39:36 UTC 2018: No link for: org.motechproject.commcare.service.impl.CommcareUserServiceImplTest-testAllUsers
+Wed May 16 06:39:36 UTC 2018: No link for: org.motechproject.commcare.service.impl.CommcareUserServiceImplTest-testGetUserWhenUserExists
+Wed May 16 06:39:37 UTC 2018: No link for: org.motechproject.commcare.service.impl.CommcareUserServiceImplTest-testGetUserWhenUserDoesNotExist
+Wed May 16 06:39:37 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commcare.service.impl.CommcareUserServiceImplTest
+Wed May 16 06:39:38 UTC 2018: Found element on the queue
+Wed May 16 06:39:38 UTC 2018: Updating status
+Wed May 16 06:39:38 UTC 2018: Working
+Wed May 16 06:39:41 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commcare.service.impl.CommcareFormServiceImplTest
+Wed May 16 06:39:41 UTC 2018: Setting lastTestMethodIndex: 65403
+Wed May 16 06:39:41 UTC 2018: Starting linking
+Wed May 16 06:39:41 UTC 2018: No link for: org.motechproject.commcare.service.impl.CommcareFormServiceImplTest-testAllCases
+Wed May 16 06:39:41 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commcare.service.impl.CommcareFormServiceImplTest
+Wed May 16 06:39:42 UTC 2018: Found element on the queue
+Wed May 16 06:39:42 UTC 2018: Updating status
+Wed May 16 06:39:42 UTC 2018: Working
+Wed May 16 06:39:45 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commcare.service.impl.CommcareCaseServiceImplTest
+Wed May 16 06:39:45 UTC 2018: Setting lastTestMethodIndex: 65404
+Wed May 16 06:39:45 UTC 2018: Starting linking
+Wed May 16 06:39:45 UTC 2018: No link for: org.motechproject.commcare.service.impl.CommcareCaseServiceImplTest-testAllCasesByUserId
+Wed May 16 06:39:45 UTC 2018: No link for: org.motechproject.commcare.service.impl.CommcareCaseServiceImplTest-testAllCases
+Wed May 16 06:39:45 UTC 2018: No link for: org.motechproject.commcare.service.impl.CommcareCaseServiceImplTest-testCaseByCaseId
+Wed May 16 06:39:46 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commcare.service.impl.CommcareCaseServiceImplTest
+Wed May 16 06:39:46 UTC 2018: Found element on the queue
+Wed May 16 06:39:46 UTC 2018: Updating status
+Wed May 16 06:39:46 UTC 2018: Working
+Wed May 16 06:39:49 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commcare.util.CaseMapperTest
+Wed May 16 06:39:49 UTC 2018: Setting lastTestMethodIndex: 65406
+Wed May 16 06:39:49 UTC 2018: Starting linking
+Wed May 16 06:39:49 UTC 2018: No link for: org.motechproject.commcare.util.CaseMapperTest-shouldMapValuesToObject
+Wed May 16 06:39:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:39:49 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commcare.util.CaseMapperTest
+Wed May 16 06:39:50 UTC 2018: Found element on the queue
+Wed May 16 06:39:50 UTC 2018: Updating status
+Wed May 16 06:39:50 UTC 2018: Working
+Wed May 16 06:39:52 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commcare.web.StubFormControllerTest
+Wed May 16 06:39:52 UTC 2018: Setting lastTestMethodIndex: 65407
+Wed May 16 06:39:52 UTC 2018: Starting linking
+Wed May 16 06:39:52 UTC 2018: No link for: org.motechproject.commcare.web.StubFormControllerTest-testIncomingFormStubJsonFailure
+Wed May 16 06:39:53 UTC 2018: No link for: org.motechproject.commcare.web.StubFormControllerTest-testIncomingFormStubJsonSuccess
+Wed May 16 06:39:53 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commcare.web.StubFormControllerTest
+Wed May 16 06:39:54 UTC 2018: Found element on the queue
+Wed May 16 06:39:54 UTC 2018: Updating status
+Wed May 16 06:39:54 UTC 2018: Working
+Wed May 16 06:39:56 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commcare.web.SettingsControllerTest
+Wed May 16 06:39:56 UTC 2018: Setting lastTestMethodIndex: 65409
+Wed May 16 06:39:56 UTC 2018: Starting linking
+Wed May 16 06:39:56 UTC 2018: Code found org.motechproject.commcare.web.SettingsController-getSettings with org.motechproject.commcare.web.SettingsControllerTest-testGetSettings
+Wed May 16 06:39:57 UTC 2018: Code found org.motechproject.commcare.web.SettingsController-saveSettings with org.motechproject.commcare.web.SettingsControllerTest-testSaveSettingsEmptyProperty
+Wed May 16 06:39:57 UTC 2018: Code found org.motechproject.commcare.web.SettingsController-saveSettings with org.motechproject.commcare.web.SettingsControllerTest-testSaveSettings
+Wed May 16 06:39:58 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commcare.web.SettingsControllerTest
+Wed May 16 06:39:58 UTC 2018: Found element on the queue
+Wed May 16 06:39:58 UTC 2018: Updating status
+Wed May 16 06:39:58 UTC 2018: Working
+Wed May 16 06:39:58 UTC 2018: Create project parser
+Wed May 16 06:40:03 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.eventlogging.converter.impl.DefaultFileToLogConverterTest
+Wed May 16 06:40:03 UTC 2018: Setting lastTestMethodIndex: 65410
+Wed May 16 06:40:03 UTC 2018: Starting linking
+Wed May 16 06:40:03 UTC 2018: No link for: org.motechproject.eventlogging.converter.impl.DefaultFileToLogConverterTest-testShouldConvertEventToCorrectString
+Wed May 16 06:40:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:03 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.eventlogging.converter.impl.DefaultFileToLogConverterTest
+Wed May 16 06:40:04 UTC 2018: Found element on the queue
+Wed May 16 06:40:04 UTC 2018: Updating status
+Wed May 16 06:40:04 UTC 2018: Working
+Wed May 16 06:40:06 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.eventlogging.repository.AllEventMappingsTest
+Wed May 16 06:40:06 UTC 2018: Setting lastTestMethodIndex: 65412
+Wed May 16 06:40:06 UTC 2018: Starting linking
+Wed May 16 06:40:06 UTC 2018: No link for: org.motechproject.eventlogging.repository.AllEventMappingsTest-shouldReadTheEventMappingsFileCorrectly
+Wed May 16 06:40:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:07 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.eventlogging.repository.AllEventMappingsTest
+Wed May 16 06:40:07 UTC 2018: Found element on the queue
+Wed May 16 06:40:07 UTC 2018: Updating status
+Wed May 16 06:40:07 UTC 2018: Working
+Wed May 16 06:40:10 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.eventlogging.service.impl.CouchEventLoggingServiceTest
+Wed May 16 06:40:10 UTC 2018: Setting lastTestMethodIndex: 65415
+Wed May 16 06:40:10 UTC 2018: Starting linking
+Wed May 16 06:40:10 UTC 2018: No link for: org.motechproject.eventlogging.service.impl.CouchEventLoggingServiceTest-shouldSetAllLoggableEventsCorrectly
+Wed May 16 06:40:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:10 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.eventlogging.service.impl.CouchEventLoggingServiceTest
+Wed May 16 06:40:11 UTC 2018: Found element on the queue
+Wed May 16 06:40:11 UTC 2018: Updating status
+Wed May 16 06:40:11 UTC 2018: Working
+Wed May 16 06:40:11 UTC 2018: Create project parser
+Wed May 16 06:40:14 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.ivr.domain.CallDetailRecordTest
+Wed May 16 06:40:14 UTC 2018: Setting lastTestMethodIndex: 65418
+Wed May 16 06:40:14 UTC 2018: Starting linking
+Wed May 16 06:40:14 UTC 2018: Code found org.motechproject.ivr.model.CallDetailRecord-lastCallEvent with org.motechproject.ivr.domain.CallDetailRecordTest-lastCallEvent
+Wed May 16 06:40:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:40:14 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.ivr.domain.CallDetailRecordTest
+Wed May 16 06:40:15 UTC 2018: Found element on the queue
+Wed May 16 06:40:15 UTC 2018: Updating status
+Wed May 16 06:40:15 UTC 2018: Working
+Wed May 16 06:40:18 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.ivr.event.CallEventCustomDataTest
+Wed May 16 06:40:18 UTC 2018: Setting lastTestMethodIndex: 65420
+Wed May 16 06:40:18 UTC 2018: Starting linking
+Wed May 16 06:40:18 UTC 2018: Code found org.motechproject.ivr.event.CallEventCustomData-update with org.motechproject.ivr.event.CallEventCustomDataTest-update
+Wed May 16 06:40:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:40:18 UTC 2018: Code found org.motechproject.ivr.event.CallEventCustomData-getFirst with org.motechproject.ivr.event.CallEventCustomDataTest-getFirst
+Wed May 16 06:40:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:40:18 UTC 2018: Code found org.motechproject.ivr.event.CallEventCustomData-add with org.motechproject.ivr.event.CallEventCustomDataTest-add
+Wed May 16 06:40:19 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.ivr.event.CallEventCustomDataTest
+Wed May 16 06:40:19 UTC 2018: Found element on the queue
+Wed May 16 06:40:19 UTC 2018: Updating status
+Wed May 16 06:40:19 UTC 2018: Working
+Wed May 16 06:40:22 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.ivr.event.CallEventTest
+Wed May 16 06:40:22 UTC 2018: Setting lastTestMethodIndex: 65422
+Wed May 16 06:40:22 UTC 2018: Starting linking
+Wed May 16 06:40:22 UTC 2018: No link for: org.motechproject.ivr.event.CallEventTest-appendData
+Wed May 16 06:40:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:22 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.ivr.event.CallEventTest
+Wed May 16 06:40:23 UTC 2018: Found element on the queue
+Wed May 16 06:40:23 UTC 2018: Updating status
+Wed May 16 06:40:23 UTC 2018: Working
+Wed May 16 06:40:25 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.ivr.model.CallDetailRecordTest
+Wed May 16 06:40:25 UTC 2018: Setting lastTestMethodIndex: 65424
+Wed May 16 06:40:25 UTC 2018: Starting linking
+Wed May 16 06:40:25 UTC 2018: Code found org.motechproject.ivr.model.CallDetailRecord-lastCallEvent with org.motechproject.ivr.model.CallDetailRecordTest-lastCallEvent
+Wed May 16 06:40:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:40:26 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.ivr.model.CallDetailRecordTest
+Wed May 16 06:40:26 UTC 2018: Found element on the queue
+Wed May 16 06:40:26 UTC 2018: Updating status
+Wed May 16 06:40:26 UTC 2018: Working
+Wed May 16 06:40:29 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.ivr.TestInitiateCallData
+Wed May 16 06:40:29 UTC 2018: Setting lastTestMethodIndex: 65425
+Wed May 16 06:40:29 UTC 2018: Starting linking
+Wed May 16 06:40:29 UTC 2018: No link for: org.motechproject.ivr.TestInitiateCallData-TestConstructor
+Wed May 16 06:40:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:30 UTC 2018: No link for: org.motechproject.ivr.TestInitiateCallData-TestConstructorNullPhone
+Wed May 16 06:40:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:30 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.ivr.TestInitiateCallData
+Wed May 16 06:40:33 UTC 2018: Found element on the queue
+Wed May 16 06:40:33 UTC 2018: Updating status
+Wed May 16 06:40:33 UTC 2018: Working
+Wed May 16 06:40:33 UTC 2018: Create project parser
+Wed May 16 06:40:37 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.JobIdTest
+Wed May 16 06:40:37 UTC 2018: Setting lastTestMethodIndex: 65428
+Wed May 16 06:40:37 UTC 2018: Starting linking
+Wed May 16 06:40:37 UTC 2018: Code found org.motechproject.scheduler.domain.JobId-value with org.motechproject.scheduler.domain.JobIdTest-value
+Wed May 16 06:40:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:40:37 UTC 2018: No link for: org.motechproject.scheduler.domain.JobIdTest-repeatingId
+Wed May 16 06:40:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:38 UTC 2018: No link for: org.motechproject.scheduler.domain.JobIdTest-initializeUsingMotechEvent
+Wed May 16 06:40:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:38 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.JobIdTest
+Wed May 16 06:40:38 UTC 2018: Found element on the queue
+Wed May 16 06:40:38 UTC 2018: Updating status
+Wed May 16 06:40:39 UTC 2018: Working
+Wed May 16 06:40:41 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.TestMotechSchedulerException
+Wed May 16 06:40:41 UTC 2018: Setting lastTestMethodIndex: 65430
+Wed May 16 06:40:41 UTC 2018: Starting linking
+Wed May 16 06:40:41 UTC 2018: No link for: org.motechproject.scheduler.domain.TestMotechSchedulerException-newTest
+Wed May 16 06:40:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:42 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.TestMotechSchedulerException
+Wed May 16 06:40:42 UTC 2018: Found element on the queue
+Wed May 16 06:40:42 UTC 2018: Updating status
+Wed May 16 06:40:42 UTC 2018: Working
+Wed May 16 06:40:45 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.TestRunOnceSchedulableJob
+Wed May 16 06:40:45 UTC 2018: Setting lastTestMethodIndex: 65431
+Wed May 16 06:40:45 UTC 2018: Starting linking
+Wed May 16 06:40:45 UTC 2018: Code found org.motechproject.scheduler.domain.RunOnceSchedulableJob-equals with org.motechproject.scheduler.domain.TestRunOnceSchedulableJob-equalsTest
+Wed May 16 06:40:45 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:40:45 UTC 2018: No link for: org.motechproject.scheduler.domain.TestRunOnceSchedulableJob-newConstructor_NullEvent
+Wed May 16 06:40:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:46 UTC 2018: No link for: org.motechproject.scheduler.domain.TestRunOnceSchedulableJob-newConstructor_NullDate
+Wed May 16 06:40:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:46 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.TestRunOnceSchedulableJob
+Wed May 16 06:40:47 UTC 2018: Found element on the queue
+Wed May 16 06:40:47 UTC 2018: Updating status
+Wed May 16 06:40:47 UTC 2018: Working
+Wed May 16 06:40:49 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.TestMotechScheduledEvent
+Wed May 16 06:40:49 UTC 2018: Setting lastTestMethodIndex: 65433
+Wed May 16 06:40:49 UTC 2018: Starting linking
+Wed May 16 06:40:49 UTC 2018: No link for: org.motechproject.scheduler.domain.TestMotechScheduledEvent-equalsTest
+Wed May 16 06:40:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:49 UTC 2018: No link for: org.motechproject.scheduler.domain.TestMotechScheduledEvent-testGetParameters
+Wed May 16 06:40:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:50 UTC 2018: No link for: org.motechproject.scheduler.domain.TestMotechScheduledEvent-newTest
+Wed May 16 06:40:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:50 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.TestMotechScheduledEvent
+Wed May 16 06:40:51 UTC 2018: Found element on the queue
+Wed May 16 06:40:51 UTC 2018: Updating status
+Wed May 16 06:40:51 UTC 2018: Working
+Wed May 16 06:40:53 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.TestCronSchedulabeJob
+Wed May 16 06:40:53 UTC 2018: Setting lastTestMethodIndex: 65434
+Wed May 16 06:40:53 UTC 2018: Starting linking
+Wed May 16 06:40:53 UTC 2018: Code found org.motechproject.scheduler.domain.CronSchedulableJob-equals with org.motechproject.scheduler.domain.TestCronSchedulabeJob-equalsTest
+Wed May 16 06:40:54 UTC 2018: No link for: org.motechproject.scheduler.domain.TestCronSchedulabeJob-testConstructor_NullEvent
+Wed May 16 06:40:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:54 UTC 2018: No link for: org.motechproject.scheduler.domain.TestCronSchedulabeJob-testConstructor_InvalidCronExpression
+Wed May 16 06:40:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:54 UTC 2018: No link for: org.motechproject.scheduler.domain.TestCronSchedulabeJob-testConstructor_NullCronExpression
+Wed May 16 06:40:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:40:55 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.scheduler.domain.TestCronSchedulabeJob
+Wed May 16 06:40:55 UTC 2018: Found element on the queue
+Wed May 16 06:40:55 UTC 2018: Updating status
+Wed May 16 06:40:55 UTC 2018: Working
+Wed May 16 06:40:58 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilderTest
+Wed May 16 06:40:58 UTC 2018: Setting lastTestMethodIndex: 65435
+Wed May 16 06:40:58 UTC 2018: Starting linking
+Wed May 16 06:40:58 UTC 2018: Code found org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilder-build with org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilderTest-shouldBuildCronExpressionForAParticularDayOfWeek
+Wed May 16 06:40:58 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:40:58 UTC 2018: Code found org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilder-build with org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilderTest-shouldBuildCronExpressionForAParticularDayAndTime
+Wed May 16 06:40:59 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:40:59 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.scheduler.builder.WeeklyCronJobExpressionBuilderTest
+Wed May 16 06:40:59 UTC 2018: Found element on the queue
+Wed May 16 06:40:59 UTC 2018: Updating status
+Wed May 16 06:40:59 UTC 2018: Working
+Wed May 16 06:41:02 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest
+Wed May 16 06:41:02 UTC 2018: Setting lastTestMethodIndex: 65436
+Wed May 16 06:41:02 UTC 2018: Starting linking
+Wed May 16 06:41:02 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest-shouldBuildValidCronExpressionWithDayRepeat
+Wed May 16 06:41:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:03 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest-testBuild
+Wed May 16 06:41:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:03 UTC 2018: No link for: org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest-shouldScheduleJobEverySevenDays
+Wed May 16 06:41:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:04 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.scheduler.builder.CronJobSimpleExpressionBuilderTest
+Wed May 16 06:41:04 UTC 2018: Found element on the queue
+Wed May 16 06:41:04 UTC 2018: Updating status
+Wed May 16 06:41:04 UTC 2018: Working
+Wed May 16 06:41:08 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.scheduler.builder.CronJobExpressionBuilderTest
+Wed May 16 06:41:08 UTC 2018: Setting lastTestMethodIndex: 65439
+Wed May 16 06:41:08 UTC 2018: Starting linking
+Wed May 16 06:41:08 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobExpressionBuilderTest-testBuild_case3
+Wed May 16 06:41:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:09 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobExpressionBuilderTest-testBuild_case1
+Wed May 16 06:41:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:09 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobExpressionBuilderTest-testBuild_case2
+Wed May 16 06:41:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:10 UTC 2018: Code found org.motechproject.scheduler.builder.CronJobExpressionBuilder-build with org.motechproject.scheduler.builder.CronJobExpressionBuilderTest-testBuild_SetEndHourAsTwentyThreeIfReminderWindowExtendsBeyondTheCurrentDay
+Wed May 16 06:41:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:10 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.scheduler.builder.CronJobExpressionBuilderTest
+Wed May 16 06:41:11 UTC 2018: Found element on the queue
+Wed May 16 06:41:11 UTC 2018: Updating status
+Wed May 16 06:41:11 UTC 2018: Working
+Wed May 16 06:41:11 UTC 2018: Create project parser
+Wed May 16 06:41:15 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commons.api.json.MotechJsonReaderTest
+Wed May 16 06:41:15 UTC 2018: Setting lastTestMethodIndex: 65442
+Wed May 16 06:41:15 UTC 2018: Starting linking
+Wed May 16 06:41:15 UTC 2018: No link for: org.motechproject.commons.api.json.MotechJsonReaderTest-shouldFailGracefullyWhenJsonFileIsNotFound
+Wed May 16 06:41:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:15 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commons.api.json.MotechJsonReaderTest
+Wed May 16 06:41:16 UTC 2018: Found element on the queue
+Wed May 16 06:41:16 UTC 2018: Updating status
+Wed May 16 06:41:16 UTC 2018: Working
+Wed May 16 06:41:16 UTC 2018: Create project parser
+Wed May 16 06:41:20 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commons.date.valueobject.WallTimeTest
+Wed May 16 06:41:20 UTC 2018: Setting lastTestMethodIndex: 65444
+Wed May 16 06:41:20 UTC 2018: Starting linking
+Wed May 16 06:41:20 UTC 2018: No link for: org.motechproject.commons.date.valueobject.WallTimeTest-periodElapsedSince
+Wed May 16 06:41:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:21 UTC 2018: No link for: org.motechproject.commons.date.valueobject.WallTimeTest-zeroValue
+Wed May 16 06:41:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:21 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commons.date.valueobject.WallTimeTest
+Wed May 16 06:41:22 UTC 2018: Found element on the queue
+Wed May 16 06:41:22 UTC 2018: Updating status
+Wed May 16 06:41:22 UTC 2018: Working
+Wed May 16 06:41:25 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commons.date.model.DayOfWeekTest
+Wed May 16 06:41:25 UTC 2018: Setting lastTestMethodIndex: 65447
+Wed May 16 06:41:25 UTC 2018: Starting linking
+Wed May 16 06:41:25 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldGetValueOfDays
+Wed May 16 06:41:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:25 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldParseDayOfWeek
+Wed May 16 06:41:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:25 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDaysOfWeekStartingToday
+Wed May 16 06:41:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:26 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDayOfWeekForTheSpecifiedNumber
+Wed May 16 06:41:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:26 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldThrowExceptionWhenSpecifiedNonExistingDay
+Wed May 16 06:41:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:27 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldVerifyCronDayOfWeek
+Wed May 16 06:41:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:27 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDayOfWeekForTheSpecifiedDate
+Wed May 16 06:41:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:28 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDaysOfWeek_IfOnlyToday
+Wed May 16 06:41:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:28 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commons.date.model.DayOfWeekTest
+Wed May 16 06:41:29 UTC 2018: Found element on the queue
+Wed May 16 06:41:29 UTC 2018: Updating status
+Wed May 16 06:41:29 UTC 2018: Working
+Wed May 16 06:41:31 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commons.date.model.TimeTest
+Wed May 16 06:41:32 UTC 2018: Setting lastTestMethodIndex: 65450
+Wed May 16 06:41:32 UTC 2018: Starting linking
+Wed May 16 06:41:32 UTC 2018: Code found org.motechproject.commons.date.model.Time-le with org.motechproject.commons.date.model.TimeTest-shouldTestIfCurrentTimeLessThanGivenTime
+Wed May 16 06:41:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:33 UTC 2018: Code found org.motechproject.commons.date.model.Time-parseTime with org.motechproject.commons.date.model.TimeTest-parseTime
+Wed May 16 06:41:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:33 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-compareTo
+Wed May 16 06:41:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:34 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-shouldTestIfCurrentTimeGreaterThanGivenTime
+Wed May 16 06:41:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:34 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commons.date.model.TimeTest
+Wed May 16 06:41:35 UTC 2018: Found element on the queue
+Wed May 16 06:41:35 UTC 2018: Updating status
+Wed May 16 06:41:35 UTC 2018: Working
+Wed May 16 06:41:37 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commons.date.util.JodaFormatterTest
+Wed May 16 06:41:38 UTC 2018: Setting lastTestMethodIndex: 65451
+Wed May 16 06:41:38 UTC 2018: Starting linking
+Wed May 16 06:41:38 UTC 2018: Code found org.motechproject.commons.date.util.JodaFormatter-parseDateTime with org.motechproject.commons.date.util.JodaFormatterTest-shouldParseDateTime
+Wed May 16 06:41:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:38 UTC 2018: Code found org.motechproject.commons.date.util.JodaFormatter-formatPeriod with org.motechproject.commons.date.util.JodaFormatterTest-shouldFormatPeriod
+Wed May 16 06:41:39 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:39 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldParseIntervalInYear
+Wed May 16 06:41:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:39 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldPrintDateTime
+Wed May 16 06:41:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:39 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldParseIntervalInMonth
+Wed May 16 06:41:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:40 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldFailParsingForInvalidFormat
+Wed May 16 06:41:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:40 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commons.date.util.JodaFormatterTest
+Wed May 16 06:41:41 UTC 2018: Found element on the queue
+Wed May 16 06:41:41 UTC 2018: Updating status
+Wed May 16 06:41:41 UTC 2018: Working
+Wed May 16 06:41:44 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.commons.date.util.DateUtilTest
+Wed May 16 06:41:44 UTC 2018: Setting lastTestMethodIndex: 65454
+Wed May 16 06:41:44 UTC 2018: Starting linking
+Wed May 16 06:41:44 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-daysToCalendarWeekEnd with org.motechproject.commons.date.util.DateUtilTest-shouldFindDaysToCalendarWeekEnd
+Wed May 16 06:41:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:44 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-time with org.motechproject.commons.date.util.DateUtilTest-shouldReturnTimeFromDateTime
+Wed May 16 06:41:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:44 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-endOfDay with org.motechproject.commons.date.util.DateUtilTest-shouldReturnEndOfDayForGivenTime
+Wed May 16 06:41:45 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:45 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldReturnTheNumberOfYearsFromAGivenDate
+Wed May 16 06:41:45 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:45 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldGetNextApplicableDateIncludingFromDateBasedOnApplicableWeekDays
+Wed May 16 06:41:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:46 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldGetNextApplicableDateAfterGivenDateBasedOnApplicableWeekDays
+Wed May 16 06:41:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:46 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldThrowExceptionIfApplicableDaysIsEmptyForNextApplicableDate
+Wed May 16 06:41:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:46 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldReturnWhetherGivenDateTimeFallsUnderSpecifiedInclusiveRange
+Wed May 16 06:41:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:47 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.commons.date.util.DateUtilTest
+Wed May 16 06:41:47 UTC 2018: Found element on the queue
+Wed May 16 06:41:47 UTC 2018: Updating status
+Wed May 16 06:41:47 UTC 2018: Working
+Wed May 16 06:41:47 UTC 2018: Create project parser
+Wed May 16 06:41:51 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.event.MotechEventTest
+Wed May 16 06:41:51 UTC 2018: Setting lastTestMethodIndex: 65455
+Wed May 16 06:41:51 UTC 2018: Starting linking
+Wed May 16 06:41:51 UTC 2018: Code found org.motechproject.event.MotechEvent-copy with org.motechproject.event.MotechEventTest-shouldCopyMotechEvent
+Wed May 16 06:41:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:52 UTC 2018: Code found org.motechproject.event.MotechEvent-copy with org.motechproject.event.MotechEventTest-shouldCopyMotechEventWithoutStartAndEndTime
+Wed May 16 06:41:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:52 UTC 2018: No link for: org.motechproject.event.MotechEventTest-testConstructor_WildcardSubject
+Wed May 16 06:41:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:53 UTC 2018: No link for: org.motechproject.event.MotechEventTest-testConstructor_NullSubject
+Wed May 16 06:41:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:53 UTC 2018: No link for: org.motechproject.event.MotechEventTest-testConstructor_EmptyPathSubject
+Wed May 16 06:41:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:41:53 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.event.MotechEventTest
+Wed May 16 06:41:54 UTC 2018: Found element on the queue
+Wed May 16 06:41:54 UTC 2018: Updating status
+Wed May 16 06:41:54 UTC 2018: Working
+Wed May 16 06:41:57 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.event.listener.EventListenerTreeTest
+Wed May 16 06:41:57 UTC 2018: Setting lastTestMethodIndex: 65457
+Wed May 16 06:41:57 UTC 2018: Starting linking
+Wed May 16 06:41:57 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_InvalidSubjectWildcardInMiddle
+Wed May 16 06:41:57 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:57 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_SingleListener
+Wed May 16 06:41:58 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:58 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_InvalidSubjectWildcard
+Wed May 16 06:41:58 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:58 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_WildcardListener2
+Wed May 16 06:41:58 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:58 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-getListenerCount with org.motechproject.event.listener.EventListenerTreeTest-getListenerCount_Multiple
+Wed May 16 06:41:59 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:59 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-removeAllListeners with org.motechproject.event.listener.EventListenerTreeTest-testRemoveAllListeners
+Wed May 16 06:41:59 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:41:59 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-getListenerCount with org.motechproject.event.listener.EventListenerTreeTest-getListenerCount_Simple
+Wed May 16 06:42:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:00 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_DoubleListener
+Wed May 16 06:42:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:00 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-getListenerCount with org.motechproject.event.listener.EventListenerTreeTest-getListenerCount_Wildcard
+Wed May 16 06:42:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:00 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_Nullsubject
+Wed May 16 06:42:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:01 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_UniversalListener
+Wed May 16 06:42:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:01 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-getSubject with org.motechproject.event.listener.EventListenerTreeTest-testGetSubject_NoListeners
+Wed May 16 06:42:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:02 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_InvalidSubjectEmptyPath
+Wed May 16 06:42:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:02 UTC 2018: Code found org.motechproject.event.listener.EventListenerTree-addListener with org.motechproject.event.listener.EventListenerTreeTest-testAddListener_WildcardListener
+Wed May 16 06:42:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:03 UTC 2018: No link for: org.motechproject.event.listener.EventListenerTreeTest-testRemoveAllNonWildcardListeners
+Wed May 16 06:42:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:03 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.event.listener.EventListenerTreeTest
+Wed May 16 06:42:04 UTC 2018: Found element on the queue
+Wed May 16 06:42:04 UTC 2018: Updating status
+Wed May 16 06:42:04 UTC 2018: Working
+Wed May 16 06:42:06 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.event.metrics.MultipleMetricsAgentImplTest
+Wed May 16 06:42:06 UTC 2018: Setting lastTestMethodIndex: 65462
+Wed May 16 06:42:06 UTC 2018: Starting linking
+Wed May 16 06:42:06 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-startTimer with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testMultipleStartTimerCalls
+Wed May 16 06:42:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:07 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-logEvent with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testLogEventNullParameters
+Wed May 16 06:42:07 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:07 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-startTimer with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testStartTimerNoAgents
+Wed May 16 06:42:08 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-logEvent with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testLogEventNoAgents
+Wed May 16 06:42:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:08 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-logEvent with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testLogEvent
+Wed May 16 06:42:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:08 UTC 2018: Code found org.motechproject.event.metrics.impl.MultipleMetricsAgentImpl-logEvent with org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testLogEventTwoAgents
+Wed May 16 06:42:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:09 UTC 2018: No link for: org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testTimerTwoAgents
+Wed May 16 06:42:09 UTC 2018: No link for: org.motechproject.event.metrics.MultipleMetricsAgentImplTest-testTimerOneAgent
+Wed May 16 06:42:10 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.event.metrics.MultipleMetricsAgentImplTest
+Wed May 16 06:42:10 UTC 2018: Found element on the queue
+Wed May 16 06:42:10 UTC 2018: Updating status
+Wed May 16 06:42:10 UTC 2018: Working
+Wed May 16 06:42:10 UTC 2018: Create project parser
+Wed May 16 06:42:13 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.server.osgi.BundleIconTest
+Wed May 16 06:42:13 UTC 2018: Setting lastTestMethodIndex: 65465
+Wed May 16 06:42:13 UTC 2018: Starting linking
+Wed May 16 06:42:13 UTC 2018: No link for: org.motechproject.server.osgi.BundleIconTest-testBundleIcon
+Wed May 16 06:42:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:14 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.server.osgi.BundleIconTest
+Wed May 16 06:42:14 UTC 2018: Found element on the queue
+Wed May 16 06:42:14 UTC 2018: Updating status
+Wed May 16 06:42:14 UTC 2018: Working
+Wed May 16 06:42:14 UTC 2018: Create project parser
+Wed May 16 06:42:18 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.server.config.ConfigLoaderTest
+Wed May 16 06:42:18 UTC 2018: Setting lastTestMethodIndex: 65466
+Wed May 16 06:42:18 UTC 2018: Starting linking
+Wed May 16 06:42:18 UTC 2018: No link for: org.motechproject.server.config.ConfigLoaderTest-testActiveMqPropertiesLoading
+Wed May 16 06:42:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:18 UTC 2018: No link for: org.motechproject.server.config.ConfigLoaderTest-testMotechSettingsLoading
+Wed May 16 06:42:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:19 UTC 2018: No link for: org.motechproject.server.config.ConfigLoaderTest-testNoFolderExists
+Wed May 16 06:42:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:19 UTC 2018: No link for: org.motechproject.server.config.ConfigLoaderTest-shouldLoadDefaultActiveMq
+Wed May 16 06:42:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:19 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.server.config.ConfigLoaderTest
+Wed May 16 06:42:20 UTC 2018: Found element on the queue
+Wed May 16 06:42:20 UTC 2018: Updating status
+Wed May 16 06:42:20 UTC 2018: Working
+Wed May 16 06:42:22 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.server.config.SettingsFacadeTest
+Wed May 16 06:42:22 UTC 2018: Setting lastTestMethodIndex: 65467
+Wed May 16 06:42:22 UTC 2018: Starting linking
+Wed May 16 06:42:22 UTC 2018: Code found org.motechproject.server.config.SettingsFacade-asProperties with org.motechproject.server.config.SettingsFacadeTest-testAsProperties
+Wed May 16 06:42:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:23 UTC 2018: No link for: org.motechproject.server.config.SettingsFacadeTest-testGetConfigNoService
+Wed May 16 06:42:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:23 UTC 2018: No link for: org.motechproject.server.config.SettingsFacadeTest-testGetConfigWithService
+Wed May 16 06:42:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:24 UTC 2018: No link for: org.motechproject.server.config.SettingsFacadeTest-testSetConfig
+Wed May 16 06:42:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:24 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.server.config.SettingsFacadeTest
+Wed May 16 06:42:25 UTC 2018: Found element on the queue
+Wed May 16 06:42:25 UTC 2018: Updating status
+Wed May 16 06:42:25 UTC 2018: Working
+Wed May 16 06:42:27 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest
+Wed May 16 06:42:27 UTC 2018: Setting lastTestMethodIndex: 65469
+Wed May 16 06:42:27 UTC 2018: Starting linking
+Wed May 16 06:42:27 UTC 2018: Code found org.motechproject.server.config.settings.ConfigFileSettings-getLanguage with org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest-testGetLanguage
+Wed May 16 06:42:28 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:28 UTC 2018: No link for: org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest-testGetLocale
+Wed May 16 06:42:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:28 UTC 2018: No link for: org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest-testExport
+Wed May 16 06:42:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:29 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.server.config.service.impl.PlatformSettingsServiceImplTest
+Wed May 16 06:42:29 UTC 2018: Found element on the queue
+Wed May 16 06:42:29 UTC 2018: Updating status
+Wed May 16 06:42:29 UTC 2018: Working
+Wed May 16 06:42:29 UTC 2018: Create project parser
+Wed May 16 06:42:33 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.server.startup.StartupManagerTest
+Wed May 16 06:42:34 UTC 2018: Setting lastTestMethodIndex: 65470
+Wed May 16 06:42:34 UTC 2018: Starting linking
+Wed May 16 06:42:34 UTC 2018: No link for: org.motechproject.server.startup.StartupManagerTest-testNoSettings
+Wed May 16 06:42:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:34 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.server.startup.StartupManagerTest
+Wed May 16 06:42:35 UTC 2018: Found element on the queue
+Wed May 16 06:42:35 UTC 2018: Updating status
+Wed May 16 06:42:35 UTC 2018: Working
+Wed May 16 06:42:35 UTC 2018: Create project parser
+Wed May 16 06:42:41 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.security.domain.MotechUserTest
+Wed May 16 06:42:41 UTC 2018: Setting lastTestMethodIndex: 65472
+Wed May 16 06:42:41 UTC 2018: Starting linking
+Wed May 16 06:42:41 UTC 2018: No link for: org.motechproject.security.domain.MotechUserTest-userNameShouldBeSetToLowercase
+Wed May 16 06:42:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:41 UTC 2018: No link for: org.motechproject.security.domain.MotechUserTest-shouldHandleNullValueForUserName
+Wed May 16 06:42:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:42 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.security.domain.MotechUserTest
+Wed May 16 06:42:42 UTC 2018: Found element on the queue
+Wed May 16 06:42:42 UTC 2018: Updating status
+Wed May 16 06:42:42 UTC 2018: Working
+Wed May 16 06:42:46 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.security.authentication.MotechAuthenticationProviderTest
+Wed May 16 06:42:46 UTC 2018: Setting lastTestMethodIndex: 65475
+Wed May 16 06:42:46 UTC 2018: Starting linking
+Wed May 16 06:42:46 UTC 2018: Code found org.motechproject.security.authentication.MotechAuthenticationProvider-retrieveUser with org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldRetrieveUserFromDatabase
+Wed May 16 06:42:46 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:42:46 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldThrowExceptionIfUserDoesntExist
+Wed May 16 06:42:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:47 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldAuthenticateUser
+Wed May 16 06:42:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:47 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldNotAuthenticateWrongPassword
+Wed May 16 06:42:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:48 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldNotAuthenticateEmptyPassword
+Wed May 16 06:42:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:48 UTC 2018: No link for: org.motechproject.security.authentication.MotechAuthenticationProviderTest-shouldThrowExceptionIfUserIsInactive
+Wed May 16 06:42:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:48 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.security.authentication.MotechAuthenticationProviderTest
+Wed May 16 06:42:49 UTC 2018: Found element on the queue
+Wed May 16 06:42:49 UTC 2018: Updating status
+Wed May 16 06:42:49 UTC 2018: Working
+Wed May 16 06:42:52 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.security.service.PasswordRecoveryServiceTest
+Wed May 16 06:42:52 UTC 2018: Setting lastTestMethodIndex: 65479
+Wed May 16 06:42:52 UTC 2018: Starting linking
+Wed May 16 06:42:52 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testResetPassword
+Wed May 16 06:42:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:52 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testUserNotFound
+Wed May 16 06:42:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:53 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testCleanUpExpired
+Wed May 16 06:42:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:53 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testCreateOpenIDRecovery
+Wed May 16 06:42:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:54 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testNoFindUserInOneTimeToken
+Wed May 16 06:42:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:54 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testInvalidToken
+Wed May 16 06:42:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:55 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testWrongConfirmation
+Wed May 16 06:42:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:55 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testCreateRecovery
+Wed May 16 06:42:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:55 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testExpiredRequest
+Wed May 16 06:42:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:56 UTC 2018: No link for: org.motechproject.security.service.PasswordRecoveryServiceTest-testNonAdminUserInOneTimeToken
+Wed May 16 06:42:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:42:56 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.security.service.PasswordRecoveryServiceTest
+Wed May 16 06:42:57 UTC 2018: Found element on the queue
+Wed May 16 06:42:57 UTC 2018: Updating status
+Wed May 16 06:42:57 UTC 2018: Working
+Wed May 16 06:43:00 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.security.web.controllers.ForgotPasswordControllerTest
+Wed May 16 06:43:00 UTC 2018: Setting lastTestMethodIndex: 65482
+Wed May 16 06:43:00 UTC 2018: Starting linking
+Wed May 16 06:43:00 UTC 2018: Code found org.motechproject.security.web.controllers.ForgotPasswordController-forgotPost with org.motechproject.security.web.controllers.ForgotPasswordControllerTest-testForgotPost
+Wed May 16 06:43:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:43:00 UTC 2018: No link for: org.motechproject.security.web.controllers.ForgotPasswordControllerTest-testInvalidEmail
+Wed May 16 06:43:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:43:01 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.security.web.controllers.ForgotPasswordControllerTest
+Wed May 16 06:43:01 UTC 2018: Found element on the queue
+Wed May 16 06:43:01 UTC 2018: Updating status
+Wed May 16 06:43:01 UTC 2018: Working
+Wed May 16 06:43:04 UTC 2018: Start motech__motech-server-pillreminder test class org.motechproject.security.web.controllers.ResetControllerTest
+Wed May 16 06:43:04 UTC 2018: Setting lastTestMethodIndex: 65483
+Wed May 16 06:43:04 UTC 2018: Starting linking
+Wed May 16 06:43:04 UTC 2018: Code found org.motechproject.security.web.controllers.ResetController-reset with org.motechproject.security.web.controllers.ResetControllerTest-testReset
+Wed May 16 06:43:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:43:05 UTC 2018: Code found org.motechproject.security.web.controllers.ResetController-reset with org.motechproject.security.web.controllers.ResetControllerTest-testResetInvalidToken
+Wed May 16 06:43:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:43:05 UTC 2018: No link for: org.motechproject.security.web.controllers.ResetControllerTest-testBindingErrors
+Wed May 16 06:43:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:43:06 UTC 2018: No link for: org.motechproject.security.web.controllers.ResetControllerTest-testInvalidTokenOnView
+Wed May 16 06:43:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:43:06 UTC 2018: No link for: org.motechproject.security.web.controllers.ResetControllerTest-testValidView
+Wed May 16 06:43:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:43:06 UTC 2018: Linking done for motech__motech-server-pillreminder test class org.motechproject.security.web.controllers.ResetControllerTest

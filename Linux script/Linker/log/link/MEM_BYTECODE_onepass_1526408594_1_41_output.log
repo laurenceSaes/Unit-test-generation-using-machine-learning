@@ -1,0 +1,91 @@
+Tue May 15 22:43:28 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 22:43:29 UTC 2018: Starting
+Tue May 15 22:43:29 UTC 2018: Found element on the queue
+Tue May 15 22:43:29 UTC 2018: Updating status
+Tue May 15 22:43:29 UTC 2018: Working
+Tue May 15 22:43:29 UTC 2018: Create project parser
+Tue May 15 22:43:37 UTC 2018: Create slicer
+Tue May 15 22:43:37 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1010792557
+Tue May 15 22:43:39 UTC 2018: Create call graph
+Tue May 15 22:43:45 UTC 2018: Create point analysis
+Tue May 15 22:43:45 UTC 2018: Create call graph done
+Tue May 15 22:43:45 UTC 2018: Start intuit__karate test class com.intuit.karate.MatchTest
+Tue May 15 22:43:45 UTC 2018: Setting lastTestMethodIndex: 49491
+Tue May 15 22:43:45 UTC 2018: Starting linking
+Tue May 15 22:43:45 UTC 2018: Code found com.intuit.karate.Match-xml with com.intuit.karate.MatchTest-testXml
+Tue May 15 22:43:45 UTC 2018: Code found com.intuit.karate.Match-json with com.intuit.karate.MatchTest-testJson
+Tue May 15 22:43:45 UTC 2018: No link for: com.intuit.karate.MatchTest-testSomeMatches
+Tue May 15 22:43:46 UTC 2018: No link for: com.intuit.karate.MatchTest-testString
+Tue May 15 22:43:46 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.MatchTest
+Tue May 15 22:43:46 UTC 2018: Found element on the queue
+Tue May 15 22:43:46 UTC 2018: Updating status
+Tue May 15 22:43:46 UTC 2018: Working
+Tue May 15 22:43:49 UTC 2018: Start intuit__karate test class com.intuit.karate.TxTest
+Tue May 15 22:43:49 UTC 2018: Setting lastTestMethodIndex: 49494
+Tue May 15 22:43:49 UTC 2018: Starting linking
+Tue May 15 22:43:49 UTC 2018: No link for: com.intuit.karate.TxTest-testTransform
+Tue May 15 22:43:49 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.TxTest
+Tue May 15 22:43:50 UTC 2018: Found element on the queue
+Tue May 15 22:43:50 UTC 2018: Updating status
+Tue May 15 22:43:50 UTC 2018: Working
+Tue May 15 22:43:52 UTC 2018: Start intuit__karate test class com.intuit.karate.ConfigTest
+Tue May 15 22:43:52 UTC 2018: Setting lastTestMethodIndex: 49497
+Tue May 15 22:43:52 UTC 2018: Starting linking
+Tue May 15 22:43:52 UTC 2018: No link for: com.intuit.karate.ConfigTest-testSettingVariableViaKarateConfig
+Tue May 15 22:43:53 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.ConfigTest
+Tue May 15 22:43:53 UTC 2018: Found element on the queue
+Tue May 15 22:43:53 UTC 2018: Updating status
+Tue May 15 22:43:53 UTC 2018: Working
+Tue May 15 22:43:56 UTC 2018: Start intuit__karate test class com.intuit.karate.validator.ValidatorTest
+Tue May 15 22:43:56 UTC 2018: Setting lastTestMethodIndex: 49500
+Tue May 15 22:43:56 UTC 2018: Starting linking
+Tue May 15 22:43:56 UTC 2018: No link for: com.intuit.karate.validator.ValidatorTest-testRegexValidator
+Tue May 15 22:43:56 UTC 2018: No link for: com.intuit.karate.validator.ValidatorTest-testSimpleValidators
+Tue May 15 22:43:57 UTC 2018: No link for: com.intuit.karate.validator.ValidatorTest-testUuidValidator
+Tue May 15 22:43:57 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.validator.ValidatorTest
+Tue May 15 22:43:57 UTC 2018: Found element on the queue
+Tue May 15 22:43:57 UTC 2018: Updating status
+Tue May 15 22:43:57 UTC 2018: Working
+Tue May 15 22:44:00 UTC 2018: Start intuit__karate test class com.intuit.karate.StringUtilsTest
+Tue May 15 22:44:00 UTC 2018: Setting lastTestMethodIndex: 49502
+Tue May 15 22:44:00 UTC 2018: Starting linking
+Tue May 15 22:44:00 UTC 2018: No code found com.intuit.karate.StringUtils-split with com.intuit.karate.StringUtilsTest-testSplit
+Tue May 15 22:44:00 UTC 2018: No code found com.intuit.karate.StringUtils-join with com.intuit.karate.StringUtilsTest-testJoin
+Tue May 15 22:44:00 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.StringUtilsTest
+Tue May 15 22:44:01 UTC 2018: Found element on the queue
+Tue May 15 22:44:01 UTC 2018: Updating status
+Tue May 15 22:44:01 UTC 2018: Working
+Tue May 15 22:44:04 UTC 2018: Start intuit__karate test class com.intuit.karate.http.HttpClientTest
+Tue May 15 22:44:04 UTC 2018: Setting lastTestMethodIndex: 49505
+Tue May 15 22:44:04 UTC 2018: Starting linking
+Tue May 15 22:44:04 UTC 2018: No link for: com.intuit.karate.http.HttpClientTest-testSwappingHttpClient
+Tue May 15 22:44:04 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.http.HttpClientTest
+Tue May 15 22:44:05 UTC 2018: Found element on the queue
+Tue May 15 22:44:05 UTC 2018: Updating status
+Tue May 15 22:44:05 UTC 2018: Working
+Tue May 15 22:44:08 UTC 2018: Start intuit__karate test class com.intuit.karate.http.HttpUtilsTest
+Tue May 15 22:44:08 UTC 2018: Setting lastTestMethodIndex: 49507
+Tue May 15 22:44:08 UTC 2018: Starting linking
+Tue May 15 22:44:08 UTC 2018: Code found com.intuit.karate.http.HttpUtils-parseContentTypeParams with com.intuit.karate.http.HttpUtilsTest-testParseContentTypeParams
+Tue May 15 22:44:08 UTC 2018: Code found com.intuit.karate.http.HttpUtils-parseContentTypeCharset with com.intuit.karate.http.HttpUtilsTest-testParseContentTypeCharset
+Tue May 15 22:44:08 UTC 2018: No link for: com.intuit.karate.http.HttpUtilsTest-testCreateCookieString
+Tue May 15 22:44:09 UTC 2018: No link for: com.intuit.karate.http.HttpUtilsTest-testUriParsing
+Tue May 15 22:44:09 UTC 2018: No link for: com.intuit.karate.http.HttpUtilsTest-testParseCookieString
+Tue May 15 22:44:09 UTC 2018: No link for: com.intuit.karate.http.HttpUtilsTest-testParseUriPathPatterns
+Tue May 15 22:44:09 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.http.HttpUtilsTest
+Tue May 15 22:44:10 UTC 2018: Found element on the queue
+Tue May 15 22:44:10 UTC 2018: Updating status
+Tue May 15 22:44:10 UTC 2018: Working
+Tue May 15 22:44:13 UTC 2018: Start intuit__karate test class com.intuit.karate.ScriptValueTest
+Tue May 15 22:44:13 UTC 2018: Setting lastTestMethodIndex: 49511
+Tue May 15 22:44:13 UTC 2018: Starting linking
+Tue May 15 22:44:13 UTC 2018: No link for: com.intuit.karate.ScriptValueTest-testTypeDetection
+Tue May 15 22:44:13 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.ScriptValueTest
+Tue May 15 22:44:14 UTC 2018: Found element on the queue
+Tue May 15 22:44:14 UTC 2018: Updating status
+Tue May 15 22:44:14 UTC 2018: Working
+Tue May 15 22:44:16 UTC 2018: Start intuit__karate test class com.intuit.karate.ui.AppSessionTest
+Tue May 15 22:44:16 UTC 2018: Setting lastTestMethodIndex: 49513
+Tue May 15 22:44:16 UTC 2018: Starting linking
+Tue May 15 22:44:16 UTC 2018: No link for: com.intuit.karate.ui.AppSessionTest-testRunning
+Tue May 15 22:44:16 UTC 2018: Linking done for intuit__karate test class com.intuit.karate.ui.AppSessionTest

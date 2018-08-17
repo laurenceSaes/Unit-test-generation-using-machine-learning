@@ -1,0 +1,472 @@
+Wed May 16 02:31:10 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:31:10 UTC 2018: Starting
+Wed May 16 02:31:11 UTC 2018: Found element on the queue
+Wed May 16 02:31:11 UTC 2018: Updating status
+Wed May 16 02:31:11 UTC 2018: Working
+Wed May 16 02:31:11 UTC 2018: Create project parser
+Wed May 16 02:31:16 UTC 2018: Create slicer
+Wed May 16 02:31:16 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1010792557
+Wed May 16 02:31:17 UTC 2018: Create call graph
+Wed May 16 02:31:20 UTC 2018: Create point analysis
+Wed May 16 02:31:20 UTC 2018: Create call graph done
+Wed May 16 02:31:20 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.HiveServerContainerTest
+Wed May 16 02:31:20 UTC 2018: Setting lastTestMethodIndex: 57407
+Wed May 16 02:31:20 UTC 2018: Starting linking
+Wed May 16 02:31:20 UTC 2018: Code found com.klarna.hiverunner.HiveServerContainer-executeStatement with com.klarna.hiverunner.HiveServerContainerTest-testExecuteStatementTez
+Wed May 16 02:31:21 UTC 2018: Code found com.klarna.hiverunner.HiveServerContainer-executeStatement with com.klarna.hiverunner.HiveServerContainerTest-testExecuteStatementMR
+Wed May 16 02:31:21 UTC 2018: Code found com.klarna.hiverunner.HiveServerContainer-getBaseDir with com.klarna.hiverunner.HiveServerContainerTest-testGetBasedir
+Wed May 16 02:31:21 UTC 2018: Code found com.klarna.hiverunner.HiveServerContainer-tearDown with com.klarna.hiverunner.HiveServerContainerTest-testTearDownShouldNotThrowException
+Wed May 16 02:31:22 UTC 2018: No link for: com.klarna.hiverunner.HiveServerContainerTest-testInvalidQuery
+Wed May 16 02:31:22 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.HiveServerContainerTest
+Wed May 16 02:31:22 UTC 2018: Found element on the queue
+Wed May 16 02:31:22 UTC 2018: Updating status
+Wed May 16 02:31:22 UTC 2018: Working
+Wed May 16 02:31:25 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.CommentTest
+Wed May 16 02:31:25 UTC 2018: Setting lastTestMethodIndex: 57410
+Wed May 16 02:31:25 UTC 2018: Starting linking
+Wed May 16 02:31:25 UTC 2018: No link for: com.klarna.hiverunner.CommentTest-testPreceedingFullLineComment
+Wed May 16 02:31:25 UTC 2018: No link for: com.klarna.hiverunner.CommentTest-testFullLineCommentInsideDeclaration
+Wed May 16 02:31:26 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.CommentTest
+Wed May 16 02:31:26 UTC 2018: Found element on the queue
+Wed May 16 02:31:26 UTC 2018: Updating status
+Wed May 16 02:31:26 UTC 2018: Working
+Wed May 16 02:31:29 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.InteractiveHiveShellTest
+Wed May 16 02:31:29 UTC 2018: Setting lastTestMethodIndex: 57414
+Wed May 16 02:31:29 UTC 2018: Starting linking
+Wed May 16 02:31:29 UTC 2018: No link for: com.klarna.hiverunner.InteractiveHiveShellTest-setupScriptsShouldBeExecutedInOrder
+Wed May 16 02:31:29 UTC 2018: No link for: com.klarna.hiverunner.InteractiveHiveShellTest-setupScriptsShouldBeExecuted
+Wed May 16 02:31:29 UTC 2018: No link for: com.klarna.hiverunner.InteractiveHiveShellTest-setupScriptShouldBeExecuted
+Wed May 16 02:31:30 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.InteractiveHiveShellTest
+Wed May 16 02:31:30 UTC 2018: Found element on the queue
+Wed May 16 02:31:30 UTC 2018: Updating status
+Wed May 16 02:31:30 UTC 2018: Working
+Wed May 16 02:31:33 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.SetHiveExecutionEngineTest
+Wed May 16 02:31:33 UTC 2018: Setting lastTestMethodIndex: 57417
+Wed May 16 02:31:33 UTC 2018: Starting linking
+Wed May 16 02:31:33 UTC 2018: No link for: com.klarna.hiverunner.SetHiveExecutionEngineTest-test
+Wed May 16 02:31:33 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.SetHiveExecutionEngineTest
+Wed May 16 02:31:33 UTC 2018: Found element on the queue
+Wed May 16 02:31:33 UTC 2018: Updating status
+Wed May 16 02:31:33 UTC 2018: Working
+Wed May 16 02:31:36 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.CommandShellEmulationTest
+Wed May 16 02:31:36 UTC 2018: Setting lastTestMethodIndex: 57420
+Wed May 16 02:31:36 UTC 2018: Starting linking
+Wed May 16 02:31:36 UTC 2018: No link for: com.klarna.hiverunner.CommandShellEmulationTest-testFullLineCommentAndSetScriptHiveCli
+Wed May 16 02:31:36 UTC 2018: No link for: com.klarna.hiverunner.CommandShellEmulationTest-testFullLineCommentAndSetStatementBeeLine
+Wed May 16 02:31:37 UTC 2018: No link for: com.klarna.hiverunner.CommandShellEmulationTest-testFullLineCommentScriptHiveCli
+Wed May 16 02:31:37 UTC 2018: No link for: com.klarna.hiverunner.CommandShellEmulationTest-testFullLineCommentAndSetStatementHiveCli
+Wed May 16 02:31:37 UTC 2018: No link for: com.klarna.hiverunner.CommandShellEmulationTest-testFullLineCommentScriptBeeLine
+Wed May 16 02:31:38 UTC 2018: No link for: com.klarna.hiverunner.CommandShellEmulationTest-testFullLineCommentStatementHiveCli
+Wed May 16 02:31:38 UTC 2018: No link for: com.klarna.hiverunner.CommandShellEmulationTest-testFullLineCommentStatementBeeLine
+Wed May 16 02:31:38 UTC 2018: No link for: com.klarna.hiverunner.CommandShellEmulationTest-testFullLineCommentAndSetScriptBeeLine
+Wed May 16 02:31:39 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.CommandShellEmulationTest
+Wed May 16 02:31:39 UTC 2018: Found element on the queue
+Wed May 16 02:31:39 UTC 2018: Updating status
+Wed May 16 02:31:39 UTC 2018: Working
+Wed May 16 02:31:42 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.IntegerPartitionFormatTest
+Wed May 16 02:31:42 UTC 2018: Setting lastTestMethodIndex: 57423
+Wed May 16 02:31:42 UTC 2018: Starting linking
+Wed May 16 02:31:42 UTC 2018: No link for: com.klarna.hiverunner.IntegerPartitionFormatTest-testPrefixedPartitionInteger
+Wed May 16 02:31:42 UTC 2018: No link for: com.klarna.hiverunner.IntegerPartitionFormatTest-testPrefixedInteger
+Wed May 16 02:31:43 UTC 2018: No link for: com.klarna.hiverunner.IntegerPartitionFormatTest-testInteger
+Wed May 16 02:31:43 UTC 2018: No link for: com.klarna.hiverunner.IntegerPartitionFormatTest-testNonPrefixedPartitionInteger
+Wed May 16 02:31:43 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.IntegerPartitionFormatTest
+Wed May 16 02:31:44 UTC 2018: Found element on the queue
+Wed May 16 02:31:44 UTC 2018: Updating status
+Wed May 16 02:31:44 UTC 2018: Working
+Wed May 16 02:31:46 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.BigResultSetTest
+Wed May 16 02:31:46 UTC 2018: Setting lastTestMethodIndex: 57427
+Wed May 16 02:31:46 UTC 2018: Starting linking
+Wed May 16 02:31:46 UTC 2018: No link for: com.klarna.hiverunner.BigResultSetTest-bigResultSetTest
+Wed May 16 02:31:46 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.BigResultSetTest
+Wed May 16 02:31:47 UTC 2018: Found element on the queue
+Wed May 16 02:31:47 UTC 2018: Updating status
+Wed May 16 02:31:47 UTC 2018: Working
+Wed May 16 02:31:49 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.PartitionSupportTest
+Wed May 16 02:31:49 UTC 2018: Setting lastTestMethodIndex: 57429
+Wed May 16 02:31:49 UTC 2018: Starting linking
+Wed May 16 02:31:49 UTC 2018: No link for: com.klarna.hiverunner.PartitionSupportTest-testSelectMax
+Wed May 16 02:31:50 UTC 2018: No link for: com.klarna.hiverunner.PartitionSupportTest-testShowTables
+Wed May 16 02:31:50 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.PartitionSupportTest
+Wed May 16 02:31:50 UTC 2018: Found element on the queue
+Wed May 16 02:31:50 UTC 2018: Updating status
+Wed May 16 02:31:50 UTC 2018: Working
+Wed May 16 02:31:53 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.MacroTest
+Wed May 16 02:31:53 UTC 2018: Setting lastTestMethodIndex: 57432
+Wed May 16 02:31:53 UTC 2018: Starting linking
+Wed May 16 02:31:53 UTC 2018: No link for: com.klarna.hiverunner.MacroTest-testMacro
+Wed May 16 02:31:53 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.MacroTest
+Wed May 16 02:31:54 UTC 2018: Found element on the queue
+Wed May 16 02:31:54 UTC 2018: Updating status
+Wed May 16 02:31:54 UTC 2018: Working
+Wed May 16 02:31:56 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.TestMethodIntegrityTest
+Wed May 16 02:31:56 UTC 2018: Setting lastTestMethodIndex: 57434
+Wed May 16 02:31:56 UTC 2018: Starting linking
+Wed May 16 02:31:56 UTC 2018: No link for: com.klarna.hiverunner.TestMethodIntegrityTest-collisionCourseTestMethodTwo
+Wed May 16 02:31:56 UTC 2018: No link for: com.klarna.hiverunner.TestMethodIntegrityTest-collisionCourseTestMethodOne
+Wed May 16 02:31:57 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.TestMethodIntegrityTest
+Wed May 16 02:31:58 UTC 2018: Found element on the queue
+Wed May 16 02:31:58 UTC 2018: Updating status
+Wed May 16 02:31:58 UTC 2018: Working
+Wed May 16 02:32:00 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.UserDefinedFunctionTest
+Wed May 16 02:32:00 UTC 2018: Setting lastTestMethodIndex: 57437
+Wed May 16 02:32:00 UTC 2018: Starting linking
+Wed May 16 02:32:00 UTC 2018: No link for: com.klarna.hiverunner.UserDefinedFunctionTest-udfMax
+Wed May 16 02:32:00 UTC 2018: No link for: com.klarna.hiverunner.UserDefinedFunctionTest-udfMin
+Wed May 16 02:32:01 UTC 2018: No link for: com.klarna.hiverunner.UserDefinedFunctionTest-regexp_extract
+Wed May 16 02:32:01 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.UserDefinedFunctionTest
+Wed May 16 02:32:01 UTC 2018: Found element on the queue
+Wed May 16 02:32:01 UTC 2018: Updating status
+Wed May 16 02:32:02 UTC 2018: Working
+Wed May 16 02:32:04 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.SerdeTest
+Wed May 16 02:32:04 UTC 2018: Setting lastTestMethodIndex: 57441
+Wed May 16 02:32:04 UTC 2018: Starting linking
+Wed May 16 02:32:04 UTC 2018: No link for: com.klarna.hiverunner.SerdeTest-testWithProvidedRegexSerde
+Wed May 16 02:32:04 UTC 2018: No link for: com.klarna.hiverunner.SerdeTest-testWithCustomSerde
+Wed May 16 02:32:05 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.SerdeTest
+Wed May 16 02:32:05 UTC 2018: Found element on the queue
+Wed May 16 02:32:05 UTC 2018: Updating status
+Wed May 16 02:32:05 UTC 2018: Working
+Wed May 16 02:32:08 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.HiveRunnerAnnotationsTest
+Wed May 16 02:32:08 UTC 2018: Setting lastTestMethodIndex: 57444
+Wed May 16 02:32:08 UTC 2018: Starting linking
+Wed May 16 02:32:08 UTC 2018: No link for: com.klarna.hiverunner.HiveRunnerAnnotationsTest-testLoadFileResources
+Wed May 16 02:32:08 UTC 2018: No link for: com.klarna.hiverunner.HiveRunnerAnnotationsTest-testHiveSQLLoaded
+Wed May 16 02:32:08 UTC 2018: No link for: com.klarna.hiverunner.HiveRunnerAnnotationsTest-testSetupScript
+Wed May 16 02:32:09 UTC 2018: No link for: com.klarna.hiverunner.HiveRunnerAnnotationsTest-testPropertiesLoaded
+Wed May 16 02:32:09 UTC 2018: No link for: com.klarna.hiverunner.HiveRunnerAnnotationsTest-testLoadPathResources
+Wed May 16 02:32:09 UTC 2018: No link for: com.klarna.hiverunner.HiveRunnerAnnotationsTest-testSetupScriptFromPath
+Wed May 16 02:32:10 UTC 2018: No link for: com.klarna.hiverunner.HiveRunnerAnnotationsTest-testSetupScriptFromFile
+Wed May 16 02:32:10 UTC 2018: No link for: com.klarna.hiverunner.HiveRunnerAnnotationsTest-testLoadStringResources
+Wed May 16 02:32:10 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.HiveRunnerAnnotationsTest
+Wed May 16 02:32:11 UTC 2018: Found element on the queue
+Wed May 16 02:32:11 UTC 2018: Updating status
+Wed May 16 02:32:11 UTC 2018: Working
+Wed May 16 02:32:14 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.MultipleExecutionEnginesTest
+Wed May 16 02:32:14 UTC 2018: Setting lastTestMethodIndex: 57447
+Wed May 16 02:32:14 UTC 2018: Starting linking
+Wed May 16 02:32:14 UTC 2018: No link for: com.klarna.hiverunner.MultipleExecutionEnginesTest-test
+Wed May 16 02:32:15 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.MultipleExecutionEnginesTest
+Wed May 16 02:32:15 UTC 2018: Found element on the queue
+Wed May 16 02:32:15 UTC 2018: Updating status
+Wed May 16 02:32:15 UTC 2018: Working
+Wed May 16 02:32:18 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.LeftOuterJoinTest
+Wed May 16 02:32:18 UTC 2018: Setting lastTestMethodIndex: 57449
+Wed May 16 02:32:18 UTC 2018: Starting linking
+Wed May 16 02:32:18 UTC 2018: No link for: com.klarna.hiverunner.LeftOuterJoinTest-leftOuterJoin
+Wed May 16 02:32:18 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.LeftOuterJoinTest
+Wed May 16 02:32:19 UTC 2018: Found element on the queue
+Wed May 16 02:32:19 UTC 2018: Updating status
+Wed May 16 02:32:19 UTC 2018: Working
+Wed May 16 02:32:21 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.SetPropertyTest
+Wed May 16 02:32:21 UTC 2018: Setting lastTestMethodIndex: 57451
+Wed May 16 02:32:21 UTC 2018: Starting linking
+Wed May 16 02:32:21 UTC 2018: No link for: com.klarna.hiverunner.SetPropertyTest-propertyShouldBeSetInHiveConfiguration
+Wed May 16 02:32:22 UTC 2018: No link for: com.klarna.hiverunner.SetPropertyTest-propertyShouldNotBeSetIfShellIsAlreadyStarted
+Wed May 16 02:32:22 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.SetPropertyTest
+Wed May 16 02:32:22 UTC 2018: Found element on the queue
+Wed May 16 02:32:22 UTC 2018: Updating status
+Wed May 16 02:32:22 UTC 2018: Working
+Wed May 16 02:32:25 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.HiveShellBeeLineEmulationTest
+Wed May 16 02:32:25 UTC 2018: Setting lastTestMethodIndex: 57453
+Wed May 16 02:32:25 UTC 2018: Starting linking
+Wed May 16 02:32:25 UTC 2018: No link for: com.klarna.hiverunner.HiveShellBeeLineEmulationTest-testScriptStripFullLineCommentNested
+Wed May 16 02:32:25 UTC 2018: No link for: com.klarna.hiverunner.HiveShellBeeLineEmulationTest-testScriptStripFullLineComment
+Wed May 16 02:32:25 UTC 2018: No link for: com.klarna.hiverunner.HiveShellBeeLineEmulationTest-testQueryStripFullLineCommentFirstLine
+Wed May 16 02:32:26 UTC 2018: No link for: com.klarna.hiverunner.HiveShellBeeLineEmulationTest-testScriptStripFullLineCommentLastLine
+Wed May 16 02:32:26 UTC 2018: No link for: com.klarna.hiverunner.HiveShellBeeLineEmulationTest-testQueryStripFullLineCommentNested
+Wed May 16 02:32:26 UTC 2018: No link for: com.klarna.hiverunner.HiveShellBeeLineEmulationTest-testQueryStripFullLineComment
+Wed May 16 02:32:27 UTC 2018: No link for: com.klarna.hiverunner.HiveShellBeeLineEmulationTest-testScriptStripFullLineCommentFirstLine
+Wed May 16 02:32:27 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.HiveShellBeeLineEmulationTest
+Wed May 16 02:32:28 UTC 2018: Found element on the queue
+Wed May 16 02:32:28 UTC 2018: Updating status
+Wed May 16 02:32:28 UTC 2018: Working
+Wed May 16 02:32:30 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.config.HiveRunnerConfigTest
+Wed May 16 02:32:30 UTC 2018: Setting lastTestMethodIndex: 57457
+Wed May 16 02:32:30 UTC 2018: Starting linking
+Wed May 16 02:32:30 UTC 2018: Code found com.klarna.hiverunner.config.HiveRunnerConfig-setCommandShellEmulation with com.klarna.hiverunner.config.HiveRunnerConfigTest-testSetCommandShellEmulation
+Wed May 16 02:32:30 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testTimeoutSeconds
+Wed May 16 02:32:31 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testSetHiveconfFromSystemProperty
+Wed May 16 02:32:31 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testTimeoutSecondsDefault
+Wed May 16 02:32:31 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testEnableTimeoutDefault
+Wed May 16 02:32:32 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testCommandShellEmulation
+Wed May 16 02:32:32 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testTimeoutRetries
+Wed May 16 02:32:32 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testCommandShellEmulationDefault
+Wed May 16 02:32:33 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testSetHiveExecutionEngine
+Wed May 16 02:32:33 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testTimeoutRetriesDefault
+Wed May 16 02:32:33 UTC 2018: No link for: com.klarna.hiverunner.config.HiveRunnerConfigTest-testEnableTimeout
+Wed May 16 02:32:34 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.config.HiveRunnerConfigTest
+Wed May 16 02:32:34 UTC 2018: Found element on the queue
+Wed May 16 02:32:34 UTC 2018: Updating status
+Wed May 16 02:32:34 UTC 2018: Working
+Wed May 16 02:32:37 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.DisabledTimeoutTest
+Wed May 16 02:32:37 UTC 2018: Setting lastTestMethodIndex: 57461
+Wed May 16 02:32:37 UTC 2018: Starting linking
+Wed May 16 02:32:37 UTC 2018: No link for: com.klarna.hiverunner.DisabledTimeoutTest-finishAfterTimeoutTest
+Wed May 16 02:32:37 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.DisabledTimeoutTest
+Wed May 16 02:32:38 UTC 2018: Found element on the queue
+Wed May 16 02:32:38 UTC 2018: Updating status
+Wed May 16 02:32:38 UTC 2018: Working
+Wed May 16 02:32:40 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.HiveShellHiveCliEmulationTest
+Wed May 16 02:32:41 UTC 2018: Setting lastTestMethodIndex: 57463
+Wed May 16 02:32:41 UTC 2018: Starting linking
+Wed May 16 02:32:41 UTC 2018: No link for: com.klarna.hiverunner.HiveShellHiveCliEmulationTest-testQueryStripFullLineComment
+Wed May 16 02:32:41 UTC 2018: No link for: com.klarna.hiverunner.HiveShellHiveCliEmulationTest-testQueryStripFullLineCommentNested
+Wed May 16 02:32:41 UTC 2018: No link for: com.klarna.hiverunner.HiveShellHiveCliEmulationTest-testScriptStripFullLineCommentNested
+Wed May 16 02:32:42 UTC 2018: No link for: com.klarna.hiverunner.HiveShellHiveCliEmulationTest-testScriptStripFullLineCommentFirstLine
+Wed May 16 02:32:42 UTC 2018: No link for: com.klarna.hiverunner.HiveShellHiveCliEmulationTest-testQueryStripFullLineCommentFirstLine
+Wed May 16 02:32:42 UTC 2018: No link for: com.klarna.hiverunner.HiveShellHiveCliEmulationTest-testScriptStripFullLineCommentLastLine
+Wed May 16 02:32:43 UTC 2018: No link for: com.klarna.hiverunner.HiveShellHiveCliEmulationTest-testScriptStripFullLineComment
+Wed May 16 02:32:43 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.HiveShellHiveCliEmulationTest
+Wed May 16 02:32:43 UTC 2018: Found element on the queue
+Wed May 16 02:32:43 UTC 2018: Updating status
+Wed May 16 02:32:43 UTC 2018: Working
+Wed May 16 02:32:46 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.sql.StatementsSplitterTest
+Wed May 16 02:32:46 UTC 2018: Setting lastTestMethodIndex: 57468
+Wed May 16 02:32:46 UTC 2018: Starting linking
+Wed May 16 02:32:46 UTC 2018: Code found com.klarna.hiverunner.sql.StatementsSplitter-readUntilEndOfLine with com.klarna.hiverunner.sql.StatementsSplitterTest-testReadUntilEndOfLine
+Wed May 16 02:32:46 UTC 2018: Code found com.klarna.hiverunner.sql.StatementsSplitter-readQuoted with com.klarna.hiverunner.sql.StatementsSplitterTest-testReadQuoted
+Wed May 16 02:32:47 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testCommentWithSingleQuote
+Wed May 16 02:32:47 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testDiscardRedundantSemiColons
+Wed May 16 02:32:47 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testCommentWithSemiColon
+Wed May 16 02:32:48 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testPreserveQuoted
+Wed May 16 02:32:48 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testRealLifeExample
+Wed May 16 02:32:48 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testRemoveTrailingSemiColon
+Wed May 16 02:32:49 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testDiscardEmptyStatements
+Wed May 16 02:32:49 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testCommentPreserved
+Wed May 16 02:32:49 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testDiscardTrailingSpace
+Wed May 16 02:32:50 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testCommentWithDoubleQuote
+Wed May 16 02:32:50 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-realLifeWithComments
+Wed May 16 02:32:50 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testMultilineStatementWithComment
+Wed May 16 02:32:51 UTC 2018: No link for: com.klarna.hiverunner.sql.StatementsSplitterTest-testSplitBasic
+Wed May 16 02:32:51 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.sql.StatementsSplitterTest
+Wed May 16 02:32:51 UTC 2018: Found element on the queue
+Wed May 16 02:32:51 UTC 2018: Updating status
+Wed May 16 02:32:51 UTC 2018: Working
+Wed May 16 02:32:54 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.builder.HiveShellBaseTest
+Wed May 16 02:32:54 UTC 2018: Setting lastTestMethodIndex: 57472
+Wed May 16 02:32:54 UTC 2018: Starting linking
+Wed May 16 02:32:54 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-execute with com.klarna.hiverunner.builder.HiveShellBaseTest-executeScriptNotStarted
+Wed May 16 02:32:54 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-execute with com.klarna.hiverunner.builder.HiveShellBaseTest-executeScriptCharsetPath
+Wed May 16 02:32:55 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-executeQuery with com.klarna.hiverunner.builder.HiveShellBaseTest-executeQueryFromFileMoreThanOneStatement
+Wed May 16 02:32:55 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-executeQuery with com.klarna.hiverunner.builder.HiveShellBaseTest-executeQueryFromFileZeroStatements
+Wed May 16 02:32:55 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-execute with com.klarna.hiverunner.builder.HiveShellBaseTest-executeScriptPath
+Wed May 16 02:32:56 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-start with com.klarna.hiverunner.builder.HiveShellBaseTest-setupScriptsShouldBeExecutedAtStart
+Wed May 16 02:32:56 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-executeQuery with com.klarna.hiverunner.builder.HiveShellBaseTest-executeQueryFromFile
+Wed May 16 02:32:56 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-execute with com.klarna.hiverunner.builder.HiveShellBaseTest-executeScriptFileNotExists
+Wed May 16 02:32:56 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-start with com.klarna.hiverunner.builder.HiveShellBaseTest-setupScriptsMayNotBeAddedAfterShellIsStarted
+Wed May 16 02:32:57 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-execute with com.klarna.hiverunner.builder.HiveShellBaseTest-executeScriptCharsetFile
+Wed May 16 02:32:57 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-start with com.klarna.hiverunner.builder.HiveShellBaseTest-setupScriptMayNotBeAddedAfterShellIsStarted
+Wed May 16 02:32:57 UTC 2018: Code found com.klarna.hiverunner.builder.HiveShellBase-execute with com.klarna.hiverunner.builder.HiveShellBaseTest-executeScriptFile
+Wed May 16 02:32:58 UTC 2018: No link for: com.klarna.hiverunner.builder.HiveShellBaseTest-invalidFilePathShouldThrowException
+Wed May 16 02:32:58 UTC 2018: No link for: com.klarna.hiverunner.builder.HiveShellBaseTest-variableSubstitutionShouldBlowUpIfShellIsNotStarted
+Wed May 16 02:32:58 UTC 2018: No link for: com.klarna.hiverunner.builder.HiveShellBaseTest-setupScriptMayBeAddedBeforeStart
+Wed May 16 02:32:59 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.builder.HiveShellBaseTest
+Wed May 16 02:32:59 UTC 2018: Found element on the queue
+Wed May 16 02:32:59 UTC 2018: Updating status
+Wed May 16 02:32:59 UTC 2018: Working
+Wed May 16 02:33:02 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.SchemaResetBetweenTestMethodsTest
+Wed May 16 02:33:02 UTC 2018: Setting lastTestMethodIndex: 57477
+Wed May 16 02:33:02 UTC 2018: Starting linking
+Wed May 16 02:33:02 UTC 2018: No link for: com.klarna.hiverunner.SchemaResetBetweenTestMethodsTest-createDatabaseBar
+Wed May 16 02:33:02 UTC 2018: No link for: com.klarna.hiverunner.SchemaResetBetweenTestMethodsTest-createDatabaseFoo
+Wed May 16 02:33:02 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.SchemaResetBetweenTestMethodsTest
+Wed May 16 02:33:03 UTC 2018: Found element on the queue
+Wed May 16 02:33:03 UTC 2018: Updating status
+Wed May 16 02:33:03 UTC 2018: Working
+Wed May 16 02:33:05 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.ExecuteFileBasedScriptIntegrationTest
+Wed May 16 02:33:05 UTC 2018: Setting lastTestMethodIndex: 57480
+Wed May 16 02:33:05 UTC 2018: Starting linking
+Wed May 16 02:33:05 UTC 2018: No link for: com.klarna.hiverunner.ExecuteFileBasedScriptIntegrationTest-testExecuteFileBasedScript
+Wed May 16 02:33:05 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.ExecuteFileBasedScriptIntegrationTest
+Wed May 16 02:33:06 UTC 2018: Found element on the queue
+Wed May 16 02:33:06 UTC 2018: Updating status
+Wed May 16 02:33:06 UTC 2018: Working
+Wed May 16 02:33:08 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.InsertIntoTableIntegrationTest
+Wed May 16 02:33:08 UTC 2018: Setting lastTestMethodIndex: 57483
+Wed May 16 02:33:08 UTC 2018: Starting linking
+Wed May 16 02:33:08 UTC 2018: No link for: com.klarna.hiverunner.InsertIntoTableIntegrationTest-insertsDataFromTsvFileIntoOrcTable
+Wed May 16 02:33:09 UTC 2018: No link for: com.klarna.hiverunner.InsertIntoTableIntegrationTest-insertDataIntoTextPartitionedTable
+Wed May 16 02:33:09 UTC 2018: No link for: com.klarna.hiverunner.InsertIntoTableIntegrationTest-insertDataIntoTablePrimitiveParsedStrings
+Wed May 16 02:33:09 UTC 2018: No link for: com.klarna.hiverunner.InsertIntoTableIntegrationTest-insertsDataFromTsvFileWithCustomDelimiterAndNullValue
+Wed May 16 02:33:10 UTC 2018: No link for: com.klarna.hiverunner.InsertIntoTableIntegrationTest-insertDataIntoSequenceFilePartitionedTable
+Wed May 16 02:33:10 UTC 2018: No link for: com.klarna.hiverunner.InsertIntoTableIntegrationTest-insertsDataFromFileWithCustomStrategy
+Wed May 16 02:33:10 UTC 2018: No link for: com.klarna.hiverunner.InsertIntoTableIntegrationTest-insertDataIntoOrcPartitionedTable
+Wed May 16 02:33:11 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.InsertIntoTableIntegrationTest
+Wed May 16 02:33:11 UTC 2018: Found element on the queue
+Wed May 16 02:33:11 UTC 2018: Updating status
+Wed May 16 02:33:11 UTC 2018: Working
+Wed May 16 02:33:14 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.AnnotatedFieldsInSuperClassTest
+Wed May 16 02:33:14 UTC 2018: Setting lastTestMethodIndex: 57486
+Wed May 16 02:33:14 UTC 2018: Starting linking
+Wed May 16 02:33:14 UTC 2018: No link for: com.klarna.hiverunner.AnnotatedFieldsInSuperClassTest-testShellInitializedInAbstractTestClass
+Wed May 16 02:33:14 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.AnnotatedFieldsInSuperClassTest
+Wed May 16 02:33:15 UTC 2018: Found element on the queue
+Wed May 16 02:33:15 UTC 2018: Updating status
+Wed May 16 02:33:15 UTC 2018: Working
+Wed May 16 02:33:17 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.MethodLevelResourceTest
+Wed May 16 02:33:17 UTC 2018: Setting lastTestMethodIndex: 57489
+Wed May 16 02:33:17 UTC 2018: Starting linking
+Wed May 16 02:33:17 UTC 2018: No link for: com.klarna.hiverunner.MethodLevelResourceTest-resourceLoadingAsFileTest
+Wed May 16 02:33:18 UTC 2018: No link for: com.klarna.hiverunner.MethodLevelResourceTest-resourceLoadingAsStringTest
+Wed May 16 02:33:18 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.MethodLevelResourceTest
+Wed May 16 02:33:18 UTC 2018: Found element on the queue
+Wed May 16 02:33:18 UTC 2018: Updating status
+Wed May 16 02:33:18 UTC 2018: Working
+Wed May 16 02:33:21 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.OrcSnappyTest
+Wed May 16 02:33:21 UTC 2018: Setting lastTestMethodIndex: 57492
+Wed May 16 02:33:21 UTC 2018: Starting linking
+Wed May 16 02:33:21 UTC 2018: No link for: com.klarna.hiverunner.OrcSnappyTest-verifyThatDataIsAvailableInOrcNocomp
+Wed May 16 02:33:21 UTC 2018: No link for: com.klarna.hiverunner.OrcSnappyTest-testCountOrcNocomp
+Wed May 16 02:33:22 UTC 2018: No link for: com.klarna.hiverunner.OrcSnappyTest-verifyThatDataIsAvailableInOrcSnappy
+Wed May 16 02:33:22 UTC 2018: No link for: com.klarna.hiverunner.OrcSnappyTest-testCountOrcSnappy
+Wed May 16 02:33:22 UTC 2018: No link for: com.klarna.hiverunner.OrcSnappyTest-tablesShouldBeCreated
+Wed May 16 02:33:23 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.OrcSnappyTest
+Wed May 16 02:33:23 UTC 2018: Found element on the queue
+Wed May 16 02:33:23 UTC 2018: Updating status
+Wed May 16 02:33:23 UTC 2018: Working
+Wed May 16 02:33:26 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.ReservedKeywordTest
+Wed May 16 02:33:26 UTC 2018: Setting lastTestMethodIndex: 57494
+Wed May 16 02:33:26 UTC 2018: Starting linking
+Wed May 16 02:33:26 UTC 2018: No link for: com.klarna.hiverunner.ReservedKeywordTest-reservedKeywordsShouldBeAllowedWhenIdentifierHasBacktickQuote
+Wed May 16 02:33:26 UTC 2018: No link for: com.klarna.hiverunner.ReservedKeywordTest-reservedKeywordsShouldBeAllowedWhenHiveConfIsSet
+Wed May 16 02:33:27 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.ReservedKeywordTest
+Wed May 16 02:33:27 UTC 2018: Found element on the queue
+Wed May 16 02:33:27 UTC 2018: Updating status
+Wed May 16 02:33:27 UTC 2018: Working
+Wed May 16 02:33:29 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.CtasTest
+Wed May 16 02:33:29 UTC 2018: Setting lastTestMethodIndex: 57497
+Wed May 16 02:33:29 UTC 2018: Starting linking
+Wed May 16 02:33:29 UTC 2018: No link for: com.klarna.hiverunner.CtasTest-testCountCtas
+Wed May 16 02:33:30 UTC 2018: No link for: com.klarna.hiverunner.CtasTest-verifyThatDataIsAvailableInCtas
+Wed May 16 02:33:30 UTC 2018: No link for: com.klarna.hiverunner.CtasTest-tablesShouldBeCreated
+Wed May 16 02:33:30 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.CtasTest
+Wed May 16 02:33:31 UTC 2018: Found element on the queue
+Wed May 16 02:33:31 UTC 2018: Updating status
+Wed May 16 02:33:31 UTC 2018: Working
+Wed May 16 02:33:33 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.HiveVariablesTest
+Wed May 16 02:33:33 UTC 2018: Setting lastTestMethodIndex: 57500
+Wed May 16 02:33:33 UTC 2018: Starting linking
+Wed May 16 02:33:33 UTC 2018: No link for: com.klarna.hiverunner.HiveVariablesTest-substitutedVariablesShouldBeExpanded
+Wed May 16 02:33:34 UTC 2018: No link for: com.klarna.hiverunner.HiveVariablesTest-testHiveVar
+Wed May 16 02:33:34 UTC 2018: No link for: com.klarna.hiverunner.HiveVariablesTest-testSystemVar
+Wed May 16 02:33:34 UTC 2018: No link for: com.klarna.hiverunner.HiveVariablesTest-testHiveVarCli
+Wed May 16 02:33:35 UTC 2018: No link for: com.klarna.hiverunner.HiveVariablesTest-nestedSubstitutesShouldBeExpanded
+Wed May 16 02:33:35 UTC 2018: No link for: com.klarna.hiverunner.HiveVariablesTest-nestedSubstitutesShouldBeExpandedUsingDeprecatedSetProperty
+Wed May 16 02:33:35 UTC 2018: No link for: com.klarna.hiverunner.HiveVariablesTest-unexpandableSubstitutesShouldNotBeExpanded
+Wed May 16 02:33:36 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.HiveVariablesTest
+Wed May 16 02:33:36 UTC 2018: Found element on the queue
+Wed May 16 02:33:36 UTC 2018: Updating status
+Wed May 16 02:33:36 UTC 2018: Working
+Wed May 16 02:33:39 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.data.TableDataBuilderTest
+Wed May 16 02:33:39 UTC 2018: Setting lastTestMethodIndex: 57503
+Wed May 16 02:33:39 UTC 2018: Starting linking
+Wed May 16 02:33:39 UTC 2018: Code found com.klarna.hiverunner.data.TableDataBuilder-addRowsFrom with com.klarna.hiverunner.data.TableDataBuilderTest-testAddRowsFromWithMixedCaseColumnNames
+Wed May 16 02:33:39 UTC 2018: Code found com.klarna.hiverunner.data.TableDataBuilder-addRow with com.klarna.hiverunner.data.TableDataBuilderTest-testAddRowWithIncorrectNumberOfArguments
+Wed May 16 02:33:39 UTC 2018: Code found com.klarna.hiverunner.data.TableDataBuilder-set with com.klarna.hiverunner.data.TableDataBuilderTest-testUnknownColumnNameOnSet
+Wed May 16 02:33:40 UTC 2018: Code found com.klarna.hiverunner.data.TableDataBuilder-copyRow with com.klarna.hiverunner.data.TableDataBuilderTest-testCopyRowWhenNoRowToCopy
+Wed May 16 02:33:40 UTC 2018: Code found com.klarna.hiverunner.data.TableDataBuilder-addRow with com.klarna.hiverunner.data.TableDataBuilderTest-testAddRowWithNoArguments
+Wed May 16 02:33:40 UTC 2018: Code found com.klarna.hiverunner.data.TableDataBuilder-copyRow with com.klarna.hiverunner.data.TableDataBuilderTest-testCopyRow
+Wed May 16 02:33:41 UTC 2018: No link for: com.klarna.hiverunner.data.TableDataBuilderTest-testUnpartitionedEmptyRow
+Wed May 16 02:33:41 UTC 2018: No link for: com.klarna.hiverunner.data.TableDataBuilderTest-testUnpartitionedWithColumnMask
+Wed May 16 02:33:41 UTC 2018: No link for: com.klarna.hiverunner.data.TableDataBuilderTest-testPartitionedNullPartitionColumnValue
+Wed May 16 02:33:42 UTC 2018: No link for: com.klarna.hiverunner.data.TableDataBuilderTest-testPartitionedSimple
+Wed May 16 02:33:42 UTC 2018: No link for: com.klarna.hiverunner.data.TableDataBuilderTest-testUnknownColumnNameWithColumnMask
+Wed May 16 02:33:42 UTC 2018: No link for: com.klarna.hiverunner.data.TableDataBuilderTest-testPartitionedMultiplePartitionsAndRows
+Wed May 16 02:33:43 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.data.TableDataBuilderTest
+Wed May 16 02:33:43 UTC 2018: Found element on the queue
+Wed May 16 02:33:43 UTC 2018: Updating status
+Wed May 16 02:33:43 UTC 2018: Working
+Wed May 16 02:33:45 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.data.ConvertersTest
+Wed May 16 02:33:45 UTC 2018: Setting lastTestMethodIndex: 57508
+Wed May 16 02:33:45 UTC 2018: Starting linking
+Wed May 16 02:33:46 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-booleanTypeInfo
+Wed May 16 02:33:46 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-byteTypeInfo
+Wed May 16 02:33:46 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-timestampTypeInfo
+Wed May 16 02:33:46 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-floatTypeInfo
+Wed May 16 02:33:47 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-doubleTypeInfo
+Wed May 16 02:33:47 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-otherTypeInfo
+Wed May 16 02:33:47 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-shortTypeInfo
+Wed May 16 02:33:48 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-inputNull
+Wed May 16 02:33:48 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-inputNotString
+Wed May 16 02:33:49 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-dateTypeInfo
+Wed May 16 02:33:49 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-stringTypeInfo
+Wed May 16 02:33:50 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-intTypeInfo
+Wed May 16 02:33:50 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-longTypeInfo
+Wed May 16 02:33:50 UTC 2018: No link for: com.klarna.hiverunner.data.ConvertersTest-binaryTypeInfo
+Wed May 16 02:33:51 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.data.ConvertersTest
+Wed May 16 02:33:51 UTC 2018: Found element on the queue
+Wed May 16 02:33:51 UTC 2018: Updating status
+Wed May 16 02:33:51 UTC 2018: Working
+Wed May 16 02:33:54 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.data.TableDataInserterTest
+Wed May 16 02:33:54 UTC 2018: Setting lastTestMethodIndex: 57511
+Wed May 16 02:33:54 UTC 2018: Starting linking
+Wed May 16 02:33:54 UTC 2018: Code found com.klarna.hiverunner.data.TableDataInserter-insert with com.klarna.hiverunner.data.TableDataInserterTest-insertsRowsIntoExistingTable
+Wed May 16 02:33:54 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.data.TableDataInserterTest
+Wed May 16 02:33:54 UTC 2018: Found element on the queue
+Wed May 16 02:33:54 UTC 2018: Updating status
+Wed May 16 02:33:54 UTC 2018: Working
+Wed May 16 02:33:57 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.data.InsertIntoTableTest
+Wed May 16 02:33:57 UTC 2018: Setting lastTestMethodIndex: 57514
+Wed May 16 02:33:57 UTC 2018: Starting linking
+Wed May 16 02:33:57 UTC 2018: Code found com.klarna.hiverunner.data.InsertIntoTable-withAllColumns with com.klarna.hiverunner.data.InsertIntoTableTest-withAllColumns
+Wed May 16 02:33:57 UTC 2018: Code found com.klarna.hiverunner.data.InsertIntoTable-withColumns with com.klarna.hiverunner.data.InsertIntoTableTest-withColumns
+Wed May 16 02:33:58 UTC 2018: Code found com.klarna.hiverunner.data.InsertIntoTable-newRow with com.klarna.hiverunner.data.InsertIntoTableTest-newRow
+Wed May 16 02:33:58 UTC 2018: Code found com.klarna.hiverunner.data.InsertIntoTable-commit with com.klarna.hiverunner.data.InsertIntoTableTest-commit
+Wed May 16 02:33:58 UTC 2018: Code found com.klarna.hiverunner.data.InsertIntoTable-set with com.klarna.hiverunner.data.InsertIntoTableTest-set
+Wed May 16 02:33:58 UTC 2018: Code found com.klarna.hiverunner.data.InsertIntoTable-copyRow with com.klarna.hiverunner.data.InsertIntoTableTest-copyRow
+Wed May 16 02:33:59 UTC 2018: Code found com.klarna.hiverunner.data.InsertIntoTable-setRow with com.klarna.hiverunner.data.InsertIntoTableTest-setRow
+Wed May 16 02:33:59 UTC 2018: Code found com.klarna.hiverunner.data.InsertIntoTable-addRow with com.klarna.hiverunner.data.InsertIntoTableTest-addRow
+Wed May 16 02:33:59 UTC 2018: No link for: com.klarna.hiverunner.data.InsertIntoTableTest-addRowsWithFileParser
+Wed May 16 02:34:00 UTC 2018: No link for: com.klarna.hiverunner.data.InsertIntoTableTest-addRows
+Wed May 16 02:34:00 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.data.InsertIntoTableTest
+Wed May 16 02:34:00 UTC 2018: Found element on the queue
+Wed May 16 02:34:00 UTC 2018: Updating status
+Wed May 16 02:34:00 UTC 2018: Working
+Wed May 16 02:34:03 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.data.TsvFileParserTest
+Wed May 16 02:34:03 UTC 2018: Setting lastTestMethodIndex: 57517
+Wed May 16 02:34:03 UTC 2018: Starting linking
+Wed May 16 02:34:03 UTC 2018: Code found com.klarna.hiverunner.data.TsvFileParser-withHeader with com.klarna.hiverunner.data.TsvFileParserTest-csvWithHeader
+Wed May 16 02:34:03 UTC 2018: Code found com.klarna.hiverunner.data.TsvFileParser-parse with com.klarna.hiverunner.data.TsvFileParserTest-parsesTsvSubSelectFields
+Wed May 16 02:34:03 UTC 2018: Code found com.klarna.hiverunner.data.TsvFileParser-parse with com.klarna.hiverunner.data.TsvFileParserTest-parsesTsv
+Wed May 16 02:34:04 UTC 2018: Code found com.klarna.hiverunner.data.TsvFileParser-withHeader with com.klarna.hiverunner.data.TsvFileParserTest-tsvWithHeader
+Wed May 16 02:34:04 UTC 2018: Code found com.klarna.hiverunner.data.TsvFileParser-parse with com.klarna.hiverunner.data.TsvFileParserTest-parsesCsvWithEmptyFields
+Wed May 16 02:34:04 UTC 2018: Code found com.klarna.hiverunner.data.TsvFileParser-parse with com.klarna.hiverunner.data.TsvFileParserTest-parsesTsvNotEnoughFieldsInFile
+Wed May 16 02:34:05 UTC 2018: No link for: com.klarna.hiverunner.data.TsvFileParserTest-csvWithCustomNullValue
+Wed May 16 02:34:05 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.data.TsvFileParserTest
+Wed May 16 02:34:05 UTC 2018: Found element on the queue
+Wed May 16 02:34:05 UTC 2018: Updating status
+Wed May 16 02:34:05 UTC 2018: Working
+Wed May 16 02:34:08 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.ExecuteScriptIntegrationTest
+Wed May 16 02:34:08 UTC 2018: Setting lastTestMethodIndex: 57522
+Wed May 16 02:34:08 UTC 2018: Starting linking
+Wed May 16 02:34:08 UTC 2018: No link for: com.klarna.hiverunner.ExecuteScriptIntegrationTest-testInsertRowWithExecuteScript
+Wed May 16 02:34:08 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.ExecuteScriptIntegrationTest
+Wed May 16 02:34:09 UTC 2018: Found element on the queue
+Wed May 16 02:34:09 UTC 2018: Updating status
+Wed May 16 02:34:09 UTC 2018: Working
+Wed May 16 02:34:11 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.ResourceOutputStreamTest
+Wed May 16 02:34:11 UTC 2018: Setting lastTestMethodIndex: 57525
+Wed May 16 02:34:11 UTC 2018: Starting linking
+Wed May 16 02:34:11 UTC 2018: No link for: com.klarna.hiverunner.ResourceOutputStreamTest-writeShouldOnlyBeAllowedBeforeStartHasBeenCalled
+Wed May 16 02:34:11 UTC 2018: No link for: com.klarna.hiverunner.ResourceOutputStreamTest-itShouldBePossibleToAddAResourceByOutputStream
+Wed May 16 02:34:12 UTC 2018: No link for: com.klarna.hiverunner.ResourceOutputStreamTest-sequenceFile
+Wed May 16 02:34:12 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.ResourceOutputStreamTest
+Wed May 16 02:34:13 UTC 2018: Found element on the queue
+Wed May 16 02:34:13 UTC 2018: Updating status
+Wed May 16 02:34:13 UTC 2018: Working
+Wed May 16 02:34:15 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.NoTimoutTest
+Wed May 16 02:34:15 UTC 2018: Setting lastTestMethodIndex: 57528
+Wed May 16 02:34:15 UTC 2018: Starting linking
+Wed May 16 02:34:15 UTC 2018: No link for: com.klarna.hiverunner.NoTimoutTest-test
+Wed May 16 02:34:15 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.NoTimoutTest
+Wed May 16 02:34:16 UTC 2018: Found element on the queue
+Wed May 16 02:34:16 UTC 2018: Updating status
+Wed May 16 02:34:16 UTC 2018: Working
+Wed May 16 02:34:18 UTC 2018: Start klarna__HiveRunner test class com.klarna.hiverunner.UnresolvedResourcePathTest
+Wed May 16 02:34:18 UTC 2018: Setting lastTestMethodIndex: 57529
+Wed May 16 02:34:18 UTC 2018: Starting linking
+Wed May 16 02:34:18 UTC 2018: No link for: com.klarna.hiverunner.UnresolvedResourcePathTest-resourceFileShouldBeCreatedInsideTempDir
+Wed May 16 02:34:19 UTC 2018: No link for: com.klarna.hiverunner.UnresolvedResourcePathTest-resourceFileShouldNotBeCreatedIfReferencesAreUnresolved
+Wed May 16 02:34:19 UTC 2018: No link for: com.klarna.hiverunner.UnresolvedResourcePathTest-resourceFilePathShouldAlwaysBeInsideTempDir
+Wed May 16 02:34:19 UTC 2018: Linking done for klarna__HiveRunner test class com.klarna.hiverunner.UnresolvedResourcePathTest

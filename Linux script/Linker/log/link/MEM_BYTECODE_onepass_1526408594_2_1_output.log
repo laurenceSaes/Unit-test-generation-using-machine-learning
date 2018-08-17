@@ -1,0 +1,1557 @@
+Tue May 15 18:23:14 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 18:23:15 UTC 2018: Starting
+Tue May 15 18:23:15 UTC 2018: Found element on the queue
+Tue May 15 18:23:15 UTC 2018: Updating status
+Tue May 15 18:23:15 UTC 2018: Working
+Tue May 15 18:23:15 UTC 2018: Create project parser
+Tue May 15 18:23:40 UTC 2018: Create slicer
+Tue May 15 18:24:46 UTC 2018: Create call graph
+Tue May 15 18:25:07 UTC 2018: Create point analysis
+Tue May 15 18:25:07 UTC 2018: Create call graph done
+Tue May 15 18:25:07 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.validation.BadlyFormedClassesTest
+Tue May 15 18:25:07 UTC 2018: Setting lastTestMethodIndex: 41635
+Tue May 15 18:25:07 UTC 2018: Starting linking
+Tue May 15 18:25:07 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.validation.BadlyFormedClassesTest
+Tue May 15 18:25:08 UTC 2018: Found element on the queue
+Tue May 15 18:25:08 UTC 2018: Updating status
+Tue May 15 18:25:08 UTC 2018: Working
+Tue May 15 18:25:12 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.validation.FailedConstructionTest
+Tue May 15 18:25:12 UTC 2018: Setting lastTestMethodIndex: 41638
+Tue May 15 18:25:12 UTC 2018: Starting linking
+Tue May 15 18:25:12 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.validation.FailedConstructionTest
+Tue May 15 18:25:13 UTC 2018: Found element on the queue
+Tue May 15 18:25:13 UTC 2018: Updating status
+Tue May 15 18:25:13 UTC 2018: Working
+Tue May 15 18:25:16 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.validation.ValidationTest
+Tue May 15 18:25:16 UTC 2018: Setting lastTestMethodIndex: 41642
+Tue May 15 18:25:16 UTC 2018: Starting linking
+Tue May 15 18:25:16 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.validation.ValidationTest
+Tue May 15 18:25:17 UTC 2018: Found element on the queue
+Tue May 15 18:25:17 UTC 2018: Updating status
+Tue May 15 18:25:17 UTC 2018: Working
+Tue May 15 18:25:20 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.validator.AnnotationsValidatorTest
+Tue May 15 18:25:20 UTC 2018: Setting lastTestMethodIndex: 41645
+Tue May 15 18:25:20 UTC 2018: Starting linking
+Tue May 15 18:25:20 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.validator.AnnotationsValidatorTest
+Tue May 15 18:25:21 UTC 2018: Found element on the queue
+Tue May 15 18:25:21 UTC 2018: Updating status
+Tue May 15 18:25:21 UTC 2018: Working
+Tue May 15 18:25:24 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.validator.AnnotationValidatorFactoryTest
+Tue May 15 18:25:24 UTC 2018: Setting lastTestMethodIndex: 41649
+Tue May 15 18:25:24 UTC 2018: Starting linking
+Tue May 15 18:25:24 UTC 2018: Code found org.junit.validator.AnnotationValidatorFactory-createAnnotationValidator with org.junit.validator.AnnotationValidatorFactoryTest-createAnnotationValidator
+Tue May 15 18:25:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:24 UTC 2018: No link for: org.junit.validator.AnnotationValidatorFactoryTest-exceptionWhenAnnotationValidatorCantBeCreated
+Tue May 15 18:25:24 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.validator.AnnotationValidatorFactoryTest
+Tue May 15 18:25:25 UTC 2018: Found element on the queue
+Tue May 15 18:25:25 UTC 2018: Updating status
+Tue May 15 18:25:25 UTC 2018: Working
+Tue May 15 18:25:28 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.validator.PublicClassValidatorTest
+Tue May 15 18:25:28 UTC 2018: Setting lastTestMethodIndex: 41652
+Tue May 15 18:25:28 UTC 2018: Starting linking
+Tue May 15 18:25:28 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.validator.PublicClassValidatorTest
+Tue May 15 18:25:29 UTC 2018: Found element on the queue
+Tue May 15 18:25:29 UTC 2018: Updating status
+Tue May 15 18:25:29 UTC 2018: Working
+Tue May 15 18:25:32 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.AssumptionViolatedExceptionTest
+Tue May 15 18:25:32 UTC 2018: Setting lastTestMethodIndex: 41654
+Tue May 15 18:25:32 UTC 2018: Starting linking
+Tue May 15 18:25:32 UTC 2018: No code found org.junit.AssumptionViolatedException-initCause with org.junit.AssumptionViolatedExceptionTest-canInitCauseWithInstanceCreatedWithString
+Tue May 15 18:25:32 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-canSetCauseWithInstanceCreatedWithMainConstructor
+Tue May 15 18:25:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:33 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-canSetCauseWithInstanceCreatedWithObjectAndMatcher
+Tue May 15 18:25:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:33 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-assumptionViolatedExceptionWithMatcherDescribesItself
+Tue May 15 18:25:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:33 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-canSetCauseWithInstanceCreatedWithAssumptionObjectAndMatcher
+Tue May 15 18:25:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:33 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-canSetCauseWithInstanceCreatedWithExplicitThrowableConstructor
+Tue May 15 18:25:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:34 UTC 2018: No link for: org.junit.AssumptionViolatedExceptionTest-simpleAssumptionViolatedExceptionDescribesItself
+Tue May 15 18:25:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:34 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.AssumptionViolatedExceptionTest
+Tue May 15 18:25:35 UTC 2018: Found element on the queue
+Tue May 15 18:25:35 UTC 2018: Updating status
+Tue May 15 18:25:35 UTC 2018: Working
+Tue May 15 18:25:39 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.ObjectContractTest
+Tue May 15 18:25:39 UTC 2018: Setting lastTestMethodIndex: 41657
+Tue May 15 18:25:39 UTC 2018: Starting linking
+Tue May 15 18:25:39 UTC 2018: No link for: org.junit.tests.ObjectContractTest-equalsThrowsNoException
+Tue May 15 18:25:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:40 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.ObjectContractTest
+Tue May 15 18:25:41 UTC 2018: Found element on the queue
+Tue May 15 18:25:41 UTC 2018: Updating status
+Tue May 15 18:25:41 UTC 2018: Working
+Tue May 15 18:25:45 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.assertion.AssertionTest
+Tue May 15 18:25:45 UTC 2018: Setting lastTestMethodIndex: 41661
+Tue May 15 18:25:45 UTC 2018: Starting linking
+Tue May 15 18:25:45 UTC 2018: Code found org.junit.Assert-fail with org.junit.tests.assertion.AssertionTest-fails
+Tue May 15 18:25:45 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:45 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsIgnoresDeltaOnNaN
+Tue May 15 18:25:45 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:45 UTC 2018: Code found org.junit.Assert-assertThat with org.junit.tests.assertion.AssertionTest-assertThatIncludesAdvancedMismatch
+Tue May 15 18:25:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:46 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsDetectsTypeMismatchesViaExplicitTypeHint
+Tue May 15 18:25:46 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsConsidersDeltaCorrectly
+Tue May 15 18:25:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:46 UTC 2018: Code found org.junit.Assert-assertEquals with org.junit.tests.assertion.AssertionTest-nullMessageDisappearsWithAssertEquals
+Tue May 15 18:25:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:46 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsWorksWithPrimitiveTypes
+Tue May 15 18:25:46 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:46 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsIgnoresFloatDeltaOnNaN
+Tue May 15 18:25:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:47 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsConsidersFloatDeltaCorrectly
+Tue May 15 18:25:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:47 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsWrapsAndPropagatesUnexpectedExceptions
+Tue May 15 18:25:47 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsSuppliesACoherentErrorMessageUponTypeMismatch
+Tue May 15 18:25:47 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsIncludesCorrectMessage
+Tue May 15 18:25:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:47 UTC 2018: Code found org.junit.Assert-assertThat with org.junit.tests.assertion.AssertionTest-assertThatIncludesDescriptionOfTestedValueInErrorMessage
+Tue May 15 18:25:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:48 UTC 2018: Code found org.junit.Assert-fail with org.junit.tests.assertion.AssertionTest-failWithNoMessageToString
+Tue May 15 18:25:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:48 UTC 2018: Code found org.junit.Assert-assertThat with org.junit.tests.assertion.AssertionTest-assertThatDescriptionCanBeElided
+Tue May 15 18:25:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:48 UTC 2018: Code found org.junit.Assert-fail with org.junit.tests.assertion.AssertionTest-failWithMessageToString
+Tue May 15 18:25:48 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:48 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsRequiresAnExceptionToBeThrown
+Tue May 15 18:25:48 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsIncludesAnInformativeDefaultMessage
+Tue May 15 18:25:48 UTC 2018: Code found org.junit.Assert-expectThrows with org.junit.tests.assertion.AssertionTest-expectThrowsReturnsTheSameObjectThrown
+Tue May 15 18:25:48 UTC 2018: Code found org.junit.Assert-assertEquals with org.junit.tests.assertion.AssertionTest-nullMessageDisappearsWithStringAssertEquals
+Tue May 15 18:25:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:49 UTC 2018: Code found org.junit.Assert-assertNotEquals with org.junit.tests.assertion.AssertionTest-assertNotEqualsIncludesTheValueBeingTested
+Tue May 15 18:25:49 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:25:49 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-twoDimensionalArraysConvertedToStringCorrectly
+Tue May 15 18:25:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:49 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-objectsAreSame
+Tue May 15 18:25:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:49 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysAreNotEqual
+Tue May 15 18:25:49 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:49 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-charsNotEqual
+Tue May 15 18:25:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysElementsDiffer
+Tue May 15 18:25:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullAndStringNullPrintCorrectError
+Tue May 15 18:25:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-sameObjectIsNotEqual
+Tue May 15 18:25:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-bytesNotEqual
+Tue May 15 18:25:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:50 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferentLengthDifferingAtStartMessage
+Tue May 15 18:25:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notSameWithMessage
+Tue May 15 18:25:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullNullmessage
+Tue May 15 18:25:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notEqualsObjectWithNull
+Tue May 15 18:25:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysDeclaredAsOneDimensionalAreEqual
+Tue May 15 18:25:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:51 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-intsEqualLongs
+Tue May 15 18:25:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-objectsWithDiferentReferencesAreNotEqual
+Tue May 15 18:25:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-twoDimensionalArraysDifferentInnerLengthNotEqual
+Tue May 15 18:25:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-compareBigDecimalAndInteger
+Tue May 15 18:25:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferAtElement0nullMessage
+Tue May 15 18:25:52 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:52 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-doublesNotEqual
+Tue May 15 18:25:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysNotEqualWithMessage
+Tue May 15 18:25:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferentLengthDifferingAtEndAndExpectedArrayLongerMessage
+Tue May 15 18:25:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-objectsNotEquals
+Tue May 15 18:25:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysDifferentLengthNoMessage
+Tue May 15 18:25:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:53 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-objectsNotSame
+Tue May 15 18:25:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-booleansNotEqual
+Tue May 15 18:25:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-floatsNotDoublesInArrays
+Tue May 15 18:25:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-shortsNotEqual
+Tue May 15 18:25:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-stringNullAndNullWorksToo
+Tue May 15 18:25:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysEqual
+Tue May 15 18:25:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notEqualsObjectWithNullWithMessage
+Tue May 15 18:25:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:54 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullMessage
+Tue May 15 18:25:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-nullWithMessage
+Tue May 15 18:25:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-naNsAreEqual
+Tue May 15 18:25:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferAtElement0withMessage
+Tue May 15 18:25:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-bigDecimalsNotEqual
+Tue May 15 18:25:55 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:55 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notEqualsNullWithObjectWithMessage
+Tue May 15 18:25:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferAtElement1nullMessage
+Tue May 15 18:25:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalIntArraysAreEqual
+Tue May 15 18:25:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notSame
+Tue May 15 18:25:56 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:56 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-oneDimensionalBooleanArraysAreNotEqual
+Tue May 15 18:25:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysActualNullMessage
+Tue May 15 18:25:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysWithNullElementEqual
+Tue May 15 18:25:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-intsNotEqual
+Tue May 15 18:25:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-oneDimensionalFloatArraysAreNotEqual
+Tue May 15 18:25:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-sameNullMessage
+Tue May 15 18:25:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:57 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-stringsDifferWithUserMessage
+Tue May 15 18:25:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDeclaredAsObjectAreComparedAsObjects
+Tue May 15 18:25:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-oneDimensionalPrimitiveArraysAreEqual
+Tue May 15 18:25:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-stringsNotEqual
+Tue May 15 18:25:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysNotEqual
+Tue May 15 18:25:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-longsNotEqual
+Tue May 15 18:25:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:58 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferentLengthDifferingAtEndMessage
+Tue May 15 18:25:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:59 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-sameWithMessage
+Tue May 15 18:25:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:59 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notSameNullMessage
+Tue May 15 18:25:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:59 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-notEqualsNullWithObject
+Tue May 15 18:25:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:59 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-primitiveArraysConvertedToStringCorrectly
+Tue May 15 18:25:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:25:59 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysAreNotEqualNoMessage
+Tue May 15 18:26:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:00 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysExpectedNullMessage
+Tue May 15 18:26:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:00 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysEqualWithMessage
+Tue May 15 18:26:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:00 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-equals
+Tue May 15 18:26:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:00 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-IntegerDoesNotEqualLong
+Tue May 15 18:26:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:00 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-arraysDifferAtElement1withMessage
+Tue May 15 18:26:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:00 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-implicitTypecastEquality
+Tue May 15 18:26:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:01 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-floatsNotEqualWithoutDelta
+Tue May 15 18:26:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:01 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysAreEqual
+Tue May 15 18:26:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:01 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-multiDimensionalArraysDifferentLengthMessage
+Tue May 15 18:26:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:01 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-oneDimensionalDoubleArraysAreNotEqual
+Tue May 15 18:26:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:01 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-floatsNotEqual
+Tue May 15 18:26:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:01 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-same
+Tue May 15 18:26:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:02 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-errorMessageDistinguishesDifferentValuesWithSameToString
+Tue May 15 18:26:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:02 UTC 2018: No link for: org.junit.tests.assertion.AssertionTest-twoDimensionalArraysDifferentOuterLengthNotEqual
+Tue May 15 18:26:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:02 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.assertion.AssertionTest
+Tue May 15 18:26:03 UTC 2018: Found element on the queue
+Tue May 15 18:26:03 UTC 2018: Updating status
+Tue May 15 18:26:03 UTC 2018: Working
+Tue May 15 18:26:07 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.assertion.ComparisonFailureTest
+Tue May 15 18:26:07 UTC 2018: Setting lastTestMethodIndex: 41676
+Tue May 15 18:26:07 UTC 2018: Starting linking
+Tue May 15 18:26:07 UTC 2018: No link for: org.junit.tests.assertion.ComparisonFailureTest-compactFailureMessage
+Tue May 15 18:26:07 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:07 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.assertion.ComparisonFailureTest
+Tue May 15 18:26:08 UTC 2018: Found element on the queue
+Tue May 15 18:26:08 UTC 2018: Updating status
+Tue May 15 18:26:08 UTC 2018: Working
+Tue May 15 18:26:11 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.assertion.MultipleFailureExceptionTest
+Tue May 15 18:26:11 UTC 2018: Setting lastTestMethodIndex: 41680
+Tue May 15 18:26:11 UTC 2018: Starting linking
+Tue May 15 18:26:11 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyThrowsMultipleFailureExceptionForManyThrowables
+Tue May 15 18:26:11 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyRethrowsSingleError
+Tue May 15 18:26:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:12 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyDoesNotThrowForEmptyList
+Tue May 15 18:26:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:12 UTC 2018: Code found org.junit.runners.model.MultipleFailureException-assertEmpty with org.junit.tests.assertion.MultipleFailureExceptionTest-assertEmptyRethrowsSingleRuntimeException
+Tue May 15 18:26:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:12 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.assertion.MultipleFailureExceptionTest
+Tue May 15 18:26:13 UTC 2018: Found element on the queue
+Tue May 15 18:26:13 UTC 2018: Updating status
+Tue May 15 18:26:13 UTC 2018: Working
+Tue May 15 18:26:16 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.deprecated.JUnit4ClassRunnerTest
+Tue May 15 18:26:16 UTC 2018: Setting lastTestMethodIndex: 41684
+Tue May 15 18:26:16 UTC 2018: Starting linking
+Tue May 15 18:26:16 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.deprecated.JUnit4ClassRunnerTest
+Tue May 15 18:26:17 UTC 2018: Found element on the queue
+Tue May 15 18:26:17 UTC 2018: Updating status
+Tue May 15 18:26:17 UTC 2018: Working
+Tue May 15 18:26:20 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.description.AnnotatedDescriptionTest
+Tue May 15 18:26:20 UTC 2018: Setting lastTestMethodIndex: 41688
+Tue May 15 18:26:20 UTC 2018: Starting linking
+Tue May 15 18:26:20 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.description.AnnotatedDescriptionTest
+Tue May 15 18:26:21 UTC 2018: Found element on the queue
+Tue May 15 18:26:21 UTC 2018: Updating status
+Tue May 15 18:26:21 UTC 2018: Working
+Tue May 15 18:26:25 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.description.SuiteDescriptionTest
+Tue May 15 18:26:25 UTC 2018: Setting lastTestMethodIndex: 41691
+Tue May 15 18:26:25 UTC 2018: Starting linking
+Tue May 15 18:26:25 UTC 2018: Code found org.junit.runner.Description-hashCode with org.junit.tests.description.SuiteDescriptionTest-hashCodeIsReasonable
+Tue May 15 18:26:25 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:25 UTC 2018: Code found org.junit.runner.Description-equals with org.junit.tests.description.SuiteDescriptionTest-equalsIsCorrect
+Tue May 15 18:26:25 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:25 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.description.SuiteDescriptionTest
+Tue May 15 18:26:26 UTC 2018: Found element on the queue
+Tue May 15 18:26:26 UTC 2018: Updating status
+Tue May 15 18:26:26 UTC 2018: Working
+Tue May 15 18:26:29 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.description.TestDescriptionMethodNameTest
+Tue May 15 18:26:29 UTC 2018: Setting lastTestMethodIndex: 41695
+Tue May 15 18:26:29 UTC 2018: Starting linking
+Tue May 15 18:26:29 UTC 2018: No link for: org.junit.tests.description.TestDescriptionMethodNameTest-methodNameTest
+Tue May 15 18:26:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:30 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.description.TestDescriptionMethodNameTest
+Tue May 15 18:26:30 UTC 2018: Found element on the queue
+Tue May 15 18:26:30 UTC 2018: Updating status
+Tue May 15 18:26:30 UTC 2018: Working
+Tue May 15 18:26:34 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.description.TestDescriptionTest
+Tue May 15 18:26:34 UTC 2018: Setting lastTestMethodIndex: 41699
+Tue May 15 18:26:34 UTC 2018: Starting linking
+Tue May 15 18:26:34 UTC 2018: Code found org.junit.runner.Description-equals with org.junit.tests.description.TestDescriptionTest-equalsIsFalseForNonTestDescription
+Tue May 15 18:26:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:34 UTC 2018: Code found org.junit.runner.Description-equals with org.junit.tests.description.TestDescriptionTest-equalsIsTrueForSameNameAndNoExplicitUniqueId
+Tue May 15 18:26:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:34 UTC 2018: Code found org.junit.runner.Description-equals with org.junit.tests.description.TestDescriptionTest-equalsIsFalseForSameNameAndDifferentUniqueId
+Tue May 15 18:26:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:35 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.description.TestDescriptionTest
+Tue May 15 18:26:35 UTC 2018: Found element on the queue
+Tue May 15 18:26:35 UTC 2018: Updating status
+Tue May 15 18:26:35 UTC 2018: Working
+Tue May 15 18:26:39 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.CategoriesAndParameterizedTest
+Tue May 15 18:26:39 UTC 2018: Setting lastTestMethodIndex: 41703
+Tue May 15 18:26:39 UTC 2018: Starting linking
+Tue May 15 18:26:39 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.CategoriesAndParameterizedTest
+Tue May 15 18:26:39 UTC 2018: Found element on the queue
+Tue May 15 18:26:39 UTC 2018: Updating status
+Tue May 15 18:26:39 UTC 2018: Working
+Tue May 15 18:26:43 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.CategoryFilterFactoryTest
+Tue May 15 18:26:43 UTC 2018: Setting lastTestMethodIndex: 41707
+Tue May 15 18:26:43 UTC 2018: Starting linking
+Tue May 15 18:26:43 UTC 2018: Code found org.junit.experimental.categories.CategoryFilterFactory-createFilter with org.junit.experimental.categories.CategoryFilterFactoryTest-shouldCreateFilter
+Tue May 15 18:26:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:26:43 UTC 2018: No link for: org.junit.experimental.categories.CategoryFilterFactoryTest-shouldThrowException
+Tue May 15 18:26:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:26:43 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.CategoryFilterFactoryTest
+Tue May 15 18:26:44 UTC 2018: Found element on the queue
+Tue May 15 18:26:44 UTC 2018: Updating status
+Tue May 15 18:26:44 UTC 2018: Working
+Tue May 15 18:26:48 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.CategoryTest
+Tue May 15 18:26:48 UTC 2018: Setting lastTestMethodIndex: 41710
+Tue May 15 18:26:48 UTC 2018: Starting linking
+Tue May 15 18:26:48 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.CategoryTest
+Tue May 15 18:26:49 UTC 2018: Found element on the queue
+Tue May 15 18:26:49 UTC 2018: Updating status
+Tue May 15 18:26:49 UTC 2018: Working
+Tue May 15 18:26:52 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.CategoryValidatorTest
+Tue May 15 18:26:52 UTC 2018: Setting lastTestMethodIndex: 41714
+Tue May 15 18:26:52 UTC 2018: Starting linking
+Tue May 15 18:26:52 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.CategoryValidatorTest
+Tue May 15 18:26:53 UTC 2018: Found element on the queue
+Tue May 15 18:26:53 UTC 2018: Updating status
+Tue May 15 18:26:53 UTC 2018: Working
+Tue May 15 18:26:56 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.JavadocTest
+Tue May 15 18:26:56 UTC 2018: Setting lastTestMethodIndex: 41718
+Tue May 15 18:26:56 UTC 2018: Starting linking
+Tue May 15 18:26:56 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.JavadocTest
+Tue May 15 18:26:57 UTC 2018: Found element on the queue
+Tue May 15 18:26:57 UTC 2018: Updating status
+Tue May 15 18:26:57 UTC 2018: Working
+Tue May 15 18:27:00 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.MultiCategoryTest
+Tue May 15 18:27:00 UTC 2018: Setting lastTestMethodIndex: 41722
+Tue May 15 18:27:00 UTC 2018: Starting linking
+Tue May 15 18:27:00 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.experimental.categories.MultiCategoryTest
+Tue May 15 18:27:01 UTC 2018: Found element on the queue
+Tue May 15 18:27:01 UTC 2018: Updating status
+Tue May 15 18:27:01 UTC 2018: Working
+Tue May 15 18:27:04 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.max.DescriptionTest
+Tue May 15 18:27:04 UTC 2018: Setting lastTestMethodIndex: 41723
+Tue May 15 18:27:04 UTC 2018: Starting linking
+Tue May 15 18:27:04 UTC 2018: Code found org.junit.runner.Description-createSuiteDescription with org.junit.tests.experimental.max.DescriptionTest-createSuiteDescription_whenNull
+Tue May 15 18:27:04 UTC 2018: Code found org.junit.runner.Description-createSuiteDescription with org.junit.tests.experimental.max.DescriptionTest-createSuiteDescription_whenZeroLength
+Tue May 15 18:27:04 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-tessed
+Tue May 15 18:27:05 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseMethod_whenCantParse
+Tue May 15 18:27:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:27:05 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-sameNamesButDifferentUniqueIdAreNotEqual
+Tue May 15 18:27:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:27:05 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseClass_whenCantParse
+Tue May 15 18:27:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:27:05 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseClassAndMethodWithAnnotations
+Tue May 15 18:27:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:27:05 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseClassAndMethodNoAnnotations
+Tue May 15 18:27:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:27:06 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-parseClassNameAndMethodUniqueId
+Tue May 15 18:27:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:27:06 UTC 2018: No link for: org.junit.tests.experimental.max.DescriptionTest-usesPassedInClassObject
+Tue May 15 18:27:06 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:27:06 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.max.DescriptionTest
+Tue May 15 18:27:07 UTC 2018: Found element on the queue
+Tue May 15 18:27:07 UTC 2018: Updating status
+Tue May 15 18:27:07 UTC 2018: Working
+Tue May 15 18:27:10 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.max.JUnit38SortingTest
+Tue May 15 18:27:10 UTC 2018: Setting lastTestMethodIndex: 41729
+Tue May 15 18:27:10 UTC 2018: Starting linking
+Tue May 15 18:27:10 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.max.JUnit38SortingTest
+Tue May 15 18:27:11 UTC 2018: Found element on the queue
+Tue May 15 18:27:11 UTC 2018: Updating status
+Tue May 15 18:27:11 UTC 2018: Working
+Tue May 15 18:27:15 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.max.MaxStarterTest
+Tue May 15 18:27:15 UTC 2018: Setting lastTestMethodIndex: 41731
+Tue May 15 18:27:15 UTC 2018: Starting linking
+Tue May 15 18:27:15 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.max.MaxStarterTest
+Tue May 15 18:27:16 UTC 2018: Found element on the queue
+Tue May 15 18:27:16 UTC 2018: Updating status
+Tue May 15 18:27:16 UTC 2018: Working
+Tue May 15 18:27:18 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.parallel.ParallelClassTest
+Tue May 15 18:27:18 UTC 2018: Setting lastTestMethodIndex: 41735
+Tue May 15 18:27:18 UTC 2018: Starting linking
+Tue May 15 18:27:18 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.parallel.ParallelClassTest
+Tue May 15 18:27:19 UTC 2018: Found element on the queue
+Tue May 15 18:27:19 UTC 2018: Updating status
+Tue May 15 18:27:19 UTC 2018: Working
+Tue May 15 18:27:23 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.parallel.ParallelMethodTest
+Tue May 15 18:27:23 UTC 2018: Setting lastTestMethodIndex: 41738
+Tue May 15 18:27:23 UTC 2018: Starting linking
+Tue May 15 18:27:23 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.parallel.ParallelMethodTest
+Tue May 15 18:27:24 UTC 2018: Found element on the queue
+Tue May 15 18:27:24 UTC 2018: Updating status
+Tue May 15 18:27:24 UTC 2018: Working
+Tue May 15 18:27:28 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.results.PrintableResultTest
+Tue May 15 18:27:28 UTC 2018: Setting lastTestMethodIndex: 41740
+Tue May 15 18:27:28 UTC 2018: Starting linking
+Tue May 15 18:27:28 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.results.PrintableResultTest
+Tue May 15 18:27:29 UTC 2018: Found element on the queue
+Tue May 15 18:27:29 UTC 2018: Updating status
+Tue May 15 18:27:29 UTC 2018: Working
+Tue May 15 18:27:32 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.results.ResultMatchersTest
+Tue May 15 18:27:32 UTC 2018: Setting lastTestMethodIndex: 41744
+Tue May 15 18:27:32 UTC 2018: Starting linking
+Tue May 15 18:27:32 UTC 2018: No link for: org.junit.tests.experimental.results.ResultMatchersTest-hasFailuresHasGoodDescription
+Tue May 15 18:27:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:27:32 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.results.ResultMatchersTest
+Tue May 15 18:27:33 UTC 2018: Found element on the queue
+Tue May 15 18:27:33 UTC 2018: Updating status
+Tue May 15 18:27:33 UTC 2018: Working
+Tue May 15 18:27:36 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.internal.AllMembersSupplierTest
+Tue May 15 18:27:36 UTC 2018: Setting lastTestMethodIndex: 41746
+Tue May 15 18:27:36 UTC 2018: Starting linking
+Tue May 15 18:27:36 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.internal.AllMembersSupplierTest
+Tue May 15 18:27:37 UTC 2018: Found element on the queue
+Tue May 15 18:27:37 UTC 2018: Updating status
+Tue May 15 18:27:37 UTC 2018: Working
+Tue May 15 18:27:40 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest
+Tue May 15 18:27:40 UTC 2018: Setting lastTestMethodIndex: 41749
+Tue May 15 18:27:40 UTC 2018: Starting linking
+Tue May 15 18:27:40 UTC 2018: Code found org.junit.experimental.theories.internal.ParameterizedAssertionError-join with org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest-canJoinWhenToStringFails
+Tue May 15 18:27:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:27:40 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.internal.ParameterizedAssertionErrorTest
+Tue May 15 18:27:41 UTC 2018: Found element on the queue
+Tue May 15 18:27:41 UTC 2018: Updating status
+Tue May 15 18:27:41 UTC 2018: Working
+Tue May 15 18:27:45 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest
+Tue May 15 18:27:45 UTC 2018: Setting lastTestMethodIndex: 41753
+Tue May 15 18:27:45 UTC 2018: Starting linking
+Tue May 15 18:27:45 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.internal.SpecificDataPointsSupplierTest
+Tue May 15 18:27:46 UTC 2018: Found element on the queue
+Tue May 15 18:27:46 UTC 2018: Updating status
+Tue May 15 18:27:46 UTC 2018: Working
+Tue May 15 18:27:49 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.FailingDataPointMethods
+Tue May 15 18:27:49 UTC 2018: Setting lastTestMethodIndex: 41755
+Tue May 15 18:27:49 UTC 2018: Starting linking
+Tue May 15 18:27:49 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.FailingDataPointMethods
+Tue May 15 18:27:49 UTC 2018: Found element on the queue
+Tue May 15 18:27:49 UTC 2018: Updating status
+Tue May 15 18:27:49 UTC 2018: Working
+Tue May 15 18:27:53 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.TheoriesPerformanceTest
+Tue May 15 18:27:53 UTC 2018: Setting lastTestMethodIndex: 41759
+Tue May 15 18:27:53 UTC 2018: Starting linking
+Tue May 15 18:27:53 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.TheoriesPerformanceTest
+Tue May 15 18:27:53 UTC 2018: Found element on the queue
+Tue May 15 18:27:53 UTC 2018: Updating status
+Tue May 15 18:27:53 UTC 2018: Working
+Tue May 15 18:27:57 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.TypeMatchingBetweenMultiDataPointsMethod
+Tue May 15 18:27:57 UTC 2018: Setting lastTestMethodIndex: 41763
+Tue May 15 18:27:57 UTC 2018: Starting linking
+Tue May 15 18:27:57 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.TypeMatchingBetweenMultiDataPointsMethod
+Tue May 15 18:27:58 UTC 2018: Found element on the queue
+Tue May 15 18:27:58 UTC 2018: Updating status
+Tue May 15 18:27:58 UTC 2018: Working
+Tue May 15 18:28:01 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields
+Tue May 15 18:28:01 UTC 2018: Setting lastTestMethodIndex: 41766
+Tue May 15 18:28:01 UTC 2018: Starting linking
+Tue May 15 18:28:01 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.UnsuccessfulWithDataPointFields
+Tue May 15 18:28:02 UTC 2018: Found element on the queue
+Tue May 15 18:28:02 UTC 2018: Updating status
+Tue May 15 18:28:02 UTC 2018: Working
+Tue May 15 18:28:05 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WhenNoParametersMatch
+Tue May 15 18:28:05 UTC 2018: Setting lastTestMethodIndex: 41768
+Tue May 15 18:28:05 UTC 2018: Starting linking
+Tue May 15 18:28:05 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WhenNoParametersMatch
+Tue May 15 18:28:05 UTC 2018: Found element on the queue
+Tue May 15 18:28:05 UTC 2018: Updating status
+Tue May 15 18:28:05 UTC 2018: Working
+Tue May 15 18:28:09 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints
+Tue May 15 18:28:09 UTC 2018: Setting lastTestMethodIndex: 41771
+Tue May 15 18:28:09 UTC 2018: Starting linking
+Tue May 15 18:28:09 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithAutoGeneratedDataPoints
+Tue May 15 18:28:10 UTC 2018: Found element on the queue
+Tue May 15 18:28:10 UTC 2018: Updating status
+Tue May 15 18:28:10 UTC 2018: Working
+Tue May 15 18:28:13 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithDataPointMethod
+Tue May 15 18:28:13 UTC 2018: Setting lastTestMethodIndex: 41775
+Tue May 15 18:28:13 UTC 2018: Starting linking
+Tue May 15 18:28:13 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithDataPointMethod
+Tue May 15 18:28:14 UTC 2018: Found element on the queue
+Tue May 15 18:28:14 UTC 2018: Updating status
+Tue May 15 18:28:14 UTC 2018: Working
+Tue May 15 18:28:17 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithExtendedParameterSources
+Tue May 15 18:28:17 UTC 2018: Setting lastTestMethodIndex: 41778
+Tue May 15 18:28:17 UTC 2018: Starting linking
+Tue May 15 18:28:17 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithExtendedParameterSources
+Tue May 15 18:28:18 UTC 2018: Found element on the queue
+Tue May 15 18:28:18 UTC 2018: Updating status
+Tue May 15 18:28:18 UTC 2018: Working
+Tue May 15 18:28:22 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithNamedDataPoints
+Tue May 15 18:28:22 UTC 2018: Setting lastTestMethodIndex: 41781
+Tue May 15 18:28:22 UTC 2018: Starting linking
+Tue May 15 18:28:22 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithNamedDataPoints
+Tue May 15 18:28:22 UTC 2018: Found element on the queue
+Tue May 15 18:28:22 UTC 2018: Updating status
+Tue May 15 18:28:22 UTC 2018: Working
+Tue May 15 18:28:26 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations
+Tue May 15 18:28:26 UTC 2018: Setting lastTestMethodIndex: 41784
+Tue May 15 18:28:26 UTC 2018: Starting linking
+Tue May 15 18:28:26 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithOnlyTestAnnotations
+Tue May 15 18:28:27 UTC 2018: Found element on the queue
+Tue May 15 18:28:27 UTC 2018: Updating status
+Tue May 15 18:28:27 UTC 2018: Working
+Tue May 15 18:28:30 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithParameterSupplier
+Tue May 15 18:28:30 UTC 2018: Setting lastTestMethodIndex: 41788
+Tue May 15 18:28:30 UTC 2018: Starting linking
+Tue May 15 18:28:30 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithParameterSupplier
+Tue May 15 18:28:31 UTC 2018: Found element on the queue
+Tue May 15 18:28:31 UTC 2018: Updating status
+Tue May 15 18:28:31 UTC 2018: Working
+Tue May 15 18:28:34 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms
+Tue May 15 18:28:34 UTC 2018: Setting lastTestMethodIndex: 41790
+Tue May 15 18:28:34 UTC 2018: Starting linking
+Tue May 15 18:28:34 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnTheoryParm
+Tue May 15 18:28:34 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnTheTheory
+Tue May 15 18:28:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:34 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnArrayTypeOnTheoryParm
+Tue May 15 18:28:34 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnTheoryClass
+Tue May 15 18:28:35 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariablesAbound
+Tue May 15 18:28:35 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnParameterizedTheoryParm
+Tue May 15 18:28:35 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnComponentOfArrayTypeOnTheoryParm
+Tue May 15 18:28:35 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnWildcardUpperBoundOnTheoryParm
+Tue May 15 18:28:36 UTC 2018: No link for: org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms-whereTypeVariableIsOnWildcardLowerBoundOnTheoryParm
+Tue May 15 18:28:36 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.runner.WithUnresolvedGenericTypeVariablesOnTheoryParms
+Tue May 15 18:28:37 UTC 2018: Found element on the queue
+Tue May 15 18:28:37 UTC 2018: Updating status
+Tue May 15 18:28:37 UTC 2018: Working
+Tue May 15 18:28:41 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.ParameterSignatureTest
+Tue May 15 18:28:41 UTC 2018: Setting lastTestMethodIndex: 41794
+Tue May 15 18:28:41 UTC 2018: Starting linking
+Tue May 15 18:28:41 UTC 2018: Code found org.junit.experimental.theories.ParameterSignature-getAnnotations with org.junit.tests.experimental.theories.ParameterSignatureTest-getAnnotations
+Tue May 15 18:28:41 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:28:41 UTC 2018: No link for: org.junit.tests.experimental.theories.ParameterSignatureTest-wrapperTypesShouldBeAcceptedAsPrimitiveTypes
+Tue May 15 18:28:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:41 UTC 2018: No link for: org.junit.tests.experimental.theories.ParameterSignatureTest-primitiveTypesShouldBeAcceptedAsWrapperTypes
+Tue May 15 18:28:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:41 UTC 2018: No link for: org.junit.tests.experimental.theories.ParameterSignatureTest-primitiveTypesShouldBeAcceptedAsWrapperTypeAssignables
+Tue May 15 18:28:41 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:41 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.ParameterSignatureTest
+Tue May 15 18:28:42 UTC 2018: Found element on the queue
+Tue May 15 18:28:42 UTC 2018: Updating status
+Tue May 15 18:28:42 UTC 2018: Working
+Tue May 15 18:28:46 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.TestedOnSupplierTest
+Tue May 15 18:28:46 UTC 2018: Setting lastTestMethodIndex: 41797
+Tue May 15 18:28:46 UTC 2018: Starting linking
+Tue May 15 18:28:46 UTC 2018: No link for: org.junit.tests.experimental.theories.TestedOnSupplierTest-descriptionStatesParameterName
+Tue May 15 18:28:46 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:46 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.TestedOnSupplierTest
+Tue May 15 18:28:47 UTC 2018: Found element on the queue
+Tue May 15 18:28:47 UTC 2018: Updating status
+Tue May 15 18:28:47 UTC 2018: Working
+Tue May 15 18:28:50 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.AssumingInTheoriesTest
+Tue May 15 18:28:50 UTC 2018: Setting lastTestMethodIndex: 41800
+Tue May 15 18:28:50 UTC 2018: Starting linking
+Tue May 15 18:28:50 UTC 2018: No link for: org.junit.tests.experimental.theories.AssumingInTheoriesTest-noTheoryAnnotationMeansAssumeShouldIgnore
+Tue May 15 18:28:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:50 UTC 2018: No link for: org.junit.tests.experimental.theories.AssumingInTheoriesTest-theoryMeansOnlyAssumeShouldFail
+Tue May 15 18:28:50 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:50 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.AssumingInTheoriesTest
+Tue May 15 18:28:51 UTC 2018: Found element on the queue
+Tue May 15 18:28:51 UTC 2018: Updating status
+Tue May 15 18:28:51 UTC 2018: Working
+Tue May 15 18:28:53 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.PotentialAssignmentTest
+Tue May 15 18:28:53 UTC 2018: Setting lastTestMethodIndex: 41802
+Tue May 15 18:28:53 UTC 2018: Starting linking
+Tue May 15 18:28:53 UTC 2018: No link for: org.junit.tests.experimental.theories.PotentialAssignmentTest-shouldIncludeFailureInDescriptionIfToStringFails
+Tue May 15 18:28:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:53 UTC 2018: No link for: org.junit.tests.experimental.theories.PotentialAssignmentTest-shouldUseQuotedValueInDescription
+Tue May 15 18:28:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:53 UTC 2018: No link for: org.junit.tests.experimental.theories.PotentialAssignmentTest-shouldReturnGivenValue
+Tue May 15 18:28:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:53 UTC 2018: No link for: org.junit.tests.experimental.theories.PotentialAssignmentTest-shouldNotUseQuotesForNullValueDescriptions
+Tue May 15 18:28:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:28:53 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.PotentialAssignmentTest
+Tue May 15 18:28:54 UTC 2018: Found element on the queue
+Tue May 15 18:28:54 UTC 2018: Updating status
+Tue May 15 18:28:54 UTC 2018: Working
+Tue May 15 18:28:57 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.AssumptionTest
+Tue May 15 18:28:57 UTC 2018: Setting lastTestMethodIndex: 41805
+Tue May 15 18:28:57 UTC 2018: Starting linking
+Tue May 15 18:28:57 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.AssumptionTest
+Tue May 15 18:28:58 UTC 2018: Found element on the queue
+Tue May 15 18:28:58 UTC 2018: Updating status
+Tue May 15 18:28:58 UTC 2018: Working
+Tue May 15 18:29:02 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.MatcherTest
+Tue May 15 18:29:02 UTC 2018: Setting lastTestMethodIndex: 41808
+Tue May 15 18:29:02 UTC 2018: Starting linking
+Tue May 15 18:29:02 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.MatcherTest
+Tue May 15 18:29:03 UTC 2018: Found element on the queue
+Tue May 15 18:29:03 UTC 2018: Updating status
+Tue May 15 18:29:03 UTC 2018: Working
+Tue May 15 18:29:07 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.extendingwithstubs.StubbedTheoriesTest
+Tue May 15 18:29:07 UTC 2018: Setting lastTestMethodIndex: 41811
+Tue May 15 18:29:07 UTC 2018: Starting linking
+Tue May 15 18:29:07 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.experimental.theories.extendingwithstubs.StubbedTheoriesTest
+Tue May 15 18:29:08 UTC 2018: Found element on the queue
+Tue May 15 18:29:08 UTC 2018: Updating status
+Tue May 15 18:29:08 UTC 2018: Working
+Tue May 15 18:29:12 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.internal.builders.AnnotatedBuilderTest
+Tue May 15 18:29:12 UTC 2018: Setting lastTestMethodIndex: 41815
+Tue May 15 18:29:12 UTC 2018: Starting linking
+Tue May 15 18:29:12 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-test
+Tue May 15 18:29:12 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-topLevelTestClassWithAnnotation_isRunWithAnnotatedRunner
+Tue May 15 18:29:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:12 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-topLevelTestClassWithoutAnnotation_isRunWithDefaultRunner
+Tue May 15 18:29:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:12 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-memberClassDeepInsideAnnotatedTopLevelClass_isRunWithTopLevelRunner
+Tue May 15 18:29:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:12 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-annotatedMemberClassInsideAnnotatedTopLevelClass_isRunWithOwnRunner
+Tue May 15 18:29:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:12 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-memberClassDeepInsideAnnotatedMemberClass_isRunWithParentMemberClassRunner
+Tue May 15 18:29:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:13 UTC 2018: No link for: org.junit.internal.builders.AnnotatedBuilderTest-memberClassInsideAnnotatedTopLevelClass_isRunWithTopLevelRunner
+Tue May 15 18:29:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:13 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.internal.builders.AnnotatedBuilderTest
+Tue May 15 18:29:14 UTC 2018: Found element on the queue
+Tue May 15 18:29:14 UTC 2018: Updating status
+Tue May 15 18:29:14 UTC 2018: Working
+Tue May 15 18:29:18 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.internal.runners.ErrorReportingRunnerTest
+Tue May 15 18:29:18 UTC 2018: Setting lastTestMethodIndex: 41818
+Tue May 15 18:29:18 UTC 2018: Starting linking
+Tue May 15 18:29:18 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-cannotCreateWithoutClass
+Tue May 15 18:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:18 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-cannotCreateWithNullClass
+Tue May 15 18:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:18 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-cannotCreateWithNullClass2
+Tue May 15 18:29:18 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:18 UTC 2018: No link for: org.junit.internal.runners.ErrorReportingRunnerTest-cannotCreateWithNullClasses
+Tue May 15 18:29:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:19 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.internal.runners.ErrorReportingRunnerTest
+Tue May 15 18:29:20 UTC 2018: Found element on the queue
+Tue May 15 18:29:20 UTC 2018: Updating status
+Tue May 15 18:29:20 UTC 2018: Working
+Tue May 15 18:29:22 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.internal.runners.statements.FailOnTimeoutTest
+Tue May 15 18:29:22 UTC 2018: Setting lastTestMethodIndex: 41822
+Tue May 15 18:29:22 UTC 2018: Starting linking
+Tue May 15 18:29:22 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwTimeoutExceptionOnSecondCallAlthoughFirstCallThrowsException
+Tue May 15 18:29:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:22 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-stackTraceContainsRealCauseOfTimeout
+Tue May 15 18:29:23 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-sendUpExceptionThrownByStatement
+Tue May 15 18:29:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:23 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwsTestTimedOutException
+Tue May 15 18:29:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:23 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-stopEndlessStatement
+Tue May 15 18:29:23 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwExceptionIfTheSecondCallToEvaluateNeedsTooMuchTime
+Tue May 15 18:29:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:24 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwsExceptionWithTimeoutValueAndTimeUnitSet
+Tue May 15 18:29:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:24 UTC 2018: No link for: org.junit.internal.runners.statements.FailOnTimeoutTest-throwExceptionWithNiceMessageOnTimeout
+Tue May 15 18:29:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:24 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.internal.runners.statements.FailOnTimeoutTest
+Tue May 15 18:29:25 UTC 2018: Found element on the queue
+Tue May 15 18:29:25 UTC 2018: Updating status
+Tue May 15 18:29:25 UTC 2018: Working
+Tue May 15 18:29:28 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.internal.MethodSorterTest
+Tue May 15 18:29:28 UTC 2018: Setting lastTestMethodIndex: 41827
+Tue May 15 18:29:28 UTC 2018: Starting linking
+Tue May 15 18:29:28 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.internal.MethodSorterTest
+Tue May 15 18:29:29 UTC 2018: Found element on the queue
+Tue May 15 18:29:29 UTC 2018: Updating status
+Tue May 15 18:29:29 UTC 2018: Working
+Tue May 15 18:29:32 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.internal.matchers.StacktracePrintingMatcherTest
+Tue May 15 18:29:32 UTC 2018: Setting lastTestMethodIndex: 41831
+Tue May 15 18:29:32 UTC 2018: Starting linking
+Tue May 15 18:29:32 UTC 2018: Code found org.junit.Assert-assertThat with org.junit.internal.matchers.StacktracePrintingMatcherTest-assertThatIncludesStacktrace
+Tue May 15 18:29:32 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:29:32 UTC 2018: No link for: org.junit.internal.matchers.StacktracePrintingMatcherTest-failsWhenInnerMatcherFails
+Tue May 15 18:29:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:32 UTC 2018: No link for: org.junit.internal.matchers.StacktracePrintingMatcherTest-succeedsWhenInnerMatcherSucceeds
+Tue May 15 18:29:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:33 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.internal.matchers.StacktracePrintingMatcherTest
+Tue May 15 18:29:34 UTC 2018: Found element on the queue
+Tue May 15 18:29:34 UTC 2018: Updating status
+Tue May 15 18:29:34 UTC 2018: Working
+Tue May 15 18:29:37 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.internal.matchers.ThrowableCauseMatcherTest
+Tue May 15 18:29:37 UTC 2018: Setting lastTestMethodIndex: 41835
+Tue May 15 18:29:37 UTC 2018: Starting linking
+Tue May 15 18:29:37 UTC 2018: No link for: org.junit.internal.matchers.ThrowableCauseMatcherTest-shouldAllowCauseOfDifferentClassFromRoot
+Tue May 15 18:29:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:29:38 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.internal.matchers.ThrowableCauseMatcherTest
+Tue May 15 18:29:39 UTC 2018: Found element on the queue
+Tue May 15 18:29:39 UTC 2018: Updating status
+Tue May 15 18:29:39 UTC 2018: Working
+Tue May 15 18:29:42 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.AllTestsTest
+Tue May 15 18:29:42 UTC 2018: Setting lastTestMethodIndex: 41839
+Tue May 15 18:29:42 UTC 2018: Starting linking
+Tue May 15 18:29:42 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.AllTestsTest
+Tue May 15 18:29:43 UTC 2018: Found element on the queue
+Tue May 15 18:29:43 UTC 2018: Updating status
+Tue May 15 18:29:43 UTC 2018: Working
+Tue May 15 18:29:46 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.ClassRequestTest
+Tue May 15 18:29:46 UTC 2018: Setting lastTestMethodIndex: 41840
+Tue May 15 18:29:46 UTC 2018: Starting linking
+Tue May 15 18:29:46 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.ClassRequestTest
+Tue May 15 18:29:47 UTC 2018: Found element on the queue
+Tue May 15 18:29:47 UTC 2018: Updating status
+Tue May 15 18:29:47 UTC 2018: Working
+Tue May 15 18:29:50 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest
+Tue May 15 18:29:50 UTC 2018: Setting lastTestMethodIndex: 41844
+Tue May 15 18:29:50 UTC 2018: Starting linking
+Tue May 15 18:29:50 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.ForwardCompatibilityPrintingTest
+Tue May 15 18:29:51 UTC 2018: Found element on the queue
+Tue May 15 18:29:51 UTC 2018: Updating status
+Tue May 15 18:29:51 UTC 2018: Working
+Tue May 15 18:29:54 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.ForwardCompatibilityTest
+Tue May 15 18:29:54 UTC 2018: Setting lastTestMethodIndex: 41848
+Tue May 15 18:29:54 UTC 2018: Starting linking
+Tue May 15 18:29:54 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.ForwardCompatibilityTest
+Tue May 15 18:29:55 UTC 2018: Found element on the queue
+Tue May 15 18:29:55 UTC 2018: Updating status
+Tue May 15 18:29:55 UTC 2018: Working
+Tue May 15 18:29:59 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest
+Tue May 15 18:29:59 UTC 2018: Setting lastTestMethodIndex: 41852
+Tue May 15 18:29:59 UTC 2018: Starting linking
+Tue May 15 18:29:59 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.InitializationErrorForwardCompatibilityTest
+Tue May 15 18:30:00 UTC 2018: Found element on the queue
+Tue May 15 18:30:00 UTC 2018: Updating status
+Tue May 15 18:30:00 UTC 2018: Working
+Tue May 15 18:30:03 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest
+Tue May 15 18:30:03 UTC 2018: Setting lastTestMethodIndex: 41854
+Tue May 15 18:30:03 UTC 2018: Starting linking
+Tue May 15 18:30:03 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.JUnit38ClassRunnerTest
+Tue May 15 18:30:04 UTC 2018: Found element on the queue
+Tue May 15 18:30:04 UTC 2018: Updating status
+Tue May 15 18:30:04 UTC 2018: Working
+Tue May 15 18:30:08 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.OldTestClassAdaptingListenerTest
+Tue May 15 18:30:08 UTC 2018: Setting lastTestMethodIndex: 41858
+Tue May 15 18:30:08 UTC 2018: Starting linking
+Tue May 15 18:30:08 UTC 2018: Code found org.junit.internal.runners.JUnit38ClassRunner$OldTestClassAdaptingListener-addFailure with org.junit.tests.junit3compatibility.OldTestClassAdaptingListenerTest-addFailureDelegatesToNotifier
+Tue May 15 18:30:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:30:08 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.OldTestClassAdaptingListenerTest
+Tue May 15 18:30:09 UTC 2018: Found element on the queue
+Tue May 15 18:30:09 UTC 2018: Updating status
+Tue May 15 18:30:09 UTC 2018: Working
+Tue May 15 18:30:12 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.TestCaseTest
+Tue May 15 18:30:12 UTC 2018: Setting lastTestMethodIndex: 41861
+Tue May 15 18:30:12 UTC 2018: Starting linking
+Tue May 15 18:30:12 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.TestCaseTest
+Tue May 15 18:30:13 UTC 2018: Found element on the queue
+Tue May 15 18:30:13 UTC 2018: Updating status
+Tue May 15 18:30:13 UTC 2018: Working
+Tue May 15 18:30:17 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.SuiteTest
+Tue May 15 18:30:17 UTC 2018: Setting lastTestMethodIndex: 41864
+Tue May 15 18:30:17 UTC 2018: Starting linking
+Tue May 15 18:30:17 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.SuiteTest
+Tue May 15 18:30:18 UTC 2018: Found element on the queue
+Tue May 15 18:30:18 UTC 2018: Updating status
+Tue May 15 18:30:18 UTC 2018: Working
+Tue May 15 18:30:21 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.TestListenerTest
+Tue May 15 18:30:21 UTC 2018: Setting lastTestMethodIndex: 41867
+Tue May 15 18:30:21 UTC 2018: Starting linking
+Tue May 15 18:30:21 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.TestListenerTest
+Tue May 15 18:30:22 UTC 2018: Found element on the queue
+Tue May 15 18:30:22 UTC 2018: Updating status
+Tue May 15 18:30:22 UTC 2018: Working
+Tue May 15 18:30:25 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.AssertionFailedErrorTest
+Tue May 15 18:30:25 UTC 2018: Setting lastTestMethodIndex: 41869
+Tue May 15 18:30:25 UTC 2018: Starting linking
+Tue May 15 18:30:25 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.AssertionFailedErrorTest
+Tue May 15 18:30:26 UTC 2018: Found element on the queue
+Tue May 15 18:30:26 UTC 2018: Updating status
+Tue May 15 18:30:26 UTC 2018: Working
+Tue May 15 18:30:30 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.AssertTest
+Tue May 15 18:30:30 UTC 2018: Setting lastTestMethodIndex: 41873
+Tue May 15 18:30:30 UTC 2018: Starting linking
+Tue May 15 18:30:30 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.AssertTest
+Tue May 15 18:30:31 UTC 2018: Found element on the queue
+Tue May 15 18:30:31 UTC 2018: Updating status
+Tue May 15 18:30:31 UTC 2018: Working
+Tue May 15 18:30:34 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.TestImplementorTest
+Tue May 15 18:30:35 UTC 2018: Setting lastTestMethodIndex: 41877
+Tue May 15 18:30:35 UTC 2018: Starting linking
+Tue May 15 18:30:35 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.TestImplementorTest
+Tue May 15 18:30:35 UTC 2018: Found element on the queue
+Tue May 15 18:30:35 UTC 2018: Updating status
+Tue May 15 18:30:35 UTC 2018: Working
+Tue May 15 18:30:39 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.NoArgTestCaseTest
+Tue May 15 18:30:39 UTC 2018: Setting lastTestMethodIndex: 41880
+Tue May 15 18:30:39 UTC 2018: Starting linking
+Tue May 15 18:30:39 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.NoArgTestCaseTest
+Tue May 15 18:30:40 UTC 2018: Found element on the queue
+Tue May 15 18:30:40 UTC 2018: Updating status
+Tue May 15 18:30:40 UTC 2018: Working
+Tue May 15 18:30:43 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.ComparisonCompactorTest
+Tue May 15 18:30:43 UTC 2018: Setting lastTestMethodIndex: 41884
+Tue May 15 18:30:43 UTC 2018: Starting linking
+Tue May 15 18:30:43 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.ComparisonCompactorTest
+Tue May 15 18:30:44 UTC 2018: Found element on the queue
+Tue May 15 18:30:44 UTC 2018: Updating status
+Tue May 15 18:30:44 UTC 2018: Working
+Tue May 15 18:30:47 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.ComparisonFailureTest
+Tue May 15 18:30:47 UTC 2018: Setting lastTestMethodIndex: 41886
+Tue May 15 18:30:47 UTC 2018: Starting linking
+Tue May 15 18:30:47 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.ComparisonFailureTest
+Tue May 15 18:30:48 UTC 2018: Found element on the queue
+Tue May 15 18:30:48 UTC 2018: Updating status
+Tue May 15 18:30:48 UTC 2018: Working
+Tue May 15 18:30:51 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.DoublePrecisionAssertTest
+Tue May 15 18:30:51 UTC 2018: Setting lastTestMethodIndex: 41890
+Tue May 15 18:30:51 UTC 2018: Starting linking
+Tue May 15 18:30:51 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.DoublePrecisionAssertTest
+Tue May 15 18:30:52 UTC 2018: Found element on the queue
+Tue May 15 18:30:52 UTC 2018: Updating status
+Tue May 15 18:30:52 UTC 2018: Working
+Tue May 15 18:30:56 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.framework.FloatAssertTest
+Tue May 15 18:30:56 UTC 2018: Setting lastTestMethodIndex: 41894
+Tue May 15 18:30:56 UTC 2018: Starting linking
+Tue May 15 18:30:56 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.framework.FloatAssertTest
+Tue May 15 18:30:57 UTC 2018: Found element on the queue
+Tue May 15 18:30:57 UTC 2018: Updating status
+Tue May 15 18:30:57 UTC 2018: Working
+Tue May 15 18:31:00 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.runner.StackFilterTest
+Tue May 15 18:31:00 UTC 2018: Setting lastTestMethodIndex: 41898
+Tue May 15 18:31:00 UTC 2018: Starting linking
+Tue May 15 18:31:00 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.runner.StackFilterTest
+Tue May 15 18:31:01 UTC 2018: Found element on the queue
+Tue May 15 18:31:01 UTC 2018: Updating status
+Tue May 15 18:31:01 UTC 2018: Working
+Tue May 15 18:31:04 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.runner.ResultTest
+Tue May 15 18:31:04 UTC 2018: Setting lastTestMethodIndex: 41902
+Tue May 15 18:31:04 UTC 2018: Starting linking
+Tue May 15 18:31:04 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.runner.ResultTest
+Tue May 15 18:31:05 UTC 2018: Found element on the queue
+Tue May 15 18:31:05 UTC 2018: Updating status
+Tue May 15 18:31:05 UTC 2018: Working
+Tue May 15 18:31:08 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.runner.BaseTestRunnerTest
+Tue May 15 18:31:08 UTC 2018: Setting lastTestMethodIndex: 41906
+Tue May 15 18:31:08 UTC 2018: Starting linking
+Tue May 15 18:31:08 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.runner.BaseTestRunnerTest
+Tue May 15 18:31:09 UTC 2018: Found element on the queue
+Tue May 15 18:31:09 UTC 2018: Updating status
+Tue May 15 18:31:09 UTC 2018: Working
+Tue May 15 18:31:12 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.runner.TextFeedbackTest
+Tue May 15 18:31:12 UTC 2018: Setting lastTestMethodIndex: 41909
+Tue May 15 18:31:12 UTC 2018: Starting linking
+Tue May 15 18:31:12 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.runner.TextFeedbackTest
+Tue May 15 18:31:13 UTC 2018: Found element on the queue
+Tue May 15 18:31:13 UTC 2018: Updating status
+Tue May 15 18:31:13 UTC 2018: Working
+Tue May 15 18:31:17 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.runner.TextRunnerSingleMethodTest
+Tue May 15 18:31:17 UTC 2018: Setting lastTestMethodIndex: 41911
+Tue May 15 18:31:17 UTC 2018: Starting linking
+Tue May 15 18:31:17 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.runner.TextRunnerSingleMethodTest
+Tue May 15 18:31:18 UTC 2018: Found element on the queue
+Tue May 15 18:31:18 UTC 2018: Updating status
+Tue May 15 18:31:18 UTC 2018: Working
+Tue May 15 18:31:21 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.runner.TextRunnerTest
+Tue May 15 18:31:21 UTC 2018: Setting lastTestMethodIndex: 41913
+Tue May 15 18:31:21 UTC 2018: Starting linking
+Tue May 15 18:31:21 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.runner.TextRunnerTest
+Tue May 15 18:31:22 UTC 2018: Found element on the queue
+Tue May 15 18:31:22 UTC 2018: Updating status
+Tue May 15 18:31:22 UTC 2018: Working
+Tue May 15 18:31:26 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.extensions.ExtensionTest
+Tue May 15 18:31:26 UTC 2018: Setting lastTestMethodIndex: 41916
+Tue May 15 18:31:26 UTC 2018: Starting linking
+Tue May 15 18:31:26 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.extensions.ExtensionTest
+Tue May 15 18:31:27 UTC 2018: Found element on the queue
+Tue May 15 18:31:27 UTC 2018: Updating status
+Tue May 15 18:31:27 UTC 2018: Working
+Tue May 15 18:31:30 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.extensions.ActiveTestTest
+Tue May 15 18:31:30 UTC 2018: Setting lastTestMethodIndex: 41918
+Tue May 15 18:31:30 UTC 2018: Starting linking
+Tue May 15 18:31:30 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.extensions.ActiveTestTest
+Tue May 15 18:31:31 UTC 2018: Found element on the queue
+Tue May 15 18:31:31 UTC 2018: Updating status
+Tue May 15 18:31:31 UTC 2018: Working
+Tue May 15 18:31:34 UTC 2018: Start gauravkumaraccolite__AU2016 test class junit.tests.extensions.RepeatedTestTest
+Tue May 15 18:31:34 UTC 2018: Setting lastTestMethodIndex: 41921
+Tue May 15 18:31:34 UTC 2018: Starting linking
+Tue May 15 18:31:34 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class junit.tests.extensions.RepeatedTestTest
+Tue May 15 18:31:34 UTC 2018: Found element on the queue
+Tue May 15 18:31:34 UTC 2018: Updating status
+Tue May 15 18:31:35 UTC 2018: Working
+Tue May 15 18:31:38 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.SuiteMethodTest
+Tue May 15 18:31:38 UTC 2018: Setting lastTestMethodIndex: 41924
+Tue May 15 18:31:38 UTC 2018: Starting linking
+Tue May 15 18:31:38 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.junit3compatibility.SuiteMethodTest
+Tue May 15 18:31:39 UTC 2018: Found element on the queue
+Tue May 15 18:31:39 UTC 2018: Updating status
+Tue May 15 18:31:39 UTC 2018: Working
+Tue May 15 18:31:42 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.listening.ListenerTest
+Tue May 15 18:31:42 UTC 2018: Setting lastTestMethodIndex: 41927
+Tue May 15 18:31:42 UTC 2018: Starting linking
+Tue May 15 18:31:42 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.listening.ListenerTest
+Tue May 15 18:31:43 UTC 2018: Found element on the queue
+Tue May 15 18:31:43 UTC 2018: Updating status
+Tue May 15 18:31:43 UTC 2018: Working
+Tue May 15 18:31:47 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.listening.RunnerTest
+Tue May 15 18:31:47 UTC 2018: Setting lastTestMethodIndex: 41930
+Tue May 15 18:31:47 UTC 2018: Starting linking
+Tue May 15 18:31:47 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.listening.RunnerTest
+Tue May 15 18:31:47 UTC 2018: Found element on the queue
+Tue May 15 18:31:47 UTC 2018: Updating status
+Tue May 15 18:31:47 UTC 2018: Working
+Tue May 15 18:31:50 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.listening.TestListenerTest
+Tue May 15 18:31:50 UTC 2018: Setting lastTestMethodIndex: 41933
+Tue May 15 18:31:50 UTC 2018: Starting linking
+Tue May 15 18:31:50 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.listening.TestListenerTest
+Tue May 15 18:31:51 UTC 2018: Found element on the queue
+Tue May 15 18:31:51 UTC 2018: Updating status
+Tue May 15 18:31:51 UTC 2018: Working
+Tue May 15 18:31:54 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.listening.TextListenerTest
+Tue May 15 18:31:54 UTC 2018: Setting lastTestMethodIndex: 41935
+Tue May 15 18:31:54 UTC 2018: Starting linking
+Tue May 15 18:31:54 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.listening.TextListenerTest
+Tue May 15 18:31:55 UTC 2018: Found element on the queue
+Tue May 15 18:31:55 UTC 2018: Updating status
+Tue May 15 18:31:55 UTC 2018: Working
+Tue May 15 18:31:58 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.listening.UserStopTest
+Tue May 15 18:31:58 UTC 2018: Setting lastTestMethodIndex: 41939
+Tue May 15 18:31:58 UTC 2018: Starting linking
+Tue May 15 18:31:58 UTC 2018: Code found org.junit.internal.runners.ErrorReportingRunner-run with org.junit.tests.listening.UserStopTest-stopClassRunner
+Tue May 15 18:31:58 UTC 2018: No link for: org.junit.tests.listening.UserStopTest-userStop
+Tue May 15 18:31:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:31:58 UTC 2018: No link for: org.junit.tests.listening.UserStopTest-foo
+Tue May 15 18:31:58 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.listening.UserStopTest
+Tue May 15 18:31:59 UTC 2018: Found element on the queue
+Tue May 15 18:31:59 UTC 2018: Updating status
+Tue May 15 18:31:59 UTC 2018: Working
+Tue May 15 18:32:02 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.manipulation.FilterableTest
+Tue May 15 18:32:02 UTC 2018: Setting lastTestMethodIndex: 41942
+Tue May 15 18:32:02 UTC 2018: Starting linking
+Tue May 15 18:32:02 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.manipulation.FilterableTest
+Tue May 15 18:32:04 UTC 2018: Found element on the queue
+Tue May 15 18:32:04 UTC 2018: Updating status
+Tue May 15 18:32:04 UTC 2018: Working
+Tue May 15 18:32:07 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.manipulation.FilterTest
+Tue May 15 18:32:07 UTC 2018: Setting lastTestMethodIndex: 41945
+Tue May 15 18:32:07 UTC 2018: Starting linking
+Tue May 15 18:32:07 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.manipulation.FilterTest
+Tue May 15 18:32:07 UTC 2018: Found element on the queue
+Tue May 15 18:32:07 UTC 2018: Updating status
+Tue May 15 18:32:07 UTC 2018: Working
+Tue May 15 18:32:11 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.manipulation.SingleMethodTest
+Tue May 15 18:32:11 UTC 2018: Setting lastTestMethodIndex: 41947
+Tue May 15 18:32:11 UTC 2018: Starting linking
+Tue May 15 18:32:11 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.manipulation.SingleMethodTest
+Tue May 15 18:32:12 UTC 2018: Found element on the queue
+Tue May 15 18:32:12 UTC 2018: Updating status
+Tue May 15 18:32:12 UTC 2018: Working
+Tue May 15 18:32:15 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.BlockJUnit4ClassRunnerOverrideTest
+Tue May 15 18:32:15 UTC 2018: Setting lastTestMethodIndex: 41949
+Tue May 15 18:32:15 UTC 2018: Starting linking
+Tue May 15 18:32:15 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.BlockJUnit4ClassRunnerOverrideTest
+Tue May 15 18:32:16 UTC 2018: Found element on the queue
+Tue May 15 18:32:16 UTC 2018: Updating status
+Tue May 15 18:32:16 UTC 2018: Working
+Tue May 15 18:32:20 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.ClassRulesTest
+Tue May 15 18:32:20 UTC 2018: Setting lastTestMethodIndex: 41951
+Tue May 15 18:32:20 UTC 2018: Starting linking
+Tue May 15 18:32:20 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.ClassRulesTest
+Tue May 15 18:32:21 UTC 2018: Found element on the queue
+Tue May 15 18:32:21 UTC 2018: Updating status
+Tue May 15 18:32:21 UTC 2018: Working
+Tue May 15 18:32:24 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.DisableOnDebugTest
+Tue May 15 18:32:24 UTC 2018: Setting lastTestMethodIndex: 41954
+Tue May 15 18:32:24 UTC 2018: Starting linking
+Tue May 15 18:32:24 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.DisableOnDebugTest
+Tue May 15 18:32:25 UTC 2018: Found element on the queue
+Tue May 15 18:32:25 UTC 2018: Updating status
+Tue May 15 18:32:25 UTC 2018: Working
+Tue May 15 18:32:27 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.ExpectedExceptionTest
+Tue May 15 18:32:27 UTC 2018: Setting lastTestMethodIndex: 41956
+Tue May 15 18:32:27 UTC 2018: Starting linking
+Tue May 15 18:32:27 UTC 2018: Code found org.junit.runner.JUnitCore-run with org.junit.rules.ExpectedExceptionTest-runTestAndVerifyResult
+Tue May 15 18:32:28 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:32:28 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwsNullPointerExceptionWithMessage
+Tue May 15 18:32:28 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-doesntThrowNullPointerException
+Tue May 15 18:32:28 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwExceptionWithMatchingCause
+Tue May 15 18:32:28 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwsNullPointerException
+Tue May 15 18:32:28 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwsMore
+Tue May 15 18:32:29 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-fails
+Tue May 15 18:32:29 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-failedAssumption
+Tue May 15 18:32:29 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-doesntThrowAnything
+Tue May 15 18:32:29 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwWithCause
+Tue May 15 18:32:29 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwsNothing
+Tue May 15 18:32:30 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-throwExpectedNullCause
+Tue May 15 18:32:30 UTC 2018: No link for: org.junit.rules.ExpectedExceptionTest-noThrow
+Tue May 15 18:32:30 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.ExpectedExceptionTest
+Tue May 15 18:32:31 UTC 2018: Found element on the queue
+Tue May 15 18:32:31 UTC 2018: Updating status
+Tue May 15 18:32:31 UTC 2018: Working
+Tue May 15 18:32:34 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.ExternalResourceRuleTest
+Tue May 15 18:32:34 UTC 2018: Setting lastTestMethodIndex: 41959
+Tue May 15 18:32:34 UTC 2018: Starting linking
+Tue May 15 18:32:34 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.ExternalResourceRuleTest
+Tue May 15 18:32:34 UTC 2018: Found element on the queue
+Tue May 15 18:32:34 UTC 2018: Updating status
+Tue May 15 18:32:34 UTC 2018: Working
+Tue May 15 18:32:38 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.MethodRulesTest
+Tue May 15 18:32:38 UTC 2018: Setting lastTestMethodIndex: 41962
+Tue May 15 18:32:38 UTC 2018: Starting linking
+Tue May 15 18:32:38 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.MethodRulesTest
+Tue May 15 18:32:39 UTC 2018: Found element on the queue
+Tue May 15 18:32:39 UTC 2018: Updating status
+Tue May 15 18:32:39 UTC 2018: Working
+Tue May 15 18:32:42 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.RuleChainTest
+Tue May 15 18:32:42 UTC 2018: Setting lastTestMethodIndex: 41966
+Tue May 15 18:32:42 UTC 2018: Starting linking
+Tue May 15 18:32:42 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.RuleChainTest
+Tue May 15 18:32:42 UTC 2018: Found element on the queue
+Tue May 15 18:32:42 UTC 2018: Updating status
+Tue May 15 18:32:42 UTC 2018: Working
+Tue May 15 18:32:46 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.RuleMemberValidatorTest
+Tue May 15 18:32:46 UTC 2018: Setting lastTestMethodIndex: 41971
+Tue May 15 18:32:46 UTC 2018: Starting linking
+Tue May 15 18:32:46 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptStaticTestRuleThatIsAlsoClassRule
+Tue May 15 18:32:46 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleMethodReturnsAnArbitraryObject
+Tue May 15 18:32:47 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-methodRejectNonStaticClassRule
+Tue May 15 18:32:47 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectStaticMethodRule
+Tue May 15 18:32:47 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptMethodRule
+Tue May 15 18:32:47 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleInNonPublicClass
+Tue May 15 18:32:48 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectStaticTestRule
+Tue May 15 18:32:48 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptNonStaticTestRule
+Tue May 15 18:32:48 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-methodAcceptMethodRuleMethod
+Tue May 15 18:32:48 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectProtectedClassRule
+Tue May 15 18:32:48 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:32:48 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-methodRejectArbitraryObjectWithRuleAnnotation
+Tue May 15 18:32:49 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptMethodStaticTestRuleThatIsAlsoClassRule
+Tue May 15 18:32:49 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectArbitraryObjectWithRuleAnnotation
+Tue May 15 18:32:49 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleIsAnArbitraryObject
+Tue May 15 18:32:49 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-methodRejectProtectedClassRule
+Tue May 15 18:32:50 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectNonStaticClassRule
+Tue May 15 18:32:50 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleThatIsImplemetationOfMethodRule
+Tue May 15 18:32:50 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectClassRuleThatReturnsImplementationOfMethodRule
+Tue May 15 18:32:50 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectMethodStaticTestRule
+Tue May 15 18:32:50 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-rejectMethodStaticMethodRule
+Tue May 15 18:32:51 UTC 2018: No link for: org.junit.rules.RuleMemberValidatorTest-acceptMethodNonStaticTestRule
+Tue May 15 18:32:51 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.RuleMemberValidatorTest
+Tue May 15 18:32:51 UTC 2018: Found element on the queue
+Tue May 15 18:32:51 UTC 2018: Updating status
+Tue May 15 18:32:51 UTC 2018: Working
+Tue May 15 18:32:55 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.StopwatchTest
+Tue May 15 18:32:55 UTC 2018: Setting lastTestMethodIndex: 41978
+Tue May 15 18:32:55 UTC 2018: Starting linking
+Tue May 15 18:32:55 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.StopwatchTest
+Tue May 15 18:32:56 UTC 2018: Found element on the queue
+Tue May 15 18:32:56 UTC 2018: Updating status
+Tue May 15 18:32:56 UTC 2018: Working
+Tue May 15 18:32:59 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.TempFolderRuleTest
+Tue May 15 18:32:59 UTC 2018: Setting lastTestMethodIndex: 41982
+Tue May 15 18:32:59 UTC 2018: Starting linking
+Tue May 15 18:32:59 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.TempFolderRuleTest
+Tue May 15 18:33:00 UTC 2018: Found element on the queue
+Tue May 15 18:33:00 UTC 2018: Updating status
+Tue May 15 18:33:00 UTC 2018: Working
+Tue May 15 18:33:03 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.TemporaryFolderRuleAssuredDeletionTest
+Tue May 15 18:33:03 UTC 2018: Setting lastTestMethodIndex: 41985
+Tue May 15 18:33:03 UTC 2018: Starting linking
+Tue May 15 18:33:03 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.TemporaryFolderRuleAssuredDeletionTest
+Tue May 15 18:33:04 UTC 2018: Found element on the queue
+Tue May 15 18:33:04 UTC 2018: Updating status
+Tue May 15 18:33:04 UTC 2018: Working
+Tue May 15 18:33:06 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.TemporaryFolderUsageTest
+Tue May 15 18:33:06 UTC 2018: Setting lastTestMethodIndex: 41988
+Tue May 15 18:33:06 UTC 2018: Starting linking
+Tue May 15 18:33:06 UTC 2018: No code found org.junit.rules.TemporaryFolder-delete with org.junit.rules.TemporaryFolderUsageTest-deleteRemovesRootFolder
+Tue May 15 18:33:07 UTC 2018: No code found org.junit.rules.TemporaryFolder-getRoot with org.junit.rules.TemporaryFolderUsageTest-getRootShouldThrowIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 18:33:07 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFile with org.junit.rules.TemporaryFolderUsageTest-newFileThrowsIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 18:33:07 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-newRandomFolderIsCreatedUnderRootFolder
+Tue May 15 18:33:07 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenPathThrowsIOExceptionIfFolderNamesConsistOfMultiplePathComponents
+Tue May 15 18:33:07 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-newNamedFileIsCreatedUnderRootFolder
+Tue May 15 18:33:08 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-newNestedFoldersCreatedUnderRootFolder
+Tue May 15 18:33:08 UTC 2018: No code found org.junit.rules.TemporaryFolder-delete with org.junit.rules.TemporaryFolderUsageTest-deleteShouldDoNothingIfRootFolderWasNotInitialized
+Tue May 15 18:33:08 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenPathThrowsIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 18:33:08 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderThrowsIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 18:33:09 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenFolderThrowsIllegalArgumentExceptionIfFolderExists
+Tue May 15 18:33:09 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFile with org.junit.rules.TemporaryFolderUsageTest-newFileWithGivenFilenameThrowsIllegalArgumentExceptionIfFileExists
+Tue May 15 18:33:09 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-newRandomFileIsCreatedUnderRootFolder
+Tue May 15 18:33:10 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenPathThrowsIllegalArgumentExceptionIfPathExists
+Tue May 15 18:33:10 UTC 2018: No code found org.junit.rules.TemporaryFolder-create with org.junit.rules.TemporaryFolderUsageTest-createInitializesRootFolder
+Tue May 15 18:33:10 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFolder with org.junit.rules.TemporaryFolderUsageTest-newFolderWithGivenFolderThrowsIOExceptionIfFolderNameConsistsOfMultiplePathComponents
+Tue May 15 18:33:10 UTC 2018: No code found org.junit.rules.TemporaryFolder-newFile with org.junit.rules.TemporaryFolderUsageTest-newFileWithGivenNameThrowsIllegalStateExceptionIfCreateWasNotInvoked
+Tue May 15 18:33:11 UTC 2018: No link for: org.junit.rules.TemporaryFolderUsageTest-canSetTheBaseFileForATemporaryFolder
+Tue May 15 18:33:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:11 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.TemporaryFolderUsageTest
+Tue May 15 18:33:11 UTC 2018: Found element on the queue
+Tue May 15 18:33:11 UTC 2018: Updating status
+Tue May 15 18:33:11 UTC 2018: Working
+Tue May 15 18:33:15 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.TestRuleTest
+Tue May 15 18:33:15 UTC 2018: Setting lastTestMethodIndex: 41994
+Tue May 15 18:33:15 UTC 2018: Starting linking
+Tue May 15 18:33:15 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.TestRuleTest
+Tue May 15 18:33:16 UTC 2018: Found element on the queue
+Tue May 15 18:33:16 UTC 2018: Updating status
+Tue May 15 18:33:16 UTC 2018: Working
+Tue May 15 18:33:19 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.TestWatcherTest
+Tue May 15 18:33:19 UTC 2018: Setting lastTestMethodIndex: 41998
+Tue May 15 18:33:19 UTC 2018: Starting linking
+Tue May 15 18:33:19 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.TestWatcherTest
+Tue May 15 18:33:20 UTC 2018: Found element on the queue
+Tue May 15 18:33:20 UTC 2018: Updating status
+Tue May 15 18:33:20 UTC 2018: Working
+Tue May 15 18:33:23 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.TestWatchmanTest
+Tue May 15 18:33:23 UTC 2018: Setting lastTestMethodIndex: 42002
+Tue May 15 18:33:23 UTC 2018: Starting linking
+Tue May 15 18:33:23 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.TestWatchmanTest
+Tue May 15 18:33:24 UTC 2018: Found element on the queue
+Tue May 15 18:33:24 UTC 2018: Updating status
+Tue May 15 18:33:24 UTC 2018: Working
+Tue May 15 18:33:27 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.TimeoutRuleTest
+Tue May 15 18:33:27 UTC 2018: Setting lastTestMethodIndex: 42006
+Tue May 15 18:33:27 UTC 2018: Starting linking
+Tue May 15 18:33:27 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.TimeoutRuleTest
+Tue May 15 18:33:27 UTC 2018: Found element on the queue
+Tue May 15 18:33:27 UTC 2018: Updating status
+Tue May 15 18:33:27 UTC 2018: Working
+Tue May 15 18:33:30 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.rules.VerifierRuleTest
+Tue May 15 18:33:30 UTC 2018: Setting lastTestMethodIndex: 42009
+Tue May 15 18:33:30 UTC 2018: Starting linking
+Tue May 15 18:33:30 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.rules.VerifierRuleTest
+Tue May 15 18:33:31 UTC 2018: Found element on the queue
+Tue May 15 18:33:31 UTC 2018: Updating status
+Tue May 15 18:33:31 UTC 2018: Working
+Tue May 15 18:33:35 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runners.model.FrameworkFieldTest
+Tue May 15 18:33:35 UTC 2018: Setting lastTestMethodIndex: 42013
+Tue May 15 18:33:35 UTC 2018: Starting linking
+Tue May 15 18:33:35 UTC 2018: Code found org.junit.runners.model.FrameworkField-toString with org.junit.runners.model.FrameworkFieldTest-hasToStringWhichPrintsFieldName
+Tue May 15 18:33:35 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:33:35 UTC 2018: No link for: org.junit.runners.model.FrameworkFieldTest-cannotBeCreatedWithoutUnderlyingField
+Tue May 15 18:33:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:35 UTC 2018: No link for: org.junit.runners.model.FrameworkFieldTest-presentAnnotationIsAvailable
+Tue May 15 18:33:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:35 UTC 2018: No link for: org.junit.runners.model.FrameworkFieldTest-missingAnnotationIsNotAvailable
+Tue May 15 18:33:35 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:35 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runners.model.FrameworkFieldTest
+Tue May 15 18:33:36 UTC 2018: Found element on the queue
+Tue May 15 18:33:36 UTC 2018: Updating status
+Tue May 15 18:33:36 UTC 2018: Working
+Tue May 15 18:33:39 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runners.model.FrameworkMethodTest
+Tue May 15 18:33:39 UTC 2018: Setting lastTestMethodIndex: 42016
+Tue May 15 18:33:39 UTC 2018: Starting linking
+Tue May 15 18:33:39 UTC 2018: Code found org.junit.runners.model.FrameworkMethod-toString with org.junit.runners.model.FrameworkMethodTest-hasToStringWhichPrintsMethodName
+Tue May 15 18:33:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:33:39 UTC 2018: No link for: org.junit.runners.model.FrameworkMethodTest-presentAnnotationIsAvailable
+Tue May 15 18:33:39 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:39 UTC 2018: No link for: org.junit.runners.model.FrameworkMethodTest-missingAnnotationIsNotAvailable
+Tue May 15 18:33:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:40 UTC 2018: No link for: org.junit.runners.model.FrameworkMethodTest-cannotBeCreatedWithoutUnderlyingField
+Tue May 15 18:33:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:40 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runners.model.FrameworkMethodTest
+Tue May 15 18:33:41 UTC 2018: Found element on the queue
+Tue May 15 18:33:41 UTC 2018: Updating status
+Tue May 15 18:33:41 UTC 2018: Working
+Tue May 15 18:33:43 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runners.model.TestClassTest
+Tue May 15 18:33:44 UTC 2018: Setting lastTestMethodIndex: 42021
+Tue May 15 18:33:44 UTC 2018: Starting linking
+Tue May 15 18:33:44 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runners.model.TestClassTest
+Tue May 15 18:33:45 UTC 2018: Found element on the queue
+Tue May 15 18:33:45 UTC 2018: Updating status
+Tue May 15 18:33:45 UTC 2018: Working
+Tue May 15 18:33:48 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParametersTest
+Tue May 15 18:33:48 UTC 2018: Setting lastTestMethodIndex: 42024
+Tue May 15 18:33:48 UTC 2018: Starting linking
+Tue May 15 18:33:48 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runners.parameterized.BlockJUnit4ClassRunnerWithParametersTest
+Tue May 15 18:33:48 UTC 2018: Found element on the queue
+Tue May 15 18:33:48 UTC 2018: Updating status
+Tue May 15 18:33:48 UTC 2018: Working
+Tue May 15 18:33:52 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runners.parameterized.ParameterizedNamesTest
+Tue May 15 18:33:52 UTC 2018: Setting lastTestMethodIndex: 42028
+Tue May 15 18:33:52 UTC 2018: Starting linking
+Tue May 15 18:33:52 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runners.parameterized.ParameterizedNamesTest
+Tue May 15 18:33:52 UTC 2018: Found element on the queue
+Tue May 15 18:33:52 UTC 2018: Updating status
+Tue May 15 18:33:52 UTC 2018: Working
+Tue May 15 18:33:56 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runners.parameterized.TestWithParametersTest
+Tue May 15 18:33:56 UTC 2018: Setting lastTestMethodIndex: 42032
+Tue May 15 18:33:56 UTC 2018: Starting linking
+Tue May 15 18:33:56 UTC 2018: Code found org.junit.runners.parameterized.TestWithParameters-toString with org.junit.runners.parameterized.TestWithParametersTest-hasMeaningfulToString
+Tue May 15 18:33:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:33:56 UTC 2018: Code found org.junit.runners.parameterized.TestWithParameters-hashCode with org.junit.runners.parameterized.TestWithParametersTest-hasSameHashCodeAsEqualTest
+Tue May 15 18:33:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:33:57 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isNotEqualToTestWithDifferentName
+Tue May 15 18:33:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:57 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-cannotBeCreatedWithoutAName
+Tue May 15 18:33:57 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:57 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-cannotBeCreatedWithoutParameters
+Tue May 15 18:33:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:58 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isNotEqualToTestWithDifferentParameters
+Tue May 15 18:33:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:58 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-cannotBeCreatedWithoutTestClass
+Tue May 15 18:33:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:58 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isEqualToTestWithSameNameAndTestClassAndParameters
+Tue May 15 18:33:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:58 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-doesNotConsiderParametersWhichChangedAfterTestInstantiation
+Tue May 15 18:33:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:58 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-doesNotAllowToModifyProvidedParameters
+Tue May 15 18:33:58 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:58 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isNotEqualToTestWithDifferentTestClass
+Tue May 15 18:33:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:59 UTC 2018: No link for: org.junit.runners.parameterized.TestWithParametersTest-isNotEqualToObjectWithDifferentClass
+Tue May 15 18:33:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:33:59 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runners.parameterized.TestWithParametersTest
+Tue May 15 18:33:59 UTC 2018: Found element on the queue
+Tue May 15 18:33:59 UTC 2018: Updating status
+Tue May 15 18:33:59 UTC 2018: Working
+Tue May 15 18:34:03 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runners.CustomBlockJUnit4ClassRunnerTest
+Tue May 15 18:34:03 UTC 2018: Setting lastTestMethodIndex: 42036
+Tue May 15 18:34:03 UTC 2018: Starting linking
+Tue May 15 18:34:03 UTC 2018: No link for: org.junit.runners.CustomBlockJUnit4ClassRunnerTest-exceptionsFromMethodBlockMustNotResultInUnrootedTests
+Tue May 15 18:34:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:03 UTC 2018: No link for: org.junit.runners.CustomBlockJUnit4ClassRunnerTest-shouldPass
+Tue May 15 18:34:04 UTC 2018: No link for: org.junit.runners.CustomBlockJUnit4ClassRunnerTest-throwException
+Tue May 15 18:34:04 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runners.CustomBlockJUnit4ClassRunnerTest
+Tue May 15 18:34:04 UTC 2018: Found element on the queue
+Tue May 15 18:34:04 UTC 2018: Updating status
+Tue May 15 18:34:04 UTC 2018: Working
+Tue May 15 18:34:07 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runner.notification.ConcurrentRunNotifierTest
+Tue May 15 18:34:07 UTC 2018: Setting lastTestMethodIndex: 42040
+Tue May 15 18:34:07 UTC 2018: Starting linking
+Tue May 15 18:34:07 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runner.notification.ConcurrentRunNotifierTest
+Tue May 15 18:34:08 UTC 2018: Found element on the queue
+Tue May 15 18:34:08 UTC 2018: Updating status
+Tue May 15 18:34:08 UTC 2018: Working
+Tue May 15 18:34:11 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runner.notification.RunNotifierTest
+Tue May 15 18:34:11 UTC 2018: Setting lastTestMethodIndex: 42042
+Tue May 15 18:34:11 UTC 2018: Starting linking
+Tue May 15 18:34:11 UTC 2018: Code found org.junit.runner.notification.RunNotifier-wrapIfNotThreadSafe with org.junit.runner.notification.RunNotifierTest-wrapIfNotThreadSafeShouldNotWrapThreadSafeListeners
+Tue May 15 18:34:12 UTC 2018: Code found org.junit.runner.notification.RunNotifier-wrapIfNotThreadSafe with org.junit.runner.notification.RunNotifierTest-wrapIfNotThreadSafeShouldWrapNonThreadSafeListeners
+Tue May 15 18:34:12 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-notifiesSecondListenerIfFirstThrowsException
+Tue May 15 18:34:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:12 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-addAndRemoveWithNonThreadSafeListener
+Tue May 15 18:34:12 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-addAndRemoveWithThreadSafeListener
+Tue May 15 18:34:12 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-addFirstAndRemoveWithNonThreadSafeListener
+Tue May 15 18:34:13 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-addFirstAndRemoveWithThreadSafeListener
+Tue May 15 18:34:13 UTC 2018: No link for: org.junit.runner.notification.RunNotifierTest-hasNoProblemsWithFailingListeners
+Tue May 15 18:34:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:13 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runner.notification.RunNotifierTest
+Tue May 15 18:34:14 UTC 2018: Found element on the queue
+Tue May 15 18:34:14 UTC 2018: Updating status
+Tue May 15 18:34:14 UTC 2018: Working
+Tue May 15 18:34:16 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runner.notification.SynchronizedRunListenerTest
+Tue May 15 18:34:16 UTC 2018: Setting lastTestMethodIndex: 42047
+Tue May 15 18:34:16 UTC 2018: Starting linking
+Tue May 15 18:34:16 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runner.notification.SynchronizedRunListenerTest
+Tue May 15 18:34:17 UTC 2018: Found element on the queue
+Tue May 15 18:34:17 UTC 2018: Updating status
+Tue May 15 18:34:17 UTC 2018: Working
+Tue May 15 18:34:20 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runner.FilterFactoriesTest
+Tue May 15 18:34:20 UTC 2018: Setting lastTestMethodIndex: 42050
+Tue May 15 18:34:20 UTC 2018: Starting linking
+Tue May 15 18:34:20 UTC 2018: Code found org.junit.runner.FilterFactories-createFilter with org.junit.runner.FilterFactoriesTest-shouldCreateFilter
+Tue May 15 18:34:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:34:21 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldThrowExceptionIfNotFilterFactory
+Tue May 15 18:34:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:21 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldPassOnDescriptionToFilterFactory
+Tue May 15 18:34:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:21 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-passes
+Tue May 15 18:34:21 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldCreateFilterWithArguments
+Tue May 15 18:34:21 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:21 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldThrowExceptionIfNotInstantiable
+Tue May 15 18:34:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:22 UTC 2018: No link for: org.junit.runner.FilterFactoriesTest-shouldCreateFilterWithNoArguments
+Tue May 15 18:34:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:22 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runner.FilterFactoriesTest
+Tue May 15 18:34:22 UTC 2018: Found element on the queue
+Tue May 15 18:34:22 UTC 2018: Updating status
+Tue May 15 18:34:22 UTC 2018: Working
+Tue May 15 18:34:25 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runner.FilterOptionIntegrationTest
+Tue May 15 18:34:25 UTC 2018: Setting lastTestMethodIndex: 42053
+Tue May 15 18:34:25 UTC 2018: Starting linking
+Tue May 15 18:34:25 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-shouldIncludeSomeTests
+Tue May 15 18:34:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:26 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-shouldExcludeSomeTests
+Tue May 15 18:34:26 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:26 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-dummyTest
+Tue May 15 18:34:26 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-shouldCombineFilters
+Tue May 15 18:34:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:27 UTC 2018: No link for: org.junit.runner.FilterOptionIntegrationTest-shouldRunAllTests
+Tue May 15 18:34:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:27 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runner.FilterOptionIntegrationTest
+Tue May 15 18:34:28 UTC 2018: Found element on the queue
+Tue May 15 18:34:28 UTC 2018: Updating status
+Tue May 15 18:34:28 UTC 2018: Working
+Tue May 15 18:34:31 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runner.JUnitCommandLineParseResultTest
+Tue May 15 18:34:31 UTC 2018: Setting lastTestMethodIndex: 42057
+Tue May 15 18:34:31 UTC 2018: Starting linking
+Tue May 15 18:34:31 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldStopParsingOptionsUponDoubleHyphenArg
+Tue May 15 18:34:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:31 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldStopParsingOptionsUponNonOption
+Tue May 15 18:34:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:32 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponUncreatedFilter
+Tue May 15 18:34:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:32 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponUnknownTestClass
+Tue May 15 18:34:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:32 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponUnfoundFilterFactory
+Tue May 15 18:34:32 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:32 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponUnknownOption
+Tue May 15 18:34:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:33 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldCreateFailureUponBaldFilterOptionNotFollowedByValue
+Tue May 15 18:34:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:33 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-dummyTest
+Tue May 15 18:34:33 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldParseFilterArgWithEqualsSyntax
+Tue May 15 18:34:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:33 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldParseFilterArgInWhichValueIsASeparateArg
+Tue May 15 18:34:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:33 UTC 2018: No link for: org.junit.runner.JUnitCommandLineParseResultTest-shouldAddToClasses
+Tue May 15 18:34:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:34 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runner.JUnitCommandLineParseResultTest
+Tue May 15 18:34:34 UTC 2018: Found element on the queue
+Tue May 15 18:34:34 UTC 2018: Updating status
+Tue May 15 18:34:34 UTC 2018: Working
+Tue May 15 18:34:38 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.runner.JUnitCoreTest
+Tue May 15 18:34:38 UTC 2018: Setting lastTestMethodIndex: 42063
+Tue May 15 18:34:38 UTC 2018: Starting linking
+Tue May 15 18:34:38 UTC 2018: No link for: org.junit.runner.JUnitCoreTest-shouldAddFailuresToResult
+Tue May 15 18:34:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:34:38 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.runner.JUnitCoreTest
+Tue May 15 18:34:39 UTC 2018: Found element on the queue
+Tue May 15 18:34:39 UTC 2018: Updating status
+Tue May 15 18:34:39 UTC 2018: Working
+Tue May 15 18:34:42 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.BlockJUnit4ClassRunnerTest
+Tue May 15 18:34:42 UTC 2018: Setting lastTestMethodIndex: 42067
+Tue May 15 18:34:42 UTC 2018: Starting linking
+Tue May 15 18:34:42 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.BlockJUnit4ClassRunnerTest
+Tue May 15 18:34:43 UTC 2018: Found element on the queue
+Tue May 15 18:34:43 UTC 2018: Updating status
+Tue May 15 18:34:43 UTC 2018: Working
+Tue May 15 18:34:45 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest
+Tue May 15 18:34:46 UTC 2018: Setting lastTestMethodIndex: 42070
+Tue May 15 18:34:46 UTC 2018: Starting linking
+Tue May 15 18:34:46 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.ClassLevelMethodsWithIgnoredTestsTest
+Tue May 15 18:34:46 UTC 2018: Found element on the queue
+Tue May 15 18:34:46 UTC 2018: Updating status
+Tue May 15 18:34:46 UTC 2018: Working
+Tue May 15 18:34:49 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.EnclosedTest
+Tue May 15 18:34:49 UTC 2018: Setting lastTestMethodIndex: 42073
+Tue May 15 18:34:49 UTC 2018: Starting linking
+Tue May 15 18:34:49 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.EnclosedTest
+Tue May 15 18:34:50 UTC 2018: Found element on the queue
+Tue May 15 18:34:50 UTC 2018: Updating status
+Tue May 15 18:34:50 UTC 2018: Working
+Tue May 15 18:34:53 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.IgnoreClassTest
+Tue May 15 18:34:53 UTC 2018: Setting lastTestMethodIndex: 42075
+Tue May 15 18:34:53 UTC 2018: Starting linking
+Tue May 15 18:34:53 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.IgnoreClassTest
+Tue May 15 18:34:54 UTC 2018: Found element on the queue
+Tue May 15 18:34:54 UTC 2018: Updating status
+Tue May 15 18:34:54 UTC 2018: Working
+Tue May 15 18:34:57 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.ParameterizedTestTest
+Tue May 15 18:34:57 UTC 2018: Setting lastTestMethodIndex: 42078
+Tue May 15 18:34:57 UTC 2018: Starting linking
+Tue May 15 18:34:57 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.ParameterizedTestTest
+Tue May 15 18:34:58 UTC 2018: Found element on the queue
+Tue May 15 18:34:58 UTC 2018: Updating status
+Tue May 15 18:34:58 UTC 2018: Working
+Tue May 15 18:35:01 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.ParentRunnerFilteringTest
+Tue May 15 18:35:01 UTC 2018: Setting lastTestMethodIndex: 42081
+Tue May 15 18:35:01 UTC 2018: Starting linking
+Tue May 15 18:35:01 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.ParentRunnerFilteringTest
+Tue May 15 18:35:01 UTC 2018: Found element on the queue
+Tue May 15 18:35:01 UTC 2018: Updating status
+Tue May 15 18:35:01 UTC 2018: Working
+Tue May 15 18:35:04 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.ParentRunnerTest
+Tue May 15 18:35:04 UTC 2018: Setting lastTestMethodIndex: 42084
+Tue May 15 18:35:04 UTC 2018: Starting linking
+Tue May 15 18:35:04 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.ParentRunnerTest
+Tue May 15 18:35:05 UTC 2018: Found element on the queue
+Tue May 15 18:35:05 UTC 2018: Updating status
+Tue May 15 18:35:05 UTC 2018: Working
+Tue May 15 18:35:09 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.RunWithTest
+Tue May 15 18:35:09 UTC 2018: Setting lastTestMethodIndex: 42087
+Tue May 15 18:35:09 UTC 2018: Starting linking
+Tue May 15 18:35:09 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.RunWithTest
+Tue May 15 18:35:10 UTC 2018: Found element on the queue
+Tue May 15 18:35:10 UTC 2018: Updating status
+Tue May 15 18:35:10 UTC 2018: Working
+Tue May 15 18:35:14 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.SuiteTest
+Tue May 15 18:35:14 UTC 2018: Setting lastTestMethodIndex: 42090
+Tue May 15 18:35:14 UTC 2018: Starting linking
+Tue May 15 18:35:14 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.SuiteTest
+Tue May 15 18:35:15 UTC 2018: Found element on the queue
+Tue May 15 18:35:15 UTC 2018: Updating status
+Tue May 15 18:35:15 UTC 2018: Working
+Tue May 15 18:35:17 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.UseSuiteAsASuperclassTest
+Tue May 15 18:35:17 UTC 2018: Setting lastTestMethodIndex: 42093
+Tue May 15 18:35:17 UTC 2018: Starting linking
+Tue May 15 18:35:17 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.classes.UseSuiteAsASuperclassTest
+Tue May 15 18:35:18 UTC 2018: Found element on the queue
+Tue May 15 18:35:18 UTC 2018: Updating status
+Tue May 15 18:35:18 UTC 2018: Working
+Tue May 15 18:35:21 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.core.CommandLineTest
+Tue May 15 18:35:21 UTC 2018: Setting lastTestMethodIndex: 42097
+Tue May 15 18:35:21 UTC 2018: Starting linking
+Tue May 15 18:35:21 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.core.CommandLineTest
+Tue May 15 18:35:22 UTC 2018: Found element on the queue
+Tue May 15 18:35:22 UTC 2018: Updating status
+Tue May 15 18:35:22 UTC 2018: Working
+Tue May 15 18:35:26 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.core.JUnitCoreReturnsCorrectExitCodeTest
+Tue May 15 18:35:26 UTC 2018: Setting lastTestMethodIndex: 42101
+Tue May 15 18:35:26 UTC 2018: Starting linking
+Tue May 15 18:35:26 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.core.JUnitCoreReturnsCorrectExitCodeTest
+Tue May 15 18:35:26 UTC 2018: Found element on the queue
+Tue May 15 18:35:26 UTC 2018: Updating status
+Tue May 15 18:35:26 UTC 2018: Working
+Tue May 15 18:35:30 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.core.SystemExitTest
+Tue May 15 18:35:30 UTC 2018: Setting lastTestMethodIndex: 42104
+Tue May 15 18:35:30 UTC 2018: Starting linking
+Tue May 15 18:35:30 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.core.SystemExitTest
+Tue May 15 18:35:31 UTC 2018: Found element on the queue
+Tue May 15 18:35:31 UTC 2018: Updating status
+Tue May 15 18:35:31 UTC 2018: Working
+Tue May 15 18:35:34 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.AnnotationTest
+Tue May 15 18:35:34 UTC 2018: Setting lastTestMethodIndex: 42106
+Tue May 15 18:35:34 UTC 2018: Starting linking
+Tue May 15 18:35:34 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.AnnotationTest
+Tue May 15 18:35:35 UTC 2018: Found element on the queue
+Tue May 15 18:35:35 UTC 2018: Updating status
+Tue May 15 18:35:35 UTC 2018: Working
+Tue May 15 18:35:39 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.ExpectedTest
+Tue May 15 18:35:39 UTC 2018: Setting lastTestMethodIndex: 42108
+Tue May 15 18:35:39 UTC 2018: Starting linking
+Tue May 15 18:35:39 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.ExpectedTest
+Tue May 15 18:35:40 UTC 2018: Found element on the queue
+Tue May 15 18:35:40 UTC 2018: Updating status
+Tue May 15 18:35:40 UTC 2018: Working
+Tue May 15 18:35:43 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.InheritedTestTest
+Tue May 15 18:35:43 UTC 2018: Setting lastTestMethodIndex: 42112
+Tue May 15 18:35:43 UTC 2018: Starting linking
+Tue May 15 18:35:43 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.InheritedTestTest
+Tue May 15 18:35:45 UTC 2018: Found element on the queue
+Tue May 15 18:35:45 UTC 2018: Updating status
+Tue May 15 18:35:45 UTC 2018: Working
+Tue May 15 18:35:48 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.ParameterizedTestMethodTest
+Tue May 15 18:35:48 UTC 2018: Setting lastTestMethodIndex: 42115
+Tue May 15 18:35:48 UTC 2018: Starting linking
+Tue May 15 18:35:48 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.ParameterizedTestMethodTest
+Tue May 15 18:35:49 UTC 2018: Found element on the queue
+Tue May 15 18:35:49 UTC 2018: Updating status
+Tue May 15 18:35:49 UTC 2018: Working
+Tue May 15 18:35:52 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.TestMethodTest
+Tue May 15 18:35:52 UTC 2018: Setting lastTestMethodIndex: 42118
+Tue May 15 18:35:52 UTC 2018: Starting linking
+Tue May 15 18:35:52 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.TestMethodTest
+Tue May 15 18:35:53 UTC 2018: Found element on the queue
+Tue May 15 18:35:53 UTC 2018: Updating status
+Tue May 15 18:35:53 UTC 2018: Working
+Tue May 15 18:35:56 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.TimeoutTest
+Tue May 15 18:35:56 UTC 2018: Setting lastTestMethodIndex: 42121
+Tue May 15 18:35:56 UTC 2018: Starting linking
+Tue May 15 18:35:56 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.tests.running.methods.TimeoutTest
+Tue May 15 18:35:57 UTC 2018: Found element on the queue
+Tue May 15 18:35:57 UTC 2018: Updating status
+Tue May 15 18:35:57 UTC 2018: Working
+Tue May 15 18:36:00 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.samples.ListTest
+Tue May 15 18:36:00 UTC 2018: Setting lastTestMethodIndex: 42125
+Tue May 15 18:36:00 UTC 2018: Starting linking
+Tue May 15 18:36:00 UTC 2018: No link for: org.junit.samples.ListTest-removeAll
+Tue May 15 18:36:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:00 UTC 2018: No link for: org.junit.samples.ListTest-testCopy
+Tue May 15 18:36:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:00 UTC 2018: No link for: org.junit.samples.ListTest-elementAt
+Tue May 15 18:36:00 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:00 UTC 2018: No link for: org.junit.samples.ListTest-capacity
+Tue May 15 18:36:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:01 UTC 2018: No link for: org.junit.samples.ListTest-contains
+Tue May 15 18:36:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:01 UTC 2018: No link for: org.junit.samples.ListTest-removeElement
+Tue May 15 18:36:01 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:01 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.samples.ListTest
+Tue May 15 18:36:02 UTC 2018: Found element on the queue
+Tue May 15 18:36:02 UTC 2018: Updating status
+Tue May 15 18:36:02 UTC 2018: Working
+Tue May 15 18:36:06 UTC 2018: Start gauravkumaraccolite__AU2016 test class org.junit.samples.money.MoneyTest
+Tue May 15 18:36:06 UTC 2018: Setting lastTestMethodIndex: 42129
+Tue May 15 18:36:06 UTC 2018: Starting linking
+Tue May 15 18:36:06 UTC 2018: Code found junit.samples.money.Money-add with org.junit.samples.money.MoneyTest-testSimpleBagAdd
+Tue May 15 18:36:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:36:07 UTC 2018: Code found junit.samples.money.Money-negate with org.junit.samples.money.MoneyTest-testSimpleNegate
+Tue May 15 18:36:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:36:07 UTC 2018: Code found junit.samples.money.Money-multiply with org.junit.samples.money.MoneyTest-testSimpleMultiply
+Tue May 15 18:36:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:36:07 UTC 2018: Code found junit.samples.money.Money-equals with org.junit.samples.money.MoneyTest-testMoneyBagEquals
+Tue May 15 18:36:07 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:36:07 UTC 2018: Code found junit.samples.money.Money-equals with org.junit.samples.money.MoneyTest-testMoneyEquals
+Tue May 15 18:36:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:36:08 UTC 2018: Code found junit.samples.money.Money-add with org.junit.samples.money.MoneyTest-testSimpleAdd
+Tue May 15 18:36:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:36:08 UTC 2018: Code found junit.samples.money.Money-add with org.junit.samples.money.MoneyTest-testMixedSimpleAdd
+Tue May 15 18:36:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:36:08 UTC 2018: Code found junit.samples.money.Money-subtract with org.junit.samples.money.MoneyTest-testSimpleSubtract
+Tue May 15 18:36:08 UTC 2018: Match not added in database because it already exists
+Tue May 15 18:36:08 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagSimpleAdd
+Tue May 15 18:36:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:09 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testMoneyBagHash
+Tue May 15 18:36:09 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:09 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testMoneyHash
+Tue May 15 18:36:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:10 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagSumAdd
+Tue May 15 18:36:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:10 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagNotEquals
+Tue May 15 18:36:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:10 UTC 2018: No link for: org.junit.samples.money.MoneyTest-zeroMoniesAreEqualRegardlessOfCurrency
+Tue May 15 18:36:10 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:10 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testIsZero
+Tue May 15 18:36:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:11 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testSimplify
+Tue May 15 18:36:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:11 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testNormalize2
+Tue May 15 18:36:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:11 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testNormalize3
+Tue May 15 18:36:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:11 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testNormalize4
+Tue May 15 18:36:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:12 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagMultiply
+Tue May 15 18:36:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:12 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagNegate
+Tue May 15 18:36:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:12 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testBagSubtract
+Tue May 15 18:36:12 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:12 UTC 2018: No link for: org.junit.samples.money.MoneyTest-testPrint
+Tue May 15 18:36:13 UTC 2018: None match not added in database because it already exists
+Tue May 15 18:36:13 UTC 2018: Linking done for gauravkumaraccolite__AU2016 test class org.junit.samples.money.MoneyTest

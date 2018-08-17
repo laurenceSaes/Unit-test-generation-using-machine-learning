@@ -1,0 +1,48 @@
+Wed May 16 06:11:50 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:11:50 UTC 2018: Starting
+Wed May 16 06:11:51 UTC 2018: Found element on the queue
+Wed May 16 06:11:51 UTC 2018: Updating status
+Wed May 16 06:11:51 UTC 2018: Working
+Wed May 16 06:11:51 UTC 2018: Create project parser
+Wed May 16 06:11:56 UTC 2018: Create slicer
+Wed May 16 06:11:57 UTC 2018: Create call graph
+Wed May 16 06:11:59 UTC 2018: Create point analysis
+Wed May 16 06:11:59 UTC 2018: Create call graph done
+Wed May 16 06:11:59 UTC 2018: Start mojohaus__cassandra-maven-plugin test class org.codehaus.mojo.cassandra.CqlExecCassandraMojoPowerMockTest
+Wed May 16 06:11:59 UTC 2018: Setting lastTestMethodIndex: 64611
+Wed May 16 06:11:59 UTC 2018: Starting linking
+Wed May 16 06:11:59 UTC 2018: Code found org.codehaus.mojo.cassandra.CqlExecCassandraMojoBuilder-keyspace with org.codehaus.mojo.cassandra.CqlExecCassandraMojoPowerMockTest-should_use_custom_keyspace
+Wed May 16 06:12:00 UTC 2018: No link for: org.codehaus.mojo.cassandra.CqlExecCassandraMojoPowerMockTest-should_fail_if_io_error_occurs_when_reading_cql_script
+Wed May 16 06:12:00 UTC 2018: No link for: org.codehaus.mojo.cassandra.CqlExecCassandraMojoPowerMockTest-should_fail_when_request_fails
+Wed May 16 06:12:00 UTC 2018: No link for: org.codehaus.mojo.cassandra.CqlExecCassandraMojoPowerMockTest-should_fail_if_file_not_found_occurs_when_reading_cql_script
+Wed May 16 06:12:01 UTC 2018: No link for: org.codehaus.mojo.cassandra.CqlExecCassandraMojoPowerMockTest-should_use_default_cql_version
+Wed May 16 06:12:01 UTC 2018: Linking done for mojohaus__cassandra-maven-plugin test class org.codehaus.mojo.cassandra.CqlExecCassandraMojoPowerMockTest
+Wed May 16 06:12:02 UTC 2018: Found element on the queue
+Wed May 16 06:12:02 UTC 2018: Updating status
+Wed May 16 06:12:02 UTC 2018: Working
+Wed May 16 06:12:04 UTC 2018: Start mojohaus__cassandra-maven-plugin test class org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest
+Wed May 16 06:12:04 UTC 2018: Setting lastTestMethodIndex: 64613
+Wed May 16 06:12:04 UTC 2018: Starting linking
+Wed May 16 06:12:04 UTC 2018: Code found org.codehaus.mojo.cassandra.CqlExecCassandraMojoBuilder-comparator with org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest-should_fail_when_comparator_type_parser_class_does_not_exist
+Wed May 16 06:12:05 UTC 2018: Code found org.codehaus.mojo.cassandra.CqlExecCassandraMojoBuilder-skip with org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest-should_do_nothing_when_skip
+Wed May 16 06:12:05 UTC 2018: Code found org.codehaus.mojo.cassandra.CqlExecCassandraMojoBuilder-comparator with org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest-should_fail_when_comparator_type_parser_leads_to_syntax_error
+Wed May 16 06:12:06 UTC 2018: No link for: org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest-should_give_comparator_error_message_when_key_validator_fails
+Wed May 16 06:12:06 UTC 2018: No link for: org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest-should_give_comparator_error_message_when_default_validator_fails
+Wed May 16 06:12:06 UTC 2018: No link for: org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest-should_do_nothing_with_empty_cql_statement
+Wed May 16 06:12:07 UTC 2018: No link for: org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest-should_do_nothing_when_no_cql_provided
+Wed May 16 06:12:07 UTC 2018: Linking done for mojohaus__cassandra-maven-plugin test class org.codehaus.mojo.cassandra.CqlExecCassandraMojoTest
+Wed May 16 06:12:08 UTC 2018: Found element on the queue
+Wed May 16 06:12:08 UTC 2018: Updating status
+Wed May 16 06:12:08 UTC 2018: Working
+Wed May 16 06:12:10 UTC 2018: Start mojohaus__cassandra-maven-plugin test class org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest
+Wed May 16 06:12:10 UTC 2018: Setting lastTestMethodIndex: 64617
+Wed May 16 06:12:10 UTC 2018: Starting linking
+Wed May 16 06:12:10 UTC 2018: No link for: org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest-should_give_details_if_cause_is_thrift_exception
+Wed May 16 06:12:11 UTC 2018: No link for: org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest-should_give_details_if_cause_is_invalid_request_exception
+Wed May 16 06:12:11 UTC 2018: No link for: org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest-should_give_details_if_cause_is_timed_out_exception
+Wed May 16 06:12:12 UTC 2018: No link for: org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest-should_not_give_some_details_if_there_is_a_message
+Wed May 16 06:12:12 UTC 2018: No link for: org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest-should_give_details_if_cause_is_schema_disagreement_exception
+Wed May 16 06:12:12 UTC 2018: No link for: org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest-should_not_give_any_details_if_there_is_no_cause
+Wed May 16 06:12:13 UTC 2018: No link for: org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest-should_not_give_any_details_if_cause_is_not_handled
+Wed May 16 06:12:13 UTC 2018: No link for: org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest-should_give_details_if_cause_is_unavailable_exception
+Wed May 16 06:12:14 UTC 2018: Linking done for mojohaus__cassandra-maven-plugin test class org.codehaus.mojo.cassandra.ThriftApiExecutionExceptionTest

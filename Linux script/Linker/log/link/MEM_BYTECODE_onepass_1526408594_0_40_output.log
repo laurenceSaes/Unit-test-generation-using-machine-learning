@@ -1,0 +1,560 @@
+Wed May 16 00:01:04 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 00:01:04 UTC 2018: Starting
+Wed May 16 00:01:05 UTC 2018: Found element on the queue
+Wed May 16 00:01:05 UTC 2018: Updating status
+Wed May 16 00:01:05 UTC 2018: Working
+Wed May 16 00:01:05 UTC 2018: Create project parser
+Wed May 16 00:01:09 UTC 2018: Create slicer
+Wed May 16 00:01:10 UTC 2018: Create call graph
+Wed May 16 00:01:14 UTC 2018: Create point analysis
+Wed May 16 00:01:14 UTC 2018: Create call graph done
+Wed May 16 00:01:14 UTC 2018: Start joansmith2__cloudstack test class org.apache.cloudstack.managed.context.impl.DefaultManagedContextTest
+Wed May 16 00:01:14 UTC 2018: Setting lastTestMethodIndex: 52223
+Wed May 16 00:01:14 UTC 2018: Starting linking
+Wed May 16 00:01:14 UTC 2018: No link for: org.apache.cloudstack.managed.context.impl.DefaultManagedContextTest-testBadListernInExit
+Wed May 16 00:01:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:14 UTC 2018: No link for: org.apache.cloudstack.managed.context.impl.DefaultManagedContextTest-testBadInvocation
+Wed May 16 00:01:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:15 UTC 2018: No link for: org.apache.cloudstack.managed.context.impl.DefaultManagedContextTest-testRunnable
+Wed May 16 00:01:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:15 UTC 2018: No link for: org.apache.cloudstack.managed.context.impl.DefaultManagedContextTest-testBadListeners
+Wed May 16 00:01:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:15 UTC 2018: No link for: org.apache.cloudstack.managed.context.impl.DefaultManagedContextTest-testCallable
+Wed May 16 00:01:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:15 UTC 2018: No link for: org.apache.cloudstack.managed.context.impl.DefaultManagedContextTest-testGoodListeners
+Wed May 16 00:01:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:16 UTC 2018: Linking done for joansmith2__cloudstack test class org.apache.cloudstack.managed.context.impl.DefaultManagedContextTest
+Wed May 16 00:01:16 UTC 2018: Found element on the queue
+Wed May 16 00:01:16 UTC 2018: Updating status
+Wed May 16 00:01:16 UTC 2018: Working
+Wed May 16 00:01:16 UTC 2018: Create project parser
+Wed May 16 00:01:22 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest
+Wed May 16 00:01:22 UTC 2018: Setting lastTestMethodIndex: 52226
+Wed May 16 00:01:22 UTC 2018: Starting linking
+Wed May 16 00:01:22 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResource-executeInVR with com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-executeInVRFailTest
+Wed May 16 00:01:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:01:22 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResource-executeInVR with com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-executeInVRTest
+Wed May 16 00:01:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:01:22 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResource-createFileInVR with com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-createFileInVRTest
+Wed May 16 00:01:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:01:22 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResource-createFileInVR with com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-createFileInVRFailTest
+Wed May 16 00:01:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:01:23 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-prepareCommandTest
+Wed May 16 00:01:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:23 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-prepareVpcCommandFailHeavierTest
+Wed May 16 00:01:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:23 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-prepareCommandFailTest
+Wed May 16 00:01:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:23 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-prepareVpcCommandTest
+Wed May 16 00:01:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:24 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-prepareVpcCommandFailTest
+Wed May 16 00:01:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:24 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest-prepareCommandFailHeavierTest
+Wed May 16 00:01:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:24 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.Ovm3VirtualRoutingResourceTest
+Wed May 16 00:01:25 UTC 2018: Found element on the queue
+Wed May 16 00:01:25 UTC 2018: Updating status
+Wed May 16 00:01:25 UTC 2018: Working
+Wed May 16 00:01:27 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest
+Wed May 16 00:01:27 UTC 2018: Setting lastTestMethodIndex: 52229
+Wed May 16 00:01:27 UTC 2018: Starting linking
+Wed May 16 00:01:27 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest-PingTestCommandComputeFalseTest
+Wed May 16 00:01:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:27 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest-PingTestCommandComputeTest
+Wed May 16 00:01:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:28 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest-PingTestCommandWeDontPingRouterTest
+Wed May 16 00:01:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:28 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest-CheckNetworkCommandGuestFailTest
+Wed May 16 00:01:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:28 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest-CheckNetworkCommandTest
+Wed May 16 00:01:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:28 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest-CheckNetworkCommandPrivateFailTest
+Wed May 16 00:01:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:29 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest-CheckNetworkCommandPublicFailTest
+Wed May 16 00:01:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:29 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest-CheckNetworkCommandStorageFalseTest
+Wed May 16 00:01:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:29 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorNetworkTest
+Wed May 16 00:01:30 UTC 2018: Found element on the queue
+Wed May 16 00:01:30 UTC 2018: Updating status
+Wed May 16 00:01:30 UTC 2018: Working
+Wed May 16 00:01:32 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest
+Wed May 16 00:01:32 UTC 2018: Setting lastTestMethodIndex: 52231
+Wed May 16 00:01:32 UTC 2018: Starting linking
+Wed May 16 00:01:32 UTC 2018: Code found com.cloud.hypervisor.ovm3.support.Ovm3SupportTest-prepare with com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest-PrepareForMigrationCommandTest
+Wed May 16 00:01:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:01:32 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest-PlugNicBreakTest
+Wed May 16 00:01:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:33 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest-unPlugNicBreakTest
+Wed May 16 00:01:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:33 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest-MigrateCommandTest
+Wed May 16 00:01:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:33 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest-GetVmStatsCommandTest
+Wed May 16 00:01:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:33 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest-unPlugNicTest
+Wed May 16 00:01:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:34 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest-PlugNicTest
+Wed May 16 00:01:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:34 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VmSupportTest
+Wed May 16 00:01:34 UTC 2018: Found element on the queue
+Wed May 16 00:01:34 UTC 2018: Updating status
+Wed May 16 00:01:34 UTC 2018: Working
+Wed May 16 00:01:37 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3GuestTypesTest
+Wed May 16 00:01:37 UTC 2018: Setting lastTestMethodIndex: 52234
+Wed May 16 00:01:37 UTC 2018: Starting linking
+Wed May 16 00:01:37 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3GuestTypesTest-testGetPvByOs
+Wed May 16 00:01:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:37 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3GuestTypesTest
+Wed May 16 00:01:38 UTC 2018: Found element on the queue
+Wed May 16 00:01:38 UTC 2018: Updating status
+Wed May 16 00:01:38 UTC 2018: Working
+Wed May 16 00:01:41 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3ConfigurationTest
+Wed May 16 00:01:41 UTC 2018: Setting lastTestMethodIndex: 52236
+Wed May 16 00:01:41 UTC 2018: Starting linking
+Wed May 16 00:01:41 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3ConfigurationTest-testFailedParams
+Wed May 16 00:01:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:41 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3ConfigurationTest-testConfigLoad
+Wed May 16 00:01:41 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:41 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3ConfigurationTest-testAgentPort
+Wed May 16 00:01:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:42 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3ConfigurationTest-testValidatePool
+Wed May 16 00:01:42 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:42 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3ConfigurationTest
+Wed May 16 00:01:42 UTC 2018: Found element on the queue
+Wed May 16 00:01:42 UTC 2018: Updating status
+Wed May 16 00:01:42 UTC 2018: Working
+Wed May 16 00:01:46 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest
+Wed May 16 00:01:46 UTC 2018: Setting lastTestMethodIndex: 52239
+Wed May 16 00:01:46 UTC 2018: Starting linking
+Wed May 16 00:01:46 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest-NetworkVpcRemoveCommandTest
+Wed May 16 00:01:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:46 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest-NetworkVpcVpnCommandTest
+Wed May 16 00:01:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:46 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest-NetworkVpcResetCommandTest
+Wed May 16 00:01:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:46 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest-CheckSshCommandTest
+Wed May 16 00:01:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:47 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest-NetworkUsageVpcCommandTest
+Wed May 16 00:01:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:47 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest-NetworkVpcGetCommandTest
+Wed May 16 00:01:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:47 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest-NetworkVpcCreateCommandTest
+Wed May 16 00:01:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:47 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest-NetworkUsageCommandTest
+Wed May 16 00:01:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:48 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3VirtualRoutingSupportTest
+Wed May 16 00:01:48 UTC 2018: Found element on the queue
+Wed May 16 00:01:48 UTC 2018: Updating status
+Wed May 16 00:01:48 UTC 2018: Working
+Wed May 16 00:01:50 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest
+Wed May 16 00:01:50 UTC 2018: Setting lastTestMethodIndex: 52241
+Wed May 16 00:01:50 UTC 2018: Starting linking
+Wed May 16 00:01:51 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupport-getSystemVMKeyFile with com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-getSystemVMKeyFileTest
+Wed May 16 00:01:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:01:51 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupport-getSystemVMKeyFile with com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-getSystemVMKeyFileMissingTest
+Wed May 16 00:01:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:01:51 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupport-fillHostInfo with com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-fillHostinfoTest
+Wed May 16 00:01:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:01:51 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-HypervisorVmStateTest
+Wed May 16 00:01:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:51 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-GetHostStatsCommandFailTest
+Wed May 16 00:01:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:52 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-ReportedVmStatesTest
+Wed May 16 00:01:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:52 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-MaintainCommandTest
+Wed May 16 00:01:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:52 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-checkHealthTest
+Wed May 16 00:01:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:52 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-GetHostStatsCommandTest
+Wed May 16 00:01:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:53 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-GetVncPortCommandTest
+Wed May 16 00:01:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:53 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-masterCheckTest
+Wed May 16 00:01:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:53 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-CombinedVmStateTest
+Wed May 16 00:01:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:53 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-FenceCommandTest
+Wed May 16 00:01:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:54 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest-CheckVirtualMachineCommandTest
+Wed May 16 00:01:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:54 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.helpers.Ovm3HypervisorSupportTest
+Wed May 16 00:01:54 UTC 2018: Found element on the queue
+Wed May 16 00:01:54 UTC 2018: Updating status
+Wed May 16 00:01:54 UTC 2018: Working
+Wed May 16 00:01:57 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest
+Wed May 16 00:01:57 UTC 2018: Setting lastTestMethodIndex: 52244
+Wed May 16 00:01:57 UTC 2018: Starting linking
+Wed May 16 00:01:57 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-copyVolumeCommandTest
+Wed May 16 00:01:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:57 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-createTemplateObjectCommandTest
+Wed May 16 00:01:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:58 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-deleteCommandTest
+Wed May 16 00:01:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:58 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-copyCommandTemplateToVolumeTest
+Wed May 16 00:01:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:58 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-createSnapshotObjectCommandTest
+Wed May 16 00:01:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:58 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-copyCommandBogusTest
+Wed May 16 00:01:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:59 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-isoDettachTest
+Wed May 16 00:01:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:59 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-copyCommandTemplateToTemplateTest
+Wed May 16 00:01:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:59 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest-createVolumeObjectCommandTest
+Wed May 16 00:01:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:01:59 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.Ovm3StorageProcessorTest
+Wed May 16 00:02:00 UTC 2018: Found element on the queue
+Wed May 16 00:02:00 UTC 2018: Updating status
+Wed May 16 00:02:00 UTC 2018: Working
+Wed May 16 00:02:03 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest
+Wed May 16 00:02:03 UTC 2018: Setting lastTestMethodIndex: 52246
+Wed May 16 00:02:03 UTC 2018: Starting linking
+Wed May 16 00:02:03 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResource-configure with com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-configureTest
+Wed May 16 00:02:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:03 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResource-initialize with com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-initializeTest
+Wed May 16 00:02:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:03 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResource-getCurrentStatus with com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-getCurrentStatusFailTest
+Wed May 16 00:02:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:04 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResource-stop with com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-stopResourceTest
+Wed May 16 00:02:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:04 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResource-getCurrentStatus with com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-getCurrentStatusExceptionTest
+Wed May 16 00:02:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:05 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResource-start with com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-startResourceTest
+Wed May 16 00:02:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:05 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResource-getCurrentStatus with com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-getCurrentStatusAndConfigureTest
+Wed May 16 00:02:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:05 UTC 2018: Code found com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResource-configure with com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-configureControlInterfaceTest
+Wed May 16 00:02:06 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:06 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-rebootCommandFailTest
+Wed May 16 00:02:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:06 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-createOtherVmTest
+Wed May 16 00:02:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:06 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-rebootCommandTest
+Wed May 16 00:02:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:06 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-stopVmExceptionTest
+Wed May 16 00:02:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:07 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-stopVmTest
+Wed May 16 00:02:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:07 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-stopVmTreatAsStoppedTest
+Wed May 16 00:02:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:07 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-createVmTest
+Wed May 16 00:02:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:07 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-startCommandTest
+Wed May 16 00:02:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:08 UTC 2018: No link for: com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest-readyCommandTest
+Wed May 16 00:02:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:08 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.resources.Ovm3HypervisorResourceTest
+Wed May 16 00:02:08 UTC 2018: Found element on the queue
+Wed May 16 00:02:08 UTC 2018: Updating status
+Wed May 16 00:02:08 UTC 2018: Working
+Wed May 16 00:02:11 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.NetworkTest
+Wed May 16 00:02:11 UTC 2018: Setting lastTestMethodIndex: 52249
+Wed May 16 00:02:11 UTC 2018: Starting linking
+Wed May 16 00:02:11 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Network-discoverNetwork with com.cloud.hypervisor.ovm3.objects.NetworkTest-testDiscoverNetwork
+Wed May 16 00:02:11 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.NetworkTest-testLocal
+Wed May 16 00:02:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:11 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.NetworkTest-testVlanBridge
+Wed May 16 00:02:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:12 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.NetworkTest-testVlanBridgeBreak
+Wed May 16 00:02:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:12 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.NetworkTest-testInterfacesNotFound
+Wed May 16 00:02:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:12 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.NetworkTest-testLocalBreak
+Wed May 16 00:02:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:12 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.NetworkTest
+Wed May 16 00:02:13 UTC 2018: Found element on the queue
+Wed May 16 00:02:13 UTC 2018: Updating status
+Wed May 16 00:02:13 UTC 2018: Working
+Wed May 16 00:02:15 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest
+Wed May 16 00:02:15 UTC 2018: Setting lastTestMethodIndex: 52250
+Wed May 16 00:02:15 UTC 2018: Starting linking
+Wed May 16 00:02:15 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsDomrUploadFile with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testOvsDomrUploadFile
+Wed May 16 00:02:16 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:16 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsDomUStats with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestOvsDomUStats
+Wed May 16 00:02:16 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-dom0CheckStorageHealthCheck with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testDom0CheckStorageHealthCheck
+Wed May 16 00:02:16 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsUploadFile with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testOvsUploadFile
+Wed May 16 00:02:16 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:16 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-dom0CheckPort with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testDom0CheckPort
+Wed May 16 00:02:16 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsMkdirs with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestovsMkdirsDirExists
+Wed May 16 00:02:17 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsMkdirs with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestovsMkdirs2
+Wed May 16 00:02:17 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-getVncPort with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testGetVncPort
+Wed May 16 00:02:17 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:17 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsControlInterface with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestOvsControlInterface
+Wed May 16 00:02:17 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsMkdirs with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestovsMkdirs
+Wed May 16 00:02:18 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-domrExec with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testDomrExec
+Wed May 16 00:02:18 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-domrCheckPort with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestDomrCheckPort
+Wed May 16 00:02:18 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-domrCheckSsh with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestDomrCheckSsh
+Wed May 16 00:02:18 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsDom0Stats with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testOvsDom0Stats
+Wed May 16 00:02:18 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsCheckFile with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestOvsCheckFile
+Wed May 16 00:02:19 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-dom0CheckStorageHealth with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-dom0CheckStorageHealth
+Wed May 16 00:02:19 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ovsUploadSshKey with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testOvsUploadSshKey
+Wed May 16 00:02:19 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:19 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.CloudstackPlugin-ping with com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-TestPing
+Wed May 16 00:02:19 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest-testDom0Ip
+Wed May 16 00:02:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:20 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.CloudStackPluginTest
+Wed May 16 00:02:20 UTC 2018: Found element on the queue
+Wed May 16 00:02:20 UTC 2018: Updating status
+Wed May 16 00:02:20 UTC 2018: Working
+Wed May 16 00:02:23 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.PoolOCFS2Test
+Wed May 16 00:02:23 UTC 2018: Setting lastTestMethodIndex: 52251
+Wed May 16 00:02:23 UTC 2018: Starting linking
+Wed May 16 00:02:23 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.PoolOCFS2-createPoolFs with com.cloud.hypervisor.ovm3.objects.PoolOCFS2Test-testCreatePoolFS
+Wed May 16 00:02:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:23 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.PoolOCFS2-discoverPoolFs with com.cloud.hypervisor.ovm3.objects.PoolOCFS2Test-testDiscoverPoolFS
+Wed May 16 00:02:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:23 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.PoolOCFS2-destroyPoolFs with com.cloud.hypervisor.ovm3.objects.PoolOCFS2Test-testDestroyPoolFS
+Wed May 16 00:02:23 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:23 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.PoolOCFS2-createPoolFs with com.cloud.hypervisor.ovm3.objects.PoolOCFS2Test-testCreatePoolFSError
+Wed May 16 00:02:24 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:24 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.PoolOCFS2Test
+Wed May 16 00:02:24 UTC 2018: Found element on the queue
+Wed May 16 00:02:24 UTC 2018: Updating status
+Wed May 16 00:02:24 UTC 2018: Working
+Wed May 16 00:02:27 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.XenTest
+Wed May 16 00:02:27 UTC 2018: Setting lastTestMethodIndex: 52253
+Wed May 16 00:02:27 UTC 2018: Starting linking
+Wed May 16 00:02:27 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Xen-rebootVm with com.cloud.hypervisor.ovm3.objects.XenTest-testRebootVM
+Wed May 16 00:02:27 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Xen-listVm with com.cloud.hypervisor.ovm3.objects.XenTest-testListVm
+Wed May 16 00:02:27 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Xen-stopVm with com.cloud.hypervisor.ovm3.objects.XenTest-testStopVm
+Wed May 16 00:02:28 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Xen-getRunningVmConfig with com.cloud.hypervisor.ovm3.objects.XenTest-testGetRunningVmConfig
+Wed May 16 00:02:28 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Xen-getVmConfig with com.cloud.hypervisor.ovm3.objects.XenTest-testGetVmConfig
+Wed May 16 00:02:28 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Xen-createVm with com.cloud.hypervisor.ovm3.objects.XenTest-testCreateVm
+Wed May 16 00:02:28 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Xen-pauseVm with com.cloud.hypervisor.ovm3.objects.XenTest-testPauseVm
+Wed May 16 00:02:29 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.XenTest-testMissingVncPort
+Wed May 16 00:02:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:29 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.XenTest-testControlDomain
+Wed May 16 00:02:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:29 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.XenTest-testRemoveMissingVif
+Wed May 16 00:02:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:29 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.XenTest-testVmCpusExceedsMaxVCPUs
+Wed May 16 00:02:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:30 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.XenTest-testVmDomainType
+Wed May 16 00:02:30 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:30 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.XenTest
+Wed May 16 00:02:30 UTC 2018: Found element on the queue
+Wed May 16 00:02:30 UTC 2018: Updating status
+Wed May 16 00:02:30 UTC 2018: Working
+Wed May 16 00:02:33 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.NtpTest
+Wed May 16 00:02:33 UTC 2018: Setting lastTestMethodIndex: 52255
+Wed May 16 00:02:33 UTC 2018: Starting linking
+Wed May 16 00:02:33 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Ntp-getDetails with com.cloud.hypervisor.ovm3.objects.NtpTest-testGetDetails
+Wed May 16 00:02:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:33 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Ntp-enableNtp with com.cloud.hypervisor.ovm3.objects.NtpTest-testEnableNtp
+Wed May 16 00:02:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:33 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Ntp-disableNtp with com.cloud.hypervisor.ovm3.objects.NtpTest-testDisableNtp
+Wed May 16 00:02:34 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:34 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Ntp-setNtp with com.cloud.hypervisor.ovm3.objects.NtpTest-testSetNTP
+Wed May 16 00:02:34 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:34 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.NtpTest-testServerAdditionRemoval
+Wed May 16 00:02:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:34 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.NtpTest
+Wed May 16 00:02:35 UTC 2018: Found element on the queue
+Wed May 16 00:02:35 UTC 2018: Updating status
+Wed May 16 00:02:35 UTC 2018: Working
+Wed May 16 00:02:38 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.ConnectionTest
+Wed May 16 00:02:38 UTC 2018: Setting lastTestMethodIndex: 52258
+Wed May 16 00:02:38 UTC 2018: Starting linking
+Wed May 16 00:02:38 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.ConnectionTest-testConnection
+Wed May 16 00:02:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:39 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.ConnectionTest
+Wed May 16 00:02:39 UTC 2018: Found element on the queue
+Wed May 16 00:02:39 UTC 2018: Updating status
+Wed May 16 00:02:39 UTC 2018: Working
+Wed May 16 00:02:42 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.RepositoryTest
+Wed May 16 00:02:42 UTC 2018: Setting lastTestMethodIndex: 52261
+Wed May 16 00:02:42 UTC 2018: Starting linking
+Wed May 16 00:02:42 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Repository-discoverRepo with com.cloud.hypervisor.ovm3.objects.RepositoryTest-testDiscoverRepoDetails
+Wed May 16 00:02:42 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Repository-discoverRepo with com.cloud.hypervisor.ovm3.objects.RepositoryTest-testDiscoverRepoBase
+Wed May 16 00:02:42 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Repository-discoverRepoDb with com.cloud.hypervisor.ovm3.objects.RepositoryTest-testDiscoverRepoDb
+Wed May 16 00:02:43 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.RepositoryTest
+Wed May 16 00:02:43 UTC 2018: Found element on the queue
+Wed May 16 00:02:43 UTC 2018: Updating status
+Wed May 16 00:02:43 UTC 2018: Working
+Wed May 16 00:02:46 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.StoragePluginTest
+Wed May 16 00:02:46 UTC 2018: Setting lastTestMethodIndex: 52264
+Wed May 16 00:02:46 UTC 2018: Starting linking
+Wed May 16 00:02:46 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.StoragePlugin-discoverStoragePlugins with com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testDiscoverStoragePlugins
+Wed May 16 00:02:47 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.StoragePlugin-storagePluginDestroy with com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStoragepluginDestroyWrongUUID
+Wed May 16 00:02:47 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.StoragePlugin-storagePluginDestroy with com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStoragepluginDestroy
+Wed May 16 00:02:47 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testGetFileSystemInfo
+Wed May 16 00:02:47 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:47 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testMounts
+Wed May 16 00:02:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:48 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStoragePluginNFSmountInvalidUuid
+Wed May 16 00:02:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:48 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testCheckStoragePluginBogusProperty
+Wed May 16 00:02:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:48 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testNFSStorageMountCreation
+Wed May 16 00:02:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:49 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStoragePluginIncorrectSsUuid
+Wed May 16 00:02:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:49 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStorageFileCreation
+Wed May 16 00:02:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:49 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStoragePluginIncorrectUuid
+Wed May 16 00:02:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:49 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testCheckStoragePluginBogusPlugin
+Wed May 16 00:02:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:50 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStoragePluginIncorrectMntUuid
+Wed May 16 00:02:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:50 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testNFSStorageUnmount
+Wed May 16 00:02:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:50 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStorageFileCreationFileExistS
+Wed May 16 00:02:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:50 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStorageFileInfo
+Wed May 16 00:02:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:51 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.StoragePluginTest-testStoragePluginSwitch
+Wed May 16 00:02:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:51 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.StoragePluginTest
+Wed May 16 00:02:51 UTC 2018: Found element on the queue
+Wed May 16 00:02:51 UTC 2018: Updating status
+Wed May 16 00:02:51 UTC 2018: Working
+Wed May 16 00:02:54 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.LinuxTest
+Wed May 16 00:02:54 UTC 2018: Setting lastTestMethodIndex: 52269
+Wed May 16 00:02:54 UTC 2018: Starting linking
+Wed May 16 00:02:54 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Linux-discoverHardware with com.cloud.hypervisor.ovm3.objects.LinuxTest-testDiscoverHardware
+Wed May 16 00:02:54 UTC 2018: No code found com.cloud.hypervisor.ovm3.objects.Linux-getTimeZone with com.cloud.hypervisor.ovm3.objects.LinuxTest-testGetTimeZone
+Wed May 16 00:02:54 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Linux-discoverServer with com.cloud.hypervisor.ovm3.objects.LinuxTest-testDiscoverServer
+Wed May 16 00:02:55 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:02:55 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.LinuxTest-testDiscoverMountedFileSystems
+Wed May 16 00:02:55 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:55 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.LinuxTest-testLastBootTime
+Wed May 16 00:02:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:02:56 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.LinuxTest
+Wed May 16 00:02:57 UTC 2018: Found element on the queue
+Wed May 16 00:02:57 UTC 2018: Updating status
+Wed May 16 00:02:57 UTC 2018: Working
+Wed May 16 00:02:59 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.RemoteTest
+Wed May 16 00:02:59 UTC 2018: Setting lastTestMethodIndex: 52273
+Wed May 16 00:02:59 UTC 2018: Starting linking
+Wed May 16 00:02:59 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Remote-sysReboot with com.cloud.hypervisor.ovm3.objects.RemoteTest-TestSysReboot
+Wed May 16 00:03:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:00 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Remote-sysShutdown with com.cloud.hypervisor.ovm3.objects.RemoteTest-TestSysShutdown
+Wed May 16 00:03:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:00 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.RemoteTest
+Wed May 16 00:03:00 UTC 2018: Found element on the queue
+Wed May 16 00:03:00 UTC 2018: Updating status
+Wed May 16 00:03:00 UTC 2018: Working
+Wed May 16 00:03:03 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.PoolTest
+Wed May 16 00:03:03 UTC 2018: Setting lastTestMethodIndex: 52275
+Wed May 16 00:03:03 UTC 2018: Starting linking
+Wed May 16 00:03:03 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Pool-joinServerPool with com.cloud.hypervisor.ovm3.objects.PoolTest-testJoinServerPool
+Wed May 16 00:03:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:03 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Pool-joinServerPool with com.cloud.hypervisor.ovm3.objects.PoolTest-testJoinServerPoolFail
+Wed May 16 00:03:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:04 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Pool-createServerPool with com.cloud.hypervisor.ovm3.objects.PoolTest-testCreateServerPoolFail2
+Wed May 16 00:03:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:04 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Pool-discoverServerPool with com.cloud.hypervisor.ovm3.objects.PoolTest-testDiscoverServerPool
+Wed May 16 00:03:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:04 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Pool-joinServerPool with com.cloud.hypervisor.ovm3.objects.PoolTest-testJoinServerPoolFail1
+Wed May 16 00:03:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:05 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Pool-createServerPool with com.cloud.hypervisor.ovm3.objects.PoolTest-testCreateServerPoolFail1
+Wed May 16 00:03:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:05 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Pool-createServerPool with com.cloud.hypervisor.ovm3.objects.PoolTest-testCreateServerPool
+Wed May 16 00:03:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:05 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.PoolTest-poolMembers
+Wed May 16 00:03:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:06 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.PoolTest-testValidPoolRolesInvalid
+Wed May 16 00:03:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:06 UTC 2018: No link for: com.cloud.hypervisor.ovm3.objects.PoolTest-testValidPoolRoles
+Wed May 16 00:03:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:06 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.PoolTest
+Wed May 16 00:03:06 UTC 2018: Found element on the queue
+Wed May 16 00:03:06 UTC 2018: Updating status
+Wed May 16 00:03:07 UTC 2018: Working
+Wed May 16 00:03:09 UTC 2018: Start joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.CommonTest
+Wed May 16 00:03:09 UTC 2018: Setting lastTestMethodIndex: 52278
+Wed May 16 00:03:09 UTC 2018: Starting linking
+Wed May 16 00:03:09 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Common-dispatch with com.cloud.hypervisor.ovm3.objects.CommonTest-testDispatch
+Wed May 16 00:03:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:09 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Common-getApiVersion with com.cloud.hypervisor.ovm3.objects.CommonTest-testGetApiVersion
+Wed May 16 00:03:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:10 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Common-echo with com.cloud.hypervisor.ovm3.objects.CommonTest-testEcho
+Wed May 16 00:03:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:10 UTC 2018: Code found com.cloud.hypervisor.ovm3.objects.Common-sleep with com.cloud.hypervisor.ovm3.objects.CommonTest-testSleep
+Wed May 16 00:03:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:10 UTC 2018: Linking done for joansmith2__cloudstack test class com.cloud.hypervisor.ovm3.objects.CommonTest
+Wed May 16 00:03:11 UTC 2018: Found element on the queue
+Wed May 16 00:03:11 UTC 2018: Updating status
+Wed May 16 00:03:11 UTC 2018: Working
+Wed May 16 00:03:11 UTC 2018: Create project parser
+Wed May 16 00:03:14 UTC 2018: Start joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest
+Wed May 16 00:03:14 UTC 2018: Setting lastTestMethodIndex: 52281
+Wed May 16 00:03:14 UTC 2018: Starting linking
+Wed May 16 00:03:14 UTC 2018: Code found org.apache.cloudstack.network.opendaylight.api.resources.NeutronNetworksNorthboundAction-findNetworkById with org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-neutronFindNetworkByIdFail
+Wed May 16 00:03:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 00:03:14 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-neutronNetworksFail
+Wed May 16 00:03:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:14 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-neutronHTTPGetMethod
+Wed May 16 00:03:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:14 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-neutronHTTPPostMethod
+Wed May 16 00:03:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:15 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-neutronHTTPDeleteMethod
+Wed May 16 00:03:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:15 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-neutronNodesFail
+Wed May 16 00:03:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:15 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-resourceHttpDeleteInstances
+Wed May 16 00:03:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:15 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-neutronHTTPPutMethod
+Wed May 16 00:03:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:16 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-neutronHTTPPutUriMethod
+Wed May 16 00:03:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:16 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-resourceHttpPutInstances
+Wed May 16 00:03:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:16 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-resourceHttpGetInstances
+Wed May 16 00:03:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:16 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest-resourceHttpPostInstances
+Wed May 16 00:03:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:17 UTC 2018: Linking done for joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronRestApiTest
+Wed May 16 00:03:17 UTC 2018: Found element on the queue
+Wed May 16 00:03:17 UTC 2018: Updating status
+Wed May 16 00:03:17 UTC 2018: Working
+Wed May 16 00:03:20 UTC 2018: Start joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronEnumsTest
+Wed May 16 00:03:20 UTC 2018: Setting lastTestMethodIndex: 52284
+Wed May 16 00:03:20 UTC 2018: Starting linking
+Wed May 16 00:03:20 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronEnumsTest-enumsUrlFormatTest5
+Wed May 16 00:03:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:20 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronEnumsTest-enumsUrlFormatTest1
+Wed May 16 00:03:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:20 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronEnumsTest-enumsUrlFormatTest2
+Wed May 16 00:03:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:20 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronEnumsTest-enumsUrlFormatTest3
+Wed May 16 00:03:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:21 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronEnumsTest-enumsUrlFormatTest4
+Wed May 16 00:03:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:21 UTC 2018: Linking done for joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronEnumsTest
+Wed May 16 00:03:21 UTC 2018: Found element on the queue
+Wed May 16 00:03:21 UTC 2018: Updating status
+Wed May 16 00:03:21 UTC 2018: Working
+Wed May 16 00:03:24 UTC 2018: Start joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronPortAdapterTest
+Wed May 16 00:03:24 UTC 2018: Setting lastTestMethodIndex: 52287
+Wed May 16 00:03:24 UTC 2018: Starting linking
+Wed May 16 00:03:24 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronPortAdapterTest-gsonNeutronPortMarshalingTest
+Wed May 16 00:03:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:24 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronPortAdapterTest-gsonNeutronPortUnmarshalingTest
+Wed May 16 00:03:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:24 UTC 2018: Linking done for joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronPortAdapterTest
+Wed May 16 00:03:25 UTC 2018: Found element on the queue
+Wed May 16 00:03:25 UTC 2018: Updating status
+Wed May 16 00:03:25 UTC 2018: Working
+Wed May 16 00:03:27 UTC 2018: Start joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronNodeAdapterTest
+Wed May 16 00:03:27 UTC 2018: Setting lastTestMethodIndex: 52289
+Wed May 16 00:03:27 UTC 2018: Starting linking
+Wed May 16 00:03:27 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronNodeAdapterTest-gsonNeutronPortUnmarshalingTest
+Wed May 16 00:03:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:27 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronNodeAdapterTest-gsonNeutronPortUnmarshalingNullTest
+Wed May 16 00:03:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:28 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronNodeAdapterTest-gsonNeutronPortMarshalingTest
+Wed May 16 00:03:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:28 UTC 2018: Linking done for joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronNodeAdapterTest
+Wed May 16 00:03:28 UTC 2018: Found element on the queue
+Wed May 16 00:03:28 UTC 2018: Updating status
+Wed May 16 00:03:28 UTC 2018: Working
+Wed May 16 00:03:31 UTC 2018: Start joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronNetworkAdapterTest
+Wed May 16 00:03:31 UTC 2018: Setting lastTestMethodIndex: 52293
+Wed May 16 00:03:31 UTC 2018: Starting linking
+Wed May 16 00:03:31 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronNetworkAdapterTest-gsonNeutronNetworkUnmarshalingTest
+Wed May 16 00:03:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:31 UTC 2018: No link for: org.apache.cloudstack.network.opendaylight.api.test.NeutronNetworkAdapterTest-gsonNeutronNetworkMarshalingTest
+Wed May 16 00:03:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 00:03:31 UTC 2018: Linking done for joansmith2__cloudstack test class org.apache.cloudstack.network.opendaylight.api.test.NeutronNetworkAdapterTest

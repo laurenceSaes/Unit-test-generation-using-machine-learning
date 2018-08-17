@@ -1,0 +1,1185 @@
+Wed May 16 04:31:50 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 04:31:50 UTC 2018: Starting
+Wed May 16 04:31:51 UTC 2018: Found element on the queue
+Wed May 16 04:31:51 UTC 2018: Updating status
+Wed May 16 04:31:51 UTC 2018: Working
+Wed May 16 04:31:51 UTC 2018: Create project parser
+Wed May 16 04:32:03 UTC 2018: Create slicer
+Wed May 16 04:32:06 UTC 2018: Create call graph
+Wed May 16 04:32:14 UTC 2018: Create point analysis
+Wed May 16 04:32:14 UTC 2018: Create call graph done
+Wed May 16 04:32:14 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.LZMATestCase
+Wed May 16 04:32:14 UTC 2018: Setting lastTestMethodIndex: 61740
+Wed May 16 04:32:14 UTC 2018: Starting linking
+Wed May 16 04:32:14 UTC 2018: No link for: org.apache.commons.compress.compressors.LZMATestCase-testLZMAUnarchive
+Wed May 16 04:32:14 UTC 2018: No link for: org.apache.commons.compress.compressors.LZMATestCase-testLZMAUnarchiveWithAutodetection
+Wed May 16 04:32:14 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.LZMATestCase
+Wed May 16 04:32:15 UTC 2018: Found element on the queue
+Wed May 16 04:32:15 UTC 2018: Updating status
+Wed May 16 04:32:15 UTC 2018: Working
+Wed May 16 04:32:17 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.FramedSnappyTestCase
+Wed May 16 04:32:17 UTC 2018: Setting lastTestMethodIndex: 61741
+Wed May 16 04:32:17 UTC 2018: Starting linking
+Wed May 16 04:32:17 UTC 2018: No link for: org.apache.commons.compress.compressors.FramedSnappyTestCase-testDefaultExtractionViaFactoryAutodetection
+Wed May 16 04:32:18 UTC 2018: No link for: org.apache.commons.compress.compressors.FramedSnappyTestCase-testDefaultExtraction
+Wed May 16 04:32:18 UTC 2018: No link for: org.apache.commons.compress.compressors.FramedSnappyTestCase-testDefaultExtractionViaFactory
+Wed May 16 04:32:19 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.FramedSnappyTestCase
+Wed May 16 04:32:19 UTC 2018: Found element on the queue
+Wed May 16 04:32:19 UTC 2018: Updating status
+Wed May 16 04:32:19 UTC 2018: Working
+Wed May 16 04:32:22 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.GzipUtilsTestCase
+Wed May 16 04:32:22 UTC 2018: Setting lastTestMethodIndex: 61742
+Wed May 16 04:32:22 UTC 2018: Starting linking
+Wed May 16 04:32:22 UTC 2018: Code found org.apache.commons.compress.compressors.gzip.GzipUtils-isCompressedFilename with org.apache.commons.compress.compressors.GzipUtilsTestCase-testIsCompressedFilename
+Wed May 16 04:32:23 UTC 2018: Code found org.apache.commons.compress.compressors.gzip.GzipUtils-getUncompressedFilename with org.apache.commons.compress.compressors.GzipUtilsTestCase-testGetUncompressedFilename
+Wed May 16 04:32:23 UTC 2018: Code found org.apache.commons.compress.compressors.gzip.GzipUtils-getCompressedFilename with org.apache.commons.compress.compressors.GzipUtilsTestCase-testGetCompressedFilename
+Wed May 16 04:32:24 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.GzipUtilsTestCase
+Wed May 16 04:32:24 UTC 2018: Found element on the queue
+Wed May 16 04:32:24 UTC 2018: Updating status
+Wed May 16 04:32:24 UTC 2018: Working
+Wed May 16 04:32:27 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.XZTestCase
+Wed May 16 04:32:27 UTC 2018: Setting lastTestMethodIndex: 61743
+Wed May 16 04:32:27 UTC 2018: Starting linking
+Wed May 16 04:32:27 UTC 2018: No code found org.apache.commons.compress.compressors.CompressorInputStream-read with org.apache.commons.compress.compressors.XZTestCase-testConcatenatedStreamsReadFully
+Wed May 16 04:32:27 UTC 2018: No code found org.apache.commons.compress.compressors.CompressorInputStream-read with org.apache.commons.compress.compressors.XZTestCase-testConcatenatedStreamsReadFirstOnly
+Wed May 16 04:32:27 UTC 2018: No link for: org.apache.commons.compress.compressors.XZTestCase-testXZCreation
+Wed May 16 04:32:28 UTC 2018: No link for: org.apache.commons.compress.compressors.XZTestCase-testXZUnarchive
+Wed May 16 04:32:28 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.XZTestCase
+Wed May 16 04:32:29 UTC 2018: Found element on the queue
+Wed May 16 04:32:29 UTC 2018: Updating status
+Wed May 16 04:32:29 UTC 2018: Working
+Wed May 16 04:32:31 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.BZip2TestCase
+Wed May 16 04:32:31 UTC 2018: Setting lastTestMethodIndex: 61744
+Wed May 16 04:32:31 UTC 2018: Starting linking
+Wed May 16 04:32:31 UTC 2018: No code found org.apache.commons.compress.compressors.CompressorInputStream-read with org.apache.commons.compress.compressors.BZip2TestCase-testConcatenatedStreamsReadFirstOnly
+Wed May 16 04:32:32 UTC 2018: No code found org.apache.commons.compress.compressors.CompressorInputStream-read with org.apache.commons.compress.compressors.BZip2TestCase-testConcatenatedStreamsReadFully
+Wed May 16 04:32:32 UTC 2018: No link for: org.apache.commons.compress.compressors.BZip2TestCase-testCOMPRESS131
+Wed May 16 04:32:33 UTC 2018: No link for: org.apache.commons.compress.compressors.BZip2TestCase-testBzipCreation
+Wed May 16 04:32:34 UTC 2018: No link for: org.apache.commons.compress.compressors.BZip2TestCase-testBzip2Unarchive
+Wed May 16 04:32:34 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.BZip2TestCase
+Wed May 16 04:32:35 UTC 2018: Found element on the queue
+Wed May 16 04:32:35 UTC 2018: Updating status
+Wed May 16 04:32:35 UTC 2018: Working
+Wed May 16 04:32:37 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase
+Wed May 16 04:32:37 UTC 2018: Setting lastTestMethodIndex: 61746
+Wed May 16 04:32:37 UTC 2018: Starting linking
+Wed May 16 04:32:37 UTC 2018: Code found org.apache.commons.compress.compressors.lzma.LZMAUtils-isCompressedFilename with org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase-testIsCompressedFilename
+Wed May 16 04:32:38 UTC 2018: Code found org.apache.commons.compress.compressors.lzma.LZMAUtils-getUncompressedFilename with org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase-testGetUncompressedFilename
+Wed May 16 04:32:38 UTC 2018: Code found org.apache.commons.compress.compressors.lzma.LZMAUtils-getCompressedFilename with org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase-testGetCompressedFilename
+Wed May 16 04:32:38 UTC 2018: Code found org.apache.commons.compress.compressors.lzma.LZMAUtils-matches with org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase-testMatches
+Wed May 16 04:32:39 UTC 2018: No link for: org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase-testCanTurnOffCaching
+Wed May 16 04:32:39 UTC 2018: No link for: org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase-testCachingIsEnabledByDefaultAndLZMAIsPresent
+Wed May 16 04:32:39 UTC 2018: No link for: org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase-testTurningOnCachingReEvaluatesAvailability
+Wed May 16 04:32:40 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.lzma.LZMAUtilsTestCase
+Wed May 16 04:32:40 UTC 2018: Found element on the queue
+Wed May 16 04:32:40 UTC 2018: Updating status
+Wed May 16 04:32:40 UTC 2018: Working
+Wed May 16 04:32:42 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest
+Wed May 16 04:32:42 UTC 2018: Setting lastTestMethodIndex: 61748
+Wed May 16 04:32:42 UTC 2018: Starting linking
+Wed May 16 04:32:42 UTC 2018: Code found org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream-read with org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest-singleByteReadWorksAsExpected
+Wed May 16 04:32:43 UTC 2018: Code found org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream-available with org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest-availableShouldReturnNonZero
+Wed May 16 04:32:43 UTC 2018: Code found org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream-read with org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest-singleByteReadReturnsMinusOneAtEof
+Wed May 16 04:32:43 UTC 2018: Code found org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStream-skip with org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest-shouldBeAbleToSkipAByte
+Wed May 16 04:32:44 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.deflate.DeflateCompressorInputStreamTest
+Wed May 16 04:32:44 UTC 2018: Found element on the queue
+Wed May 16 04:32:44 UTC 2018: Updating status
+Wed May 16 04:32:44 UTC 2018: Working
+Wed May 16 04:32:47 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.deflate.DeflateParametersTest
+Wed May 16 04:32:47 UTC 2018: Setting lastTestMethodIndex: 61750
+Wed May 16 04:32:47 UTC 2018: Starting linking
+Wed May 16 04:32:47 UTC 2018: Code found org.apache.commons.compress.compressors.deflate.DeflateParameters-setCompressionLevel with org.apache.commons.compress.compressors.deflate.DeflateParametersTest-shouldBeAbleToSetCompressionLevel
+Wed May 16 04:32:47 UTC 2018: Code found org.apache.commons.compress.compressors.deflate.DeflateParameters-setCompressionLevel with org.apache.commons.compress.compressors.deflate.DeflateParametersTest-shouldNotBeAbleToSetCompressionLevelToANegativeValue
+Wed May 16 04:32:47 UTC 2018: Code found org.apache.commons.compress.compressors.deflate.DeflateParameters-setCompressionLevel with org.apache.commons.compress.compressors.deflate.DeflateParametersTest-shouldNotBeAbleToSetCompressionLevelToADoubleDigitValue
+Wed May 16 04:32:48 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.deflate.DeflateParametersTest
+Wed May 16 04:32:48 UTC 2018: Found element on the queue
+Wed May 16 04:32:48 UTC 2018: Updating status
+Wed May 16 04:32:48 UTC 2018: Working
+Wed May 16 04:32:50 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.deflate.DeflateCompressorOutputStreamTest
+Wed May 16 04:32:50 UTC 2018: Setting lastTestMethodIndex: 61751
+Wed May 16 04:32:50 UTC 2018: Starting linking
+Wed May 16 04:32:50 UTC 2018: Code found org.apache.commons.compress.compressors.deflate.DeflateCompressorOutputStream-finish with org.apache.commons.compress.compressors.deflate.DeflateCompressorOutputStreamTest-canReadASingleByteFlushAndFinish
+Wed May 16 04:32:51 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.deflate.DeflateCompressorOutputStreamTest
+Wed May 16 04:32:51 UTC 2018: Found element on the queue
+Wed May 16 04:32:51 UTC 2018: Updating status
+Wed May 16 04:32:51 UTC 2018: Working
+Wed May 16 04:32:54 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest
+Wed May 16 04:32:54 UTC 2018: Setting lastTestMethodIndex: 61753
+Wed May 16 04:32:54 UTC 2018: Starting linking
+Wed May 16 04:32:54 UTC 2018: Code found org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream-matches with org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest-testMatches
+Wed May 16 04:32:54 UTC 2018: Code found org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStream-available with org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest-testAvailable
+Wed May 16 04:32:54 UTC 2018: No link for: org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest-readIWAFile
+Wed May 16 04:32:55 UTC 2018: No link for: org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest-testUnskippableChunk
+Wed May 16 04:32:55 UTC 2018: No link for: org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest-testRemainingChunkTypes
+Wed May 16 04:32:55 UTC 2018: No link for: org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest-testLoremIpsum
+Wed May 16 04:32:56 UTC 2018: No link for: org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest-testChecksumUnmasking
+Wed May 16 04:32:56 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.snappy.FramedSnappyCompressorInputStreamTest
+Wed May 16 04:32:56 UTC 2018: Found element on the queue
+Wed May 16 04:32:56 UTC 2018: Updating status
+Wed May 16 04:32:56 UTC 2018: Working
+Wed May 16 04:32:59 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.BZip2UtilsTestCase
+Wed May 16 04:32:59 UTC 2018: Setting lastTestMethodIndex: 61755
+Wed May 16 04:32:59 UTC 2018: Starting linking
+Wed May 16 04:32:59 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BZip2Utils-isCompressedFilename with org.apache.commons.compress.compressors.BZip2UtilsTestCase-testIsCompressedFilename
+Wed May 16 04:32:59 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BZip2Utils-getCompressedFilename with org.apache.commons.compress.compressors.BZip2UtilsTestCase-testGetCompressedFilename
+Wed May 16 04:32:59 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BZip2Utils-getUncompressedFilename with org.apache.commons.compress.compressors.BZip2UtilsTestCase-testGetUncompressedFilename
+Wed May 16 04:33:00 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.BZip2UtilsTestCase
+Wed May 16 04:33:00 UTC 2018: Found element on the queue
+Wed May 16 04:33:00 UTC 2018: Updating status
+Wed May 16 04:33:00 UTC 2018: Working
+Wed May 16 04:33:03 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.DetectCompressorTestCase
+Wed May 16 04:33:03 UTC 2018: Setting lastTestMethodIndex: 61756
+Wed May 16 04:33:03 UTC 2018: Starting linking
+Wed May 16 04:33:03 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.DetectCompressorTestCase
+Wed May 16 04:33:03 UTC 2018: Found element on the queue
+Wed May 16 04:33:03 UTC 2018: Updating status
+Wed May 16 04:33:03 UTC 2018: Working
+Wed May 16 04:33:05 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.pack200.Pack200UtilsTest
+Wed May 16 04:33:05 UTC 2018: Setting lastTestMethodIndex: 61758
+Wed May 16 04:33:05 UTC 2018: Starting linking
+Wed May 16 04:33:05 UTC 2018: Code found org.apache.commons.compress.compressors.pack200.Pack200Utils-normalize with org.apache.commons.compress.compressors.pack200.Pack200UtilsTest-testNormalize
+Wed May 16 04:33:06 UTC 2018: Code found org.apache.commons.compress.compressors.pack200.Pack200Utils-normalize with org.apache.commons.compress.compressors.pack200.Pack200UtilsTest-testNormalizeInPlace
+Wed May 16 04:33:06 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.pack200.Pack200UtilsTest
+Wed May 16 04:33:06 UTC 2018: Found element on the queue
+Wed May 16 04:33:06 UTC 2018: Updating status
+Wed May 16 04:33:07 UTC 2018: Working
+Wed May 16 04:33:09 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamTest
+Wed May 16 04:33:09 UTC 2018: Setting lastTestMethodIndex: 61759
+Wed May 16 04:33:09 UTC 2018: Starting linking
+Wed May 16 04:33:09 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStream-read with org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamTest-readOfLength0ShouldReturn0
+Wed May 16 04:33:10 UTC 2018: No link for: org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamTest-shouldThrowAnIOExceptionWhenAppliedToAZipFile
+Wed May 16 04:33:10 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.bzip2.BZip2CompressorInputStreamTest
+Wed May 16 04:33:10 UTC 2018: Found element on the queue
+Wed May 16 04:33:10 UTC 2018: Updating status
+Wed May 16 04:33:10 UTC 2018: Working
+Wed May 16 04:33:13 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.bzip2.BlockSortTest
+Wed May 16 04:33:13 UTC 2018: Setting lastTestMethodIndex: 61761
+Wed May 16 04:33:13 UTC 2018: Starting linking
+Wed May 16 04:33:13 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BlockSort-fallbackSort with org.apache.commons.compress.compressors.bzip2.BlockSortTest-testSortFixture2FallbackSort
+Wed May 16 04:33:13 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BlockSort-mainSort with org.apache.commons.compress.compressors.bzip2.BlockSortTest-testSortFixture2MainSort
+Wed May 16 04:33:13 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BlockSort-fallbackSort with org.apache.commons.compress.compressors.bzip2.BlockSortTest-testFallbackSort
+Wed May 16 04:33:14 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BlockSort-mainSort with org.apache.commons.compress.compressors.bzip2.BlockSortTest-testSortFixtureMainSort
+Wed May 16 04:33:14 UTC 2018: Code found org.apache.commons.compress.compressors.bzip2.BlockSort-fallbackSort with org.apache.commons.compress.compressors.bzip2.BlockSortTest-testSortFixtureFallbackSort
+Wed May 16 04:33:14 UTC 2018: No link for: org.apache.commons.compress.compressors.bzip2.BlockSortTest-testSortFixture
+Wed May 16 04:33:15 UTC 2018: No link for: org.apache.commons.compress.compressors.bzip2.BlockSortTest-testSortFixture2
+Wed May 16 04:33:15 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.bzip2.BlockSortTest
+Wed May 16 04:33:15 UTC 2018: Found element on the queue
+Wed May 16 04:33:15 UTC 2018: Updating status
+Wed May 16 04:33:15 UTC 2018: Working
+Wed May 16 04:33:18 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.bzip2.PythonTruncatedBzip2Test
+Wed May 16 04:33:18 UTC 2018: Setting lastTestMethodIndex: 61764
+Wed May 16 04:33:18 UTC 2018: Starting linking
+Wed May 16 04:33:18 UTC 2018: No link for: org.apache.commons.compress.compressors.bzip2.PythonTruncatedBzip2Test-testPartialReadTruncatedData
+Wed May 16 04:33:18 UTC 2018: No link for: org.apache.commons.compress.compressors.bzip2.PythonTruncatedBzip2Test-testTruncatedData
+Wed May 16 04:33:19 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.bzip2.PythonTruncatedBzip2Test
+Wed May 16 04:33:19 UTC 2018: Found element on the queue
+Wed May 16 04:33:19 UTC 2018: Updating status
+Wed May 16 04:33:19 UTC 2018: Working
+Wed May 16 04:33:21 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.GZipTestCase
+Wed May 16 04:33:21 UTC 2018: Setting lastTestMethodIndex: 61766
+Wed May 16 04:33:21 UTC 2018: Starting linking
+Wed May 16 04:33:21 UTC 2018: No code found org.apache.commons.compress.compressors.CompressorInputStream-read with org.apache.commons.compress.compressors.GZipTestCase-testConcatenatedStreamsReadFirstOnly
+Wed May 16 04:33:22 UTC 2018: No code found org.apache.commons.compress.compressors.CompressorInputStream-read with org.apache.commons.compress.compressors.GZipTestCase-testConcatenatedStreamsReadFully
+Wed May 16 04:33:22 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testInvalidCompressionLevel
+Wed May 16 04:33:22 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testExtraFlagsFastestCompression
+Wed May 16 04:33:23 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testGzipCreation
+Wed May 16 04:33:23 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testGzipUnarchive
+Wed May 16 04:33:23 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testCorruptedInput
+Wed May 16 04:33:24 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testInteroperabilityWithGzipCompressorInputStream
+Wed May 16 04:33:24 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testMetadataRoundTrip
+Wed May 16 04:33:25 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testInteroperabilityWithGZIPInputStream
+Wed May 16 04:33:25 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testExtraFlagsBestCompression
+Wed May 16 04:33:25 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testExtraFlagsDefaultCompression
+Wed May 16 04:33:26 UTC 2018: No link for: org.apache.commons.compress.compressors.GZipTestCase-testOverWrite
+Wed May 16 04:33:26 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.GZipTestCase
+Wed May 16 04:33:26 UTC 2018: Found element on the queue
+Wed May 16 04:33:26 UTC 2018: Updating status
+Wed May 16 04:33:26 UTC 2018: Working
+Wed May 16 04:33:29 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.ZTestCase
+Wed May 16 04:33:29 UTC 2018: Setting lastTestMethodIndex: 61768
+Wed May 16 04:33:29 UTC 2018: Starting linking
+Wed May 16 04:33:29 UTC 2018: Code found org.apache.commons.compress.compressors.z.ZCompressorInputStream-matches with org.apache.commons.compress.compressors.ZTestCase-testMatches
+Wed May 16 04:33:29 UTC 2018: No link for: org.apache.commons.compress.compressors.ZTestCase-testZUnarchiveViaFactory
+Wed May 16 04:33:29 UTC 2018: No link for: org.apache.commons.compress.compressors.ZTestCase-testZUnarchive
+Wed May 16 04:33:30 UTC 2018: No link for: org.apache.commons.compress.compressors.ZTestCase-testZUnarchiveViaAutoDetection
+Wed May 16 04:33:30 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.ZTestCase
+Wed May 16 04:33:30 UTC 2018: Found element on the queue
+Wed May 16 04:33:30 UTC 2018: Updating status
+Wed May 16 04:33:30 UTC 2018: Working
+Wed May 16 04:33:33 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.xz.XZUtilsTestCase
+Wed May 16 04:33:33 UTC 2018: Setting lastTestMethodIndex: 61770
+Wed May 16 04:33:33 UTC 2018: Starting linking
+Wed May 16 04:33:33 UTC 2018: Code found org.apache.commons.compress.compressors.xz.XZUtils-getCompressedFilename with org.apache.commons.compress.compressors.xz.XZUtilsTestCase-testGetCompressedFilename
+Wed May 16 04:33:33 UTC 2018: Code found org.apache.commons.compress.compressors.xz.XZUtils-getUncompressedFilename with org.apache.commons.compress.compressors.xz.XZUtilsTestCase-testGetUncompressedFilename
+Wed May 16 04:33:33 UTC 2018: Code found org.apache.commons.compress.compressors.xz.XZUtils-isCompressedFilename with org.apache.commons.compress.compressors.xz.XZUtilsTestCase-testIsCompressedFilename
+Wed May 16 04:33:34 UTC 2018: Code found org.apache.commons.compress.compressors.xz.XZUtils-matches with org.apache.commons.compress.compressors.xz.XZUtilsTestCase-testMatches
+Wed May 16 04:33:34 UTC 2018: No link for: org.apache.commons.compress.compressors.xz.XZUtilsTestCase-testCachingIsEnabledByDefaultAndXZIsPresent
+Wed May 16 04:33:34 UTC 2018: No link for: org.apache.commons.compress.compressors.xz.XZUtilsTestCase-testTurningOnCachingReEvaluatesAvailability
+Wed May 16 04:33:35 UTC 2018: No link for: org.apache.commons.compress.compressors.xz.XZUtilsTestCase-testCanTurnOffCaching
+Wed May 16 04:33:35 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.xz.XZUtilsTestCase
+Wed May 16 04:33:35 UTC 2018: Found element on the queue
+Wed May 16 04:33:35 UTC 2018: Updating status
+Wed May 16 04:33:35 UTC 2018: Working
+Wed May 16 04:33:38 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.xz.XZCompressorInputStreamTest
+Wed May 16 04:33:38 UTC 2018: Setting lastTestMethodIndex: 61771
+Wed May 16 04:33:38 UTC 2018: Starting linking
+Wed May 16 04:33:38 UTC 2018: Code found org.apache.commons.compress.compressors.xz.XZCompressorInputStream-matches with org.apache.commons.compress.compressors.xz.XZCompressorInputStreamTest-redundantTestOfAlmostDeprecatedMatchesMethod
+Wed May 16 04:33:38 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.xz.XZCompressorInputStreamTest
+Wed May 16 04:33:39 UTC 2018: Found element on the queue
+Wed May 16 04:33:39 UTC 2018: Updating status
+Wed May 16 04:33:39 UTC 2018: Working
+Wed May 16 04:33:41 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.Pack200TestCase
+Wed May 16 04:33:41 UTC 2018: Setting lastTestMethodIndex: 61773
+Wed May 16 04:33:41 UTC 2018: Starting linking
+Wed May 16 04:33:41 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testGoodSignature
+Wed May 16 04:33:41 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testInputStreamMethods
+Wed May 16 04:33:42 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testJarUnarchiveAllFileArgInMemory
+Wed May 16 04:33:42 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testJarUnarchiveAllTempFile
+Wed May 16 04:33:42 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testOutputStreamMethods
+Wed May 16 04:33:43 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testShortSignature
+Wed May 16 04:33:43 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testJarUnarchiveAllFileTempFile
+Wed May 16 04:33:43 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testBadSignature
+Wed May 16 04:33:44 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testJarUnarchiveAllInMemory
+Wed May 16 04:33:44 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testJarArchiveCreationInMemory
+Wed May 16 04:33:44 UTC 2018: No link for: org.apache.commons.compress.compressors.Pack200TestCase-testJarArchiveCreationTempFile
+Wed May 16 04:33:45 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.Pack200TestCase
+Wed May 16 04:33:45 UTC 2018: Found element on the queue
+Wed May 16 04:33:45 UTC 2018: Updating status
+Wed May 16 04:33:45 UTC 2018: Working
+Wed May 16 04:33:47 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.DeflateTestCase
+Wed May 16 04:33:47 UTC 2018: Setting lastTestMethodIndex: 61776
+Wed May 16 04:33:47 UTC 2018: Starting linking
+Wed May 16 04:33:47 UTC 2018: No link for: org.apache.commons.compress.compressors.DeflateTestCase-testDeflateCreation
+Wed May 16 04:33:48 UTC 2018: No link for: org.apache.commons.compress.compressors.DeflateTestCase-testRawDeflateCreation
+Wed May 16 04:33:48 UTC 2018: No link for: org.apache.commons.compress.compressors.DeflateTestCase-testRawDeflateUnarchive
+Wed May 16 04:33:48 UTC 2018: No link for: org.apache.commons.compress.compressors.DeflateTestCase-testDeflateUnarchive
+Wed May 16 04:33:49 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.DeflateTestCase
+Wed May 16 04:33:49 UTC 2018: Found element on the queue
+Wed May 16 04:33:49 UTC 2018: Updating status
+Wed May 16 04:33:49 UTC 2018: Working
+Wed May 16 04:33:52 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.compressors.CompressorStreamFactoryRoundtripTest
+Wed May 16 04:33:52 UTC 2018: Setting lastTestMethodIndex: 61777
+Wed May 16 04:33:52 UTC 2018: Starting linking
+Wed May 16 04:33:52 UTC 2018: No link for: org.apache.commons.compress.compressors.CompressorStreamFactoryRoundtripTest-testCompressorStreamFactoryRoundtrip
+Wed May 16 04:33:52 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.compressors.CompressorStreamFactoryRoundtripTest
+Wed May 16 04:33:52 UTC 2018: Found element on the queue
+Wed May 16 04:33:52 UTC 2018: Updating status
+Wed May 16 04:33:52 UTC 2018: Working
+Wed May 16 04:33:55 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.ChainingTestCase
+Wed May 16 04:33:55 UTC 2018: Setting lastTestMethodIndex: 61778
+Wed May 16 04:33:55 UTC 2018: Starting linking
+Wed May 16 04:33:55 UTC 2018: No link for: org.apache.commons.compress.ChainingTestCase-testTarGzip
+Wed May 16 04:33:55 UTC 2018: No link for: org.apache.commons.compress.ChainingTestCase-testTarBzip2
+Wed May 16 04:33:55 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.ChainingTestCase
+Wed May 16 04:33:56 UTC 2018: Found element on the queue
+Wed May 16 04:33:56 UTC 2018: Updating status
+Wed May 16 04:33:56 UTC 2018: Working
+Wed May 16 04:33:58 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.changes.ChangeSetTestCase
+Wed May 16 04:33:58 UTC 2018: Setting lastTestMethodIndex: 61780
+Wed May 16 04:33:58 UTC 2018: Starting linking
+Wed May 16 04:33:58 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromAndAddToAr
+Wed May 16 04:33:59 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-add with org.apache.commons.compress.changes.ChangeSetTestCase-testAddToEmptyArchive
+Wed May 16 04:33:59 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-add with org.apache.commons.compress.changes.ChangeSetTestCase-testAddAllreadyExistingWithReplaceFalse
+Wed May 16 04:33:59 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-deleteDir with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteDir2
+Wed May 16 04:34:00 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFile2
+Wed May 16 04:34:00 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-deleteDir with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteDir3
+Wed May 16 04:34:00 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-add with org.apache.commons.compress.changes.ChangeSetTestCase-testAddDeleteAdd
+Wed May 16 04:34:01 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromTar
+Wed May 16 04:34:01 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-add with org.apache.commons.compress.changes.ChangeSetTestCase-testAddChangeTwiceWithoutReplace
+Wed May 16 04:34:01 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromAndAddToTar
+Wed May 16 04:34:02 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromZip
+Wed May 16 04:34:02 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-add with org.apache.commons.compress.changes.ChangeSetTestCase-testAddChangeTwice
+Wed May 16 04:34:02 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFile
+Wed May 16 04:34:03 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromAr
+Wed May 16 04:34:03 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromAndAddToJar
+Wed May 16 04:34:03 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromAndAddToZipUsingZipFilePerform
+Wed May 16 04:34:04 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromJar
+Wed May 16 04:34:04 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteFromAndAddToZip
+Wed May 16 04:34:04 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-add with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteAddDelete
+Wed May 16 04:34:05 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteAddToOneFileArchive
+Wed May 16 04:34:05 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-deleteDir with org.apache.commons.compress.changes.ChangeSetTestCase-testDeleteDir
+Wed May 16 04:34:05 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testAddDeleteToOneFileArchive
+Wed May 16 04:34:06 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-delete with org.apache.commons.compress.changes.ChangeSetTestCase-testDeletePlusAddSame
+Wed May 16 04:34:06 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-add with org.apache.commons.compress.changes.ChangeSetTestCase-testAddAllreadyExistingWithReplaceTrue
+Wed May 16 04:34:06 UTC 2018: Code found org.apache.commons.compress.changes.ChangeSet-add with org.apache.commons.compress.changes.ChangeSetTestCase-testDeletePlusAdd
+Wed May 16 04:34:07 UTC 2018: No link for: org.apache.commons.compress.changes.ChangeSetTestCase-testChangeSetResults
+Wed May 16 04:34:07 UTC 2018: No link for: org.apache.commons.compress.changes.ChangeSetTestCase-testRenameAndDelete
+Wed May 16 04:34:07 UTC 2018: No link for: org.apache.commons.compress.changes.ChangeSetTestCase-testAddMoveDelete
+Wed May 16 04:34:08 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.changes.ChangeSetTestCase
+Wed May 16 04:34:08 UTC 2018: Found element on the queue
+Wed May 16 04:34:08 UTC 2018: Updating status
+Wed May 16 04:34:08 UTC 2018: Working
+Wed May 16 04:34:10 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.utils.CharsetsTest
+Wed May 16 04:34:10 UTC 2018: Setting lastTestMethodIndex: 61784
+Wed May 16 04:34:10 UTC 2018: Starting linking
+Wed May 16 04:34:10 UTC 2018: Code found org.apache.commons.compress.utils.Charsets-toCharset with org.apache.commons.compress.utils.CharsetsTest-testToCharset
+Wed May 16 04:34:11 UTC 2018: No link for: org.apache.commons.compress.utils.CharsetsTest-testUtf16
+Wed May 16 04:34:11 UTC 2018: No link for: org.apache.commons.compress.utils.CharsetsTest-testIso8859_1
+Wed May 16 04:34:11 UTC 2018: No link for: org.apache.commons.compress.utils.CharsetsTest-testUsAscii
+Wed May 16 04:34:12 UTC 2018: No link for: org.apache.commons.compress.utils.CharsetsTest-testUtf16Le
+Wed May 16 04:34:12 UTC 2018: No link for: org.apache.commons.compress.utils.CharsetsTest-testUtf16Be
+Wed May 16 04:34:12 UTC 2018: No link for: org.apache.commons.compress.utils.CharsetsTest-testUtf8
+Wed May 16 04:34:13 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.utils.CharsetsTest
+Wed May 16 04:34:13 UTC 2018: Found element on the queue
+Wed May 16 04:34:13 UTC 2018: Updating status
+Wed May 16 04:34:13 UTC 2018: Working
+Wed May 16 04:34:15 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.utils.BitInputStreamTest
+Wed May 16 04:34:15 UTC 2018: Setting lastTestMethodIndex: 61787
+Wed May 16 04:34:15 UTC 2018: Starting linking
+Wed May 16 04:34:15 UTC 2018: Code found org.apache.commons.compress.utils.BitInputStream-clearBitCache with org.apache.commons.compress.utils.BitInputStreamTest-testClearBitCache
+Wed May 16 04:34:16 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testReading17BitsInBigEndian
+Wed May 16 04:34:16 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testReading31BitsInBigEndian
+Wed May 16 04:34:16 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-littleEndianWithOverflow
+Wed May 16 04:34:17 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testReading31BitsInLittleEndian
+Wed May 16 04:34:17 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testReading17BitsInLittleEndian
+Wed May 16 04:34:17 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testReading24BitsInLittleEndian
+Wed May 16 04:34:18 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testEOF
+Wed May 16 04:34:18 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testReading24BitsInBigEndian
+Wed May 16 04:34:18 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testReading30BitsInBigEndian
+Wed May 16 04:34:19 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-bigEndianWithOverflow
+Wed May 16 04:34:19 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-shouldNotAllowReadingOfANegativeAmountOfBits
+Wed May 16 04:34:19 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-shouldNotAllowReadingOfMoreThan63BitsAtATime
+Wed May 16 04:34:20 UTC 2018: No link for: org.apache.commons.compress.utils.BitInputStreamTest-testReading30BitsInLittleEndian
+Wed May 16 04:34:20 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.utils.BitInputStreamTest
+Wed May 16 04:34:20 UTC 2018: Found element on the queue
+Wed May 16 04:34:20 UTC 2018: Updating status
+Wed May 16 04:34:20 UTC 2018: Working
+Wed May 16 04:34:23 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.utils.IOUtilsTest
+Wed May 16 04:34:23 UTC 2018: Setting lastTestMethodIndex: 61789
+Wed May 16 04:34:23 UTC 2018: Starting linking
+Wed May 16 04:34:23 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.utils.IOUtilsTest
+Wed May 16 04:34:23 UTC 2018: Found element on the queue
+Wed May 16 04:34:23 UTC 2018: Updating status
+Wed May 16 04:34:23 UTC 2018: Working
+Wed May 16 04:34:26 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.utils.CountingStreamTest
+Wed May 16 04:34:26 UTC 2018: Setting lastTestMethodIndex: 61791
+Wed May 16 04:34:26 UTC 2018: Starting linking
+Wed May 16 04:34:26 UTC 2018: No link for: org.apache.commons.compress.utils.CountingStreamTest-output
+Wed May 16 04:34:26 UTC 2018: No link for: org.apache.commons.compress.utils.CountingStreamTest-input
+Wed May 16 04:34:26 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.utils.CountingStreamTest
+Wed May 16 04:34:27 UTC 2018: Found element on the queue
+Wed May 16 04:34:27 UTC 2018: Updating status
+Wed May 16 04:34:27 UTC 2018: Working
+Wed May 16 04:34:29 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.ArchiveReadTest
+Wed May 16 04:34:29 UTC 2018: Setting lastTestMethodIndex: 61792
+Wed May 16 04:34:29 UTC 2018: Starting linking
+Wed May 16 04:34:29 UTC 2018: No link for: org.apache.commons.compress.ArchiveReadTest-testArchive
+Wed May 16 04:34:29 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.ArchiveReadTest
+Wed May 16 04:34:30 UTC 2018: Found element on the queue
+Wed May 16 04:34:30 UTC 2018: Updating status
+Wed May 16 04:34:30 UTC 2018: Working
+Wed May 16 04:34:32 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.ArchiveUtilsTest
+Wed May 16 04:34:32 UTC 2018: Setting lastTestMethodIndex: 61794
+Wed May 16 04:34:32 UTC 2018: Starting linking
+Wed May 16 04:34:32 UTC 2018: Code found org.apache.commons.compress.utils.ArchiveUtils-sanitize with org.apache.commons.compress.ArchiveUtilsTest-sanitizeLeavesShortStringsAlone
+Wed May 16 04:34:32 UTC 2018: Code found org.apache.commons.compress.utils.ArchiveUtils-sanitize with org.apache.commons.compress.ArchiveUtilsTest-sanitizeRemovesUnprintableCharacters
+Wed May 16 04:34:33 UTC 2018: Code found org.apache.commons.compress.utils.ArchiveUtils-sanitize with org.apache.commons.compress.ArchiveUtilsTest-sanitizeShortensString
+Wed May 16 04:34:33 UTC 2018: No link for: org.apache.commons.compress.ArchiveUtilsTest-testCompareAscii
+Wed May 16 04:34:33 UTC 2018: No link for: org.apache.commons.compress.ArchiveUtilsTest-testAsciiConversions
+Wed May 16 04:34:34 UTC 2018: No link for: org.apache.commons.compress.ArchiveUtilsTest-testCompareBA
+Wed May 16 04:34:34 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.ArchiveUtilsTest
+Wed May 16 04:34:34 UTC 2018: Found element on the queue
+Wed May 16 04:34:34 UTC 2018: Updating status
+Wed May 16 04:34:34 UTC 2018: Working
+Wed May 16 04:34:37 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.tar.SparseFilesTest
+Wed May 16 04:34:37 UTC 2018: Setting lastTestMethodIndex: 61796
+Wed May 16 04:34:37 UTC 2018: Starting linking
+Wed May 16 04:34:37 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.SparseFilesTest-testPaxGNU
+Wed May 16 04:34:37 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.SparseFilesTest-testOldGNU
+Wed May 16 04:34:38 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.tar.SparseFilesTest
+Wed May 16 04:34:38 UTC 2018: Found element on the queue
+Wed May 16 04:34:38 UTC 2018: Updating status
+Wed May 16 04:34:38 UTC 2018: Working
+Wed May 16 04:34:40 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.tar.TarUtilsTest
+Wed May 16 04:34:40 UTC 2018: Setting lastTestMethodIndex: 61797
+Wed May 16 04:34:40 UTC 2018: Starting linking
+Wed May 16 04:34:40 UTC 2018: Code found org.apache.commons.compress.archivers.tar.TarUtils-parseOctal with org.apache.commons.compress.archivers.tar.TarUtilsTest-testParseOctalInvalid
+Wed May 16 04:34:41 UTC 2018: Code found org.apache.commons.compress.archivers.tar.TarUtils-parseOctal with org.apache.commons.compress.archivers.tar.TarUtilsTest-testParseOctal
+Wed May 16 04:34:41 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testReadNegativeBinary8Byte
+Wed May 16 04:34:41 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testName
+Wed May 16 04:34:42 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testTrailers
+Wed May 16 04:34:42 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testRoundTripNames
+Wed May 16 04:34:42 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testRoundTripOctalOrBinary12
+Wed May 16 04:34:43 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testOverflow
+Wed May 16 04:34:43 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testRoundTripOctal
+Wed May 16 04:34:43 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testReadNegativeBinary12Byte
+Wed May 16 04:34:44 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testNegative
+Wed May 16 04:34:44 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testVerifyHeaderCheckSum
+Wed May 16 04:34:44 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testParseOctalCompress330
+Wed May 16 04:34:45 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testRoundEncoding
+Wed May 16 04:34:45 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testWriteNegativeBinary8Byte
+Wed May 16 04:34:45 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarUtilsTest-testRoundTripOctalOrBinary8
+Wed May 16 04:34:46 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.tar.TarUtilsTest
+Wed May 16 04:34:46 UTC 2018: Found element on the queue
+Wed May 16 04:34:46 UTC 2018: Updating status
+Wed May 16 04:34:46 UTC 2018: Working
+Wed May 16 04:34:48 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest
+Wed May 16 04:34:48 UTC 2018: Setting lastTestMethodIndex: 61799
+Wed May 16 04:34:48 UTC 2018: Starting linking
+Wed May 16 04:34:48 UTC 2018: Code found org.apache.commons.compress.archivers.tar.TarArchiveOutputStream-write with org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongFileNamePosixMode
+Wed May 16 04:34:49 UTC 2018: Code found org.apache.commons.compress.archivers.tar.TarArchiveOutputStream-write with org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteNonAsciiPathNamePaxHeader
+Wed May 16 04:34:49 UTC 2018: Code found org.apache.commons.compress.archivers.tar.TarArchiveOutputStream-write with org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteNonAsciiLinkPathNamePaxHeader
+Wed May 16 04:34:49 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testRoundtripWith67CharFileNameGnu
+Wed May 16 04:34:49 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongDirectoryNameGnuMode
+Wed May 16 04:34:50 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongDirectoryNameTruncateMode
+Wed May 16 04:34:50 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testPaxHeadersWithLength99
+Wed May 16 04:34:50 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testOldEntryError
+Wed May 16 04:34:51 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongDirectoryNamePosixMode
+Wed May 16 04:34:51 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testCount
+Wed May 16 04:34:51 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testRoundtripWith67CharFileNamePosix
+Wed May 16 04:34:52 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testLongNameMd5Hash
+Wed May 16 04:34:52 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testOldEntryPosixMode
+Wed May 16 04:34:52 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testOldEntryStarMode
+Wed May 16 04:34:52 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testBigNumberStarMode
+Wed May 16 04:34:53 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongLinkNameErrorMode
+Wed May 16 04:34:53 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongLinkNameTruncateMode
+Wed May 16 04:34:53 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testMaxFileSizeError
+Wed May 16 04:34:54 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testPaxHeadersWithLength101
+Wed May 16 04:34:54 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteNonAsciiNameWithUnfortunateNamePosixMode
+Wed May 16 04:34:54 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testPadsOutputToFullBlockLength
+Wed May 16 04:34:55 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteSimplePaxHeaders
+Wed May 16 04:34:55 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testBigNumberPosixMode
+Wed May 16 04:34:55 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongDirectoryNameErrorMode
+Wed May 16 04:34:56 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteNonAsciiDirectoryNamePosixMode
+Wed May 16 04:34:56 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongLinkNamePosixMode
+Wed May 16 04:34:56 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest-testWriteLongLinkNameGnuMode
+Wed May 16 04:34:56 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.tar.TarArchiveOutputStreamTest
+Wed May 16 04:34:57 UTC 2018: Found element on the queue
+Wed May 16 04:34:57 UTC 2018: Updating status
+Wed May 16 04:34:57 UTC 2018: Working
+Wed May 16 04:34:59 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.tar.TarArchiveEntryTest
+Wed May 16 04:34:59 UTC 2018: Setting lastTestMethodIndex: 61801
+Wed May 16 04:34:59 UTC 2018: Starting linking
+Wed May 16 04:34:59 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveEntryTest-testMaxFileSize
+Wed May 16 04:34:59 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveEntryTest-testLinkFlagConstructor
+Wed May 16 04:35:00 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveEntryTest-testTarFileWithFSRoot
+Wed May 16 04:35:00 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveEntryTest-testLinkFlagConstructorWithFileFlag
+Wed May 16 04:35:00 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveEntryTest-testFileSystemRoot
+Wed May 16 04:35:01 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveEntryTest-testLinkFlagConstructorWithPreserve
+Wed May 16 04:35:01 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.tar.TarArchiveEntryTest
+Wed May 16 04:35:01 UTC 2018: Found element on the queue
+Wed May 16 04:35:01 UTC 2018: Updating status
+Wed May 16 04:35:01 UTC 2018: Working
+Wed May 16 04:35:04 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest
+Wed May 16 04:35:04 UTC 2018: Setting lastTestMethodIndex: 61804
+Wed May 16 04:35:04 UTC 2018: Starting linking
+Wed May 16 04:35:04 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-paxHeaderEntryWithEmptyValueRemovesKey
+Wed May 16 04:35:04 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-readNonAsciiPaxHeader
+Wed May 16 04:35:04 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-workaroundForBrokenTimeHeader
+Wed May 16 04:35:05 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-datePriorToEpochInGNUFormat
+Wed May 16 04:35:05 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-shouldReadGNULongNameEntryWithWrongName
+Wed May 16 04:35:05 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-shouldConsumeArchiveCompletely
+Wed May 16 04:35:06 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-shouldUseSpecifiedEncodingWhenReadingGNULongNames
+Wed May 16 04:35:06 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-readsArchiveCompletely_COMPRESS245
+Wed May 16 04:35:06 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-readSimplePaxHeader
+Wed May 16 04:35:07 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-survivesBlankLinesInPaxHeader
+Wed May 16 04:35:07 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-datePriorToEpochInPAXFormat
+Wed May 16 04:35:07 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-secondEntryWinsWhenPaxHeaderContainsDuplicateKey
+Wed May 16 04:35:08 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-shouldThrowAnExceptionOnTruncatedEntries
+Wed May 16 04:35:08 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-readPaxHeaderWithEmbeddedNewline
+Wed May 16 04:35:08 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-testCompress197
+Wed May 16 04:35:08 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-survivesPaxHeaderWithNameEndingInSlash
+Wed May 16 04:35:09 UTC 2018: No link for: org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest-shouldReadBigGid
+Wed May 16 04:35:09 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.tar.TarArchiveInputStreamTest
+Wed May 16 04:35:10 UTC 2018: Found element on the queue
+Wed May 16 04:35:10 UTC 2018: Updating status
+Wed May 16 04:35:10 UTC 2018: Working
+Wed May 16 04:35:12 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.DumpTestCase
+Wed May 16 04:35:12 UTC 2018: Setting lastTestMethodIndex: 61806
+Wed May 16 04:35:12 UTC 2018: Starting linking
+Wed May 16 04:35:12 UTC 2018: No link for: org.apache.commons.compress.archivers.DumpTestCase-testCheckArchive
+Wed May 16 04:35:12 UTC 2018: No link for: org.apache.commons.compress.archivers.DumpTestCase-testCompressedArchiveDetection
+Wed May 16 04:35:13 UTC 2018: No link for: org.apache.commons.compress.archivers.DumpTestCase-testDumpUnarchiveAll
+Wed May 16 04:35:13 UTC 2018: No link for: org.apache.commons.compress.archivers.DumpTestCase-testCompressedDumpUnarchiveAll
+Wed May 16 04:35:13 UTC 2018: No link for: org.apache.commons.compress.archivers.DumpTestCase-testArchiveDetection
+Wed May 16 04:35:14 UTC 2018: No link for: org.apache.commons.compress.archivers.DumpTestCase-testCheckCompressedArchive
+Wed May 16 04:35:14 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.DumpTestCase
+Wed May 16 04:35:14 UTC 2018: Found element on the queue
+Wed May 16 04:35:14 UTC 2018: Updating status
+Wed May 16 04:35:14 UTC 2018: Working
+Wed May 16 04:35:17 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.TarTestCase
+Wed May 16 04:35:17 UTC 2018: Setting lastTestMethodIndex: 61809
+Wed May 16 04:35:17 UTC 2018: Starting linking
+Wed May 16 04:35:17 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testFileEntryFromFile
+Wed May 16 04:35:17 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testCOMPRESS114
+Wed May 16 04:35:17 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testDirectoryEntryFromFile
+Wed May 16 04:35:18 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testExplicitDirectoryEntry
+Wed May 16 04:35:18 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testCOMPRESS178
+Wed May 16 04:35:18 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testTarArchiveLongNameCreation
+Wed May 16 04:35:19 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testTarArchiveCreation
+Wed May 16 04:35:19 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testExplicitFileEntry
+Wed May 16 04:35:19 UTC 2018: No link for: org.apache.commons.compress.archivers.TarTestCase-testTarUnarchive
+Wed May 16 04:35:20 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.TarTestCase
+Wed May 16 04:35:20 UTC 2018: Found element on the queue
+Wed May 16 04:35:20 UTC 2018: Updating status
+Wed May 16 04:35:20 UTC 2018: Working
+Wed May 16 04:35:23 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.LongSymLinkTest
+Wed May 16 04:35:23 UTC 2018: Setting lastTestMethodIndex: 61812
+Wed May 16 04:35:23 UTC 2018: Starting linking
+Wed May 16 04:35:23 UTC 2018: No link for: org.apache.commons.compress.archivers.LongSymLinkTest-testArchive
+Wed May 16 04:35:23 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.LongSymLinkTest
+Wed May 16 04:35:23 UTC 2018: Found element on the queue
+Wed May 16 04:35:23 UTC 2018: Updating status
+Wed May 16 04:35:23 UTC 2018: Working
+Wed May 16 04:35:26 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.ArchiveOutputStreamTest
+Wed May 16 04:35:26 UTC 2018: Setting lastTestMethodIndex: 61813
+Wed May 16 04:35:26 UTC 2018: Starting linking
+Wed May 16 04:35:26 UTC 2018: Code found org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream-finish with org.apache.commons.compress.archivers.ArchiveOutputStreamTest-testFinish
+Wed May 16 04:35:26 UTC 2018: Code found org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStream-finish with org.apache.commons.compress.archivers.ArchiveOutputStreamTest-testOptionalFinish
+Wed May 16 04:35:26 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveOutputStreamTest-testCallSequenceJar
+Wed May 16 04:35:27 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveOutputStreamTest-testCallSequenceCpio
+Wed May 16 04:35:27 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveOutputStreamTest-testCallSequenceZip
+Wed May 16 04:35:27 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveOutputStreamTest-testCallSequenceAr
+Wed May 16 04:35:28 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveOutputStreamTest-testCallSequenceTar
+Wed May 16 04:35:28 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.ArchiveOutputStreamTest
+Wed May 16 04:35:28 UTC 2018: Found element on the queue
+Wed May 16 04:35:28 UTC 2018: Updating status
+Wed May 16 04:35:28 UTC 2018: Working
+Wed May 16 04:35:31 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.SevenZTestCase
+Wed May 16 04:35:31 UTC 2018: Setting lastTestMethodIndex: 61815
+Wed May 16 04:35:31 UTC 2018: Starting linking
+Wed May 16 04:35:31 UTC 2018: No link for: org.apache.commons.compress.archivers.SevenZTestCase-testSevenZArchiveCreationUsingCopy
+Wed May 16 04:35:31 UTC 2018: No link for: org.apache.commons.compress.archivers.SevenZTestCase-testSevenZArchiveCreationUsingBZIP2
+Wed May 16 04:35:31 UTC 2018: No link for: org.apache.commons.compress.archivers.SevenZTestCase-testSevenZArchiveCreationUsingDeflate
+Wed May 16 04:35:32 UTC 2018: No link for: org.apache.commons.compress.archivers.SevenZTestCase-testSevenZArchiveCreationUsingLZMA2
+Wed May 16 04:35:32 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.SevenZTestCase
+Wed May 16 04:35:32 UTC 2018: Found element on the queue
+Wed May 16 04:35:32 UTC 2018: Updating status
+Wed May 16 04:35:32 UTC 2018: Working
+Wed May 16 04:35:35 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZFileTest
+Wed May 16 04:35:35 UTC 2018: Setting lastTestMethodIndex: 61816
+Wed May 16 04:35:35 UTC 2018: Starting linking
+Wed May 16 04:35:35 UTC 2018: Code found org.apache.commons.compress.archivers.sevenz.SevenZFile-getEntries with org.apache.commons.compress.archivers.sevenz.SevenZFileTest-getEntriesOfUnarchiveTest
+Wed May 16 04:35:35 UTC 2018: Code found org.apache.commons.compress.archivers.sevenz.SevenZFile-read with org.apache.commons.compress.archivers.sevenz.SevenZFileTest-readEntriesOfSize0
+Wed May 16 04:35:35 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testCompressedHeaderWithNonDefaultDictionarySize
+Wed May 16 04:35:36 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testHelloWorldHeaderCompressionOffLZMA2
+Wed May 16 04:35:36 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testAllEmptyFilesArchive
+Wed May 16 04:35:36 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testRandomlySkippingEntries
+Wed May 16 04:35:37 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testEncryptedArchiveRequiresPassword
+Wed May 16 04:35:37 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-test7zDecryptUnarchive
+Wed May 16 04:35:37 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-test7zDeflateUnarchive
+Wed May 16 04:35:38 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testSignatureCheck
+Wed May 16 04:35:38 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testReadingBackDeltaDistance
+Wed May 16 04:35:38 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-test7zUnarchive
+Wed May 16 04:35:39 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testHelloWorldHeaderCompressionOffCopy
+Wed May 16 04:35:39 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZFileTest-testReadingBackLZMA2DictSize
+Wed May 16 04:35:39 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZFileTest
+Wed May 16 04:35:40 UTC 2018: Found element on the queue
+Wed May 16 04:35:40 UTC 2018: Updating status
+Wed May 16 04:35:40 UTC 2018: Working
+Wed May 16 04:35:42 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryTest
+Wed May 16 04:35:42 UTC 2018: Setting lastTestMethodIndex: 61819
+Wed May 16 04:35:42 UTC 2018: Starting linking
+Wed May 16 04:35:42 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryTest-shouldThrowIfNoLastModifiedDateIsSet
+Wed May 16 04:35:43 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryTest-shouldThrowIfNoAccessDateIsSet
+Wed May 16 04:35:43 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryTest-shouldThrowIfNoCreationDateIsSet
+Wed May 16 04:35:43 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZArchiveEntryTest
+Wed May 16 04:35:44 UTC 2018: Found element on the queue
+Wed May 16 04:35:44 UTC 2018: Updating status
+Wed May 16 04:35:44 UTC 2018: Working
+Wed May 16 04:35:46 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest
+Wed May 16 04:35:46 UTC 2018: Setting lastTestMethodIndex: 61820
+Wed May 16 04:35:46 UTC 2018: Starting linking
+Wed May 16 04:35:46 UTC 2018: Code found org.apache.commons.compress.archivers.sevenz.SevenZOutputFile-finish with org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testCantFinishTwice
+Wed May 16 04:35:46 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testBCJSparcRoundtrip
+Wed May 16 04:35:47 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testArchiveWithMixedMethods
+Wed May 16 04:35:47 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testNineFilesSomeNotEmpty
+Wed May 16 04:35:47 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testBCJX86Roundtrip
+Wed May 16 04:35:48 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testDirectoriesOnly
+Wed May 16 04:35:48 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testNineEmptyFiles
+Wed May 16 04:35:48 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testLzma2WithIntConfiguration
+Wed May 16 04:35:49 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testCopyRoundtrip
+Wed May 16 04:35:49 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testBCJARMRoundtrip
+Wed May 16 04:35:49 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testEightEmptyFiles
+Wed May 16 04:35:50 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testTwentyNineEmptyFiles
+Wed May 16 04:35:50 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testBzip2Roundtrip
+Wed May 16 04:35:50 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testLzma2WithOptionsConfiguration
+Wed May 16 04:35:51 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testDeltaRoundtrip
+Wed May 16 04:35:51 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testBzip2WithConfiguration
+Wed May 16 04:35:51 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testSevenEmptyFiles
+Wed May 16 04:35:51 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testSevenFilesSomeNotEmpty
+Wed May 16 04:35:52 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testBCJARMThumbRoundtrip
+Wed May 16 04:35:52 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testEightFilesSomeNotEmpty
+Wed May 16 04:35:52 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testSixEmptyFiles
+Wed May 16 04:35:53 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testBCJIA64Roundtrip
+Wed May 16 04:35:53 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testLzma2Roundtrip
+Wed May 16 04:35:53 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testTwentyNineFilesSomeNotEmpty
+Wed May 16 04:35:54 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testDeflateRoundtrip
+Wed May 16 04:35:54 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testBCJPPCRoundtrip
+Wed May 16 04:35:54 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testDirectoriesAndEmptyFiles
+Wed May 16 04:35:55 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testDeflateWithConfiguration
+Wed May 16 04:35:55 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testSixFilesSomeNotEmpty
+Wed May 16 04:35:55 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest-testStackOfContentCompressions
+Wed May 16 04:35:56 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZOutputFileTest
+Wed May 16 04:35:56 UTC 2018: Found element on the queue
+Wed May 16 04:35:56 UTC 2018: Updating status
+Wed May 16 04:35:56 UTC 2018: Working
+Wed May 16 04:35:58 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZNativeHeapTest
+Wed May 16 04:35:58 UTC 2018: Setting lastTestMethodIndex: 61824
+Wed May 16 04:35:58 UTC 2018: Starting linking
+Wed May 16 04:35:58 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZNativeHeapTest-testEndDeflaterOnCloseStream
+Wed May 16 04:35:59 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZNativeHeapTest-testEndInflaterOnCloseStream
+Wed May 16 04:35:59 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZNativeHeapTest
+Wed May 16 04:35:59 UTC 2018: Found element on the queue
+Wed May 16 04:35:59 UTC 2018: Updating status
+Wed May 16 04:35:59 UTC 2018: Working
+Wed May 16 04:36:02 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest
+Wed May 16 04:36:02 UTC 2018: Setting lastTestMethodIndex: 61826
+Wed May 16 04:36:02 UTC 2018: Starting linking
+Wed May 16 04:36:02 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest-shouldAllowNumberForDeflate
+Wed May 16 04:36:02 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest-shouldAllowNullOptions
+Wed May 16 04:36:02 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest-shouldAllowNumberForLZMA2
+Wed May 16 04:36:03 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest-shouldAllowLZMA2OptionsForLZMA2
+Wed May 16 04:36:03 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest-shouldNotAllowStringOptionsForLZMA2
+Wed May 16 04:36:03 UTC 2018: No link for: org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest-shouldAllowNumberForBzip2
+Wed May 16 04:36:04 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.sevenz.SevenZMethodConfigurationTest
+Wed May 16 04:36:04 UTC 2018: Found element on the queue
+Wed May 16 04:36:04 UTC 2018: Updating status
+Wed May 16 04:36:04 UTC 2018: Working
+Wed May 16 04:36:07 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.ZipTestCase
+Wed May 16 04:36:07 UTC 2018: Setting lastTestMethodIndex: 61828
+Wed May 16 04:36:07 UTC 2018: Starting linking
+Wed May 16 04:36:07 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testSkipsPK00Prefix
+Wed May 16 04:36:07 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testListAllFilesWithNestedArchive
+Wed May 16 04:36:07 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testSupportedCompressionMethod
+Wed May 16 04:36:08 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testSkipEntryWithUnsupportedCompressionMethod
+Wed May 16 04:36:08 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testCopyRawZip64EntryFromFile
+Wed May 16 04:36:08 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testUnixModeInAddRaw
+Wed May 16 04:36:09 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testDirectoryEntryFromFile
+Wed May 16 04:36:09 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testExplicitDirectoryEntry
+Wed May 16 04:36:09 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testFileEntryFromFile
+Wed May 16 04:36:10 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testZipArchiveCreation
+Wed May 16 04:36:10 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testCopyRawEntriesFromFile
+Wed May 16 04:36:10 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testZipUnarchive
+Wed May 16 04:36:11 UTC 2018: No link for: org.apache.commons.compress.archivers.ZipTestCase-testExplicitFileEntry
+Wed May 16 04:36:11 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.ZipTestCase
+Wed May 16 04:36:11 UTC 2018: Found element on the queue
+Wed May 16 04:36:11 UTC 2018: Updating status
+Wed May 16 04:36:11 UTC 2018: Working
+Wed May 16 04:36:14 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.ArchiveStreamFactoryTest
+Wed May 16 04:36:14 UTC 2018: Setting lastTestMethodIndex: 61829
+Wed May 16 04:36:14 UTC 2018: Starting linking
+Wed May 16 04:36:14 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-cantWrite7zToStream
+Wed May 16 04:36:14 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-testEncodingInputStreamAutodetect
+Wed May 16 04:36:15 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-testEncodingDeprecated
+Wed May 16 04:36:15 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-testEncodingOutputStream
+Wed May 16 04:36:15 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-testEncodingInputStream
+Wed May 16 04:36:16 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-aiffFilesAreNoTARs
+Wed May 16 04:36:16 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-testCOMPRESS209
+Wed May 16 04:36:16 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-skipsPK00Prefix
+Wed May 16 04:36:17 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-shortTextFilesAreNoTARs
+Wed May 16 04:36:17 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-detectsAndThrowsFor7z
+Wed May 16 04:36:17 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-testEncodingCtor
+Wed May 16 04:36:18 UTC 2018: No link for: org.apache.commons.compress.archivers.ArchiveStreamFactoryTest-cantRead7zFromStream
+Wed May 16 04:36:18 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.ArchiveStreamFactoryTest
+Wed May 16 04:36:18 UTC 2018: Found element on the queue
+Wed May 16 04:36:18 UTC 2018: Updating status
+Wed May 16 04:36:19 UTC 2018: Working
+Wed May 16 04:36:21 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.LongPathTest
+Wed May 16 04:36:21 UTC 2018: Setting lastTestMethodIndex: 61831
+Wed May 16 04:36:21 UTC 2018: Starting linking
+Wed May 16 04:36:21 UTC 2018: No link for: org.apache.commons.compress.archivers.LongPathTest-testArchive
+Wed May 16 04:36:21 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.LongPathTest
+Wed May 16 04:36:22 UTC 2018: Found element on the queue
+Wed May 16 04:36:22 UTC 2018: Updating status
+Wed May 16 04:36:22 UTC 2018: Working
+Wed May 16 04:36:24 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamTest
+Wed May 16 04:36:24 UTC 2018: Setting lastTestMethodIndex: 61833
+Wed May 16 04:36:24 UTC 2018: Starting linking
+Wed May 16 04:36:24 UTC 2018: No link for: org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamTest-testReadingOfAttributesDosVersion
+Wed May 16 04:36:25 UTC 2018: No link for: org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamTest-testArjUnarchive
+Wed May 16 04:36:25 UTC 2018: No link for: org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamTest-testReadingOfAttributesUnixVersion
+Wed May 16 04:36:25 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.arj.ArjArchiveInputStreamTest
+Wed May 16 04:36:26 UTC 2018: Found element on the queue
+Wed May 16 04:36:26 UTC 2018: Updating status
+Wed May 16 04:36:26 UTC 2018: Working
+Wed May 16 04:36:28 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.memory.MemoryArchiveTestCase
+Wed May 16 04:36:28 UTC 2018: Setting lastTestMethodIndex: 61835
+Wed May 16 04:36:28 UTC 2018: Starting linking
+Wed May 16 04:36:28 UTC 2018: No link for: org.apache.commons.compress.archivers.memory.MemoryArchiveTestCase-testReading
+Wed May 16 04:36:28 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.memory.MemoryArchiveTestCase
+Wed May 16 04:36:29 UTC 2018: Found element on the queue
+Wed May 16 04:36:29 UTC 2018: Updating status
+Wed May 16 04:36:29 UTC 2018: Working
+Wed May 16 04:36:31 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.CpioTestCase
+Wed May 16 04:36:31 UTC 2018: Setting lastTestMethodIndex: 61837
+Wed May 16 04:36:31 UTC 2018: Starting linking
+Wed May 16 04:36:31 UTC 2018: No link for: org.apache.commons.compress.archivers.CpioTestCase-testCpioUnarchive
+Wed May 16 04:36:32 UTC 2018: No link for: org.apache.commons.compress.archivers.CpioTestCase-testFileEntryFromFile
+Wed May 16 04:36:32 UTC 2018: No link for: org.apache.commons.compress.archivers.CpioTestCase-testExplicitFileEntry
+Wed May 16 04:36:32 UTC 2018: No link for: org.apache.commons.compress.archivers.CpioTestCase-testDirectoryEntryFromFile
+Wed May 16 04:36:33 UTC 2018: No link for: org.apache.commons.compress.archivers.CpioTestCase-testCpioArchiveCreation
+Wed May 16 04:36:33 UTC 2018: No link for: org.apache.commons.compress.archivers.CpioTestCase-testExplicitDirectoryEntry
+Wed May 16 04:36:33 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.CpioTestCase
+Wed May 16 04:36:34 UTC 2018: Found element on the queue
+Wed May 16 04:36:34 UTC 2018: Updating status
+Wed May 16 04:36:34 UTC 2018: Working
+Wed May 16 04:36:36 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.ar.ArArchiveInputStreamTest
+Wed May 16 04:36:36 UTC 2018: Setting lastTestMethodIndex: 61839
+Wed May 16 04:36:36 UTC 2018: Starting linking
+Wed May 16 04:36:36 UTC 2018: No link for: org.apache.commons.compress.archivers.ar.ArArchiveInputStreamTest-testReadLongNamesBSD
+Wed May 16 04:36:36 UTC 2018: No link for: org.apache.commons.compress.archivers.ar.ArArchiveInputStreamTest-testReadLongNamesGNU
+Wed May 16 04:36:37 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.ar.ArArchiveInputStreamTest
+Wed May 16 04:36:37 UTC 2018: Found element on the queue
+Wed May 16 04:36:37 UTC 2018: Updating status
+Wed May 16 04:36:37 UTC 2018: Working
+Wed May 16 04:36:40 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.ar.ArArchiveOutputStreamTest
+Wed May 16 04:36:40 UTC 2018: Setting lastTestMethodIndex: 61841
+Wed May 16 04:36:40 UTC 2018: Starting linking
+Wed May 16 04:36:40 UTC 2018: No link for: org.apache.commons.compress.archivers.ar.ArArchiveOutputStreamTest-testLongFileNamesWorkUsingBSDDialect
+Wed May 16 04:36:40 UTC 2018: No link for: org.apache.commons.compress.archivers.ar.ArArchiveOutputStreamTest-testLongFileNamesCauseExceptionByDefault
+Wed May 16 04:36:40 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.ar.ArArchiveOutputStreamTest
+Wed May 16 04:36:41 UTC 2018: Found element on the queue
+Wed May 16 04:36:41 UTC 2018: Updating status
+Wed May 16 04:36:41 UTC 2018: Working
+Wed May 16 04:36:43 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.dump.DumpArchiveUtilTest
+Wed May 16 04:36:43 UTC 2018: Setting lastTestMethodIndex: 61842
+Wed May 16 04:36:43 UTC 2018: Starting linking
+Wed May 16 04:36:43 UTC 2018: Code found org.apache.commons.compress.archivers.dump.DumpArchiveUtil-convert16 with org.apache.commons.compress.archivers.dump.DumpArchiveUtilTest-convert16
+Wed May 16 04:36:43 UTC 2018: Code found org.apache.commons.compress.archivers.dump.DumpArchiveUtil-convert32 with org.apache.commons.compress.archivers.dump.DumpArchiveUtilTest-convert32
+Wed May 16 04:36:44 UTC 2018: Code found org.apache.commons.compress.archivers.dump.DumpArchiveUtil-convert64 with org.apache.commons.compress.archivers.dump.DumpArchiveUtilTest-convert64
+Wed May 16 04:36:44 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.dump.DumpArchiveUtilTest
+Wed May 16 04:36:44 UTC 2018: Found element on the queue
+Wed May 16 04:36:44 UTC 2018: Updating status
+Wed May 16 04:36:44 UTC 2018: Working
+Wed May 16 04:36:47 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.dump.DumpArchiveEntryTest
+Wed May 16 04:36:47 UTC 2018: Setting lastTestMethodIndex: 61843
+Wed May 16 04:36:47 UTC 2018: Starting linking
+Wed May 16 04:36:47 UTC 2018: No link for: org.apache.commons.compress.archivers.dump.DumpArchiveEntryTest-publicNameRemovesLeadingDotSlash
+Wed May 16 04:36:47 UTC 2018: No link for: org.apache.commons.compress.archivers.dump.DumpArchiveEntryTest-publicNameAddsTrailingSlashForDirectories
+Wed May 16 04:36:47 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.dump.DumpArchiveEntryTest
+Wed May 16 04:36:48 UTC 2018: Found element on the queue
+Wed May 16 04:36:48 UTC 2018: Updating status
+Wed May 16 04:36:48 UTC 2018: Working
+Wed May 16 04:36:50 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.dump.DumpArchiveInputStreamTest
+Wed May 16 04:36:50 UTC 2018: Setting lastTestMethodIndex: 61844
+Wed May 16 04:36:50 UTC 2018: Starting linking
+Wed May 16 04:36:50 UTC 2018: No link for: org.apache.commons.compress.archivers.dump.DumpArchiveInputStreamTest-testNotADumpArchiveButBigEnough
+Wed May 16 04:36:50 UTC 2018: No link for: org.apache.commons.compress.archivers.dump.DumpArchiveInputStreamTest-testConsumesArchiveCompletely
+Wed May 16 04:36:51 UTC 2018: No link for: org.apache.commons.compress.archivers.dump.DumpArchiveInputStreamTest-testNotADumpArchive
+Wed May 16 04:36:51 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.dump.DumpArchiveInputStreamTest
+Wed May 16 04:36:51 UTC 2018: Found element on the queue
+Wed May 16 04:36:51 UTC 2018: Updating status
+Wed May 16 04:36:51 UTC 2018: Working
+Wed May 16 04:36:54 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.jar.JarArchiveOutputStreamTest
+Wed May 16 04:36:54 UTC 2018: Setting lastTestMethodIndex: 61845
+Wed May 16 04:36:54 UTC 2018: Starting linking
+Wed May 16 04:36:54 UTC 2018: No link for: org.apache.commons.compress.archivers.jar.JarArchiveOutputStreamTest-testJarMarker
+Wed May 16 04:36:54 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.jar.JarArchiveOutputStreamTest
+Wed May 16 04:36:55 UTC 2018: Found element on the queue
+Wed May 16 04:36:55 UTC 2018: Updating status
+Wed May 16 04:36:55 UTC 2018: Working
+Wed May 16 04:36:57 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamTest
+Wed May 16 04:36:57 UTC 2018: Setting lastTestMethodIndex: 61846
+Wed May 16 04:36:57 UTC 2018: Starting linking
+Wed May 16 04:36:57 UTC 2018: No link for: org.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamTest-testCpioUnarchiveCreatedByRedlineRpm
+Wed May 16 04:36:57 UTC 2018: No link for: org.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamTest-testCpioUnarchive
+Wed May 16 04:36:58 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.cpio.CpioArchiveInputStreamTest
+Wed May 16 04:36:58 UTC 2018: Found element on the queue
+Wed May 16 04:36:58 UTC 2018: Updating status
+Wed May 16 04:36:58 UTC 2018: Working
+Wed May 16 04:37:00 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.cpio.CpioUtilTest
+Wed May 16 04:37:00 UTC 2018: Setting lastTestMethodIndex: 61847
+Wed May 16 04:37:00 UTC 2018: Starting linking
+Wed May 16 04:37:00 UTC 2018: No link for: org.apache.commons.compress.archivers.cpio.CpioUtilTest-oldBinMagicFromByteArraySwapped
+Wed May 16 04:37:01 UTC 2018: No link for: org.apache.commons.compress.archivers.cpio.CpioUtilTest-oldBinMagic2ByteArraySwapped
+Wed May 16 04:37:01 UTC 2018: No link for: org.apache.commons.compress.archivers.cpio.CpioUtilTest-oldBinMagicFromByteArrayNotSwapped
+Wed May 16 04:37:02 UTC 2018: No link for: org.apache.commons.compress.archivers.cpio.CpioUtilTest-oldBinMagic2ByteArrayNotSwapped
+Wed May 16 04:37:03 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.cpio.CpioUtilTest
+Wed May 16 04:37:04 UTC 2018: Found element on the queue
+Wed May 16 04:37:04 UTC 2018: Updating status
+Wed May 16 04:37:04 UTC 2018: Working
+Wed May 16 04:37:06 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStreamTest
+Wed May 16 04:37:06 UTC 2018: Setting lastTestMethodIndex: 61848
+Wed May 16 04:37:06 UTC 2018: Starting linking
+Wed May 16 04:37:06 UTC 2018: No link for: org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStreamTest-testWriteOldBinary
+Wed May 16 04:37:07 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.cpio.CpioArchiveOutputStreamTest
+Wed May 16 04:37:07 UTC 2018: Found element on the queue
+Wed May 16 04:37:07 UTC 2018: Updating status
+Wed May 16 04:37:07 UTC 2018: Working
+Wed May 16 04:37:11 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.JarTestCase
+Wed May 16 04:37:11 UTC 2018: Setting lastTestMethodIndex: 61850
+Wed May 16 04:37:11 UTC 2018: Starting linking
+Wed May 16 04:37:11 UTC 2018: No link for: org.apache.commons.compress.archivers.JarTestCase-testJarUnarchive
+Wed May 16 04:37:11 UTC 2018: No link for: org.apache.commons.compress.archivers.JarTestCase-testJarArchiveCreation
+Wed May 16 04:37:11 UTC 2018: No link for: org.apache.commons.compress.archivers.JarTestCase-testJarUnarchiveAll
+Wed May 16 04:37:12 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.JarTestCase
+Wed May 16 04:37:12 UTC 2018: Found element on the queue
+Wed May 16 04:37:12 UTC 2018: Updating status
+Wed May 16 04:37:12 UTC 2018: Working
+Wed May 16 04:37:15 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipUtilTest
+Wed May 16 04:37:15 UTC 2018: Setting lastTestMethodIndex: 61852
+Wed May 16 04:37:15 UTC 2018: Starting linking
+Wed May 16 04:37:15 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipUtil-reverse with org.apache.commons.compress.archivers.zip.ZipUtilTest-testReverse
+Wed May 16 04:37:15 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipUtil-adjustToLong with org.apache.commons.compress.archivers.zip.ZipUtilTest-testAdjustToLong
+Wed May 16 04:37:15 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipUtil-bigToLong with org.apache.commons.compress.archivers.zip.ZipUtilTest-testBigToLong
+Wed May 16 04:37:16 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipUtil-longToBig with org.apache.commons.compress.archivers.zip.ZipUtilTest-testLongToBig
+Wed May 16 04:37:16 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipUtil-unsignedIntToSignedByte with org.apache.commons.compress.archivers.zip.ZipUtilTest-testUnsignedIntToSignedByte
+Wed May 16 04:37:16 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipUtil-signedByteToUnsignedInt with org.apache.commons.compress.archivers.zip.ZipUtilTest-testSignedByteToUnsignedInt
+Wed May 16 04:37:17 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipUtilTest-testMinTime
+Wed May 16 04:37:17 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipUtilTest-testZipLong
+Wed May 16 04:37:17 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipUtilTest-testOutsideCalendar
+Wed May 16 04:37:18 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipUtilTest-testInsideCalendar
+Wed May 16 04:37:18 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipUtilTest
+Wed May 16 04:37:18 UTC 2018: Found element on the queue
+Wed May 16 04:37:18 UTC 2018: Updating status
+Wed May 16 04:37:18 UTC 2018: Working
+Wed May 16 04:37:21 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest
+Wed May 16 04:37:21 UTC 2018: Setting lastTestMethodIndex: 61855
+Wed May 16 04:37:21 UTC 2018: Starting linking
+Wed May 16 04:37:21 UTC 2018: Code found org.apache.commons.compress.archivers.zip.GeneralPurposeBit-parse with org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest-testParseEdgeCases
+Wed May 16 04:37:21 UTC 2018: Code found org.apache.commons.compress.archivers.zip.GeneralPurposeBit-clone with org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest-testClone
+Wed May 16 04:37:21 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest-testDefaults
+Wed May 16 04:37:22 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest-testEncryption
+Wed May 16 04:37:22 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest-testLanguageEncodingFlag
+Wed May 16 04:37:22 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest-testStrongEncryption
+Wed May 16 04:37:23 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest-testDataDescriptor
+Wed May 16 04:37:23 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.GeneralPurposeBitTest
+Wed May 16 04:37:24 UTC 2018: Found element on the queue
+Wed May 16 04:37:24 UTC 2018: Updating status
+Wed May 16 04:37:24 UTC 2018: Working
+Wed May 16 04:37:26 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.AsiExtraFieldTest
+Wed May 16 04:37:26 UTC 2018: Setting lastTestMethodIndex: 61858
+Wed May 16 04:37:26 UTC 2018: Starting linking
+Wed May 16 04:37:26 UTC 2018: Code found org.apache.commons.compress.archivers.zip.AsiExtraField-clone with org.apache.commons.compress.archivers.zip.AsiExtraFieldTest-testClone
+Wed May 16 04:37:26 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.AsiExtraFieldTest-testModes
+Wed May 16 04:37:27 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.AsiExtraFieldTest-testContent
+Wed May 16 04:37:27 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.AsiExtraFieldTest-testReparse
+Wed May 16 04:37:27 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.AsiExtraFieldTest
+Wed May 16 04:37:28 UTC 2018: Found element on the queue
+Wed May 16 04:37:28 UTC 2018: Updating status
+Wed May 16 04:37:28 UTC 2018: Working
+Wed May 16 04:37:30 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.CircularBufferTest
+Wed May 16 04:37:30 UTC 2018: Setting lastTestMethodIndex: 61860
+Wed May 16 04:37:30 UTC 2018: Starting linking
+Wed May 16 04:37:30 UTC 2018: Code found org.apache.commons.compress.archivers.zip.CircularBuffer-copy with org.apache.commons.compress.archivers.zip.CircularBufferTest-testCopy
+Wed May 16 04:37:31 UTC 2018: Code found org.apache.commons.compress.archivers.zip.CircularBuffer-get with org.apache.commons.compress.archivers.zip.CircularBufferTest-testPutAndGet
+Wed May 16 04:37:31 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.CircularBufferTest
+Wed May 16 04:37:31 UTC 2018: Found element on the queue
+Wed May 16 04:37:31 UTC 2018: Updating status
+Wed May 16 04:37:32 UTC 2018: Working
+Wed May 16 04:37:34 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipFileTest
+Wed May 16 04:37:34 UTC 2018: Setting lastTestMethodIndex: 61863
+Wed May 16 04:37:34 UTC 2018: Starting linking
+Wed May 16 04:37:34 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ExplodingInputStream-read with org.apache.commons.compress.archivers.zip.ZipFileTest-testReadingOfStoredEntry
+Wed May 16 04:37:34 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testUnixSymlinkSampleFile
+Wed May 16 04:37:35 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testExcessDataInZip64ExtraField
+Wed May 16 04:37:35 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testReadingOfFirstStoredEntry
+Wed May 16 04:37:35 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testUnzipBZip2CompressedEntry
+Wed May 16 04:37:36 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testWinzipBackSlashWorkaround
+Wed May 16 04:37:36 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testSkipsPK00Prefix
+Wed May 16 04:37:36 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testDuplicateEntry
+Wed May 16 04:37:37 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testUnshrinking
+Wed May 16 04:37:37 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testDoubleClose
+Wed May 16 04:37:37 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testPhysicalOrder
+Wed May 16 04:37:38 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipFileTest-testCDOrder
+Wed May 16 04:37:38 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipFileTest
+Wed May 16 04:37:38 UTC 2018: Found element on the queue
+Wed May 16 04:37:38 UTC 2018: Updating status
+Wed May 16 04:37:38 UTC 2018: Working
+Wed May 16 04:37:41 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest
+Wed May 16 04:37:41 UTC 2018: Setting lastTestMethodIndex: 61866
+Wed May 16 04:37:41 UTC 2018: Starting linking
+Wed May 16 04:37:41 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ExtraFieldUtils-parse with org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest-testParseWithRead
+Wed May 16 04:37:41 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ExtraFieldUtils-parse with org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest-testParseWithSkip
+Wed May 16 04:37:41 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ExtraFieldUtils-parse with org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest-testParse
+Wed May 16 04:37:42 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest-testMergeWithUnparseableData
+Wed May 16 04:37:42 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest-testMerge
+Wed May 16 04:37:42 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ExtraFieldUtilsTest
+Wed May 16 04:37:43 UTC 2018: Found element on the queue
+Wed May 16 04:37:43 UTC 2018: Updating status
+Wed May 16 04:37:43 UTC 2018: Working
+Wed May 16 04:37:45 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.Maven221MultiVolumeTest
+Wed May 16 04:37:45 UTC 2018: Setting lastTestMethodIndex: 61868
+Wed May 16 04:37:45 UTC 2018: Starting linking
+Wed May 16 04:37:45 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipArchiveInputStream-read with org.apache.commons.compress.archivers.zip.Maven221MultiVolumeTest-testRead7ZipMultiVolumeArchiveForStream
+Wed May 16 04:37:46 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Maven221MultiVolumeTest-testRead7ZipMultiVolumeArchiveForFile
+Wed May 16 04:37:46 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.Maven221MultiVolumeTest
+Wed May 16 04:37:46 UTC 2018: Found element on the queue
+Wed May 16 04:37:46 UTC 2018: Updating status
+Wed May 16 04:37:46 UTC 2018: Working
+Wed May 16 04:37:49 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ScatterSampleTest
+Wed May 16 04:37:49 UTC 2018: Setting lastTestMethodIndex: 61869
+Wed May 16 04:37:49 UTC 2018: Starting linking
+Wed May 16 04:37:49 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ScatterSampleTest-testSample
+Wed May 16 04:37:49 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ScatterSampleTest
+Wed May 16 04:37:49 UTC 2018: Found element on the queue
+Wed May 16 04:37:49 UTC 2018: Updating status
+Wed May 16 04:37:49 UTC 2018: Working
+Wed May 16 04:37:52 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.BinaryTreeTest
+Wed May 16 04:37:52 UTC 2018: Setting lastTestMethodIndex: 61872
+Wed May 16 04:37:52 UTC 2018: Starting linking
+Wed May 16 04:37:52 UTC 2018: Code found org.apache.commons.compress.archivers.zip.BinaryTree-decode with org.apache.commons.compress.archivers.zip.BinaryTreeTest-testDecode
+Wed May 16 04:37:52 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.BinaryTreeTest
+Wed May 16 04:37:53 UTC 2018: Found element on the queue
+Wed May 16 04:37:53 UTC 2018: Updating status
+Wed May 16 04:37:53 UTC 2018: Working
+Wed May 16 04:37:55 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest
+Wed May 16 04:37:55 UTC 2018: Setting lastTestMethodIndex: 61874
+Wed May 16 04:37:55 UTC 2018: Starting linking
+Wed May 16 04:37:55 UTC 2018: Code found org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestamp-getHeaderId with org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest-testGetHeaderId
+Wed May 16 04:37:55 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest-testSampleFile
+Wed May 16 04:37:56 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest-testBitsAreSetWithTime
+Wed May 16 04:37:56 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest-testWriteReadRoundtrip
+Wed May 16 04:37:56 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest-testParseReparse
+Wed May 16 04:37:57 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest-testMisc
+Wed May 16 04:37:57 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest-testGettersSetters
+Wed May 16 04:37:57 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.X5455_ExtendedTimestampTest
+Wed May 16 04:37:58 UTC 2018: Found element on the queue
+Wed May 16 04:37:58 UTC 2018: Updating status
+Wed May 16 04:37:58 UTC 2018: Working
+Wed May 16 04:38:00 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest
+Wed May 16 04:38:00 UTC 2018: Setting lastTestMethodIndex: 61876
+Wed May 16 04:38:00 UTC 2018: Starting linking
+Wed May 16 04:38:00 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testRead7ZipArchiveForStream
+Wed May 16 04:38:01 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testUtf8FileRoundtripNoEFSExplicitUnicodeExtra
+Wed May 16 04:38:01 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testASCIIFileRoundtripExplicitUnicodeExtra
+Wed May 16 04:38:01 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testRawNameReadFromZipFile
+Wed May 16 04:38:02 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testReadWinZipArchive
+Wed May 16 04:38:02 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testUtf8FileRoundtripImplicitUnicodeExtra
+Wed May 16 04:38:02 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testCP437FileRoundtripImplicitUnicodeExtra
+Wed May 16 04:38:03 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testZipArchiveInputStreamReadsUnicodeFields
+Wed May 16 04:38:03 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testReadWinZipArchiveForStream
+Wed May 16 04:38:03 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testZipFileReadsUnicodeFields
+Wed May 16 04:38:04 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testUtf8Interoperability
+Wed May 16 04:38:04 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testCP437FileRoundtripExplicitUnicodeExtra
+Wed May 16 04:38:04 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testUtf8FileRoundtripNoEFSImplicitUnicodeExtra
+Wed May 16 04:38:05 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testRawNameReadFromStream
+Wed May 16 04:38:05 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testRead7ZipArchive
+Wed May 16 04:38:05 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testASCIIFileRoundtripImplicitUnicodeExtra
+Wed May 16 04:38:06 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest-testUtf8FileRoundtripExplicitUnicodeExtra
+Wed May 16 04:38:06 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.UTF8ZipFilesTest
+Wed May 16 04:38:07 UTC 2018: Found element on the queue
+Wed May 16 04:38:07 UTC 2018: Updating status
+Wed May 16 04:38:07 UTC 2018: Working
+Wed May 16 04:38:09 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.EncryptedArchiveTest
+Wed May 16 04:38:09 UTC 2018: Setting lastTestMethodIndex: 61880
+Wed May 16 04:38:09 UTC 2018: Starting linking
+Wed May 16 04:38:09 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipArchiveInputStream-read with org.apache.commons.compress.archivers.zip.EncryptedArchiveTest-testReadPasswordEncryptedEntryViaStream
+Wed May 16 04:38:09 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.EncryptedArchiveTest-testReadPasswordEncryptedEntryViaZipFile
+Wed May 16 04:38:10 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.EncryptedArchiveTest
+Wed May 16 04:38:10 UTC 2018: Found element on the queue
+Wed May 16 04:38:10 UTC 2018: Updating status
+Wed May 16 04:38:10 UTC 2018: Working
+Wed May 16 04:38:12 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest
+Wed May 16 04:38:12 UTC 2018: Setting lastTestMethodIndex: 61882
+Wed May 16 04:38:12 UTC 2018: Starting linking
+Wed May 16 04:38:12 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testWriteCDOnlySizes
+Wed May 16 04:38:13 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testReadLFHSizesOffsetAndDisk
+Wed May 16 04:38:13 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testWriteCDSizeAndOffset
+Wed May 16 04:38:13 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testReadLFHSizesAndOffset
+Wed May 16 04:38:14 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testReadCDSizesOffsetAndDisk
+Wed May 16 04:38:14 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testReadLFHSizesOnly
+Wed May 16 04:38:14 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testReadCDSomethingAndDisk
+Wed May 16 04:38:15 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testWriteCDSizeOffsetAndDisk
+Wed May 16 04:38:15 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testWriteCDSizeAndDisk
+Wed May 16 04:38:15 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testReadLFHSizesAndDisk
+Wed May 16 04:38:16 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testReadCDSizesAndOffset
+Wed May 16 04:38:16 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest-testReparseCDSingleEightByteData
+Wed May 16 04:38:16 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.Zip64ExtendedInformationExtraFieldTest
+Wed May 16 04:38:17 UTC 2018: Found element on the queue
+Wed May 16 04:38:17 UTC 2018: Updating status
+Wed May 16 04:38:17 UTC 2018: Working
+Wed May 16 04:38:19 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest
+Wed May 16 04:38:19 UTC 2018: Setting lastTestMethodIndex: 61885
+Wed May 16 04:38:19 UTC 2018: Starting linking
+Wed May 16 04:38:19 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipEightByteInteger-equals with org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest-testEquals
+Wed May 16 04:38:19 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest-testSign
+Wed May 16 04:38:20 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest-testBIFromBytes
+Wed May 16 04:38:20 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest-testLongFromBytes
+Wed May 16 04:38:20 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest-testBIToBytes
+Wed May 16 04:38:21 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest-testLongToBytes
+Wed May 16 04:38:21 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipEightByteIntegerTest
+Wed May 16 04:38:21 UTC 2018: Found element on the queue
+Wed May 16 04:38:21 UTC 2018: Updating status
+Wed May 16 04:38:21 UTC 2018: Working
+Wed May 16 04:38:24 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest
+Wed May 16 04:38:24 UTC 2018: Setting lastTestMethodIndex: 61888
+Wed May 16 04:38:24 UTC 2018: Starting linking
+Wed May 16 04:38:24 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest-properUseOfInflater
+Wed May 16 04:38:24 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest-shouldConsumeArchiveCompletely
+Wed May 16 04:38:24 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest-testReadingOfFirstStoredEntry
+Wed May 16 04:38:25 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest-winzipBackSlashWorkaround
+Wed May 16 04:38:25 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest-shouldReadNestedZip
+Wed May 16 04:38:25 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest-testUnzipBZip2CompressedEntry
+Wed May 16 04:38:26 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest-testUnshrinkEntry
+Wed May 16 04:38:26 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest-testMessageWithCorruptFileName
+Wed May 16 04:38:26 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipArchiveInputStreamTest
+Wed May 16 04:38:27 UTC 2018: Found element on the queue
+Wed May 16 04:38:27 UTC 2018: Updating status
+Wed May 16 04:38:27 UTC 2018: Working
+Wed May 16 04:38:29 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ExplodeSupportTest
+Wed May 16 04:38:29 UTC 2018: Setting lastTestMethodIndex: 61891
+Wed May 16 04:38:29 UTC 2018: Starting linking
+Wed May 16 04:38:29 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ExplodeSupportTest-testZipStreamWithImplodeCompression8K3Trees
+Wed May 16 04:38:29 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ExplodeSupportTest-testTikaTestStream
+Wed May 16 04:38:30 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ExplodeSupportTest-testArchiveWithImplodeCompression8K3Trees
+Wed May 16 04:38:30 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ExplodeSupportTest-testArchiveWithImplodeCompression4K2Trees
+Wed May 16 04:38:30 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ExplodeSupportTest-testTikaTestArchive
+Wed May 16 04:38:31 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ExplodeSupportTest-testZipStreamWithImplodeCompression4K2Trees
+Wed May 16 04:38:31 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ExplodeSupportTest
+Wed May 16 04:38:31 UTC 2018: Found element on the queue
+Wed May 16 04:38:31 UTC 2018: Updating status
+Wed May 16 04:38:31 UTC 2018: Working
+Wed May 16 04:38:34 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.StreamCompressorTest
+Wed May 16 04:38:34 UTC 2018: Setting lastTestMethodIndex: 61892
+Wed May 16 04:38:34 UTC 2018: Starting linking
+Wed May 16 04:38:34 UTC 2018: Code found org.apache.commons.compress.archivers.zip.StreamCompressor-deflate with org.apache.commons.compress.archivers.zip.StreamCompressorTest-deflatedEntries
+Wed May 16 04:38:34 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.StreamCompressorTest-storedEntries
+Wed May 16 04:38:34 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.StreamCompressorTest
+Wed May 16 04:38:35 UTC 2018: Found element on the queue
+Wed May 16 04:38:35 UTC 2018: Updating status
+Wed May 16 04:38:35 UTC 2018: Working
+Wed May 16 04:38:37 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.BitStreamTest
+Wed May 16 04:38:37 UTC 2018: Setting lastTestMethodIndex: 61895
+Wed May 16 04:38:37 UTC 2018: Starting linking
+Wed May 16 04:38:37 UTC 2018: Code found org.apache.commons.compress.archivers.zip.BitStream-nextByte with org.apache.commons.compress.archivers.zip.BitStreamTest-testNextByte
+Wed May 16 04:38:38 UTC 2018: Code found org.apache.commons.compress.archivers.zip.BitStream-nextByte with org.apache.commons.compress.archivers.zip.BitStreamTest-testNextByteFromEmptyStream
+Wed May 16 04:38:38 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.BitStreamTest-testStream
+Wed May 16 04:38:38 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.BitStreamTest-testEmptyStream
+Wed May 16 04:38:39 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.BitStreamTest-testReadAlignedBytes
+Wed May 16 04:38:39 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.BitStreamTest
+Wed May 16 04:38:39 UTC 2018: Found element on the queue
+Wed May 16 04:38:39 UTC 2018: Updating status
+Wed May 16 04:38:39 UTC 2018: Working
+Wed May 16 04:38:42 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipEncodingTest
+Wed May 16 04:38:42 UTC 2018: Setting lastTestMethodIndex: 61897
+Wed May 16 04:38:42 UTC 2018: Starting linking
+Wed May 16 04:38:42 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipEncodingTest-testSimpleCp437Encoding
+Wed May 16 04:38:42 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipEncodingTest-testNioCp1252Encoding
+Wed May 16 04:38:42 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipEncodingTest-testSimpleCp850Encoding
+Wed May 16 04:38:43 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipEncodingTest
+Wed May 16 04:38:43 UTC 2018: Found element on the queue
+Wed May 16 04:38:43 UTC 2018: Updating status
+Wed May 16 04:38:43 UTC 2018: Working
+Wed May 16 04:38:46 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamTest
+Wed May 16 04:38:46 UTC 2018: Setting lastTestMethodIndex: 61899
+Wed May 16 04:38:46 UTC 2018: Starting linking
+Wed May 16 04:38:46 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamTest-putArchiveEntry
+Wed May 16 04:38:46 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ScatterZipOutputStreamTest
+Wed May 16 04:38:47 UTC 2018: Found element on the queue
+Wed May 16 04:38:47 UTC 2018: Updating status
+Wed May 16 04:38:47 UTC 2018: Working
+Wed May 16 04:38:49 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.X7875_NewUnixTest
+Wed May 16 04:38:49 UTC 2018: Setting lastTestMethodIndex: 61901
+Wed May 16 04:38:49 UTC 2018: Starting linking
+Wed May 16 04:38:49 UTC 2018: Code found org.apache.commons.compress.archivers.zip.X7875_NewUnix-getHeaderId with org.apache.commons.compress.archivers.zip.X7875_NewUnixTest-testGetHeaderId
+Wed May 16 04:38:49 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X7875_NewUnixTest-testMisc
+Wed May 16 04:38:49 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X7875_NewUnixTest-testParseReparse
+Wed May 16 04:38:50 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X7875_NewUnixTest-testTrimLeadingZeroesForceMinLength4
+Wed May 16 04:38:50 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X7875_NewUnixTest-testSampleFile
+Wed May 16 04:38:50 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.X7875_NewUnixTest
+Wed May 16 04:38:51 UTC 2018: Found element on the queue
+Wed May 16 04:38:51 UTC 2018: Updating status
+Wed May 16 04:38:51 UTC 2018: Working
+Wed May 16 04:38:53 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorTest
+Wed May 16 04:38:53 UTC 2018: Setting lastTestMethodIndex: 61902
+Wed May 16 04:38:53 UTC 2018: Starting linking
+Wed May 16 04:38:53 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorTest-callableApi
+Wed May 16 04:38:54 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorTest-concurrent
+Wed May 16 04:38:54 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ParallelScatterZipCreatorTest
+Wed May 16 04:38:54 UTC 2018: Found element on the queue
+Wed May 16 04:38:54 UTC 2018: Updating status
+Wed May 16 04:38:54 UTC 2018: Working
+Wed May 16 04:38:57 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest
+Wed May 16 04:38:57 UTC 2018: Setting lastTestMethodIndex: 61904
+Wed May 16 04:38:57 UTC 2018: Starting linking
+Wed May 16 04:38:57 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipArchiveEntry-addAsFirstExtraField with org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest-testAddAsFirstExtraField
+Wed May 16 04:38:57 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipArchiveEntry-equals with org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest-testNullCommentEqualsEmptyComment
+Wed May 16 04:38:57 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipArchiveEntry-equals with org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest-testNotEquals
+Wed May 16 04:38:58 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest-testCopyConstructor
+Wed May 16 04:38:58 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest-testCompressionMethod
+Wed May 16 04:38:58 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest-testUnixMode
+Wed May 16 04:38:59 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest-testExtraFields
+Wed May 16 04:38:59 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest-testExtraFieldMerging
+Wed May 16 04:38:59 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipArchiveEntryTest
+Wed May 16 04:39:00 UTC 2018: Found element on the queue
+Wed May 16 04:39:00 UTC 2018: Updating status
+Wed May 16 04:39:00 UTC 2018: Working
+Wed May 16 04:39:02 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipShortTest
+Wed May 16 04:39:02 UTC 2018: Setting lastTestMethodIndex: 61905
+Wed May 16 04:39:02 UTC 2018: Starting linking
+Wed May 16 04:39:02 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipShort-clone with org.apache.commons.compress.archivers.zip.ZipShortTest-testClone
+Wed May 16 04:39:02 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipShort-equals with org.apache.commons.compress.archivers.zip.ZipShortTest-testEquals
+Wed May 16 04:39:03 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipShortTest-testToBytes
+Wed May 16 04:39:03 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipShortTest-testSign
+Wed May 16 04:39:03 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipShortTest-testFromBytes
+Wed May 16 04:39:04 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipShortTest-testPut
+Wed May 16 04:39:04 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipShortTest
+Wed May 16 04:39:04 UTC 2018: Found element on the queue
+Wed May 16 04:39:04 UTC 2018: Updating status
+Wed May 16 04:39:04 UTC 2018: Working
+Wed May 16 04:39:07 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.X000A_NTFSTest
+Wed May 16 04:39:07 UTC 2018: Setting lastTestMethodIndex: 61906
+Wed May 16 04:39:07 UTC 2018: Starting linking
+Wed May 16 04:39:07 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.X000A_NTFSTest-simpleRountrip
+Wed May 16 04:39:07 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.X000A_NTFSTest
+Wed May 16 04:39:07 UTC 2018: Found element on the queue
+Wed May 16 04:39:07 UTC 2018: Updating status
+Wed May 16 04:39:07 UTC 2018: Working
+Wed May 16 04:39:10 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipLongTest
+Wed May 16 04:39:10 UTC 2018: Setting lastTestMethodIndex: 61907
+Wed May 16 04:39:10 UTC 2018: Starting linking
+Wed May 16 04:39:10 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipLong-clone with org.apache.commons.compress.archivers.zip.ZipLongTest-testClone
+Wed May 16 04:39:10 UTC 2018: Code found org.apache.commons.compress.archivers.zip.ZipLong-equals with org.apache.commons.compress.archivers.zip.ZipLongTest-testEquals
+Wed May 16 04:39:10 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipLongTest-testFromBytes
+Wed May 16 04:39:11 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipLongTest-testSign
+Wed May 16 04:39:11 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipLongTest-testPut
+Wed May 16 04:39:11 UTC 2018: No link for: org.apache.commons.compress.archivers.zip.ZipLongTest-testToBytes
+Wed May 16 04:39:12 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.zip.ZipLongTest
+Wed May 16 04:39:12 UTC 2018: Found element on the queue
+Wed May 16 04:39:12 UTC 2018: Updating status
+Wed May 16 04:39:12 UTC 2018: Working
+Wed May 16 04:39:14 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.ArTestCase
+Wed May 16 04:39:14 UTC 2018: Setting lastTestMethodIndex: 61908
+Wed May 16 04:39:14 UTC 2018: Starting linking
+Wed May 16 04:39:14 UTC 2018: No link for: org.apache.commons.compress.archivers.ArTestCase-testArArchiveCreation
+Wed May 16 04:39:15 UTC 2018: No link for: org.apache.commons.compress.archivers.ArTestCase-testArUnarchive
+Wed May 16 04:39:15 UTC 2018: No link for: org.apache.commons.compress.archivers.ArTestCase-testExplicitFileEntry
+Wed May 16 04:39:15 UTC 2018: No link for: org.apache.commons.compress.archivers.ArTestCase-testArDelete
+Wed May 16 04:39:16 UTC 2018: No link for: org.apache.commons.compress.archivers.ArTestCase-XtestDirectoryEntryFromFile
+Wed May 16 04:39:16 UTC 2018: No link for: org.apache.commons.compress.archivers.ArTestCase-testFileEntryFromFile
+Wed May 16 04:39:16 UTC 2018: No link for: org.apache.commons.compress.archivers.ArTestCase-XtestExplicitDirectoryEntry
+Wed May 16 04:39:17 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.ArTestCase
+Wed May 16 04:39:17 UTC 2018: Found element on the queue
+Wed May 16 04:39:17 UTC 2018: Updating status
+Wed May 16 04:39:17 UTC 2018: Working
+Wed May 16 04:39:19 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.archivers.ExceptionMessageTest
+Wed May 16 04:39:19 UTC 2018: Setting lastTestMethodIndex: 61909
+Wed May 16 04:39:19 UTC 2018: Starting linking
+Wed May 16 04:39:19 UTC 2018: No link for: org.apache.commons.compress.archivers.ExceptionMessageTest-testMessageWhenInputStreamIsNull
+Wed May 16 04:39:20 UTC 2018: No link for: org.apache.commons.compress.archivers.ExceptionMessageTest-testMessageWhenArchiverNameIsNull_2
+Wed May 16 04:39:20 UTC 2018: No link for: org.apache.commons.compress.archivers.ExceptionMessageTest-testMessageWhenArchiverNameIsNull_1
+Wed May 16 04:39:20 UTC 2018: No link for: org.apache.commons.compress.archivers.ExceptionMessageTest-testMessageWhenOutputStreamIsNull
+Wed May 16 04:39:20 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.archivers.ExceptionMessageTest
+Wed May 16 04:39:21 UTC 2018: Found element on the queue
+Wed May 16 04:39:21 UTC 2018: Updating status
+Wed May 16 04:39:21 UTC 2018: Working
+Wed May 16 04:39:23 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.DetectArchiverTestCase
+Wed May 16 04:39:23 UTC 2018: Setting lastTestMethodIndex: 61910
+Wed May 16 04:39:23 UTC 2018: Starting linking
+Wed May 16 04:39:23 UTC 2018: No link for: org.apache.commons.compress.DetectArchiverTestCase-testEmptyCpioArchive
+Wed May 16 04:39:23 UTC 2018: No link for: org.apache.commons.compress.DetectArchiverTestCase-testDetectionNotArchive
+Wed May 16 04:39:24 UTC 2018: No link for: org.apache.commons.compress.DetectArchiverTestCase-testCOMPRESS335
+Wed May 16 04:39:24 UTC 2018: No link for: org.apache.commons.compress.DetectArchiverTestCase-testEmptyJarArchive
+Wed May 16 04:39:25 UTC 2018: No link for: org.apache.commons.compress.DetectArchiverTestCase-testCOMPRESS117
+Wed May 16 04:39:25 UTC 2018: No link for: org.apache.commons.compress.DetectArchiverTestCase-testDetection
+Wed May 16 04:39:25 UTC 2018: No link for: org.apache.commons.compress.DetectArchiverTestCase-testEmptyZipArchive
+Wed May 16 04:39:25 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.DetectArchiverTestCase
+Wed May 16 04:39:26 UTC 2018: Found element on the queue
+Wed May 16 04:39:26 UTC 2018: Updating status
+Wed May 16 04:39:26 UTC 2018: Working
+Wed May 16 04:39:28 UTC 2018: Start lookout__commons-compress test class org.apache.commons.compress.IOMethodsTest
+Wed May 16 04:39:28 UTC 2018: Setting lastTestMethodIndex: 61912
+Wed May 16 04:39:28 UTC 2018: Starting linking
+Wed May 16 04:39:28 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testWriteAr
+Wed May 16 04:39:29 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testWriteTar
+Wed May 16 04:39:29 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testReadZip
+Wed May 16 04:39:29 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testWriteCpio
+Wed May 16 04:39:30 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testWriteZip
+Wed May 16 04:39:30 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testReadTar
+Wed May 16 04:39:30 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testReadAr
+Wed May 16 04:39:31 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testWriteJar
+Wed May 16 04:39:31 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testReadCpio
+Wed May 16 04:39:31 UTC 2018: No link for: org.apache.commons.compress.IOMethodsTest-testReadJar
+Wed May 16 04:39:32 UTC 2018: Linking done for lookout__commons-compress test class org.apache.commons.compress.IOMethodsTest

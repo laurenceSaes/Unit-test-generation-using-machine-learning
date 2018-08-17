@@ -1,0 +1,335 @@
+Tue May 15 19:00:21 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 19:00:21 UTC 2018: Starting
+Tue May 15 19:00:22 UTC 2018: Found element on the queue
+Tue May 15 19:00:22 UTC 2018: Updating status
+Tue May 15 19:00:22 UTC 2018: Working
+Tue May 15 19:00:22 UTC 2018: Create project parser
+Tue May 15 19:00:27 UTC 2018: Create slicer
+Tue May 15 19:00:30 UTC 2018: Create call graph
+Tue May 15 19:00:33 UTC 2018: Create point analysis
+Tue May 15 19:00:34 UTC 2018: Create call graph done
+Tue May 15 19:00:34 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.TestCompatibilitySingletonFactory
+Tue May 15 19:00:34 UTC 2018: Setting lastTestMethodIndex: 43452
+Tue May 15 19:00:34 UTC 2018: Starting linking
+Tue May 15 19:00:34 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.TestCompatibilitySingletonFactory
+Tue May 15 19:00:35 UTC 2018: Found element on the queue
+Tue May 15 19:00:35 UTC 2018: Updating status
+Tue May 15 19:00:35 UTC 2018: Working
+Tue May 15 19:00:38 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.rest.TestMetricsRESTSource
+Tue May 15 19:00:38 UTC 2018: Setting lastTestMethodIndex: 43457
+Tue May 15 19:00:38 UTC 2018: Starting linking
+Tue May 15 19:00:38 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.rest.TestMetricsRESTSource-testGetInstanceNoHadoopCompat
+Tue May 15 19:00:39 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:00:39 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.rest.TestMetricsRESTSource
+Tue May 15 19:00:39 UTC 2018: Found element on the queue
+Tue May 15 19:00:39 UTC 2018: Updating status
+Tue May 15 19:00:39 UTC 2018: Working
+Tue May 15 19:00:42 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory
+Tue May 15 19:00:42 UTC 2018: Setting lastTestMethodIndex: 43462
+Tue May 15 19:00:42 UTC 2018: Starting linking
+Tue May 15 19:00:42 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 19:00:42 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:00:42 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory
+Tue May 15 19:00:43 UTC 2018: Found element on the queue
+Tue May 15 19:00:43 UTC 2018: Updating status
+Tue May 15 19:00:43 UTC 2018: Working
+Tue May 15 19:00:47 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory
+Tue May 15 19:00:47 UTC 2018: Setting lastTestMethodIndex: 43465
+Tue May 15 19:00:47 UTC 2018: Starting linking
+Tue May 15 19:00:47 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 19:00:47 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:00:47 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory
+Tue May 15 19:00:48 UTC 2018: Found element on the queue
+Tue May 15 19:00:48 UTC 2018: Updating status
+Tue May 15 19:00:48 UTC 2018: Working
+Tue May 15 19:00:51 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsWALSource
+Tue May 15 19:00:51 UTC 2018: Setting lastTestMethodIndex: 43470
+Tue May 15 19:00:51 UTC 2018: Starting linking
+Tue May 15 19:00:51 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.regionserver.wal.TestMetricsWALSource-testGetInstanceNoHadoopCompat
+Tue May 15 19:00:51 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:00:51 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsWALSource
+Tue May 15 19:00:51 UTC 2018: Found element on the queue
+Tue May 15 19:00:51 UTC 2018: Updating status
+Tue May 15 19:00:51 UTC 2018: Working
+Tue May 15 19:00:55 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory
+Tue May 15 19:00:55 UTC 2018: Setting lastTestMethodIndex: 43475
+Tue May 15 19:00:55 UTC 2018: Starting linking
+Tue May 15 19:00:55 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 19:00:55 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:00:55 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory
+Tue May 15 19:00:56 UTC 2018: Found element on the queue
+Tue May 15 19:00:56 UTC 2018: Updating status
+Tue May 15 19:00:56 UTC 2018: Working
+Tue May 15 19:01:00 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory
+Tue May 15 19:01:00 UTC 2018: Setting lastTestMethodIndex: 43479
+Tue May 15 19:01:00 UTC 2018: Starting linking
+Tue May 15 19:01:00 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 19:01:00 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:01:00 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory
+Tue May 15 19:01:01 UTC 2018: Found element on the queue
+Tue May 15 19:01:01 UTC 2018: Updating status
+Tue May 15 19:01:01 UTC 2018: Working
+Tue May 15 19:01:01 UTC 2018: Create project parser
+Tue May 15 19:01:05 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.metrics.TestBaseSourceImpl
+Tue May 15 19:01:05 UTC 2018: Setting lastTestMethodIndex: 43485
+Tue May 15 19:01:05 UTC 2018: Starting linking
+Tue May 15 19:01:05 UTC 2018: Code found org.apache.hadoop.hbase.metrics.BaseSourceImpl-decGauge with org.apache.hadoop.hbase.metrics.TestBaseSourceImpl-testDecGauge
+Tue May 15 19:01:05 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:01:05 UTC 2018: Code found org.apache.hadoop.hbase.metrics.BaseSourceImpl-incCounters with org.apache.hadoop.hbase.metrics.TestBaseSourceImpl-testIncCounters
+Tue May 15 19:01:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:01:06 UTC 2018: Code found org.apache.hadoop.hbase.metrics.BaseSourceImpl-incGauge with org.apache.hadoop.hbase.metrics.TestBaseSourceImpl-testIncGauge
+Tue May 15 19:01:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:01:06 UTC 2018: Code found org.apache.hadoop.hbase.metrics.BaseSourceImpl-setGauge with org.apache.hadoop.hbase.metrics.TestBaseSourceImpl-testSetGauge
+Tue May 15 19:01:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:01:06 UTC 2018: Code found org.apache.hadoop.hbase.metrics.BaseSourceImpl-removeMetric with org.apache.hadoop.hbase.metrics.TestBaseSourceImpl-testRemoveMetric
+Tue May 15 19:01:06 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:01:06 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.metrics.TestBaseSourceImpl
+Tue May 15 19:01:07 UTC 2018: Found element on the queue
+Tue May 15 19:01:07 UTC 2018: Updating status
+Tue May 15 19:01:07 UTC 2018: Working
+Tue May 15 19:01:11 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.rest.TestMetricsRESTSourceImpl
+Tue May 15 19:01:11 UTC 2018: Setting lastTestMethodIndex: 43491
+Tue May 15 19:01:11 UTC 2018: Starting linking
+Tue May 15 19:01:11 UTC 2018: No link for: org.apache.hadoop.hbase.rest.TestMetricsRESTSourceImpl-ensureCompatRegistered
+Tue May 15 19:01:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:11 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.rest.TestMetricsRESTSourceImpl
+Tue May 15 19:01:12 UTC 2018: Found element on the queue
+Tue May 15 19:01:12 UTC 2018: Updating status
+Tue May 15 19:01:12 UTC 2018: Working
+Tue May 15 19:01:15 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceImpl
+Tue May 15 19:01:15 UTC 2018: Setting lastTestMethodIndex: 43495
+Tue May 15 19:01:15 UTC 2018: Starting linking
+Tue May 15 19:01:15 UTC 2018: No link for: org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceImpl-testGetInstance
+Tue May 15 19:01:16 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:16 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceImpl
+Tue May 15 19:01:16 UTC 2018: Found element on the queue
+Tue May 15 19:01:16 UTC 2018: Updating status
+Tue May 15 19:01:16 UTC 2018: Working
+Tue May 15 19:01:19 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactoryImpl
+Tue May 15 19:01:19 UTC 2018: Setting lastTestMethodIndex: 43499
+Tue May 15 19:01:19 UTC 2018: Starting linking
+Tue May 15 19:01:19 UTC 2018: No link for: org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactoryImpl-testGetInstance
+Tue May 15 19:01:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:20 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactoryImpl
+Tue May 15 19:01:21 UTC 2018: Found element on the queue
+Tue May 15 19:01:21 UTC 2018: Updating status
+Tue May 15 19:01:21 UTC 2018: Working
+Tue May 15 19:01:24 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceImpl
+Tue May 15 19:01:24 UTC 2018: Setting lastTestMethodIndex: 43504
+Tue May 15 19:01:24 UTC 2018: Starting linking
+Tue May 15 19:01:24 UTC 2018: No link for: org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceImpl-testGetInstance
+Tue May 15 19:01:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:24 UTC 2018: No link for: org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceImpl-testNoGetRegionServerMetricsSourceImpl
+Tue May 15 19:01:24 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:24 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceImpl
+Tue May 15 19:01:25 UTC 2018: Found element on the queue
+Tue May 15 19:01:25 UTC 2018: Updating status
+Tue May 15 19:01:25 UTC 2018: Working
+Tue May 15 19:01:28 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionSourceImpl
+Tue May 15 19:01:28 UTC 2018: Setting lastTestMethodIndex: 43507
+Tue May 15 19:01:28 UTC 2018: Starting linking
+Tue May 15 19:01:28 UTC 2018: No link for: org.apache.hadoop.hbase.regionserver.TestMetricsRegionSourceImpl-testNoGetRegionServerMetricsSourceImpl
+Tue May 15 19:01:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:28 UTC 2018: No link for: org.apache.hadoop.hbase.regionserver.TestMetricsRegionSourceImpl-testCompareToHashCodeEquals
+Tue May 15 19:01:29 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionSourceImpl
+Tue May 15 19:01:30 UTC 2018: Found element on the queue
+Tue May 15 19:01:30 UTC 2018: Updating status
+Tue May 15 19:01:30 UTC 2018: Working
+Tue May 15 19:01:33 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsWALSourceImpl
+Tue May 15 19:01:33 UTC 2018: Setting lastTestMethodIndex: 43512
+Tue May 15 19:01:33 UTC 2018: Starting linking
+Tue May 15 19:01:33 UTC 2018: No link for: org.apache.hadoop.hbase.regionserver.wal.TestMetricsWALSourceImpl-testGetInstance
+Tue May 15 19:01:33 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:33 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsWALSourceImpl
+Tue May 15 19:01:34 UTC 2018: Found element on the queue
+Tue May 15 19:01:34 UTC 2018: Updating status
+Tue May 15 19:01:34 UTC 2018: Working
+Tue May 15 19:01:37 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl
+Tue May 15 19:01:37 UTC 2018: Setting lastTestMethodIndex: 43516
+Tue May 15 19:01:37 UTC 2018: Starting linking
+Tue May 15 19:01:37 UTC 2018: Code found org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl-createThriftOneSource with org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl-testCreateThriftOneSource
+Tue May 15 19:01:37 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:01:37 UTC 2018: Code found org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl-createThriftTwoSource with org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl-testCreateThriftTwoSource
+Tue May 15 19:01:38 UTC 2018: Match not added in database because it already exists
+Tue May 15 19:01:38 UTC 2018: No link for: org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl-testCompatabilityRegistered
+Tue May 15 19:01:38 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:38 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl
+Tue May 15 19:01:39 UTC 2018: Found element on the queue
+Tue May 15 19:01:39 UTC 2018: Updating status
+Tue May 15 19:01:39 UTC 2018: Working
+Tue May 15 19:01:42 UTC 2018: Start grokcoder__pbase test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceImpl
+Tue May 15 19:01:42 UTC 2018: Setting lastTestMethodIndex: 43520
+Tue May 15 19:01:42 UTC 2018: Starting linking
+Tue May 15 19:01:42 UTC 2018: No link for: org.apache.hadoop.hbase.master.TestMetricsMasterSourceImpl-testGetInstance
+Tue May 15 19:01:42 UTC 2018: None match not added in database because it already exists
+Tue May 15 19:01:42 UTC 2018: Linking done for grokcoder__pbase test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceImpl
+Tue May 15 19:01:43 UTC 2018: Found element on the queue
+Tue May 15 19:01:43 UTC 2018: Updating status
+Tue May 15 19:01:43 UTC 2018: Working
+Tue May 15 19:01:43 UTC 2018: Create project parser
+Tue May 15 19:01:50 UTC 2018: Start grokcoder__pbase test class parquet.format.converter.TestParquetMetadataConverter
+Tue May 15 19:01:50 UTC 2018: Setting lastTestMethodIndex: 43528
+Tue May 15 19:01:50 UTC 2018: Starting linking
+Tue May 15 19:01:50 UTC 2018: No link for: parquet.format.converter.TestParquetMetadataConverter-testPageHeader
+Tue May 15 19:01:50 UTC 2018: No link for: parquet.format.converter.TestParquetMetadataConverter-testSchemaConverterDecimal
+Tue May 15 19:01:50 UTC 2018: No link for: parquet.format.converter.TestParquetMetadataConverter-randomTestFilterMetaData
+Tue May 15 19:01:50 UTC 2018: No link for: parquet.format.converter.TestParquetMetadataConverter-testFilterMetaData
+Tue May 15 19:01:51 UTC 2018: No link for: parquet.format.converter.TestParquetMetadataConverter-testSchemaConverter
+Tue May 15 19:01:51 UTC 2018: No link for: parquet.format.converter.TestParquetMetadataConverter-testEnumEquivalence
+Tue May 15 19:01:51 UTC 2018: Linking done for grokcoder__pbase test class parquet.format.converter.TestParquetMetadataConverter
+Tue May 15 19:01:52 UTC 2018: Found element on the queue
+Tue May 15 19:01:52 UTC 2018: Updating status
+Tue May 15 19:01:52 UTC 2018: Working
+Tue May 15 19:01:56 UTC 2018: Start grokcoder__pbase test class parquet.filter2.statisticslevel.TestStatisticsFilter
+Tue May 15 19:01:56 UTC 2018: Setting lastTestMethodIndex: 43533
+Tue May 15 19:01:56 UTC 2018: Starting linking
+Tue May 15 19:01:56 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testNotEqNonNull
+Tue May 15 19:01:56 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testOr
+Tue May 15 19:01:57 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testGtEq
+Tue May 15 19:01:57 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testEqNonNull
+Tue May 15 19:01:57 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testLtEq
+Tue May 15 19:01:57 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testUdp
+Tue May 15 19:01:57 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testEqNull
+Tue May 15 19:01:58 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testLt
+Tue May 15 19:01:58 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testAnd
+Tue May 15 19:01:58 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testClearExceptionForNots
+Tue May 15 19:01:58 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testNotEqNull
+Tue May 15 19:01:58 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testMissingColumn
+Tue May 15 19:01:59 UTC 2018: No link for: parquet.filter2.statisticslevel.TestStatisticsFilter-testGt
+Tue May 15 19:01:59 UTC 2018: Linking done for grokcoder__pbase test class parquet.filter2.statisticslevel.TestStatisticsFilter
+Tue May 15 19:01:59 UTC 2018: Found element on the queue
+Tue May 15 19:01:59 UTC 2018: Updating status
+Tue May 15 19:01:59 UTC 2018: Working
+Tue May 15 19:02:03 UTC 2018: Start grokcoder__pbase test class parquet.filter2.compat.TestRowGroupFilter
+Tue May 15 19:02:03 UTC 2018: Setting lastTestMethodIndex: 43541
+Tue May 15 19:02:03 UTC 2018: Starting linking
+Tue May 15 19:02:03 UTC 2018: No link for: parquet.filter2.compat.TestRowGroupFilter-testApplyRowGroupFilters
+Tue May 15 19:02:03 UTC 2018: Linking done for grokcoder__pbase test class parquet.filter2.compat.TestRowGroupFilter
+Tue May 15 19:02:04 UTC 2018: Found element on the queue
+Tue May 15 19:02:04 UTC 2018: Updating status
+Tue May 15 19:02:04 UTC 2018: Working
+Tue May 15 19:02:07 UTC 2018: Start grokcoder__pbase test class parquet.filter2.recordlevel.TestRecordLevelFilters
+Tue May 15 19:02:07 UTC 2018: Setting lastTestMethodIndex: 43545
+Tue May 15 19:02:07 UTC 2018: Starting linking
+Tue May 15 19:02:07 UTC 2018: Linking done for grokcoder__pbase test class parquet.filter2.recordlevel.TestRecordLevelFilters
+Tue May 15 19:02:08 UTC 2018: Found element on the queue
+Tue May 15 19:02:08 UTC 2018: Updating status
+Tue May 15 19:02:08 UTC 2018: Working
+Tue May 15 19:02:11 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.TestParquetFileWriter
+Tue May 15 19:02:11 UTC 2018: Setting lastTestMethodIndex: 43548
+Tue May 15 19:02:11 UTC 2018: Starting linking
+Tue May 15 19:02:11 UTC 2018: Code found parquet.hadoop.ParquetFileWriter-mergeFooters with parquet.hadoop.TestParquetFileWriter-testMergeFooters
+Tue May 15 19:02:12 UTC 2018: No link for: parquet.hadoop.TestParquetFileWriter-testWriteRead
+Tue May 15 19:02:12 UTC 2018: No link for: parquet.hadoop.TestParquetFileWriter-testWriteReadStatistics
+Tue May 15 19:02:12 UTC 2018: No link for: parquet.hadoop.TestParquetFileWriter-testMetaDataFile
+Tue May 15 19:02:12 UTC 2018: No link for: parquet.hadoop.TestParquetFileWriter-testConvertToThriftStatistics
+Tue May 15 19:02:13 UTC 2018: No link for: parquet.hadoop.TestParquetFileWriter-testWriteReadStatisticsAllNulls
+Tue May 15 19:02:13 UTC 2018: No link for: parquet.hadoop.TestParquetFileWriter-testWriteMode
+Tue May 15 19:02:13 UTC 2018: No link for: parquet.hadoop.TestParquetFileWriter-testMergeMetadata
+Tue May 15 19:02:13 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.TestParquetFileWriter
+Tue May 15 19:02:14 UTC 2018: Found element on the queue
+Tue May 15 19:02:14 UTC 2018: Updating status
+Tue May 15 19:02:14 UTC 2018: Working
+Tue May 15 19:02:17 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.TestMemoryManager
+Tue May 15 19:02:17 UTC 2018: Setting lastTestMethodIndex: 43553
+Tue May 15 19:02:17 UTC 2018: Starting linking
+Tue May 15 19:02:17 UTC 2018: No link for: parquet.hadoop.TestMemoryManager-testMemoryManager
+Tue May 15 19:02:17 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.TestMemoryManager
+Tue May 15 19:02:18 UTC 2018: Found element on the queue
+Tue May 15 19:02:18 UTC 2018: Updating status
+Tue May 15 19:02:18 UTC 2018: Working
+Tue May 15 19:02:21 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.TestColumnChunkPageWriteStore
+Tue May 15 19:02:21 UTC 2018: Setting lastTestMethodIndex: 43557
+Tue May 15 19:02:21 UTC 2018: Starting linking
+Tue May 15 19:02:21 UTC 2018: No link for: parquet.hadoop.TestColumnChunkPageWriteStore-test
+Tue May 15 19:02:21 UTC 2018: No link for: parquet.hadoop.TestColumnChunkPageWriteStore-testColumnOrderV1
+Tue May 15 19:02:22 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.TestColumnChunkPageWriteStore
+Tue May 15 19:02:22 UTC 2018: Found element on the queue
+Tue May 15 19:02:22 UTC 2018: Updating status
+Tue May 15 19:02:22 UTC 2018: Working
+Tue May 15 19:02:26 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.TestParquetWriter
+Tue May 15 19:02:26 UTC 2018: Setting lastTestMethodIndex: 43561
+Tue May 15 19:02:26 UTC 2018: Starting linking
+Tue May 15 19:02:26 UTC 2018: No link for: parquet.hadoop.TestParquetWriter-test
+Tue May 15 19:02:26 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.TestParquetWriter
+Tue May 15 19:02:27 UTC 2018: Found element on the queue
+Tue May 15 19:02:27 UTC 2018: Updating status
+Tue May 15 19:02:27 UTC 2018: Working
+Tue May 15 19:02:30 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.TestInputFormat
+Tue May 15 19:02:30 UTC 2018: Setting lastTestMethodIndex: 43565
+Tue May 15 19:02:30 UTC 2018: Starting linking
+Tue May 15 19:02:30 UTC 2018: Code found parquet.hadoop.ParquetInputFormat$FootersCacheValue-isCurrent with parquet.hadoop.TestInputFormat-testFooterCacheValueIsCurrent
+Tue May 15 19:02:30 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testThrowExceptionWhenMaxSplitSizeIsNegative
+Tue May 15 19:02:30 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testGenerateSplitsSmallerThanMaxSizeAndAlignToHDFS
+Tue May 15 19:02:30 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testGetFilter
+Tue May 15 19:02:30 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testMultipleRowGroupsInABlockToAlignHDFSBlock
+Tue May 15 19:02:30 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testOnlyOneKindOfFilterSupported
+Tue May 15 19:02:30 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testGenerateSplitsCrossHDFSBlockBoundaryToSatisfyMinSize
+Tue May 15 19:02:31 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testThrowExceptionWhenMaxSplitSizeIsSmallerThanMinSplitSize
+Tue May 15 19:02:31 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testFooterCacheValueIsNewer
+Tue May 15 19:02:31 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testGenerateSplitsAlignedWithHDFSBlock
+Tue May 15 19:02:31 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testDeprecatedConstructorOfParquetInputSplit
+Tue May 15 19:02:31 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testGenerateSplitsNotAlignedWithHDFSBlock
+Tue May 15 19:02:32 UTC 2018: No link for: parquet.hadoop.TestInputFormat-testRowGroupNotAlignToHDFSBlock
+Tue May 15 19:02:32 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.TestInputFormat
+Tue May 15 19:02:33 UTC 2018: Found element on the queue
+Tue May 15 19:02:33 UTC 2018: Updating status
+Tue May 15 19:02:33 UTC 2018: Working
+Tue May 15 19:02:36 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.metadata.TestColumnChunkMetaData
+Tue May 15 19:02:36 UTC 2018: Setting lastTestMethodIndex: 43572
+Tue May 15 19:02:36 UTC 2018: Starting linking
+Tue May 15 19:02:36 UTC 2018: No link for: parquet.hadoop.metadata.TestColumnChunkMetaData-testConversionBig
+Tue May 15 19:02:36 UTC 2018: No link for: parquet.hadoop.metadata.TestColumnChunkMetaData-testConversionNeg
+Tue May 15 19:02:36 UTC 2018: No link for: parquet.hadoop.metadata.TestColumnChunkMetaData-testConversionVeryBig
+Tue May 15 19:02:36 UTC 2018: No link for: parquet.hadoop.metadata.TestColumnChunkMetaData-testConversionSmall
+Tue May 15 19:02:36 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.metadata.TestColumnChunkMetaData
+Tue May 15 19:02:38 UTC 2018: Found element on the queue
+Tue May 15 19:02:38 UTC 2018: Updating status
+Tue May 15 19:02:38 UTC 2018: Working
+Tue May 15 19:02:40 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.codec.CodecConfigTest
+Tue May 15 19:02:40 UTC 2018: Setting lastTestMethodIndex: 43575
+Tue May 15 19:02:40 UTC 2018: Starting linking
+Tue May 15 19:02:40 UTC 2018: No link for: parquet.hadoop.codec.CodecConfigTest-testReadingCodecs
+Tue May 15 19:02:41 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.codec.CodecConfigTest
+Tue May 15 19:02:41 UTC 2018: Found element on the queue
+Tue May 15 19:02:41 UTC 2018: Updating status
+Tue May 15 19:02:41 UTC 2018: Working
+Tue May 15 19:02:45 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.TestSnappyCodec
+Tue May 15 19:02:45 UTC 2018: Setting lastTestMethodIndex: 43578
+Tue May 15 19:02:45 UTC 2018: Starting linking
+Tue May 15 19:02:45 UTC 2018: No link for: parquet.hadoop.TestSnappyCodec-TestSnappyStream
+Tue May 15 19:02:45 UTC 2018: No link for: parquet.hadoop.TestSnappyCodec-TestSnappy
+Tue May 15 19:02:45 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.TestSnappyCodec
+Tue May 15 19:02:46 UTC 2018: Found element on the queue
+Tue May 15 19:02:46 UTC 2018: Updating status
+Tue May 15 19:02:46 UTC 2018: Working
+Tue May 15 19:02:49 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.TestParquetWriterNewPage
+Tue May 15 19:02:49 UTC 2018: Setting lastTestMethodIndex: 43584
+Tue May 15 19:02:49 UTC 2018: Starting linking
+Tue May 15 19:02:49 UTC 2018: No link for: parquet.hadoop.TestParquetWriterNewPage-test
+Tue May 15 19:02:49 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.TestParquetWriterNewPage
+Tue May 15 19:02:50 UTC 2018: Found element on the queue
+Tue May 15 19:02:50 UTC 2018: Updating status
+Tue May 15 19:02:50 UTC 2018: Working
+Tue May 15 19:02:53 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.TestLruCache
+Tue May 15 19:02:53 UTC 2018: Setting lastTestMethodIndex: 43589
+Tue May 15 19:02:53 UTC 2018: Starting linking
+Tue May 15 19:02:53 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.TestLruCache
+Tue May 15 19:02:54 UTC 2018: Found element on the queue
+Tue May 15 19:02:54 UTC 2018: Updating status
+Tue May 15 19:02:54 UTC 2018: Working
+Tue May 15 19:02:57 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.example.GroupReadSupportTest
+Tue May 15 19:02:57 UTC 2018: Setting lastTestMethodIndex: 43594
+Tue May 15 19:02:57 UTC 2018: Starting linking
+Tue May 15 19:02:57 UTC 2018: Code found parquet.hadoop.example.GroupReadSupport-init with parquet.hadoop.example.GroupReadSupportTest-testInitWithoutSpecifyingRequestSchema
+Tue May 15 19:02:57 UTC 2018: Code found parquet.hadoop.example.GroupReadSupport-init with parquet.hadoop.example.GroupReadSupportTest-testInitWithPartialSchema
+Tue May 15 19:02:57 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.example.GroupReadSupportTest
+Tue May 15 19:02:58 UTC 2018: Found element on the queue
+Tue May 15 19:02:58 UTC 2018: Updating status
+Tue May 15 19:02:58 UTC 2018: Working
+Tue May 15 19:03:01 UTC 2018: Start grokcoder__pbase test class parquet.hadoop.util.TestSerializationUtil
+Tue May 15 19:03:01 UTC 2018: Setting lastTestMethodIndex: 43597
+Tue May 15 19:03:01 UTC 2018: Starting linking
+Tue May 15 19:03:01 UTC 2018: Code found parquet.hadoop.util.SerializationUtil-readObjectFromConfAsBase64 with parquet.hadoop.util.TestSerializationUtil-readObjectFromConfAsBase64UnsetKey
+Tue May 15 19:03:01 UTC 2018: Code found parquet.hadoop.util.SerializationUtil-writeObjectToConfAsBase64 with parquet.hadoop.util.TestSerializationUtil-testReadWriteObjectToConfAsBase64
+Tue May 15 19:03:02 UTC 2018: Linking done for grokcoder__pbase test class parquet.hadoop.util.TestSerializationUtil

@@ -1,0 +1,154 @@
+Wed May 16 02:10:39 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:10:39 UTC 2018: Starting
+Wed May 16 02:10:40 UTC 2018: Found element on the queue
+Wed May 16 02:10:40 UTC 2018: Updating status
+Wed May 16 02:10:40 UTC 2018: Working
+Wed May 16 02:10:40 UTC 2018: Create project parser
+Wed May 16 02:10:44 UTC 2018: Create slicer
+Wed May 16 02:10:46 UTC 2018: Create call graph
+Wed May 16 02:10:48 UTC 2018: Create point analysis
+Wed May 16 02:10:48 UTC 2018: Create call graph done
+Wed May 16 02:10:48 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.helper.JsonHelperTest
+Wed May 16 02:10:48 UTC 2018: Setting lastTestMethodIndex: 56641
+Wed May 16 02:10:48 UTC 2018: Starting linking
+Wed May 16 02:10:48 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.helper.JsonHelperTest-shouldLoadListOfJavaObjectsFromJsonString
+Wed May 16 02:10:48 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.helper.JsonHelperTest
+Wed May 16 02:10:49 UTC 2018: Found element on the queue
+Wed May 16 02:10:49 UTC 2018: Updating status
+Wed May 16 02:10:49 UTC 2018: Working
+Wed May 16 02:10:51 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest
+Wed May 16 02:10:51 UTC 2018: Setting lastTestMethodIndex: 56643
+Wed May 16 02:10:51 UTC 2018: Starting linking
+Wed May 16 02:10:51 UTC 2018: Code found uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringTools-splitIntoWordsWithLengthHigherThan with uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldSplitIntoWordsWithLengthHigherThan
+Wed May 16 02:10:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:10:51 UTC 2018: Code found uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringTools-getMetaDataFromHTML with uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldGetMetaDataFromHTML
+Wed May 16 02:10:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:10:52 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldReturnTrueIfStringIsBlank
+Wed May 16 02:10:52 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldGetRegexResults
+Wed May 16 02:10:52 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldReturnTrueIfThereIsNoTextContentInHtml
+Wed May 16 02:10:53 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldCompletePartialString
+Wed May 16 02:10:53 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldNotIncludeParenthesesWhenCompletingPartialString
+Wed May 16 02:10:53 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldGetApproximatelyMatchingStrings
+Wed May 16 02:10:54 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldIncludeMiddleParanthesis
+Wed May 16 02:10:54 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldReturnLevenshteinDistance
+Wed May 16 02:10:54 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldReturnEmptySetWhenStringIsBlank
+Wed May 16 02:10:55 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldGetTheFirstHtmlWithContent
+Wed May 16 02:10:55 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldReturnZeroLevenshteinDistanceWhenWordIsNull
+Wed May 16 02:10:55 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldFindWindowOfGivenText
+Wed May 16 02:10:56 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldReturnFalseIfThereIsNoHtmlTag
+Wed May 16 02:10:56 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldFindWindowOfGivenTextWhenWindowIsAtTheBorder
+Wed May 16 02:10:56 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldCheckIfStringIsAlphaNumeric
+Wed May 16 02:10:56 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldGetMaxLevenshteinDistanceAsFifteenPercentOfWordLength
+Wed May 16 02:10:57 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldRoundLevenshteinDistanceUpWhenEqualToOrAboveHalf
+Wed May 16 02:10:57 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldGetPostCode
+Wed May 16 02:10:57 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldGetRandomName
+Wed May 16 02:10:58 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldNotIncludeIgnoreWordsWhenSplittingString
+Wed May 16 02:10:58 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldReturnFalseIfThereIsTextContentInHtml
+Wed May 16 02:10:58 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldAppendToHtmlMeta
+Wed May 16 02:10:59 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldAvoidOpeningParenthesisAsTheBeginningCharacter
+Wed May 16 02:10:59 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest-shouldReturnEmptyCollectionIfSearchWordIsBlank
+Wed May 16 02:10:59 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.utils.StringToolsTest
+Wed May 16 02:11:00 UTC 2018: Found element on the queue
+Wed May 16 02:11:00 UTC 2018: Updating status
+Wed May 16 02:11:00 UTC 2018: Working
+Wed May 16 02:11:02 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.utils.TimeUtilTest
+Wed May 16 02:11:02 UTC 2018: Setting lastTestMethodIndex: 56650
+Wed May 16 02:11:02 UTC 2018: Starting linking
+Wed May 16 02:11:02 UTC 2018: Code found uk.ac.kcl.iop.brc.core.pipeline.common.utils.TimeUtil-getDateFromString with uk.ac.kcl.iop.brc.core.pipeline.common.utils.TimeUtilTest-shouldGetDateFromString
+Wed May 16 02:11:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:11:02 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.TimeUtilTest-shouldAllowRegexInDateFormat
+Wed May 16 02:11:03 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.utils.TimeUtilTest
+Wed May 16 02:11:03 UTC 2018: Found element on the queue
+Wed May 16 02:11:03 UTC 2018: Updating status
+Wed May 16 02:11:03 UTC 2018: Working
+Wed May 16 02:11:06 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.utils.ArrayUtilTest
+Wed May 16 02:11:06 UTC 2018: Setting lastTestMethodIndex: 56652
+Wed May 16 02:11:06 UTC 2018: Starting linking
+Wed May 16 02:11:06 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.ArrayUtilTest-shouldReturnFalseIfStringArrayIsNotEmpty
+Wed May 16 02:11:06 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.ArrayUtilTest-shouldReturnTrueIfStringArrayIsEmpty
+Wed May 16 02:11:06 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.ArrayUtilTest-shouldReturnTrueIfStringArrayIsNull
+Wed May 16 02:11:07 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.utils.ArrayUtilTest
+Wed May 16 02:11:07 UTC 2018: Found element on the queue
+Wed May 16 02:11:07 UTC 2018: Updating status
+Wed May 16 02:11:07 UTC 2018: Working
+Wed May 16 02:11:10 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.utils.MatchingWindowTest
+Wed May 16 02:11:10 UTC 2018: Setting lastTestMethodIndex: 56654
+Wed May 16 02:11:10 UTC 2018: Starting linking
+Wed May 16 02:11:10 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.MatchingWindowTest-shouldReturnTrueIfScoreIsEqualToThreshold
+Wed May 16 02:11:10 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.MatchingWindowTest-shouldReturnFalseIfScoreIsBelowThreshold
+Wed May 16 02:11:10 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.MatchingWindowTest-shouldReplaceDoubleQuotes
+Wed May 16 02:11:11 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.common.utils.MatchingWindowTest-shouldReturnTrueIfScoreIsAboveThreshold
+Wed May 16 02:11:11 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.utils.MatchingWindowTest
+Wed May 16 02:11:11 UTC 2018: Found element on the queue
+Wed May 16 02:11:11 UTC 2018: Updating status
+Wed May 16 02:11:11 UTC 2018: Working
+Wed May 16 02:11:14 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.service.FileTypeServiceTest
+Wed May 16 02:11:14 UTC 2018: Setting lastTestMethodIndex: 56657
+Wed May 16 02:11:14 UTC 2018: Starting linking
+Wed May 16 02:11:14 UTC 2018: Code found uk.ac.kcl.iop.brc.core.pipeline.common.service.FileTypeService-isPDF with uk.ac.kcl.iop.brc.core.pipeline.common.service.FileTypeServiceTest-shouldCheckIfFileTypeIsPDF
+Wed May 16 02:11:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:11:14 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.common.service.FileTypeServiceTest
+Wed May 16 02:11:15 UTC 2018: Found element on the queue
+Wed May 16 02:11:15 UTC 2018: Updating status
+Wed May 16 02:11:15 UTC 2018: Working
+Wed May 16 02:11:15 UTC 2018: Create project parser
+Wed May 16 02:11:18 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.commandline.CommandCreateModeFromFileTest
+Wed May 16 02:11:18 UTC 2018: Setting lastTestMethodIndex: 56661
+Wed May 16 02:11:18 UTC 2018: Starting linking
+Wed May 16 02:11:18 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.commandline.CommandCreateModeFromFileTest-shouldThrowExceptionIfFilePathIsNotGiven
+Wed May 16 02:11:18 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.commandline.CommandCreateModeFromFileTest-shouldCallPipelineServiceWhenFilePathIsGiven
+Wed May 16 02:11:18 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.commandline.CommandCreateModeFromFileTest
+Wed May 16 02:11:19 UTC 2018: Found element on the queue
+Wed May 16 02:11:19 UTC 2018: Updating status
+Wed May 16 02:11:19 UTC 2018: Working
+Wed May 16 02:11:21 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest
+Wed May 16 02:11:21 UTC 2018: Setting lastTestMethodIndex: 56663
+Wed May 16 02:11:21 UTC 2018: Starting linking
+Wed May 16 02:11:21 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest-shouldReturnEmptyListWhenNamesListIsNull
+Wed May 16 02:11:22 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest-shouldSplitLastNamesWhenThereIsDash
+Wed May 16 02:11:22 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest-shouldSeparateNamesWithMultipleWords
+Wed May 16 02:11:22 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest-shouldSplitForeNamesWhenThereIsDash
+Wed May 16 02:11:23 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest-shouldSeparateSurnamesWithMultipleWords
+Wed May 16 02:11:23 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest-shouldNotAddNamesWithLessThanFourCharacters
+Wed May 16 02:11:23 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest-shouldGetNamesInDescendingLengthOrder
+Wed May 16 02:11:23 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest-shouldConvertJsonToPatient
+Wed May 16 02:11:24 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientTest
+Wed May 16 02:11:24 UTC 2018: Found element on the queue
+Wed May 16 02:11:24 UTC 2018: Updating status
+Wed May 16 02:11:24 UTC 2018: Working
+Wed May 16 02:11:27 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientAddressTest
+Wed May 16 02:11:27 UTC 2018: Setting lastTestMethodIndex: 56666
+Wed May 16 02:11:27 UTC 2018: Starting linking
+Wed May 16 02:11:27 UTC 2018: Code found uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientAddress-isNotTooShort with uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientAddressTest-shouldReturnFalseIfAddressIsNotTooShort
+Wed May 16 02:11:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:11:27 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientAddressTest-shouldReturnFalseWhenPostCodeAndAddressAreBothEmpty
+Wed May 16 02:11:27 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientAddressTest
+Wed May 16 02:11:28 UTC 2018: Found element on the queue
+Wed May 16 02:11:28 UTC 2018: Updating status
+Wed May 16 02:11:28 UTC 2018: Working
+Wed May 16 02:11:30 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientCarerTest
+Wed May 16 02:11:30 UTC 2018: Setting lastTestMethodIndex: 56670
+Wed May 16 02:11:30 UTC 2018: Starting linking
+Wed May 16 02:11:30 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientCarerTest-shouldGetSeparatedForeNames
+Wed May 16 02:11:31 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientCarerTest-shouldGetEmptyListWhenForeNameIsNull
+Wed May 16 02:11:31 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.model.PatientCarerTest
+Wed May 16 02:11:31 UTC 2018: Found element on the queue
+Wed May 16 02:11:31 UTC 2018: Updating status
+Wed May 16 02:11:31 UTC 2018: Working
+Wed May 16 02:11:34 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.CoordinatorServiceTest
+Wed May 16 02:11:34 UTC 2018: Setting lastTestMethodIndex: 56672
+Wed May 16 02:11:34 UTC 2018: Starting linking
+Wed May 16 02:11:34 UTC 2018: Code found uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.CoordinatorService-getChunkOfList with uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.CoordinatorServiceTest-shouldGetChunkOfList
+Wed May 16 02:11:34 UTC 2018: Match not added in database because it already exists
+Wed May 16 02:11:34 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.CoordinatorServiceTest-shouldReturnEmptyListIfRequestedStartPositionIsBeyondTheSizeOfTheList
+Wed May 16 02:11:35 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.CoordinatorServiceTest-shouldGetTheRestIfChunkIsTooBig
+Wed May 16 02:11:35 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.CoordinatorServiceTest
+Wed May 16 02:11:36 UTC 2018: Found element on the queue
+Wed May 16 02:11:36 UTC 2018: Updating status
+Wed May 16 02:11:36 UTC 2018: Working
+Wed May 16 02:11:38 UTC 2018: Start KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.anonymisation.TemplateFillerTest
+Wed May 16 02:11:38 UTC 2018: Setting lastTestMethodIndex: 56676
+Wed May 16 02:11:38 UTC 2018: Starting linking
+Wed May 16 02:11:38 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.anonymisation.TemplateFillerTest-shouldFillVelocityTemplate
+Wed May 16 02:11:38 UTC 2018: No link for: uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.anonymisation.TemplateFillerTest-shouldStringSplittingWork
+Wed May 16 02:11:39 UTC 2018: Linking done for KHP-Informatics__Cognition-DNC test class uk.ac.kcl.iop.brc.core.pipeline.dncpipeline.service.anonymisation.TemplateFillerTest

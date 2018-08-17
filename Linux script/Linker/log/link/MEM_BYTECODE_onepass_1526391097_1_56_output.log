@@ -1,0 +1,1530 @@
+Tue May 15 15:57:25 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 15:57:25 UTC 2018: Starting
+Tue May 15 15:57:26 UTC 2018: Found element on the queue
+Tue May 15 15:57:26 UTC 2018: Updating status
+Tue May 15 15:57:26 UTC 2018: Working
+Tue May 15 15:57:26 UTC 2018: Create project parser
+Tue May 15 15:57:46 UTC 2018: Create slicer
+Tue May 15 15:57:50 UTC 2018: Create call graph
+Tue May 15 15:58:00 UTC 2018: Create point analysis
+Tue May 15 15:58:00 UTC 2018: Create call graph done
+Tue May 15 15:58:00 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.RenameViewStatementTest
+Tue May 15 15:58:00 UTC 2018: Setting lastTestMethodIndex: 37370
+Tue May 15 15:58:00 UTC 2018: Starting linking
+Tue May 15 15:58:00 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.RenameViewStatementTest
+Tue May 15 15:58:01 UTC 2018: Found element on the queue
+Tue May 15 15:58:01 UTC 2018: Updating status
+Tue May 15 15:58:01 UTC 2018: Working
+Tue May 15 15:58:03 UTC 2018: Start EduShareOntario__liquibase test class liquibase.serializer.core.yaml.YamlChangeLogSerializerTest
+Tue May 15 15:58:03 UTC 2018: Setting lastTestMethodIndex: 37372
+Tue May 15 15:58:03 UTC 2018: Starting linking
+Tue May 15 15:58:03 UTC 2018: Code found liquibase.serializer.core.yaml.YamlChangeLogSerializer-serialize with liquibase.serializer.core.yaml.YamlChangeLogSerializerTest-serialize__change
+Tue May 15 15:58:04 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.serializer.core.yaml.YamlChangeLogSerializerTest
+Tue May 15 15:58:04 UTC 2018: Found element on the queue
+Tue May 15 15:58:04 UTC 2018: Updating status
+Tue May 15 15:58:04 UTC 2018: Working
+Tue May 15 15:58:06 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.DB2DatabaseTest
+Tue May 15 15:58:06 UTC 2018: Setting lastTestMethodIndex: 37374
+Tue May 15 15:58:06 UTC 2018: Starting linking
+Tue May 15 15:58:06 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.DB2DatabaseTest
+Tue May 15 15:58:07 UTC 2018: Found element on the queue
+Tue May 15 15:58:07 UTC 2018: Updating status
+Tue May 15 15:58:07 UTC 2018: Working
+Tue May 15 15:58:09 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DeleteStatementTest
+Tue May 15 15:58:09 UTC 2018: Setting lastTestMethodIndex: 37376
+Tue May 15 15:58:09 UTC 2018: Starting linking
+Tue May 15 15:58:09 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DeleteStatementTest
+Tue May 15 15:58:10 UTC 2018: Found element on the queue
+Tue May 15 15:58:10 UTC 2018: Updating status
+Tue May 15 15:58:10 UTC 2018: Working
+Tue May 15 15:58:12 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.RenameColumnStatementTest
+Tue May 15 15:58:12 UTC 2018: Setting lastTestMethodIndex: 37377
+Tue May 15 15:58:12 UTC 2018: Starting linking
+Tue May 15 15:58:12 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.RenameColumnStatementTest
+Tue May 15 15:58:13 UTC 2018: Found element on the queue
+Tue May 15 15:58:13 UTC 2018: Updating status
+Tue May 15 15:58:13 UTC 2018: Working
+Tue May 15 15:58:15 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.AddColumnStatementTest
+Tue May 15 15:58:15 UTC 2018: Setting lastTestMethodIndex: 37379
+Tue May 15 15:58:15 UTC 2018: Starting linking
+Tue May 15 15:58:15 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.AddColumnStatementTest
+Tue May 15 15:58:16 UTC 2018: Found element on the queue
+Tue May 15 15:58:16 UTC 2018: Updating status
+Tue May 15 15:58:16 UTC 2018: Working
+Tue May 15 15:58:18 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.FindForeignKeyConstraintsStatementTest
+Tue May 15 15:58:18 UTC 2018: Setting lastTestMethodIndex: 37381
+Tue May 15 15:58:18 UTC 2018: Starting linking
+Tue May 15 15:58:18 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.FindForeignKeyConstraintsStatementTest
+Tue May 15 15:58:19 UTC 2018: Found element on the queue
+Tue May 15 15:58:19 UTC 2018: Updating status
+Tue May 15 15:58:19 UTC 2018: Working
+Tue May 15 15:58:21 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.OracleDatabaseTest
+Tue May 15 15:58:21 UTC 2018: Setting lastTestMethodIndex: 37383
+Tue May 15 15:58:21 UTC 2018: Starting linking
+Tue May 15 15:58:21 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-getCurrentDateTimeFunction with liquibase.database.core.OracleDatabaseTest-getCurrentDateTimeFunction
+Tue May 15 15:58:21 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.OracleDatabaseTest-escapeTableName_withSchema
+Tue May 15 15:58:21 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.OracleDatabaseTest-escapeTableName_noSchema
+Tue May 15 15:58:21 UTC 2018: No code found liquibase.database.AbstractJdbcDatabase-supportsInitiallyDeferrableColumns with liquibase.database.core.OracleDatabaseTest-supportsInitiallyDeferrableColumns
+Tue May 15 15:58:22 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.OracleDatabaseTest
+Tue May 15 15:58:22 UTC 2018: Found element on the queue
+Tue May 15 15:58:22 UTC 2018: Updating status
+Tue May 15 15:58:22 UTC 2018: Working
+Tue May 15 15:58:24 UTC 2018: Start EduShareOntario__liquibase test class liquibase.serializer.ChangeLogSerializerFactoryTest
+Tue May 15 15:58:24 UTC 2018: Setting lastTestMethodIndex: 37385
+Tue May 15 15:58:24 UTC 2018: Starting linking
+Tue May 15 15:58:24 UTC 2018: Code found liquibase.serializer.ChangeLogSerializerFactory-register with liquibase.serializer.ChangeLogSerializerFactoryTest-register
+Tue May 15 15:58:25 UTC 2018: Code found liquibase.serializer.ChangeLogSerializerFactory-unregister with liquibase.serializer.ChangeLogSerializerFactoryTest-unregister_instance
+Tue May 15 15:58:25 UTC 2018: Code found liquibase.serializer.ChangeLogSerializerFactory-getInstance with liquibase.serializer.ChangeLogSerializerFactoryTest-getInstance
+Tue May 15 15:58:25 UTC 2018: Code found liquibase.serializer.ChangeLogSerializerFactory-reset with liquibase.serializer.ChangeLogSerializerFactoryTest-reset
+Tue May 15 15:58:25 UTC 2018: Code found liquibase.serializer.ChangeLogSerializerFactory-getSerializers with liquibase.serializer.ChangeLogSerializerFactoryTest-getSerializers
+Tue May 15 15:58:25 UTC 2018: No link for: liquibase.serializer.ChangeLogSerializerFactoryTest-builtInSerializersAreFound
+Tue May 15 15:58:25 UTC 2018: No link for: liquibase.serializer.ChangeLogSerializerFactoryTest-highestPrioritySerializerReturned
+Tue May 15 15:58:25 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.serializer.ChangeLogSerializerFactoryTest
+Tue May 15 15:58:26 UTC 2018: Found element on the queue
+Tue May 15 15:58:26 UTC 2018: Updating status
+Tue May 15 15:58:26 UTC 2018: Working
+Tue May 15 15:58:28 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.StoredProcedureStatementTest
+Tue May 15 15:58:28 UTC 2018: Setting lastTestMethodIndex: 37386
+Tue May 15 15:58:28 UTC 2018: Starting linking
+Tue May 15 15:58:28 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.StoredProcedureStatementTest
+Tue May 15 15:58:29 UTC 2018: Found element on the queue
+Tue May 15 15:58:29 UTC 2018: Updating status
+Tue May 15 15:58:29 UTC 2018: Working
+Tue May 15 15:58:31 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropIndexStatementTest
+Tue May 15 15:58:31 UTC 2018: Setting lastTestMethodIndex: 37388
+Tue May 15 15:58:31 UTC 2018: Starting linking
+Tue May 15 15:58:31 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropIndexStatementTest
+Tue May 15 15:58:31 UTC 2018: Found element on the queue
+Tue May 15 15:58:31 UTC 2018: Updating status
+Tue May 15 15:58:31 UTC 2018: Working
+Tue May 15 15:58:34 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.commandline.MainTest
+Tue May 15 15:58:34 UTC 2018: Setting lastTestMethodIndex: 37390
+Tue May 15 15:58:34 UTC 2018: Starting linking
+Tue May 15 15:58:34 UTC 2018: Code found liquibase.integration.commandline.Main-configureClassLoader with liquibase.integration.commandline.MainTest-unixConfigureClassLoaderLocation
+Tue May 15 15:58:34 UTC 2018: Code found liquibase.integration.commandline.Main-applyDefaults with liquibase.integration.commandline.MainTest-applyDefaults
+Tue May 15 15:58:34 UTC 2018: Code found liquibase.integration.commandline.Main-checkSetup with liquibase.integration.commandline.MainTest-checkSetup
+Tue May 15 15:58:34 UTC 2018: Code found liquibase.integration.commandline.Main-printHelp with liquibase.integration.commandline.MainTest-printHelp
+Tue May 15 15:58:34 UTC 2018: Code found liquibase.integration.commandline.Main-configureClassLoader with liquibase.integration.commandline.MainTest-windowsConfigureClassLoaderLocation
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-testVersionArg
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-parameterWithoutDash
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-tag
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-testDatabaseChangeLogTableName_Options
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-configureNonExistantClassloaderLocation
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-migrateWithAllParameters
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-propertiesFileWithBadArgs
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-testDatabaseChangeLogTableName_Properties
+Tue May 15 15:58:35 UTC 2018: No link for: liquibase.integration.commandline.MainTest-falseBooleanParameters
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-propertiesFileParsingShouldIgnoreUnknownArgumentsIfStrictFalseIsInFile
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-unknownParameter
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-propertiesFileWithNoOtherArgs
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-propertiesFileParsingShouldIgnoreUnknownArgumentsIfStrictModeIsFalse
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-trueBooleanParameters
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-propertiesFileWithOtherArgs
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-testSplitArgWithValueEndingByEqualSing
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-migrateWithEqualsInParams
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-convertMigrateToUpdate
+Tue May 15 15:58:36 UTC 2018: No link for: liquibase.integration.commandline.MainTest-propertiesFileParsingShouldFailOnUnknownArgumentsIfStrictMode
+Tue May 15 15:58:37 UTC 2018: No link for: liquibase.integration.commandline.MainTest-fixArgs
+Tue May 15 15:58:37 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.commandline.MainTest
+Tue May 15 15:58:37 UTC 2018: Found element on the queue
+Tue May 15 15:58:37 UTC 2018: Updating status
+Tue May 15 15:58:37 UTC 2018: Working
+Tue May 15 15:58:40 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.AddUniqueConstraintStatementTest
+Tue May 15 15:58:40 UTC 2018: Setting lastTestMethodIndex: 37392
+Tue May 15 15:58:40 UTC 2018: Starting linking
+Tue May 15 15:58:40 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.AddUniqueConstraintStatementTest
+Tue May 15 15:58:41 UTC 2018: Found element on the queue
+Tue May 15 15:58:41 UTC 2018: Updating status
+Tue May 15 15:58:41 UTC 2018: Working
+Tue May 15 15:58:43 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.MariaDBDatabaseTest
+Tue May 15 15:58:43 UTC 2018: Setting lastTestMethodIndex: 37394
+Tue May 15 15:58:43 UTC 2018: Starting linking
+Tue May 15 15:58:43 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.MariaDBDatabaseTest-escapeTableName_noSchema
+Tue May 15 15:58:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:58:43 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-getCurrentDateTimeFunction with liquibase.database.core.MariaDBDatabaseTest-getCurrentDateTimeFunction
+Tue May 15 15:58:43 UTC 2018: No code found liquibase.database.AbstractJdbcDatabase-getDefaultDriver with liquibase.database.core.MariaDBDatabaseTest-testGetDefaultDriver
+Tue May 15 15:58:43 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeStringForDatabase with liquibase.database.core.MariaDBDatabaseTest-escapeStringForDatabase_withBackslashes
+Tue May 15 15:58:43 UTC 2018: No code found liquibase.database.AbstractJdbcDatabase-supportsInitiallyDeferrableColumns with liquibase.database.core.MariaDBDatabaseTest-supportsInitiallyDeferrableColumns
+Tue May 15 15:58:44 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.MariaDBDatabaseTest-escapeTableName_withSchema
+Tue May 15 15:58:44 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:58:44 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.MariaDBDatabaseTest
+Tue May 15 15:58:44 UTC 2018: Found element on the queue
+Tue May 15 15:58:44 UTC 2018: Updating status
+Tue May 15 15:58:44 UTC 2018: Working
+Tue May 15 15:58:47 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.ChangeLogSyncTaskTest
+Tue May 15 15:58:47 UTC 2018: Setting lastTestMethodIndex: 37395
+Tue May 15 15:58:47 UTC 2018: Starting linking
+Tue May 15 15:58:47 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.ChangeLogSyncTaskTest
+Tue May 15 15:58:47 UTC 2018: Found element on the queue
+Tue May 15 15:58:47 UTC 2018: Updating status
+Tue May 15 15:58:47 UTC 2018: Working
+Tue May 15 15:58:49 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.PostgresDatabaseTest
+Tue May 15 15:58:49 UTC 2018: Setting lastTestMethodIndex: 37397
+Tue May 15 15:58:49 UTC 2018: Starting linking
+Tue May 15 15:58:49 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.PostgresDatabaseTest-escapeTableName_all
+Tue May 15 15:58:50 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.PostgresDatabaseTest-escapeTableName_withSchema
+Tue May 15 15:58:50 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.PostgresDatabaseTest-escapeTableName_reservedWordOnly
+Tue May 15 15:58:50 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.PostgresDatabaseTest-escapeTableName_noSchema
+Tue May 15 15:58:50 UTC 2018: No code found liquibase.database.AbstractJdbcDatabase-supportsInitiallyDeferrableColumns with liquibase.database.core.PostgresDatabaseTest-supportsInitiallyDeferrableColumns
+Tue May 15 15:58:50 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-getCurrentDateTimeFunction with liquibase.database.core.PostgresDatabaseTest-getCurrentDateTimeFunction
+Tue May 15 15:58:50 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:58:50 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.PostgresDatabaseTest-escapeTableName_reservedWord
+Tue May 15 15:58:50 UTC 2018: No link for: liquibase.database.core.PostgresDatabaseTest-testCheckDatabaseChangeLogTable
+Tue May 15 15:58:50 UTC 2018: No link for: liquibase.database.core.PostgresDatabaseTest-testDropDatabaseObjects
+Tue May 15 15:58:50 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.PostgresDatabaseTest
+Tue May 15 15:58:51 UTC 2018: Found element on the queue
+Tue May 15 15:58:51 UTC 2018: Updating status
+Tue May 15 15:58:51 UTC 2018: Working
+Tue May 15 15:58:53 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.AddDefaultValueStatementTest
+Tue May 15 15:58:53 UTC 2018: Setting lastTestMethodIndex: 37398
+Tue May 15 15:58:53 UTC 2018: Starting linking
+Tue May 15 15:58:53 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.AddDefaultValueStatementTest
+Tue May 15 15:58:54 UTC 2018: Found element on the queue
+Tue May 15 15:58:54 UTC 2018: Updating status
+Tue May 15 15:58:54 UTC 2018: Working
+Tue May 15 15:58:56 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.DatabaseRollbackTaskTest
+Tue May 15 15:58:56 UTC 2018: Setting lastTestMethodIndex: 37399
+Tue May 15 15:58:56 UTC 2018: Starting linking
+Tue May 15 15:58:56 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.DatabaseRollbackTaskTest
+Tue May 15 15:58:56 UTC 2018: Found element on the queue
+Tue May 15 15:58:56 UTC 2018: Updating status
+Tue May 15 15:58:56 UTC 2018: Working
+Tue May 15 15:58:59 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.CreateViewStatementTest
+Tue May 15 15:58:59 UTC 2018: Setting lastTestMethodIndex: 37401
+Tue May 15 15:58:59 UTC 2018: Starting linking
+Tue May 15 15:58:59 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.CreateViewStatementTest
+Tue May 15 15:58:59 UTC 2018: Found element on the queue
+Tue May 15 15:58:59 UTC 2018: Updating status
+Tue May 15 15:58:59 UTC 2018: Working
+Tue May 15 15:59:02 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.DatabaseUpdateTaskTest
+Tue May 15 15:59:02 UTC 2018: Setting lastTestMethodIndex: 37403
+Tue May 15 15:59:02 UTC 2018: Starting linking
+Tue May 15 15:59:02 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.DatabaseUpdateTaskTest
+Tue May 15 15:59:02 UTC 2018: Found element on the queue
+Tue May 15 15:59:02 UTC 2018: Updating status
+Tue May 15 15:59:02 UTC 2018: Working
+Tue May 15 15:59:05 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.SetColumnRemarksStatementTest
+Tue May 15 15:59:05 UTC 2018: Setting lastTestMethodIndex: 37404
+Tue May 15 15:59:05 UTC 2018: Starting linking
+Tue May 15 15:59:05 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.SetColumnRemarksStatementTest
+Tue May 15 15:59:05 UTC 2018: Found element on the queue
+Tue May 15 15:59:05 UTC 2018: Updating status
+Tue May 15 15:59:05 UTC 2018: Working
+Tue May 15 15:59:08 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.CreateSequenceStatementTest
+Tue May 15 15:59:08 UTC 2018: Setting lastTestMethodIndex: 37406
+Tue May 15 15:59:08 UTC 2018: Starting linking
+Tue May 15 15:59:08 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.CreateSequenceStatementTest
+Tue May 15 15:59:08 UTC 2018: Found element on the queue
+Tue May 15 15:59:08 UTC 2018: Updating status
+Tue May 15 15:59:08 UTC 2018: Working
+Tue May 15 15:59:11 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.InformixDatabaseTest
+Tue May 15 15:59:11 UTC 2018: Setting lastTestMethodIndex: 37408
+Tue May 15 15:59:11 UTC 2018: Starting linking
+Tue May 15 15:59:11 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.InformixDatabaseTest
+Tue May 15 15:59:11 UTC 2018: Found element on the queue
+Tue May 15 15:59:11 UTC 2018: Updating status
+Tue May 15 15:59:11 UTC 2018: Working
+Tue May 15 15:59:13 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.DatabaseUpdateTestingRollbackTaskTest
+Tue May 15 15:59:14 UTC 2018: Setting lastTestMethodIndex: 37409
+Tue May 15 15:59:14 UTC 2018: Starting linking
+Tue May 15 15:59:14 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.DatabaseUpdateTestingRollbackTaskTest
+Tue May 15 15:59:14 UTC 2018: Found element on the queue
+Tue May 15 15:59:14 UTC 2018: Updating status
+Tue May 15 15:59:14 UTC 2018: Working
+Tue May 15 15:59:16 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.TagDatabaseTaskTest
+Tue May 15 15:59:16 UTC 2018: Setting lastTestMethodIndex: 37410
+Tue May 15 15:59:16 UTC 2018: Starting linking
+Tue May 15 15:59:16 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.TagDatabaseTaskTest
+Tue May 15 15:59:17 UTC 2018: Found element on the queue
+Tue May 15 15:59:17 UTC 2018: Updating status
+Tue May 15 15:59:17 UTC 2018: Working
+Tue May 15 15:59:19 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropTableStatementTest
+Tue May 15 15:59:19 UTC 2018: Setting lastTestMethodIndex: 37411
+Tue May 15 15:59:19 UTC 2018: Starting linking
+Tue May 15 15:59:19 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropTableStatementTest
+Tue May 15 15:59:20 UTC 2018: Found element on the queue
+Tue May 15 15:59:20 UTC 2018: Updating status
+Tue May 15 15:59:20 UTC 2018: Working
+Tue May 15 15:59:22 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.MySQLDatabaseTest
+Tue May 15 15:59:22 UTC 2018: Setting lastTestMethodIndex: 37412
+Tue May 15 15:59:22 UTC 2018: Starting linking
+Tue May 15 15:59:22 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-getCurrentDateTimeFunction with liquibase.database.core.MySQLDatabaseTest-getCurrentDateTimeFunction
+Tue May 15 15:59:22 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:59:22 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeStringForDatabase with liquibase.database.core.MySQLDatabaseTest-escapeStringForDatabase_withBackslashes
+Tue May 15 15:59:22 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:59:22 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.MySQLDatabaseTest-escapeTableName_noSchema
+Tue May 15 15:59:22 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:59:22 UTC 2018: Code found liquibase.database.AbstractJdbcDatabase-escapeTableName with liquibase.database.core.MySQLDatabaseTest-escapeTableName_withSchema
+Tue May 15 15:59:22 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:59:22 UTC 2018: No code found liquibase.database.AbstractJdbcDatabase-supportsInitiallyDeferrableColumns with liquibase.database.core.MySQLDatabaseTest-supportsInitiallyDeferrableColumns
+Tue May 15 15:59:23 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.MySQLDatabaseTest
+Tue May 15 15:59:23 UTC 2018: Found element on the queue
+Tue May 15 15:59:23 UTC 2018: Updating status
+Tue May 15 15:59:23 UTC 2018: Working
+Tue May 15 15:59:26 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.DiffDatabaseTaskTest
+Tue May 15 15:59:26 UTC 2018: Setting lastTestMethodIndex: 37413
+Tue May 15 15:59:26 UTC 2018: Starting linking
+Tue May 15 15:59:26 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.DiffDatabaseTaskTest
+Tue May 15 15:59:26 UTC 2018: Found element on the queue
+Tue May 15 15:59:26 UTC 2018: Updating status
+Tue May 15 15:59:26 UTC 2018: Working
+Tue May 15 15:59:29 UTC 2018: Start EduShareOntario__liquibase test class liquibase.structure.core.PrimaryKeyTest
+Tue May 15 15:59:29 UTC 2018: Setting lastTestMethodIndex: 37415
+Tue May 15 15:59:29 UTC 2018: Starting linking
+Tue May 15 15:59:29 UTC 2018: No link for: liquibase.structure.core.PrimaryKeyTest-setColumn_singlePKColumn
+Tue May 15 15:59:29 UTC 2018: No link for: liquibase.structure.core.PrimaryKeyTest-setColumn_outOfOrder
+Tue May 15 15:59:29 UTC 2018: No link for: liquibase.structure.core.PrimaryKeyTest-setColumn_inOrder
+Tue May 15 15:59:29 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.structure.core.PrimaryKeyTest
+Tue May 15 15:59:30 UTC 2018: Found element on the queue
+Tue May 15 15:59:30 UTC 2018: Updating status
+Tue May 15 15:59:30 UTC 2018: Working
+Tue May 15 15:59:32 UTC 2018: Start EduShareOntario__liquibase test class liquibase.diff.DiffGeneratorFactoryTest
+Tue May 15 15:59:32 UTC 2018: Setting lastTestMethodIndex: 37417
+Tue May 15 15:59:32 UTC 2018: Starting linking
+Tue May 15 15:59:32 UTC 2018: Code found liquibase.diff.DiffGeneratorFactory-getGenerator with liquibase.diff.DiffGeneratorFactoryTest-getGenerator
+Tue May 15 15:59:32 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.diff.DiffGeneratorFactoryTest
+Tue May 15 15:59:33 UTC 2018: Found element on the queue
+Tue May 15 15:59:33 UTC 2018: Updating status
+Tue May 15 15:59:33 UTC 2018: Working
+Tue May 15 15:59:35 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.MarkNextChangeSetRanTaskTest
+Tue May 15 15:59:35 UTC 2018: Setting lastTestMethodIndex: 37419
+Tue May 15 15:59:35 UTC 2018: Starting linking
+Tue May 15 15:59:35 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.MarkNextChangeSetRanTaskTest
+Tue May 15 15:59:35 UTC 2018: Found element on the queue
+Tue May 15 15:59:35 UTC 2018: Updating status
+Tue May 15 15:59:35 UTC 2018: Working
+Tue May 15 15:59:38 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.MSSQLDatabaseTest
+Tue May 15 15:59:38 UTC 2018: Setting lastTestMethodIndex: 37421
+Tue May 15 15:59:38 UTC 2018: Starting linking
+Tue May 15 15:59:38 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-unescapeDataTypeName with liquibase.database.core.MSSQLDatabaseTest-testUnescapeDataTypeName
+Tue May 15 15:59:38 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-unescapeDataTypeString with liquibase.database.core.MSSQLDatabaseTest-testUnescapeDataTypeString
+Tue May 15 15:59:38 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-escapeTableName with liquibase.database.core.MSSQLDatabaseTest-escapeTableName_noSchema
+Tue May 15 15:59:38 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-escapeTableName with liquibase.database.core.MSSQLDatabaseTest-escapeTableName_withSchema
+Tue May 15 15:59:38 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-supportsInitiallyDeferrableColumns with liquibase.database.core.MSSQLDatabaseTest-supportsInitiallyDeferrableColumns
+Tue May 15 15:59:39 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-getDefaultDriver with liquibase.database.core.MSSQLDatabaseTest-getDefaultDriver
+Tue May 15 15:59:39 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-escapeDataTypeName with liquibase.database.core.MSSQLDatabaseTest-testEscapeDataTypeName
+Tue May 15 15:59:39 UTC 2018: No link for: liquibase.database.core.MSSQLDatabaseTest-getCurrentDateTimeFunction
+Tue May 15 15:59:39 UTC 2018: No link for: liquibase.database.core.MSSQLDatabaseTest-changeDefaultSchema
+Tue May 15 15:59:39 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.MSSQLDatabaseTest
+Tue May 15 15:59:40 UTC 2018: Found element on the queue
+Tue May 15 15:59:40 UTC 2018: Updating status
+Tue May 15 15:59:40 UTC 2018: Working
+Tue May 15 15:59:42 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.GenerateChangeLogTaskTest
+Tue May 15 15:59:42 UTC 2018: Setting lastTestMethodIndex: 37423
+Tue May 15 15:59:42 UTC 2018: Starting linking
+Tue May 15 15:59:42 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.GenerateChangeLogTaskTest
+Tue May 15 15:59:42 UTC 2018: Found element on the queue
+Tue May 15 15:59:42 UTC 2018: Updating status
+Tue May 15 15:59:42 UTC 2018: Working
+Tue May 15 15:59:45 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.AlterSequenceStatementTest
+Tue May 15 15:59:45 UTC 2018: Setting lastTestMethodIndex: 37425
+Tue May 15 15:59:45 UTC 2018: Starting linking
+Tue May 15 15:59:45 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.AlterSequenceStatementTest
+Tue May 15 15:59:45 UTC 2018: Found element on the queue
+Tue May 15 15:59:45 UTC 2018: Updating status
+Tue May 15 15:59:45 UTC 2018: Working
+Tue May 15 15:59:48 UTC 2018: Start EduShareOntario__liquibase test class liquibase.diff.output.changelog.DiffToChangeLogTest
+Tue May 15 15:59:48 UTC 2018: Setting lastTestMethodIndex: 37427
+Tue May 15 15:59:48 UTC 2018: Starting linking
+Tue May 15 15:59:48 UTC 2018: Code found liquibase.diff.output.changelog.DiffToChangeLog-getOrderedOutputTypes with liquibase.diff.output.changelog.DiffToChangeLogTest-getOrderedOutputTypes_isConsistant
+Tue May 15 15:59:48 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.diff.output.changelog.DiffToChangeLogTest
+Tue May 15 15:59:49 UTC 2018: Found element on the queue
+Tue May 15 15:59:49 UTC 2018: Updating status
+Tue May 15 15:59:49 UTC 2018: Working
+Tue May 15 15:59:51 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.DiffDatabaseToChangeLogTaskTest
+Tue May 15 15:59:51 UTC 2018: Setting lastTestMethodIndex: 37429
+Tue May 15 15:59:51 UTC 2018: Starting linking
+Tue May 15 15:59:51 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.DiffDatabaseToChangeLogTaskTest
+Tue May 15 15:59:51 UTC 2018: Found element on the queue
+Tue May 15 15:59:51 UTC 2018: Updating status
+Tue May 15 15:59:52 UTC 2018: Working
+Tue May 15 15:59:54 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.DatabaseRollbackFutureTaskTest
+Tue May 15 15:59:54 UTC 2018: Setting lastTestMethodIndex: 37431
+Tue May 15 15:59:54 UTC 2018: Starting linking
+Tue May 15 15:59:54 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.DatabaseRollbackFutureTaskTest
+Tue May 15 15:59:54 UTC 2018: Found element on the queue
+Tue May 15 15:59:54 UTC 2018: Updating status
+Tue May 15 15:59:54 UTC 2018: Working
+Tue May 15 15:59:57 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.SetNullableStatementTest
+Tue May 15 15:59:57 UTC 2018: Setting lastTestMethodIndex: 37432
+Tue May 15 15:59:57 UTC 2018: Starting linking
+Tue May 15 15:59:57 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.SetNullableStatementTest
+Tue May 15 15:59:57 UTC 2018: Found element on the queue
+Tue May 15 15:59:57 UTC 2018: Updating status
+Tue May 15 15:59:57 UTC 2018: Working
+Tue May 15 16:00:00 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.AddPrimaryKeyStatementTest
+Tue May 15 16:00:00 UTC 2018: Setting lastTestMethodIndex: 37434
+Tue May 15 16:00:00 UTC 2018: Starting linking
+Tue May 15 16:00:00 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.AddPrimaryKeyStatementTest
+Tue May 15 16:00:00 UTC 2018: Found element on the queue
+Tue May 15 16:00:00 UTC 2018: Updating status
+Tue May 15 16:00:00 UTC 2018: Working
+Tue May 15 16:00:03 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.DBDocTaskTest
+Tue May 15 16:00:03 UTC 2018: Setting lastTestMethodIndex: 37436
+Tue May 15 16:00:03 UTC 2018: Starting linking
+Tue May 15 16:00:03 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.DBDocTaskTest
+Tue May 15 16:00:03 UTC 2018: Found element on the queue
+Tue May 15 16:00:03 UTC 2018: Updating status
+Tue May 15 16:00:03 UTC 2018: Working
+Tue May 15 16:00:06 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.OfflineDatabaseTest
+Tue May 15 16:00:06 UTC 2018: Setting lastTestMethodIndex: 37438
+Tue May 15 16:00:06 UTC 2018: Starting linking
+Tue May 15 16:00:06 UTC 2018: No link for: liquibase.database.core.OfflineDatabaseTest-canOutputSQLFromOfflineOracleDB
+Tue May 15 16:00:06 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.OfflineDatabaseTest
+Tue May 15 16:00:07 UTC 2018: Found element on the queue
+Tue May 15 16:00:07 UTC 2018: Updating status
+Tue May 15 16:00:07 UTC 2018: Working
+Tue May 15 16:00:09 UTC 2018: Start EduShareOntario__liquibase test class liquibase.diff.DiffResultTest
+Tue May 15 16:00:09 UTC 2018: Setting lastTestMethodIndex: 37440
+Tue May 15 16:00:09 UTC 2018: Starting linking
+Tue May 15 16:00:09 UTC 2018: No link for: liquibase.diff.DiffResultTest-dummy
+Tue May 15 16:00:09 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.diff.DiffResultTest
+Tue May 15 16:00:10 UTC 2018: Found element on the queue
+Tue May 15 16:00:10 UTC 2018: Updating status
+Tue May 15 16:00:10 UTC 2018: Working
+Tue May 15 16:00:12 UTC 2018: Start EduShareOntario__liquibase test class liquibase.precondition.PreconditionFactoryTest
+Tue May 15 16:00:12 UTC 2018: Setting lastTestMethodIndex: 37442
+Tue May 15 16:00:12 UTC 2018: Starting linking
+Tue May 15 16:00:12 UTC 2018: Code found liquibase.precondition.PreconditionFactory-getInstance with liquibase.precondition.PreconditionFactoryTest-getInstance
+Tue May 15 16:00:12 UTC 2018: Code found liquibase.precondition.PreconditionFactory-unregister with liquibase.precondition.PreconditionFactoryTest-unregister_instance
+Tue May 15 16:00:12 UTC 2018: Code found liquibase.precondition.PreconditionFactory-create with liquibase.precondition.PreconditionFactoryTest-createPreconditions
+Tue May 15 16:00:13 UTC 2018: Code found liquibase.precondition.PreconditionFactory-register with liquibase.precondition.PreconditionFactoryTest-register
+Tue May 15 16:00:13 UTC 2018: Code found liquibase.precondition.PreconditionFactory-reset with liquibase.precondition.PreconditionFactoryTest-reset
+Tue May 15 16:00:13 UTC 2018: No link for: liquibase.precondition.PreconditionFactoryTest-builtInGeneratorsAreFound
+Tue May 15 16:00:13 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.precondition.PreconditionFactoryTest
+Tue May 15 16:00:13 UTC 2018: Found element on the queue
+Tue May 15 16:00:13 UTC 2018: Updating status
+Tue May 15 16:00:13 UTC 2018: Working
+Tue May 15 16:00:16 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropViewStatementTest
+Tue May 15 16:00:16 UTC 2018: Setting lastTestMethodIndex: 37444
+Tue May 15 16:00:16 UTC 2018: Starting linking
+Tue May 15 16:00:16 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropViewStatementTest
+Tue May 15 16:00:16 UTC 2018: Found element on the queue
+Tue May 15 16:00:16 UTC 2018: Updating status
+Tue May 15 16:00:16 UTC 2018: Working
+Tue May 15 16:00:19 UTC 2018: Start EduShareOntario__liquibase test class liquibase.integration.ant.DropAllTaskTest
+Tue May 15 16:00:19 UTC 2018: Setting lastTestMethodIndex: 37445
+Tue May 15 16:00:19 UTC 2018: Starting linking
+Tue May 15 16:00:19 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.integration.ant.DropAllTaskTest
+Tue May 15 16:00:19 UTC 2018: Found element on the queue
+Tue May 15 16:00:19 UTC 2018: Updating status
+Tue May 15 16:00:19 UTC 2018: Working
+Tue May 15 16:00:22 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.UnsupportedDatabaseTest
+Tue May 15 16:00:22 UTC 2018: Setting lastTestMethodIndex: 37447
+Tue May 15 16:00:22 UTC 2018: Starting linking
+Tue May 15 16:00:22 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.UnsupportedDatabaseTest
+Tue May 15 16:00:22 UTC 2018: Found element on the queue
+Tue May 15 16:00:22 UTC 2018: Updating status
+Tue May 15 16:00:22 UTC 2018: Working
+Tue May 15 16:00:25 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.AddForeignKeyConstraintStatementTest
+Tue May 15 16:00:25 UTC 2018: Setting lastTestMethodIndex: 37449
+Tue May 15 16:00:25 UTC 2018: Starting linking
+Tue May 15 16:00:25 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.AddForeignKeyConstraintStatementTest
+Tue May 15 16:00:25 UTC 2018: Found element on the queue
+Tue May 15 16:00:25 UTC 2018: Updating status
+Tue May 15 16:00:25 UTC 2018: Working
+Tue May 15 16:00:28 UTC 2018: Start EduShareOntario__liquibase test class liquibase.lockservice.LockServiceFactoryTest
+Tue May 15 16:00:28 UTC 2018: Setting lastTestMethodIndex: 37451
+Tue May 15 16:00:28 UTC 2018: Starting linking
+Tue May 15 16:00:28 UTC 2018: Code found liquibase.lockservice.LockServiceFactory-getInstance with liquibase.lockservice.LockServiceFactoryTest-getInstance
+Tue May 15 16:00:28 UTC 2018: Code found liquibase.lockservice.LockServiceFactory-getLockService with liquibase.lockservice.LockServiceFactoryTest-getLockService
+Tue May 15 16:00:28 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.lockservice.LockServiceFactoryTest
+Tue May 15 16:00:28 UTC 2018: Found element on the queue
+Tue May 15 16:00:28 UTC 2018: Updating status
+Tue May 15 16:00:28 UTC 2018: Working
+Tue May 15 16:00:31 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.RenameSequenceStatementTest
+Tue May 15 16:00:31 UTC 2018: Setting lastTestMethodIndex: 37453
+Tue May 15 16:00:31 UTC 2018: Starting linking
+Tue May 15 16:00:31 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.RenameSequenceStatementTest
+Tue May 15 16:00:31 UTC 2018: Found element on the queue
+Tue May 15 16:00:31 UTC 2018: Updating status
+Tue May 15 16:00:31 UTC 2018: Working
+Tue May 15 16:00:34 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.H2DatabaseTest
+Tue May 15 16:00:34 UTC 2018: Setting lastTestMethodIndex: 37455
+Tue May 15 16:00:34 UTC 2018: Starting linking
+Tue May 15 16:00:34 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-escapeTableName with liquibase.database.core.H2DatabaseTest-escapeTableName_noSchema
+Tue May 15 16:00:34 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-escapeTableName with liquibase.database.core.H2DatabaseTest-escapeTableName_withSchema
+Tue May 15 16:00:34 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-getDefaultDriver with liquibase.database.core.H2DatabaseTest-testGetDefaultDriver
+Tue May 15 16:00:34 UTC 2018: Code found liquibase.database.core.MSSQLDatabase-supportsInitiallyDeferrableColumns with liquibase.database.core.H2DatabaseTest-supportsInitiallyDeferrableColumns
+Tue May 15 16:00:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:00:34 UTC 2018: No link for: liquibase.database.core.H2DatabaseTest-getCurrentDateTimeFunction
+Tue May 15 16:00:34 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.H2DatabaseTest
+Tue May 15 16:00:35 UTC 2018: Found element on the queue
+Tue May 15 16:00:35 UTC 2018: Updating status
+Tue May 15 16:00:35 UTC 2018: Working
+Tue May 15 16:00:37 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.UnlockDatabaseChangeLogGeneratorTest
+Tue May 15 16:00:37 UTC 2018: Setting lastTestMethodIndex: 37457
+Tue May 15 16:00:37 UTC 2018: Starting linking
+Tue May 15 16:00:37 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.UnlockDatabaseChangeLogGeneratorTest
+Tue May 15 16:00:38 UTC 2018: Found element on the queue
+Tue May 15 16:00:38 UTC 2018: Updating status
+Tue May 15 16:00:38 UTC 2018: Working
+Tue May 15 16:00:40 UTC 2018: Start EduShareOntario__liquibase test class liquibase.parser.core.xml.ClassLoaderXsdStreamResolverTest
+Tue May 15 16:00:40 UTC 2018: Setting lastTestMethodIndex: 37459
+Tue May 15 16:00:40 UTC 2018: Starting linking
+Tue May 15 16:00:40 UTC 2018: No link for: liquibase.parser.core.xml.ClassLoaderXsdStreamResolverTest-whenContextClassLoaderIsNullThenReturnSuccessorValue
+Tue May 15 16:00:41 UTC 2018: No link for: liquibase.parser.core.xml.ClassLoaderXsdStreamResolverTest-whenResourceStreamIsNotNullThenReturnStream
+Tue May 15 16:00:41 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.parser.core.xml.ClassLoaderXsdStreamResolverTest
+Tue May 15 16:00:41 UTC 2018: Found element on the queue
+Tue May 15 16:00:41 UTC 2018: Updating status
+Tue May 15 16:00:41 UTC 2018: Working
+Tue May 15 16:00:44 UTC 2018: Start EduShareOntario__liquibase test class liquibase.parser.core.xml.ContextClassLoaderXsdStreamResolverTest
+Tue May 15 16:00:44 UTC 2018: Setting lastTestMethodIndex: 37461
+Tue May 15 16:00:44 UTC 2018: Starting linking
+Tue May 15 16:00:44 UTC 2018: No link for: liquibase.parser.core.xml.ContextClassLoaderXsdStreamResolverTest-whenContextClassLoaderIsNullThenReturnSuccessorValue
+Tue May 15 16:00:44 UTC 2018: No link for: liquibase.parser.core.xml.ContextClassLoaderXsdStreamResolverTest-whenResourceStreamIsNotNullThenReturnStream
+Tue May 15 16:00:44 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.parser.core.xml.ContextClassLoaderXsdStreamResolverTest
+Tue May 15 16:00:45 UTC 2018: Found element on the queue
+Tue May 15 16:00:45 UTC 2018: Updating status
+Tue May 15 16:00:45 UTC 2018: Working
+Tue May 15 16:00:47 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.DatabaseFactoryTest
+Tue May 15 16:00:47 UTC 2018: Setting lastTestMethodIndex: 37463
+Tue May 15 16:00:47 UTC 2018: Starting linking
+Tue May 15 16:00:47 UTC 2018: Code found liquibase.database.DatabaseFactory-getInstance with liquibase.database.DatabaseFactoryTest-getInstance
+Tue May 15 16:00:47 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.DatabaseFactoryTest
+Tue May 15 16:00:48 UTC 2018: Found element on the queue
+Tue May 15 16:00:48 UTC 2018: Updating status
+Tue May 15 16:00:48 UTC 2018: Working
+Tue May 15 16:00:50 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.InsertStatementTest
+Tue May 15 16:00:50 UTC 2018: Setting lastTestMethodIndex: 37465
+Tue May 15 16:00:50 UTC 2018: Starting linking
+Tue May 15 16:00:50 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.InsertStatementTest
+Tue May 15 16:00:51 UTC 2018: Found element on the queue
+Tue May 15 16:00:51 UTC 2018: Updating status
+Tue May 15 16:00:51 UTC 2018: Working
+Tue May 15 16:00:53 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.CreateTableStatementTest
+Tue May 15 16:00:53 UTC 2018: Setting lastTestMethodIndex: 37467
+Tue May 15 16:00:53 UTC 2018: Starting linking
+Tue May 15 16:00:53 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.CreateTableStatementTest
+Tue May 15 16:00:54 UTC 2018: Found element on the queue
+Tue May 15 16:00:54 UTC 2018: Updating status
+Tue May 15 16:00:54 UTC 2018: Working
+Tue May 15 16:00:56 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.TagDatabaseGeneratorTest
+Tue May 15 16:00:56 UTC 2018: Setting lastTestMethodIndex: 37469
+Tue May 15 16:00:56 UTC 2018: Starting linking
+Tue May 15 16:00:56 UTC 2018: No link for: liquibase.sqlgenerator.core.TagDatabaseGeneratorTest-testMSSQL
+Tue May 15 16:00:56 UTC 2018: No link for: liquibase.sqlgenerator.core.TagDatabaseGeneratorTest-testHsql
+Tue May 15 16:00:56 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.TagDatabaseGeneratorTest
+Tue May 15 16:00:57 UTC 2018: Found element on the queue
+Tue May 15 16:00:57 UTC 2018: Updating status
+Tue May 15 16:00:57 UTC 2018: Working
+Tue May 15 16:00:59 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddColumnGeneratorDefaultClauseBeforeNotNullTest
+Tue May 15 16:00:59 UTC 2018: Setting lastTestMethodIndex: 37470
+Tue May 15 16:00:59 UTC 2018: Starting linking
+Tue May 15 16:00:59 UTC 2018: Code found liquibase.sqlgenerator.core.SelectFromDatabaseChangeLogLockGenerator-validate with liquibase.sqlgenerator.core.AddColumnGeneratorDefaultClauseBeforeNotNullTest-validate_noAutoIncrementWithDerby
+Tue May 15 16:00:59 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddColumnGeneratorDefaultClauseBeforeNotNullTest
+Tue May 15 16:01:00 UTC 2018: Found element on the queue
+Tue May 15 16:01:00 UTC 2018: Updating status
+Tue May 15 16:01:00 UTC 2018: Working
+Tue May 15 16:01:02 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.CreateDatabaseChangeLogLockTableGeneratorTest
+Tue May 15 16:01:02 UTC 2018: Setting lastTestMethodIndex: 37472
+Tue May 15 16:01:02 UTC 2018: Starting linking
+Tue May 15 16:01:02 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.CreateDatabaseChangeLogLockTableGeneratorTest
+Tue May 15 16:01:03 UTC 2018: Found element on the queue
+Tue May 15 16:01:03 UTC 2018: Updating status
+Tue May 15 16:01:03 UTC 2018: Working
+Tue May 15 16:01:05 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.UpdateExecutablePreparedStatementTest
+Tue May 15 16:01:05 UTC 2018: Setting lastTestMethodIndex: 37474
+Tue May 15 16:01:05 UTC 2018: Starting linking
+Tue May 15 16:01:05 UTC 2018: Code found liquibase.statement.UpdateExecutablePreparedStatement-execute with liquibase.statement.UpdateExecutablePreparedStatementTest-testExecuteWithNameValuePlaceholderPairs
+Tue May 15 16:01:05 UTC 2018: Code found liquibase.statement.UpdateExecutablePreparedStatement-execute with liquibase.statement.UpdateExecutablePreparedStatementTest-testExecuteWithParamPlaceholders
+Tue May 15 16:01:06 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.UpdateExecutablePreparedStatementTest
+Tue May 15 16:01:06 UTC 2018: Found element on the queue
+Tue May 15 16:01:06 UTC 2018: Updating status
+Tue May 15 16:01:06 UTC 2018: Working
+Tue May 15 16:01:09 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropDefaultValueStatementTest
+Tue May 15 16:01:09 UTC 2018: Setting lastTestMethodIndex: 37476
+Tue May 15 16:01:09 UTC 2018: Starting linking
+Tue May 15 16:01:09 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropDefaultValueStatementTest
+Tue May 15 16:01:09 UTC 2018: Found element on the queue
+Tue May 15 16:01:09 UTC 2018: Updating status
+Tue May 15 16:01:09 UTC 2018: Working
+Tue May 15 16:01:11 UTC 2018: Start EduShareOntario__liquibase test class liquibase.parser.core.xml.LiquibaseEntityResolverTest
+Tue May 15 16:01:12 UTC 2018: Setting lastTestMethodIndex: 37478
+Tue May 15 16:01:12 UTC 2018: Starting linking
+Tue May 15 16:01:12 UTC 2018: Code found liquibase.parser.core.xml.LiquibaseEntityResolver-resolveEntity with liquibase.parser.core.xml.LiquibaseEntityResolverTest-resolveEntityWithOnlyPublicIdAndSystemIdDelegatesToSchemResolver
+Tue May 15 16:01:12 UTC 2018: Code found liquibase.parser.core.xml.LiquibaseEntityResolver-getExternalSubset with liquibase.parser.core.xml.LiquibaseEntityResolverTest-getExternalSubsetShouldReturnNull
+Tue May 15 16:01:12 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseEntityResolverTest-shouldReturnSchemaResolverResultWhenSystemIdIsValidXsdAndSerializerIsNotNull
+Tue May 15 16:01:12 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseEntityResolverTest-shouldReturnSchemaResolverResultWhenSystemIdIsValidXsd
+Tue May 15 16:01:12 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseEntityResolverTest-whenSystemIdIsNotXsdAndResourceExceptionOccursReturnNull
+Tue May 15 16:01:12 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseEntityResolverTest-systemIdStartingWithMigratorShouldBeReplacedByDbChangelog
+Tue May 15 16:01:12 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseEntityResolverTest-shouldReturnNullSystemIdIsNull
+Tue May 15 16:01:12 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseEntityResolverTest-whenSystemIdIsNotXsdLoadResourceFromBasepathWithResourceAccessor
+Tue May 15 16:01:13 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseEntityResolverTest-whenSystemIdIsNotXsdAndResourceCouldNotBeLoadedFromResourceAccessorReturnNull
+Tue May 15 16:01:13 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.parser.core.xml.LiquibaseEntityResolverTest
+Tue May 15 16:01:13 UTC 2018: Found element on the queue
+Tue May 15 16:01:13 UTC 2018: Updating status
+Tue May 15 16:01:13 UTC 2018: Working
+Tue May 15 16:01:16 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddColumnGeneratorTest
+Tue May 15 16:01:16 UTC 2018: Setting lastTestMethodIndex: 37480
+Tue May 15 16:01:16 UTC 2018: Starting linking
+Tue May 15 16:01:16 UTC 2018: No link for: liquibase.sqlgenerator.core.AddColumnGeneratorTest-testAddMultipleColumnsMySql
+Tue May 15 16:01:16 UTC 2018: No link for: liquibase.sqlgenerator.core.AddColumnGeneratorTest-testAddColumnAfter
+Tue May 15 16:01:16 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddColumnGeneratorTest
+Tue May 15 16:01:16 UTC 2018: Found element on the queue
+Tue May 15 16:01:16 UTC 2018: Updating status
+Tue May 15 16:01:16 UTC 2018: Working
+Tue May 15 16:01:19 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.DatabaseListTest
+Tue May 15 16:01:19 UTC 2018: Setting lastTestMethodIndex: 37482
+Tue May 15 16:01:19 UTC 2018: Starting linking
+Tue May 15 16:01:19 UTC 2018: No link for: liquibase.database.DatabaseListTest-databaseMatchesDbmsDefinition
+Tue May 15 16:01:19 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.DatabaseListTest
+Tue May 15 16:01:20 UTC 2018: Found element on the queue
+Tue May 15 16:01:20 UTC 2018: Updating status
+Tue May 15 16:01:20 UTC 2018: Working
+Tue May 15 16:01:22 UTC 2018: Start EduShareOntario__liquibase test class liquibase.parser.core.xml.XMLChangeLogSAXParserTest
+Tue May 15 16:01:22 UTC 2018: Setting lastTestMethodIndex: 37484
+Tue May 15 16:01:22 UTC 2018: Starting linking
+Tue May 15 16:01:22 UTC 2018: No link for: liquibase.parser.core.xml.XMLChangeLogSAXParserTest-testIgnoreDuplicateChangeSets
+Tue May 15 16:01:22 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.parser.core.xml.XMLChangeLogSAXParserTest
+Tue May 15 16:01:23 UTC 2018: Found element on the queue
+Tue May 15 16:01:23 UTC 2018: Updating status
+Tue May 15 16:01:23 UTC 2018: Working
+Tue May 15 16:01:25 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.RawSqStatementTest
+Tue May 15 16:01:25 UTC 2018: Setting lastTestMethodIndex: 37486
+Tue May 15 16:01:25 UTC 2018: Starting linking
+Tue May 15 16:01:25 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.RawSqStatementTest
+Tue May 15 16:01:26 UTC 2018: Found element on the queue
+Tue May 15 16:01:26 UTC 2018: Updating status
+Tue May 15 16:01:27 UTC 2018: Working
+Tue May 15 16:01:29 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.DropIndexGeneratorTest
+Tue May 15 16:01:29 UTC 2018: Setting lastTestMethodIndex: 37488
+Tue May 15 16:01:29 UTC 2018: Starting linking
+Tue May 15 16:01:29 UTC 2018: No link for: liquibase.sqlgenerator.core.DropIndexGeneratorTest-shouldDropIndexInPostgreSQL
+Tue May 15 16:01:29 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.DropIndexGeneratorTest
+Tue May 15 16:01:30 UTC 2018: Found element on the queue
+Tue May 15 16:01:30 UTC 2018: Updating status
+Tue May 15 16:01:30 UTC 2018: Working
+Tue May 15 16:01:32 UTC 2018: Start EduShareOntario__liquibase test class liquibase.parser.core.xml.ResourceAccessorXsdStreamResolverTest
+Tue May 15 16:01:32 UTC 2018: Setting lastTestMethodIndex: 37490
+Tue May 15 16:01:32 UTC 2018: Starting linking
+Tue May 15 16:01:32 UTC 2018: No link for: liquibase.parser.core.xml.ResourceAccessorXsdStreamResolverTest-whenResourceStreamIsNullThenReturnSuccessorValue
+Tue May 15 16:01:32 UTC 2018: No link for: liquibase.parser.core.xml.ResourceAccessorXsdStreamResolverTest-whenIOExceptionOccursThenReturnSuccessorValue
+Tue May 15 16:01:32 UTC 2018: No link for: liquibase.parser.core.xml.ResourceAccessorXsdStreamResolverTest-whenResourceStreamIsNotNullThenReturnStream
+Tue May 15 16:01:33 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.parser.core.xml.ResourceAccessorXsdStreamResolverTest
+Tue May 15 16:01:33 UTC 2018: Found element on the queue
+Tue May 15 16:01:33 UTC 2018: Updating status
+Tue May 15 16:01:33 UTC 2018: Working
+Tue May 15 16:01:36 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.AutoIncrementConstraintTest
+Tue May 15 16:01:36 UTC 2018: Setting lastTestMethodIndex: 37492
+Tue May 15 16:01:36 UTC 2018: Starting linking
+Tue May 15 16:01:36 UTC 2018: No link for: liquibase.statement.AutoIncrementConstraintTest-ctor
+Tue May 15 16:01:36 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.AutoIncrementConstraintTest
+Tue May 15 16:01:36 UTC 2018: Found element on the queue
+Tue May 15 16:01:36 UTC 2018: Updating status
+Tue May 15 16:01:36 UTC 2018: Working
+Tue May 15 16:01:39 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddUniqueConstraintGeneratorTDSTest
+Tue May 15 16:01:39 UTC 2018: Setting lastTestMethodIndex: 37494
+Tue May 15 16:01:39 UTC 2018: Starting linking
+Tue May 15 16:01:39 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddUniqueConstraintGeneratorTDSTest
+Tue May 15 16:01:39 UTC 2018: Found element on the queue
+Tue May 15 16:01:39 UTC 2018: Updating status
+Tue May 15 16:01:40 UTC 2018: Working
+Tue May 15 16:01:42 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.CommentStatementTest
+Tue May 15 16:01:42 UTC 2018: Setting lastTestMethodIndex: 37495
+Tue May 15 16:01:42 UTC 2018: Starting linking
+Tue May 15 16:01:42 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.CommentStatementTest
+Tue May 15 16:01:42 UTC 2018: Found element on the queue
+Tue May 15 16:01:42 UTC 2018: Updating status
+Tue May 15 16:01:42 UTC 2018: Working
+Tue May 15 16:01:45 UTC 2018: Start EduShareOntario__liquibase test class liquibase.parser.core.xml.LiquibaseSchemaResolverTest
+Tue May 15 16:01:45 UTC 2018: Setting lastTestMethodIndex: 37497
+Tue May 15 16:01:45 UTC 2018: Starting linking
+Tue May 15 16:01:45 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseSchemaResolverTest-shouldReturnNullWhenNoResourceAsStreamFound
+Tue May 15 16:01:45 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseSchemaResolverTest-shouldThrowExceptionWhenSerializerGivenIsNull
+Tue May 15 16:01:45 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseSchemaResolverTest-shouldThrowExceptionWhenParserGivenIsNull
+Tue May 15 16:01:45 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseSchemaResolverTest-shouldReturnNullWhenSystemIdIsNull
+Tue May 15 16:01:45 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseSchemaResolverTest-shouldReturnNullWhenXsdFileFoundIsNull
+Tue May 15 16:01:46 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseSchemaResolverTest-shouldReturnInputSourceWhenResourceAsStreamFound
+Tue May 15 16:01:46 UTC 2018: No link for: liquibase.parser.core.xml.LiquibaseSchemaResolverTest-shouldReturnNullWhenExceptionOccurs
+Tue May 15 16:01:46 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.parser.core.xml.LiquibaseSchemaResolverTest
+Tue May 15 16:01:46 UTC 2018: Found element on the queue
+Tue May 15 16:01:46 UTC 2018: Updating status
+Tue May 15 16:01:46 UTC 2018: Working
+Tue May 15 16:01:49 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.ReorganizeTableStatementTest
+Tue May 15 16:01:49 UTC 2018: Setting lastTestMethodIndex: 37499
+Tue May 15 16:01:49 UTC 2018: Starting linking
+Tue May 15 16:01:49 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.ReorganizeTableStatementTest
+Tue May 15 16:01:49 UTC 2018: Found element on the queue
+Tue May 15 16:01:49 UTC 2018: Updating status
+Tue May 15 16:01:49 UTC 2018: Working
+Tue May 15 16:01:52 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.CreateTableGeneratorTest
+Tue May 15 16:01:52 UTC 2018: Setting lastTestMethodIndex: 37501
+Tue May 15 16:01:52 UTC 2018: Starting linking
+Tue May 15 16:01:52 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementByH2Database
+Tue May 15 16:01:52 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithSQLiteDatabase
+Tue May 15 16:01:52 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testWithColumnWithDefaultValue
+Tue May 15 16:01:52 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementHsqlDatabase
+Tue May 15 16:01:52 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithSybaseDatabase
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithMySQLDatabase
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithPostgresDatabase
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementBySQLiteDatabase
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-createReferencesSchemaEscaped
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithMSSQLDatabase
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithH2Database
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementMSSQLDatabase
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithDerbyDatabase
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementBySybaseASADatabase
+Tue May 15 16:01:53 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementMySQLDatabase
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithSybaseASADatabase
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementByDB2Database
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementDerbyDatabase
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementByPostgresDatabase
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementBySybaseDatabase
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithDB2Database
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementByMSSQLDatabase
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementPostgresDatabase
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementDB2Database
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementSybaseASADatabase
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testWithColumnSpecificIntType
+Tue May 15 16:01:54 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementSybaseDatabase
+Tue May 15 16:01:55 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementH2Database
+Tue May 15 16:01:55 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementByHsqlDatabase
+Tue May 15 16:01:55 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementByDerbyDatabase
+Tue May 15 16:01:55 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithIncrementByMySQLDatabase
+Tue May 15 16:01:55 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementSQLiteDatabase
+Tue May 15 16:01:55 UTC 2018: No link for: liquibase.sqlgenerator.core.CreateTableGeneratorTest-testAutoIncrementStartWithHsqlDatabase
+Tue May 15 16:01:55 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.CreateTableGeneratorTest
+Tue May 15 16:01:56 UTC 2018: Found element on the queue
+Tue May 15 16:01:56 UTC 2018: Updating status
+Tue May 15 16:01:56 UTC 2018: Working
+Tue May 15 16:01:58 UTC 2018: Start EduShareOntario__liquibase test class liquibase.change.ChangeFactoryTest
+Tue May 15 16:01:58 UTC 2018: Setting lastTestMethodIndex: 37504
+Tue May 15 16:01:58 UTC 2018: Starting linking
+Tue May 15 16:01:58 UTC 2018: Code found liquibase.change.ChangeFactory-unregister with liquibase.change.ChangeFactoryTest-unregister_doesNotExist
+Tue May 15 16:01:58 UTC 2018: Code found liquibase.change.ChangeFactory-getRegistry with liquibase.change.ChangeFactoryTest-getRegistry
+Tue May 15 16:01:58 UTC 2018: Code found liquibase.change.ChangeFactory-getInstance with liquibase.change.ChangeFactoryTest-getInstance
+Tue May 15 16:01:58 UTC 2018: Code found liquibase.change.ChangeFactory-create with liquibase.change.ChangeFactoryTest-create_badClass
+Tue May 15 16:01:59 UTC 2018: Code found liquibase.change.ChangeFactory-create with liquibase.change.ChangeFactoryTest-create_notExists
+Tue May 15 16:01:59 UTC 2018: Code found liquibase.change.ChangeFactory-clear with liquibase.change.ChangeFactoryTest-clear
+Tue May 15 16:01:59 UTC 2018: Code found liquibase.change.ChangeFactory-register with liquibase.change.ChangeFactoryTest-register_badClassLaterInComparator
+Tue May 15 16:01:59 UTC 2018: Code found liquibase.change.ChangeFactory-register with liquibase.change.ChangeFactoryTest-register_badClassRightAway
+Tue May 15 16:01:59 UTC 2018: Code found liquibase.change.ChangeFactory-unregister with liquibase.change.ChangeFactoryTest-unregister_instance
+Tue May 15 16:01:59 UTC 2018: Code found liquibase.change.ChangeFactory-register with liquibase.change.ChangeFactoryTest-register
+Tue May 15 16:01:59 UTC 2018: Code found liquibase.change.ChangeFactory-create with liquibase.change.ChangeFactoryTest-create_exists
+Tue May 15 16:01:59 UTC 2018: Code found liquibase.change.ChangeFactory-reset with liquibase.change.ChangeFactoryTest-reset
+Tue May 15 16:01:59 UTC 2018: No link for: liquibase.change.ChangeFactoryTest-supportStatement
+Tue May 15 16:02:00 UTC 2018: No link for: liquibase.change.ChangeFactoryTest-constructor
+Tue May 15 16:02:00 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.change.ChangeFactoryTest
+Tue May 15 16:02:00 UTC 2018: Found element on the queue
+Tue May 15 16:02:00 UTC 2018: Updating status
+Tue May 15 16:02:00 UTC 2018: Working
+Tue May 15 16:02:03 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.SelectFromDatabaseChangeLogGeneratorTest
+Tue May 15 16:02:03 UTC 2018: Setting lastTestMethodIndex: 37506
+Tue May 15 16:02:03 UTC 2018: Starting linking
+Tue May 15 16:02:03 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.SelectFromDatabaseChangeLogGeneratorTest
+Tue May 15 16:02:03 UTC 2018: Found element on the queue
+Tue May 15 16:02:03 UTC 2018: Updating status
+Tue May 15 16:02:03 UTC 2018: Working
+Tue May 15 16:02:06 UTC 2018: Start EduShareOntario__liquibase test class liquibase.parser.ChangeLogParserFactoryTest
+Tue May 15 16:02:06 UTC 2018: Setting lastTestMethodIndex: 37508
+Tue May 15 16:02:06 UTC 2018: Starting linking
+Tue May 15 16:02:06 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-unregister with liquibase.parser.ChangeLogParserFactoryTest-unregister_instance
+Tue May 15 16:02:06 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-getParser with liquibase.parser.ChangeLogParserFactoryTest-getParsers
+Tue May 15 16:02:06 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-getInstance with liquibase.parser.ChangeLogParserFactoryTest-getInstance
+Tue May 15 16:02:06 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-reset with liquibase.parser.ChangeLogParserFactoryTest-reset
+Tue May 15 16:02:06 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-register with liquibase.parser.ChangeLogParserFactoryTest-register
+Tue May 15 16:02:06 UTC 2018: No link for: liquibase.parser.ChangeLogParserFactoryTest-getExtensionParser
+Tue May 15 16:02:06 UTC 2018: No link for: liquibase.parser.ChangeLogParserFactoryTest-builtInGeneratorsAreFound
+Tue May 15 16:02:06 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.parser.ChangeLogParserFactoryTest
+Tue May 15 16:02:07 UTC 2018: Found element on the queue
+Tue May 15 16:02:07 UTC 2018: Updating status
+Tue May 15 16:02:07 UTC 2018: Working
+Tue May 15 16:02:10 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.InsertOrUpdateGeneratorMSSQLTest
+Tue May 15 16:02:10 UTC 2018: Setting lastTestMethodIndex: 37510
+Tue May 15 16:02:10 UTC 2018: Starting linking
+Tue May 15 16:02:10 UTC 2018: No link for: liquibase.sqlgenerator.core.InsertOrUpdateGeneratorMSSQLTest-getUpdate
+Tue May 15 16:02:10 UTC 2018: No link for: liquibase.sqlgenerator.core.InsertOrUpdateGeneratorMSSQLTest-getInsert
+Tue May 15 16:02:10 UTC 2018: No link for: liquibase.sqlgenerator.core.InsertOrUpdateGeneratorMSSQLTest-getRecordCheck
+Tue May 15 16:02:10 UTC 2018: No link for: liquibase.sqlgenerator.core.InsertOrUpdateGeneratorMSSQLTest-getElse
+Tue May 15 16:02:10 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.InsertOrUpdateGeneratorMSSQLTest
+Tue May 15 16:02:11 UTC 2018: Found element on the queue
+Tue May 15 16:02:11 UTC 2018: Updating status
+Tue May 15 16:02:11 UTC 2018: Working
+Tue May 15 16:02:13 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.InsertOrUpdateGeneratorPostgresTest
+Tue May 15 16:02:13 UTC 2018: Setting lastTestMethodIndex: 37512
+Tue May 15 16:02:13 UTC 2018: Starting linking
+Tue May 15 16:02:13 UTC 2018: No link for: liquibase.sqlgenerator.core.InsertOrUpdateGeneratorPostgresTest-testInsertSequenceValWithSchema
+Tue May 15 16:02:13 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.InsertOrUpdateGeneratorPostgresTest
+Tue May 15 16:02:13 UTC 2018: Found element on the queue
+Tue May 15 16:02:13 UTC 2018: Updating status
+Tue May 15 16:02:13 UTC 2018: Working
+Tue May 15 16:02:16 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.SelectFromDatabaseChangeLogLockStatementTest
+Tue May 15 16:02:16 UTC 2018: Setting lastTestMethodIndex: 37514
+Tue May 15 16:02:16 UTC 2018: Starting linking
+Tue May 15 16:02:16 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.SelectFromDatabaseChangeLogLockStatementTest
+Tue May 15 16:02:16 UTC 2018: Found element on the queue
+Tue May 15 16:02:16 UTC 2018: Updating status
+Tue May 15 16:02:16 UTC 2018: Working
+Tue May 15 16:02:19 UTC 2018: Start EduShareOntario__liquibase test class liquibase.resource.UtfBomStripperInputStreamTest
+Tue May 15 16:02:19 UTC 2018: Setting lastTestMethodIndex: 37516
+Tue May 15 16:02:19 UTC 2018: Starting linking
+Tue May 15 16:02:19 UTC 2018: No link for: liquibase.resource.UtfBomStripperInputStreamTest-testNoBOM
+Tue May 15 16:02:19 UTC 2018: No link for: liquibase.resource.UtfBomStripperInputStreamTest-testUtf8
+Tue May 15 16:02:19 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.resource.UtfBomStripperInputStreamTest
+Tue May 15 16:02:19 UTC 2018: Found element on the queue
+Tue May 15 16:02:19 UTC 2018: Updating status
+Tue May 15 16:02:19 UTC 2018: Working
+Tue May 15 16:02:22 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.OfflineChangeLogHistoryServiceTest
+Tue May 15 16:02:22 UTC 2018: Setting lastTestMethodIndex: 37518
+Tue May 15 16:02:22 UTC 2018: Starting linking
+Tue May 15 16:02:22 UTC 2018: Code found liquibase.changelog.OfflineChangeLogHistoryService-init with liquibase.changelog.OfflineChangeLogHistoryServiceTest-testInitOfflineWithOutputLiquibaseSql
+Tue May 15 16:02:22 UTC 2018: Code found liquibase.changelog.OfflineChangeLogHistoryService-init with liquibase.changelog.OfflineChangeLogHistoryServiceTest-testInitOfflineWithOutputLiquibaseSqlAndNoDdl
+Tue May 15 16:02:22 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.OfflineChangeLogHistoryServiceTest
+Tue May 15 16:02:23 UTC 2018: Found element on the queue
+Tue May 15 16:02:23 UTC 2018: Updating status
+Tue May 15 16:02:23 UTC 2018: Working
+Tue May 15 16:02:25 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.DeleteGeneratorTest
+Tue May 15 16:02:25 UTC 2018: Setting lastTestMethodIndex: 37520
+Tue May 15 16:02:25 UTC 2018: Starting linking
+Tue May 15 16:02:25 UTC 2018: Code found liquibase.sqlgenerator.core.DeleteGenerator-generateSql with liquibase.sqlgenerator.core.DeleteGeneratorTest-testGenerateSql
+Tue May 15 16:02:25 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.DeleteGeneratorTest
+Tue May 15 16:02:26 UTC 2018: Found element on the queue
+Tue May 15 16:02:26 UTC 2018: Updating status
+Tue May 15 16:02:26 UTC 2018: Working
+Tue May 15 16:02:28 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.ChangeLogParametersTest
+Tue May 15 16:02:28 UTC 2018: Setting lastTestMethodIndex: 37522
+Tue May 15 16:02:28 UTC 2018: Starting linking
+Tue May 15 16:02:28 UTC 2018: Code found liquibase.changelog.ChangeLogParameters-set with liquibase.changelog.ChangeLogParametersTest-setParameterValue_multiDatabase
+Tue May 15 16:02:28 UTC 2018: Code found liquibase.changelog.ChangeLogParameters-set with liquibase.changelog.ChangeLogParametersTest-setParameterValue_rightDBWrongContext
+Tue May 15 16:02:28 UTC 2018: Code found liquibase.changelog.ChangeLogParameters-set with liquibase.changelog.ChangeLogParametersTest-setParameterValue_doubleSetButSecondWrongDatabase
+Tue May 15 16:02:28 UTC 2018: Code found liquibase.changelog.ChangeLogParameters-set with liquibase.changelog.ChangeLogParametersTest-setParameterValue_doubleSet
+Tue May 15 16:02:28 UTC 2018: Code found liquibase.changelog.ChangeLogParameters-set with liquibase.changelog.ChangeLogParametersTest-setParameterValue_rightDBRightContext
+Tue May 15 16:02:29 UTC 2018: No link for: liquibase.changelog.ChangeLogParametersTest-getParameterValue_systemProperty
+Tue May 15 16:02:29 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.ChangeLogParametersTest
+Tue May 15 16:02:29 UTC 2018: Found element on the queue
+Tue May 15 16:02:29 UTC 2018: Updating status
+Tue May 15 16:02:29 UTC 2018: Working
+Tue May 15 16:02:32 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.InsertOrUpdateGeneratorOracleTest
+Tue May 15 16:02:32 UTC 2018: Setting lastTestMethodIndex: 37524
+Tue May 15 16:02:32 UTC 2018: Starting linking
+Tue May 15 16:02:32 UTC 2018: No link for: liquibase.sqlgenerator.core.InsertOrUpdateGeneratorOracleTest-ContainsInsertStatement
+Tue May 15 16:02:32 UTC 2018: No link for: liquibase.sqlgenerator.core.InsertOrUpdateGeneratorOracleTest-testOnlyUpdateFlag
+Tue May 15 16:02:32 UTC 2018: No link for: liquibase.sqlgenerator.core.InsertOrUpdateGeneratorOracleTest-testInsertSequenceValWithSchema
+Tue May 15 16:02:32 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.InsertOrUpdateGeneratorOracleTest
+Tue May 15 16:02:33 UTC 2018: Found element on the queue
+Tue May 15 16:02:33 UTC 2018: Updating status
+Tue May 15 16:02:33 UTC 2018: Working
+Tue May 15 16:02:35 UTC 2018: Start EduShareOntario__liquibase test class liquibase.change.ChangeParameterMetaDataTest
+Tue May 15 16:02:35 UTC 2018: Setting lastTestMethodIndex: 37526
+Tue May 15 16:02:35 UTC 2018: Starting linking
+Tue May 15 16:02:35 UTC 2018: Code found liquibase.change.ChangeParameterMetaData-getRequiredForDatabase with liquibase.change.ChangeParameterMetaDataTest-getRequiredForDatabase_nonePassedReturnsEmptySet
+Tue May 15 16:02:35 UTC 2018: Code found liquibase.change.ChangeParameterMetaData-getCurrentValue with liquibase.change.ChangeParameterMetaDataTest-getCurrentValue
+Tue May 15 16:02:35 UTC 2018: Code found liquibase.change.ChangeParameterMetaData-getRequiredForDatabase with liquibase.change.ChangeParameterMetaDataTest-getRequiredForDatabase_immutable
+Tue May 15 16:02:35 UTC 2018: Code found liquibase.change.ChangeParameterMetaData-isRequiredFor with liquibase.change.ChangeParameterMetaDataTest-isRequiredFor
+Tue May 15 16:02:35 UTC 2018: Code found liquibase.change.ChangeParameterMetaData-getRequiredForDatabase with liquibase.change.ChangeParameterMetaDataTest-getRequiredForDatabase_nullPassedInReturnsEmptySet
+Tue May 15 16:02:36 UTC 2018: Code found liquibase.change.ChangeParameterMetaData-getCurrentValue with liquibase.change.ChangeParameterMetaDataTest-getCurrentValue_badParam
+Tue May 15 16:02:36 UTC 2018: No link for: liquibase.change.ChangeParameterMetaDataTest-computedDatabasesCorrect
+Tue May 15 16:02:36 UTC 2018: No link for: liquibase.change.ChangeParameterMetaDataTest-constructor_badValues
+Tue May 15 16:02:36 UTC 2018: No link for: liquibase.change.ChangeParameterMetaDataTest-constructor
+Tue May 15 16:02:36 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.change.ChangeParameterMetaDataTest
+Tue May 15 16:02:37 UTC 2018: Found element on the queue
+Tue May 15 16:02:37 UTC 2018: Updating status
+Tue May 15 16:02:37 UTC 2018: Working
+Tue May 15 16:02:39 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.RanChangeSetTest
+Tue May 15 16:02:39 UTC 2018: Setting lastTestMethodIndex: 37528
+Tue May 15 16:02:39 UTC 2018: Starting linking
+Tue May 15 16:02:39 UTC 2018: No link for: liquibase.changelog.RanChangeSetTest-is_same_as_when_both_changelogs_have_classpath_prefix
+Tue May 15 16:02:39 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.RanChangeSetTest
+Tue May 15 16:02:40 UTC 2018: Found element on the queue
+Tue May 15 16:02:40 UTC 2018: Updating status
+Tue May 15 16:02:40 UTC 2018: Working
+Tue May 15 16:02:42 UTC 2018: Start EduShareOntario__liquibase test class liquibase.resource.UtfBomAwareReaderTest
+Tue May 15 16:02:42 UTC 2018: Setting lastTestMethodIndex: 37530
+Tue May 15 16:02:42 UTC 2018: Starting linking
+Tue May 15 16:02:42 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf16BE
+Tue May 15 16:02:42 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testEmpty
+Tue May 15 16:02:42 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf8Empty
+Tue May 15 16:02:42 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf32LEEmpty
+Tue May 15 16:02:43 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf8
+Tue May 15 16:02:43 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf16LE
+Tue May 15 16:02:43 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testEmptyUtf16LEWithFourBytesOnly
+Tue May 15 16:02:43 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf32LE
+Tue May 15 16:02:43 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf16BEEmpty
+Tue May 15 16:02:43 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testNoBom
+Tue May 15 16:02:43 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testWithNoDefault
+Tue May 15 16:02:44 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testEmptyUtf16BEWithFourBytesOnly
+Tue May 15 16:02:44 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf32BE
+Tue May 15 16:02:44 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testEmptyUtf8WithFourBytesOnly
+Tue May 15 16:02:44 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf16LEEmpty
+Tue May 15 16:02:44 UTC 2018: No link for: liquibase.resource.UtfBomAwareReaderTest-testUtf32BEEmpty
+Tue May 15 16:02:44 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.resource.UtfBomAwareReaderTest
+Tue May 15 16:02:45 UTC 2018: Found element on the queue
+Tue May 15 16:02:45 UTC 2018: Updating status
+Tue May 15 16:02:45 UTC 2018: Working
+Tue May 15 16:02:47 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.ChangeLogIteratorTest
+Tue May 15 16:02:47 UTC 2018: Setting lastTestMethodIndex: 37533
+Tue May 15 16:02:47 UTC 2018: Starting linking
+Tue May 15 16:02:47 UTC 2018: Code found liquibase.changelog.ChangeLogIterator-run with liquibase.changelog.ChangeLogIteratorTest-runChangeSet_doubleFilterIterator
+Tue May 15 16:02:47 UTC 2018: Code found liquibase.changelog.ChangeLogIterator-run with liquibase.changelog.ChangeLogIteratorTest-runChangeSet_emptyFiltersIterator
+Tue May 15 16:02:47 UTC 2018: Code found liquibase.changelog.ChangeLogIterator-run with liquibase.changelog.ChangeLogIteratorTest-runChangeSet_reverseVisitor
+Tue May 15 16:02:47 UTC 2018: Code found liquibase.changelog.ChangeLogIterator-run with liquibase.changelog.ChangeLogIteratorTest-runChangeSet_singleFilterIterator
+Tue May 15 16:02:48 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.ChangeLogIteratorTest
+Tue May 15 16:02:48 UTC 2018: Found element on the queue
+Tue May 15 16:02:48 UTC 2018: Updating status
+Tue May 15 16:02:48 UTC 2018: Working
+Tue May 15 16:02:50 UTC 2018: Start EduShareOntario__liquibase test class liquibase.resource.AbstractResourceAccessorJavaTest
+Tue May 15 16:02:50 UTC 2018: Setting lastTestMethodIndex: 37535
+Tue May 15 16:02:50 UTC 2018: Starting linking
+Tue May 15 16:02:50 UTC 2018: Code found liquibase.resource.AbstractResourceAccessor-convertToPath with liquibase.resource.AbstractResourceAccessorJavaTest-testConvertToPathRelativeDoesntGenerateDoubleSlahes
+Tue May 15 16:02:50 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.resource.AbstractResourceAccessorJavaTest
+Tue May 15 16:02:51 UTC 2018: Found element on the queue
+Tue May 15 16:02:51 UTC 2018: Updating status
+Tue May 15 16:02:51 UTC 2018: Working
+Tue May 15 16:02:53 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddUniqueConstraintGeneratorTest
+Tue May 15 16:02:53 UTC 2018: Setting lastTestMethodIndex: 37537
+Tue May 15 16:02:53 UTC 2018: Starting linking
+Tue May 15 16:02:53 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddUniqueConstraintGeneratorTest
+Tue May 15 16:02:54 UTC 2018: Found element on the queue
+Tue May 15 16:02:54 UTC 2018: Updating status
+Tue May 15 16:02:54 UTC 2018: Working
+Tue May 15 16:02:56 UTC 2018: Start EduShareOntario__liquibase test class liquibase.change.AddColumnChangeTest
+Tue May 15 16:02:56 UTC 2018: Setting lastTestMethodIndex: 37539
+Tue May 15 16:02:56 UTC 2018: Starting linking
+Tue May 15 16:02:56 UTC 2018: Code found liquibase.change.core.AddColumnChange-generateStatements with liquibase.change.AddColumnChangeTest-generateStatements_multipleColumns
+Tue May 15 16:02:56 UTC 2018: Code found liquibase.change.core.AddColumnChange-generateStatements with liquibase.change.AddColumnChangeTest-generateStatements_DB2_multipleColumns_single_reorg
+Tue May 15 16:02:57 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.change.AddColumnChangeTest
+Tue May 15 16:02:57 UTC 2018: Found element on the queue
+Tue May 15 16:02:57 UTC 2018: Updating status
+Tue May 15 16:02:57 UTC 2018: Working
+Tue May 15 16:03:00 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.filter.ExecutedAfterChangeSetFilterTest
+Tue May 15 16:03:00 UTC 2018: Setting lastTestMethodIndex: 37541
+Tue May 15 16:03:00 UTC 2018: Starting linking
+Tue May 15 16:03:00 UTC 2018: Code found liquibase.changelog.filter.ExecutedAfterChangeSetFilter-accepts with liquibase.changelog.filter.ExecutedAfterChangeSetFilterTest-accepts_nullDate
+Tue May 15 16:03:00 UTC 2018: Code found liquibase.changelog.filter.ExecutedAfterChangeSetFilter-accepts with liquibase.changelog.filter.ExecutedAfterChangeSetFilterTest-accepts_noRan
+Tue May 15 16:03:00 UTC 2018: Code found liquibase.changelog.filter.ExecutedAfterChangeSetFilter-accepts with liquibase.changelog.filter.ExecutedAfterChangeSetFilterTest-accepts
+Tue May 15 16:03:00 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.filter.ExecutedAfterChangeSetFilterTest
+Tue May 15 16:03:00 UTC 2018: Found element on the queue
+Tue May 15 16:03:00 UTC 2018: Updating status
+Tue May 15 16:03:00 UTC 2018: Working
+Tue May 15 16:03:03 UTC 2018: Start EduShareOntario__liquibase test class liquibase.change.CheckSumTest
+Tue May 15 16:03:03 UTC 2018: Setting lastTestMethodIndex: 37542
+Tue May 15 16:03:03 UTC 2018: Starting linking
+Tue May 15 16:03:03 UTC 2018: Code found liquibase.change.CheckSum-compute with liquibase.change.CheckSumTest-compute_String
+Tue May 15 16:03:03 UTC 2018: Code found liquibase.change.CheckSum-compute with liquibase.change.CheckSumTest-compute_lineEndingsDontMatter
+Tue May 15 16:03:03 UTC 2018: Code found liquibase.change.CheckSum-compute with liquibase.change.CheckSumTest-compute_Stream
+Tue May 15 16:03:03 UTC 2018: Code found liquibase.change.CheckSum-getCurrentVersion with liquibase.change.CheckSumTest-getCurrentVersion
+Tue May 15 16:03:03 UTC 2018: Code found liquibase.change.CheckSum-toString with liquibase.change.CheckSumTest-toString_test
+Tue May 15 16:03:04 UTC 2018: Code found liquibase.change.CheckSum-parse with liquibase.change.CheckSumTest-parse_null
+Tue May 15 16:03:04 UTC 2018: Code found liquibase.change.CheckSum-parse with liquibase.change.CheckSumTest-parse
+Tue May 15 16:03:04 UTC 2018: Code found liquibase.change.CheckSum-parse with liquibase.change.CheckSumTest-parse_v1
+Tue May 15 16:03:04 UTC 2018: Code found liquibase.change.CheckSum-hashCode with liquibase.change.CheckSumTest-hashCode_test
+Tue May 15 16:03:04 UTC 2018: Code found liquibase.change.CheckSum-equals with liquibase.change.CheckSumTest-equals
+Tue May 15 16:03:04 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.change.CheckSumTest
+Tue May 15 16:03:05 UTC 2018: Found element on the queue
+Tue May 15 16:03:05 UTC 2018: Updating status
+Tue May 15 16:03:05 UTC 2018: Working
+Tue May 15 16:03:07 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropSequenceStatementTest
+Tue May 15 16:03:07 UTC 2018: Setting lastTestMethodIndex: 37545
+Tue May 15 16:03:07 UTC 2018: Starting linking
+Tue May 15 16:03:07 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropSequenceStatementTest
+Tue May 15 16:03:08 UTC 2018: Found element on the queue
+Tue May 15 16:03:08 UTC 2018: Updating status
+Tue May 15 16:03:08 UTC 2018: Working
+Tue May 15 16:03:10 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddUniqueConstraintGeneratorInformixTest
+Tue May 15 16:03:10 UTC 2018: Setting lastTestMethodIndex: 37546
+Tue May 15 16:03:10 UTC 2018: Starting linking
+Tue May 15 16:03:10 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AddUniqueConstraintGeneratorInformixTest
+Tue May 15 16:03:11 UTC 2018: Found element on the queue
+Tue May 15 16:03:11 UTC 2018: Updating status
+Tue May 15 16:03:11 UTC 2018: Working
+Tue May 15 16:03:13 UTC 2018: Start EduShareOntario__liquibase test class liquibase.util.MD5UtilTest
+Tue May 15 16:03:13 UTC 2018: Setting lastTestMethodIndex: 37548
+Tue May 15 16:03:13 UTC 2018: Starting linking
+Tue May 15 16:03:13 UTC 2018: Code found liquibase.util.MD5Util-computeMD5 with liquibase.util.MD5UtilTest-testComputeMD5
+Tue May 15 16:03:14 UTC 2018: Code found liquibase.util.MD5Util-computeMD5 with liquibase.util.MD5UtilTest-testComputeMD5InputStream
+Tue May 15 16:03:14 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.util.MD5UtilTest
+Tue May 15 16:03:14 UTC 2018: Found element on the queue
+Tue May 15 16:03:14 UTC 2018: Updating status
+Tue May 15 16:03:14 UTC 2018: Working
+Tue May 15 16:03:17 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.filter.DbmsChangeSetFilterTest
+Tue May 15 16:03:17 UTC 2018: Setting lastTestMethodIndex: 37550
+Tue May 15 16:03:17 UTC 2018: Starting linking
+Tue May 15 16:03:17 UTC 2018: No link for: liquibase.changelog.filter.DbmsChangeSetFilterTest-singleDbms
+Tue May 15 16:03:17 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.filter.DbmsChangeSetFilterTest
+Tue May 15 16:03:18 UTC 2018: Found element on the queue
+Tue May 15 16:03:18 UTC 2018: Updating status
+Tue May 15 16:03:18 UTC 2018: Working
+Tue May 15 16:03:20 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.DropColumnGeneratorTest
+Tue May 15 16:03:20 UTC 2018: Setting lastTestMethodIndex: 37552
+Tue May 15 16:03:20 UTC 2018: Starting linking
+Tue May 15 16:03:20 UTC 2018: No link for: liquibase.sqlgenerator.core.DropColumnGeneratorTest-testDropMultipleColumnsMySQL
+Tue May 15 16:03:20 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.DropColumnGeneratorTest
+Tue May 15 16:03:21 UTC 2018: Found element on the queue
+Tue May 15 16:03:21 UTC 2018: Updating status
+Tue May 15 16:03:21 UTC 2018: Working
+Tue May 15 16:03:23 UTC 2018: Start EduShareOntario__liquibase test class liquibase.change.DropColumnChangeTest
+Tue May 15 16:03:23 UTC 2018: Setting lastTestMethodIndex: 37554
+Tue May 15 16:03:23 UTC 2018: Starting linking
+Tue May 15 16:03:23 UTC 2018: Code found liquibase.change.core.DropColumnChange-generateStatements with liquibase.change.DropColumnChangeTest-generateStatements_multipleColumns
+Tue May 15 16:03:23 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.change.DropColumnChangeTest
+Tue May 15 16:03:24 UTC 2018: Found element on the queue
+Tue May 15 16:03:24 UTC 2018: Updating status
+Tue May 15 16:03:24 UTC 2018: Working
+Tue May 15 16:03:26 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.filter.CountChangeSetFilterTest
+Tue May 15 16:03:26 UTC 2018: Setting lastTestMethodIndex: 37556
+Tue May 15 16:03:26 UTC 2018: Starting linking
+Tue May 15 16:03:26 UTC 2018: Code found liquibase.changelog.filter.CountChangeSetFilter-accepts with liquibase.changelog.filter.CountChangeSetFilterTest-acceptsTwoCorrectly
+Tue May 15 16:03:27 UTC 2018: Code found liquibase.changelog.filter.CountChangeSetFilter-accepts with liquibase.changelog.filter.CountChangeSetFilterTest-acceptsZeroCorrectly
+Tue May 15 16:03:27 UTC 2018: Code found liquibase.changelog.filter.CountChangeSetFilter-accepts with liquibase.changelog.filter.CountChangeSetFilterTest-acceptsOneCorrectly
+Tue May 15 16:03:27 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.filter.CountChangeSetFilterTest
+Tue May 15 16:03:27 UTC 2018: Found element on the queue
+Tue May 15 16:03:27 UTC 2018: Updating status
+Tue May 15 16:03:27 UTC 2018: Working
+Tue May 15 16:03:30 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.GetViewDefinitionGeneratorSybaseTest
+Tue May 15 16:03:30 UTC 2018: Setting lastTestMethodIndex: 37558
+Tue May 15 16:03:30 UTC 2018: Starting linking
+Tue May 15 16:03:30 UTC 2018: Code found liquibase.sqlgenerator.core.GetViewDefinitionGeneratorSybase-generateSql with liquibase.sqlgenerator.core.GetViewDefinitionGeneratorSybaseTest-testGenerateSqlForDefaultSchema
+Tue May 15 16:03:30 UTC 2018: Code found liquibase.sqlgenerator.core.GetViewDefinitionGeneratorSybase-generateSql with liquibase.sqlgenerator.core.GetViewDefinitionGeneratorSybaseTest-testGenerateSqlForNamedSchema
+Tue May 15 16:03:30 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.GetViewDefinitionGeneratorSybaseTest
+Tue May 15 16:03:30 UTC 2018: Found element on the queue
+Tue May 15 16:03:30 UTC 2018: Updating status
+Tue May 15 16:03:30 UTC 2018: Working
+Tue May 15 16:03:33 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.filter.ContextChangeSetFilterTest
+Tue May 15 16:03:33 UTC 2018: Setting lastTestMethodIndex: 37560
+Tue May 15 16:03:33 UTC 2018: Starting linking
+Tue May 15 16:03:33 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.filter.ContextChangeSetFilterTest
+Tue May 15 16:03:33 UTC 2018: Found element on the queue
+Tue May 15 16:03:33 UTC 2018: Updating status
+Tue May 15 16:03:33 UTC 2018: Working
+Tue May 15 16:03:36 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.SelectFromDatabaseChangeLogLockGeneratorTest
+Tue May 15 16:03:36 UTC 2018: Setting lastTestMethodIndex: 37562
+Tue May 15 16:03:36 UTC 2018: Starting linking
+Tue May 15 16:03:36 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.SelectFromDatabaseChangeLogLockGeneratorTest
+Tue May 15 16:03:36 UTC 2018: Found element on the queue
+Tue May 15 16:03:36 UTC 2018: Updating status
+Tue May 15 16:03:36 UTC 2018: Working
+Tue May 15 16:03:38 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.UpdateGeneratorTest
+Tue May 15 16:03:38 UTC 2018: Setting lastTestMethodIndex: 37564
+Tue May 15 16:03:38 UTC 2018: Starting linking
+Tue May 15 16:03:38 UTC 2018: Code found liquibase.sqlgenerator.core.UpdateGenerator-generateSql with liquibase.sqlgenerator.core.UpdateGeneratorTest-testGenerateSqlWithNameValuePlaceholderPairs
+Tue May 15 16:03:39 UTC 2018: Code found liquibase.sqlgenerator.core.UpdateGenerator-generateSql with liquibase.sqlgenerator.core.UpdateGeneratorTest-testGenerateSqlWithParamPlaceholders
+Tue May 15 16:03:39 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.UpdateGeneratorTest
+Tue May 15 16:03:39 UTC 2018: Found element on the queue
+Tue May 15 16:03:39 UTC 2018: Updating status
+Tue May 15 16:03:39 UTC 2018: Working
+Tue May 15 16:03:42 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropColumnStatementTest
+Tue May 15 16:03:42 UTC 2018: Setting lastTestMethodIndex: 37565
+Tue May 15 16:03:42 UTC 2018: Starting linking
+Tue May 15 16:03:42 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropColumnStatementTest
+Tue May 15 16:03:42 UTC 2018: Found element on the queue
+Tue May 15 16:03:42 UTC 2018: Updating status
+Tue May 15 16:03:42 UTC 2018: Working
+Tue May 15 16:03:45 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AlterSequenceGeneratorTest
+Tue May 15 16:03:45 UTC 2018: Setting lastTestMethodIndex: 37566
+Tue May 15 16:03:45 UTC 2018: Starting linking
+Tue May 15 16:03:45 UTC 2018: No link for: liquibase.sqlgenerator.core.AlterSequenceGeneratorTest-testAlterSequenceDatabase
+Tue May 15 16:03:45 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.AlterSequenceGeneratorTest
+Tue May 15 16:03:45 UTC 2018: Found element on the queue
+Tue May 15 16:03:45 UTC 2018: Updating status
+Tue May 15 16:03:45 UTC 2018: Working
+Tue May 15 16:03:48 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.filter.AfterTagChangeSetFilterTest
+Tue May 15 16:03:48 UTC 2018: Setting lastTestMethodIndex: 37568
+Tue May 15 16:03:48 UTC 2018: Starting linking
+Tue May 15 16:03:48 UTC 2018: Code found liquibase.changelog.filter.AfterTagChangeSetFilter-accepts with liquibase.changelog.filter.AfterTagChangeSetFilterTest-accepts
+Tue May 15 16:03:48 UTC 2018: No link for: liquibase.changelog.filter.AfterTagChangeSetFilterTest-accepts_noTag
+Tue May 15 16:03:48 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.filter.AfterTagChangeSetFilterTest
+Tue May 15 16:03:49 UTC 2018: Found element on the queue
+Tue May 15 16:03:49 UTC 2018: Updating status
+Tue May 15 16:03:49 UTC 2018: Working
+Tue May 15 16:03:51 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.ExpressionExpanderTest
+Tue May 15 16:03:51 UTC 2018: Setting lastTestMethodIndex: 37570
+Tue May 15 16:03:51 UTC 2018: Starting linking
+Tue May 15 16:03:51 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_nomatchExpression
+Tue May 15 16:03:51 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_escapedAfterVariable
+Tue May 15 16:03:51 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_emptyString
+Tue May 15 16:03:51 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_noExpression
+Tue May 15 16:03:52 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_singleObjectExpression
+Tue May 15 16:03:52 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_nullValue
+Tue May 15 16:03:52 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_escapedMultipleSimple
+Tue May 15 16:03:52 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_escapedSimple
+Tue May 15 16:03:52 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_doubleObjectExpression
+Tue May 15 16:03:52 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_escapedMultipleComplex
+Tue May 15 16:03:52 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_escapedMultipleComplexVariant
+Tue May 15 16:03:52 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_escapedNonGreedy
+Tue May 15 16:03:53 UTC 2018: Code found liquibase.changelog.ChangeLogParameters$ExpressionExpander-expandExpressions with liquibase.changelog.ExpressionExpanderTest-expandExpressions_escapedBeforeVariable
+Tue May 15 16:03:53 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.ExpressionExpanderTest
+Tue May 15 16:03:53 UTC 2018: Found element on the queue
+Tue May 15 16:03:53 UTC 2018: Updating status
+Tue May 15 16:03:53 UTC 2018: Working
+Tue May 15 16:03:56 UTC 2018: Start EduShareOntario__liquibase test class liquibase.util.file.FilenameUtilsTest
+Tue May 15 16:03:56 UTC 2018: Setting lastTestMethodIndex: 37572
+Tue May 15 16:03:56 UTC 2018: Starting linking
+Tue May 15 16:03:56 UTC 2018: Code found liquibase.util.file.FilenameUtils-concat with liquibase.util.file.FilenameUtilsTest-concatWithNullBasePath
+Tue May 15 16:03:56 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.util.file.FilenameUtilsTest
+Tue May 15 16:03:56 UTC 2018: Found element on the queue
+Tue May 15 16:03:56 UTC 2018: Updating status
+Tue May 15 16:03:56 UTC 2018: Working
+Tue May 15 16:03:59 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.CommentGeneratorTest
+Tue May 15 16:03:59 UTC 2018: Setting lastTestMethodIndex: 37574
+Tue May 15 16:03:59 UTC 2018: Starting linking
+Tue May 15 16:03:59 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.CommentGeneratorTest
+Tue May 15 16:03:59 UTC 2018: Found element on the queue
+Tue May 15 16:03:59 UTC 2018: Updating status
+Tue May 15 16:03:59 UTC 2018: Working
+Tue May 15 16:04:02 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.UpdateStatementTest
+Tue May 15 16:04:02 UTC 2018: Setting lastTestMethodIndex: 37576
+Tue May 15 16:04:02 UTC 2018: Starting linking
+Tue May 15 16:04:02 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.UpdateStatementTest
+Tue May 15 16:04:02 UTC 2018: Found element on the queue
+Tue May 15 16:04:02 UTC 2018: Updating status
+Tue May 15 16:04:02 UTC 2018: Working
+Tue May 15 16:04:05 UTC 2018: Start EduShareOntario__liquibase test class liquibase.util.BooleanParserTest
+Tue May 15 16:04:05 UTC 2018: Setting lastTestMethodIndex: 37578
+Tue May 15 16:04:05 UTC 2018: Starting linking
+Tue May 15 16:04:05 UTC 2018: Code found liquibase.util.BooleanParser-parseBoolean with liquibase.util.BooleanParserTest-testparseBoolean
+Tue May 15 16:04:05 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.util.BooleanParserTest
+Tue May 15 16:04:06 UTC 2018: Found element on the queue
+Tue May 15 16:04:06 UTC 2018: Updating status
+Tue May 15 16:04:06 UTC 2018: Working
+Tue May 15 16:04:08 UTC 2018: Start EduShareOntario__liquibase test class liquibase.change.ChangeMetaDataTest
+Tue May 15 16:04:08 UTC 2018: Setting lastTestMethodIndex: 37580
+Tue May 15 16:04:08 UTC 2018: Starting linking
+Tue May 15 16:04:08 UTC 2018: Code found liquibase.change.ChangeMetaData-getRequiredParameters with liquibase.change.ChangeMetaDataTest-getRequiredParameters
+Tue May 15 16:04:08 UTC 2018: Code found liquibase.change.ChangeMetaData-appliesTo with liquibase.change.ChangeMetaDataTest-appliesTo_nullAppliesTo
+Tue May 15 16:04:08 UTC 2018: Code found liquibase.change.ChangeMetaData-getParameters with liquibase.change.ChangeMetaDataTest-getParameters_unmodifyable
+Tue May 15 16:04:08 UTC 2018: Code found liquibase.change.ChangeMetaData-appliesTo with liquibase.change.ChangeMetaDataTest-appliesTo
+Tue May 15 16:04:09 UTC 2018: Code found liquibase.change.ChangeMetaData-getRequiredParameters with liquibase.change.ChangeMetaDataTest-getRequiredParameters_empty
+Tue May 15 16:04:09 UTC 2018: Code found liquibase.change.ChangeMetaData-getOptionalParameters with liquibase.change.ChangeMetaDataTest-getOptionalParameters
+Tue May 15 16:04:09 UTC 2018: No link for: liquibase.change.ChangeMetaDataTest-constructor_emptyAppliesTo
+Tue May 15 16:04:09 UTC 2018: No link for: liquibase.change.ChangeMetaDataTest-constructor_nullParams
+Tue May 15 16:04:09 UTC 2018: No link for: liquibase.change.ChangeMetaDataTest-constructor
+Tue May 15 16:04:09 UTC 2018: No link for: liquibase.change.ChangeMetaDataTest-constructor_nullAppliesTo
+Tue May 15 16:04:09 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.change.ChangeMetaDataTest
+Tue May 15 16:04:10 UTC 2018: Found element on the queue
+Tue May 15 16:04:10 UTC 2018: Updating status
+Tue May 15 16:04:10 UTC 2018: Working
+Tue May 15 16:04:12 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.ChangeLogParserFactoryTest
+Tue May 15 16:04:12 UTC 2018: Setting lastTestMethodIndex: 37582
+Tue May 15 16:04:12 UTC 2018: Starting linking
+Tue May 15 16:04:12 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-getParser with liquibase.changelog.ChangeLogParserFactoryTest-getParser_byExtension
+Tue May 15 16:04:13 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-getInstance with liquibase.changelog.ChangeLogParserFactoryTest-getInstance
+Tue May 15 16:04:13 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:04:13 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-getParser with liquibase.changelog.ChangeLogParserFactoryTest-getParser_byFile
+Tue May 15 16:04:13 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-reset with liquibase.changelog.ChangeLogParserFactoryTest-reset
+Tue May 15 16:04:13 UTC 2018: Match not added in database because it already exists
+Tue May 15 16:04:13 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-register with liquibase.changelog.ChangeLogParserFactoryTest-register
+Tue May 15 16:04:13 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-unregister with liquibase.changelog.ChangeLogParserFactoryTest-unregister_instance
+Tue May 15 16:04:13 UTC 2018: Code found liquibase.parser.ChangeLogParserFactory-getParser with liquibase.changelog.ChangeLogParserFactoryTest-getParser_noneMatching
+Tue May 15 16:04:13 UTC 2018: No link for: liquibase.changelog.ChangeLogParserFactoryTest-builtInGeneratorsAreFound
+Tue May 15 16:04:13 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.ChangeLogParserFactoryTest
+Tue May 15 16:04:14 UTC 2018: Found element on the queue
+Tue May 15 16:04:14 UTC 2018: Updating status
+Tue May 15 16:04:14 UTC 2018: Working
+Tue May 15 16:04:16 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.visitor.ValidatingVisitorTest
+Tue May 15 16:04:16 UTC 2018: Setting lastTestMethodIndex: 37584
+Tue May 15 16:04:16 UTC 2018: Starting linking
+Tue May 15 16:04:16 UTC 2018: Code found liquibase.changelog.visitor.ValidatingVisitor-visit with liquibase.changelog.visitor.ValidatingVisitorTest-visit_successful
+Tue May 15 16:04:17 UTC 2018: Code found liquibase.changelog.visitor.ValidatingVisitor-visit with liquibase.changelog.visitor.ValidatingVisitorTest-visit_duplicate
+Tue May 15 16:04:17 UTC 2018: Code found liquibase.changelog.visitor.ValidatingVisitor-visit with liquibase.changelog.visitor.ValidatingVisitorTest-visit_torunOnly
+Tue May 15 16:04:17 UTC 2018: Code found liquibase.changelog.visitor.ValidatingVisitor-visit with liquibase.changelog.visitor.ValidatingVisitorTest-visit_setupException
+Tue May 15 16:04:17 UTC 2018: Code found liquibase.changelog.visitor.ValidatingVisitor-visit with liquibase.changelog.visitor.ValidatingVisitorTest-visit_validateError
+Tue May 15 16:04:17 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.visitor.ValidatingVisitorTest
+Tue May 15 16:04:18 UTC 2018: Found element on the queue
+Tue May 15 16:04:18 UTC 2018: Updating status
+Tue May 15 16:04:18 UTC 2018: Working
+Tue May 15 16:04:20 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.TagDatabaseStatementTest
+Tue May 15 16:04:20 UTC 2018: Setting lastTestMethodIndex: 37586
+Tue May 15 16:04:20 UTC 2018: Starting linking
+Tue May 15 16:04:20 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.TagDatabaseStatementTest
+Tue May 15 16:04:21 UTC 2018: Found element on the queue
+Tue May 15 16:04:21 UTC 2018: Updating status
+Tue May 15 16:04:21 UTC 2018: Working
+Tue May 15 16:04:23 UTC 2018: Start EduShareOntario__liquibase test class liquibase.util.RegexMatcherTest
+Tue May 15 16:04:23 UTC 2018: Setting lastTestMethodIndex: 37588
+Tue May 15 16:04:23 UTC 2018: Starting linking
+Tue May 15 16:04:23 UTC 2018: No link for: liquibase.util.RegexMatcherTest-testBadPatternFails
+Tue May 15 16:04:23 UTC 2018: No link for: liquibase.util.RegexMatcherTest-testMatchingInSequentialOrder
+Tue May 15 16:04:23 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.util.RegexMatcherTest
+Tue May 15 16:04:24 UTC 2018: Found element on the queue
+Tue May 15 16:04:24 UTC 2018: Updating status
+Tue May 15 16:04:24 UTC 2018: Working
+Tue May 15 16:04:26 UTC 2018: Start EduShareOntario__liquibase test class liquibase.change.AbstractSQLChangeTest
+Tue May 15 16:04:26 UTC 2018: Setting lastTestMethodIndex: 37590
+Tue May 15 16:04:26 UTC 2018: Starting linking
+Tue May 15 16:04:26 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateCheckSum with liquibase.change.AbstractSQLChangeTest-generateCheckSum_lineEndingIndependent
+Tue May 15 16:04:26 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateStatements with liquibase.change.AbstractSQLChangeTest-generateStatements_noSplitKeepComments
+Tue May 15 16:04:26 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateStatements with liquibase.change.AbstractSQLChangeTest-generateStatements_noSplit
+Tue May 15 16:04:27 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateStatements with liquibase.change.AbstractSQLChangeTest-generateStatements_keepComments
+Tue May 15 16:04:27 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateCheckSum with liquibase.change.AbstractSQLChangeTest-generateCheckSum_nullSql
+Tue May 15 16:04:27 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateStatements with liquibase.change.AbstractSQLChangeTest-generateStatements_nullSqlMakesNoStatements
+Tue May 15 16:04:27 UTC 2018: Code found liquibase.change.AbstractSQLChange-supports with liquibase.change.AbstractSQLChangeTest-supports
+Tue May 15 16:04:27 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateCheckSum with liquibase.change.AbstractSQLChangeTest-generateCheckSum_changesBasedOnParams
+Tue May 15 16:04:27 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateStatements with liquibase.change.AbstractSQLChangeTest-generateStatements_crlfEndingStandardizes
+Tue May 15 16:04:27 UTC 2018: Code found liquibase.change.AbstractSQLChange-setSql with liquibase.change.AbstractSQLChangeTest-setSql
+Tue May 15 16:04:27 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateStatements with liquibase.change.AbstractSQLChangeTest-generateStatements_willCallNativeSqlIfPossible
+Tue May 15 16:04:28 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateStatements with liquibase.change.AbstractSQLChangeTest-generateStatements
+Tue May 15 16:04:28 UTC 2018: Code found liquibase.change.AbstractSQLChange-generateStatements with liquibase.change.AbstractSQLChangeTest-generateStatements_convertsEndingsOnSqlServer
+Tue May 15 16:04:28 UTC 2018: No link for: liquibase.change.AbstractSQLChangeTest-setSplittingStatements
+Tue May 15 16:04:28 UTC 2018: No link for: liquibase.change.AbstractSQLChangeTest-setStrippingComments
+Tue May 15 16:04:28 UTC 2018: No link for: liquibase.change.AbstractSQLChangeTest-constructor
+Tue May 15 16:04:28 UTC 2018: No link for: liquibase.change.AbstractSQLChangeTest-normalizeSql
+Tue May 15 16:04:28 UTC 2018: No link for: liquibase.change.AbstractSQLChangeTest-setEndDelmiter
+Tue May 15 16:04:28 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.change.AbstractSQLChangeTest
+Tue May 15 16:04:29 UTC 2018: Found element on the queue
+Tue May 15 16:04:29 UTC 2018: Updating status
+Tue May 15 16:04:29 UTC 2018: Working
+Tue May 15 16:04:32 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.visitor.ChangeLogSyncVisitorTest
+Tue May 15 16:04:32 UTC 2018: Setting lastTestMethodIndex: 37593
+Tue May 15 16:04:32 UTC 2018: Starting linking
+Tue May 15 16:04:32 UTC 2018: Code found liquibase.changelog.visitor.ChangeLogSyncVisitor-visit with liquibase.changelog.visitor.ChangeLogSyncVisitorTest-testVisitListenerConstructor
+Tue May 15 16:04:32 UTC 2018: Code found liquibase.changelog.visitor.ChangeLogSyncVisitor-visit with liquibase.changelog.visitor.ChangeLogSyncVisitorTest-testVisitDatabaseConstructor
+Tue May 15 16:04:32 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.visitor.ChangeLogSyncVisitorTest
+Tue May 15 16:04:32 UTC 2018: Found element on the queue
+Tue May 15 16:04:32 UTC 2018: Updating status
+Tue May 15 16:04:32 UTC 2018: Working
+Tue May 15 16:04:35 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.MarkChangeSetRanGeneratorTest
+Tue May 15 16:04:35 UTC 2018: Setting lastTestMethodIndex: 37595
+Tue May 15 16:04:35 UTC 2018: Starting linking
+Tue May 15 16:04:35 UTC 2018: Code found liquibase.sqlgenerator.core.MarkChangeSetRanGenerator-generateSql with liquibase.sqlgenerator.core.MarkChangeSetRanGeneratorTest-generateSql_markRan
+Tue May 15 16:04:35 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.MarkChangeSetRanGeneratorTest
+Tue May 15 16:04:35 UTC 2018: Found element on the queue
+Tue May 15 16:04:35 UTC 2018: Updating status
+Tue May 15 16:04:35 UTC 2018: Working
+Tue May 15 16:04:38 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropForeignKeyConstraintStatementTest
+Tue May 15 16:04:38 UTC 2018: Setting lastTestMethodIndex: 37597
+Tue May 15 16:04:38 UTC 2018: Starting linking
+Tue May 15 16:04:38 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropForeignKeyConstraintStatementTest
+Tue May 15 16:04:38 UTC 2018: Found element on the queue
+Tue May 15 16:04:38 UTC 2018: Updating status
+Tue May 15 16:04:38 UTC 2018: Working
+Tue May 15 16:04:40 UTC 2018: Start EduShareOntario__liquibase test class liquibase.changelog.visitor.ValidatingVisitorPreConditionsTest
+Tue May 15 16:04:40 UTC 2018: Setting lastTestMethodIndex: 37599
+Tue May 15 16:04:40 UTC 2018: Starting linking
+Tue May 15 16:04:41 UTC 2018: No link for: liquibase.changelog.visitor.ValidatingVisitorPreConditionsTest-testPreConditionsForOracleOnMSSQLWithPreconditionTag
+Tue May 15 16:04:41 UTC 2018: No link for: liquibase.changelog.visitor.ValidatingVisitorPreConditionsTest-testPreconditionForOracleOnOracleWithChangeLog
+Tue May 15 16:04:41 UTC 2018: No link for: liquibase.changelog.visitor.ValidatingVisitorPreConditionsTest-testPreConditionsForOracleOnMSSQLWithChangeLog
+Tue May 15 16:04:41 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.changelog.visitor.ValidatingVisitorPreConditionsTest
+Tue May 15 16:04:41 UTC 2018: Found element on the queue
+Tue May 15 16:04:41 UTC 2018: Updating status
+Tue May 15 16:04:41 UTC 2018: Working
+Tue May 15 16:04:44 UTC 2018: Start EduShareOntario__liquibase test class liquibase.executor.jvm.JdbcExecutorTest
+Tue May 15 16:04:44 UTC 2018: Setting lastTestMethodIndex: 37601
+Tue May 15 16:04:44 UTC 2018: Starting linking
+Tue May 15 16:04:44 UTC 2018: Code found liquibase.executor.ExecutorService-getInstance with liquibase.executor.jvm.JdbcExecutorTest-getInstance
+Tue May 15 16:04:44 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.executor.jvm.JdbcExecutorTest
+Tue May 15 16:04:44 UTC 2018: Found element on the queue
+Tue May 15 16:04:44 UTC 2018: Updating status
+Tue May 15 16:04:44 UTC 2018: Working
+Tue May 15 16:04:47 UTC 2018: Start EduShareOntario__liquibase test class liquibase.util.StreamUtilTest
+Tue May 15 16:04:47 UTC 2018: Setting lastTestMethodIndex: 37603
+Tue May 15 16:04:47 UTC 2018: Starting linking
+Tue May 15 16:04:47 UTC 2018: Code found liquibase.util.StreamUtil-getReaderContents with liquibase.util.StreamUtilTest-testGetReaderContents
+Tue May 15 16:04:47 UTC 2018: Code found liquibase.util.StreamUtil-getStreamContents with liquibase.util.StreamUtilTest-testGetStreamContents
+Tue May 15 16:04:47 UTC 2018: No link for: liquibase.util.StreamUtilTest-testWithoutBomUtf8
+Tue May 15 16:04:47 UTC 2018: No link for: liquibase.util.StreamUtilTest-testWithoutBomLatin1
+Tue May 15 16:04:47 UTC 2018: No link for: liquibase.util.StreamUtilTest-testWithBomWrongEncodingGiven
+Tue May 15 16:04:47 UTC 2018: No link for: liquibase.util.StreamUtilTest-testContentLength
+Tue May 15 16:04:47 UTC 2018: No link for: liquibase.util.StreamUtilTest-testWithBomNoEncodingGiven
+Tue May 15 16:04:48 UTC 2018: No link for: liquibase.util.StreamUtilTest-testWithBomCorrectEncodingGiven
+Tue May 15 16:04:48 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.util.StreamUtilTest
+Tue May 15 16:04:48 UTC 2018: Found element on the queue
+Tue May 15 16:04:48 UTC 2018: Updating status
+Tue May 15 16:04:48 UTC 2018: Working
+Tue May 15 16:04:51 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.CreateDatabaseChangeLogLockTableStatementTest
+Tue May 15 16:04:51 UTC 2018: Setting lastTestMethodIndex: 37605
+Tue May 15 16:04:51 UTC 2018: Starting linking
+Tue May 15 16:04:51 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.CreateDatabaseChangeLogLockTableStatementTest
+Tue May 15 16:04:51 UTC 2018: Found element on the queue
+Tue May 15 16:04:51 UTC 2018: Updating status
+Tue May 15 16:04:51 UTC 2018: Working
+Tue May 15 16:04:53 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.CreateIndexStatementTest
+Tue May 15 16:04:53 UTC 2018: Setting lastTestMethodIndex: 37606
+Tue May 15 16:04:53 UTC 2018: Starting linking
+Tue May 15 16:04:53 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.CreateIndexStatementTest
+Tue May 15 16:04:54 UTC 2018: Found element on the queue
+Tue May 15 16:04:54 UTC 2018: Updating status
+Tue May 15 16:04:54 UTC 2018: Working
+Tue May 15 16:04:56 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.core.SetNullableGeneratorTest
+Tue May 15 16:04:56 UTC 2018: Setting lastTestMethodIndex: 37608
+Tue May 15 16:04:56 UTC 2018: Starting linking
+Tue May 15 16:04:56 UTC 2018: No link for: liquibase.sqlgenerator.core.SetNullableGeneratorTest-testGenerateOracleNotNullSql
+Tue May 15 16:04:56 UTC 2018: No link for: liquibase.sqlgenerator.core.SetNullableGeneratorTest-testGenerateOracleNotNullSqlWithConstraintName
+Tue May 15 16:04:57 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.core.SetNullableGeneratorTest
+Tue May 15 16:04:57 UTC 2018: Found element on the queue
+Tue May 15 16:04:57 UTC 2018: Updating status
+Tue May 15 16:04:57 UTC 2018: Working
+Tue May 15 16:05:00 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.SetTableRemarksStatementTest
+Tue May 15 16:05:00 UTC 2018: Setting lastTestMethodIndex: 37610
+Tue May 15 16:05:00 UTC 2018: Starting linking
+Tue May 15 16:05:00 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.SetTableRemarksStatementTest
+Tue May 15 16:05:00 UTC 2018: Found element on the queue
+Tue May 15 16:05:00 UTC 2018: Updating status
+Tue May 15 16:05:00 UTC 2018: Working
+Tue May 15 16:05:03 UTC 2018: Start EduShareOntario__liquibase test class liquibase.util.ISODateFormatTest
+Tue May 15 16:05:03 UTC 2018: Setting lastTestMethodIndex: 37612
+Tue May 15 16:05:03 UTC 2018: Starting linking
+Tue May 15 16:05:03 UTC 2018: Code found liquibase.util.ISODateFormat-format with liquibase.util.ISODateFormatTest-isoDateFormatWithLeadingNoFractions
+Tue May 15 16:05:03 UTC 2018: Code found liquibase.util.ISODateFormat-format with liquibase.util.ISODateFormatTest-isoDateFormatWithNoLeadingZeroFractions
+Tue May 15 16:05:03 UTC 2018: Code found liquibase.util.ISODateFormat-format with liquibase.util.ISODateFormatTest-isoDateFormatWithLeadingZeroFractions
+Tue May 15 16:05:03 UTC 2018: Code found liquibase.util.ISODateFormat-format with liquibase.util.ISODateFormatTest-isoDateFormatWithLeadingNanoFractions
+Tue May 15 16:05:04 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.util.ISODateFormatTest
+Tue May 15 16:05:04 UTC 2018: Found element on the queue
+Tue May 15 16:05:04 UTC 2018: Updating status
+Tue May 15 16:05:04 UTC 2018: Working
+Tue May 15 16:05:07 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropPrimaryKeyStatementTest
+Tue May 15 16:05:07 UTC 2018: Setting lastTestMethodIndex: 37614
+Tue May 15 16:05:07 UTC 2018: Starting linking
+Tue May 15 16:05:07 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropPrimaryKeyStatementTest
+Tue May 15 16:05:07 UTC 2018: Found element on the queue
+Tue May 15 16:05:07 UTC 2018: Updating status
+Tue May 15 16:05:07 UTC 2018: Working
+Tue May 15 16:05:10 UTC 2018: Start EduShareOntario__liquibase test class liquibase.NoJavaSpecificCodeTest
+Tue May 15 16:05:10 UTC 2018: Setting lastTestMethodIndex: 37616
+Tue May 15 16:05:10 UTC 2018: Starting linking
+Tue May 15 16:05:10 UTC 2018: No link for: liquibase.NoJavaSpecificCodeTest-nothing
+Tue May 15 16:05:10 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.NoJavaSpecificCodeTest
+Tue May 15 16:05:10 UTC 2018: Found element on the queue
+Tue May 15 16:05:10 UTC 2018: Updating status
+Tue May 15 16:05:10 UTC 2018: Working
+Tue May 15 16:05:12 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.SqlGeneratorChainTest
+Tue May 15 16:05:12 UTC 2018: Setting lastTestMethodIndex: 37618
+Tue May 15 16:05:12 UTC 2018: Starting linking
+Tue May 15 16:05:12 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-generateSql with liquibase.sqlgenerator.SqlGeneratorChainTest-generateSql_oneGenerators
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-validate with liquibase.sqlgenerator.SqlGeneratorChainTest-validate_nullGenerators
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-generateSql with liquibase.sqlgenerator.SqlGeneratorChainTest-generateSql_nullGenerators
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-validate with liquibase.sqlgenerator.SqlGeneratorChainTest-validate_twoGenerators_secondHasErrors
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-validate with liquibase.sqlgenerator.SqlGeneratorChainTest-validate_oneGenerators_noErrors
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-generateSql with liquibase.sqlgenerator.SqlGeneratorChainTest-generateSql_noGenerators
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-generateSql with liquibase.sqlgenerator.SqlGeneratorChainTest-generateSql_twoGenerators
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-generateSql with liquibase.sqlgenerator.SqlGeneratorChainTest-generateSql_threeGenerators
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-validate with liquibase.sqlgenerator.SqlGeneratorChainTest-validate_oneGenerators_hasErrors
+Tue May 15 16:05:13 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-validate with liquibase.sqlgenerator.SqlGeneratorChainTest-validate_twoGenerators_noErrors
+Tue May 15 16:05:14 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorChain-validate with liquibase.sqlgenerator.SqlGeneratorChainTest-validate_twoGenerators_firstHasErrors
+Tue May 15 16:05:14 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.SqlGeneratorChainTest
+Tue May 15 16:05:14 UTC 2018: Found element on the queue
+Tue May 15 16:05:14 UTC 2018: Updating status
+Tue May 15 16:05:14 UTC 2018: Working
+Tue May 15 16:05:17 UTC 2018: Start EduShareOntario__liquibase test class liquibase.exception.DuplicateStatementIdentifierExceptionTest
+Tue May 15 16:05:17 UTC 2018: Setting lastTestMethodIndex: 37620
+Tue May 15 16:05:17 UTC 2018: Starting linking
+Tue May 15 16:05:17 UTC 2018: No link for: liquibase.exception.DuplicateStatementIdentifierExceptionTest-duplicateStatementIdentifierException
+Tue May 15 16:05:17 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.exception.DuplicateStatementIdentifierExceptionTest
+Tue May 15 16:05:17 UTC 2018: Found element on the queue
+Tue May 15 16:05:17 UTC 2018: Updating status
+Tue May 15 16:05:17 UTC 2018: Working
+Tue May 15 16:05:20 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.RenameTableStatementTest
+Tue May 15 16:05:20 UTC 2018: Setting lastTestMethodIndex: 37621
+Tue May 15 16:05:20 UTC 2018: Starting linking
+Tue May 15 16:05:20 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.RenameTableStatementTest
+Tue May 15 16:05:20 UTC 2018: Found element on the queue
+Tue May 15 16:05:20 UTC 2018: Updating status
+Tue May 15 16:05:20 UTC 2018: Working
+Tue May 15 16:05:23 UTC 2018: Start EduShareOntario__liquibase test class liquibase.exception.DuplicateChangeSetExceptionTest
+Tue May 15 16:05:23 UTC 2018: Setting lastTestMethodIndex: 37623
+Tue May 15 16:05:23 UTC 2018: Starting linking
+Tue May 15 16:05:23 UTC 2018: No link for: liquibase.exception.DuplicateChangeSetExceptionTest-duplicateChangeSetException
+Tue May 15 16:05:23 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.exception.DuplicateChangeSetExceptionTest
+Tue May 15 16:05:23 UTC 2018: Found element on the queue
+Tue May 15 16:05:23 UTC 2018: Updating status
+Tue May 15 16:05:23 UTC 2018: Working
+Tue May 15 16:05:26 UTC 2018: Start EduShareOntario__liquibase test class liquibase.verify.change.VerifyChangeClassesTest
+Tue May 15 16:05:26 UTC 2018: Setting lastTestMethodIndex: 37625
+Tue May 15 16:05:26 UTC 2018: Starting linking
+Tue May 15 16:05:26 UTC 2018: No link for: liquibase.verify.change.VerifyChangeClassesTest-minimumRequiredIsValidSql
+Tue May 15 16:05:26 UTC 2018: No link for: liquibase.verify.change.VerifyChangeClassesTest-extraParamsIsValidSql
+Tue May 15 16:05:26 UTC 2018: No link for: liquibase.verify.change.VerifyChangeClassesTest-lessThanMinimumFails
+Tue May 15 16:05:26 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.verify.change.VerifyChangeClassesTest
+Tue May 15 16:05:27 UTC 2018: Found element on the queue
+Tue May 15 16:05:27 UTC 2018: Updating status
+Tue May 15 16:05:27 UTC 2018: Working
+Tue May 15 16:05:29 UTC 2018: Start EduShareOntario__liquibase test class liquibase.exception.ValidatorErrorsTest
+Tue May 15 16:05:29 UTC 2018: Setting lastTestMethodIndex: 37627
+Tue May 15 16:05:29 UTC 2018: Starting linking
+Tue May 15 16:05:29 UTC 2018: Code found liquibase.exception.ValidationErrors-hasErrors with liquibase.exception.ValidatorErrorsTest-hasErrors
+Tue May 15 16:05:29 UTC 2018: Code found liquibase.exception.ValidationErrors-checkRequiredField with liquibase.exception.ValidatorErrorsTest-checkRequiredField_nullValue
+Tue May 15 16:05:29 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.exception.ValidatorErrorsTest
+Tue May 15 16:05:30 UTC 2018: Found element on the queue
+Tue May 15 16:05:30 UTC 2018: Updating status
+Tue May 15 16:05:30 UTC 2018: Working
+Tue May 15 16:05:32 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.DropUniqueConstraintStatementTest
+Tue May 15 16:05:32 UTC 2018: Setting lastTestMethodIndex: 37629
+Tue May 15 16:05:32 UTC 2018: Starting linking
+Tue May 15 16:05:32 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.DropUniqueConstraintStatementTest
+Tue May 15 16:05:33 UTC 2018: Found element on the queue
+Tue May 15 16:05:33 UTC 2018: Updating status
+Tue May 15 16:05:33 UTC 2018: Working
+Tue May 15 16:05:35 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.SqlGeneratorFactoryTest
+Tue May 15 16:05:35 UTC 2018: Setting lastTestMethodIndex: 37631
+Tue May 15 16:05:35 UTC 2018: Starting linking
+Tue May 15 16:05:35 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorFactory-unregister with liquibase.sqlgenerator.SqlGeneratorFactoryTest-unregister_instance
+Tue May 15 16:05:35 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorFactory-getInstance with liquibase.sqlgenerator.SqlGeneratorFactoryTest-getInstance
+Tue May 15 16:05:35 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorFactory-reset with liquibase.sqlgenerator.SqlGeneratorFactoryTest-reset
+Tue May 15 16:05:35 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorFactory-register with liquibase.sqlgenerator.SqlGeneratorFactoryTest-register
+Tue May 15 16:05:36 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorFactory-unregister with liquibase.sqlgenerator.SqlGeneratorFactoryTest-unregister_class
+Tue May 15 16:05:36 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorFactory-getGenerators with liquibase.sqlgenerator.SqlGeneratorFactoryTest-getGenerators
+Tue May 15 16:05:36 UTC 2018: Code found liquibase.sqlgenerator.SqlGeneratorFactory-unregister with liquibase.sqlgenerator.SqlGeneratorFactoryTest-unregister_class_doesNotExist
+Tue May 15 16:05:36 UTC 2018: No link for: liquibase.sqlgenerator.SqlGeneratorFactoryTest-builtInGeneratorsAreFound
+Tue May 15 16:05:36 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.SqlGeneratorFactoryTest
+Tue May 15 16:05:37 UTC 2018: Found element on the queue
+Tue May 15 16:05:37 UTC 2018: Updating status
+Tue May 15 16:05:37 UTC 2018: Working
+Tue May 15 16:05:39 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.InsertOrUpdateStatementTest
+Tue May 15 16:05:39 UTC 2018: Setting lastTestMethodIndex: 37633
+Tue May 15 16:05:39 UTC 2018: Starting linking
+Tue May 15 16:05:39 UTC 2018: Code found liquibase.statement.core.InsertOrUpdateStatement-setOnlyUpdate with liquibase.statement.core.InsertOrUpdateStatementTest-setOnlyUpdateToNull
+Tue May 15 16:05:39 UTC 2018: No link for: liquibase.statement.core.InsertOrUpdateStatementTest-setPrimaryKey
+Tue May 15 16:05:39 UTC 2018: No link for: liquibase.statement.core.InsertOrUpdateStatementTest-setOnlyUpdate
+Tue May 15 16:05:40 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.InsertOrUpdateStatementTest
+Tue May 15 16:05:40 UTC 2018: Found element on the queue
+Tue May 15 16:05:40 UTC 2018: Updating status
+Tue May 15 16:05:40 UTC 2018: Working
+Tue May 15 16:05:43 UTC 2018: Start EduShareOntario__liquibase test class liquibase.configuration.ContextTest
+Tue May 15 16:05:43 UTC 2018: Setting lastTestMethodIndex: 37635
+Tue May 15 16:05:43 UTC 2018: Starting linking
+Tue May 15 16:05:43 UTC 2018: Code found liquibase.configuration.AbstractConfigurationContainer$ConfigurationContainer-getValue with liquibase.configuration.ContextTest-getValue
+Tue May 15 16:05:43 UTC 2018: Code found liquibase.configuration.AbstractConfigurationContainer$ConfigurationContainer-getValue with liquibase.configuration.ContextTest-getValue_defaultFromSystemProperties
+Tue May 15 16:05:43 UTC 2018: Code found liquibase.configuration.AbstractConfigurationContainer$ConfigurationContainer-setValue with liquibase.configuration.ContextTest-setValue_wrongType
+Tue May 15 16:05:43 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.configuration.ContextTest
+Tue May 15 16:05:44 UTC 2018: Found element on the queue
+Tue May 15 16:05:44 UTC 2018: Updating status
+Tue May 15 16:05:44 UTC 2018: Working
+Tue May 15 16:05:46 UTC 2018: Start EduShareOntario__liquibase test class liquibase.configuration.LiquibaseConfigurationTest
+Tue May 15 16:05:46 UTC 2018: Setting lastTestMethodIndex: 37637
+Tue May 15 16:05:46 UTC 2018: Starting linking
+Tue May 15 16:05:46 UTC 2018: No link for: liquibase.configuration.LiquibaseConfigurationTest-getContext_defaultSetup
+Tue May 15 16:05:46 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.configuration.LiquibaseConfigurationTest
+Tue May 15 16:05:47 UTC 2018: Found element on the queue
+Tue May 15 16:05:47 UTC 2018: Updating status
+Tue May 15 16:05:47 UTC 2018: Working
+Tue May 15 16:05:49 UTC 2018: Start EduShareOntario__liquibase test class liquibase.sqlgenerator.GeneratorLevelTest
+Tue May 15 16:05:49 UTC 2018: Setting lastTestMethodIndex: 37639
+Tue May 15 16:05:49 UTC 2018: Starting linking
+Tue May 15 16:05:49 UTC 2018: No link for: liquibase.sqlgenerator.GeneratorLevelTest-checkLevelsAndNaming
+Tue May 15 16:05:49 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.sqlgenerator.GeneratorLevelTest
+Tue May 15 16:05:50 UTC 2018: Found element on the queue
+Tue May 15 16:05:50 UTC 2018: Updating status
+Tue May 15 16:05:50 UTC 2018: Working
+Tue May 15 16:05:52 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.SelectFromDatabaseChangeLogStatementTest
+Tue May 15 16:05:52 UTC 2018: Setting lastTestMethodIndex: 37641
+Tue May 15 16:05:52 UTC 2018: Starting linking
+Tue May 15 16:05:52 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.SelectFromDatabaseChangeLogStatementTest
+Tue May 15 16:05:53 UTC 2018: Found element on the queue
+Tue May 15 16:05:53 UTC 2018: Updating status
+Tue May 15 16:05:53 UTC 2018: Working
+Tue May 15 16:05:55 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.ReindexStatementTest
+Tue May 15 16:05:55 UTC 2018: Setting lastTestMethodIndex: 37643
+Tue May 15 16:05:55 UTC 2018: Starting linking
+Tue May 15 16:05:55 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.ReindexStatementTest
+Tue May 15 16:05:55 UTC 2018: Found element on the queue
+Tue May 15 16:05:55 UTC 2018: Updating status
+Tue May 15 16:05:55 UTC 2018: Working
+Tue May 15 16:05:58 UTC 2018: Start EduShareOntario__liquibase test class liquibase.servicelocator.ServiceLocatorTest
+Tue May 15 16:05:58 UTC 2018: Setting lastTestMethodIndex: 37644
+Tue May 15 16:05:58 UTC 2018: Starting linking
+Tue May 15 16:05:58 UTC 2018: Code found liquibase.servicelocator.ServiceLocator-reset with liquibase.servicelocator.ServiceLocatorTest-reset
+Tue May 15 16:05:58 UTC 2018: No link for: liquibase.servicelocator.ServiceLocatorTest-getClasses
+Tue May 15 16:05:58 UTC 2018: No link for: liquibase.servicelocator.ServiceLocatorTest-findClass
+Tue May 15 16:05:58 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.servicelocator.ServiceLocatorTest
+Tue May 15 16:05:59 UTC 2018: Found element on the queue
+Tue May 15 16:05:59 UTC 2018: Updating status
+Tue May 15 16:05:59 UTC 2018: Working
+Tue May 15 16:06:01 UTC 2018: Start EduShareOntario__liquibase test class liquibase.LiquibaseTest
+Tue May 15 16:06:01 UTC 2018: Setting lastTestMethodIndex: 37646
+Tue May 15 16:06:01 UTC 2018: Starting linking
+Tue May 15 16:06:01 UTC 2018: Code found liquibase.Liquibase-getStandardChangelogIterator with liquibase.LiquibaseTest-getStandardChangelogIterator
+Tue May 15 16:06:01 UTC 2018: Code found liquibase.Liquibase-update with liquibase.LiquibaseTest-update_exceptionGettingLock
+Tue May 15 16:06:01 UTC 2018: Code found liquibase.Liquibase-setCurrentDateTimeFunction with liquibase.LiquibaseTest-setCurrentDateTimeFunction
+Tue May 15 16:06:01 UTC 2018: Code found liquibase.Liquibase-update with liquibase.LiquibaseTest-update_passedStringContext
+Tue May 15 16:06:02 UTC 2018: Code found liquibase.Liquibase-update with liquibase.LiquibaseTest-update_exceptionDoingUpdate
+Tue May 15 16:06:02 UTC 2018: Code found liquibase.Liquibase-getFileOpener with liquibase.LiquibaseTest-getFileOpener
+Tue May 15 16:06:02 UTC 2018: No link for: liquibase.LiquibaseTest-constructor_changelogPathsStandardize
+Tue May 15 16:06:02 UTC 2018: No link for: liquibase.LiquibaseTest-constructor_createDatabaseInstanceFromConnection
+Tue May 15 16:06:02 UTC 2018: No link for: liquibase.LiquibaseTest-constructor
+Tue May 15 16:06:02 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.LiquibaseTest
+Tue May 15 16:06:03 UTC 2018: Found element on the queue
+Tue May 15 16:06:03 UTC 2018: Updating status
+Tue May 15 16:06:03 UTC 2018: Working
+Tue May 15 16:06:05 UTC 2018: Start EduShareOntario__liquibase test class liquibase.logging.jvm.LogFactoryTest
+Tue May 15 16:06:05 UTC 2018: Setting lastTestMethodIndex: 37649
+Tue May 15 16:06:05 UTC 2018: Starting linking
+Tue May 15 16:06:05 UTC 2018: Code found liquibase.logging.LogFactory-getLogger with liquibase.logging.jvm.LogFactoryTest-getLogger
+Tue May 15 16:06:05 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.logging.jvm.LogFactoryTest
+Tue May 15 16:06:06 UTC 2018: Found element on the queue
+Tue May 15 16:06:06 UTC 2018: Updating status
+Tue May 15 16:06:06 UTC 2018: Working
+Tue May 15 16:06:08 UTC 2018: Start EduShareOntario__liquibase test class liquibase.statement.core.AddAutoIncrementStatementTest
+Tue May 15 16:06:08 UTC 2018: Setting lastTestMethodIndex: 37650
+Tue May 15 16:06:08 UTC 2018: Starting linking
+Tue May 15 16:06:08 UTC 2018: No link for: liquibase.statement.core.AddAutoIncrementStatementTest-nothing
+Tue May 15 16:06:08 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.statement.core.AddAutoIncrementStatementTest
+Tue May 15 16:06:09 UTC 2018: Found element on the queue
+Tue May 15 16:06:09 UTC 2018: Updating status
+Tue May 15 16:06:09 UTC 2018: Working
+Tue May 15 16:06:11 UTC 2018: Start EduShareOntario__liquibase test class liquibase.serializer.ReflectionSerializerTest
+Tue May 15 16:06:11 UTC 2018: Setting lastTestMethodIndex: 37652
+Tue May 15 16:06:11 UTC 2018: Starting linking
+Tue May 15 16:06:11 UTC 2018: Code found liquibase.serializer.ReflectionSerializer-getValue with liquibase.serializer.ReflectionSerializerTest-getValue
+Tue May 15 16:06:12 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.serializer.ReflectionSerializerTest
+Tue May 15 16:06:12 UTC 2018: Found element on the queue
+Tue May 15 16:06:12 UTC 2018: Updating status
+Tue May 15 16:06:12 UTC 2018: Working
+Tue May 15 16:06:15 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.DerbyDatabaseTest
+Tue May 15 16:06:15 UTC 2018: Setting lastTestMethodIndex: 37654
+Tue May 15 16:06:15 UTC 2018: Starting linking
+Tue May 15 16:06:15 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.DerbyDatabaseTest
+Tue May 15 16:06:15 UTC 2018: Found element on the queue
+Tue May 15 16:06:15 UTC 2018: Updating status
+Tue May 15 16:06:15 UTC 2018: Working
+Tue May 15 16:06:18 UTC 2018: Start EduShareOntario__liquibase test class liquibase.database.core.HsqlDatabaseTest
+Tue May 15 16:06:18 UTC 2018: Setting lastTestMethodIndex: 37656
+Tue May 15 16:06:18 UTC 2018: Starting linking
+Tue May 15 16:06:18 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.database.core.HsqlDatabaseTest
+Tue May 15 16:06:18 UTC 2018: Found element on the queue
+Tue May 15 16:06:18 UTC 2018: Updating status
+Tue May 15 16:06:18 UTC 2018: Working
+Tue May 15 16:06:20 UTC 2018: Start EduShareOntario__liquibase test class liquibase.serializer.core.json.JsonChangeLogSerializerTest
+Tue May 15 16:06:20 UTC 2018: Setting lastTestMethodIndex: 37658
+Tue May 15 16:06:20 UTC 2018: Starting linking
+Tue May 15 16:06:20 UTC 2018: Code found liquibase.serializer.core.yaml.YamlSerializer-serialize with liquibase.serializer.core.json.JsonChangeLogSerializerTest-serialize_changeSet
+Tue May 15 16:06:21 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.serializer.core.json.JsonChangeLogSerializerTest
+Tue May 15 16:06:21 UTC 2018: Found element on the queue
+Tue May 15 16:06:21 UTC 2018: Updating status
+Tue May 15 16:06:21 UTC 2018: Working
+Tue May 15 16:06:24 UTC 2018: Start EduShareOntario__liquibase test class liquibase.serializer.core.xml.XMLChangeLogSerializerTest
+Tue May 15 16:06:24 UTC 2018: Setting lastTestMethodIndex: 37660
+Tue May 15 16:06:24 UTC 2018: Starting linking
+Tue May 15 16:06:24 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_RenameSequenceChange
+Tue May 15 16:06:24 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropForeignKeyConstraintChange
+Tue May 15 16:06:24 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropUniqueConstraintChange
+Tue May 15 16:06:24 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropSequenceChange
+Tue May 15 16:06:24 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropTableChange_withSchema
+Tue May 15 16:06:24 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-serialize with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-serialize_pretty_nestedNodeWithAttributes
+Tue May 15 16:06:24 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_RenameViewChange
+Tue May 15 16:06:25 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_addAutoIncrementChange
+Tue May 15 16:06:25 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_CreateTableChange
+Tue May 15 16:06:25 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropColumnChange_withSchema
+Tue May 15 16:06:25 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropDefaultValueChange_withSchema
+Tue May 15 16:06:25 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_InsertDataChange
+Tue May 15 16:06:25 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_CreateSequenceChange
+Tue May 15 16:06:25 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_RenameColumnChange
+Tue May 15 16:06:25 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropNotNullConstraintChange
+Tue May 15 16:06:26 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_AlterSequenceChange
+Tue May 15 16:06:26 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_AlterSequenceChange_nullValues
+Tue May 15 16:06:26 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropViewChange_withSchema
+Tue May 15 16:06:26 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_AddForeignKeyConstraintChange
+Tue May 15 16:06:26 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNodeDropColumnChange
+Tue May 15 16:06:26 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropViewChange
+Tue May 15 16:06:26 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_AddUniqueConstraintChange
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-serialize with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-serialize_pretty_justAttributes
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_CreateViewChange
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropIndexChange
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_nullConstraint
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropTableChange
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropUniqueConstraintChange_noSchema
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_RawSQLChange
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_SQLFileChange
+Tue May 15 16:06:27 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_addColumnChange
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropDefaultValueChange
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_ColumnConfig
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_AddNotNullConstraintChange
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_AddPrimaryKeyChange
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_CreateIndexChange
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_CreateProcedureChange
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_LoadDataChange
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-serialize with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-serialize_pretty
+Tue May 15 16:06:28 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_AddDefaultValueChange
+Tue May 15 16:06:29 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_DropPrimaryKeyChange
+Tue May 15 16:06:29 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_TagDatabaseChange
+Tue May 15 16:06:29 UTC 2018: Code found liquibase.serializer.core.xml.XMLChangeLogSerializer-createNode with liquibase.serializer.core.xml.XMLChangeLogSerializerTest-createNode_RenameTableChange
+Tue May 15 16:06:29 UTC 2018: Linking done for EduShareOntario__liquibase test class liquibase.serializer.core.xml.XMLChangeLogSerializerTest

@@ -1,0 +1,285 @@
+Tue May 15 17:11:49 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 17:11:49 UTC 2018: Starting
+Tue May 15 17:11:50 UTC 2018: Found element on the queue
+Tue May 15 17:11:50 UTC 2018: Updating status
+Tue May 15 17:11:50 UTC 2018: Working
+Tue May 15 17:11:50 UTC 2018: Create project parser
+Tue May 15 17:11:55 UTC 2018: Create slicer
+Tue May 15 17:11:58 UTC 2018: Create call graph
+Tue May 15 17:12:02 UTC 2018: Create point analysis
+Tue May 15 17:12:02 UTC 2018: Create call graph done
+Tue May 15 17:12:02 UTC 2018: Start felixalbani__nif test class org.apache.nifi.processor.TestDataUnit
+Tue May 15 17:12:02 UTC 2018: Setting lastTestMethodIndex: 39647
+Tue May 15 17:12:02 UTC 2018: Starting linking
+Tue May 15 17:12:02 UTC 2018: No link for: org.apache.nifi.processor.TestDataUnit-testParseWithIntegerValue
+Tue May 15 17:12:03 UTC 2018: No link for: org.apache.nifi.processor.TestDataUnit-testParseWithDecimalValue
+Tue May 15 17:12:03 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.processor.TestDataUnit
+Tue May 15 17:12:03 UTC 2018: Found element on the queue
+Tue May 15 17:12:03 UTC 2018: Updating status
+Tue May 15 17:12:03 UTC 2018: Working
+Tue May 15 17:12:06 UTC 2018: Start felixalbani__nif test class org.apache.nifi.registry.TestVariableRegistry
+Tue May 15 17:12:06 UTC 2018: Setting lastTestMethodIndex: 39649
+Tue May 15 17:12:06 UTC 2018: Starting linking
+Tue May 15 17:12:06 UTC 2018: No link for: org.apache.nifi.registry.TestVariableRegistry-testSystemProp
+Tue May 15 17:12:06 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.registry.TestVariableRegistry
+Tue May 15 17:12:06 UTC 2018: Found element on the queue
+Tue May 15 17:12:06 UTC 2018: Updating status
+Tue May 15 17:12:06 UTC 2018: Working
+Tue May 15 17:12:09 UTC 2018: Start felixalbani__nif test class org.apache.nifi.components.TestPropertyDescriptor
+Tue May 15 17:12:09 UTC 2018: Setting lastTestMethodIndex: 39652
+Tue May 15 17:12:09 UTC 2018: Starting linking
+Tue May 15 17:12:09 UTC 2018: No link for: org.apache.nifi.components.TestPropertyDescriptor-testNoExceptionThrownByPropertyDescriptorWithValidDefaultValue
+Tue May 15 17:12:09 UTC 2018: No link for: org.apache.nifi.components.TestPropertyDescriptor-testExceptionThrownByDescriptorWithInvalidDefaultValue
+Tue May 15 17:12:09 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.components.TestPropertyDescriptor
+Tue May 15 17:12:10 UTC 2018: Found element on the queue
+Tue May 15 17:12:10 UTC 2018: Updating status
+Tue May 15 17:12:10 UTC 2018: Working
+Tue May 15 17:12:10 UTC 2018: Create project parser
+Tue May 15 17:12:13 UTC 2018: Start felixalbani__nif test class org.apache.nifi.util.TestPackageUnpackageV3
+Tue May 15 17:12:13 UTC 2018: Setting lastTestMethodIndex: 39654
+Tue May 15 17:12:13 UTC 2018: Starting linking
+Tue May 15 17:12:13 UTC 2018: No link for: org.apache.nifi.util.TestPackageUnpackageV3-test
+Tue May 15 17:12:13 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.util.TestPackageUnpackageV3
+Tue May 15 17:12:13 UTC 2018: Found element on the queue
+Tue May 15 17:12:13 UTC 2018: Updating status
+Tue May 15 17:12:13 UTC 2018: Working
+Tue May 15 17:12:13 UTC 2018: Create project parser
+Tue May 15 17:12:16 UTC 2018: Start felixalbani__nif test class org.apache.nifi.hl7.query.TestHL7Query
+Tue May 15 17:12:16 UTC 2018: Setting lastTestMethodIndex: 39656
+Tue May 15 17:12:16 UTC 2018: Starting linking
+Tue May 15 17:12:16 UTC 2018: Code found org.apache.nifi.hl7.query.HL7Query-assignAliases with org.apache.nifi.hl7.query.TestHL7Query-testAssignAliases
+Tue May 15 17:12:16 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testSelectMessage
+Tue May 15 17:12:17 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testSelectField
+Tue May 15 17:12:17 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testIsNull
+Tue May 15 17:12:17 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testFieldEqualsString
+Tue May 15 17:12:17 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testCompareTwoFields
+Tue May 15 17:12:17 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testAndWithParents
+Tue May 15 17:12:17 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testNotNull
+Tue May 15 17:12:18 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testLessThan
+Tue May 15 17:12:18 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testGreaterThanOrEqual
+Tue May 15 17:12:18 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testSelectAbnormalTestResult
+Tue May 15 17:12:18 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testDistinctValuesReturned
+Tue May 15 17:12:18 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testGreaterThan
+Tue May 15 17:12:18 UTC 2018: No link for: org.apache.nifi.hl7.query.TestHL7Query-testLessThanOrEqual
+Tue May 15 17:12:19 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.hl7.query.TestHL7Query
+Tue May 15 17:12:19 UTC 2018: Found element on the queue
+Tue May 15 17:12:19 UTC 2018: Updating status
+Tue May 15 17:12:19 UTC 2018: Working
+Tue May 15 17:12:19 UTC 2018: Create project parser
+Tue May 15 17:12:22 UTC 2018: Start felixalbani__nif test class org.apache.nifi.util.NiFiPropertiesTest
+Tue May 15 17:12:22 UTC 2018: Setting lastTestMethodIndex: 39659
+Tue May 15 17:12:22 UTC 2018: Starting linking
+Tue May 15 17:12:22 UTC 2018: Code found org.apache.nifi.util.NiFiProperties-validate with org.apache.nifi.util.NiFiPropertiesTest-testValidateProperties
+Tue May 15 17:12:22 UTC 2018: No link for: org.apache.nifi.util.NiFiPropertiesTest-testBlankProperties
+Tue May 15 17:12:22 UTC 2018: No link for: org.apache.nifi.util.NiFiPropertiesTest-testProperties
+Tue May 15 17:12:22 UTC 2018: No link for: org.apache.nifi.util.NiFiPropertiesTest-testMissingProperties
+Tue May 15 17:12:23 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.util.NiFiPropertiesTest
+Tue May 15 17:12:23 UTC 2018: Found element on the queue
+Tue May 15 17:12:23 UTC 2018: Updating status
+Tue May 15 17:12:23 UTC 2018: Working
+Tue May 15 17:12:23 UTC 2018: Create project parser
+Tue May 15 17:12:27 UTC 2018: Start felixalbani__nif test class org.apache.nifi.record.path.TestRecordPath
+Tue May 15 17:12:27 UTC 2018: Setting lastTestMethodIndex: 39661
+Tue May 15 17:12:27 UTC 2018: Starting linking
+Tue May 15 17:12:27 UTC 2018: Code found org.apache.nifi.record.path.RecordPath-compile with org.apache.nifi.record.path.TestRecordPath-testCompile
+Tue May 15 17:12:27 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testNot
+Tue May 15 17:12:27 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testReplace
+Tue May 15 17:12:27 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testRelativePathOnly
+Tue May 15 17:12:27 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testStartsWith
+Tue May 15 17:12:27 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testSingleArrayRange
+Tue May 15 17:12:28 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testMapKey
+Tue May 15 17:12:28 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testSubstringBeforeFunction
+Tue May 15 17:12:28 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testUpdateValueOnMatchingFields
+Tue May 15 17:12:28 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testReplaceRegex
+Tue May 15 17:12:28 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testContainsRegex
+Tue May 15 17:12:28 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testChainingFunctions
+Tue May 15 17:12:29 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testChildField
+Tue May 15 17:12:29 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testWildcardWithArray
+Tue May 15 17:12:29 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testMultiArrayIndex
+Tue May 15 17:12:29 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testSubstringFunction
+Tue May 15 17:12:29 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testRelativePathAgainstNonRecordField
+Tue May 15 17:12:29 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testEndsWith
+Tue May 15 17:12:30 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testDescendantField
+Tue May 15 17:12:30 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testSubstringAfterFunction
+Tue May 15 17:12:30 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testParent
+Tue May 15 17:12:30 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testMapMultiKey
+Tue May 15 17:12:30 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testCompareToLiteral
+Tue May 15 17:12:30 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testContains
+Tue May 15 17:12:30 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testMatchesRegex
+Tue May 15 17:12:31 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testPredicateInMiddleOfPath
+Tue May 15 17:12:31 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testIsEmpty
+Tue May 15 17:12:31 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testPredicateDoesNotIncludeFieldsThatDontHaveRelativePath
+Tue May 15 17:12:31 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testRootRecord
+Tue May 15 17:12:31 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testCompareToAbsolute
+Tue May 15 17:12:31 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testEqualsPredicate
+Tue May 15 17:12:32 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testRelativePath
+Tue May 15 17:12:32 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testReplaceNull
+Tue May 15 17:12:32 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testEscapedFieldName
+Tue May 15 17:12:32 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testMapWildcard
+Tue May 15 17:12:32 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testIsBlank
+Tue May 15 17:12:32 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testCompareWithEmbeddedPaths
+Tue May 15 17:12:32 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testPredicateWithAbsolutePath
+Tue May 15 17:12:33 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testWildcardChild
+Tue May 15 17:12:33 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testSingleArrayIndex
+Tue May 15 17:12:33 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testConcat
+Tue May 15 17:12:33 UTC 2018: No link for: org.apache.nifi.record.path.TestRecordPath-testMultiArrayIndexWithRanges
+Tue May 15 17:12:33 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.record.path.TestRecordPath
+Tue May 15 17:12:34 UTC 2018: Found element on the queue
+Tue May 15 17:12:34 UTC 2018: Updating status
+Tue May 15 17:12:34 UTC 2018: Working
+Tue May 15 17:12:34 UTC 2018: Create project parser
+Tue May 15 17:12:37 UTC 2018: Start felixalbani__nif test class org.apache.nifi.serialization.record.TestMapRecord
+Tue May 15 17:12:37 UTC 2018: Setting lastTestMethodIndex: 39666
+Tue May 15 17:12:37 UTC 2018: Starting linking
+Tue May 15 17:12:37 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testDefaultValueInGivenField
+Tue May 15 17:12:37 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testAliasConflictingValues
+Tue May 15 17:12:37 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testAliasConflictingAliasValues
+Tue May 15 17:12:38 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testAliasInGivenField
+Tue May 15 17:12:38 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testDefaultValueWithAliasesDefined
+Tue May 15 17:12:38 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testAliasOneValue
+Tue May 15 17:12:38 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testDefaultValue
+Tue May 15 17:12:38 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testDefaultValueWithAliasValue
+Tue May 15 17:12:38 UTC 2018: No link for: org.apache.nifi.serialization.record.TestMapRecord-testIllegalDefaultValue
+Tue May 15 17:12:39 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.serialization.record.TestMapRecord
+Tue May 15 17:12:39 UTC 2018: Found element on the queue
+Tue May 15 17:12:39 UTC 2018: Updating status
+Tue May 15 17:12:39 UTC 2018: Working
+Tue May 15 17:12:41 UTC 2018: Start felixalbani__nif test class org.apache.nifi.serialization.TestSimpleRecordSchema
+Tue May 15 17:12:41 UTC 2018: Setting lastTestMethodIndex: 39668
+Tue May 15 17:12:41 UTC 2018: Starting linking
+Tue May 15 17:12:41 UTC 2018: No link for: org.apache.nifi.serialization.TestSimpleRecordSchema-testPreventsTwoFieldsWithSameAlias
+Tue May 15 17:12:42 UTC 2018: No link for: org.apache.nifi.serialization.TestSimpleRecordSchema-testPreventsTwoFieldsWithConflictingNamesAliases
+Tue May 15 17:12:42 UTC 2018: No link for: org.apache.nifi.serialization.TestSimpleRecordSchema-testPreventsTwoFieldsWithSameName
+Tue May 15 17:12:42 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.serialization.TestSimpleRecordSchema
+Tue May 15 17:12:42 UTC 2018: Found element on the queue
+Tue May 15 17:12:42 UTC 2018: Updating status
+Tue May 15 17:12:42 UTC 2018: Working
+Tue May 15 17:12:42 UTC 2018: Create project parser
+Tue May 15 17:12:46 UTC 2018: Start felixalbani__nif test class org.apache.nifi.repository.schema.TestSchemaRecordReader
+Tue May 15 17:12:46 UTC 2018: Setting lastTestMethodIndex: 39671
+Tue May 15 17:12:46 UTC 2018: Starting linking
+Tue May 15 17:12:46 UTC 2018: No link for: org.apache.nifi.repository.schema.TestSchemaRecordReader-testReadZeroOrOneFields
+Tue May 15 17:12:46 UTC 2018: No link for: org.apache.nifi.repository.schema.TestSchemaRecordReader-testReadExactlyOnceFields
+Tue May 15 17:12:46 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.repository.schema.TestSchemaRecordReader
+Tue May 15 17:12:47 UTC 2018: Found element on the queue
+Tue May 15 17:12:47 UTC 2018: Updating status
+Tue May 15 17:12:47 UTC 2018: Working
+Tue May 15 17:12:49 UTC 2018: Start felixalbani__nif test class org.apache.nifi.repository.schema.TestSchemaRecordReaderWriter
+Tue May 15 17:12:49 UTC 2018: Setting lastTestMethodIndex: 39673
+Tue May 15 17:12:49 UTC 2018: Starting linking
+Tue May 15 17:12:49 UTC 2018: No link for: org.apache.nifi.repository.schema.TestSchemaRecordReaderWriter-testMultiCharUTFLengths
+Tue May 15 17:12:49 UTC 2018: No link for: org.apache.nifi.repository.schema.TestSchemaRecordReaderWriter-testRoundTrip
+Tue May 15 17:12:49 UTC 2018: No link for: org.apache.nifi.repository.schema.TestSchemaRecordReaderWriter-testLargeCharUTFLengths
+Tue May 15 17:12:49 UTC 2018: No link for: org.apache.nifi.repository.schema.TestSchemaRecordReaderWriter-testUTFLargerThan64k
+Tue May 15 17:12:50 UTC 2018: No link for: org.apache.nifi.repository.schema.TestSchemaRecordReaderWriter-testSmallCharUTFLengths
+Tue May 15 17:12:50 UTC 2018: No link for: org.apache.nifi.repository.schema.TestSchemaRecordReaderWriter-testSingleCharUTF8Lengths
+Tue May 15 17:12:50 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.repository.schema.TestSchemaRecordReaderWriter
+Tue May 15 17:12:50 UTC 2018: Found element on the queue
+Tue May 15 17:12:50 UTC 2018: Updating status
+Tue May 15 17:12:50 UTC 2018: Working
+Tue May 15 17:12:50 UTC 2018: Create project parser
+Tue May 15 17:12:54 UTC 2018: Start felixalbani__nif test class org.apache.nifi.bundle.BundleCoordinateTest
+Tue May 15 17:12:54 UTC 2018: Setting lastTestMethodIndex: 39675
+Tue May 15 17:12:54 UTC 2018: Starting linking
+Tue May 15 17:12:54 UTC 2018: No link for: org.apache.nifi.bundle.BundleCoordinateTest-testConstructorAndEquals
+Tue May 15 17:12:54 UTC 2018: No link for: org.apache.nifi.bundle.BundleCoordinateTest-testVersionRequired
+Tue May 15 17:12:54 UTC 2018: No link for: org.apache.nifi.bundle.BundleCoordinateTest-testIdRequired
+Tue May 15 17:12:54 UTC 2018: No link for: org.apache.nifi.bundle.BundleCoordinateTest-testDefaultGroup
+Tue May 15 17:12:54 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.bundle.BundleCoordinateTest
+Tue May 15 17:12:55 UTC 2018: Found element on the queue
+Tue May 15 17:12:55 UTC 2018: Updating status
+Tue May 15 17:12:55 UTC 2018: Working
+Tue May 15 17:12:57 UTC 2018: Start felixalbani__nif test class org.apache.nifi.bundle.BundleDetailsTest
+Tue May 15 17:12:57 UTC 2018: Setting lastTestMethodIndex: 39678
+Tue May 15 17:12:57 UTC 2018: Starting linking
+Tue May 15 17:12:57 UTC 2018: Code found org.apache.nifi.bundle.BundleDetails$Builder-dependencyCoordinate with org.apache.nifi.bundle.BundleDetailsTest-testDependencyCoordinateCanBeNull
+Tue May 15 17:12:58 UTC 2018: Code found org.apache.nifi.bundle.BundleDetails$Builder-coordinate with org.apache.nifi.bundle.BundleDetailsTest-testCoordinateRequired
+Tue May 15 17:12:58 UTC 2018: Code found org.apache.nifi.bundle.BundleDetails$Builder-workingDir with org.apache.nifi.bundle.BundleDetailsTest-testWorkingDirRequired
+Tue May 15 17:12:58 UTC 2018: Code found org.apache.nifi.bundle.BundleDetails$Builder-build with org.apache.nifi.bundle.BundleDetailsTest-testBuilder
+Tue May 15 17:12:58 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.bundle.BundleDetailsTest
+Tue May 15 17:12:59 UTC 2018: Found element on the queue
+Tue May 15 17:12:59 UTC 2018: Updating status
+Tue May 15 17:12:59 UTC 2018: Working
+Tue May 15 17:13:01 UTC 2018: Start felixalbani__nif test class org.apache.nifi.authorization.TestUser
+Tue May 15 17:13:01 UTC 2018: Setting lastTestMethodIndex: 39680
+Tue May 15 17:13:01 UTC 2018: Starting linking
+Tue May 15 17:13:01 UTC 2018: Code found org.apache.nifi.authorization.User$Builder-identifier with org.apache.nifi.authorization.TestUser-testFromUserAndChangeIdentifier
+Tue May 15 17:13:01 UTC 2018: No link for: org.apache.nifi.authorization.TestUser-testFromUser
+Tue May 15 17:13:01 UTC 2018: No link for: org.apache.nifi.authorization.TestUser-testSimpleCreation
+Tue May 15 17:13:02 UTC 2018: No link for: org.apache.nifi.authorization.TestUser-testMissingIdentifier
+Tue May 15 17:13:02 UTC 2018: No link for: org.apache.nifi.authorization.TestUser-testMissingIdentity
+Tue May 15 17:13:02 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.authorization.TestUser
+Tue May 15 17:13:02 UTC 2018: Found element on the queue
+Tue May 15 17:13:02 UTC 2018: Updating status
+Tue May 15 17:13:02 UTC 2018: Working
+Tue May 15 17:13:05 UTC 2018: Start felixalbani__nif test class org.apache.nifi.authorization.TestGroup
+Tue May 15 17:13:05 UTC 2018: Setting lastTestMethodIndex: 39682
+Tue May 15 17:13:05 UTC 2018: Starting linking
+Tue May 15 17:13:05 UTC 2018: Code found org.apache.nifi.authorization.Group$Builder-identifier with org.apache.nifi.authorization.TestGroup-testFromGroupAndChangeIdentifier
+Tue May 15 17:13:05 UTC 2018: Code found org.apache.nifi.authorization.Group$Builder-clearUsers with org.apache.nifi.authorization.TestGroup-testAddRemoveClearUsers
+Tue May 15 17:13:06 UTC 2018: No link for: org.apache.nifi.authorization.TestGroup-testMissingId
+Tue May 15 17:13:06 UTC 2018: No link for: org.apache.nifi.authorization.TestGroup-testMissingUsers
+Tue May 15 17:13:06 UTC 2018: No link for: org.apache.nifi.authorization.TestGroup-testSimpleCreation
+Tue May 15 17:13:06 UTC 2018: No link for: org.apache.nifi.authorization.TestGroup-testMissingName
+Tue May 15 17:13:06 UTC 2018: No link for: org.apache.nifi.authorization.TestGroup-testFromGroup
+Tue May 15 17:13:06 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.authorization.TestGroup
+Tue May 15 17:13:07 UTC 2018: Found element on the queue
+Tue May 15 17:13:07 UTC 2018: Updating status
+Tue May 15 17:13:07 UTC 2018: Working
+Tue May 15 17:13:09 UTC 2018: Start felixalbani__nif test class org.apache.nifi.authorization.TestAccessPolicy
+Tue May 15 17:13:09 UTC 2018: Setting lastTestMethodIndex: 39685
+Tue May 15 17:13:09 UTC 2018: Starting linking
+Tue May 15 17:13:09 UTC 2018: Code found org.apache.nifi.authorization.AccessPolicy$Builder-clearGroups with org.apache.nifi.authorization.TestAccessPolicy-testAddRemoveClearGroups
+Tue May 15 17:13:10 UTC 2018: Code found org.apache.nifi.authorization.AccessPolicy$Builder-identifier with org.apache.nifi.authorization.TestAccessPolicy-testFromPolicyAndChangeIdentifier
+Tue May 15 17:13:10 UTC 2018: Code found org.apache.nifi.authorization.AccessPolicy$Builder-clearUsers with org.apache.nifi.authorization.TestAccessPolicy-testAddRemoveClearUsers
+Tue May 15 17:13:10 UTC 2018: No link for: org.apache.nifi.authorization.TestAccessPolicy-testMissingResource
+Tue May 15 17:13:10 UTC 2018: No link for: org.apache.nifi.authorization.TestAccessPolicy-testMissingIdentifier
+Tue May 15 17:13:10 UTC 2018: No link for: org.apache.nifi.authorization.TestAccessPolicy-testMissingActions
+Tue May 15 17:13:10 UTC 2018: No link for: org.apache.nifi.authorization.TestAccessPolicy-testSimpleCreation
+Tue May 15 17:13:11 UTC 2018: No link for: org.apache.nifi.authorization.TestAccessPolicy-testFromPolicy
+Tue May 15 17:13:11 UTC 2018: No link for: org.apache.nifi.authorization.TestAccessPolicy-testMissingUsersAndGroups
+Tue May 15 17:13:11 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.authorization.TestAccessPolicy
+Tue May 15 17:13:11 UTC 2018: Found element on the queue
+Tue May 15 17:13:11 UTC 2018: Updating status
+Tue May 15 17:13:11 UTC 2018: Working
+Tue May 15 17:13:14 UTC 2018: Start felixalbani__nif test class org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer
+Tue May 15 17:13:14 UTC 2018: Setting lastTestMethodIndex: 39687
+Tue May 15 17:13:14 UTC 2018: Starting linking
+Tue May 15 17:13:14 UTC 2018: Code found org.apache.nifi.authorization.AuthorizationResult-resourceNotFound with org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer-testResourceNotFound
+Tue May 15 17:13:14 UTC 2018: Code found org.apache.nifi.authorization.AuthorizationResult-approved with org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer-testApprovedBasedOnGroup
+Tue May 15 17:13:14 UTC 2018: No link for: org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer-testGetFingerprint
+Tue May 15 17:13:14 UTC 2018: No link for: org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer-testDeny
+Tue May 15 17:13:14 UTC 2018: No link for: org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer-testEmptyAuthorizer
+Tue May 15 17:13:15 UTC 2018: No link for: org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer-testInheritFingerprint
+Tue May 15 17:13:15 UTC 2018: No link for: org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer-testApproveBasedOnUser
+Tue May 15 17:13:15 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.authorization.TestAbstractPolicyBasedAuthorizer
+Tue May 15 17:13:15 UTC 2018: Found element on the queue
+Tue May 15 17:13:15 UTC 2018: Updating status
+Tue May 15 17:13:15 UTC 2018: Working
+Tue May 15 17:13:18 UTC 2018: Start felixalbani__nif test class org.apache.nifi.web.TestRevision
+Tue May 15 17:13:18 UTC 2018: Setting lastTestMethodIndex: 39689
+Tue May 15 17:13:18 UTC 2018: Starting linking
+Tue May 15 17:13:18 UTC 2018: Code found org.apache.nifi.web.Revision-incrementRevision with org.apache.nifi.web.TestRevision-testIncrementRevisionNewClient
+Tue May 15 17:13:18 UTC 2018: Code found org.apache.nifi.web.Revision-incrementRevision with org.apache.nifi.web.TestRevision-testIncrementRevision
+Tue May 15 17:13:18 UTC 2018: No link for: org.apache.nifi.web.TestRevision-testNullVersion
+Tue May 15 17:13:18 UTC 2018: No link for: org.apache.nifi.web.TestRevision-testNullComponentId
+Tue May 15 17:13:18 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.web.TestRevision
+Tue May 15 17:13:19 UTC 2018: Found element on the queue
+Tue May 15 17:13:19 UTC 2018: Updating status
+Tue May 15 17:13:19 UTC 2018: Working
+Tue May 15 17:13:19 UTC 2018: Create project parser
+Tue May 15 17:13:23 UTC 2018: Start felixalbani__nif test class org.apache.nifi.web.api.dto.TestRemoteProcessGroupDTO
+Tue May 15 17:13:23 UTC 2018: Setting lastTestMethodIndex: 39692
+Tue May 15 17:13:23 UTC 2018: Starting linking
+Tue May 15 17:13:23 UTC 2018: Code found org.apache.nifi.web.api.dto.RemoteProcessGroupDTO-getTargetUri with org.apache.nifi.web.api.dto.TestRemoteProcessGroupDTO-testGetTargetUriAndUris
+Tue May 15 17:13:23 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.web.api.dto.TestRemoteProcessGroupDTO
+Tue May 15 17:13:24 UTC 2018: Found element on the queue
+Tue May 15 17:13:24 UTC 2018: Updating status
+Tue May 15 17:13:24 UTC 2018: Working
+Tue May 15 17:13:24 UTC 2018: Create project parser
+Tue May 15 17:13:26 UTC 2018: Start felixalbani__nif test class org.apache.nifi.toolkit.FlowAnalyzerDriverTest
+Tue May 15 17:13:26 UTC 2018: Setting lastTestMethodIndex: 39694
+Tue May 15 17:13:26 UTC 2018: Starting linking
+Tue May 15 17:13:26 UTC 2018: Code found org.apache.nifi.toolkit.flowanalyzer.FlowAnalyzerDriver-convertBytesToGB with org.apache.nifi.toolkit.FlowAnalyzerDriverTest-convertBytesToGB
+Tue May 15 17:13:26 UTC 2018: No link for: org.apache.nifi.toolkit.FlowAnalyzerDriverTest-testConvertSizeToValue
+Tue May 15 17:13:27 UTC 2018: Linking done for felixalbani__nif test class org.apache.nifi.toolkit.FlowAnalyzerDriverTest

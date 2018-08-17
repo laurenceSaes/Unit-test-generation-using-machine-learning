@@ -1,0 +1,222 @@
+Tue May 15 15:16:42 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 15:16:43 UTC 2018: Starting
+Tue May 15 15:16:43 UTC 2018: Found element on the queue
+Tue May 15 15:16:43 UTC 2018: Updating status
+Tue May 15 15:16:43 UTC 2018: Working
+Tue May 15 15:16:43 UTC 2018: Create project parser
+Tue May 15 15:16:48 UTC 2018: Create slicer
+Tue May 15 15:16:50 UTC 2018: Create call graph
+Tue May 15 15:16:53 UTC 2018: Create point analysis
+Tue May 15 15:16:53 UTC 2018: Create call graph done
+Tue May 15 15:16:53 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.imprt.EntryUploaderImplTest
+Tue May 15 15:16:53 UTC 2018: Setting lastTestMethodIndex: 36314
+Tue May 15 15:16:53 UTC 2018: Starting linking
+Tue May 15 15:16:53 UTC 2018: No link for: com.google.sites.liberation.imprt.EntryUploaderImplTest-testUpdateById
+Tue May 15 15:16:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:16:53 UTC 2018: No link for: com.google.sites.liberation.imprt.EntryUploaderImplTest-testUpdateByPath
+Tue May 15 15:16:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:16:53 UTC 2018: No link for: com.google.sites.liberation.imprt.EntryUploaderImplTest-testInsert
+Tue May 15 15:16:53 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:16:53 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.imprt.EntryUploaderImplTest
+Tue May 15 15:16:54 UTC 2018: Found element on the queue
+Tue May 15 15:16:54 UTC 2018: Updating status
+Tue May 15 15:16:54 UTC 2018: Working
+Tue May 15 15:16:56 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.export.InMemoryEntryStoreTest
+Tue May 15 15:16:56 UTC 2018: Setting lastTestMethodIndex: 36315
+Tue May 15 15:16:56 UTC 2018: Starting linking
+Tue May 15 15:16:56 UTC 2018: Code found com.google.sites.liberation.export.InMemoryEntryStore-getEntry with com.google.sites.liberation.export.InMemoryEntryStoreTest-testGetEntry
+Tue May 15 15:16:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:16:56 UTC 2018: Code found com.google.sites.liberation.export.InMemoryEntryStore-getChildren with com.google.sites.liberation.export.InMemoryEntryStoreTest-testGetChildren
+Tue May 15 15:16:56 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:16:56 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.export.InMemoryEntryStoreTest
+Tue May 15 15:16:57 UTC 2018: Found element on the queue
+Tue May 15 15:16:57 UTC 2018: Updating status
+Tue May 15 15:16:57 UTC 2018: Working
+Tue May 15 15:16:59 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.export.PageExporterImplTest
+Tue May 15 15:16:59 UTC 2018: Setting lastTestMethodIndex: 36316
+Tue May 15 15:16:59 UTC 2018: Starting linking
+Tue May 15 15:16:59 UTC 2018: No link for: com.google.sites.liberation.export.PageExporterImplTest-testListExport
+Tue May 15 15:16:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:16:59 UTC 2018: No link for: com.google.sites.liberation.export.PageExporterImplTest-testAnnouncementsExport
+Tue May 15 15:16:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:16:59 UTC 2018: No link for: com.google.sites.liberation.export.PageExporterImplTest-testNormalExport
+Tue May 15 15:16:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:16:59 UTC 2018: No link for: com.google.sites.liberation.export.PageExporterImplTest-testFileCabinetExport
+Tue May 15 15:16:59 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:16:59 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.export.PageExporterImplTest
+Tue May 15 15:17:00 UTC 2018: Found element on the queue
+Tue May 15 15:17:00 UTC 2018: Updating status
+Tue May 15 15:17:00 UTC 2018: Working
+Tue May 15 15:17:02 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.export.RevisionExporterImplTest
+Tue May 15 15:17:02 UTC 2018: Setting lastTestMethodIndex: 36317
+Tue May 15 15:17:02 UTC 2018: Starting linking
+Tue May 15 15:17:02 UTC 2018: No link for: com.google.sites.liberation.export.RevisionExporterImplTest-testListPageRevision
+Tue May 15 15:17:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:02 UTC 2018: No link for: com.google.sites.liberation.export.RevisionExporterImplTest-testNormalRevision
+Tue May 15 15:17:02 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:02 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.export.RevisionExporterImplTest
+Tue May 15 15:17:03 UTC 2018: Found element on the queue
+Tue May 15 15:17:03 UTC 2018: Updating status
+Tue May 15 15:17:03 UTC 2018: Working
+Tue May 15 15:17:05 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.export.SiteExporterImplTest
+Tue May 15 15:17:05 UTC 2018: Setting lastTestMethodIndex: 36318
+Tue May 15 15:17:05 UTC 2018: Starting linking
+Tue May 15 15:17:05 UTC 2018: No link for: com.google.sites.liberation.export.SiteExporterImplTest-testEmptyExport
+Tue May 15 15:17:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:05 UTC 2018: No link for: com.google.sites.liberation.export.SiteExporterImplTest-testOnePageWithAttachment
+Tue May 15 15:17:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:05 UTC 2018: No link for: com.google.sites.liberation.export.SiteExporterImplTest-testSeveralOfEach
+Tue May 15 15:17:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:05 UTC 2018: No link for: com.google.sites.liberation.export.SiteExporterImplTest-testOnePage
+Tue May 15 15:17:05 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:05 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.export.SiteExporterImplTest
+Tue May 15 15:17:06 UTC 2018: Found element on the queue
+Tue May 15 15:17:06 UTC 2018: Updating status
+Tue May 15 15:17:06 UTC 2018: Working
+Tue May 15 15:17:08 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.TitleParserImplTest
+Tue May 15 15:17:08 UTC 2018: Setting lastTestMethodIndex: 36319
+Tue May 15 15:17:08 UTC 2018: Starting linking
+Tue May 15 15:17:08 UTC 2018: No link for: com.google.sites.liberation.parsers.TitleParserImplTest-testNormalCase
+Tue May 15 15:17:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:08 UTC 2018: No link for: com.google.sites.liberation.parsers.TitleParserImplTest-testComplicatedStructure
+Tue May 15 15:17:08 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:08 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.TitleParserImplTest
+Tue May 15 15:17:09 UTC 2018: Found element on the queue
+Tue May 15 15:17:09 UTC 2018: Updating status
+Tue May 15 15:17:09 UTC 2018: Working
+Tue May 15 15:17:11 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.AuthorParserImplTest
+Tue May 15 15:17:11 UTC 2018: Setting lastTestMethodIndex: 36320
+Tue May 15 15:17:11 UTC 2018: Starting linking
+Tue May 15 15:17:11 UTC 2018: No link for: com.google.sites.liberation.parsers.AuthorParserImplTest-testN
+Tue May 15 15:17:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:11 UTC 2018: No link for: com.google.sites.liberation.parsers.AuthorParserImplTest-testNAndEmail
+Tue May 15 15:17:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:11 UTC 2018: No link for: com.google.sites.liberation.parsers.AuthorParserImplTest-testFn
+Tue May 15 15:17:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:11 UTC 2018: No link for: com.google.sites.liberation.parsers.AuthorParserImplTest-testEmail
+Tue May 15 15:17:11 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:11 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.AuthorParserImplTest
+Tue May 15 15:17:12 UTC 2018: Found element on the queue
+Tue May 15 15:17:12 UTC 2018: Updating status
+Tue May 15 15:17:12 UTC 2018: Working
+Tue May 15 15:17:14 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.UpdatedParserImplTest
+Tue May 15 15:17:14 UTC 2018: Setting lastTestMethodIndex: 36321
+Tue May 15 15:17:14 UTC 2018: Starting linking
+Tue May 15 15:17:14 UTC 2018: No link for: com.google.sites.liberation.parsers.UpdatedParserImplTest-testInvalidDate
+Tue May 15 15:17:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:14 UTC 2018: No link for: com.google.sites.liberation.parsers.UpdatedParserImplTest-testValidDate
+Tue May 15 15:17:14 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:14 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.UpdatedParserImplTest
+Tue May 15 15:17:14 UTC 2018: Found element on the queue
+Tue May 15 15:17:14 UTC 2018: Updating status
+Tue May 15 15:17:14 UTC 2018: Working
+Tue May 15 15:17:17 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.FieldParserImplTest
+Tue May 15 15:17:17 UTC 2018: Setting lastTestMethodIndex: 36322
+Tue May 15 15:17:17 UTC 2018: Starting linking
+Tue May 15 15:17:17 UTC 2018: No link for: com.google.sites.liberation.parsers.FieldParserImplTest-testNormalCase
+Tue May 15 15:17:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:17 UTC 2018: No link for: com.google.sites.liberation.parsers.FieldParserImplTest-testComplicatedStructure
+Tue May 15 15:17:17 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:17 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.FieldParserImplTest
+Tue May 15 15:17:17 UTC 2018: Found element on the queue
+Tue May 15 15:17:17 UTC 2018: Updating status
+Tue May 15 15:17:17 UTC 2018: Working
+Tue May 15 15:17:19 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.SummaryParserImplTest
+Tue May 15 15:17:19 UTC 2018: Setting lastTestMethodIndex: 36323
+Tue May 15 15:17:19 UTC 2018: Starting linking
+Tue May 15 15:17:19 UTC 2018: No link for: com.google.sites.liberation.parsers.SummaryParserImplTest-testNormalCase
+Tue May 15 15:17:19 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:19 UTC 2018: No link for: com.google.sites.liberation.parsers.SummaryParserImplTest-testComplicatedStructure
+Tue May 15 15:17:20 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:20 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.SummaryParserImplTest
+Tue May 15 15:17:20 UTC 2018: Found element on the queue
+Tue May 15 15:17:20 UTC 2018: Updating status
+Tue May 15 15:17:20 UTC 2018: Working
+Tue May 15 15:17:22 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.EntryParserImplTest
+Tue May 15 15:17:22 UTC 2018: Setting lastTestMethodIndex: 36324
+Tue May 15 15:17:22 UTC 2018: Starting linking
+Tue May 15 15:17:22 UTC 2018: No link for: com.google.sites.liberation.parsers.EntryParserImplTest-testNormalPage
+Tue May 15 15:17:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:22 UTC 2018: No link for: com.google.sites.liberation.parsers.EntryParserImplTest-testFieldParsing
+Tue May 15 15:17:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:22 UTC 2018: No link for: com.google.sites.liberation.parsers.EntryParserImplTest-testUnusualStructure
+Tue May 15 15:17:22 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:22 UTC 2018: No link for: com.google.sites.liberation.parsers.EntryParserImplTest-testDataParsing
+Tue May 15 15:17:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:23 UTC 2018: No link for: com.google.sites.liberation.parsers.EntryParserImplTest-testWithChildren
+Tue May 15 15:17:23 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:23 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.EntryParserImplTest
+Tue May 15 15:17:23 UTC 2018: Found element on the queue
+Tue May 15 15:17:23 UTC 2018: Updating status
+Tue May 15 15:17:23 UTC 2018: Working
+Tue May 15 15:17:25 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.ContentParserImplTest
+Tue May 15 15:17:25 UTC 2018: Setting lastTestMethodIndex: 36325
+Tue May 15 15:17:25 UTC 2018: Starting linking
+Tue May 15 15:17:25 UTC 2018: No link for: com.google.sites.liberation.parsers.ContentParserImplTest-testEmptyXhtmlContent
+Tue May 15 15:17:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:25 UTC 2018: No link for: com.google.sites.liberation.parsers.ContentParserImplTest-testJustTextXhtmlContent
+Tue May 15 15:17:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:25 UTC 2018: No link for: com.google.sites.liberation.parsers.ContentParserImplTest-testNormalXhtmlContent
+Tue May 15 15:17:25 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:25 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.ContentParserImplTest
+Tue May 15 15:17:26 UTC 2018: Found element on the queue
+Tue May 15 15:17:26 UTC 2018: Updating status
+Tue May 15 15:17:26 UTC 2018: Working
+Tue May 15 15:17:28 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.DataParserImplTest
+Tue May 15 15:17:28 UTC 2018: Setting lastTestMethodIndex: 36326
+Tue May 15 15:17:28 UTC 2018: Starting linking
+Tue May 15 15:17:28 UTC 2018: No link for: com.google.sites.liberation.parsers.DataParserImplTest-testComplicatedStructure
+Tue May 15 15:17:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:28 UTC 2018: No link for: com.google.sites.liberation.parsers.DataParserImplTest-testNormalData
+Tue May 15 15:17:28 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:28 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.parsers.DataParserImplTest
+Tue May 15 15:17:29 UTC 2018: Found element on the queue
+Tue May 15 15:17:29 UTC 2018: Updating status
+Tue May 15 15:17:29 UTC 2018: Working
+Tue May 15 15:17:31 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.util.EntryTypeTest
+Tue May 15 15:17:31 UTC 2018: Setting lastTestMethodIndex: 36327
+Tue May 15 15:17:31 UTC 2018: Starting linking
+Tue May 15 15:17:31 UTC 2018: No link for: com.google.sites.liberation.util.EntryTypeTest-testGetType
+Tue May 15 15:17:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:31 UTC 2018: No link for: com.google.sites.liberation.util.EntryTypeTest-testIsPage
+Tue May 15 15:17:31 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:31 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.util.EntryTypeTest
+Tue May 15 15:17:32 UTC 2018: Found element on the queue
+Tue May 15 15:17:32 UTC 2018: Updating status
+Tue May 15 15:17:32 UTC 2018: Working
+Tue May 15 15:17:34 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.util.XmlElementTest
+Tue May 15 15:17:34 UTC 2018: Setting lastTestMethodIndex: 36328
+Tue May 15 15:17:34 UTC 2018: Starting linking
+Tue May 15 15:17:34 UTC 2018: Code found com.google.sites.liberation.util.XmlElement-addXml with com.google.sites.liberation.util.XmlElementTest-testAddXml
+Tue May 15 15:17:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:17:34 UTC 2018: Code found com.google.sites.liberation.util.XmlElement-setAttribute with com.google.sites.liberation.util.XmlElementTest-testSetAttribute
+Tue May 15 15:17:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:17:34 UTC 2018: Code found com.google.sites.liberation.util.XmlElement-addText with com.google.sites.liberation.util.XmlElementTest-testAddText
+Tue May 15 15:17:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:17:34 UTC 2018: No link for: com.google.sites.liberation.util.XmlElementTest-testConstructor
+Tue May 15 15:17:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:34 UTC 2018: No link for: com.google.sites.liberation.util.XmlElementTest-testAddChild
+Tue May 15 15:17:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 15:17:34 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.util.XmlElementTest
+Tue May 15 15:17:35 UTC 2018: Found element on the queue
+Tue May 15 15:17:35 UTC 2018: Updating status
+Tue May 15 15:17:35 UTC 2018: Working
+Tue May 15 15:17:37 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.util.UrlUtilsTest
+Tue May 15 15:17:37 UTC 2018: Setting lastTestMethodIndex: 36329
+Tue May 15 15:17:37 UTC 2018: Starting linking
+Tue May 15 15:17:37 UTC 2018: Code found com.google.sites.liberation.util.UrlUtils-getFeedUrl with com.google.sites.liberation.util.UrlUtilsTest-testGetFeedUrl
+Tue May 15 15:17:37 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:17:37 UTC 2018: Code found com.google.sites.liberation.util.UrlUtils-getSiteUrl with com.google.sites.liberation.util.UrlUtilsTest-testGetSiteUrl
+Tue May 15 15:17:37 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:17:37 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.util.UrlUtilsTest
+Tue May 15 15:17:38 UTC 2018: Found element on the queue
+Tue May 15 15:17:38 UTC 2018: Updating status
+Tue May 15 15:17:38 UTC 2018: Working
+Tue May 15 15:17:40 UTC 2018: Start Dkru838__google-sites-liberation test class com.google.sites.liberation.util.GuiProgressListenerTest
+Tue May 15 15:17:40 UTC 2018: Setting lastTestMethodIndex: 36330
+Tue May 15 15:17:40 UTC 2018: Starting linking
+Tue May 15 15:17:40 UTC 2018: Code found com.google.sites.liberation.util.GuiProgressListener-setProgress with com.google.sites.liberation.util.GuiProgressListenerTest-testSetProgress
+Tue May 15 15:17:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:17:40 UTC 2018: Code found com.google.sites.liberation.util.GuiProgressListener-setStatus with com.google.sites.liberation.util.GuiProgressListenerTest-testSetStatus
+Tue May 15 15:17:40 UTC 2018: Match not added in database because it already exists
+Tue May 15 15:17:40 UTC 2018: Linking done for Dkru838__google-sites-liberation test class com.google.sites.liberation.util.GuiProgressListenerTest

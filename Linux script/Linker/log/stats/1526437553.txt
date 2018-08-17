@@ -1,0 +1,21 @@
+Wed May 16 02:25:53 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 02:25:54 UTC 2018: Total regestrations 	56882
+Wed May 16 02:25:54 UTC 2018: Total projects: 266
+Wed May 16 02:25:54 UTC 2018: Total matches: 14539
+Wed May 16 02:25:54 UTC 2018: Total non dupl matches: 6232
+Wed May 16 02:25:55 UTC 2018: Total non dupl matches + code present: 5858
+Wed May 16 02:25:55 UTC 2018: Unit tests in system: 56884
+Wed May 16 02:25:56 UTC 2018: Unit tests with name non dupl: 50687
+Wed May 16 02:25:58 UTC 2018: Unit tests with name non dupl + unit test code: 49735
+Wed May 16 02:25:58 UTC 2018: Total non dupl methods + code present + test code: 5770
+todo	done
+75448	23723
+projects analyzed: 342
+laurence  75041 40.2 13.6 19938156 9007780 pts/0 Sl+ 02:18   2:52 java -jar Linking/main.jar BYTECODE unittests 1 1
+laurence  81748  6.2 18.2 19938156 12029440 pts/0 Sl+ 00:56   5:36 java -jar Linking/main.jar BYTECODE unittests 1 1
+laurence  84499 44.1  1.3 19936108 877744 pts/0 Sl+  02:24   0:45 java -jar Linking/main.jar BYTECODE unittests 1 1
+-rw-rw-r-- 1 laurence laurence  19015 May 16 02:26 log/link/MEM_BYTECODE_onepass_1526408594_0_72_output.log
+-rw-rw-r-- 1 laurence laurence 1769570 May 16 02:26 log/link/MEM_BYTECODE_onepass_1526408594_1_63_output.log
+-rw-rw-r-- 1 laurence laurence 150874 May 16 02:25 log/link/MEM_BYTECODE_onepass_1526408594_2_62_output.log
+Training data amount:count(*)
+11921

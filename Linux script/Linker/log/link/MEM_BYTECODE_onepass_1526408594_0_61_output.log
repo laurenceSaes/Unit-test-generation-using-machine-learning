@@ -1,0 +1,279 @@
+Wed May 16 01:56:40 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 01:56:40 UTC 2018: Starting
+Wed May 16 01:56:40 UTC 2018: Found element on the queue
+Wed May 16 01:56:40 UTC 2018: Updating status
+Wed May 16 01:56:40 UTC 2018: Working
+Wed May 16 01:56:40 UTC 2018: Create project parser
+Wed May 16 01:56:44 UTC 2018: Create slicer
+Wed May 16 01:56:46 UTC 2018: Create call graph
+Wed May 16 01:56:48 UTC 2018: Create point analysis
+Wed May 16 01:56:48 UTC 2018: Create call graph done
+Wed May 16 01:56:48 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.api.json.MotechJsonReaderTest
+Wed May 16 01:56:48 UTC 2018: Setting lastTestMethodIndex: 56115
+Wed May 16 01:56:48 UTC 2018: Starting linking
+Wed May 16 01:56:48 UTC 2018: No link for: org.motechproject.commons.api.json.MotechJsonReaderTest-shouldFailGracefullyWhenJsonFileIsNotFound
+Wed May 16 01:56:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:56:49 UTC 2018: No link for: org.motechproject.commons.api.json.MotechJsonReaderTest-shouldSkipMotechPropertyThatHasJsonObjectAsValue
+Wed May 16 01:56:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:56:49 UTC 2018: No link for: org.motechproject.commons.api.json.MotechJsonReaderTest-shouldParseMotechProperties
+Wed May 16 01:56:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:56:49 UTC 2018: No link for: org.motechproject.commons.api.json.MotechJsonReaderTest-shouldDeserializeJsonObject
+Wed May 16 01:56:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:56:49 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.api.json.MotechJsonReaderTest
+Wed May 16 01:56:50 UTC 2018: Found element on the queue
+Wed May 16 01:56:50 UTC 2018: Updating status
+Wed May 16 01:56:50 UTC 2018: Working
+Wed May 16 01:56:52 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.api.ClassUtilsTest
+Wed May 16 01:56:52 UTC 2018: Setting lastTestMethodIndex: 56118
+Wed May 16 01:56:52 UTC 2018: Starting linking
+Wed May 16 01:56:52 UTC 2018: No link for: org.motechproject.commons.api.ClassUtilsTest-shouldCastObjects
+Wed May 16 01:56:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:56:53 UTC 2018: No link for: org.motechproject.commons.api.ClassUtilsTest-shouldReturnEmptyList
+Wed May 16 01:56:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:56:53 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.api.ClassUtilsTest
+Wed May 16 01:56:53 UTC 2018: Found element on the queue
+Wed May 16 01:56:53 UTC 2018: Updating status
+Wed May 16 01:56:53 UTC 2018: Working
+Wed May 16 01:56:56 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.api.TenantIdentityTest
+Wed May 16 01:56:56 UTC 2018: Setting lastTestMethodIndex: 56120
+Wed May 16 01:56:56 UTC 2018: Starting linking
+Wed May 16 01:56:56 UTC 2018: No link for: org.motechproject.commons.api.TenantIdentityTest-shouldMakeTenantIdLowerCase
+Wed May 16 01:56:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:56:56 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.api.TenantIdentityTest
+Wed May 16 01:56:57 UTC 2018: Found element on the queue
+Wed May 16 01:56:57 UTC 2018: Updating status
+Wed May 16 01:56:57 UTC 2018: Working
+Wed May 16 01:56:59 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.api.ApplicationContextServiceReferenceUtilsTest
+Wed May 16 01:56:59 UTC 2018: Setting lastTestMethodIndex: 56121
+Wed May 16 01:56:59 UTC 2018: Starting linking
+Wed May 16 01:56:59 UTC 2018: No link for: org.motechproject.commons.api.ApplicationContextServiceReferenceUtilsTest-shouldNotRecogniseAsApplicationContextServiceWhenServiceNameIsDifferent
+Wed May 16 01:57:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:00 UTC 2018: No link for: org.motechproject.commons.api.ApplicationContextServiceReferenceUtilsTest-shouldRecogniseAsApplicationContextService
+Wed May 16 01:57:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:00 UTC 2018: No link for: org.motechproject.commons.api.ApplicationContextServiceReferenceUtilsTest-shouldNotRecogniseAsApplicationContextServiceWhenObjectClassIsDifferent
+Wed May 16 01:57:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:00 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.api.ApplicationContextServiceReferenceUtilsTest
+Wed May 16 01:57:01 UTC 2018: Found element on the queue
+Wed May 16 01:57:01 UTC 2018: Updating status
+Wed May 16 01:57:01 UTC 2018: Working
+Wed May 16 01:57:03 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.api.SystemIdentityProviderTest
+Wed May 16 01:57:03 UTC 2018: Setting lastTestMethodIndex: 56124
+Wed May 16 01:57:03 UTC 2018: Starting linking
+Wed May 16 01:57:03 UTC 2018: No link for: org.motechproject.commons.api.SystemIdentityProviderTest-shouldReturnNonBlankId
+Wed May 16 01:57:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:04 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.api.SystemIdentityProviderTest
+Wed May 16 01:57:04 UTC 2018: Found element on the queue
+Wed May 16 01:57:04 UTC 2018: Updating status
+Wed May 16 01:57:04 UTC 2018: Working
+Wed May 16 01:57:07 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.api.AbstractDataProviderLookupTest
+Wed May 16 01:57:07 UTC 2018: Setting lastTestMethodIndex: 56127
+Wed May 16 01:57:07 UTC 2018: Starting linking
+Wed May 16 01:57:07 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.api.AbstractDataProviderLookupTest
+Wed May 16 01:57:07 UTC 2018: Found element on the queue
+Wed May 16 01:57:07 UTC 2018: Updating status
+Wed May 16 01:57:07 UTC 2018: Working
+Wed May 16 01:57:10 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.api.MotechEnumUtilsTest
+Wed May 16 01:57:10 UTC 2018: Setting lastTestMethodIndex: 56129
+Wed May 16 01:57:10 UTC 2018: Starting linking
+Wed May 16 01:57:10 UTC 2018: No link for: org.motechproject.commons.api.MotechEnumUtilsTest-shouldReturnValidStringSet
+Wed May 16 01:57:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:10 UTC 2018: No link for: org.motechproject.commons.api.MotechEnumUtilsTest-shouldReturnValidString
+Wed May 16 01:57:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:10 UTC 2018: No link for: org.motechproject.commons.api.MotechEnumUtilsTest-shouldReturnEmptyStringSet
+Wed May 16 01:57:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:11 UTC 2018: No link for: org.motechproject.commons.api.MotechEnumUtilsTest-shouldThrowWhenGivenInvalidEnumStringVal
+Wed May 16 01:57:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:11 UTC 2018: No link for: org.motechproject.commons.api.MotechEnumUtilsTest-shouldReturnValidEnumSetFromCsvString
+Wed May 16 01:57:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:11 UTC 2018: No link for: org.motechproject.commons.api.MotechEnumUtilsTest-shouldReturnValidEnumSetFromStringSet
+Wed May 16 01:57:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:11 UTC 2018: No link for: org.motechproject.commons.api.MotechEnumUtilsTest-shouldReturnEmptyEnumSet
+Wed May 16 01:57:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:12 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.api.MotechEnumUtilsTest
+Wed May 16 01:57:12 UTC 2018: Found element on the queue
+Wed May 16 01:57:12 UTC 2018: Updating status
+Wed May 16 01:57:12 UTC 2018: Working
+Wed May 16 01:57:15 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.api.TenantTest
+Wed May 16 01:57:15 UTC 2018: Setting lastTestMethodIndex: 56132
+Wed May 16 01:57:15 UTC 2018: Starting linking
+Wed May 16 01:57:15 UTC 2018: No link for: org.motechproject.commons.api.TenantTest-shouldReturnSuffixedId
+Wed May 16 01:57:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:15 UTC 2018: No link for: org.motechproject.commons.api.TenantTest-shouldCreateTenant
+Wed May 16 01:57:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:15 UTC 2018: No link for: org.motechproject.commons.api.TenantTest-shouldIndicateIfTenantHasQueueWithGivenName
+Wed May 16 01:57:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:16 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.api.TenantTest
+Wed May 16 01:57:16 UTC 2018: Found element on the queue
+Wed May 16 01:57:16 UTC 2018: Updating status
+Wed May 16 01:57:16 UTC 2018: Working
+Wed May 16 01:57:16 UTC 2018: Create project parser
+Wed May 16 01:57:19 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.date.model.DayOfWeekTest
+Wed May 16 01:57:19 UTC 2018: Setting lastTestMethodIndex: 56134
+Wed May 16 01:57:19 UTC 2018: Starting linking
+Wed May 16 01:57:19 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldGetValueOfDays
+Wed May 16 01:57:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:19 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldParseDayOfWeek
+Wed May 16 01:57:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:19 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDaysOfWeekStartingToday
+Wed May 16 01:57:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:20 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDayOfWeekForTheSpecifiedNumber
+Wed May 16 01:57:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:20 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldThrowExceptionWhenSpecifiedNonExistingDay
+Wed May 16 01:57:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:20 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldVerifyCronDayOfWeek
+Wed May 16 01:57:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:21 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDayOfWeekForTheSpecifiedDate
+Wed May 16 01:57:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:21 UTC 2018: No link for: org.motechproject.commons.date.model.DayOfWeekTest-shouldReturnDaysOfWeek_IfOnlyToday
+Wed May 16 01:57:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:21 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.date.model.DayOfWeekTest
+Wed May 16 01:57:22 UTC 2018: Found element on the queue
+Wed May 16 01:57:22 UTC 2018: Updating status
+Wed May 16 01:57:22 UTC 2018: Working
+Wed May 16 01:57:24 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.date.model.TimeTest
+Wed May 16 01:57:24 UTC 2018: Setting lastTestMethodIndex: 56139
+Wed May 16 01:57:24 UTC 2018: Starting linking
+Wed May 16 01:57:24 UTC 2018: Code found org.motechproject.commons.date.model.Time-parseTime with org.motechproject.commons.date.model.TimeTest-parseTime
+Wed May 16 01:57:25 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:57:25 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-compareTo
+Wed May 16 01:57:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:25 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-shouldTestIfCurrentTimeLessThanGivenTime
+Wed May 16 01:57:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:25 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-shouldTestIfCurrentTimeGreaterThanGivenTime
+Wed May 16 01:57:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:25 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-shouldParseWhenGivenNullTime
+Wed May 16 01:57:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:26 UTC 2018: No link for: org.motechproject.commons.date.model.TimeTest-testStringConstructor
+Wed May 16 01:57:26 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:26 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.date.model.TimeTest
+Wed May 16 01:57:26 UTC 2018: Found element on the queue
+Wed May 16 01:57:26 UTC 2018: Updating status
+Wed May 16 01:57:26 UTC 2018: Working
+Wed May 16 01:57:29 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.date.util.DateTimeSourceUtilTest
+Wed May 16 01:57:29 UTC 2018: Setting lastTestMethodIndex: 56141
+Wed May 16 01:57:29 UTC 2018: Starting linking
+Wed May 16 01:57:29 UTC 2018: No link for: org.motechproject.commons.date.util.DateTimeSourceUtilTest-shouldUseDateSource
+Wed May 16 01:57:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:29 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.date.util.DateTimeSourceUtilTest
+Wed May 16 01:57:30 UTC 2018: Found element on the queue
+Wed May 16 01:57:30 UTC 2018: Updating status
+Wed May 16 01:57:30 UTC 2018: Working
+Wed May 16 01:57:32 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.date.util.JodaFormatterTest
+Wed May 16 01:57:32 UTC 2018: Setting lastTestMethodIndex: 56144
+Wed May 16 01:57:32 UTC 2018: Starting linking
+Wed May 16 01:57:32 UTC 2018: Code found org.motechproject.commons.date.util.JodaFormatter-parseDateTime with org.motechproject.commons.date.util.JodaFormatterTest-shouldParseDateTime
+Wed May 16 01:57:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:57:33 UTC 2018: Code found org.motechproject.commons.date.util.JodaFormatter-formatPeriod with org.motechproject.commons.date.util.JodaFormatterTest-shouldFormatPeriod
+Wed May 16 01:57:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:57:33 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldParseIntervalInYear
+Wed May 16 01:57:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:33 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldPrintDateTime
+Wed May 16 01:57:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:34 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldParseIntervalInMonth
+Wed May 16 01:57:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:34 UTC 2018: No link for: org.motechproject.commons.date.util.JodaFormatterTest-shouldFailParsingForInvalidFormat
+Wed May 16 01:57:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:34 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.date.util.JodaFormatterTest
+Wed May 16 01:57:35 UTC 2018: Found element on the queue
+Wed May 16 01:57:35 UTC 2018: Updating status
+Wed May 16 01:57:35 UTC 2018: Working
+Wed May 16 01:57:37 UTC 2018: Start karthikrameskum__motech test class org.motechproject.commons.date.util.DateUtilTest
+Wed May 16 01:57:37 UTC 2018: Setting lastTestMethodIndex: 56146
+Wed May 16 01:57:37 UTC 2018: Starting linking
+Wed May 16 01:57:37 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-daysToCalendarWeekEnd with org.motechproject.commons.date.util.DateUtilTest-shouldFindDaysToCalendarWeekEnd
+Wed May 16 01:57:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:57:38 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-time with org.motechproject.commons.date.util.DateUtilTest-shouldReturnTimeFromDateTime
+Wed May 16 01:57:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:57:38 UTC 2018: Code found org.motechproject.commons.date.util.DateUtil-endOfDay with org.motechproject.commons.date.util.DateUtilTest-shouldReturnEndOfDayForGivenTime
+Wed May 16 01:57:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 01:57:38 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldReturnTheNumberOfYearsFromAGivenDate
+Wed May 16 01:57:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:38 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldGetNextApplicableDateIncludingFromDateBasedOnApplicableWeekDays
+Wed May 16 01:57:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:39 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldGetNextApplicableDateAfterGivenDateBasedOnApplicableWeekDays
+Wed May 16 01:57:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:39 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldThrowExceptionIfApplicableDaysIsEmptyForNextApplicableDate
+Wed May 16 01:57:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:39 UTC 2018: No link for: org.motechproject.commons.date.util.DateUtilTest-shouldReturnWhetherGivenDateTimeFallsUnderSpecifiedInclusiveRange
+Wed May 16 01:57:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:39 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.commons.date.util.DateUtilTest
+Wed May 16 01:57:40 UTC 2018: Found element on the queue
+Wed May 16 01:57:40 UTC 2018: Updating status
+Wed May 16 01:57:40 UTC 2018: Working
+Wed May 16 01:57:40 UTC 2018: Create project parser
+Wed May 16 01:57:42 UTC 2018: Start karthikrameskum__motech test class org.motechproject.bundle.extender.MotechExtenderConfigFactoryTest
+Wed May 16 01:57:42 UTC 2018: Setting lastTestMethodIndex: 56149
+Wed May 16 01:57:42 UTC 2018: Starting linking
+Wed May 16 01:57:42 UTC 2018: No link for: org.motechproject.bundle.extender.MotechExtenderConfigFactoryTest-shouldReturnPropertiesWithTimeout
+Wed May 16 01:57:43 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:43 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.bundle.extender.MotechExtenderConfigFactoryTest
+Wed May 16 01:57:43 UTC 2018: Found element on the queue
+Wed May 16 01:57:43 UTC 2018: Updating status
+Wed May 16 01:57:43 UTC 2018: Working
+Wed May 16 01:57:46 UTC 2018: Start karthikrameskum__motech test class org.motechproject.bundle.extender.MotechOsgiApplicationContextCreatorTest
+Wed May 16 01:57:46 UTC 2018: Setting lastTestMethodIndex: 56151
+Wed May 16 01:57:46 UTC 2018: Starting linking
+Wed May 16 01:57:46 UTC 2018: No link for: org.motechproject.bundle.extender.MotechOsgiApplicationContextCreatorTest-shouldReturnApplicationOfTypeWebApplicationContext
+Wed May 16 01:57:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:46 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.bundle.extender.MotechOsgiApplicationContextCreatorTest
+Wed May 16 01:57:46 UTC 2018: Found element on the queue
+Wed May 16 01:57:46 UTC 2018: Updating status
+Wed May 16 01:57:46 UTC 2018: Working
+Wed May 16 01:57:46 UTC 2018: Create project parser
+Wed May 16 01:57:49 UTC 2018: Start karthikrameskum__motech test class org.motechproject.server.osgi.BundleTypeTest
+Wed May 16 01:57:49 UTC 2018: Setting lastTestMethodIndex: 56154
+Wed May 16 01:57:49 UTC 2018: Starting linking
+Wed May 16 01:57:49 UTC 2018: No link for: org.motechproject.server.osgi.BundleTypeTest-shouldRecognizeMotechModules
+Wed May 16 01:57:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:49 UTC 2018: No link for: org.motechproject.server.osgi.BundleTypeTest-shouldRecognizeMdsBundle
+Wed May 16 01:57:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:50 UTC 2018: No link for: org.motechproject.server.osgi.BundleTypeTest-shouldRecognizeWsBundle
+Wed May 16 01:57:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:50 UTC 2018: No link for: org.motechproject.server.osgi.BundleTypeTest-shouldRecognizeFragmentBundles
+Wed May 16 01:57:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:50 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.server.osgi.BundleTypeTest
+Wed May 16 01:57:51 UTC 2018: Found element on the queue
+Wed May 16 01:57:51 UTC 2018: Updating status
+Wed May 16 01:57:51 UTC 2018: Working
+Wed May 16 01:57:53 UTC 2018: Start karthikrameskum__motech test class org.motechproject.server.osgi.status.PlatformStatusTest
+Wed May 16 01:57:53 UTC 2018: Setting lastTestMethodIndex: 56157
+Wed May 16 01:57:53 UTC 2018: Starting linking
+Wed May 16 01:57:53 UTC 2018: No link for: org.motechproject.server.osgi.status.PlatformStatusTest-shouldCalculatePercentageCorrectly
+Wed May 16 01:57:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:54 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.server.osgi.status.PlatformStatusTest
+Wed May 16 01:57:54 UTC 2018: Found element on the queue
+Wed May 16 01:57:54 UTC 2018: Updating status
+Wed May 16 01:57:54 UTC 2018: Working
+Wed May 16 01:57:57 UTC 2018: Start karthikrameskum__motech test class org.motechproject.server.osgi.status.PlatformStatusManagerTest
+Wed May 16 01:57:57 UTC 2018: Setting lastTestMethodIndex: 56159
+Wed May 16 01:57:57 UTC 2018: Starting linking
+Wed May 16 01:57:57 UTC 2018: No link for: org.motechproject.server.osgi.status.PlatformStatusManagerTest-shouldUpdateStatusBasedOnOSGiEventsAndBundleErrors
+Wed May 16 01:57:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:57 UTC 2018: No link for: org.motechproject.server.osgi.status.PlatformStatusManagerTest-shouldReturnEmptyStatusAtFirst
+Wed May 16 01:57:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:57:57 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.server.osgi.status.PlatformStatusManagerTest
+Wed May 16 01:57:58 UTC 2018: Found element on the queue
+Wed May 16 01:57:58 UTC 2018: Updating status
+Wed May 16 01:57:58 UTC 2018: Working
+Wed May 16 01:58:00 UTC 2018: Start karthikrameskum__motech test class org.motechproject.server.osgi.event.OsgiEventProxyTest
+Wed May 16 01:58:00 UTC 2018: Setting lastTestMethodIndex: 56163
+Wed May 16 01:58:00 UTC 2018: Starting linking
+Wed May 16 01:58:00 UTC 2018: No link for: org.motechproject.server.osgi.event.OsgiEventProxyTest-shouldProxyEventsForQueueWithParams
+Wed May 16 01:58:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:58:01 UTC 2018: No link for: org.motechproject.server.osgi.event.OsgiEventProxyTest-shouldProxyEventsForTopicWithParamsAndProxyWhenReceiving
+Wed May 16 01:58:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:58:01 UTC 2018: No link for: org.motechproject.server.osgi.event.OsgiEventProxyTest-shouldProxyEventsForTopicWithoutParams
+Wed May 16 01:58:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:58:01 UTC 2018: No link for: org.motechproject.server.osgi.event.OsgiEventProxyTest-shouldProxyEventsForQueueWithoutParams
+Wed May 16 01:58:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:58:01 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.server.osgi.event.OsgiEventProxyTest
+Wed May 16 01:58:02 UTC 2018: Found element on the queue
+Wed May 16 01:58:02 UTC 2018: Updating status
+Wed May 16 01:58:02 UTC 2018: Working
+Wed May 16 01:58:02 UTC 2018: Create project parser
+Wed May 16 01:58:04 UTC 2018: Start karthikrameskum__motech test class org.motechproject.server.osgi.BundleIconTest
+Wed May 16 01:58:05 UTC 2018: Setting lastTestMethodIndex: 56165
+Wed May 16 01:58:05 UTC 2018: Starting linking
+Wed May 16 01:58:05 UTC 2018: No link for: org.motechproject.server.osgi.BundleIconTest-testBundleIcon
+Wed May 16 01:58:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 01:58:05 UTC 2018: Linking done for karthikrameskum__motech test class org.motechproject.server.osgi.BundleIconTest

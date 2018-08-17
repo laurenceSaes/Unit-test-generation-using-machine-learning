@@ -1,0 +1,448 @@
+Tue May 15 19:49:48 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 19:49:48 UTC 2018: Starting
+Tue May 15 19:49:48 UTC 2018: Found element on the queue
+Tue May 15 19:49:48 UTC 2018: Updating status
+Tue May 15 19:49:48 UTC 2018: Working
+Tue May 15 19:49:48 UTC 2018: Create project parser
+Tue May 15 19:49:58 UTC 2018: Create slicer
+Tue May 15 19:50:00 UTC 2018: Create call graph
+Tue May 15 19:50:04 UTC 2018: Create point analysis
+Tue May 15 19:50:04 UTC 2018: Create call graph done
+Tue May 15 19:50:04 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.proxy.RefererInvocationHandlerTest
+Tue May 15 19:50:04 UTC 2018: Setting lastTestMethodIndex: 46095
+Tue May 15 19:50:04 UTC 2018: Starting linking
+Tue May 15 19:50:04 UTC 2018: No link for: com.weibo.api.motan.proxy.RefererInvocationHandlerTest-testInvokeException
+Tue May 15 19:50:04 UTC 2018: No link for: com.weibo.api.motan.proxy.RefererInvocationHandlerTest-testAsync
+Tue May 15 19:50:04 UTC 2018: No link for: com.weibo.api.motan.proxy.RefererInvocationHandlerTest-testLocalMehtod
+Tue May 15 19:50:05 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.proxy.RefererInvocationHandlerTest
+Tue May 15 19:50:05 UTC 2018: Found element on the queue
+Tue May 15 19:50:05 UTC 2018: Updating status
+Tue May 15 19:50:05 UTC 2018: Working
+Tue May 15 19:50:08 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.serialize.Hessian2SerializationTest
+Tue May 15 19:50:08 UTC 2018: Setting lastTestMethodIndex: 46099
+Tue May 15 19:50:08 UTC 2018: Starting linking
+Tue May 15 19:50:08 UTC 2018: No link for: com.weibo.api.motan.serialize.Hessian2SerializationTest-testCompatibility
+Tue May 15 19:50:09 UTC 2018: No link for: com.weibo.api.motan.serialize.Hessian2SerializationTest-testHessianTimeStampBug
+Tue May 15 19:50:09 UTC 2018: No link for: com.weibo.api.motan.serialize.Hessian2SerializationTest-testHessianBug
+Tue May 15 19:50:09 UTC 2018: No link for: com.weibo.api.motan.serialize.Hessian2SerializationTest-testSerialization
+Tue May 15 19:50:09 UTC 2018: No link for: com.weibo.api.motan.serialize.Hessian2SerializationTest-testHessianDeserializeException
+Tue May 15 19:50:10 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.serialize.Hessian2SerializationTest
+Tue May 15 19:50:10 UTC 2018: Found element on the queue
+Tue May 15 19:50:10 UTC 2018: Updating status
+Tue May 15 19:50:10 UTC 2018: Working
+Tue May 15 19:50:13 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.protocol.rpc.CompressRpcCodecTest
+Tue May 15 19:50:13 UTC 2018: Setting lastTestMethodIndex: 46103
+Tue May 15 19:50:13 UTC 2018: Starting linking
+Tue May 15 19:50:13 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.CompressRpcCodecTest-testGzip
+Tue May 15 19:50:13 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.CompressRpcCodecTest-testCompatibility
+Tue May 15 19:50:14 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.CompressRpcCodecTest-testSwitcher
+Tue May 15 19:50:14 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.protocol.rpc.CompressRpcCodecTest
+Tue May 15 19:50:14 UTC 2018: Found element on the queue
+Tue May 15 19:50:14 UTC 2018: Updating status
+Tue May 15 19:50:14 UTC 2018: Working
+Tue May 15 19:50:17 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest
+Tue May 15 19:50:17 UTC 2018: Setting lastTestMethodIndex: 46108
+Tue May 15 19:50:17 UTC 2018: Starting linking
+Tue May 15 19:50:17 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testStringResponse
+Tue May 15 19:50:18 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testStringTypeRequest
+Tue May 15 19:50:18 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testObjectArrayRequest
+Tue May 15 19:50:18 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testMultiTypeRequest
+Tue May 15 19:50:18 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testVoidTypeRequest
+Tue May 15 19:50:19 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testOriginalTypeResponse
+Tue May 15 19:50:19 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testObjectTypeRequest
+Tue May 15 19:50:19 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testCodecRequest
+Tue May 15 19:50:19 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testNullRequest
+Tue May 15 19:50:20 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testOriginalTypeArrayRequest
+Tue May 15 19:50:20 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testHalfNullRequest
+Tue May 15 19:50:20 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testCodecResponse
+Tue May 15 19:50:20 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testObjectResponse
+Tue May 15 19:50:20 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testException
+Tue May 15 19:50:21 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testOriginalTypeRequest
+Tue May 15 19:50:21 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testHalfNullRequest1
+Tue May 15 19:50:21 UTC 2018: No link for: com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest-testStringArrayRequest
+Tue May 15 19:50:22 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.protocol.rpc.DefaultRpcCodecTest
+Tue May 15 19:50:22 UTC 2018: Found element on the queue
+Tue May 15 19:50:22 UTC 2018: Updating status
+Tue May 15 19:50:22 UTC 2018: Working
+Tue May 15 19:50:25 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.ClusterTest
+Tue May 15 19:50:25 UTC 2018: Setting lastTestMethodIndex: 46115
+Tue May 15 19:50:25 UTC 2018: Starting linking
+Tue May 15 19:50:25 UTC 2018: No link for: com.weibo.api.motan.cluster.ClusterTest-testCall
+Tue May 15 19:50:25 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.ClusterTest
+Tue May 15 19:50:26 UTC 2018: Found element on the queue
+Tue May 15 19:50:26 UTC 2018: Updating status
+Tue May 15 19:50:26 UTC 2018: Working
+Tue May 15 19:50:28 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.ha.FailfastHaStrategyTest
+Tue May 15 19:50:28 UTC 2018: Setting lastTestMethodIndex: 46118
+Tue May 15 19:50:28 UTC 2018: Starting linking
+Tue May 15 19:50:28 UTC 2018: No link for: com.weibo.api.motan.cluster.ha.FailfastHaStrategyTest-testCallError
+Tue May 15 19:50:29 UTC 2018: No link for: com.weibo.api.motan.cluster.ha.FailfastHaStrategyTest-testCall
+Tue May 15 19:50:29 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.ha.FailfastHaStrategyTest
+Tue May 15 19:50:29 UTC 2018: Found element on the queue
+Tue May 15 19:50:29 UTC 2018: Updating status
+Tue May 15 19:50:29 UTC 2018: Working
+Tue May 15 19:50:32 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.ha.FailoverHaStrategyTest
+Tue May 15 19:50:32 UTC 2018: Setting lastTestMethodIndex: 46122
+Tue May 15 19:50:32 UTC 2018: Starting linking
+Tue May 15 19:50:32 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.ha.FailoverHaStrategyTest
+Tue May 15 19:50:33 UTC 2018: Found element on the queue
+Tue May 15 19:50:33 UTC 2018: Updating status
+Tue May 15 19:50:33 UTC 2018: Working
+Tue May 15 19:50:36 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.ClusterSpiTest
+Tue May 15 19:50:36 UTC 2018: Setting lastTestMethodIndex: 46125
+Tue May 15 19:50:36 UTC 2018: Starting linking
+Tue May 15 19:50:36 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.ClusterSpiTest
+Tue May 15 19:50:36 UTC 2018: Found element on the queue
+Tue May 15 19:50:36 UTC 2018: Updating status
+Tue May 15 19:50:36 UTC 2018: Working
+Tue May 15 19:50:40 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.ClusterSupportTest
+Tue May 15 19:50:40 UTC 2018: Setting lastTestMethodIndex: 46128
+Tue May 15 19:50:40 UTC 2018: Starting linking
+Tue May 15 19:50:40 UTC 2018: Code found com.weibo.api.motan.cluster.support.ClusterSupport-notify with com.weibo.api.motan.cluster.ClusterSupportTest-testNotify
+Tue May 15 19:50:40 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.ClusterSupportTest
+Tue May 15 19:50:41 UTC 2018: Found element on the queue
+Tue May 15 19:50:41 UTC 2018: Updating status
+Tue May 15 19:50:41 UTC 2018: Working
+Tue May 15 19:50:43 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.ConfigurableWeightLoadBalanceTest
+Tue May 15 19:50:43 UTC 2018: Setting lastTestMethodIndex: 46131
+Tue May 15 19:50:43 UTC 2018: Starting linking
+Tue May 15 19:50:43 UTC 2018: Code found com.weibo.api.motan.cluster.loadbalance.ConfigurableWeightLoadBalance-doSelectToHolder with com.weibo.api.motan.cluster.loadbalance.ConfigurableWeightLoadBalanceTest-testDoSelectToHolder
+Tue May 15 19:50:44 UTC 2018: Code found com.weibo.api.motan.cluster.loadbalance.ConfigurableWeightLoadBalance-doSelect with com.weibo.api.motan.cluster.loadbalance.ConfigurableWeightLoadBalanceTest-testDoSelect
+Tue May 15 19:50:44 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.ConfigurableWeightLoadBalanceTest
+Tue May 15 19:50:45 UTC 2018: Found element on the queue
+Tue May 15 19:50:45 UTC 2018: Updating status
+Tue May 15 19:50:45 UTC 2018: Working
+Tue May 15 19:50:47 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.ConsistentHashLoadBalanceTest
+Tue May 15 19:50:47 UTC 2018: Setting lastTestMethodIndex: 46136
+Tue May 15 19:50:47 UTC 2018: Starting linking
+Tue May 15 19:50:47 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.ConsistentHashLoadBalanceTest
+Tue May 15 19:50:48 UTC 2018: Found element on the queue
+Tue May 15 19:50:48 UTC 2018: Updating status
+Tue May 15 19:50:48 UTC 2018: Working
+Tue May 15 19:50:50 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.AbstractLoadBalanceTest
+Tue May 15 19:50:50 UTC 2018: Setting lastTestMethodIndex: 46140
+Tue May 15 19:50:50 UTC 2018: Starting linking
+Tue May 15 19:50:50 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.AbstractLoadBalanceTest
+Tue May 15 19:50:51 UTC 2018: Found element on the queue
+Tue May 15 19:50:51 UTC 2018: Updating status
+Tue May 15 19:50:51 UTC 2018: Working
+Tue May 15 19:50:53 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.RoundRobinLoadBalanceTest
+Tue May 15 19:50:53 UTC 2018: Setting lastTestMethodIndex: 46144
+Tue May 15 19:50:53 UTC 2018: Starting linking
+Tue May 15 19:50:53 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.RoundRobinLoadBalanceTest
+Tue May 15 19:50:54 UTC 2018: Found element on the queue
+Tue May 15 19:50:54 UTC 2018: Updating status
+Tue May 15 19:50:54 UTC 2018: Working
+Tue May 15 19:50:57 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.RandomLoadBalanceTest
+Tue May 15 19:50:57 UTC 2018: Setting lastTestMethodIndex: 46148
+Tue May 15 19:50:57 UTC 2018: Starting linking
+Tue May 15 19:50:57 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.RandomLoadBalanceTest
+Tue May 15 19:50:58 UTC 2018: Found element on the queue
+Tue May 15 19:50:58 UTC 2018: Updating status
+Tue May 15 19:50:58 UTC 2018: Working
+Tue May 15 19:51:00 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.ActiveWeightLoadBalanceTest
+Tue May 15 19:51:00 UTC 2018: Setting lastTestMethodIndex: 46151
+Tue May 15 19:51:00 UTC 2018: Starting linking
+Tue May 15 19:51:00 UTC 2018: No link for: com.weibo.api.motan.cluster.loadbalance.ActiveWeightLoadBalanceTest-testSelect
+Tue May 15 19:51:00 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.cluster.loadbalance.ActiveWeightLoadBalanceTest
+Tue May 15 19:51:01 UTC 2018: Found element on the queue
+Tue May 15 19:51:01 UTC 2018: Updating status
+Tue May 15 19:51:01 UTC 2018: Working
+Tue May 15 19:51:04 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.registry.support.command.RpcCommandUtilTest
+Tue May 15 19:51:04 UTC 2018: Setting lastTestMethodIndex: 46156
+Tue May 15 19:51:04 UTC 2018: Starting linking
+Tue May 15 19:51:04 UTC 2018: Code found com.weibo.api.motan.registry.support.command.RpcCommandUtil-match with com.weibo.api.motan.registry.support.command.RpcCommandUtilTest-testPathMatch
+Tue May 15 19:51:05 UTC 2018: No link for: com.weibo.api.motan.registry.support.command.RpcCommandUtilTest-testRouteRuleMath
+Tue May 15 19:51:05 UTC 2018: No link for: com.weibo.api.motan.registry.support.command.RpcCommandUtilTest-testCodec
+Tue May 15 19:51:05 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.registry.support.command.RpcCommandUtilTest
+Tue May 15 19:51:06 UTC 2018: Found element on the queue
+Tue May 15 19:51:06 UTC 2018: Updating status
+Tue May 15 19:51:06 UTC 2018: Working
+Tue May 15 19:51:09 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.core.extension.ExtensionLoaderTest
+Tue May 15 19:51:09 UTC 2018: Setting lastTestMethodIndex: 46159
+Tue May 15 19:51:09 UTC 2018: Starting linking
+Tue May 15 19:51:09 UTC 2018: No link for: com.weibo.api.motan.core.extension.ExtensionLoaderTest-testExtensionAbNormal
+Tue May 15 19:51:09 UTC 2018: No link for: com.weibo.api.motan.core.extension.ExtensionLoaderTest-testExtensionNormal
+Tue May 15 19:51:09 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.core.extension.ExtensionLoaderTest
+Tue May 15 19:51:10 UTC 2018: Found element on the queue
+Tue May 15 19:51:10 UTC 2018: Updating status
+Tue May 15 19:51:10 UTC 2018: Working
+Tue May 15 19:51:13 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.rpc.LocalSwitcherServiceTest
+Tue May 15 19:51:13 UTC 2018: Setting lastTestMethodIndex: 46164
+Tue May 15 19:51:13 UTC 2018: Starting linking
+Tue May 15 19:51:13 UTC 2018: No link for: com.weibo.api.motan.rpc.LocalSwitcherServiceTest-testProtocolSwitcher
+Tue May 15 19:51:13 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.rpc.LocalSwitcherServiceTest
+Tue May 15 19:51:13 UTC 2018: Found element on the queue
+Tue May 15 19:51:13 UTC 2018: Updating status
+Tue May 15 19:51:13 UTC 2018: Working
+Tue May 15 19:51:16 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.rpc.URLTest
+Tue May 15 19:51:16 UTC 2018: Setting lastTestMethodIndex: 46167
+Tue May 15 19:51:16 UTC 2018: Starting linking
+Tue May 15 19:51:16 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.rpc.URLTest
+Tue May 15 19:51:17 UTC 2018: Found element on the queue
+Tue May 15 19:51:17 UTC 2018: Updating status
+Tue May 15 19:51:17 UTC 2018: Working
+Tue May 15 19:51:19 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.filter.ServiceMockFilterTest
+Tue May 15 19:51:19 UTC 2018: Setting lastTestMethodIndex: 46170
+Tue May 15 19:51:19 UTC 2018: Starting linking
+Tue May 15 19:51:19 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.filter.ServiceMockFilterTest
+Tue May 15 19:51:20 UTC 2018: Found element on the queue
+Tue May 15 19:51:20 UTC 2018: Updating status
+Tue May 15 19:51:20 UTC 2018: Working
+Tue May 15 19:51:23 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.filter.AccessStatisticFilterTest
+Tue May 15 19:51:23 UTC 2018: Setting lastTestMethodIndex: 46173
+Tue May 15 19:51:23 UTC 2018: Starting linking
+Tue May 15 19:51:23 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.filter.AccessStatisticFilterTest
+Tue May 15 19:51:23 UTC 2018: Found element on the queue
+Tue May 15 19:51:23 UTC 2018: Updating status
+Tue May 15 19:51:23 UTC 2018: Working
+Tue May 15 19:51:26 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.filter.ActiveLimitFilterTest
+Tue May 15 19:51:26 UTC 2018: Setting lastTestMethodIndex: 46177
+Tue May 15 19:51:26 UTC 2018: Starting linking
+Tue May 15 19:51:26 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.filter.ActiveLimitFilterTest
+Tue May 15 19:51:27 UTC 2018: Found element on the queue
+Tue May 15 19:51:27 UTC 2018: Updating status
+Tue May 15 19:51:27 UTC 2018: Working
+Tue May 15 19:51:29 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.filter.AccessLogFilterTest
+Tue May 15 19:51:29 UTC 2018: Setting lastTestMethodIndex: 46181
+Tue May 15 19:51:29 UTC 2018: Starting linking
+Tue May 15 19:51:29 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.filter.AccessLogFilterTest
+Tue May 15 19:51:30 UTC 2018: Found element on the queue
+Tue May 15 19:51:30 UTC 2018: Updating status
+Tue May 15 19:51:30 UTC 2018: Working
+Tue May 15 19:51:33 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.config.MotanMultiConfigTest
+Tue May 15 19:51:33 UTC 2018: Setting lastTestMethodIndex: 46183
+Tue May 15 19:51:33 UTC 2018: Starting linking
+Tue May 15 19:51:33 UTC 2018: No link for: com.weibo.api.motan.config.MotanMultiConfigTest-testMultiVersion
+Tue May 15 19:51:33 UTC 2018: No link for: com.weibo.api.motan.config.MotanMultiConfigTest-testMultiService
+Tue May 15 19:51:33 UTC 2018: No link for: com.weibo.api.motan.config.MotanMultiConfigTest-testMultiGroup
+Tue May 15 19:51:34 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.config.MotanMultiConfigTest
+Tue May 15 19:51:34 UTC 2018: Found element on the queue
+Tue May 15 19:51:34 UTC 2018: Updating status
+Tue May 15 19:51:34 UTC 2018: Working
+Tue May 15 19:51:38 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.config.ServiceConfigTest
+Tue May 15 19:51:38 UTC 2018: Setting lastTestMethodIndex: 46187
+Tue May 15 19:51:38 UTC 2018: Starting linking
+Tue May 15 19:51:38 UTC 2018: No link for: com.weibo.api.motan.config.ServiceConfigTest-testExport
+Tue May 15 19:51:38 UTC 2018: No link for: com.weibo.api.motan.config.ServiceConfigTest-testMethodConfig
+Tue May 15 19:51:39 UTC 2018: No link for: com.weibo.api.motan.config.ServiceConfigTest-testMultiProtocol
+Tue May 15 19:51:39 UTC 2018: No link for: com.weibo.api.motan.config.ServiceConfigTest-testExportException
+Tue May 15 19:51:40 UTC 2018: No link for: com.weibo.api.motan.config.ServiceConfigTest-testUnexport
+Tue May 15 19:51:40 UTC 2018: No link for: com.weibo.api.motan.config.ServiceConfigTest-testMultiRegitstry
+Tue May 15 19:51:40 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.config.ServiceConfigTest
+Tue May 15 19:51:41 UTC 2018: Found element on the queue
+Tue May 15 19:51:41 UTC 2018: Updating status
+Tue May 15 19:51:41 UTC 2018: Working
+Tue May 15 19:51:45 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.config.ConfigClassTest
+Tue May 15 19:51:45 UTC 2018: Setting lastTestMethodIndex: 46190
+Tue May 15 19:51:45 UTC 2018: Starting linking
+Tue May 15 19:51:45 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.config.ConfigClassTest
+Tue May 15 19:51:45 UTC 2018: Found element on the queue
+Tue May 15 19:51:45 UTC 2018: Updating status
+Tue May 15 19:51:45 UTC 2018: Working
+Tue May 15 19:51:48 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.config.RefererConfigTest
+Tue May 15 19:51:48 UTC 2018: Setting lastTestMethodIndex: 46194
+Tue May 15 19:51:48 UTC 2018: Starting linking
+Tue May 15 19:51:48 UTC 2018: No link for: com.weibo.api.motan.config.RefererConfigTest-testGetRef
+Tue May 15 19:51:48 UTC 2018: No link for: com.weibo.api.motan.config.RefererConfigTest-testException
+Tue May 15 19:51:49 UTC 2018: No link for: com.weibo.api.motan.config.RefererConfigTest-testMultiRegitstry
+Tue May 15 19:51:49 UTC 2018: No link for: com.weibo.api.motan.config.RefererConfigTest-testMultiProtocol
+Tue May 15 19:51:49 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.config.RefererConfigTest
+Tue May 15 19:51:50 UTC 2018: Found element on the queue
+Tue May 15 19:51:50 UTC 2018: Updating status
+Tue May 15 19:51:50 UTC 2018: Working
+Tue May 15 19:51:53 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.BaseTestCase
+Tue May 15 19:51:53 UTC 2018: Setting lastTestMethodIndex: 46199
+Tue May 15 19:51:53 UTC 2018: Starting linking
+Tue May 15 19:51:53 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.BaseTestCase
+Tue May 15 19:51:53 UTC 2018: Found element on the queue
+Tue May 15 19:51:53 UTC 2018: Updating status
+Tue May 15 19:51:53 UTC 2018: Working
+Tue May 15 19:51:57 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.transport.ProviderMessageRouterTest
+Tue May 15 19:51:57 UTC 2018: Setting lastTestMethodIndex: 46203
+Tue May 15 19:51:57 UTC 2018: Starting linking
+Tue May 15 19:51:57 UTC 2018: No link for: com.weibo.api.motan.transport.ProviderMessageRouterTest-testCall
+Tue May 15 19:51:57 UTC 2018: No link for: com.weibo.api.motan.transport.ProviderMessageRouterTest-testPublicMethodCount
+Tue May 15 19:51:57 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.transport.ProviderMessageRouterTest
+Tue May 15 19:51:58 UTC 2018: Found element on the queue
+Tue May 15 19:51:58 UTC 2018: Updating status
+Tue May 15 19:51:58 UTC 2018: Working
+Tue May 15 19:52:01 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.transport.ProviderProtectedMessageRouterTest
+Tue May 15 19:52:01 UTC 2018: Setting lastTestMethodIndex: 46207
+Tue May 15 19:52:01 UTC 2018: Starting linking
+Tue May 15 19:52:01 UTC 2018: No link for: com.weibo.api.motan.transport.ProviderProtectedMessageRouterTest-testIsAllowRequest
+Tue May 15 19:52:01 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.transport.ProviderProtectedMessageRouterTest
+Tue May 15 19:52:02 UTC 2018: Found element on the queue
+Tue May 15 19:52:02 UTC 2018: Updating status
+Tue May 15 19:52:02 UTC 2018: Working
+Tue May 15 19:52:05 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.util.NetUtilsTest
+Tue May 15 19:52:05 UTC 2018: Setting lastTestMethodIndex: 46210
+Tue May 15 19:52:05 UTC 2018: Starting linking
+Tue May 15 19:52:05 UTC 2018: No link for: com.weibo.api.motan.util.NetUtilsTest-testGetLocalAddress
+Tue May 15 19:52:05 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.util.NetUtilsTest
+Tue May 15 19:52:06 UTC 2018: Found element on the queue
+Tue May 15 19:52:06 UTC 2018: Updating status
+Tue May 15 19:52:06 UTC 2018: Working
+Tue May 15 19:52:09 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.util.ReflectUtilTest
+Tue May 15 19:52:09 UTC 2018: Setting lastTestMethodIndex: 46213
+Tue May 15 19:52:09 UTC 2018: Starting linking
+Tue May 15 19:52:09 UTC 2018: No link for: com.weibo.api.motan.util.ReflectUtilTest-testReflect
+Tue May 15 19:52:09 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.util.ReflectUtilTest
+Tue May 15 19:52:10 UTC 2018: Found element on the queue
+Tue May 15 19:52:10 UTC 2018: Updating status
+Tue May 15 19:52:10 UTC 2018: Working
+Tue May 15 19:52:12 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.util.StatsUtilTest
+Tue May 15 19:52:12 UTC 2018: Setting lastTestMethodIndex: 46216
+Tue May 15 19:52:12 UTC 2018: Starting linking
+Tue May 15 19:52:12 UTC 2018: No link for: com.weibo.api.motan.util.StatsUtilTest-test
+Tue May 15 19:52:13 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.util.StatsUtilTest
+Tue May 15 19:52:13 UTC 2018: Found element on the queue
+Tue May 15 19:52:13 UTC 2018: Updating status
+Tue May 15 19:52:13 UTC 2018: Working
+Tue May 15 19:52:13 UTC 2018: Create project parser
+Tue May 15 19:52:16 UTC 2018: Start guotao3__motan test class com.weibo.motan.demo.test.TestMotanAsync
+Tue May 15 19:52:16 UTC 2018: Setting lastTestMethodIndex: 46220
+Tue May 15 19:52:16 UTC 2018: Starting linking
+Tue May 15 19:52:16 UTC 2018: No link for: com.weibo.motan.demo.test.TestMotanAsync-testAsyncMethodGenerate
+Tue May 15 19:52:16 UTC 2018: Linking done for guotao3__motan test class com.weibo.motan.demo.test.TestMotanAsync
+Tue May 15 19:52:17 UTC 2018: Found element on the queue
+Tue May 15 19:52:17 UTC 2018: Updating status
+Tue May 15 19:52:17 UTC 2018: Working
+Tue May 15 19:52:17 UTC 2018: Create project parser
+Tue May 15 19:52:20 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.protocol.yar.YarMessageRouterTest
+Tue May 15 19:52:20 UTC 2018: Setting lastTestMethodIndex: 46224
+Tue May 15 19:52:20 UTC 2018: Starting linking
+Tue May 15 19:52:20 UTC 2018: Code found com.weibo.api.motan.protocol.yar.YarMessageRouter-addProvider with com.weibo.api.motan.protocol.yar.YarMessageRouterTest-testAddProvider
+Tue May 15 19:52:20 UTC 2018: Code found com.weibo.api.motan.protocol.yar.YarMessageRouter-handle with com.weibo.api.motan.protocol.yar.YarMessageRouterTest-testHandle
+Tue May 15 19:52:20 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.protocol.yar.YarMessageRouterTest
+Tue May 15 19:52:21 UTC 2018: Found element on the queue
+Tue May 15 19:52:21 UTC 2018: Updating status
+Tue May 15 19:52:21 UTC 2018: Working
+Tue May 15 19:52:24 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.protocol.yar.YarRpcProtocolTest
+Tue May 15 19:52:24 UTC 2018: Setting lastTestMethodIndex: 46228
+Tue May 15 19:52:24 UTC 2018: Starting linking
+Tue May 15 19:52:24 UTC 2018: Code found com.weibo.api.motan.protocol.yar.YarRpcProtocol-initRequestRouter with com.weibo.api.motan.protocol.yar.YarRpcProtocolTest-testInitRequestRouter
+Tue May 15 19:52:24 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.protocol.yar.YarRpcProtocolTest
+Tue May 15 19:52:25 UTC 2018: Found element on the queue
+Tue May 15 19:52:25 UTC 2018: Updating status
+Tue May 15 19:52:25 UTC 2018: Working
+Tue May 15 19:52:28 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.protocol.yar.YarProtocolUtilTest
+Tue May 15 19:52:28 UTC 2018: Setting lastTestMethodIndex: 46232
+Tue May 15 19:52:28 UTC 2018: Starting linking
+Tue May 15 19:52:28 UTC 2018: Code found com.weibo.api.motan.protocol.yar.YarProtocolUtil-convert with com.weibo.api.motan.protocol.yar.YarProtocolUtilTest-testConvertYarResponse
+Tue May 15 19:52:28 UTC 2018: Code found com.weibo.api.motan.protocol.yar.YarProtocolUtil-buildDefaultErrorResponse with com.weibo.api.motan.protocol.yar.YarProtocolUtilTest-testBuildDefaultErrorResponse
+Tue May 15 19:52:28 UTC 2018: Code found com.weibo.api.motan.protocol.yar.YarProtocolUtil-getYarPath with com.weibo.api.motan.protocol.yar.YarProtocolUtilTest-testGetYarPath
+Tue May 15 19:52:28 UTC 2018: Code found com.weibo.api.motan.protocol.yar.YarProtocolUtil-convert with com.weibo.api.motan.protocol.yar.YarProtocolUtilTest-testConvertYarRequest
+Tue May 15 19:52:29 UTC 2018: No link for: com.weibo.api.motan.protocol.yar.YarProtocolUtilTest-testConvertRequest
+Tue May 15 19:52:29 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.protocol.yar.YarProtocolUtilTest
+Tue May 15 19:52:30 UTC 2018: Found element on the queue
+Tue May 15 19:52:30 UTC 2018: Updating status
+Tue May 15 19:52:30 UTC 2018: Working
+Tue May 15 19:52:32 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.transport.netty4.yar.YarMessageHandlerWarpperTest
+Tue May 15 19:52:32 UTC 2018: Setting lastTestMethodIndex: 46237
+Tue May 15 19:52:32 UTC 2018: Starting linking
+Tue May 15 19:52:32 UTC 2018: Code found com.weibo.api.motan.transport.netty4.yar.YarMessageHandlerWarpper-handle with com.weibo.api.motan.transport.netty4.yar.YarMessageHandlerWarpperTest-testHandle
+Tue May 15 19:52:33 UTC 2018: No link for: com.weibo.api.motan.transport.netty4.yar.YarMessageHandlerWarpperTest-testAbnormal
+Tue May 15 19:52:33 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.transport.netty4.yar.YarMessageHandlerWarpperTest
+Tue May 15 19:52:33 UTC 2018: Found element on the queue
+Tue May 15 19:52:33 UTC 2018: Updating status
+Tue May 15 19:52:33 UTC 2018: Working
+Tue May 15 19:52:33 UTC 2018: Create project parser
+Tue May 15 19:52:36 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.registry.consul.ConsulUtilsTest
+Tue May 15 19:52:36 UTC 2018: Setting lastTestMethodIndex: 46241
+Tue May 15 19:52:36 UTC 2018: Starting linking
+Tue May 15 19:52:36 UTC 2018: Code found com.weibo.api.motan.registry.consul.ConsulUtils-getGroupFromServiceName with com.weibo.api.motan.registry.consul.ConsulUtilsTest-testGetGroupFromServiceName
+Tue May 15 19:52:36 UTC 2018: Code found com.weibo.api.motan.registry.consul.ConsulUtils-convertGroupToServiceName with com.weibo.api.motan.registry.consul.ConsulUtilsTest-testConvertGroupToServiceName
+Tue May 15 19:52:37 UTC 2018: Code found com.weibo.api.motan.registry.consul.ConsulUtils-convertConsulSerivceId with com.weibo.api.motan.registry.consul.ConsulUtilsTest-testConvertConsulSerivceId
+Tue May 15 19:52:37 UTC 2018: Code found com.weibo.api.motan.registry.consul.ConsulUtils-getPathFromServiceId with com.weibo.api.motan.registry.consul.ConsulUtilsTest-testGetPathFromServiceId
+Tue May 15 19:52:38 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.registry.consul.ConsulUtilsTest
+Tue May 15 19:52:38 UTC 2018: Found element on the queue
+Tue May 15 19:52:38 UTC 2018: Updating status
+Tue May 15 19:52:38 UTC 2018: Working
+Tue May 15 19:52:41 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.registry.consul.ConsulHeartbeatManagerTest
+Tue May 15 19:52:41 UTC 2018: Setting lastTestMethodIndex: 46247
+Tue May 15 19:52:41 UTC 2018: Starting linking
+Tue May 15 19:52:41 UTC 2018: Code found com.weibo.api.motan.registry.consul.ConsulHeartbeatManager-start with com.weibo.api.motan.registry.consul.ConsulHeartbeatManagerTest-testStart
+Tue May 15 19:52:41 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.registry.consul.ConsulHeartbeatManagerTest
+Tue May 15 19:52:42 UTC 2018: Found element on the queue
+Tue May 15 19:52:42 UTC 2018: Updating status
+Tue May 15 19:52:42 UTC 2018: Working
+Tue May 15 19:52:42 UTC 2018: Create project parser
+Tue May 15 19:52:46 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.config.springsupport.SpringSpiTest
+Tue May 15 19:52:46 UTC 2018: Setting lastTestMethodIndex: 46250
+Tue May 15 19:52:46 UTC 2018: Starting linking
+Tue May 15 19:52:46 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.SpringSpiTest-testProtocoConfigTest
+Tue May 15 19:52:46 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.config.springsupport.SpringSpiTest
+Tue May 15 19:52:47 UTC 2018: Found element on the queue
+Tue May 15 19:52:47 UTC 2018: Updating status
+Tue May 15 19:52:47 UTC 2018: Working
+Tue May 15 19:52:49 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.config.springsupport.ServiceConfigBeanTest
+Tue May 15 19:52:49 UTC 2018: Setting lastTestMethodIndex: 46253
+Tue May 15 19:52:49 UTC 2018: Starting linking
+Tue May 15 19:52:49 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.ServiceConfigBeanTest-testExport
+Tue May 15 19:52:50 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.ServiceConfigBeanTest-testGetProtocolAndPort
+Tue May 15 19:52:50 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.ServiceConfigBeanTest-testGetRegistereUrls
+Tue May 15 19:52:50 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.ServiceConfigBeanTest-testGetRef
+Tue May 15 19:52:50 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.config.springsupport.ServiceConfigBeanTest
+Tue May 15 19:52:51 UTC 2018: Found element on the queue
+Tue May 15 19:52:51 UTC 2018: Updating status
+Tue May 15 19:52:51 UTC 2018: Working
+Tue May 15 19:52:54 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.config.springsupport.SpringSupportTest
+Tue May 15 19:52:54 UTC 2018: Setting lastTestMethodIndex: 46256
+Tue May 15 19:52:54 UTC 2018: Starting linking
+Tue May 15 19:52:54 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.SpringSupportTest-testRegistryConfig
+Tue May 15 19:52:54 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.SpringSupportTest-testRefererConfig
+Tue May 15 19:52:55 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.SpringSupportTest-testProtocoConfigTest
+Tue May 15 19:52:55 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.SpringSupportTest-testServiceConfig
+Tue May 15 19:52:55 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.config.springsupport.SpringSupportTest
+Tue May 15 19:52:56 UTC 2018: Found element on the queue
+Tue May 15 19:52:56 UTC 2018: Updating status
+Tue May 15 19:52:56 UTC 2018: Working
+Tue May 15 19:52:59 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.config.springsupport.RefererConfigBeanTest
+Tue May 15 19:52:59 UTC 2018: Setting lastTestMethodIndex: 46260
+Tue May 15 19:52:59 UTC 2018: Starting linking
+Tue May 15 19:52:59 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.RefererConfigBeanTest-testGetInitialized
+Tue May 15 19:52:59 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.RefererConfigBeanTest-testBasicRefere
+Tue May 15 19:52:59 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.RefererConfigBeanTest-testSetMethodsListOfMethodConfig
+Tue May 15 19:53:00 UTC 2018: No link for: com.weibo.api.motan.config.springsupport.RefererConfigBeanTest-testDirectUrl
+Tue May 15 19:53:00 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.config.springsupport.RefererConfigBeanTest
+Tue May 15 19:53:00 UTC 2018: Found element on the queue
+Tue May 15 19:53:00 UTC 2018: Updating status
+Tue May 15 19:53:00 UTC 2018: Working
+Tue May 15 19:53:00 UTC 2018: Create project parser
+Tue May 15 19:53:04 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.transport.netty.StandardThreadExecutorTest
+Tue May 15 19:53:04 UTC 2018: Setting lastTestMethodIndex: 46263
+Tue May 15 19:53:04 UTC 2018: Starting linking
+Tue May 15 19:53:04 UTC 2018: No link for: com.weibo.api.motan.transport.netty.StandardThreadExecutorTest-testWaitRunnable
+Tue May 15 19:53:05 UTC 2018: No link for: com.weibo.api.motan.transport.netty.StandardThreadExecutorTest-testPrestartAllCoreThreads
+Tue May 15 19:53:05 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.transport.netty.StandardThreadExecutorTest
+Tue May 15 19:53:06 UTC 2018: Found element on the queue
+Tue May 15 19:53:06 UTC 2018: Updating status
+Tue May 15 19:53:06 UTC 2018: Working
+Tue May 15 19:53:08 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.transport.netty.NettyResponseFutureTest
+Tue May 15 19:53:08 UTC 2018: Setting lastTestMethodIndex: 46266
+Tue May 15 19:53:08 UTC 2018: Starting linking
+Tue May 15 19:53:08 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyResponseFutureTest-testException
+Tue May 15 19:53:09 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyResponseFutureTest-testListener
+Tue May 15 19:53:09 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyResponseFutureTest-testTimeout
+Tue May 15 19:53:09 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyResponseFutureTest-testNormal
+Tue May 15 19:53:09 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyResponseFutureTest-testCancel
+Tue May 15 19:53:10 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.transport.netty.NettyResponseFutureTest
+Tue May 15 19:53:10 UTC 2018: Found element on the queue
+Tue May 15 19:53:10 UTC 2018: Updating status
+Tue May 15 19:53:10 UTC 2018: Working
+Tue May 15 19:53:13 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.transport.netty.NettyEndpointFactoryTest
+Tue May 15 19:53:13 UTC 2018: Setting lastTestMethodIndex: 46272
+Tue May 15 19:53:13 UTC 2018: Starting linking
+Tue May 15 19:53:13 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyEndpointFactoryTest-testCreateServer
+Tue May 15 19:53:13 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.transport.netty.NettyEndpointFactoryTest
+Tue May 15 19:53:14 UTC 2018: Found element on the queue
+Tue May 15 19:53:14 UTC 2018: Updating status
+Tue May 15 19:53:14 UTC 2018: Working
+Tue May 15 19:53:17 UTC 2018: Start guotao3__motan test class com.weibo.api.motan.transport.netty.NettyClientTest
+Tue May 15 19:53:17 UTC 2018: Setting lastTestMethodIndex: 46275
+Tue May 15 19:53:17 UTC 2018: Starting linking
+Tue May 15 19:53:17 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyClientTest-testAbNormal
+Tue May 15 19:53:17 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyClientTest-testAsync
+Tue May 15 19:53:17 UTC 2018: No link for: com.weibo.api.motan.transport.netty.NettyClientTest-testNormal
+Tue May 15 19:53:17 UTC 2018: Linking done for guotao3__motan test class com.weibo.api.motan.transport.netty.NettyClientTest

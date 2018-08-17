@@ -1,0 +1,18 @@
+                //Check convert
+//                if(sbtUnitTestCode != null && sbtMethodCode != null) {
+//                    String s = SBTToCode.sbtToCode(sbtMethodCode);
+//                    String s1 = SBTToCode.sbtToCode(sbtUnitTestCode);
+//
+//                    String cleanedCode = cleanString(s);
+//                    String cleanedCode2 = cleanString(methodCode);
+//                    if (!cleanedCode.equals(cleanedCode2)) {
+//                        LinkerLogger.logError("Cannot covert method back to code");
+//                    }
+//
+//                    String cleanTest = cleanString(s1);
+//                    String cleanTest2 = cleanString(unitTestCode);
+//                    if (!cleanTest.equals(cleanTest2)) {
+//                        LinkerLogger.logError("Cannot covert test back to code");
+//                    }
+//
+//                }

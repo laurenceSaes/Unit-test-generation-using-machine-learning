@@ -1,0 +1,207 @@
+Tue May 15 14:21:33 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 14:21:33 UTC 2018: Starting
+Tue May 15 14:21:34 UTC 2018: Found element on the queue
+Tue May 15 14:21:34 UTC 2018: Updating status
+Tue May 15 14:21:34 UTC 2018: Working
+Tue May 15 14:21:34 UTC 2018: Create project parser
+Tue May 15 14:21:42 UTC 2018: Create slicer
+Tue May 15 14:21:45 UTC 2018: Create call graph
+Tue May 15 14:21:47 UTC 2018: Create point analysis
+Tue May 15 14:21:47 UTC 2018: Create call graph done
+Tue May 15 14:21:47 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.TestKeyValue
+Tue May 15 14:21:47 UTC 2018: Setting lastTestMethodIndex: 35272
+Tue May 15 14:21:47 UTC 2018: Starting linking
+Tue May 15 14:21:47 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.TestKeyValue
+Tue May 15 14:21:48 UTC 2018: Found element on the queue
+Tue May 15 14:21:48 UTC 2018: Updating status
+Tue May 15 14:21:48 UTC 2018: Working
+Tue May 15 14:21:51 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.TestClassFinder
+Tue May 15 14:21:51 UTC 2018: Setting lastTestMethodIndex: 35273
+Tue May 15 14:21:51 UTC 2018: Starting linking
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByPathInDirs
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByClassInDirs
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderCanFindClassesInJars
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderCanFindClassesInDirs
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderHandlesNestedPackages
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByPathInJar
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByNameInJar
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByClassInJar
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderDefaultsToOwnPackage
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderHandlesConflicts
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: No link for: org.apache.hadoop.hbase.TestClassFinder-testClassFinderFiltersByNameInDirs
+Tue May 15 14:21:51 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:51 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.TestClassFinder
+Tue May 15 14:21:52 UTC 2018: Found element on the queue
+Tue May 15 14:21:52 UTC 2018: Updating status
+Tue May 15 14:21:52 UTC 2018: Working
+Tue May 15 14:21:54 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestLoadTestKVGenerator
+Tue May 15 14:21:54 UTC 2018: Setting lastTestMethodIndex: 35275
+Tue May 15 14:21:54 UTC 2018: Starting linking
+Tue May 15 14:21:54 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestLoadTestKVGenerator-testVerification
+Tue May 15 14:21:54 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestLoadTestKVGenerator-testCorrectAndUniqueKeys
+Tue May 15 14:21:54 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:21:54 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestLoadTestKVGenerator-testValueLength
+Tue May 15 14:21:54 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestLoadTestKVGenerator
+Tue May 15 14:21:55 UTC 2018: Found element on the queue
+Tue May 15 14:21:55 UTC 2018: Updating status
+Tue May 15 14:21:55 UTC 2018: Working
+Tue May 15 14:21:57 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestThreads
+Tue May 15 14:21:57 UTC 2018: Setting lastTestMethodIndex: 35277
+Tue May 15 14:21:57 UTC 2018: Starting linking
+Tue May 15 14:21:57 UTC 2018: Code found org.apache.hadoop.hbase.util.Threads-sleep with org.apache.hadoop.hbase.util.TestThreads-testSleepWithoutInterrupt
+Tue May 15 14:21:57 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:21:57 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestThreads
+Tue May 15 14:21:58 UTC 2018: Found element on the queue
+Tue May 15 14:21:58 UTC 2018: Updating status
+Tue May 15 14:21:58 UTC 2018: Working
+Tue May 15 14:22:00 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestBytes
+Tue May 15 14:22:00 UTC 2018: Setting lastTestMethodIndex: 35279
+Tue May 15 14:22:00 UTC 2018: Starting linking
+Tue May 15 14:22:00 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestBytes
+Tue May 15 14:22:01 UTC 2018: Found element on the queue
+Tue May 15 14:22:01 UTC 2018: Updating status
+Tue May 15 14:22:01 UTC 2018: Working
+Tue May 15 14:22:03 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestEnvironmentEdgeManager
+Tue May 15 14:22:03 UTC 2018: Setting lastTestMethodIndex: 35281
+Tue May 15 14:22:03 UTC 2018: Starting linking
+Tue May 15 14:22:03 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestEnvironmentEdgeManager-testCurrentTimeInMillis
+Tue May 15 14:22:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:22:03 UTC 2018: No link for: org.apache.hadoop.hbase.util.TestEnvironmentEdgeManager-testManageSingleton
+Tue May 15 14:22:03 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:22:03 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestEnvironmentEdgeManager
+Tue May 15 14:22:04 UTC 2018: Found element on the queue
+Tue May 15 14:22:04 UTC 2018: Updating status
+Tue May 15 14:22:04 UTC 2018: Working
+Tue May 15 14:22:06 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestByteRange
+Tue May 15 14:22:06 UTC 2018: Setting lastTestMethodIndex: 35282
+Tue May 15 14:22:06 UTC 2018: Starting linking
+Tue May 15 14:22:06 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.util.TestByteRange
+Tue May 15 14:22:07 UTC 2018: Found element on the queue
+Tue May 15 14:22:07 UTC 2018: Updating status
+Tue May 15 14:22:07 UTC 2018: Working
+Tue May 15 14:22:07 UTC 2018: Create project parser
+Tue May 15 14:22:09 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.rest.TestMetricsRESTSource
+Tue May 15 14:22:09 UTC 2018: Setting lastTestMethodIndex: 35284
+Tue May 15 14:22:09 UTC 2018: Starting linking
+Tue May 15 14:22:09 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.rest.TestMetricsRESTSource-testGetInstanceNoHadoopCompat
+Tue May 15 14:22:09 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:09 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.rest.TestMetricsRESTSource
+Tue May 15 14:22:10 UTC 2018: Found element on the queue
+Tue May 15 14:22:10 UTC 2018: Updating status
+Tue May 15 14:22:10 UTC 2018: Working
+Tue May 15 14:22:12 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory
+Tue May 15 14:22:12 UTC 2018: Setting lastTestMethodIndex: 35286
+Tue May 15 14:22:12 UTC 2018: Starting linking
+Tue May 15 14:22:12 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 14:22:12 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:12 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceFactory
+Tue May 15 14:22:13 UTC 2018: Found element on the queue
+Tue May 15 14:22:13 UTC 2018: Updating status
+Tue May 15 14:22:13 UTC 2018: Working
+Tue May 15 14:22:15 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory
+Tue May 15 14:22:15 UTC 2018: Setting lastTestMethodIndex: 35288
+Tue May 15 14:22:15 UTC 2018: Starting linking
+Tue May 15 14:22:15 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 14:22:15 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:15 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.regionserver.TestMetricsRegionServerSourceFactory
+Tue May 15 14:22:16 UTC 2018: Found element on the queue
+Tue May 15 14:22:16 UTC 2018: Updating status
+Tue May 15 14:22:16 UTC 2018: Working
+Tue May 15 14:22:18 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource
+Tue May 15 14:22:18 UTC 2018: Setting lastTestMethodIndex: 35290
+Tue May 15 14:22:18 UTC 2018: Starting linking
+Tue May 15 14:22:18 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource-testGetInstanceNoHadoopCompat
+Tue May 15 14:22:18 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:18 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.regionserver.wal.TestMetricsHLogSource
+Tue May 15 14:22:19 UTC 2018: Found element on the queue
+Tue May 15 14:22:19 UTC 2018: Updating status
+Tue May 15 14:22:19 UTC 2018: Working
+Tue May 15 14:22:21 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory
+Tue May 15 14:22:21 UTC 2018: Setting lastTestMethodIndex: 35292
+Tue May 15 14:22:21 UTC 2018: Starting linking
+Tue May 15 14:22:21 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 14:22:21 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:21 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactory
+Tue May 15 14:22:22 UTC 2018: Found element on the queue
+Tue May 15 14:22:22 UTC 2018: Updating status
+Tue May 15 14:22:22 UTC 2018: Working
+Tue May 15 14:22:24 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory
+Tue May 15 14:22:24 UTC 2018: Setting lastTestMethodIndex: 35294
+Tue May 15 14:22:24 UTC 2018: Starting linking
+Tue May 15 14:22:24 UTC 2018: Code found org.apache.hadoop.hbase.CompatibilitySingletonFactory-getInstance with org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory-testGetInstanceNoHadoopCompat
+Tue May 15 14:22:24 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:24 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.master.TestMetricsMasterSourceFactory
+Tue May 15 14:22:25 UTC 2018: Found element on the queue
+Tue May 15 14:22:25 UTC 2018: Updating status
+Tue May 15 14:22:25 UTC 2018: Working
+Tue May 15 14:22:25 UTC 2018: Create project parser
+Tue May 15 14:22:27 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.rest.TestRESTMetricsSourceImpl
+Tue May 15 14:22:27 UTC 2018: Setting lastTestMethodIndex: 35296
+Tue May 15 14:22:27 UTC 2018: Starting linking
+Tue May 15 14:22:27 UTC 2018: No link for: org.apache.hadoop.hbase.rest.TestRESTMetricsSourceImpl-ensureCompatRegistered
+Tue May 15 14:22:27 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:22:27 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.rest.TestRESTMetricsSourceImpl
+Tue May 15 14:22:28 UTC 2018: Found element on the queue
+Tue May 15 14:22:28 UTC 2018: Updating status
+Tue May 15 14:22:28 UTC 2018: Working
+Tue May 15 14:22:30 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.replication.regionserver.TestReplicationMetricsSourceImpl
+Tue May 15 14:22:30 UTC 2018: Setting lastTestMethodIndex: 35297
+Tue May 15 14:22:30 UTC 2018: Starting linking
+Tue May 15 14:22:30 UTC 2018: No link for: org.apache.hadoop.hbase.replication.regionserver.TestReplicationMetricsSourceImpl-testGetInstance
+Tue May 15 14:22:30 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:22:30 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.replication.regionserver.TestReplicationMetricsSourceImpl
+Tue May 15 14:22:31 UTC 2018: Found element on the queue
+Tue May 15 14:22:31 UTC 2018: Updating status
+Tue May 15 14:22:31 UTC 2018: Working
+Tue May 15 14:22:34 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl
+Tue May 15 14:22:34 UTC 2018: Setting lastTestMethodIndex: 35299
+Tue May 15 14:22:34 UTC 2018: Starting linking
+Tue May 15 14:22:34 UTC 2018: Code found org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl-createThriftOneSource with org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl-testCreateThriftOneSource
+Tue May 15 14:22:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:34 UTC 2018: Code found org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl-createThriftTwoSource with org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl-testCreateThriftTwoSource
+Tue May 15 14:22:34 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:34 UTC 2018: No link for: org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl-testCompatabilityRegistered
+Tue May 15 14:22:34 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:22:34 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.thrift.TestThriftServerMetricsSourceFactoryImpl
+Tue May 15 14:22:34 UTC 2018: Found element on the queue
+Tue May 15 14:22:34 UTC 2018: Updating status
+Tue May 15 14:22:34 UTC 2018: Working
+Tue May 15 14:22:34 UTC 2018: Create project parser
+Tue May 15 14:22:37 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.rest.TestMetricsRESTSourceImpl
+Tue May 15 14:22:37 UTC 2018: Setting lastTestMethodIndex: 35301
+Tue May 15 14:22:37 UTC 2018: Starting linking
+Tue May 15 14:22:37 UTC 2018: No link for: org.apache.hadoop.hbase.rest.TestMetricsRESTSourceImpl-ensureCompatRegistered
+Tue May 15 14:22:37 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:22:37 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.rest.TestMetricsRESTSourceImpl
+Tue May 15 14:22:38 UTC 2018: Found element on the queue
+Tue May 15 14:22:38 UTC 2018: Updating status
+Tue May 15 14:22:38 UTC 2018: Working
+Tue May 15 14:22:40 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceImpl
+Tue May 15 14:22:40 UTC 2018: Setting lastTestMethodIndex: 35303
+Tue May 15 14:22:40 UTC 2018: Starting linking
+Tue May 15 14:22:40 UTC 2018: No link for: org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceImpl-testGetInstance
+Tue May 15 14:22:40 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:22:40 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.replication.regionserver.TestMetricsReplicationSourceImpl
+Tue May 15 14:22:41 UTC 2018: Found element on the queue
+Tue May 15 14:22:41 UTC 2018: Updating status
+Tue May 15 14:22:41 UTC 2018: Working
+Tue May 15 14:22:43 UTC 2018: Start ddraj__hbase-mttr test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl
+Tue May 15 14:22:43 UTC 2018: Setting lastTestMethodIndex: 35305
+Tue May 15 14:22:43 UTC 2018: Starting linking
+Tue May 15 14:22:43 UTC 2018: Code found org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl-createThriftOneSource with org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl-testCreateThriftOneSource
+Tue May 15 14:22:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:43 UTC 2018: Code found org.apache.hadoop.hbase.thrift.MetricsThriftServerSourceFactoryImpl-createThriftTwoSource with org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl-testCreateThriftTwoSource
+Tue May 15 14:22:43 UTC 2018: Match not added in database because it already exists
+Tue May 15 14:22:43 UTC 2018: No link for: org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl-testCompatabilityRegistered
+Tue May 15 14:22:43 UTC 2018: None match not added in database because it already exists
+Tue May 15 14:22:43 UTC 2018: Linking done for ddraj__hbase-mttr test class org.apache.hadoop.hbase.thrift.TestMetricsThriftServerSourceFactoryImpl

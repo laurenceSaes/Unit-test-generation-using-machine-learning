@@ -1,0 +1,792 @@
+Wed May 16 05:01:42 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 05:01:42 UTC 2018: Starting
+Wed May 16 05:01:43 UTC 2018: Found element on the queue
+Wed May 16 05:01:43 UTC 2018: Updating status
+Wed May 16 05:01:43 UTC 2018: Working
+Wed May 16 05:01:43 UTC 2018: Create project parser
+Wed May 16 05:01:49 UTC 2018: Create slicer
+Wed May 16 05:01:51 UTC 2018: Create call graph
+Wed May 16 05:01:55 UTC 2018: Create point analysis
+Wed May 16 05:01:55 UTC 2018: Create call graph done
+Wed May 16 05:01:55 UTC 2018: Start manar-amri__spark test class spark.FilterTest
+Wed May 16 05:01:55 UTC 2018: Setting lastTestMethodIndex: 62530
+Wed May 16 05:01:55 UTC 2018: Starting linking
+Wed May 16 05:01:55 UTC 2018: No link for: spark.FilterTest-testJustFilter
+Wed May 16 05:01:56 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:01:56 UTC 2018: Linking done for manar-amri__spark test class spark.FilterTest
+Wed May 16 05:01:56 UTC 2018: Found element on the queue
+Wed May 16 05:01:56 UTC 2018: Updating status
+Wed May 16 05:01:56 UTC 2018: Working
+Wed May 16 05:01:59 UTC 2018: Start manar-amri__spark test class spark.GenericIntegrationTest
+Wed May 16 05:01:59 UTC 2018: Setting lastTestMethodIndex: 62532
+Wed May 16 05:01:59 UTC 2018: Starting linking
+Wed May 16 05:01:59 UTC 2018: No link for: spark.GenericIntegrationTest-testGetHi
+Wed May 16 05:01:59 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:01:59 UTC 2018: No link for: spark.GenericIntegrationTest-routes_should_be_accept_type_aware
+Wed May 16 05:02:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:00 UTC 2018: No link for: spark.GenericIntegrationTest-testGetBinaryHi
+Wed May 16 05:02:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:00 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParamWithUpperCaseInValue
+Wed May 16 05:02:00 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:00 UTC 2018: No link for: spark.GenericIntegrationTest-testParamAndWild
+Wed May 16 05:02:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:01 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParam2
+Wed May 16 05:02:01 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:01 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParam1
+Wed May 16 05:02:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:02 UTC 2018: No link for: spark.GenericIntegrationTest-filters_should_be_accept_type_aware
+Wed May 16 05:02:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:02 UTC 2018: No link for: spark.GenericIntegrationTest-testHiHead
+Wed May 16 05:02:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:03 UTC 2018: No link for: spark.GenericIntegrationTest-testUnauthorized
+Wed May 16 05:02:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:03 UTC 2018: No link for: spark.GenericIntegrationTest-testPost
+Wed May 16 05:02:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:04 UTC 2018: No link for: spark.GenericIntegrationTest-testSessionReset
+Wed May 16 05:02:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:04 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParam3
+Wed May 16 05:02:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:04 UTC 2018: No link for: spark.GenericIntegrationTest-testGetHiAfterFilter
+Wed May 16 05:02:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:05 UTC 2018: No link for: spark.GenericIntegrationTest-testSplatWithEncodedSlash
+Wed May 16 05:02:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:05 UTC 2018: No link for: spark.GenericIntegrationTest-testPatch
+Wed May 16 05:02:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:05 UTC 2018: No link for: spark.GenericIntegrationTest-testParamWithEncodedSlash
+Wed May 16 05:02:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:05 UTC 2018: No link for: spark.GenericIntegrationTest-testExternalStaticFile
+Wed May 16 05:02:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:06 UTC 2018: No link for: spark.GenericIntegrationTest-path_should_prefix_routes
+Wed May 16 05:02:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:06 UTC 2018: No link for: spark.GenericIntegrationTest-testNotFoundExceptionMapper
+Wed May 16 05:02:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:06 UTC 2018: No link for: spark.GenericIntegrationTest-testExceptionMapper
+Wed May 16 05:02:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:07 UTC 2018: No link for: spark.GenericIntegrationTest-testEchoParamWithMaj
+Wed May 16 05:02:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:07 UTC 2018: No link for: spark.GenericIntegrationTest-testInheritanceExceptionMapper
+Wed May 16 05:02:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:07 UTC 2018: No link for: spark.GenericIntegrationTest-paths_should_be_very_nestable
+Wed May 16 05:02:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:08 UTC 2018: No link for: spark.GenericIntegrationTest-testWebSocketConversation
+Wed May 16 05:02:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:08 UTC 2018: No link for: spark.GenericIntegrationTest-testGetByteBufferHi
+Wed May 16 05:02:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:09 UTC 2018: No link for: spark.GenericIntegrationTest-template_view_should_be_rendered_with_given_model_view_object
+Wed May 16 05:02:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:09 UTC 2018: No link for: spark.GenericIntegrationTest-testPostViaGetWithMethodOverrideHeader
+Wed May 16 05:02:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:09 UTC 2018: No link for: spark.GenericIntegrationTest-testStaticFile
+Wed May 16 05:02:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:09 UTC 2018: No link for: spark.GenericIntegrationTest-paths_should_be_nestable
+Wed May 16 05:02:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:10 UTC 2018: No link for: spark.GenericIntegrationTest-testGetRoot
+Wed May 16 05:02:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:10 UTC 2018: No link for: spark.GenericIntegrationTest-testTwoRoutesWithDifferentCaseButSameName
+Wed May 16 05:02:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:10 UTC 2018: No link for: spark.GenericIntegrationTest-testNotFound
+Wed May 16 05:02:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:11 UTC 2018: No link for: spark.GenericIntegrationTest-testGetInputStreamHi
+Wed May 16 05:02:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:11 UTC 2018: Linking done for manar-amri__spark test class spark.GenericIntegrationTest
+Wed May 16 05:02:12 UTC 2018: Found element on the queue
+Wed May 16 05:02:12 UTC 2018: Updating status
+Wed May 16 05:02:12 UTC 2018: Working
+Wed May 16 05:02:14 UTC 2018: Start manar-amri__spark test class spark.MultipleFiltersTest
+Wed May 16 05:02:14 UTC 2018: Setting lastTestMethodIndex: 62540
+Wed May 16 05:02:14 UTC 2018: Starting linking
+Wed May 16 05:02:14 UTC 2018: No link for: spark.MultipleFiltersTest-testMultipleFilters
+Wed May 16 05:02:15 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:15 UTC 2018: Linking done for manar-amri__spark test class spark.MultipleFiltersTest
+Wed May 16 05:02:15 UTC 2018: Found element on the queue
+Wed May 16 05:02:15 UTC 2018: Updating status
+Wed May 16 05:02:15 UTC 2018: Working
+Wed May 16 05:02:18 UTC 2018: Start manar-amri__spark test class spark.customerrorpages.CustomErrorPagesTest
+Wed May 16 05:02:18 UTC 2018: Setting lastTestMethodIndex: 62542
+Wed May 16 05:02:18 UTC 2018: Starting linking
+Wed May 16 05:02:18 UTC 2018: No link for: spark.customerrorpages.CustomErrorPagesTest-testGetHi
+Wed May 16 05:02:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:18 UTC 2018: No link for: spark.customerrorpages.CustomErrorPagesTest-testCustomInternal
+Wed May 16 05:02:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:18 UTC 2018: No link for: spark.customerrorpages.CustomErrorPagesTest-testCustomNotFound
+Wed May 16 05:02:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:19 UTC 2018: No link for: spark.customerrorpages.CustomErrorPagesTest-testCustomInternalFailingRoute
+Wed May 16 05:02:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:19 UTC 2018: Linking done for manar-amri__spark test class spark.customerrorpages.CustomErrorPagesTest
+Wed May 16 05:02:20 UTC 2018: Found element on the queue
+Wed May 16 05:02:20 UTC 2018: Updating status
+Wed May 16 05:02:20 UTC 2018: Working
+Wed May 16 05:02:22 UTC 2018: Start manar-amri__spark test class spark.CookiesIntegrationTest
+Wed May 16 05:02:22 UTC 2018: Setting lastTestMethodIndex: 62545
+Wed May 16 05:02:22 UTC 2018: Starting linking
+Wed May 16 05:02:22 UTC 2018: No link for: spark.CookiesIntegrationTest-testEmptyCookies
+Wed May 16 05:02:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:23 UTC 2018: No link for: spark.CookiesIntegrationTest-testRemoveCookie
+Wed May 16 05:02:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:23 UTC 2018: No link for: spark.CookiesIntegrationTest-testCreateCookie
+Wed May 16 05:02:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:23 UTC 2018: Linking done for manar-amri__spark test class spark.CookiesIntegrationTest
+Wed May 16 05:02:24 UTC 2018: Found element on the queue
+Wed May 16 05:02:24 UTC 2018: Updating status
+Wed May 16 05:02:24 UTC 2018: Working
+Wed May 16 05:02:27 UTC 2018: Start manar-amri__spark test class spark.StaticFilesMemberTest
+Wed May 16 05:02:27 UTC 2018: Setting lastTestMethodIndex: 62547
+Wed May 16 05:02:27 UTC 2018: Starting linking
+Wed May 16 05:02:27 UTC 2018: Code found spark.Service$StaticFiles-headers with spark.StaticFilesMemberTest-testStaticFileHeaders
+Wed May 16 05:02:27 UTC 2018: Code found spark.Service$StaticFiles-expireTime with spark.StaticFilesMemberTest-testStaticFileExpireTime
+Wed May 16 05:02:27 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:27 UTC 2018: No link for: spark.StaticFilesMemberTest-testExceptionMapping404
+Wed May 16 05:02:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:28 UTC 2018: No link for: spark.StaticFilesMemberTest-testStaticFilePageHtml
+Wed May 16 05:02:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:28 UTC 2018: No link for: spark.StaticFilesMemberTest-testExternalStaticFile
+Wed May 16 05:02:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:28 UTC 2018: No link for: spark.StaticFilesMemberTest-testStaticFilePagesIndexHtml
+Wed May 16 05:02:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:29 UTC 2018: No link for: spark.StaticFilesMemberTest-testStaticFileCssStyleCss
+Wed May 16 05:02:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:29 UTC 2018: Linking done for manar-amri__spark test class spark.StaticFilesMemberTest
+Wed May 16 05:02:29 UTC 2018: Found element on the queue
+Wed May 16 05:02:29 UTC 2018: Updating status
+Wed May 16 05:02:29 UTC 2018: Working
+Wed May 16 05:02:32 UTC 2018: Start manar-amri__spark test class spark.utils.CollectionUtilsTest
+Wed May 16 05:02:32 UTC 2018: Setting lastTestMethodIndex: 62549
+Wed May 16 05:02:32 UTC 2018: Starting linking
+Wed May 16 05:02:32 UTC 2018: Code found spark.utils.CollectionUtils-isEmpty with spark.utils.CollectionUtilsTest-testIsEmpty_whenCollectionIsEmpty_thenReturnTrue
+Wed May 16 05:02:32 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:32 UTC 2018: Code found spark.utils.CollectionUtils-isEmpty with spark.utils.CollectionUtilsTest-testIsEmpty_whenCollectionIsNotEmpty_thenReturnFalse
+Wed May 16 05:02:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:33 UTC 2018: Linking done for manar-amri__spark test class spark.utils.CollectionUtilsTest
+Wed May 16 05:02:33 UTC 2018: Found element on the queue
+Wed May 16 05:02:33 UTC 2018: Updating status
+Wed May 16 05:02:33 UTC 2018: Working
+Wed May 16 05:02:36 UTC 2018: Start manar-amri__spark test class spark.utils.ObjectUtilsTest
+Wed May 16 05:02:36 UTC 2018: Setting lastTestMethodIndex: 62552
+Wed May 16 05:02:36 UTC 2018: Starting linking
+Wed May 16 05:02:36 UTC 2018: Code found spark.utils.ObjectUtils-isEmpty with spark.utils.ObjectUtilsTest-testIsEmpty_whenArrayIsNotEmpty
+Wed May 16 05:02:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:36 UTC 2018: Code found spark.utils.ObjectUtils-isEmpty with spark.utils.ObjectUtilsTest-testIsEmpty_whenArrayIsEmpty
+Wed May 16 05:02:36 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:36 UTC 2018: Linking done for manar-amri__spark test class spark.utils.ObjectUtilsTest
+Wed May 16 05:02:37 UTC 2018: Found element on the queue
+Wed May 16 05:02:37 UTC 2018: Updating status
+Wed May 16 05:02:37 UTC 2018: Working
+Wed May 16 05:02:39 UTC 2018: Start manar-amri__spark test class spark.utils.MimeParseTest
+Wed May 16 05:02:39 UTC 2018: Setting lastTestMethodIndex: 62555
+Wed May 16 05:02:39 UTC 2018: Starting linking
+Wed May 16 05:02:39 UTC 2018: No link for: spark.utils.MimeParseTest-testBestMatch
+Wed May 16 05:02:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:40 UTC 2018: No link for: spark.utils.MimeParseTest-testBestMatch_whenSupportedIsLowQualityFactor
+Wed May 16 05:02:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:40 UTC 2018: Linking done for manar-amri__spark test class spark.utils.MimeParseTest
+Wed May 16 05:02:41 UTC 2018: Found element on the queue
+Wed May 16 05:02:41 UTC 2018: Updating status
+Wed May 16 05:02:41 UTC 2018: Working
+Wed May 16 05:02:43 UTC 2018: Start manar-amri__spark test class spark.utils.SparkUtilsTest
+Wed May 16 05:02:43 UTC 2018: Setting lastTestMethodIndex: 62557
+Wed May 16 05:02:43 UTC 2018: Starting linking
+Wed May 16 05:02:43 UTC 2018: Code found spark.utils.SparkUtils-isSplat with spark.utils.SparkUtilsTest-testIsSplat_whenParameterIsNotASplat
+Wed May 16 05:02:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:44 UTC 2018: Code found spark.utils.SparkUtils-convertRouteToList with spark.utils.SparkUtilsTest-testConvertRouteToList
+Wed May 16 05:02:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:44 UTC 2018: Code found spark.utils.SparkUtils-isParam with spark.utils.SparkUtilsTest-testIsParam_whenParameterFormattedAsParm
+Wed May 16 05:02:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:44 UTC 2018: Code found spark.utils.SparkUtils-isSplat with spark.utils.SparkUtilsTest-testIsSplat_whenParameterIsASplat
+Wed May 16 05:02:45 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:45 UTC 2018: Code found spark.utils.SparkUtils-isParam with spark.utils.SparkUtilsTest-testIsParam_whenParameterNotFormattedAsParm
+Wed May 16 05:02:45 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:45 UTC 2018: Linking done for manar-amri__spark test class spark.utils.SparkUtilsTest
+Wed May 16 05:02:46 UTC 2018: Found element on the queue
+Wed May 16 05:02:46 UTC 2018: Updating status
+Wed May 16 05:02:46 UTC 2018: Working
+Wed May 16 05:02:48 UTC 2018: Start manar-amri__spark test class spark.SessionTest
+Wed May 16 05:02:48 UTC 2018: Setting lastTestMethodIndex: 62559
+Wed May 16 05:02:48 UTC 2018: Starting linking
+Wed May 16 05:02:48 UTC 2018: Code found spark.Session-attribute with spark.SessionTest-testAttribute_whenAttributeIsRetrieved
+Wed May 16 05:02:49 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:49 UTC 2018: Code found spark.Session-attributes with spark.SessionTest-testAttributes
+Wed May 16 05:02:49 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:49 UTC 2018: Code found spark.Session-invalidate with spark.SessionTest-testInvalidate
+Wed May 16 05:02:49 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:49 UTC 2018: Code found spark.Session-maxInactiveInterval with spark.SessionTest-testMaxInactiveInterval_whenSet
+Wed May 16 05:02:50 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:50 UTC 2018: Code found spark.Session-removeAttribute with spark.SessionTest-testRemoveAttribute
+Wed May 16 05:02:50 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:50 UTC 2018: Code found spark.Session-isNew with spark.SessionTest-testIsNew
+Wed May 16 05:02:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:51 UTC 2018: Code found spark.Session-raw with spark.SessionTest-testRaw
+Wed May 16 05:02:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:51 UTC 2018: Code found spark.Session-maxInactiveInterval with spark.SessionTest-testMaxInactiveInterval_whenRetrieved
+Wed May 16 05:02:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:51 UTC 2018: Code found spark.Session-attribute with spark.SessionTest-testAttribute_whenAttributeIsSet
+Wed May 16 05:02:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:52 UTC 2018: Code found spark.Session-creationTime with spark.SessionTest-testCreationTime
+Wed May 16 05:02:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:52 UTC 2018: Code found spark.Session-id with spark.SessionTest-testId
+Wed May 16 05:02:52 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:52 UTC 2018: Code found spark.Session-lastAccessedTime with spark.SessionTest-testLastAccessedTime
+Wed May 16 05:02:53 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:02:53 UTC 2018: No link for: spark.SessionTest-testSession_whenRequestIsNull_thenThrowException
+Wed May 16 05:02:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:53 UTC 2018: No link for: spark.SessionTest-testSession
+Wed May 16 05:02:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:54 UTC 2018: No link for: spark.SessionTest-testSession_whenHttpSessionIsNull_thenThrowException
+Wed May 16 05:02:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:54 UTC 2018: Linking done for manar-amri__spark test class spark.SessionTest
+Wed May 16 05:02:55 UTC 2018: Found element on the queue
+Wed May 16 05:02:55 UTC 2018: Updating status
+Wed May 16 05:02:55 UTC 2018: Working
+Wed May 16 05:02:57 UTC 2018: Start manar-amri__spark test class spark.ResponseWrapperDelegationTest
+Wed May 16 05:02:57 UTC 2018: Setting lastTestMethodIndex: 62563
+Wed May 16 05:02:57 UTC 2018: Starting linking
+Wed May 16 05:02:57 UTC 2018: No link for: spark.ResponseWrapperDelegationTest-filters_can_detect_content_type
+Wed May 16 05:02:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:58 UTC 2018: No link for: spark.ResponseWrapperDelegationTest-filters_can_detect_response_status
+Wed May 16 05:02:58 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:02:58 UTC 2018: Linking done for manar-amri__spark test class spark.ResponseWrapperDelegationTest
+Wed May 16 05:02:59 UTC 2018: Found element on the queue
+Wed May 16 05:02:59 UTC 2018: Updating status
+Wed May 16 05:02:59 UTC 2018: Working
+Wed May 16 05:03:02 UTC 2018: Start manar-amri__spark test class spark.servlet.ServletTest
+Wed May 16 05:03:02 UTC 2018: Setting lastTestMethodIndex: 62565
+Wed May 16 05:03:02 UTC 2018: Starting linking
+Wed May 16 05:03:02 UTC 2018: No link for: spark.servlet.ServletTest-testGetRoot
+Wed May 16 05:03:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:02 UTC 2018: No link for: spark.servlet.ServletTest-testStaticResource
+Wed May 16 05:03:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:03 UTC 2018: No link for: spark.servlet.ServletTest-testHiHead
+Wed May 16 05:03:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:03 UTC 2018: No link for: spark.servlet.ServletTest-testEchoParam1
+Wed May 16 05:03:03 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:03 UTC 2018: No link for: spark.servlet.ServletTest-testNotFound
+Wed May 16 05:03:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:04 UTC 2018: No link for: spark.servlet.ServletTest-testGetHi
+Wed May 16 05:03:04 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:04 UTC 2018: No link for: spark.servlet.ServletTest-testPost
+Wed May 16 05:03:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:05 UTC 2018: No link for: spark.servlet.ServletTest-testGetHiAfterFilter
+Wed May 16 05:03:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:05 UTC 2018: No link for: spark.servlet.ServletTest-testEchoParam2
+Wed May 16 05:03:05 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:05 UTC 2018: No link for: spark.servlet.ServletTest-testStaticWelcomeResource
+Wed May 16 05:03:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:06 UTC 2018: No link for: spark.servlet.ServletTest-testUnauthorized
+Wed May 16 05:03:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:06 UTC 2018: No link for: spark.servlet.ServletTest-testExternalStaticFile
+Wed May 16 05:03:06 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:06 UTC 2018: Linking done for manar-amri__spark test class spark.servlet.ServletTest
+Wed May 16 05:03:07 UTC 2018: Found element on the queue
+Wed May 16 05:03:07 UTC 2018: Updating status
+Wed May 16 05:03:07 UTC 2018: Working
+Wed May 16 05:03:10 UTC 2018: Start manar-amri__spark test class spark.RequestTest
+Wed May 16 05:03:10 UTC 2018: Setting lastTestMethodIndex: 62569
+Wed May 16 05:03:10 UTC 2018: Starting linking
+Wed May 16 05:03:10 UTC 2018: Code found spark.Request-host with spark.RequestTest-testHost
+Wed May 16 05:03:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:10 UTC 2018: Code found spark.Request-contextPath with spark.RequestTest-shouldBeAbleToGetTheContextPath
+Wed May 16 05:03:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:11 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_2times
+Wed May 16 05:03:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:11 UTC 2018: Code found spark.Request-cookies with spark.RequestTest-testCookies_whenCookiesAreNotPresent
+Wed May 16 05:03:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:11 UTC 2018: Code found spark.Request-queryParamsValues with spark.RequestTest-testQueryParamsValues_whenParamExists
+Wed May 16 05:03:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:12 UTC 2018: Code found spark.Request-uri with spark.RequestTest-testURI
+Wed May 16 05:03:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:12 UTC 2018: Code found spark.Request-servletPath with spark.RequestTest-shouldBeAbleToGetTheServletPath
+Wed May 16 05:03:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:12 UTC 2018: Code found spark.Request-contextPath with spark.RequestTest-testContextPath
+Wed May 16 05:03:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:13 UTC 2018: Code found spark.Request-url with spark.RequestTest-testUrl
+Wed May 16 05:03:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:13 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSessionNoParams_whenSessionIsNull
+Wed May 16 05:03:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:13 UTC 2018: Code found spark.Request-servletPath with spark.RequestTest-testServletPath
+Wed May 16 05:03:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:14 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSessionNpParams_afterSessionInvalidate
+Wed May 16 05:03:14 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:14 UTC 2018: Code found spark.Request-cookie with spark.RequestTest-testCookie_whenCookiesAreNotPresent
+Wed May 16 05:03:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:15 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_whenCreateIsFalse
+Wed May 16 05:03:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:15 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_whenCreateIsFalse_afterSessionInvalidate
+Wed May 16 05:03:15 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:15 UTC 2018: Code found spark.Request-cookies with spark.RequestTest-testCookies_whenCookiesArePresent
+Wed May 16 05:03:16 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:16 UTC 2018: Code found spark.Request-contentLength with spark.RequestTest-testContentLength
+Wed May 16 05:03:16 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:16 UTC 2018: Code found spark.Request-pathInfo with spark.RequestTest-testPathInfo
+Wed May 16 05:03:16 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:16 UTC 2018: Code found spark.Request-userAgent with spark.RequestTest-testUserAgent
+Wed May 16 05:03:17 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:17 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_whenCreateIsTrue
+Wed May 16 05:03:17 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:17 UTC 2018: Code found spark.Request-port with spark.RequestTest-testPort
+Wed May 16 05:03:17 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:17 UTC 2018: Code found spark.Request-queryParams with spark.RequestTest-testQueryParams
+Wed May 16 05:03:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:18 UTC 2018: Code found spark.Request-ip with spark.RequestTest-testIp
+Wed May 16 05:03:18 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:18 UTC 2018: Code found spark.Request-headers with spark.RequestTest-testHeaders
+Wed May 16 05:03:19 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:19 UTC 2018: Code found spark.Request-protocol with spark.RequestTest-testProtocol
+Wed May 16 05:03:19 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:19 UTC 2018: Code found spark.Request-cookie with spark.RequestTest-testCookie_whenCookiesArePresent
+Wed May 16 05:03:20 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:20 UTC 2018: Code found spark.Request-session with spark.RequestTest-testSession_whenCreateIsTrue_afterSessionInvalidate
+Wed May 16 05:03:20 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:20 UTC 2018: Code found spark.Request-contentType with spark.RequestTest-testContentType
+Wed May 16 05:03:20 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:20 UTC 2018: Code found spark.Request-requestMethod with spark.RequestTest-testRequestMethod
+Wed May 16 05:03:21 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:21 UTC 2018: Code found spark.Request-scheme with spark.RequestTest-testScheme
+Wed May 16 05:03:21 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:21 UTC 2018: Code found spark.Request-queryParams with spark.RequestTest-queryParamShouldReturnsParametersFromQueryString
+Wed May 16 05:03:21 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:21 UTC 2018: Code found spark.Request-queryParamsValues with spark.RequestTest-testQueryParamsValues_whenParamDoesNotExists
+Wed May 16 05:03:22 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:22 UTC 2018: No link for: spark.RequestTest-queryParamShouldBeParsedAsHashMap
+Wed May 16 05:03:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:22 UTC 2018: Linking done for manar-amri__spark test class spark.RequestTest
+Wed May 16 05:03:22 UTC 2018: Found element on the queue
+Wed May 16 05:03:22 UTC 2018: Updating status
+Wed May 16 05:03:22 UTC 2018: Working
+Wed May 16 05:03:25 UTC 2018: Start manar-amri__spark test class spark.FilterImplTest
+Wed May 16 05:03:25 UTC 2018: Setting lastTestMethodIndex: 62574
+Wed May 16 05:03:25 UTC 2018: Starting linking
+Wed May 16 05:03:25 UTC 2018: Code found spark.FilterImpl-getAcceptType with spark.FilterImplTest-testGets_thenReturnGetPathAndGetAcceptTypeSuccessfully
+Wed May 16 05:03:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:26 UTC 2018: Code found spark.FilterImpl-create with spark.FilterImplTest-testCreate_whenOutAssignAcceptTypeInTheParameters_thenReturnPathAndAcceptTypeSuccessfully
+Wed May 16 05:03:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:26 UTC 2018: Code found spark.FilterImpl-create with spark.FilterImplTest-testCreate_whenAcceptTypeNullValueInTheParameters_thenReturnPathAndAcceptTypeSuccessfully
+Wed May 16 05:03:26 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:26 UTC 2018: No link for: spark.FilterImplTest-testConstructor
+Wed May 16 05:03:27 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:27 UTC 2018: Linking done for manar-amri__spark test class spark.FilterImplTest
+Wed May 16 05:03:27 UTC 2018: Found element on the queue
+Wed May 16 05:03:27 UTC 2018: Updating status
+Wed May 16 05:03:27 UTC 2018: Working
+Wed May 16 05:03:30 UTC 2018: Start manar-amri__spark test class spark.BooksIntegrationTest
+Wed May 16 05:03:30 UTC 2018: Setting lastTestMethodIndex: 62576
+Wed May 16 05:03:30 UTC 2018: Starting linking
+Wed May 16 05:03:30 UTC 2018: No link for: spark.BooksIntegrationTest-canUpdateBook
+Wed May 16 05:03:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:31 UTC 2018: No link for: spark.BooksIntegrationTest-wontFindBook
+Wed May 16 05:03:31 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:31 UTC 2018: No link for: spark.BooksIntegrationTest-canListBooks
+Wed May 16 05:03:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:32 UTC 2018: No link for: spark.BooksIntegrationTest-canGetUpdatedBook
+Wed May 16 05:03:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:32 UTC 2018: No link for: spark.BooksIntegrationTest-canCreateBook
+Wed May 16 05:03:32 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:32 UTC 2018: No link for: spark.BooksIntegrationTest-canGetBook
+Wed May 16 05:03:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:33 UTC 2018: No link for: spark.BooksIntegrationTest-canDeleteBook
+Wed May 16 05:03:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:33 UTC 2018: Linking done for manar-amri__spark test class spark.BooksIntegrationTest
+Wed May 16 05:03:34 UTC 2018: Found element on the queue
+Wed May 16 05:03:34 UTC 2018: Updating status
+Wed May 16 05:03:34 UTC 2018: Working
+Wed May 16 05:03:36 UTC 2018: Start manar-amri__spark test class spark.globalstate.ServletFlagTest
+Wed May 16 05:03:36 UTC 2018: Setting lastTestMethodIndex: 62578
+Wed May 16 05:03:36 UTC 2018: Starting linking
+Wed May 16 05:03:36 UTC 2018: Code found spark.globalstate.ServletFlag-isRunningFromServlet with spark.globalstate.ServletFlagTest-testIsRunningFromServlet_whenDefault
+Wed May 16 05:03:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:37 UTC 2018: Code found spark.globalstate.ServletFlag-runFromServlet with spark.globalstate.ServletFlagTest-testRunFromServlet_whenExecuted
+Wed May 16 05:03:37 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:37 UTC 2018: Code found spark.globalstate.ServletFlag-isRunningFromServlet with spark.globalstate.ServletFlagTest-testIsRunningFromServlet_whenRunningFromServlet
+Wed May 16 05:03:38 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:38 UTC 2018: No link for: spark.globalstate.ServletFlagTest-testRunFromServlet_whenDefault
+Wed May 16 05:03:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:38 UTC 2018: Linking done for manar-amri__spark test class spark.globalstate.ServletFlagTest
+Wed May 16 05:03:39 UTC 2018: Found element on the queue
+Wed May 16 05:03:39 UTC 2018: Updating status
+Wed May 16 05:03:39 UTC 2018: Working
+Wed May 16 05:03:42 UTC 2018: Start manar-amri__spark test class spark.RouteImplTest
+Wed May 16 05:03:42 UTC 2018: Setting lastTestMethodIndex: 62580
+Wed May 16 05:03:42 UTC 2018: Starting linking
+Wed May 16 05:03:42 UTC 2018: Code found spark.RouteImpl-create with spark.RouteImplTest-testCreate_whenOutAssignAcceptTypeInTheParameters_thenReturnPathAndAcceptTypeSuccessfully
+Wed May 16 05:03:42 UTC 2018: Code found spark.RouteImpl-create with spark.RouteImplTest-testCreate_whenAcceptTypeNullValueInTheParameters_thenReturnPathAndAcceptTypeSuccessfully
+Wed May 16 05:03:42 UTC 2018: Code found spark.RouteImpl-getAcceptType with spark.RouteImplTest-testGets_thenReturnGetPathAndGetAcceptTypeSuccessfully
+Wed May 16 05:03:43 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:43 UTC 2018: Code found spark.RouteImpl-render with spark.RouteImplTest-testRender_whenElementParameterValid_thenReturnValidObject
+Wed May 16 05:03:43 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:43 UTC 2018: Code found spark.RouteImpl-render with spark.RouteImplTest-testRender_whenElementParameterIsNull_thenReturnNull
+Wed May 16 05:03:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:44 UTC 2018: No link for: spark.RouteImplTest-testConstructor
+Wed May 16 05:03:44 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:44 UTC 2018: Linking done for manar-amri__spark test class spark.RouteImplTest
+Wed May 16 05:03:44 UTC 2018: Found element on the queue
+Wed May 16 05:03:44 UTC 2018: Updating status
+Wed May 16 05:03:44 UTC 2018: Working
+Wed May 16 05:03:47 UTC 2018: Start manar-amri__spark test class spark.GenericSecureIntegrationTest
+Wed May 16 05:03:47 UTC 2018: Setting lastTestMethodIndex: 62583
+Wed May 16 05:03:47 UTC 2018: Starting linking
+Wed May 16 05:03:47 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testGetHiAfterFilter
+Wed May 16 05:03:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:48 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testEchoParam2
+Wed May 16 05:03:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:48 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testEchoParam1
+Wed May 16 05:03:48 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:48 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testGetHi
+Wed May 16 05:03:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:49 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testPost
+Wed May 16 05:03:49 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:49 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testGetRoot
+Wed May 16 05:03:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:50 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testEchoParamWithMaj
+Wed May 16 05:03:50 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:50 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testHiHead
+Wed May 16 05:03:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:51 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testNotFound
+Wed May 16 05:03:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:51 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testPatch
+Wed May 16 05:03:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:51 UTC 2018: No link for: spark.GenericSecureIntegrationTest-testUnauthorized
+Wed May 16 05:03:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:03:52 UTC 2018: Linking done for manar-amri__spark test class spark.GenericSecureIntegrationTest
+Wed May 16 05:03:52 UTC 2018: Found element on the queue
+Wed May 16 05:03:52 UTC 2018: Updating status
+Wed May 16 05:03:52 UTC 2018: Working
+Wed May 16 05:03:55 UTC 2018: Start manar-amri__spark test class spark.ServiceTest
+Wed May 16 05:03:55 UTC 2018: Setting lastTestMethodIndex: 62585
+Wed May 16 05:03:55 UTC 2018: Starting linking
+Wed May 16 05:03:55 UTC 2018: Code found spark.Service-ipAddress with spark.ServiceTest-testIpAddress_whenInitializedTrue_thenThrowIllegalStateException
+Wed May 16 05:03:56 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:56 UTC 2018: Code found spark.Service-halt with spark.ServiceTest-testHalt_whenStatusCode_thenThrowHaltException
+Wed May 16 05:03:56 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:56 UTC 2018: Code found spark.Service-ipAddress with spark.ServiceTest-testSetIpAddress_whenInitializedFalse
+Wed May 16 05:03:57 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:57 UTC 2018: Code found spark.Service-secure with spark.ServiceTest-testSecure_thenReturnNewSslStores
+Wed May 16 05:03:57 UTC 2018: Code found spark.Service-threadPool with spark.ServiceTest-testThreadPool_whenOnlyMaxThreads
+Wed May 16 05:03:57 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:57 UTC 2018: Code found spark.Service-secure with spark.ServiceTest-testSecure_whenInitializedTrue_thenThrowIllegalStateException
+Wed May 16 05:03:58 UTC 2018: Code found spark.Service-threadPool with spark.ServiceTest-testThreadPool_whenMaxMinAndTimeoutParameters
+Wed May 16 05:03:58 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:58 UTC 2018: Code found spark.Service-webSocket with spark.ServiceTest-testWebSocket_whenPathNull_thenThrowNullPointerException
+Wed May 16 05:03:59 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:59 UTC 2018: Code found spark.Service-threadPool with spark.ServiceTest-testThreadPool_whenMaxMinAndTimeoutParameters_thenThrowIllegalStateException
+Wed May 16 05:03:59 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:59 UTC 2018: Code found spark.Service-webSocket with spark.ServiceTest-testWebSocket_whenInitializedTrue_thenThrowIllegalStateException
+Wed May 16 05:03:59 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:03:59 UTC 2018: Code found spark.Service-secure with spark.ServiceTest-testSecure_whenInitializedFalse_thenThrowIllegalArgumentException
+Wed May 16 05:04:00 UTC 2018: Code found spark.Service-halt with spark.ServiceTest-testHalt_whenOutParameters_thenThrowHaltException
+Wed May 16 05:04:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:00 UTC 2018: Code found spark.Service-halt with spark.ServiceTest-testHalt_whenBodyContent_thenThrowHaltException
+Wed May 16 05:04:00 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:00 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testSetPort_whenInitializedTrue_thenThrowIllegalStateException
+Wed May 16 05:04:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:01 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testGetPort_whenInitializedFalse_thenThrowIllegalStateException
+Wed May 16 05:04:01 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:01 UTC 2018: Code found spark.Service-ipAddress with spark.ServiceTest-testSetIpAddress_whenInitializedTrue_thenThrowIllegalStateException
+Wed May 16 05:04:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:02 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testPort_whenInitializedFalse
+Wed May 16 05:04:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:02 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testGetPort_whenInitializedTrue_Default
+Wed May 16 05:04:02 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:02 UTC 2018: Code found spark.Service-webSocketIdleTimeoutMillis with spark.ServiceTest-testWebSocketIdleTimeoutMillis_whenInitializedTrue_thenThrowIllegalStateException
+Wed May 16 05:04:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:03 UTC 2018: Code found spark.Service-webSocket with spark.ServiceTest-testWebSocket_whenHandlerNull_thenThrowNullPointerException
+Wed May 16 05:04:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:03 UTC 2018: Code found spark.Service-halt with spark.ServiceTest-testHalt_whenStatusCodeAndBodyContent_thenThrowHaltException
+Wed May 16 05:04:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:03 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testSetPort_whenInitializedFalse
+Wed May 16 05:04:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:04 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testPort_whenInitializedTrue_thenThrowIllegalStateException
+Wed May 16 05:04:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:04 UTC 2018: Code found spark.Service-ipAddress with spark.ServiceTest-testIpAddress_whenInitializedFalse
+Wed May 16 05:04:04 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:04 UTC 2018: Code found spark.Service-port with spark.ServiceTest-testGetPort_whenInitializedTrue
+Wed May 16 05:04:05 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:05 UTC 2018: Linking done for manar-amri__spark test class spark.ServiceTest
+Wed May 16 05:04:05 UTC 2018: Found element on the queue
+Wed May 16 05:04:05 UTC 2018: Updating status
+Wed May 16 05:04:05 UTC 2018: Working
+Wed May 16 05:04:08 UTC 2018: Start manar-amri__spark test class spark.ResponseTest
+Wed May 16 05:04:08 UTC 2018: Setting lastTestMethodIndex: 62589
+Wed May 16 05:04:08 UTC 2018: Starting linking
+Wed May 16 05:04:08 UTC 2018: Code found spark.Response-body with spark.ResponseTest-testSetBody
+Wed May 16 05:04:08 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:08 UTC 2018: Code found spark.Response-removeCookie with spark.ResponseTest-testRemoveCookie_shouldModifyPropertiesFromCookieSuccessfully
+Wed May 16 05:04:09 UTC 2018: Code found spark.Response-redirect with spark.ResponseTest-testRedirect_whenLocationAndHttpStatusCodeParameters_shouldModifyStatusCodeSuccessfully
+Wed May 16 05:04:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:09 UTC 2018: Code found spark.Response-body with spark.ResponseTest-testGetBody
+Wed May 16 05:04:09 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:09 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenNameValueAndMaxAgeParameters_shouldAddCookieSuccessfully
+Wed May 16 05:04:10 UTC 2018: Code found spark.Response-status with spark.ResponseTest-testSetStatus
+Wed May 16 05:04:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:10 UTC 2018: Code found spark.Response-status with spark.ResponseTest-testGetStatus
+Wed May 16 05:04:10 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:10 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenPathNameValueMaxAgeSecuredAndHttpOnlyParameters_shouldAddCookieSuccessfully
+Wed May 16 05:04:11 UTC 2018: Code found spark.Response-type with spark.ResponseTest-testSetType
+Wed May 16 05:04:11 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:11 UTC 2018: Code found spark.Response-header with spark.ResponseTest-testHeader
+Wed May 16 05:04:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:12 UTC 2018: Code found spark.Response-redirect with spark.ResponseTest-testRedirect_whenLocationParameter_shouldModifyStatusCodeSuccessfully
+Wed May 16 05:04:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:12 UTC 2018: Code found spark.Response-type with spark.ResponseTest-testGetType
+Wed May 16 05:04:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:12 UTC 2018: Code found spark.Response-raw with spark.ResponseTest-testRaw
+Wed May 16 05:04:13 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:13 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenNameValueMaxAgeAndSecuredParameters_shouldAddCookieSuccessfully
+Wed May 16 05:04:13 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenNameAndValueParameters_shouldAddCookieSuccessfully
+Wed May 16 05:04:13 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenPathNameValueMaxAgeAndSecuredParameters_shouldAddCookieSuccessfully
+Wed May 16 05:04:14 UTC 2018: Code found spark.Response-cookie with spark.ResponseTest-testCookie_whenNameValueMaxAgeSecuredAndHttpOnlyParameters_shouldAddCookieSuccessfully
+Wed May 16 05:04:14 UTC 2018: No link for: spark.ResponseTest-testConstructor_whenHttpServletResponseParameter
+Wed May 16 05:04:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:14 UTC 2018: Linking done for manar-amri__spark test class spark.ResponseTest
+Wed May 16 05:04:15 UTC 2018: Found element on the queue
+Wed May 16 05:04:15 UTC 2018: Updating status
+Wed May 16 05:04:15 UTC 2018: Working
+Wed May 16 05:04:18 UTC 2018: Start manar-amri__spark test class spark.ResponseBodyTest
+Wed May 16 05:04:18 UTC 2018: Setting lastTestMethodIndex: 62592
+Wed May 16 05:04:18 UTC 2018: Starting linking
+Wed May 16 05:04:18 UTC 2018: No link for: spark.ResponseBodyTest-testMAXIME
+Wed May 16 05:04:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:18 UTC 2018: No link for: spark.ResponseBodyTest-testPORAKATIKAOKAO
+Wed May 16 05:04:18 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:18 UTC 2018: No link for: spark.ResponseBodyTest-testHELLO
+Wed May 16 05:04:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:19 UTC 2018: No link for: spark.ResponseBodyTest-testSPECIAL
+Wed May 16 05:04:19 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:19 UTC 2018: Linking done for manar-amri__spark test class spark.ResponseBodyTest
+Wed May 16 05:04:19 UTC 2018: Found element on the queue
+Wed May 16 05:04:19 UTC 2018: Updating status
+Wed May 16 05:04:19 UTC 2018: Working
+Wed May 16 05:04:22 UTC 2018: Start manar-amri__spark test class spark.staticfiles.StaticFilesTest
+Wed May 16 05:04:22 UTC 2018: Setting lastTestMethodIndex: 62594
+Wed May 16 05:04:22 UTC 2018: Starting linking
+Wed May 16 05:04:22 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testStaticFilePageHtml
+Wed May 16 05:04:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:22 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testCustomMimeType
+Wed May 16 05:04:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:23 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testStaticFilePagesIndexHtml
+Wed May 16 05:04:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:23 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testMimeTypes
+Wed May 16 05:04:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:23 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testDirectoryTraversalProtectionLocal
+Wed May 16 05:04:24 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testExternalStaticFile
+Wed May 16 05:04:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:24 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testStaticFileCssStyleCss
+Wed May 16 05:04:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:25 UTC 2018: No link for: spark.staticfiles.StaticFilesTest-testExceptionMapping404
+Wed May 16 05:04:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:25 UTC 2018: Linking done for manar-amri__spark test class spark.staticfiles.StaticFilesTest
+Wed May 16 05:04:25 UTC 2018: Found element on the queue
+Wed May 16 05:04:25 UTC 2018: Updating status
+Wed May 16 05:04:25 UTC 2018: Working
+Wed May 16 05:04:28 UTC 2018: Start manar-amri__spark test class spark.staticfiles.DisableMimeGuessingTest
+Wed May 16 05:04:28 UTC 2018: Setting lastTestMethodIndex: 62597
+Wed May 16 05:04:28 UTC 2018: Starting linking
+Wed May 16 05:04:28 UTC 2018: No link for: spark.staticfiles.DisableMimeGuessingTest-testMimeTypes
+Wed May 16 05:04:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:28 UTC 2018: No link for: spark.staticfiles.DisableMimeGuessingTest-testCustomMimeType
+Wed May 16 05:04:29 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:29 UTC 2018: Linking done for manar-amri__spark test class spark.staticfiles.DisableMimeGuessingTest
+Wed May 16 05:04:29 UTC 2018: Found element on the queue
+Wed May 16 05:04:29 UTC 2018: Updating status
+Wed May 16 05:04:29 UTC 2018: Working
+Wed May 16 05:04:32 UTC 2018: Start manar-amri__spark test class spark.QueryParamsMapTest
+Wed May 16 05:04:32 UTC 2018: Setting lastTestMethodIndex: 62599
+Wed May 16 05:04:32 UTC 2018: Starting linking
+Wed May 16 05:04:32 UTC 2018: No code found spark.QueryParamsMap-toMap with spark.QueryParamsMapTest-testToMap
+Wed May 16 05:04:32 UTC 2018: Code found spark.QueryParamsMap-parseKey with spark.QueryParamsMapTest-parseKeyShouldParseRootKey
+Wed May 16 05:04:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:33 UTC 2018: Code found spark.QueryParamsMap-parseKey with spark.QueryParamsMapTest-parseKeyShouldParseSubkeys
+Wed May 16 05:04:33 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:33 UTC 2018: No link for: spark.QueryParamsMapTest-constructorWithParametersMap
+Wed May 16 05:04:33 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:33 UTC 2018: No link for: spark.QueryParamsMapTest-itShouldbeNullSafe
+Wed May 16 05:04:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:34 UTC 2018: No link for: spark.QueryParamsMapTest-keyToMap
+Wed May 16 05:04:34 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:34 UTC 2018: No link for: spark.QueryParamsMapTest-testDifferentTypesForValue
+Wed May 16 05:04:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:35 UTC 2018: No link for: spark.QueryParamsMapTest-testConstructor
+Wed May 16 05:04:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:35 UTC 2018: Linking done for manar-amri__spark test class spark.QueryParamsMapTest
+Wed May 16 05:04:35 UTC 2018: Found element on the queue
+Wed May 16 05:04:35 UTC 2018: Updating status
+Wed May 16 05:04:35 UTC 2018: Working
+Wed May 16 05:04:38 UTC 2018: Start manar-amri__spark test class spark.MultipleServicesTest
+Wed May 16 05:04:38 UTC 2018: Setting lastTestMethodIndex: 62603
+Wed May 16 05:04:38 UTC 2018: Starting linking
+Wed May 16 05:04:38 UTC 2018: No link for: spark.MultipleServicesTest-testGetRedirectedHi
+Wed May 16 05:04:38 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:38 UTC 2018: No link for: spark.MultipleServicesTest-testGetUniqueForSecondWithFirst
+Wed May 16 05:04:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:39 UTC 2018: No link for: spark.MultipleServicesTest-testGetHello
+Wed May 16 05:04:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:39 UTC 2018: No link for: spark.MultipleServicesTest-testStaticFileCssStyleCssWithSecond
+Wed May 16 05:04:39 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:39 UTC 2018: No link for: spark.MultipleServicesTest-testGetUniqueForSecondWithSecond
+Wed May 16 05:04:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:40 UTC 2018: No link for: spark.MultipleServicesTest-testStaticFileCssStyleCssWithFirst
+Wed May 16 05:04:40 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:04:40 UTC 2018: Linking done for manar-amri__spark test class spark.MultipleServicesTest
+Wed May 16 05:04:41 UTC 2018: Found element on the queue
+Wed May 16 05:04:41 UTC 2018: Updating status
+Wed May 16 05:04:41 UTC 2018: Working
+Wed May 16 05:04:43 UTC 2018: Start manar-amri__spark test class spark.util.ResourceUtilsTest
+Wed May 16 05:04:43 UTC 2018: Setting lastTestMethodIndex: 62606
+Wed May 16 05:04:43 UTC 2018: Starting linking
+Wed May 16 05:04:43 UTC 2018: Code found spark.utils.ResourceUtils-getFile with spark.util.ResourceUtilsTest-testGetFile_whenURLProtocolIsFile_thenReturnFileObject
+Wed May 16 05:04:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:44 UTC 2018: Code found spark.utils.ResourceUtils-getFile with spark.util.ResourceUtilsTest-testGetFile_whenURLProtocolIsNotFile_thenThrowFileNotFoundException
+Wed May 16 05:04:44 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:44 UTC 2018: Linking done for manar-amri__spark test class spark.util.ResourceUtilsTest
+Wed May 16 05:04:45 UTC 2018: Found element on the queue
+Wed May 16 05:04:45 UTC 2018: Updating status
+Wed May 16 05:04:45 UTC 2018: Working
+Wed May 16 05:04:47 UTC 2018: Start manar-amri__spark test class spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest
+Wed May 16 05:04:47 UTC 2018: Setting lastTestMethodIndex: 62609
+Wed May 16 05:04:47 UTC 2018: Starting linking
+Wed May 16 05:04:47 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketCreatorFactory-create with spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest-testCreateWebSocketHandler
+Wed May 16 05:04:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:48 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketCreatorFactory-create with spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest-testCreate_whenInstantiationException
+Wed May 16 05:04:48 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:48 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketCreatorFactory-create with spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest-testCannotCreateInvalidHandlers
+Wed May 16 05:04:49 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:04:49 UTC 2018: Linking done for manar-amri__spark test class spark.embeddedserver.jetty.websocket.WebSocketCreatorFactoryTest
+Wed May 16 05:04:49 UTC 2018: Found element on the queue
+Wed May 16 05:04:49 UTC 2018: Updating status
+Wed May 16 05:04:49 UTC 2018: Working
+Wed May 16 05:04:52 UTC 2018: Start manar-amri__spark test class spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest
+Wed May 16 05:04:52 UTC 2018: Setting lastTestMethodIndex: 62611
+Wed May 16 05:04:52 UTC 2018: Starting linking
+Wed May 16 05:04:52 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory-create with spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest-testCreate_whenWebSocketContextHandlerCreationFails_thenThrowException
+Wed May 16 05:04:52 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory-create with spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest-testCreate_whenTimeoutIsPresent
+Wed May 16 05:04:52 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory-create with spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest-testCreate_whenWebSocketHandlersIsNull_thenReturnNull
+Wed May 16 05:04:53 UTC 2018: Code found spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory-create with spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest-testCreate_whenNoIdleTimeoutIsPresent
+Wed May 16 05:04:53 UTC 2018: Linking done for manar-amri__spark test class spark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest
+Wed May 16 05:04:54 UTC 2018: Found element on the queue
+Wed May 16 05:04:54 UTC 2018: Updating status
+Wed May 16 05:04:54 UTC 2018: Working
+Wed May 16 05:04:57 UTC 2018: Start manar-amri__spark test class spark.embeddedserver.jetty.SocketConnectorFactoryTest
+Wed May 16 05:04:57 UTC 2018: Setting lastTestMethodIndex: 62614
+Wed May 16 05:04:57 UTC 2018: Starting linking
+Wed May 16 05:04:57 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSecureSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSecureSocketConnector_whenServerIsNull
+Wed May 16 05:04:57 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSecureSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSecureSocketConnector
+Wed May 16 05:04:58 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSocketConnector_whenHostIsNull_thenThrowException
+Wed May 16 05:04:58 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSocketConnector
+Wed May 16 05:04:58 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSecureSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSecureSocketConnector_whenSslStoresIsNull
+Wed May 16 05:04:59 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSocketConnector_whenServerIsNull_thenThrowException
+Wed May 16 05:04:59 UTC 2018: Code found spark.embeddedserver.jetty.SocketConnectorFactory-createSecureSocketConnector with spark.embeddedserver.jetty.SocketConnectorFactoryTest-testCreateSecureSocketConnector_whenHostIsNull
+Wed May 16 05:04:59 UTC 2018: Linking done for manar-amri__spark test class spark.embeddedserver.jetty.SocketConnectorFactoryTest
+Wed May 16 05:05:00 UTC 2018: Found element on the queue
+Wed May 16 05:05:00 UTC 2018: Updating status
+Wed May 16 05:05:00 UTC 2018: Working
+Wed May 16 05:05:03 UTC 2018: Start manar-amri__spark test class spark.embeddedserver.jetty.JettyServerTest
+Wed May 16 05:05:03 UTC 2018: Setting lastTestMethodIndex: 62617
+Wed May 16 05:05:03 UTC 2018: Starting linking
+Wed May 16 05:05:03 UTC 2018: Code found spark.embeddedserver.jetty.JettyServer-create with spark.embeddedserver.jetty.JettyServerTest-testCreateServer_useDefaults
+Wed May 16 05:05:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:05:03 UTC 2018: Code found spark.embeddedserver.jetty.JettyServer-create with spark.embeddedserver.jetty.JettyServerTest-testCreateServer_whenNonDefaultMaxThreadOnly_thenUseDefaultMinThreadAndTimeout
+Wed May 16 05:05:03 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:05:03 UTC 2018: Linking done for manar-amri__spark test class spark.embeddedserver.jetty.JettyServerTest
+Wed May 16 05:05:04 UTC 2018: Found element on the queue
+Wed May 16 05:05:04 UTC 2018: Updating status
+Wed May 16 05:05:04 UTC 2018: Working
+Wed May 16 05:05:07 UTC 2018: Start manar-amri__spark test class spark.RedirectTest
+Wed May 16 05:05:07 UTC 2018: Setting lastTestMethodIndex: 62619
+Wed May 16 05:05:07 UTC 2018: Starting linking
+Wed May 16 05:05:07 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyPostWithSpecificCode
+Wed May 16 05:05:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:07 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyPost
+Wed May 16 05:05:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:08 UTC 2018: No link for: spark.RedirectTest-testRedirectPostWithSpecificCode
+Wed May 16 05:05:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:08 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyDeleteWithSpecificCode
+Wed May 16 05:05:08 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:08 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyGetWithSpecificCode
+Wed May 16 05:05:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:09 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyPutWithSpecificCode
+Wed May 16 05:05:09 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:09 UTC 2018: No link for: spark.RedirectTest-testRedirectPost
+Wed May 16 05:05:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:10 UTC 2018: No link for: spark.RedirectTest-testRedirectGetWithSpecificCode
+Wed May 16 05:05:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:10 UTC 2018: No link for: spark.RedirectTest-testRedirectPutWithSpecificCode
+Wed May 16 05:05:10 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:10 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyGet
+Wed May 16 05:05:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:11 UTC 2018: No link for: spark.RedirectTest-testRedirectGet
+Wed May 16 05:05:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:11 UTC 2018: No link for: spark.RedirectTest-testRedirectDelete
+Wed May 16 05:05:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:11 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyDelete
+Wed May 16 05:05:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:12 UTC 2018: No link for: spark.RedirectTest-testRedirectAnyPut
+Wed May 16 05:05:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:12 UTC 2018: No link for: spark.RedirectTest-testRedirectPut
+Wed May 16 05:05:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:13 UTC 2018: No link for: spark.RedirectTest-testRedirectDeleteWithSpecificCode
+Wed May 16 05:05:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:13 UTC 2018: Linking done for manar-amri__spark test class spark.RedirectTest
+Wed May 16 05:05:13 UTC 2018: Found element on the queue
+Wed May 16 05:05:13 UTC 2018: Updating status
+Wed May 16 05:05:13 UTC 2018: Working
+Wed May 16 05:05:16 UTC 2018: Start manar-amri__spark test class spark.GzipTest
+Wed May 16 05:05:16 UTC 2018: Setting lastTestMethodIndex: 62625
+Wed May 16 05:05:16 UTC 2018: Starting linking
+Wed May 16 05:05:16 UTC 2018: No link for: spark.GzipTest-testStaticFileCssStyleCss
+Wed May 16 05:05:16 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:16 UTC 2018: No link for: spark.GzipTest-checkGzipCompression
+Wed May 16 05:05:17 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:17 UTC 2018: Linking done for manar-amri__spark test class spark.GzipTest
+Wed May 16 05:05:17 UTC 2018: Found element on the queue
+Wed May 16 05:05:17 UTC 2018: Updating status
+Wed May 16 05:05:17 UTC 2018: Working
+Wed May 16 05:05:20 UTC 2018: Start manar-amri__spark test class spark.BodyAvailabilityTest
+Wed May 16 05:05:20 UTC 2018: Setting lastTestMethodIndex: 62626
+Wed May 16 05:05:20 UTC 2018: Starting linking
+Wed May 16 05:05:20 UTC 2018: No link for: spark.BodyAvailabilityTest-testPost
+Wed May 16 05:05:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:21 UTC 2018: Linking done for manar-amri__spark test class spark.BodyAvailabilityTest
+Wed May 16 05:05:21 UTC 2018: Found element on the queue
+Wed May 16 05:05:21 UTC 2018: Updating status
+Wed May 16 05:05:21 UTC 2018: Working
+Wed May 16 05:05:24 UTC 2018: Start manar-amri__spark test class spark.ExceptionMapperTest
+Wed May 16 05:05:24 UTC 2018: Setting lastTestMethodIndex: 62627
+Wed May 16 05:05:24 UTC 2018: Starting linking
+Wed May 16 05:05:24 UTC 2018: Code found spark.ExceptionMapper-getInstance with spark.ExceptionMapperTest-testGetInstance_whenDefaultInstanceIsNull
+Wed May 16 05:05:24 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:05:24 UTC 2018: Code found spark.ExceptionMapper-getInstance with spark.ExceptionMapperTest-testGetInstance_whenDefaultInstanceIsNotNull
+Wed May 16 05:05:24 UTC 2018: Match not added in database because it already exists
+Wed May 16 05:05:24 UTC 2018: Linking done for manar-amri__spark test class spark.ExceptionMapperTest
+Wed May 16 05:05:25 UTC 2018: Found element on the queue
+Wed May 16 05:05:25 UTC 2018: Updating status
+Wed May 16 05:05:25 UTC 2018: Working
+Wed May 16 05:05:27 UTC 2018: Start manar-amri__spark test class spark.route.HttpMethodTest
+Wed May 16 05:05:27 UTC 2018: Setting lastTestMethodIndex: 62628
+Wed May 16 05:05:27 UTC 2018: Starting linking
+Wed May 16 05:05:27 UTC 2018: No link for: spark.route.HttpMethodTest-testNotSupportedHttpMethod
+Wed May 16 05:05:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:28 UTC 2018: No link for: spark.route.HttpMethodTest-testSupportedHttpMethod
+Wed May 16 05:05:28 UTC 2018: None match not added in database because it already exists
+Wed May 16 05:05:28 UTC 2018: Linking done for manar-amri__spark test class spark.route.HttpMethodTest
+Wed May 16 05:05:29 UTC 2018: Found element on the queue
+Wed May 16 05:05:29 UTC 2018: Updating status
+Wed May 16 05:05:29 UTC 2018: Working
+Wed May 16 05:05:31 UTC 2018: Start manar-amri__spark test class spark.route.RoutesTest
+Wed May 16 05:05:31 UTC 2018: Setting lastTestMethodIndex: 62629
+Wed May 16 05:05:31 UTC 2018: Starting linking
+Wed May 16 05:05:31 UTC 2018: Code found spark.route.Routes-add with spark.route.RoutesTest-testParseValidateAddRoute_whenHttpMethodIsInvalid_thenDoNotAddRoute
+Wed May 16 05:05:31 UTC 2018: Code found spark.route.Routes-add with spark.route.RoutesTest-testParseValidateAddRoute_whenHttpMethodIsValid_thenAddRoute
+Wed May 16 05:05:32 UTC 2018: Linking done for manar-amri__spark test class spark.route.RoutesTest
+Wed May 16 05:05:32 UTC 2018: Found element on the queue
+Wed May 16 05:05:32 UTC 2018: Updating status
+Wed May 16 05:05:32 UTC 2018: Working
+Wed May 16 05:05:35 UTC 2018: Start manar-amri__spark test class spark.route.RouteEntryTest
+Wed May 16 05:05:35 UTC 2018: Setting lastTestMethodIndex: 62630
+Wed May 16 05:05:35 UTC 2018: Starting linking
+Wed May 16 05:05:35 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_BeforeAndAllPaths
+Wed May 16 05:05:35 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_AfterAndAllPaths
+Wed May 16 05:05:35 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_WithWildcardOnEntryPath
+Wed May 16 05:05:36 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_MatchingPaths
+Wed May 16 05:05:36 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_PathDoesNotEndInSlash
+Wed May 16 05:05:36 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_PathsDoNotMatch
+Wed May 16 05:05:37 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_RouteDoesNotEndWithSlash
+Wed May 16 05:05:37 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_NotAllPathsAndDidNotMatchHttpMethod
+Wed May 16 05:05:37 UTC 2018: Code found spark.route.RouteEntry-matches with spark.route.RouteEntryTest-testMatches_longRoutePathWildcard
+Wed May 16 05:05:38 UTC 2018: Linking done for manar-amri__spark test class spark.route.RouteEntryTest

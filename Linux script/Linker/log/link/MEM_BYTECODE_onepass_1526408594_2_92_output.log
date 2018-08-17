@@ -1,0 +1,948 @@
+Wed May 16 06:58:39 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:58:39 UTC 2018: Starting
+Wed May 16 06:58:39 UTC 2018: Found element on the queue
+Wed May 16 06:58:39 UTC 2018: Updating status
+Wed May 16 06:58:39 UTC 2018: Working
+Wed May 16 06:58:39 UTC 2018: Create project parser
+Wed May 16 06:58:53 UTC 2018: Create slicer
+Wed May 16 06:58:58 UTC 2018: Create call graph
+Wed May 16 06:59:07 UTC 2018: Create point analysis
+Wed May 16 06:59:07 UTC 2018: Create call graph done
+Wed May 16 06:59:07 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.JmsQueueTransactionTest
+Wed May 16 06:59:07 UTC 2018: Setting lastTestMethodIndex: 65914
+Wed May 16 06:59:07 UTC 2018: Starting linking
+Wed May 16 06:59:07 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.JmsQueueTransactionTest
+Wed May 16 06:59:07 UTC 2018: Found element on the queue
+Wed May 16 06:59:07 UTC 2018: Updating status
+Wed May 16 06:59:07 UTC 2018: Working
+Wed May 16 06:59:09 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.broker.LinkStealingTest
+Wed May 16 06:59:09 UTC 2018: Setting lastTestMethodIndex: 65915
+Wed May 16 06:59:09 UTC 2018: Starting linking
+Wed May 16 06:59:09 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.broker.LinkStealingTest
+Wed May 16 06:59:10 UTC 2018: Found element on the queue
+Wed May 16 06:59:10 UTC 2018: Updating status
+Wed May 16 06:59:10 UTC 2018: Working
+Wed May 16 06:59:12 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.broker.OpenwireConnectionTest
+Wed May 16 06:59:12 UTC 2018: Setting lastTestMethodIndex: 65916
+Wed May 16 06:59:12 UTC 2018: Starting linking
+Wed May 16 06:59:12 UTC 2018: No link for: org.apache.activemq.broker.OpenwireConnectionTest-testAMQ5050WithManualSpecifiedHost
+Wed May 16 06:59:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:13 UTC 2018: No link for: org.apache.activemq.broker.OpenwireConnectionTest-testAMQ5050DefaultHost
+Wed May 16 06:59:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:13 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.broker.OpenwireConnectionTest
+Wed May 16 06:59:13 UTC 2018: Found element on the queue
+Wed May 16 06:59:13 UTC 2018: Updating status
+Wed May 16 06:59:13 UTC 2018: Working
+Wed May 16 06:59:16 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.broker.interceptor.MessageInterceptorTest
+Wed May 16 06:59:16 UTC 2018: Setting lastTestMethodIndex: 65918
+Wed May 16 06:59:16 UTC 2018: Starting linking
+Wed May 16 06:59:16 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.broker.interceptor.MessageInterceptorTest
+Wed May 16 06:59:17 UTC 2018: Found element on the queue
+Wed May 16 06:59:17 UTC 2018: Updating status
+Wed May 16 06:59:17 UTC 2018: Working
+Wed May 16 06:59:19 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.broker.view.BrokerDestinationViewTest
+Wed May 16 06:59:19 UTC 2018: Setting lastTestMethodIndex: 65920
+Wed May 16 06:59:19 UTC 2018: Starting linking
+Wed May 16 06:59:19 UTC 2018: No link for: org.apache.activemq.broker.view.BrokerDestinationViewTest-testBrokerDestinationView
+Wed May 16 06:59:20 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:20 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.broker.view.BrokerDestinationViewTest
+Wed May 16 06:59:20 UTC 2018: Found element on the queue
+Wed May 16 06:59:20 UTC 2018: Updating status
+Wed May 16 06:59:20 UTC 2018: Working
+Wed May 16 06:59:20 UTC 2018: Create project parser
+Wed May 16 06:59:46 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ActiveMQMessageAuditNotSyncTest
+Wed May 16 06:59:46 UTC 2018: Setting lastTestMethodIndex: 65926
+Wed May 16 06:59:46 UTC 2018: Starting linking
+Wed May 16 06:59:46 UTC 2018: No link for: org.apache.activemq.ActiveMQMessageAuditNotSyncTest-testAuditDepth
+Wed May 16 06:59:46 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:46 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ActiveMQMessageAuditNotSyncTest
+Wed May 16 06:59:47 UTC 2018: Found element on the queue
+Wed May 16 06:59:47 UTC 2018: Updating status
+Wed May 16 06:59:47 UTC 2018: Working
+Wed May 16 06:59:49 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.broker.scheduler.CronParserTest
+Wed May 16 06:59:49 UTC 2018: Setting lastTestMethodIndex: 65927
+Wed May 16 06:59:49 UTC 2018: Starting linking
+Wed May 16 06:59:49 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-validate with org.apache.activemq.broker.scheduler.CronParserTest-testValidate
+Wed May 16 06:59:49 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:59:49 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-getNext with org.apache.activemq.broker.scheduler.CronParserTest-testGetNextExact
+Wed May 16 06:59:50 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:59:50 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-tokenize with org.apache.activemq.broker.scheduler.CronParserTest-testTokenize
+Wed May 16 06:59:50 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:59:50 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-getNext with org.apache.activemq.broker.scheduler.CronParserTest-testGetNextRange
+Wed May 16 06:59:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:59:51 UTC 2018: Code found org.apache.activemq.broker.scheduler.CronParser-getNext with org.apache.activemq.broker.scheduler.CronParserTest-testGetNextCommaSeparated
+Wed May 16 06:59:51 UTC 2018: Match not added in database because it already exists
+Wed May 16 06:59:51 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeMonthVariant
+Wed May 16 06:59:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:51 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeDayOfWeek
+Wed May 16 06:59:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:52 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeMonth
+Wed May 16 06:59:52 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:52 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeDayOfWeekVariant
+Wed May 16 06:59:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:53 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeHours
+Wed May 16 06:59:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:53 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeHoursZeroMin
+Wed May 16 06:59:53 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:53 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeDays
+Wed May 16 06:59:54 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:54 UTC 2018: No link for: org.apache.activemq.broker.scheduler.CronParserTest-testgetNextTimeMinutes
+Wed May 16 06:59:54 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.broker.scheduler.CronParserTest
+Wed May 16 06:59:54 UTC 2018: Found element on the queue
+Wed May 16 06:59:54 UTC 2018: Updating status
+Wed May 16 06:59:55 UTC 2018: Working
+Wed May 16 06:59:57 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.state.ConnectionStateTrackerTest
+Wed May 16 06:59:57 UTC 2018: Setting lastTestMethodIndex: 65928
+Wed May 16 06:59:57 UTC 2018: Starting linking
+Wed May 16 06:59:57 UTC 2018: No link for: org.apache.activemq.state.ConnectionStateTrackerTest-testCacheSizeWithMessagePulls
+Wed May 16 06:59:57 UTC 2018: None match not added in database because it already exists
+Wed May 16 06:59:57 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.state.ConnectionStateTrackerTest
+Wed May 16 06:59:58 UTC 2018: Found element on the queue
+Wed May 16 06:59:58 UTC 2018: Updating status
+Wed May 16 06:59:58 UTC 2018: Working
+Wed May 16 07:00:00 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.thread.PooledTaskRunnerTest
+Wed May 16 07:00:00 UTC 2018: Setting lastTestMethodIndex: 65930
+Wed May 16 07:00:00 UTC 2018: Starting linking
+Wed May 16 07:00:00 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.thread.PooledTaskRunnerTest
+Wed May 16 07:00:01 UTC 2018: Found element on the queue
+Wed May 16 07:00:01 UTC 2018: Updating status
+Wed May 16 07:00:01 UTC 2018: Working
+Wed May 16 07:00:04 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.thread.TaskRunnerTest
+Wed May 16 07:00:04 UTC 2018: Setting lastTestMethodIndex: 65931
+Wed May 16 07:00:04 UTC 2018: Starting linking
+Wed May 16 07:00:04 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.thread.TaskRunnerTest
+Wed May 16 07:00:04 UTC 2018: Found element on the queue
+Wed May 16 07:00:04 UTC 2018: Updating status
+Wed May 16 07:00:04 UTC 2018: Working
+Wed May 16 07:00:07 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.usage.MemoryUsageConcurrencyTest
+Wed May 16 07:00:07 UTC 2018: Setting lastTestMethodIndex: 65933
+Wed May 16 07:00:07 UTC 2018: Starting linking
+Wed May 16 07:00:07 UTC 2018: No link for: org.apache.activemq.usage.MemoryUsageConcurrencyTest-testCycle
+Wed May 16 07:00:07 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:00:07 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.usage.MemoryUsageConcurrencyTest
+Wed May 16 07:00:08 UTC 2018: Found element on the queue
+Wed May 16 07:00:08 UTC 2018: Updating status
+Wed May 16 07:00:08 UTC 2018: Working
+Wed May 16 07:00:12 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.usage.MemoryUsageTest
+Wed May 16 07:00:12 UTC 2018: Setting lastTestMethodIndex: 65934
+Wed May 16 07:00:12 UTC 2018: Starting linking
+Wed May 16 07:00:12 UTC 2018: Code found org.apache.activemq.usage.MemoryUsage-addUsageListener with org.apache.activemq.usage.MemoryUsageTest-testAddUsageListenerStartsThread
+Wed May 16 07:00:12 UTC 2018: Match not added in database because it already exists
+Wed May 16 07:00:12 UTC 2018: No link for: org.apache.activemq.usage.MemoryUsageTest-testPercentOfJvmHeap
+Wed May 16 07:00:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:00:13 UTC 2018: No link for: org.apache.activemq.usage.MemoryUsageTest-testPercentUsageNeedsNoThread
+Wed May 16 07:00:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:00:13 UTC 2018: No link for: org.apache.activemq.usage.MemoryUsageTest-testParentPortion
+Wed May 16 07:00:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:00:14 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.usage.MemoryUsageTest
+Wed May 16 07:00:14 UTC 2018: Found element on the queue
+Wed May 16 07:00:14 UTC 2018: Updating status
+Wed May 16 07:00:14 UTC 2018: Working
+Wed May 16 07:00:17 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.BitArrayBinTest
+Wed May 16 07:00:17 UTC 2018: Setting lastTestMethodIndex: 65935
+Wed May 16 07:00:17 UTC 2018: Starting linking
+Wed May 16 07:00:17 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.BitArrayBinTest
+Wed May 16 07:00:18 UTC 2018: Found element on the queue
+Wed May 16 07:00:18 UTC 2018: Updating status
+Wed May 16 07:00:18 UTC 2018: Working
+Wed May 16 07:00:20 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.DataByteArrayInputStreamTest
+Wed May 16 07:00:20 UTC 2018: Setting lastTestMethodIndex: 65937
+Wed May 16 07:00:20 UTC 2018: Starting linking
+Wed May 16 07:00:20 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.DataByteArrayInputStreamTest
+Wed May 16 07:00:21 UTC 2018: Found element on the queue
+Wed May 16 07:00:21 UTC 2018: Updating status
+Wed May 16 07:00:21 UTC 2018: Working
+Wed May 16 07:00:24 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.DataByteArrayOutputStreamTest
+Wed May 16 07:00:24 UTC 2018: Setting lastTestMethodIndex: 65938
+Wed May 16 07:00:24 UTC 2018: Starting linking
+Wed May 16 07:00:24 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.DataByteArrayOutputStreamTest
+Wed May 16 07:00:24 UTC 2018: Found element on the queue
+Wed May 16 07:00:24 UTC 2018: Updating status
+Wed May 16 07:00:24 UTC 2018: Working
+Wed May 16 07:00:27 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.IdGeneratorTest
+Wed May 16 07:00:27 UTC 2018: Setting lastTestMethodIndex: 65939
+Wed May 16 07:00:27 UTC 2018: Starting linking
+Wed May 16 07:00:27 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.IdGeneratorTest
+Wed May 16 07:00:27 UTC 2018: Found element on the queue
+Wed May 16 07:00:27 UTC 2018: Updating status
+Wed May 16 07:00:27 UTC 2018: Working
+Wed May 16 07:00:30 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.IntrospectionSupportTest
+Wed May 16 07:00:30 UTC 2018: Setting lastTestMethodIndex: 65941
+Wed May 16 07:00:30 UTC 2018: Starting linking
+Wed May 16 07:00:30 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.IntrospectionSupportTest
+Wed May 16 07:00:30 UTC 2018: Found element on the queue
+Wed May 16 07:00:30 UTC 2018: Updating status
+Wed May 16 07:00:30 UTC 2018: Working
+Wed May 16 07:00:33 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.LRUCacheTest
+Wed May 16 07:00:33 UTC 2018: Setting lastTestMethodIndex: 65943
+Wed May 16 07:00:33 UTC 2018: Starting linking
+Wed May 16 07:00:33 UTC 2018: No code found org.apache.activemq.util.LRUCache-size with org.apache.activemq.util.LRUCacheTest-testResize
+Wed May 16 07:00:33 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.LRUCacheTest
+Wed May 16 07:00:34 UTC 2018: Found element on the queue
+Wed May 16 07:00:34 UTC 2018: Updating status
+Wed May 16 07:00:34 UTC 2018: Working
+Wed May 16 07:00:36 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.MarshallingSupportTest
+Wed May 16 07:00:36 UTC 2018: Setting lastTestMethodIndex: 65945
+Wed May 16 07:00:36 UTC 2018: Starting linking
+Wed May 16 07:00:36 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.MarshallingSupportTest
+Wed May 16 07:00:37 UTC 2018: Found element on the queue
+Wed May 16 07:00:37 UTC 2018: Updating status
+Wed May 16 07:00:37 UTC 2018: Working
+Wed May 16 07:00:39 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.StopWatchTest
+Wed May 16 07:00:40 UTC 2018: Setting lastTestMethodIndex: 65946
+Wed May 16 07:00:40 UTC 2018: Starting linking
+Wed May 16 07:00:40 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.StopWatchTest
+Wed May 16 07:00:40 UTC 2018: Found element on the queue
+Wed May 16 07:00:40 UTC 2018: Updating status
+Wed May 16 07:00:40 UTC 2018: Working
+Wed May 16 07:00:43 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.StringArrayConverterTest
+Wed May 16 07:00:43 UTC 2018: Setting lastTestMethodIndex: 65947
+Wed May 16 07:00:43 UTC 2018: Starting linking
+Wed May 16 07:00:43 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.StringArrayConverterTest
+Wed May 16 07:00:43 UTC 2018: Found element on the queue
+Wed May 16 07:00:43 UTC 2018: Updating status
+Wed May 16 07:00:43 UTC 2018: Working
+Wed May 16 07:00:46 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.StringToListOfActiveMQDestinationConverterTest
+Wed May 16 07:00:46 UTC 2018: Setting lastTestMethodIndex: 65948
+Wed May 16 07:00:46 UTC 2018: Starting linking
+Wed May 16 07:00:46 UTC 2018: Code found org.apache.activemq.util.StringToListOfActiveMQDestinationConverter-convertFromActiveMQDestination with org.apache.activemq.util.StringToListOfActiveMQDestinationConverterTest-testConvertFromActiveMQDestination
+Wed May 16 07:00:46 UTC 2018: Match not added in database because it already exists
+Wed May 16 07:00:46 UTC 2018: Code found org.apache.activemq.util.StringToListOfActiveMQDestinationConverter-convertToActiveMQDestination with org.apache.activemq.util.StringToListOfActiveMQDestinationConverterTest-testConvertToActiveMQDestination
+Wed May 16 07:00:47 UTC 2018: Match not added in database because it already exists
+Wed May 16 07:00:47 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.StringToListOfActiveMQDestinationConverterTest
+Wed May 16 07:00:47 UTC 2018: Found element on the queue
+Wed May 16 07:00:47 UTC 2018: Updating status
+Wed May 16 07:00:47 UTC 2018: Working
+Wed May 16 07:00:49 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.util.URISupportTest
+Wed May 16 07:00:49 UTC 2018: Setting lastTestMethodIndex: 65949
+Wed May 16 07:00:49 UTC 2018: Starting linking
+Wed May 16 07:00:49 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.util.URISupportTest
+Wed May 16 07:00:50 UTC 2018: Found element on the queue
+Wed May 16 07:00:50 UTC 2018: Updating status
+Wed May 16 07:00:50 UTC 2018: Working
+Wed May 16 07:00:50 UTC 2018: Create project parser
+Wed May 16 07:00:52 UTC 2018: Found element on the queue
+Wed May 16 07:00:52 UTC 2018: Updating status
+Wed May 16 07:00:52 UTC 2018: Working
+Wed May 16 07:00:52 UTC 2018: Create project parser
+Wed May 16 07:00:55 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jaas.UserPrincipalTest
+Wed May 16 07:00:55 UTC 2018: Setting lastTestMethodIndex: 65950
+Wed May 16 07:00:55 UTC 2018: Starting linking
+Wed May 16 07:00:55 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jaas.UserPrincipalTest
+Wed May 16 07:00:56 UTC 2018: Found element on the queue
+Wed May 16 07:00:56 UTC 2018: Updating status
+Wed May 16 07:00:56 UTC 2018: Working
+Wed May 16 07:00:58 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jaas.GroupPrincipalTest
+Wed May 16 07:00:58 UTC 2018: Setting lastTestMethodIndex: 65951
+Wed May 16 07:00:58 UTC 2018: Starting linking
+Wed May 16 07:00:58 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jaas.GroupPrincipalTest
+Wed May 16 07:00:59 UTC 2018: Found element on the queue
+Wed May 16 07:00:59 UTC 2018: Updating status
+Wed May 16 07:00:59 UTC 2018: Working
+Wed May 16 07:01:01 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jaas.LDAPModuleRoleExpansionTest
+Wed May 16 07:01:01 UTC 2018: Setting lastTestMethodIndex: 65952
+Wed May 16 07:01:01 UTC 2018: Starting linking
+Wed May 16 07:01:01 UTC 2018: No link for: org.apache.activemq.jaas.LDAPModuleRoleExpansionTest-testRunning
+Wed May 16 07:01:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:01:02 UTC 2018: No link for: org.apache.activemq.jaas.LDAPModuleRoleExpansionTest-testRoleExpansion
+Wed May 16 07:01:02 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:01:02 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jaas.LDAPModuleRoleExpansionTest
+Wed May 16 07:01:02 UTC 2018: Found element on the queue
+Wed May 16 07:01:02 UTC 2018: Updating status
+Wed May 16 07:01:02 UTC 2018: Working
+Wed May 16 07:01:05 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jaas.CertificateLoginModuleTest
+Wed May 16 07:01:05 UTC 2018: Setting lastTestMethodIndex: 65953
+Wed May 16 07:01:05 UTC 2018: Starting linking
+Wed May 16 07:01:05 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jaas.CertificateLoginModuleTest
+Wed May 16 07:01:06 UTC 2018: Found element on the queue
+Wed May 16 07:01:06 UTC 2018: Updating status
+Wed May 16 07:01:06 UTC 2018: Working
+Wed May 16 07:01:08 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jaas.GuestLoginModuleTest
+Wed May 16 07:01:08 UTC 2018: Setting lastTestMethodIndex: 65955
+Wed May 16 07:01:08 UTC 2018: Starting linking
+Wed May 16 07:01:08 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jaas.GuestLoginModuleTest
+Wed May 16 07:01:09 UTC 2018: Found element on the queue
+Wed May 16 07:01:09 UTC 2018: Updating status
+Wed May 16 07:01:09 UTC 2018: Working
+Wed May 16 07:01:11 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jaas.LDAPLoginModuleTest
+Wed May 16 07:01:11 UTC 2018: Setting lastTestMethodIndex: 65956
+Wed May 16 07:01:11 UTC 2018: Starting linking
+Wed May 16 07:01:11 UTC 2018: No link for: org.apache.activemq.jaas.LDAPLoginModuleTest-testRunning
+Wed May 16 07:01:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:01:12 UTC 2018: No link for: org.apache.activemq.jaas.LDAPLoginModuleTest-testLogin
+Wed May 16 07:01:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:01:12 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jaas.LDAPLoginModuleTest
+Wed May 16 07:01:13 UTC 2018: Found element on the queue
+Wed May 16 07:01:13 UTC 2018: Updating status
+Wed May 16 07:01:13 UTC 2018: Working
+Wed May 16 07:01:15 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jaas.PropertiesLoginModuleRaceConditionTest
+Wed May 16 07:01:15 UTC 2018: Setting lastTestMethodIndex: 65958
+Wed May 16 07:01:15 UTC 2018: Starting linking
+Wed May 16 07:01:15 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jaas.PropertiesLoginModuleRaceConditionTest
+Wed May 16 07:01:16 UTC 2018: Found element on the queue
+Wed May 16 07:01:16 UTC 2018: Updating status
+Wed May 16 07:01:16 UTC 2018: Working
+Wed May 16 07:01:18 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jaas.PropertiesLoginModuleTest
+Wed May 16 07:01:18 UTC 2018: Setting lastTestMethodIndex: 65960
+Wed May 16 07:01:18 UTC 2018: Starting linking
+Wed May 16 07:01:18 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jaas.PropertiesLoginModuleTest
+Wed May 16 07:01:19 UTC 2018: Found element on the queue
+Wed May 16 07:01:19 UTC 2018: Updating status
+Wed May 16 07:01:19 UTC 2018: Working
+Wed May 16 07:01:19 UTC 2018: Create project parser
+Wed May 16 07:01:22 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionTest
+Wed May 16 07:01:22 UTC 2018: Setting lastTestMethodIndex: 65962
+Wed May 16 07:01:22 UTC 2018: Starting linking
+Wed May 16 07:01:22 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionTest
+Wed May 16 07:01:23 UTC 2018: Found element on the queue
+Wed May 16 07:01:23 UTC 2018: Updating status
+Wed May 16 07:01:23 UTC 2018: Working
+Wed May 16 07:01:25 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.ConnectionExpiryEvictsFromPoolTest
+Wed May 16 07:01:25 UTC 2018: Setting lastTestMethodIndex: 65964
+Wed May 16 07:01:25 UTC 2018: Starting linking
+Wed May 16 07:01:25 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.ConnectionExpiryEvictsFromPoolTest
+Wed May 16 07:01:26 UTC 2018: Found element on the queue
+Wed May 16 07:01:26 UTC 2018: Updating status
+Wed May 16 07:01:26 UTC 2018: Working
+Wed May 16 07:01:28 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionFactoryTest
+Wed May 16 07:01:28 UTC 2018: Setting lastTestMethodIndex: 65965
+Wed May 16 07:01:28 UTC 2018: Starting linking
+Wed May 16 07:01:28 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionFactoryTest
+Wed May 16 07:01:29 UTC 2018: Found element on the queue
+Wed May 16 07:01:29 UTC 2018: Updating status
+Wed May 16 07:01:29 UTC 2018: Working
+Wed May 16 07:01:31 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionTempDestCleanupTest
+Wed May 16 07:01:31 UTC 2018: Setting lastTestMethodIndex: 65966
+Wed May 16 07:01:31 UTC 2018: Starting linking
+Wed May 16 07:01:31 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledConnectionTempDestCleanupTest-testPooledTempDestsCleanupOverzealous
+Wed May 16 07:01:32 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledConnectionTempDestCleanupTest-testDirectLingeringTempDests
+Wed May 16 07:01:32 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledConnectionTempDestCleanupTest-testPooledLingeringTempDests
+Wed May 16 07:01:33 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionTempDestCleanupTest
+Wed May 16 07:01:33 UTC 2018: Found element on the queue
+Wed May 16 07:01:33 UTC 2018: Updating status
+Wed May 16 07:01:33 UTC 2018: Working
+Wed May 16 07:01:36 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledSessionExhaustionTest
+Wed May 16 07:01:36 UTC 2018: Setting lastTestMethodIndex: 65968
+Wed May 16 07:01:36 UTC 2018: Starting linking
+Wed May 16 07:01:36 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledSessionExhaustionTest
+Wed May 16 07:01:36 UTC 2018: Found element on the queue
+Wed May 16 07:01:36 UTC 2018: Updating status
+Wed May 16 07:01:36 UTC 2018: Working
+Wed May 16 07:01:39 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionFactoryMaximumActiveTest
+Wed May 16 07:01:39 UTC 2018: Setting lastTestMethodIndex: 65969
+Wed May 16 07:01:39 UTC 2018: Starting linking
+Wed May 16 07:01:39 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionFactoryMaximumActiveTest
+Wed May 16 07:01:39 UTC 2018: Found element on the queue
+Wed May 16 07:01:39 UTC 2018: Updating status
+Wed May 16 07:01:39 UTC 2018: Working
+Wed May 16 07:01:42 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionFactoryWithTemporaryDestinationsTest
+Wed May 16 07:01:42 UTC 2018: Setting lastTestMethodIndex: 65970
+Wed May 16 07:01:42 UTC 2018: Starting linking
+Wed May 16 07:01:42 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionFactoryWithTemporaryDestinationsTest
+Wed May 16 07:01:42 UTC 2018: Found element on the queue
+Wed May 16 07:01:42 UTC 2018: Updating status
+Wed May 16 07:01:42 UTC 2018: Working
+Wed May 16 07:01:44 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionSessionCleanupTest
+Wed May 16 07:01:44 UTC 2018: Setting lastTestMethodIndex: 65971
+Wed May 16 07:01:44 UTC 2018: Starting linking
+Wed May 16 07:01:45 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledConnectionSessionCleanupTest-testLingeringPooledSessionsHoldingPrefetchedMessages
+Wed May 16 07:01:45 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledConnectionSessionCleanupTest-testNonPooledConnectionCloseNotHoldingPrefetchedMessages
+Wed May 16 07:01:45 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledConnectionSessionCleanupTest
+Wed May 16 07:01:46 UTC 2018: Found element on the queue
+Wed May 16 07:01:46 UTC 2018: Updating status
+Wed May 16 07:01:46 UTC 2018: Working
+Wed May 16 07:01:48 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledSessionNoPublisherCachingTest
+Wed May 16 07:01:48 UTC 2018: Setting lastTestMethodIndex: 65972
+Wed May 16 07:01:48 UTC 2018: Starting linking
+Wed May 16 07:01:48 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionNoPublisherCachingTest-testQueueSender
+Wed May 16 07:01:49 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionNoPublisherCachingTest-testCreateTopicPublisher
+Wed May 16 07:01:49 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionNoPublisherCachingTest-testMessageProducersAreUnique
+Wed May 16 07:01:50 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionNoPublisherCachingTest-testThrowsWhenDestinationGiven
+Wed May 16 07:01:50 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledSessionNoPublisherCachingTest
+Wed May 16 07:01:51 UTC 2018: Found element on the queue
+Wed May 16 07:01:51 UTC 2018: Updating status
+Wed May 16 07:01:51 UTC 2018: Working
+Wed May 16 07:01:53 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.XAConnectionPoolTest
+Wed May 16 07:01:53 UTC 2018: Setting lastTestMethodIndex: 65975
+Wed May 16 07:01:53 UTC 2018: Starting linking
+Wed May 16 07:01:53 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.XAConnectionPoolTest
+Wed May 16 07:01:54 UTC 2018: Found element on the queue
+Wed May 16 07:01:54 UTC 2018: Updating status
+Wed May 16 07:01:54 UTC 2018: Working
+Wed May 16 07:01:56 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledTopicPublisherTest
+Wed May 16 07:01:56 UTC 2018: Setting lastTestMethodIndex: 65976
+Wed May 16 07:01:56 UTC 2018: Starting linking
+Wed May 16 07:01:56 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledTopicPublisherTest
+Wed May 16 07:01:57 UTC 2018: Found element on the queue
+Wed May 16 07:01:57 UTC 2018: Updating status
+Wed May 16 07:01:57 UTC 2018: Working
+Wed May 16 07:01:59 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledSessionTest
+Wed May 16 07:01:59 UTC 2018: Setting lastTestMethodIndex: 65978
+Wed May 16 07:01:59 UTC 2018: Starting linking
+Wed May 16 07:01:59 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionTest-testQueueSender
+Wed May 16 07:02:00 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionTest-testCreateTopicPublisher
+Wed May 16 07:02:00 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionTest-testPooledSessionStats
+Wed May 16 07:02:00 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionTest-testMessageProducersAreAllTheSame
+Wed May 16 07:02:01 UTC 2018: No link for: org.apache.activemq.jms.pool.PooledSessionTest-testThrowsWhenDifferentDestinationGiven
+Wed May 16 07:02:01 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.PooledSessionTest
+Wed May 16 07:02:02 UTC 2018: Found element on the queue
+Wed May 16 07:02:02 UTC 2018: Updating status
+Wed May 16 07:02:02 UTC 2018: Working
+Wed May 16 07:02:04 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.bugs.AMQ4441Test
+Wed May 16 07:02:04 UTC 2018: Setting lastTestMethodIndex: 65980
+Wed May 16 07:02:04 UTC 2018: Starting linking
+Wed May 16 07:02:04 UTC 2018: No link for: org.apache.activemq.jms.pool.bugs.AMQ4441Test-demo
+Wed May 16 07:02:05 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.jms.pool.bugs.AMQ4441Test
+Wed May 16 07:02:05 UTC 2018: Found element on the queue
+Wed May 16 07:02:05 UTC 2018: Updating status
+Wed May 16 07:02:05 UTC 2018: Working
+Wed May 16 07:02:05 UTC 2018: Create project parser
+Wed May 16 07:02:10 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest
+Wed May 16 07:02:10 UTC 2018: Setting lastTestMethodIndex: 65982
+Wed May 16 07:02:10 UTC 2018: Starting linking
+Wed May 16 07:02:10 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testVisitor
+Wed May 16 07:02:11 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:11 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testRandomAddRemove
+Wed May 16 07:02:11 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testLargeValueOverflow
+Wed May 16 07:02:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:12 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testIteration
+Wed May 16 07:02:12 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:12 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testRemovePattern
+Wed May 16 07:02:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:13 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testLargeValue
+Wed May 16 07:02:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:13 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testListIndexConsistancyOverTime
+Wed May 16 07:02:13 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:13 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testIndexRepeatFillClearIncrementingPageReuse
+Wed May 16 07:02:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:14 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testPruning
+Wed May 16 07:02:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:14 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest-testRandomRemove
+Wed May 16 07:02:14 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:14 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.index.BTreeIndexTest
+Wed May 16 07:02:15 UTC 2018: Found element on the queue
+Wed May 16 07:02:15 UTC 2018: Updating status
+Wed May 16 07:02:15 UTC 2018: Working
+Wed May 16 07:02:17 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.index.HashIndexTest
+Wed May 16 07:02:17 UTC 2018: Setting lastTestMethodIndex: 65984
+Wed May 16 07:02:17 UTC 2018: Starting linking
+Wed May 16 07:02:17 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.index.HashIndexTest
+Wed May 16 07:02:18 UTC 2018: Found element on the queue
+Wed May 16 07:02:18 UTC 2018: Updating status
+Wed May 16 07:02:18 UTC 2018: Working
+Wed May 16 07:02:20 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.index.ListIndexTest
+Wed May 16 07:02:20 UTC 2018: Setting lastTestMethodIndex: 65985
+Wed May 16 07:02:20 UTC 2018: Starting linking
+Wed May 16 07:02:20 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testPut
+Wed May 16 07:02:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:21 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testListIndexConsistencyOverTime
+Wed May 16 07:02:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:21 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testRemovePattern
+Wed May 16 07:02:21 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:21 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testIterationAddFirst
+Wed May 16 07:02:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:22 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testLargeAppendRemoveTimed
+Wed May 16 07:02:22 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:22 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testListLargeDataAddAndNonSequentialRemove
+Wed May 16 07:02:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:23 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testAddFirst
+Wed May 16 07:02:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:23 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testPruning
+Wed May 16 07:02:23 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:23 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testListLargeDataAddWithReverseRemove
+Wed May 16 07:02:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:24 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testSize
+Wed May 16 07:02:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:24 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testIteration
+Wed May 16 07:02:24 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:24 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testLargeValueOverflow
+Wed May 16 07:02:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:25 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.index.ListIndexTest-testRandomRemove
+Wed May 16 07:02:25 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:25 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.index.ListIndexTest
+Wed May 16 07:02:26 UTC 2018: Found element on the queue
+Wed May 16 07:02:26 UTC 2018: Updating status
+Wed May 16 07:02:26 UTC 2018: Working
+Wed May 16 07:02:28 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.journal.JournalTest
+Wed May 16 07:02:28 UTC 2018: Setting lastTestMethodIndex: 65987
+Wed May 16 07:02:28 UTC 2018: Starting linking
+Wed May 16 07:02:28 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.journal.JournalTest
+Wed May 16 07:02:28 UTC 2018: Found element on the queue
+Wed May 16 07:02:28 UTC 2018: Updating status
+Wed May 16 07:02:28 UTC 2018: Working
+Wed May 16 07:02:31 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.page.PageFileTest
+Wed May 16 07:02:31 UTC 2018: Setting lastTestMethodIndex: 65988
+Wed May 16 07:02:31 UTC 2018: Starting linking
+Wed May 16 07:02:31 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.page.PageFileTest
+Wed May 16 07:02:31 UTC 2018: Found element on the queue
+Wed May 16 07:02:31 UTC 2018: Updating status
+Wed May 16 07:02:31 UTC 2018: Working
+Wed May 16 07:02:34 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.util.SequenceSetTest
+Wed May 16 07:02:34 UTC 2018: Setting lastTestMethodIndex: 65990
+Wed May 16 07:02:34 UTC 2018: Starting linking
+Wed May 16 07:02:34 UTC 2018: Code found org.apache.activemq.store.kahadb.disk.util.LinkedNodeList-clear with org.apache.activemq.store.kahadb.disk.util.SequenceSetTest-testClear
+Wed May 16 07:02:34 UTC 2018: Match not added in database because it already exists
+Wed May 16 07:02:34 UTC 2018: Code found org.apache.activemq.store.kahadb.disk.util.LinkedNodeList-isEmpty with org.apache.activemq.store.kahadb.disk.util.SequenceSetTest-testIsEmpty
+Wed May 16 07:02:35 UTC 2018: Match not added in database because it already exists
+Wed May 16 07:02:35 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.util.SequenceSetTest-testContains
+Wed May 16 07:02:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:35 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.util.SequenceSetTest-testRangeSize
+Wed May 16 07:02:35 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:35 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.util.SequenceSetTest-testIteratorEmptySequenceSet
+Wed May 16 07:02:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:36 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.util.SequenceSetTest-testRemove
+Wed May 16 07:02:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:36 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.util.SequenceSetTest-testAddLong
+Wed May 16 07:02:36 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:36 UTC 2018: No link for: org.apache.activemq.store.kahadb.disk.util.SequenceSetTest-testIterator
+Wed May 16 07:02:37 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:37 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.disk.util.SequenceSetTest
+Wed May 16 07:02:37 UTC 2018: Found element on the queue
+Wed May 16 07:02:37 UTC 2018: Updating status
+Wed May 16 07:02:37 UTC 2018: Working
+Wed May 16 07:02:40 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.plist.PListImplTest
+Wed May 16 07:02:40 UTC 2018: Setting lastTestMethodIndex: 65991
+Wed May 16 07:02:40 UTC 2018: Starting linking
+Wed May 16 07:02:40 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.store.kahadb.plist.PListImplTest
+Wed May 16 07:02:40 UTC 2018: Found element on the queue
+Wed May 16 07:02:40 UTC 2018: Updating status
+Wed May 16 07:02:40 UTC 2018: Working
+Wed May 16 07:02:40 UTC 2018: Create project parser
+Wed May 16 07:02:40 UTC 2018: Found element on the queue
+Wed May 16 07:02:40 UTC 2018: Updating status
+Wed May 16 07:02:40 UTC 2018: Working
+Wed May 16 07:02:40 UTC 2018: Create project parser
+Wed May 16 07:02:43 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.mqtt.MQTTNioTest
+Wed May 16 07:02:43 UTC 2018: Setting lastTestMethodIndex: 65993
+Wed May 16 07:02:43 UTC 2018: Starting linking
+Wed May 16 07:02:43 UTC 2018: No link for: org.apache.activemq.transport.mqtt.MQTTNioTest-testReceiveMessageSentWhileOffline
+Wed May 16 07:02:44 UTC 2018: No link for: org.apache.activemq.transport.mqtt.MQTTNioTest-testPingOnMQTTNIO
+Wed May 16 07:02:44 UTC 2018: No link for: org.apache.activemq.transport.mqtt.MQTTNioTest-testAnonymousUserConnect
+Wed May 16 07:02:45 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.mqtt.MQTTNioTest
+Wed May 16 07:02:45 UTC 2018: Found element on the queue
+Wed May 16 07:02:45 UTC 2018: Updating status
+Wed May 16 07:02:45 UTC 2018: Working
+Wed May 16 07:02:45 UTC 2018: Create project parser
+Wed May 16 07:02:48 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.pool.ConnectionFailureEvictsFromPoolTest
+Wed May 16 07:02:48 UTC 2018: Setting lastTestMethodIndex: 65996
+Wed May 16 07:02:48 UTC 2018: Starting linking
+Wed May 16 07:02:48 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.pool.ConnectionFailureEvictsFromPoolTest
+Wed May 16 07:02:48 UTC 2018: Found element on the queue
+Wed May 16 07:02:48 UTC 2018: Updating status
+Wed May 16 07:02:48 UTC 2018: Working
+Wed May 16 07:02:51 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.pool.ConfigFromPropsTest
+Wed May 16 07:02:51 UTC 2018: Setting lastTestMethodIndex: 65997
+Wed May 16 07:02:51 UTC 2018: Starting linking
+Wed May 16 07:02:51 UTC 2018: No link for: org.apache.activemq.pool.ConfigFromPropsTest-testBrokerUrlForRarAdminObject
+Wed May 16 07:02:51 UTC 2018: None match not added in database because it already exists
+Wed May 16 07:02:51 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.pool.ConfigFromPropsTest
+Wed May 16 07:02:51 UTC 2018: Found element on the queue
+Wed May 16 07:02:51 UTC 2018: Updating status
+Wed May 16 07:02:51 UTC 2018: Working
+Wed May 16 07:02:54 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.pool.XAConnectionPoolTest
+Wed May 16 07:02:54 UTC 2018: Setting lastTestMethodIndex: 65998
+Wed May 16 07:02:54 UTC 2018: Starting linking
+Wed May 16 07:02:54 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.pool.XAConnectionPoolTest
+Wed May 16 07:02:54 UTC 2018: Found element on the queue
+Wed May 16 07:02:54 UTC 2018: Updating status
+Wed May 16 07:02:54 UTC 2018: Working
+Wed May 16 07:02:54 UTC 2018: Create project parser
+Wed May 16 07:02:57 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.ServerSessionImplTest
+Wed May 16 07:02:57 UTC 2018: Setting lastTestMethodIndex: 65999
+Wed May 16 07:02:57 UTC 2018: Starting linking
+Wed May 16 07:02:57 UTC 2018: No link for: org.apache.activemq.ra.ServerSessionImplTest-testCloseCanStopActiveSession
+Wed May 16 07:02:58 UTC 2018: No link for: org.apache.activemq.ra.ServerSessionImplTest-testRunDetectsStoppedSession
+Wed May 16 07:02:58 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.ServerSessionImplTest
+Wed May 16 07:02:58 UTC 2018: Found element on the queue
+Wed May 16 07:02:58 UTC 2018: Updating status
+Wed May 16 07:02:58 UTC 2018: Working
+Wed May 16 07:03:01 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.JmsXARollback2CxTransactionTest
+Wed May 16 07:03:01 UTC 2018: Setting lastTestMethodIndex: 66000
+Wed May 16 07:03:01 UTC 2018: Starting linking
+Wed May 16 07:03:01 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.JmsXARollback2CxTransactionTest
+Wed May 16 07:03:01 UTC 2018: Found element on the queue
+Wed May 16 07:03:01 UTC 2018: Updating status
+Wed May 16 07:03:01 UTC 2018: Working
+Wed May 16 07:03:04 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.UnsubscribeResubscribeTest
+Wed May 16 07:03:04 UTC 2018: Setting lastTestMethodIndex: 66001
+Wed May 16 07:03:04 UTC 2018: Starting linking
+Wed May 16 07:03:04 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.UnsubscribeResubscribeTest
+Wed May 16 07:03:04 UTC 2018: Found element on the queue
+Wed May 16 07:03:04 UTC 2018: Updating status
+Wed May 16 07:03:04 UTC 2018: Working
+Wed May 16 07:03:07 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.FailoverManagedClusterTest
+Wed May 16 07:03:07 UTC 2018: Setting lastTestMethodIndex: 66002
+Wed May 16 07:03:07 UTC 2018: Starting linking
+Wed May 16 07:03:07 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.FailoverManagedClusterTest
+Wed May 16 07:03:07 UTC 2018: Found element on the queue
+Wed May 16 07:03:07 UTC 2018: Updating status
+Wed May 16 07:03:07 UTC 2018: Working
+Wed May 16 07:03:10 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.ActiveMQResourceAdapterJavaBeanEqualityTest
+Wed May 16 07:03:10 UTC 2018: Setting lastTestMethodIndex: 66003
+Wed May 16 07:03:10 UTC 2018: Starting linking
+Wed May 16 07:03:10 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.ActiveMQResourceAdapterJavaBeanEqualityTest
+Wed May 16 07:03:10 UTC 2018: Found element on the queue
+Wed May 16 07:03:10 UTC 2018: Updating status
+Wed May 16 07:03:10 UTC 2018: Working
+Wed May 16 07:03:13 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.ActiveMQActivationSpecTest
+Wed May 16 07:03:13 UTC 2018: Setting lastTestMethodIndex: 66005
+Wed May 16 07:03:13 UTC 2018: Starting linking
+Wed May 16 07:03:13 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.ActiveMQActivationSpecTest
+Wed May 16 07:03:13 UTC 2018: Found element on the queue
+Wed May 16 07:03:13 UTC 2018: Updating status
+Wed May 16 07:03:13 UTC 2018: Working
+Wed May 16 07:03:16 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.FailoverManagedConnectionTest
+Wed May 16 07:03:16 UTC 2018: Setting lastTestMethodIndex: 66006
+Wed May 16 07:03:16 UTC 2018: Starting linking
+Wed May 16 07:03:16 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.FailoverManagedConnectionTest
+Wed May 16 07:03:16 UTC 2018: Found element on the queue
+Wed May 16 07:03:16 UTC 2018: Updating status
+Wed May 16 07:03:16 UTC 2018: Working
+Wed May 16 07:03:18 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.ManagedConnectionTest
+Wed May 16 07:03:18 UTC 2018: Setting lastTestMethodIndex: 66007
+Wed May 16 07:03:18 UTC 2018: Starting linking
+Wed May 16 07:03:18 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.ManagedConnectionTest
+Wed May 16 07:03:19 UTC 2018: Found element on the queue
+Wed May 16 07:03:19 UTC 2018: Updating status
+Wed May 16 07:03:19 UTC 2018: Working
+Wed May 16 07:03:21 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.ActiveMQConnectionFactoryTest
+Wed May 16 07:03:21 UTC 2018: Setting lastTestMethodIndex: 66008
+Wed May 16 07:03:21 UTC 2018: Starting linking
+Wed May 16 07:03:21 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.ActiveMQConnectionFactoryTest
+Wed May 16 07:03:22 UTC 2018: Found element on the queue
+Wed May 16 07:03:22 UTC 2018: Updating status
+Wed May 16 07:03:22 UTC 2018: Working
+Wed May 16 07:03:24 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.JmsXAQueueTransactionTest
+Wed May 16 07:03:24 UTC 2018: Setting lastTestMethodIndex: 66009
+Wed May 16 07:03:24 UTC 2018: Starting linking
+Wed May 16 07:03:24 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.JmsXAQueueTransactionTest
+Wed May 16 07:03:25 UTC 2018: Found element on the queue
+Wed May 16 07:03:25 UTC 2018: Updating status
+Wed May 16 07:03:25 UTC 2018: Working
+Wed May 16 07:03:27 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.MessageEndpointProxyTest
+Wed May 16 07:03:27 UTC 2018: Setting lastTestMethodIndex: 66010
+Wed May 16 07:03:27 UTC 2018: Starting linking
+Wed May 16 07:03:27 UTC 2018: No link for: org.apache.activemq.ra.MessageEndpointProxyTest-testOnMessageFailure
+Wed May 16 07:03:28 UTC 2018: No link for: org.apache.activemq.ra.MessageEndpointProxyTest-testSuccessfulCallSequence
+Wed May 16 07:03:28 UTC 2018: No link for: org.apache.activemq.ra.MessageEndpointProxyTest-testInvalidConstruction
+Wed May 16 07:03:28 UTC 2018: No link for: org.apache.activemq.ra.MessageEndpointProxyTest-testAfterDeliveryFailure
+Wed May 16 07:03:29 UTC 2018: No link for: org.apache.activemq.ra.MessageEndpointProxyTest-testBeforeDeliveryFailure
+Wed May 16 07:03:29 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.MessageEndpointProxyTest
+Wed May 16 07:03:30 UTC 2018: Found element on the queue
+Wed May 16 07:03:30 UTC 2018: Updating status
+Wed May 16 07:03:30 UTC 2018: Working
+Wed May 16 07:03:32 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.MDBTest
+Wed May 16 07:03:32 UTC 2018: Setting lastTestMethodIndex: 66012
+Wed May 16 07:03:32 UTC 2018: Starting linking
+Wed May 16 07:03:32 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.MDBTest
+Wed May 16 07:03:33 UTC 2018: Found element on the queue
+Wed May 16 07:03:33 UTC 2018: Updating status
+Wed May 16 07:03:33 UTC 2018: Working
+Wed May 16 07:03:35 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.ra.ManagedConnectionFactoryTest
+Wed May 16 07:03:35 UTC 2018: Setting lastTestMethodIndex: 66013
+Wed May 16 07:03:35 UTC 2018: Starting linking
+Wed May 16 07:03:35 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.ra.ManagedConnectionFactoryTest
+Wed May 16 07:03:36 UTC 2018: Found element on the queue
+Wed May 16 07:03:36 UTC 2018: Updating status
+Wed May 16 07:03:36 UTC 2018: Working
+Wed May 16 07:03:36 UTC 2018: Create project parser
+Wed May 16 07:03:39 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.ConnectTest
+Wed May 16 07:03:39 UTC 2018: Setting lastTestMethodIndex: 66014
+Wed May 16 07:03:39 UTC 2018: Starting linking
+Wed May 16 07:03:39 UTC 2018: No link for: org.apache.activemq.transport.stomp.ConnectTest-testJaasDualStopWithOpenConnection
+Wed May 16 07:03:40 UTC 2018: No link for: org.apache.activemq.transport.stomp.ConnectTest-testInactivityMonitor
+Wed May 16 07:03:40 UTC 2018: No link for: org.apache.activemq.transport.stomp.ConnectTest-testStompConnectLeak
+Wed May 16 07:03:41 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.ConnectTest
+Wed May 16 07:03:41 UTC 2018: Found element on the queue
+Wed May 16 07:03:41 UTC 2018: Updating status
+Wed May 16 07:03:41 UTC 2018: Working
+Wed May 16 07:03:44 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp11NIOTest
+Wed May 16 07:03:44 UTC 2018: Setting lastTestMethodIndex: 66015
+Wed May 16 07:03:44 UTC 2018: Starting linking
+Wed May 16 07:03:44 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp11NIOTest
+Wed May 16 07:03:44 UTC 2018: Found element on the queue
+Wed May 16 07:03:44 UTC 2018: Updating status
+Wed May 16 07:03:44 UTC 2018: Working
+Wed May 16 07:03:47 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp11SslAuthTest
+Wed May 16 07:03:47 UTC 2018: Setting lastTestMethodIndex: 66016
+Wed May 16 07:03:47 UTC 2018: Starting linking
+Wed May 16 07:03:47 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp11SslAuthTest
+Wed May 16 07:03:47 UTC 2018: Found element on the queue
+Wed May 16 07:03:47 UTC 2018: Updating status
+Wed May 16 07:03:47 UTC 2018: Working
+Wed May 16 07:03:50 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp11Test
+Wed May 16 07:03:50 UTC 2018: Setting lastTestMethodIndex: 66018
+Wed May 16 07:03:50 UTC 2018: Starting linking
+Wed May 16 07:03:50 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testHeartbeatsDropsIdleConnection
+Wed May 16 07:03:50 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testConnectedNeverEncoded
+Wed May 16 07:03:50 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testSubscribeWithNoId
+Wed May 16 07:03:51 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testNackMessage
+Wed May 16 07:03:51 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testConnectWithVersionOptions
+Wed May 16 07:03:52 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testHeaderValuesAreNotWSTrimmed
+Wed May 16 07:03:52 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testConnect
+Wed May 16 07:03:52 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testSendMessageWithStandardHeadersEncoded
+Wed May 16 07:03:53 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testQueueBrowerSubscription
+Wed May 16 07:03:53 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testConnectWithInvalidFallback
+Wed May 16 07:03:54 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testHeartbeats
+Wed May 16 07:03:54 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testRejectInvalidHeartbeats2
+Wed May 16 07:03:55 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testRejectInvalidHeartbeats1
+Wed May 16 07:03:55 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testMultipleDurableSubsWithOfflineMessages
+Wed May 16 07:03:55 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testSubscribeWithMessageSentWithEncodedProperties
+Wed May 16 07:03:56 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testRejectInvalidHeartbeats3
+Wed May 16 07:03:56 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testConnectWithValidFallback
+Wed May 16 07:03:57 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testAckMessageWithId
+Wed May 16 07:03:57 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testSendAfterMissingHeartbeat
+Wed May 16 07:03:58 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testUnsubscribeWithNoId
+Wed May 16 07:03:58 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testAckMessageWithNoId
+Wed May 16 07:03:58 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testSubscribeWithWildcardSubscription
+Wed May 16 07:03:59 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testDurableSubAndUnSubOnTwoTopics
+Wed May 16 07:03:59 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testSubscribeAndUnsubscribe
+Wed May 16 07:04:00 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testHeartbeatsKeepsConnectionOpen
+Wed May 16 07:04:00 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testSendMessageWithRepeatedEntries
+Wed May 16 07:04:00 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp11Test-testDurableSubAndUnSubFlow
+Wed May 16 07:04:01 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp11Test
+Wed May 16 07:04:01 UTC 2018: Found element on the queue
+Wed May 16 07:04:01 UTC 2018: Updating status
+Wed May 16 07:04:01 UTC 2018: Working
+Wed May 16 07:04:04 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp12NIOSSLTest
+Wed May 16 07:04:04 UTC 2018: Setting lastTestMethodIndex: 66022
+Wed May 16 07:04:04 UTC 2018: Starting linking
+Wed May 16 07:04:04 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp12NIOSSLTest
+Wed May 16 07:04:04 UTC 2018: Found element on the queue
+Wed May 16 07:04:04 UTC 2018: Updating status
+Wed May 16 07:04:04 UTC 2018: Working
+Wed May 16 07:04:07 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp12NIOTest
+Wed May 16 07:04:07 UTC 2018: Setting lastTestMethodIndex: 66023
+Wed May 16 07:04:07 UTC 2018: Starting linking
+Wed May 16 07:04:07 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp12NIOTest
+Wed May 16 07:04:07 UTC 2018: Found element on the queue
+Wed May 16 07:04:07 UTC 2018: Updating status
+Wed May 16 07:04:07 UTC 2018: Working
+Wed May 16 07:04:10 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp12SslAuthTest
+Wed May 16 07:04:10 UTC 2018: Setting lastTestMethodIndex: 66025
+Wed May 16 07:04:10 UTC 2018: Starting linking
+Wed May 16 07:04:10 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp12SslAuthTest
+Wed May 16 07:04:10 UTC 2018: Found element on the queue
+Wed May 16 07:04:10 UTC 2018: Updating status
+Wed May 16 07:04:10 UTC 2018: Working
+Wed May 16 07:04:13 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp12Test
+Wed May 16 07:04:13 UTC 2018: Setting lastTestMethodIndex: 66027
+Wed May 16 07:04:13 UTC 2018: Starting linking
+Wed May 16 07:04:13 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp12Test-testClientIndividualAck
+Wed May 16 07:04:13 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp12Test-testQueueBrowerSubscription
+Wed May 16 07:04:14 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp12Test-testClientAckWithoutAckId
+Wed May 16 07:04:14 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp12Test-testTelnetStyleSends
+Wed May 16 07:04:14 UTC 2018: No link for: org.apache.activemq.transport.stomp.Stomp12Test-testClientAck
+Wed May 16 07:04:15 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.Stomp12Test
+Wed May 16 07:04:15 UTC 2018: Found element on the queue
+Wed May 16 07:04:15 UTC 2018: Updating status
+Wed May 16 07:04:15 UTC 2018: Working
+Wed May 16 07:04:18 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompAdvisoryTest
+Wed May 16 07:04:18 UTC 2018: Setting lastTestMethodIndex: 66028
+Wed May 16 07:04:18 UTC 2018: Starting linking
+Wed May 16 07:04:18 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-connect with org.apache.activemq.transport.stomp.StompAdvisoryTest-testConnectionAdvisory
+Wed May 16 07:04:18 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-connect with org.apache.activemq.transport.stomp.StompAdvisoryTest-testConnectionAdvisoryXML
+Wed May 16 07:04:19 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-connect with org.apache.activemq.transport.stomp.StompAdvisoryTest-testConnectionAdvisoryJSON
+Wed May 16 07:04:19 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompAdvisoryTest-testProducerAdvisoryJSON
+Wed May 16 07:04:19 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompAdvisoryTest-testConsumerAdvisory
+Wed May 16 07:04:20 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompAdvisoryTest-testProducerAdvisory
+Wed May 16 07:04:20 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompAdvisoryTest-testProducerAdvisoryXML
+Wed May 16 07:04:21 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompAdvisoryTest
+Wed May 16 07:04:21 UTC 2018: Found element on the queue
+Wed May 16 07:04:21 UTC 2018: Updating status
+Wed May 16 07:04:21 UTC 2018: Working
+Wed May 16 07:04:23 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompFrameTest
+Wed May 16 07:04:23 UTC 2018: Setting lastTestMethodIndex: 66029
+Wed May 16 07:04:23 UTC 2018: Starting linking
+Wed May 16 07:04:23 UTC 2018: Code found org.apache.activemq.transport.stomp.StompFrame-toString with org.apache.activemq.transport.stomp.StompFrameTest-testNoPasscodeInToString
+Wed May 16 07:04:24 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompFrameTest
+Wed May 16 07:04:24 UTC 2018: Found element on the queue
+Wed May 16 07:04:24 UTC 2018: Updating status
+Wed May 16 07:04:24 UTC 2018: Working
+Wed May 16 07:04:27 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompLoadTest
+Wed May 16 07:04:27 UTC 2018: Setting lastTestMethodIndex: 66030
+Wed May 16 07:04:27 UTC 2018: Starting linking
+Wed May 16 07:04:27 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompLoadTest-testStompUnloadLoad
+Wed May 16 07:04:27 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompLoadTest
+Wed May 16 07:04:28 UTC 2018: Found element on the queue
+Wed May 16 07:04:28 UTC 2018: Updating status
+Wed May 16 07:04:28 UTC 2018: Working
+Wed May 16 07:04:30 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompMissingMessageTest
+Wed May 16 07:04:30 UTC 2018: Setting lastTestMethodIndex: 66032
+Wed May 16 07:04:30 UTC 2018: Starting linking
+Wed May 16 07:04:30 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompMissingMessageTest-testProducerConsumerLoop
+Wed May 16 07:04:31 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompMissingMessageTest-testProducerDurableConsumerLoop
+Wed May 16 07:04:31 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompMissingMessageTest
+Wed May 16 07:04:31 UTC 2018: Found element on the queue
+Wed May 16 07:04:31 UTC 2018: Updating status
+Wed May 16 07:04:31 UTC 2018: Working
+Wed May 16 07:04:34 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompNIOLoadTest
+Wed May 16 07:04:34 UTC 2018: Setting lastTestMethodIndex: 66033
+Wed May 16 07:04:34 UTC 2018: Starting linking
+Wed May 16 07:04:34 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompNIOLoadTest
+Wed May 16 07:04:34 UTC 2018: Found element on the queue
+Wed May 16 07:04:34 UTC 2018: Updating status
+Wed May 16 07:04:34 UTC 2018: Working
+Wed May 16 07:04:37 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompNIOSSLLoadTest
+Wed May 16 07:04:37 UTC 2018: Setting lastTestMethodIndex: 66034
+Wed May 16 07:04:37 UTC 2018: Starting linking
+Wed May 16 07:04:37 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompNIOSSLLoadTest
+Wed May 16 07:04:37 UTC 2018: Found element on the queue
+Wed May 16 07:04:37 UTC 2018: Updating status
+Wed May 16 07:04:37 UTC 2018: Working
+Wed May 16 07:04:40 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompNIOSSLTest
+Wed May 16 07:04:40 UTC 2018: Setting lastTestMethodIndex: 66036
+Wed May 16 07:04:40 UTC 2018: Starting linking
+Wed May 16 07:04:40 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompNIOSSLTest
+Wed May 16 07:04:40 UTC 2018: Found element on the queue
+Wed May 16 07:04:40 UTC 2018: Updating status
+Wed May 16 07:04:40 UTC 2018: Working
+Wed May 16 07:04:43 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompNIOTest
+Wed May 16 07:04:43 UTC 2018: Setting lastTestMethodIndex: 66038
+Wed May 16 07:04:43 UTC 2018: Starting linking
+Wed May 16 07:04:43 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompNIOTest
+Wed May 16 07:04:43 UTC 2018: Found element on the queue
+Wed May 16 07:04:43 UTC 2018: Updating status
+Wed May 16 07:04:43 UTC 2018: Working
+Wed May 16 07:04:46 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompPrefetchTest
+Wed May 16 07:04:46 UTC 2018: Setting lastTestMethodIndex: 66040
+Wed May 16 07:04:46 UTC 2018: Starting linking
+Wed May 16 07:04:46 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompPrefetchTest-testQueueSubPrefetch
+Wed May 16 07:04:46 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompPrefetchTest-testTopicSubPrefetch
+Wed May 16 07:04:47 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompPrefetchTest-testQBrowserSubPrefetch
+Wed May 16 07:04:47 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompPrefetchTest-testDurableSubPrefetch
+Wed May 16 07:04:48 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompPrefetchTest
+Wed May 16 07:04:48 UTC 2018: Found element on the queue
+Wed May 16 07:04:48 UTC 2018: Updating status
+Wed May 16 07:04:48 UTC 2018: Working
+Wed May 16 07:04:51 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompSSLLoadTest
+Wed May 16 07:04:51 UTC 2018: Setting lastTestMethodIndex: 66042
+Wed May 16 07:04:51 UTC 2018: Starting linking
+Wed May 16 07:04:51 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompSSLLoadTest
+Wed May 16 07:04:51 UTC 2018: Found element on the queue
+Wed May 16 07:04:51 UTC 2018: Updating status
+Wed May 16 07:04:51 UTC 2018: Working
+Wed May 16 07:04:53 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompSslAuthTest
+Wed May 16 07:04:53 UTC 2018: Setting lastTestMethodIndex: 66044
+Wed May 16 07:04:53 UTC 2018: Starting linking
+Wed May 16 07:04:53 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompSslAuthTest
+Wed May 16 07:04:54 UTC 2018: Found element on the queue
+Wed May 16 07:04:54 UTC 2018: Updating status
+Wed May 16 07:04:54 UTC 2018: Working
+Wed May 16 07:04:56 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompSslTest
+Wed May 16 07:04:56 UTC 2018: Setting lastTestMethodIndex: 66045
+Wed May 16 07:04:56 UTC 2018: Starting linking
+Wed May 16 07:04:56 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompSslTest
+Wed May 16 07:04:57 UTC 2018: Found element on the queue
+Wed May 16 07:04:57 UTC 2018: Updating status
+Wed May 16 07:04:57 UTC 2018: Working
+Wed May 16 07:04:59 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompSubscriptionRemoveTest
+Wed May 16 07:04:59 UTC 2018: Setting lastTestMethodIndex: 66047
+Wed May 16 07:04:59 UTC 2018: Starting linking
+Wed May 16 07:04:59 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompSubscriptionRemoveTest-testRemoveSubscriber
+Wed May 16 07:05:00 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompSubscriptionRemoveTest
+Wed May 16 07:05:00 UTC 2018: Found element on the queue
+Wed May 16 07:05:00 UTC 2018: Updating status
+Wed May 16 07:05:00 UTC 2018: Working
+Wed May 16 07:05:03 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompTelnetTest
+Wed May 16 07:05:03 UTC 2018: Setting lastTestMethodIndex: 66048
+Wed May 16 07:05:03 UTC 2018: Starting linking
+Wed May 16 07:05:03 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTelnetTest-testCRLF
+Wed May 16 07:05:03 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTelnetTest-testCRLF11
+Wed May 16 07:05:04 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompTelnetTest
+Wed May 16 07:05:04 UTC 2018: Found element on the queue
+Wed May 16 07:05:04 UTC 2018: Updating status
+Wed May 16 07:05:04 UTC 2018: Working
+Wed May 16 07:05:07 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompTest
+Wed May 16 07:05:07 UTC 2018: Setting lastTestMethodIndex: 66050
+Wed May 16 07:05:07 UTC 2018: Starting linking
+Wed May 16 07:05:07 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-ack with org.apache.activemq.transport.stomp.StompTest-testPrefetchSizeOfOneClientAck
+Wed May 16 07:05:07 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-receive with org.apache.activemq.transport.stomp.StompTest-testTransformationSendAndReceiveJsonMap
+Wed May 16 07:05:07 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-receive with org.apache.activemq.transport.stomp.StompTest-testTransformationReceiveJSONObjectAndMap
+Wed May 16 07:05:08 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-receive with org.apache.activemq.transport.stomp.StompTest-testTransformationReceiveJSONMap
+Wed May 16 07:05:08 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-receive with org.apache.activemq.transport.stomp.StompTest-testTransformationReceiveXMLMap
+Wed May 16 07:05:09 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-receive with org.apache.activemq.transport.stomp.StompTest-testTransformationReceiveXMLObjectAndMap
+Wed May 16 07:05:09 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-ack with org.apache.activemq.transport.stomp.StompTest-testTransactedClientAckBrokerStats
+Wed May 16 07:05:10 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-receive with org.apache.activemq.transport.stomp.StompTest-testSendReceiveBigMessage
+Wed May 16 07:05:10 UTC 2018: Code found org.apache.activemq.transport.stomp.StompConnection-receive with org.apache.activemq.transport.stomp.StompTest-testTransformationSendAndReceiveXmlMap
+Wed May 16 07:05:10 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testConnectNotAuthenticatedWrongPassword
+Wed May 16 07:05:11 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSendMessageWithCustomHeadersAndSelector
+Wed May 16 07:05:11 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscriptionReceipts
+Wed May 16 07:05:12 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testBytesMessageWithNulls
+Wed May 16 07:05:12 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransactionsWithMultipleDestinations
+Wed May 16 07:05:12 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSendNotAuthorized
+Wed May 16 07:05:13 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testReplyToDestinationNaming
+Wed May 16 07:05:13 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationReceiveObject
+Wed May 16 07:05:13 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testMessageIdHeader
+Wed May 16 07:05:14 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testReceiptNewQueue
+Wed May 16 07:05:14 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithClientAck
+Wed May 16 07:05:15 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSendMessageWithDelay
+Wed May 16 07:05:15 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSendMessageWithNoPriorityReceivesDefault
+Wed May 16 07:05:16 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSendNullBodyTextMessage
+Wed May 16 07:05:16 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testDefaultJMSReplyToDest
+Wed May 16 07:05:16 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testExpire
+Wed May 16 07:05:17 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationReceiveXMLObject
+Wed May 16 07:05:17 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithAutoAckAndBooleanSelector
+Wed May 16 07:05:17 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationIgnoreTransformation
+Wed May 16 07:05:18 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testUnsubscribe
+Wed May 16 07:05:18 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSendMessage
+Wed May 16 07:05:19 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithAutoAckAndSelector
+Wed May 16 07:05:19 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testReceipts
+Wed May 16 07:05:19 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithReceiptNotAuthorized
+Wed May 16 07:05:20 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithAutoAckAndNumericSelector
+Wed May 16 07:05:20 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testDurableUnsub
+Wed May 16 07:05:20 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSendMessageWithStandardHeaders
+Wed May 16 07:05:21 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransactionRollback
+Wed May 16 07:05:21 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeNotAuthorized
+Wed May 16 07:05:21 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testMessagesAreInOrder
+Wed May 16 07:05:22 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationNotOverrideSubscription
+Wed May 16 07:05:22 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testReplyToAcrossConnections
+Wed May 16 07:05:23 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testPersistent
+Wed May 16 07:05:23 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testHeaderValuesAreTrimmed1_0
+Wed May 16 07:05:23 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationSendXMLObject
+Wed May 16 07:05:24 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationSendJSONObject
+Wed May 16 07:05:24 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationSendJSONMap
+Wed May 16 07:05:24 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithAutoAck
+Wed May 16 07:05:25 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithMessageSentWithProperties
+Wed May 16 07:05:25 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithInvalidSelector
+Wed May 16 07:05:25 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testDisconnectDoesNotDeadlockBroker
+Wed May 16 07:05:26 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testDisconnectedClientsAreRemovedFromTheBroker
+Wed May 16 07:05:26 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransactionCommit
+Wed May 16 07:05:27 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testPersistentDefaultValue
+Wed May 16 07:05:27 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testConnect
+Wed May 16 07:05:28 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationSubscribeXML
+Wed May 16 07:05:28 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSendMultipleBytesMessages
+Wed May 16 07:05:28 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationReceiveJSONObject
+Wed May 16 07:05:29 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testJMSXGroupIdCanBeSet
+Wed May 16 07:05:29 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testClientSetMessageIdIsIgnored
+Wed May 16 07:05:29 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithAutoAckAnFloatSelector
+Wed May 16 07:05:30 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testDurableSubAttemptOnQueueFails
+Wed May 16 07:05:30 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationFailed
+Wed May 16 07:05:31 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testPrefetchSize
+Wed May 16 07:05:31 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTempDestination
+Wed May 16 07:05:31 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationReceiveBytesMessage
+Wed May 16 07:05:32 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationSendXMLMap
+Wed May 16 07:05:32 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testTransformationUnknownTranslator
+Wed May 16 07:05:33 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testJMSXUserIDIsSetInMessage
+Wed May 16 07:05:33 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testJMSXUserIDIsSetInStompMessage
+Wed May 16 07:05:34 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithAutoAckAndBytesMessage
+Wed May 16 07:05:34 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testSubscribeWithClientAckedAndContentLength
+Wed May 16 07:05:34 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testConnectNotAuthenticatedWrongUser
+Wed May 16 07:05:35 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTest-testReplytoModification
+Wed May 16 07:05:35 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompTest
+Wed May 16 07:05:36 UTC 2018: Found element on the queue
+Wed May 16 07:05:36 UTC 2018: Updating status
+Wed May 16 07:05:36 UTC 2018: Working
+Wed May 16 07:05:38 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompTimeStampingBrokerPluginTest
+Wed May 16 07:05:38 UTC 2018: Setting lastTestMethodIndex: 66055
+Wed May 16 07:05:38 UTC 2018: Starting linking
+Wed May 16 07:05:38 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompTimeStampingBrokerPluginTest-testSendMessage
+Wed May 16 07:05:39 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompTimeStampingBrokerPluginTest
+Wed May 16 07:05:39 UTC 2018: Found element on the queue
+Wed May 16 07:05:39 UTC 2018: Updating status
+Wed May 16 07:05:39 UTC 2018: Working
+Wed May 16 07:05:42 UTC 2018: Start mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompVirtualTopicTest
+Wed May 16 07:05:42 UTC 2018: Setting lastTestMethodIndex: 66056
+Wed May 16 07:05:42 UTC 2018: Starting linking
+Wed May 16 07:05:42 UTC 2018: No link for: org.apache.activemq.transport.stomp.StompVirtualTopicTest-testStompOnVirtualTopics
+Wed May 16 07:05:42 UTC 2018: Linking done for mydevotion__activemq-5.9 test class org.apache.activemq.transport.stomp.StompVirtualTopicTest

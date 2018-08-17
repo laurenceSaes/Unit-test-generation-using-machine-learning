@@ -1,0 +1,129 @@
+Wed May 16 04:56:11 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 04:56:11 UTC 2018: Starting
+Wed May 16 04:56:11 UTC 2018: Found element on the queue
+Wed May 16 04:56:11 UTC 2018: Updating status
+Wed May 16 04:56:11 UTC 2018: Working
+Wed May 16 04:56:11 UTC 2018: Create project parser
+Wed May 16 04:56:19 UTC 2018: Create slicer
+Wed May 16 04:56:22 UTC 2018: Create call graph
+Wed May 16 04:56:24 UTC 2018: Create point analysis
+Wed May 16 04:56:24 UTC 2018: Create call graph done
+Wed May 16 04:56:24 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.repository.memory.TraitTest
+Wed May 16 04:56:24 UTC 2018: Setting lastTestMethodIndex: 62407
+Wed May 16 04:56:24 UTC 2018: Starting linking
+Wed May 16 04:56:24 UTC 2018: No link for: org.apache.atlas.repository.memory.TraitTest-testRandomOrder
+Wed May 16 04:56:25 UTC 2018: No link for: org.apache.atlas.repository.memory.TraitTest-test1
+Wed May 16 04:56:25 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.repository.memory.TraitTest
+Wed May 16 04:56:26 UTC 2018: Found element on the queue
+Wed May 16 04:56:26 UTC 2018: Updating status
+Wed May 16 04:56:26 UTC 2018: Working
+Wed May 16 04:56:28 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.repository.memory.ClassTest
+Wed May 16 04:56:28 UTC 2018: Setting lastTestMethodIndex: 62408
+Wed May 16 04:56:28 UTC 2018: Starting linking
+Wed May 16 04:56:28 UTC 2018: No link for: org.apache.atlas.repository.memory.ClassTest-test1
+Wed May 16 04:56:28 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.repository.memory.ClassTest
+Wed May 16 04:56:29 UTC 2018: Found element on the queue
+Wed May 16 04:56:29 UTC 2018: Updating status
+Wed May 16 04:56:29 UTC 2018: Working
+Wed May 16 04:56:31 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.repository.memory.StorageTest
+Wed May 16 04:56:31 UTC 2018: Setting lastTestMethodIndex: 62409
+Wed May 16 04:56:31 UTC 2018: Starting linking
+Wed May 16 04:56:31 UTC 2018: Code found org.apache.atlas.repository.memory.MemRepository-get with org.apache.atlas.repository.memory.StorageTest-testGetManager
+Wed May 16 04:56:31 UTC 2018: Code found org.apache.atlas.repository.memory.MemRepository-get with org.apache.atlas.repository.memory.StorageTest-testGetPerson
+Wed May 16 04:56:32 UTC 2018: No link for: org.apache.atlas.repository.memory.StorageTest-testInvalidTypeName
+Wed May 16 04:56:32 UTC 2018: No link for: org.apache.atlas.repository.memory.StorageTest-test1
+Wed May 16 04:56:32 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.repository.memory.StorageTest
+Wed May 16 04:56:33 UTC 2018: Found element on the queue
+Wed May 16 04:56:33 UTC 2018: Updating status
+Wed May 16 04:56:33 UTC 2018: Working
+Wed May 16 04:56:35 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.repository.memory.InstanceE2ETest
+Wed May 16 04:56:35 UTC 2018: Setting lastTestMethodIndex: 62411
+Wed May 16 04:56:35 UTC 2018: Starting linking
+Wed May 16 04:56:35 UTC 2018: No link for: org.apache.atlas.repository.memory.InstanceE2ETest-testInstance
+Wed May 16 04:56:36 UTC 2018: No link for: org.apache.atlas.repository.memory.InstanceE2ETest-testType
+Wed May 16 04:56:36 UTC 2018: No link for: org.apache.atlas.repository.memory.InstanceE2ETest-testInstanceSerialization
+Wed May 16 04:56:36 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.repository.memory.InstanceE2ETest
+Wed May 16 04:56:37 UTC 2018: Found element on the queue
+Wed May 16 04:56:37 UTC 2018: Updating status
+Wed May 16 04:56:37 UTC 2018: Working
+Wed May 16 04:56:39 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.repository.graph.TitanGraphProviderTest
+Wed May 16 04:56:39 UTC 2018: Setting lastTestMethodIndex: 62413
+Wed May 16 04:56:39 UTC 2018: Starting linking
+Wed May 16 04:56:39 UTC 2018: No link for: org.apache.atlas.repository.graph.TitanGraphProviderTest-testValidate
+Wed May 16 04:56:40 UTC 2018: No link for: org.apache.atlas.repository.graph.TitanGraphProviderTest-testGetConfiguration
+Wed May 16 04:56:40 UTC 2018: No link for: org.apache.atlas.repository.graph.TitanGraphProviderTest-setUp
+Wed May 16 04:56:40 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.repository.graph.TitanGraphProviderTest
+Wed May 16 04:56:41 UTC 2018: Found element on the queue
+Wed May 16 04:56:41 UTC 2018: Updating status
+Wed May 16 04:56:41 UTC 2018: Working
+Wed May 16 04:56:41 UTC 2018: Create project parser
+Wed May 16 04:56:45 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.TraitTest
+Wed May 16 04:56:45 UTC 2018: Setting lastTestMethodIndex: 62416
+Wed May 16 04:56:45 UTC 2018: Starting linking
+Wed May 16 04:56:45 UTC 2018: No link for: org.apache.atlas.typesystem.types.TraitTest-testRandomOrder
+Wed May 16 04:56:45 UTC 2018: No link for: org.apache.atlas.typesystem.types.TraitTest-test1
+Wed May 16 04:56:45 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.TraitTest
+Wed May 16 04:56:46 UTC 2018: Found element on the queue
+Wed May 16 04:56:46 UTC 2018: Updating status
+Wed May 16 04:56:46 UTC 2018: Working
+Wed May 16 04:56:48 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.ClassTest
+Wed May 16 04:56:48 UTC 2018: Setting lastTestMethodIndex: 62418
+Wed May 16 04:56:48 UTC 2018: Starting linking
+Wed May 16 04:56:48 UTC 2018: No link for: org.apache.atlas.typesystem.types.ClassTest-test1
+Wed May 16 04:56:48 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.ClassTest
+Wed May 16 04:56:49 UTC 2018: Found element on the queue
+Wed May 16 04:56:49 UTC 2018: Updating status
+Wed May 16 04:56:49 UTC 2018: Working
+Wed May 16 04:56:51 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.StructTest
+Wed May 16 04:56:51 UTC 2018: Setting lastTestMethodIndex: 62420
+Wed May 16 04:56:51 UTC 2018: Starting linking
+Wed May 16 04:56:51 UTC 2018: No link for: org.apache.atlas.typesystem.types.StructTest-test1
+Wed May 16 04:56:52 UTC 2018: No link for: org.apache.atlas.typesystem.types.StructTest-testRecursive
+Wed May 16 04:56:52 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.StructTest
+Wed May 16 04:56:52 UTC 2018: Found element on the queue
+Wed May 16 04:56:52 UTC 2018: Updating status
+Wed May 16 04:56:52 UTC 2018: Working
+Wed May 16 04:56:55 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.typesystem.json.SerializationJavaTest
+Wed May 16 04:56:55 UTC 2018: Setting lastTestMethodIndex: 62422
+Wed May 16 04:56:55 UTC 2018: Starting linking
+Wed May 16 04:56:55 UTC 2018: No link for: org.apache.atlas.typesystem.json.SerializationJavaTest-testTrait
+Wed May 16 04:56:55 UTC 2018: No link for: org.apache.atlas.typesystem.json.SerializationJavaTest-test1
+Wed May 16 04:56:56 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.typesystem.json.SerializationJavaTest
+Wed May 16 04:56:56 UTC 2018: Found element on the queue
+Wed May 16 04:56:56 UTC 2018: Updating status
+Wed May 16 04:56:56 UTC 2018: Working
+Wed May 16 04:56:58 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.TypeSystemTest
+Wed May 16 04:56:58 UTC 2018: Setting lastTestMethodIndex: 62424
+Wed May 16 04:56:58 UTC 2018: Starting linking
+Wed May 16 04:56:58 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeSystemTest-testGetTraitsNames
+Wed May 16 04:56:59 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeSystemTest-testGetTypeNames
+Wed May 16 04:56:59 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeSystemTest-testIsRegistered
+Wed May 16 04:56:59 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeSystemTest-testUTFNames
+Wed May 16 04:57:00 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeSystemTest-testTypeCategory
+Wed May 16 04:57:00 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeSystemTest-testHierarchy
+Wed May 16 04:57:00 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.TypeSystemTest
+Wed May 16 04:57:01 UTC 2018: Found element on the queue
+Wed May 16 04:57:01 UTC 2018: Updating status
+Wed May 16 04:57:01 UTC 2018: Working
+Wed May 16 04:57:03 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.TypeInheritanceTest
+Wed May 16 04:57:03 UTC 2018: Setting lastTestMethodIndex: 62426
+Wed May 16 04:57:03 UTC 2018: Starting linking
+Wed May 16 04:57:03 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeInheritanceTest-testSimpleInheritanceWithOverrides
+Wed May 16 04:57:04 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeInheritanceTest-testMultiLevelInheritance
+Wed May 16 04:57:04 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeInheritanceTest-testSimpleInheritance
+Wed May 16 04:57:04 UTC 2018: No link for: org.apache.atlas.typesystem.types.TypeInheritanceTest-testDiamondInheritance
+Wed May 16 04:57:05 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.TypeInheritanceTest
+Wed May 16 04:57:05 UTC 2018: Found element on the queue
+Wed May 16 04:57:05 UTC 2018: Updating status
+Wed May 16 04:57:05 UTC 2018: Working
+Wed May 16 04:57:08 UTC 2018: Start maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.ValidationTest
+Wed May 16 04:57:08 UTC 2018: Setting lastTestMethodIndex: 62429
+Wed May 16 04:57:08 UTC 2018: Starting linking
+Wed May 16 04:57:08 UTC 2018: No link for: org.apache.atlas.typesystem.types.ValidationTest-testEnumValue
+Wed May 16 04:57:08 UTC 2018: No link for: org.apache.atlas.typesystem.types.ValidationTest-testStructType
+Wed May 16 04:57:08 UTC 2018: No link for: org.apache.atlas.typesystem.types.ValidationTest-testTraitType
+Wed May 16 04:57:09 UTC 2018: No link for: org.apache.atlas.typesystem.types.ValidationTest-testAttributes
+Wed May 16 04:57:09 UTC 2018: No link for: org.apache.atlas.typesystem.types.ValidationTest-testClassType
+Wed May 16 04:57:09 UTC 2018: No link for: org.apache.atlas.typesystem.types.ValidationTest-testEnumType
+Wed May 16 04:57:10 UTC 2018: No link for: org.apache.atlas.typesystem.types.ValidationTest-testValidTypes
+Wed May 16 04:57:10 UTC 2018: Linking done for maduhu__HDP-atlas test class org.apache.atlas.typesystem.types.ValidationTest

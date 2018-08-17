@@ -1,0 +1,207 @@
+Tue May 15 18:32:07 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 18:32:07 UTC 2018: Starting
+Tue May 15 18:32:08 UTC 2018: Found element on the queue
+Tue May 15 18:32:08 UTC 2018: Updating status
+Tue May 15 18:32:08 UTC 2018: Working
+Tue May 15 18:32:08 UTC 2018: Create project parser
+Tue May 15 18:32:32 UTC 2018: Create slicer
+Tue May 15 18:32:35 UTC 2018: Create call graph
+Tue May 15 18:32:38 UTC 2018: Create point analysis
+Tue May 15 18:32:38 UTC 2018: Create call graph done
+Tue May 15 18:32:38 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.tag.AndMatcherTest
+Tue May 15 18:32:38 UTC 2018: Setting lastTestMethodIndex: 41961
+Tue May 15 18:32:38 UTC 2018: Starting linking
+Tue May 15 18:32:38 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.tag.AndMatcherTest
+Tue May 15 18:32:39 UTC 2018: Found element on the queue
+Tue May 15 18:32:39 UTC 2018: Updating status
+Tue May 15 18:32:39 UTC 2018: Working
+Tue May 15 18:32:41 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.tag.OrMatcherTest
+Tue May 15 18:32:41 UTC 2018: Setting lastTestMethodIndex: 41965
+Tue May 15 18:32:41 UTC 2018: Starting linking
+Tue May 15 18:32:41 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.tag.OrMatcherTest
+Tue May 15 18:32:42 UTC 2018: Found element on the queue
+Tue May 15 18:32:42 UTC 2018: Updating status
+Tue May 15 18:32:42 UTC 2018: Working
+Tue May 15 18:32:45 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.hook.HookTest
+Tue May 15 18:32:45 UTC 2018: Setting lastTestMethodIndex: 41969
+Tue May 15 18:32:45 UTC 2018: Starting linking
+Tue May 15 18:32:45 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.hook.HookTest
+Tue May 15 18:32:46 UTC 2018: Found element on the queue
+Tue May 15 18:32:46 UTC 2018: Updating status
+Tue May 15 18:32:46 UTC 2018: Working
+Tue May 15 18:32:49 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.processor.StepNameRequestProcessorTest
+Tue May 15 18:32:49 UTC 2018: Setting lastTestMethodIndex: 41973
+Tue May 15 18:32:49 UTC 2018: Starting linking
+Tue May 15 18:32:49 UTC 2018: No link for: com.thoughtworks.gauge.processor.StepNameRequestProcessorTest-shouldHaveTheStepAlias
+Tue May 15 18:32:49 UTC 2018: No link for: com.thoughtworks.gauge.processor.StepNameRequestProcessorTest-shouldHaveTheStep
+Tue May 15 18:32:49 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.processor.StepNameRequestProcessorTest
+Tue May 15 18:32:50 UTC 2018: Found element on the queue
+Tue May 15 18:32:50 UTC 2018: Updating status
+Tue May 15 18:32:50 UTC 2018: Working
+Tue May 15 18:32:53 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.processor.ValidateStepProcessorTest
+Tue May 15 18:32:53 UTC 2018: Setting lastTestMethodIndex: 41976
+Tue May 15 18:32:53 UTC 2018: Starting linking
+Tue May 15 18:32:53 UTC 2018: No link for: com.thoughtworks.gauge.processor.ValidateStepProcessorTest-shouldFailIfStepIsDefinedTwice
+Tue May 15 18:32:53 UTC 2018: No link for: com.thoughtworks.gauge.processor.ValidateStepProcessorTest-shouldNotFailIfStepIsFoundAndShouldNotGiveSuggestion
+Tue May 15 18:32:53 UTC 2018: No link for: com.thoughtworks.gauge.processor.ValidateStepProcessorTest-shouldFailIfStepIsNotFoundAndShouldGiveSuggestion
+Tue May 15 18:32:53 UTC 2018: No link for: com.thoughtworks.gauge.processor.ValidateStepProcessorTest-ShouldGiveSuggestionWithMethodNameimplementation1
+Tue May 15 18:32:54 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.processor.ValidateStepProcessorTest
+Tue May 15 18:32:54 UTC 2018: Found element on the queue
+Tue May 15 18:32:54 UTC 2018: Updating status
+Tue May 15 18:32:54 UTC 2018: Working
+Tue May 15 18:32:58 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.refactor.UtilTest
+Tue May 15 18:32:58 UTC 2018: Setting lastTestMethodIndex: 41980
+Tue May 15 18:32:58 UTC 2018: Starting linking
+Tue May 15 18:32:58 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.refactor.UtilTest
+Tue May 15 18:32:58 UTC 2018: Found element on the queue
+Tue May 15 18:32:58 UTC 2018: Updating status
+Tue May 15 18:32:58 UTC 2018: Working
+Tue May 15 18:33:01 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.refactor.JavaRefactoringTest
+Tue May 15 18:33:01 UTC 2018: Setting lastTestMethodIndex: 41984
+Tue May 15 18:33:01 UTC 2018: Starting linking
+Tue May 15 18:33:01 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.refactor.JavaRefactoringTest
+Tue May 15 18:33:02 UTC 2018: Found element on the queue
+Tue May 15 18:33:02 UTC 2018: Updating status
+Tue May 15 18:33:02 UTC 2018: Working
+Tue May 15 18:33:05 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.MessageCollectorTest
+Tue May 15 18:33:05 UTC 2018: Setting lastTestMethodIndex: 41987
+Tue May 15 18:33:05 UTC 2018: Starting linking
+Tue May 15 18:33:05 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.MessageCollectorTest
+Tue May 15 18:33:06 UTC 2018: Found element on the queue
+Tue May 15 18:33:06 UTC 2018: Updating status
+Tue May 15 18:33:06 UTC 2018: Working
+Tue May 15 18:33:09 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.ExecutionContextTest
+Tue May 15 18:33:09 UTC 2018: Setting lastTestMethodIndex: 41990
+Tue May 15 18:33:09 UTC 2018: Starting linking
+Tue May 15 18:33:09 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.ExecutionContextTest
+Tue May 15 18:33:10 UTC 2018: Found element on the queue
+Tue May 15 18:33:10 UTC 2018: Updating status
+Tue May 15 18:33:10 UTC 2018: Working
+Tue May 15 18:33:13 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.registry.StepRegistryTest
+Tue May 15 18:33:13 UTC 2018: Setting lastTestMethodIndex: 41993
+Tue May 15 18:33:13 UTC 2018: Starting linking
+Tue May 15 18:33:13 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.registry.StepRegistryTest
+Tue May 15 18:33:13 UTC 2018: Found element on the queue
+Tue May 15 18:33:13 UTC 2018: Updating status
+Tue May 15 18:33:13 UTC 2018: Working
+Tue May 15 18:33:16 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.registry.HooksRegistryTest
+Tue May 15 18:33:16 UTC 2018: Setting lastTestMethodIndex: 41996
+Tue May 15 18:33:16 UTC 2018: Starting linking
+Tue May 15 18:33:16 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.registry.HooksRegistryTest
+Tue May 15 18:33:17 UTC 2018: Found element on the queue
+Tue May 15 18:33:17 UTC 2018: Updating status
+Tue May 15 18:33:17 UTC 2018: Working
+Tue May 15 18:33:21 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.ExecutionInfoMapperTest
+Tue May 15 18:33:21 UTC 2018: Setting lastTestMethodIndex: 41999
+Tue May 15 18:33:21 UTC 2018: Starting linking
+Tue May 15 18:33:21 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.ExecutionInfoMapperTest
+Tue May 15 18:33:21 UTC 2018: Found element on the queue
+Tue May 15 18:33:21 UTC 2018: Updating status
+Tue May 15 18:33:21 UTC 2018: Working
+Tue May 15 18:33:25 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.parameters.ParametersExtractorTest
+Tue May 15 18:33:25 UTC 2018: Setting lastTestMethodIndex: 42003
+Tue May 15 18:33:25 UTC 2018: Starting linking
+Tue May 15 18:33:25 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.ParametersExtractor-extract with com.thoughtworks.gauge.execution.parameters.ParametersExtractorTest-whenExtractAParameterThenTheParameterIsParsed
+Tue May 15 18:33:25 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.ParametersExtractor-extract with com.thoughtworks.gauge.execution.parameters.ParametersExtractorTest-whenExtractNoParametersThenNoParametersReturned
+Tue May 15 18:33:25 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.ParametersExtractor-extract with com.thoughtworks.gauge.execution.parameters.ParametersExtractorTest-whenExtractAParameterThenTheParsedParameterIsReturned
+Tue May 15 18:33:25 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.ParametersExtractor-extract with com.thoughtworks.gauge.execution.parameters.ParametersExtractorTest-whenExtractMultipleParametersThenTheParsedParametersAreReturned
+Tue May 15 18:33:26 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.ParametersExtractor-extract with com.thoughtworks.gauge.execution.parameters.ParametersExtractorTest-whenExtractNullThenNoParametersReturned
+Tue May 15 18:33:26 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.parameters.ParametersExtractorTest
+Tue May 15 18:33:26 UTC 2018: Found element on the queue
+Tue May 15 18:33:26 UTC 2018: Updating status
+Tue May 15 18:33:26 UTC 2018: Working
+Tue May 15 18:33:30 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.parameters.parsers.types.PrimitiveParameterParserTest
+Tue May 15 18:33:30 UTC 2018: Setting lastTestMethodIndex: 42007
+Tue May 15 18:33:30 UTC 2018: Starting linking
+Tue May 15 18:33:30 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.parsers.types.PrimitivesConverter-convert with com.thoughtworks.gauge.execution.parameters.parsers.types.PrimitiveParameterParserTest-givenPrimitiveTypeWhenParseAPrimitiveParameterThenThePrimitiveTypeIsConverted
+Tue May 15 18:33:30 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.parsers.types.PrimitivesConverter-convert with com.thoughtworks.gauge.execution.parameters.parsers.types.PrimitiveParameterParserTest-givenPrimitiveTypeWhenParseAPrimitiveParameterThenTheConvertedPrimitiveTypeIsReturned
+Tue May 15 18:33:31 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.parameters.parsers.types.PrimitiveParameterParserTest
+Tue May 15 18:33:31 UTC 2018: Found element on the queue
+Tue May 15 18:33:31 UTC 2018: Updating status
+Tue May 15 18:33:31 UTC 2018: Working
+Tue May 15 18:33:34 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.parameters.parsers.types.EnumParameterParserTest
+Tue May 15 18:33:34 UTC 2018: Setting lastTestMethodIndex: 42012
+Tue May 15 18:33:34 UTC 2018: Starting linking
+Tue May 15 18:33:34 UTC 2018: Code found com.thoughtworks.gauge.execution.ParameterTestHelpers-parameter with com.thoughtworks.gauge.execution.parameters.parsers.types.EnumParameterParserTest-givenAnEnumParameterTypeAndAValidParameterForThatEnumThenTheEnumInstanceIsReturned
+Tue May 15 18:33:34 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.parameters.parsers.types.EnumParameterParserTest
+Tue May 15 18:33:35 UTC 2018: Found element on the queue
+Tue May 15 18:33:35 UTC 2018: Updating status
+Tue May 15 18:33:35 UTC 2018: Working
+Tue May 15 18:33:39 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.parameters.parsers.types.TableParameterParserTest
+Tue May 15 18:33:39 UTC 2018: Setting lastTestMethodIndex: 42015
+Tue May 15 18:33:39 UTC 2018: Starting linking
+Tue May 15 18:33:39 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.parsers.converters.TableConverter-convert with com.thoughtworks.gauge.execution.parameters.parsers.types.TableParameterParserTest-whenATableParameterParsedThenTheTableConverterIsPassedThatParameter
+Tue May 15 18:33:39 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.parsers.converters.TableConverter-convert with com.thoughtworks.gauge.execution.parameters.parsers.types.TableParameterParserTest-whenATableParameterParsedThenTheTheConvertedTableIsReturned
+Tue May 15 18:33:39 UTC 2018: Code found com.thoughtworks.gauge.execution.parameters.parsers.converters.TableConverter-convert with com.thoughtworks.gauge.execution.parameters.parsers.types.TableParameterParserTest-whenASpecialTableParameterParsedThenTheTableConverterIsPassedThatParameter
+Tue May 15 18:33:39 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.parameters.parsers.types.TableParameterParserTest
+Tue May 15 18:33:40 UTC 2018: Found element on the queue
+Tue May 15 18:33:40 UTC 2018: Updating status
+Tue May 15 18:33:40 UTC 2018: Working
+Tue May 15 18:33:43 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.StepExecutionStageTest
+Tue May 15 18:33:43 UTC 2018: Setting lastTestMethodIndex: 42019
+Tue May 15 18:33:43 UTC 2018: Starting linking
+Tue May 15 18:33:43 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.StepExecutionStageTest
+Tue May 15 18:33:43 UTC 2018: Found element on the queue
+Tue May 15 18:33:43 UTC 2018: Updating status
+Tue May 15 18:33:44 UTC 2018: Working
+Tue May 15 18:33:47 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.ExecutionPipelineTest
+Tue May 15 18:33:47 UTC 2018: Setting lastTestMethodIndex: 42023
+Tue May 15 18:33:47 UTC 2018: Starting linking
+Tue May 15 18:33:47 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.ExecutionPipelineTest
+Tue May 15 18:33:48 UTC 2018: Found element on the queue
+Tue May 15 18:33:48 UTC 2018: Updating status
+Tue May 15 18:33:48 UTC 2018: Working
+Tue May 15 18:33:51 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.AbstractExecutionStageTest
+Tue May 15 18:33:51 UTC 2018: Setting lastTestMethodIndex: 42027
+Tue May 15 18:33:51 UTC 2018: Starting linking
+Tue May 15 18:33:51 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.AbstractExecutionStageTest
+Tue May 15 18:33:52 UTC 2018: Found element on the queue
+Tue May 15 18:33:52 UTC 2018: Updating status
+Tue May 15 18:33:52 UTC 2018: Working
+Tue May 15 18:33:54 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.execution.HooksExecutorTest
+Tue May 15 18:33:54 UTC 2018: Setting lastTestMethodIndex: 42030
+Tue May 15 18:33:54 UTC 2018: Starting linking
+Tue May 15 18:33:54 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.execution.HooksExecutorTest
+Tue May 15 18:33:55 UTC 2018: Found element on the queue
+Tue May 15 18:33:55 UTC 2018: Updating status
+Tue May 15 18:33:55 UTC 2018: Working
+Tue May 15 18:33:58 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.TableTest
+Tue May 15 18:33:58 UTC 2018: Setting lastTestMethodIndex: 42033
+Tue May 15 18:33:58 UTC 2018: Starting linking
+Tue May 15 18:33:58 UTC 2018: Code found com.thoughtworks.gauge.Table-equals with com.thoughtworks.gauge.TableTest-testEqualsTwoTablesSameValuesDifferentOrder
+Tue May 15 18:33:59 UTC 2018: Code found com.thoughtworks.gauge.Table-equals with com.thoughtworks.gauge.TableTest-testEqualsWithDifferentHeadersOrderSameHeadersValues
+Tue May 15 18:33:59 UTC 2018: Code found com.thoughtworks.gauge.Table-equals with com.thoughtworks.gauge.TableTest-testEqualsWithSameHeadersOrderAndValues
+Tue May 15 18:33:59 UTC 2018: Code found com.thoughtworks.gauge.Table-equals with com.thoughtworks.gauge.TableTest-testEqualsWithDifferentHeadersValues
+Tue May 15 18:33:59 UTC 2018: Code found com.thoughtworks.gauge.Table-equals with com.thoughtworks.gauge.TableTest-testEqualsWithDifferentHeadersSize
+Tue May 15 18:33:59 UTC 2018: Code found com.thoughtworks.gauge.Table-toString with com.thoughtworks.gauge.TableTest-testToStringWithEmptyHeaderAndRow
+Tue May 15 18:34:00 UTC 2018: Code found com.thoughtworks.gauge.Table-toString with com.thoughtworks.gauge.TableTest-testToString
+Tue May 15 18:34:00 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-shouldGetAColumnNameByIndex
+Tue May 15 18:34:00 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-shouldGetValuesForGivenColumnNames
+Tue May 15 18:34:01 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-testEqualHavingMatchingHeadersMatchingValuesInDifferentOrder
+Tue May 15 18:34:01 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-testEqualWithPartialMatchingValues
+Tue May 15 18:34:01 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-shouldBeAbleToGetTableCellFromColumnName
+Tue May 15 18:34:01 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-testEqualWithTableHavingSameHeadersAndValues
+Tue May 15 18:34:01 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-shouldGetListOfColumnNames
+Tue May 15 18:34:02 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-shouldGetValuesForGivenColumnIndex
+Tue May 15 18:34:02 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-shouldThrowAnExceptionWhenInvalidColumnIndex
+Tue May 15 18:34:02 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-testEqualWithJavaRules
+Tue May 15 18:34:03 UTC 2018: No link for: com.thoughtworks.gauge.TableTest-shouldGetEmptyValuesListForInvalidColumnName
+Tue May 15 18:34:03 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.TableTest
+Tue May 15 18:34:04 UTC 2018: Found element on the queue
+Tue May 15 18:34:04 UTC 2018: Updating status
+Tue May 15 18:34:04 UTC 2018: Working
+Tue May 15 18:34:07 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.TableRowTest
+Tue May 15 18:34:07 UTC 2018: Setting lastTestMethodIndex: 42039
+Tue May 15 18:34:07 UTC 2018: Starting linking
+Tue May 15 18:34:07 UTC 2018: Code found com.thoughtworks.gauge.TableRow-toString with com.thoughtworks.gauge.TableRowTest-testToString
+Tue May 15 18:34:07 UTC 2018: Code found com.thoughtworks.gauge.TableRow-equals with com.thoughtworks.gauge.TableRowTest-testEqualSameValuesDifferentOrder
+Tue May 15 18:34:08 UTC 2018: Code found com.thoughtworks.gauge.TableRow-equals with com.thoughtworks.gauge.TableRowTest-testEqualSameValuesAndOrder
+Tue May 15 18:34:08 UTC 2018: No link for: com.thoughtworks.gauge.TableRowTest-testEqualDifferentValues
+Tue May 15 18:34:08 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.TableRowTest
+Tue May 15 18:34:09 UTC 2018: Found element on the queue
+Tue May 15 18:34:09 UTC 2018: Updating status
+Tue May 15 18:34:09 UTC 2018: Working
+Tue May 15 18:34:12 UTC 2018: Start getgauge__gauge-java test class com.thoughtworks.gauge.ClassInstanceManagerTest
+Tue May 15 18:34:12 UTC 2018: Setting lastTestMethodIndex: 42043
+Tue May 15 18:34:12 UTC 2018: Starting linking
+Tue May 15 18:34:12 UTC 2018: Linking done for getgauge__gauge-java test class com.thoughtworks.gauge.ClassInstanceManagerTest

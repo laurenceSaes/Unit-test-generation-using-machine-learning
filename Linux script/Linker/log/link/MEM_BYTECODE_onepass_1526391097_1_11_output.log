@@ -1,0 +1,55 @@
+Tue May 15 13:44:09 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:44:10 UTC 2018: Starting
+Tue May 15 13:44:11 UTC 2018: Found element on the queue
+Tue May 15 13:44:11 UTC 2018: Updating status
+Tue May 15 13:44:11 UTC 2018: Working
+Tue May 15 13:44:11 UTC 2018: Create project parser
+Tue May 15 13:44:20 UTC 2018: Create slicer
+Tue May 15 13:44:25 UTC 2018: Create call graph
+Tue May 15 13:44:29 UTC 2018: Create point analysis
+Tue May 15 13:44:29 UTC 2018: Create call graph done
+Tue May 15 13:44:29 UTC 2018: Start cristianrgreco__youtube-downloader test class com.cristianrgreco.ytdl.DownloadProgressTest
+Tue May 15 13:44:29 UTC 2018: Setting lastTestMethodIndex: 34295
+Tue May 15 13:44:29 UTC 2018: Starting linking
+Tue May 15 13:44:29 UTC 2018: Code found com.cristianrgreco.ytdl.DownloadProgress-parse with com.cristianrgreco.ytdl.DownloadProgressTest-parsePercentageCompleteFromProgressMessage
+Tue May 15 13:44:29 UTC 2018: Code found com.cristianrgreco.ytdl.DownloadProgress-parse with com.cristianrgreco.ytdl.DownloadProgressTest-parseEtaFromProgressMessage
+Tue May 15 13:44:29 UTC 2018: Code found com.cristianrgreco.ytdl.DownloadProgress-parse with com.cristianrgreco.ytdl.DownloadProgressTest-parseFileSizeFromProgressMessage
+Tue May 15 13:44:29 UTC 2018: Code found com.cristianrgreco.ytdl.DownloadProgress-parse with com.cristianrgreco.ytdl.DownloadProgressTest-parseDownloadSpeedFromProgressMessage
+Tue May 15 13:44:29 UTC 2018: Code found com.cristianrgreco.ytdl.DownloadProgress-parse with com.cristianrgreco.ytdl.DownloadProgressTest-parseDownloadSpeedFromProgressMessageWhenUnknown
+Tue May 15 13:44:29 UTC 2018: Code found com.cristianrgreco.ytdl.DownloadProgress-parse with com.cristianrgreco.ytdl.DownloadProgressTest-throwsExceptionIfAttemptToParseInvalidProgressMessage
+Tue May 15 13:44:29 UTC 2018: Code found com.cristianrgreco.ytdl.DownloadProgress-parse with com.cristianrgreco.ytdl.DownloadProgressTest-parseEtaFromProgressMessageWhenUnknown
+Tue May 15 13:44:29 UTC 2018: No link for: com.cristianrgreco.ytdl.DownloadProgressTest-validatesCorrectProgressMessage
+Tue May 15 13:44:29 UTC 2018: No link for: com.cristianrgreco.ytdl.DownloadProgressTest-invalidatesIncorrectProgressMessage
+Tue May 15 13:44:29 UTC 2018: Linking done for cristianrgreco__youtube-downloader test class com.cristianrgreco.ytdl.DownloadProgressTest
+Tue May 15 13:44:31 UTC 2018: Found element on the queue
+Tue May 15 13:44:31 UTC 2018: Updating status
+Tue May 15 13:44:31 UTC 2018: Working
+Tue May 15 13:44:34 UTC 2018: Start cristianrgreco__youtube-downloader test class com.cristianrgreco.ytdl.StateTest
+Tue May 15 13:44:34 UTC 2018: Setting lastTestMethodIndex: 34297
+Tue May 15 13:44:34 UTC 2018: Starting linking
+Tue May 15 13:44:34 UTC 2018: No link for: com.cristianrgreco.ytdl.StateTest-parsesDownloadingState
+Tue May 15 13:44:34 UTC 2018: No link for: com.cristianrgreco.ytdl.StateTest-parsesResolvingState
+Tue May 15 13:44:34 UTC 2018: No link for: com.cristianrgreco.ytdl.StateTest-parsesConvertingState
+Tue May 15 13:44:34 UTC 2018: No link for: com.cristianrgreco.ytdl.StateTest-throwsExceptionIfAttemptToParseInvalidStateMessage
+Tue May 15 13:44:34 UTC 2018: No link for: com.cristianrgreco.ytdl.StateTest-validatesCorrectStateMessage
+Tue May 15 13:44:34 UTC 2018: No link for: com.cristianrgreco.ytdl.StateTest-invalidatesIncorrectStateMessage
+Tue May 15 13:44:34 UTC 2018: Linking done for cristianrgreco__youtube-downloader test class com.cristianrgreco.ytdl.StateTest
+Tue May 15 13:44:35 UTC 2018: Found element on the queue
+Tue May 15 13:44:35 UTC 2018: Updating status
+Tue May 15 13:44:35 UTC 2018: Working
+Tue May 15 13:44:39 UTC 2018: Start cristianrgreco__youtube-downloader test class com.cristianrgreco.ytdl.MessageTest
+Tue May 15 13:44:39 UTC 2018: Setting lastTestMethodIndex: 34299
+Tue May 15 13:44:39 UTC 2018: Starting linking
+Tue May 15 13:44:39 UTC 2018: No link for: com.cristianrgreco.ytdl.MessageTest-createsMessageOfWarningType
+Tue May 15 13:44:39 UTC 2018: No link for: com.cristianrgreco.ytdl.MessageTest-createsMessageOfErrorType
+Tue May 15 13:44:39 UTC 2018: No link for: com.cristianrgreco.ytdl.MessageTest-createsMessageOfErrorTypeForUnknownText
+Tue May 15 13:44:39 UTC 2018: Linking done for cristianrgreco__youtube-downloader test class com.cristianrgreco.ytdl.MessageTest
+Tue May 15 13:44:40 UTC 2018: Found element on the queue
+Tue May 15 13:44:40 UTC 2018: Updating status
+Tue May 15 13:44:40 UTC 2018: Working
+Tue May 15 13:44:44 UTC 2018: Start cristianrgreco__youtube-downloader test class com.cristianrgreco.ytdl.DownloadExceptionTest
+Tue May 15 13:44:44 UTC 2018: Setting lastTestMethodIndex: 34301
+Tue May 15 13:44:44 UTC 2018: Starting linking
+Tue May 15 13:44:44 UTC 2018: Code found com.cristianrgreco.ytdl.DownloadException-hasErrorOccurred with com.cristianrgreco.ytdl.DownloadExceptionTest-hasErrorOccurredInExceptionChain
+Tue May 15 13:44:44 UTC 2018: No link for: com.cristianrgreco.ytdl.DownloadExceptionTest-hasErrorNotOccurredInExceptionChain
+Tue May 15 13:44:44 UTC 2018: Linking done for cristianrgreco__youtube-downloader test class com.cristianrgreco.ytdl.DownloadExceptionTest

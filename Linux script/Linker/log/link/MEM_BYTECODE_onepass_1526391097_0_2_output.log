@@ -1,0 +1,322 @@
+Tue May 15 13:32:20 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:32:21 UTC 2018: Starting
+Tue May 15 13:32:22 UTC 2018: Found element on the queue
+Tue May 15 13:32:22 UTC 2018: Updating status
+Tue May 15 13:32:22 UTC 2018: Working
+Tue May 15 13:32:22 UTC 2018: Create project parser
+Tue May 15 13:32:46 UTC 2018: Create slicer
+Tue May 15 13:32:54 UTC 2018: Create call graph
+Tue May 15 13:33:03 UTC 2018: Create point analysis
+Tue May 15 13:33:03 UTC 2018: Create call graph done
+Tue May 15 13:33:03 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.realestates.RealEstateControllerTest
+Tue May 15 13:33:03 UTC 2018: Setting lastTestMethodIndex: 34032
+Tue May 15 13:33:03 UTC 2018: Starting linking
+Tue May 15 13:33:03 UTC 2018: Code found rs.acs.uns.sw.sct.realestates.RealEstate-deleted with rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllDeletedRealEstatesAsAdmin
+Tue May 15 13:33:03 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllRealEstatesAsGuest
+Tue May 15 13:33:03 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllSimilarRealEstatesAsVerifier
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-deleteRealEstateAsGuest
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-createRealEstateAsAdmin
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllDeletedRealEstatesAsAdvertiser
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllSimilarRealEstatesAsAdvertiser
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-checkDeletedIsRequired
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllSimilarRealEstatesAsAdvertiserGoodAddressWrongArea
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getRealEstate
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-createRealEstateAsGuest
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-deleteRealEstateAsAdmin
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllNonDeletedRealEstatesAsAdvertiser
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-checkAreaIsRequired
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllSimilarRealEstatesAsGuest
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllRealEstatesAsAdvertiser
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-updateRealEstateAsGuest
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-deleteRealEstateAsVerifier
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-checkTypeIsRequired
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-createRealEstateAsAdvertiser
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-checkHeatingTypeIsRequired
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllRealEstatesAsAdmin
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-updateRealEstate
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getNonExistingRealEstate
+Tue May 15 13:33:04 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateControllerTest-getAllSimilarRealEstatesAsAdvertiserGoodAreaWrongAddress
+Tue May 15 13:33:04 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.realestates.RealEstateControllerTest
+Tue May 15 13:33:05 UTC 2018: Found element on the queue
+Tue May 15 13:33:05 UTC 2018: Updating status
+Tue May 15 13:33:05 UTC 2018: Working
+Tue May 15 13:33:08 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.realestates.RealEstateServiceTest
+Tue May 15 13:33:08 UTC 2018: Setting lastTestMethodIndex: 34033
+Tue May 15 13:33:08 UTC 2018: Starting linking
+Tue May 15 13:33:09 UTC 2018: Code found rs.acs.uns.sw.sct.realestates.RealEstateService-findAll with rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testFindAllPageable
+Tue May 15 13:33:09 UTC 2018: Code found rs.acs.uns.sw.sct.realestates.RealEstateService-findAllSimilar with rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testFindAllSimilar
+Tue May 15 13:33:09 UTC 2018: Code found rs.acs.uns.sw.sct.realestates.RealEstateService-findAllByStatus with rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testFindAllByStatusDeletedFalse
+Tue May 15 13:33:09 UTC 2018: Code found rs.acs.uns.sw.sct.realestates.RealEstateService-findOne with rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testFindOne
+Tue May 15 13:33:09 UTC 2018: Code found rs.acs.uns.sw.sct.realestates.RealEstateService-findAllByStatus with rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testFindAllByStatusDeletedTrue
+Tue May 15 13:33:09 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testFindAll
+Tue May 15 13:33:09 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testAdd
+Tue May 15 13:33:09 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testUpdate
+Tue May 15 13:33:09 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testAddNullType
+Tue May 15 13:33:09 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testAddNullHeatingType
+Tue May 15 13:33:09 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testRemove
+Tue May 15 13:33:09 UTC 2018: No link for: rs.acs.uns.sw.sct.realestates.RealEstateServiceTest-testAddNullArea
+Tue May 15 13:33:09 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.realestates.RealEstateServiceTest
+Tue May 15 13:33:10 UTC 2018: Found element on the queue
+Tue May 15 13:33:10 UTC 2018: Updating status
+Tue May 15 13:33:10 UTC 2018: Working
+Tue May 15 13:33:13 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.companies.CompanyServiceTest
+Tue May 15 13:33:13 UTC 2018: Setting lastTestMethodIndex: 34034
+Tue May 15 13:33:13 UTC 2018: Starting linking
+Tue May 15 13:33:13 UTC 2018: Code found rs.acs.uns.sw.sct.companies.CompanyService-findOne with rs.acs.uns.sw.sct.companies.CompanyServiceTest-testFindOne
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-testRemove
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-testAddNullName
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-testFindAllPageable
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-testUpdate
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-testAddNullTelephoneNo
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-testFindAll
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-testAdd
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-testAddNullAddress
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-searchCompaniesByNameAndAddressAndPhoneNumber
+Tue May 15 13:33:13 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyServiceTest-searchCompaniesWithoutAnyQuery
+Tue May 15 13:33:13 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.companies.CompanyServiceTest
+Tue May 15 13:33:14 UTC 2018: Found element on the queue
+Tue May 15 13:33:14 UTC 2018: Updating status
+Tue May 15 13:33:14 UTC 2018: Working
+Tue May 15 13:33:17 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.companies.CompanyControllerTest
+Tue May 15 13:33:17 UTC 2018: Setting lastTestMethodIndex: 34035
+Tue May 15 13:33:17 UTC 2018: Starting linking
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-getNonExistingCompany
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-deleteCompanyAsAdmin
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-resolveCompanyMembershipAsAdvertiserAndSetToFalse
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-getAllCompanies
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-checkNameIsRequired
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-sendRequestForCompanyAsGuest
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-getCompanyRequestsByStatusAsAdmin
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-searchCompaniesWithoutAnyAttribute
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-sendRequestForCompanyAsAdvertiser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-resolveCompanyMembershipAsAdvertiserAndSetToAccepted
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-resolveCompanyMembershipAsAdvertiserForUserWithDifferentCompany
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-createCompanyAsGuest
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-checkAddressIsRequired
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-getCompanyRequestsByStatusAsGuest
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-checkTelephoneNoIsRequired
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-getCompanyRequestsByStatusAsCompanyNotVerifiedAdvertiser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-sendRequestForCompanyAsAdmin
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-updateCompanyAsAdvertiser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-sendRequestForCompanyAsAlreadyCompanyVerifiedAdvertiserAndOverrideCompany
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-resolveCompanyMembershipAsVerifierWithAlreadyAcceptedUser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-getCompany
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-resolveCompanyMembershipAsGuest
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-resolveCompanyMembershipAsAdvertiserForWrongUser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-createCompanyAsAdmin
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-updateCompanyAsGuest
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-deleteCompanyAsGuest
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-resolveCompanyMembershipAsAdvertiserForUserWithoutRequest
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-deleteCompanyAsAdvertiser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-getCompanyRequestsByStatusAsRightCompanyVerifiedAdvertiser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-createCompanyAsAdvertiser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-sendRequestForCompanyAsAlreadyCompanyVerifiedAdvertiser
+Tue May 15 13:33:17 UTC 2018: No link for: rs.acs.uns.sw.sct.companies.CompanyControllerTest-searchCompaniesByNameAndAddressAndPhoneNumber
+Tue May 15 13:33:17 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.companies.CompanyControllerTest
+Tue May 15 13:33:18 UTC 2018: Found element on the queue
+Tue May 15 13:33:18 UTC 2018: Updating status
+Tue May 15 13:33:18 UTC 2018: Working
+Tue May 15 13:33:21 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest
+Tue May 15 13:33:21 UTC 2018: Setting lastTestMethodIndex: 34036
+Tue May 15 13:33:21 UTC 2018: Starting linking
+Tue May 15 13:33:21 UTC 2018: Code found rs.acs.uns.sw.sct.announcements.Announcement-price with rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAddNullPrice
+Tue May 15 13:33:21 UTC 2018: Code found rs.acs.uns.sw.sct.announcements.Announcement-dateAnnounced with rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAddNullDateAnnounced
+Tue May 15 13:33:21 UTC 2018: Code found rs.acs.uns.sw.sct.announcements.Announcement-deleted with rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-searchDeletedAnnouncements
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAnnouncementsByAuthorId
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testUpdate
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testFindAllByStatusDeletedTrue
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testFindAll
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testTopThreeAnnouncements
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAddNullType
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAddNullDescription
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAddNullExpirationDate
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAdd
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testRemove
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAddNullName
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-searchAnnouncementsByAreaLimitInclude
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testFindAllByStatusDeletedFalse
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-searchAnnouncementsInArea
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testFindOne
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-searchAnnouncementsWithoutAnyAttribute
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testAddNullTelephoneNo
+Tue May 15 13:33:21 UTC 2018: No link for: rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest-testFindAllPageable
+Tue May 15 13:33:21 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.announcements.AnnouncementServiceTest
+Tue May 15 13:33:22 UTC 2018: Found element on the queue
+Tue May 15 13:33:22 UTC 2018: Updating status
+Tue May 15 13:33:22 UTC 2018: Working
+Tue May 15 13:33:25 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.reports.ReportServiceTest
+Tue May 15 13:33:25 UTC 2018: Setting lastTestMethodIndex: 34037
+Tue May 15 13:33:25 UTC 2018: Starting linking
+Tue May 15 13:33:25 UTC 2018: Code found rs.acs.uns.sw.sct.reports.ReportService-findByAuthorEmail with rs.acs.uns.sw.sct.reports.ReportServiceTest-testFindByAuthorEmail
+Tue May 15 13:33:25 UTC 2018: Code found rs.acs.uns.sw.sct.reports.ReportService-findOne with rs.acs.uns.sw.sct.reports.ReportServiceTest-testFindOne
+Tue May 15 13:33:25 UTC 2018: Code found rs.acs.uns.sw.sct.reports.ReportService-findByStatus with rs.acs.uns.sw.sct.reports.ReportServiceTest-testFindByStatus
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testFindAll
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testAdd
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testAddNullStatus
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testAddNullType
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testFindAllPageable
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testRemove
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-findSameReports
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testAddNullContent
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testAddNullEmail
+Tue May 15 13:33:25 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportServiceTest-testUpdate
+Tue May 15 13:33:25 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.reports.ReportServiceTest
+Tue May 15 13:33:26 UTC 2018: Found element on the queue
+Tue May 15 13:33:26 UTC 2018: Updating status
+Tue May 15 13:33:26 UTC 2018: Working
+Tue May 15 13:33:29 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.reports.ReportControllerTest
+Tue May 15 13:33:29 UTC 2018: Setting lastTestMethodIndex: 34038
+Tue May 15 13:33:29 UTC 2018: Starting linking
+Tue May 15 13:33:29 UTC 2018: Code found rs.acs.uns.sw.sct.reports.Report-status with rs.acs.uns.sw.sct.reports.ReportControllerTest-changeReportStatus
+Tue May 15 13:33:29 UTC 2018: Code found rs.acs.uns.sw.sct.reports.Report-status with rs.acs.uns.sw.sct.reports.ReportControllerTest-getAllReportsByStatusAsAdmin
+Tue May 15 13:33:29 UTC 2018: Code found rs.acs.uns.sw.sct.reports.Report-id with rs.acs.uns.sw.sct.reports.ReportControllerTest-createReportAsGuestWithSameReportId
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getAllReportsWithoutAuthority
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getReportAsGuest
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-resolveReportThatIsAlreadyResolved
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-checkStatusIsRequired
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getReportsByAuthor
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-acceptReport
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getNonExistingReport
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-createReportAsRegisteredUser
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getReportAsAdvertiser
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getAllReportsByStatusAsGuest
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-createReportSameReportTwoTimesAsSameUser
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-createReportAsGuest
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-updateReportAsGuest
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getAllReports
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-createReportAsGuestToVerifiedAnnouncement
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-checkTypeIsRequired
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-resolveReportWrongId
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-resolveReportAsAdvertiser
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-rejectReport
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-checkContentIsRequired
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-checkEmailIsRequired
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-deleteNonExistingReport
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-resolveReportWithoutStatus
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-deleteReportAsGuest
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-createReportAsGuestToWrongAnnouncement
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getReportAsAdmin
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-getAllReportsByStatusAsAdvertiser
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-resolveReportAsGuest
+Tue May 15 13:33:29 UTC 2018: No link for: rs.acs.uns.sw.sct.reports.ReportControllerTest-resolveReportWithWrongStatusQuery
+Tue May 15 13:33:29 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.reports.ReportControllerTest
+Tue May 15 13:33:30 UTC 2018: Found element on the queue
+Tue May 15 13:33:30 UTC 2018: Updating status
+Tue May 15 13:33:30 UTC 2018: Working
+Tue May 15 13:33:33 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.comments.CommentControllerTest
+Tue May 15 13:33:33 UTC 2018: Setting lastTestMethodIndex: 34039
+Tue May 15 13:33:33 UTC 2018: Starting linking
+Tue May 15 13:33:33 UTC 2018: Code found rs.acs.uns.sw.sct.comments.Comment-date with rs.acs.uns.sw.sct.comments.CommentControllerTest-updateCommentNotOwner
+Tue May 15 13:33:33 UTC 2018: Code found rs.acs.uns.sw.sct.comments.Comment-date with rs.acs.uns.sw.sct.comments.CommentControllerTest-updateComment
+Tue May 15 13:33:33 UTC 2018: Code found rs.acs.uns.sw.sct.comments.Comment-announcement with rs.acs.uns.sw.sct.comments.CommentControllerTest-getAllCommentsForAnnouncementAsGuest
+Tue May 15 13:33:33 UTC 2018: Code found rs.acs.uns.sw.sct.comments.Comment-date with rs.acs.uns.sw.sct.comments.CommentControllerTest-updateCommentAsAdmin
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-deleteCommentNotOwner
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-getAllCommentsAsGuest
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-deleteCommentAsAdmin
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-getCommentAsVerifier
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-deleteCommentAsGuest
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-deleteCommentAsVerifier
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-createComment
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-getAllCommentsForNonExistingAnnouncementAsGuest
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-getAllCommentsAsAdmin
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-getNonExistingComment
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-checkDateIsRequired
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-getCommentAsGuest
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-checkContentIsRequired
+Tue May 15 13:33:33 UTC 2018: No link for: rs.acs.uns.sw.sct.comments.CommentControllerTest-getAllCommentsAsAdvertiser
+Tue May 15 13:33:33 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.comments.CommentControllerTest
+Tue May 15 13:33:34 UTC 2018: Found element on the queue
+Tue May 15 13:33:34 UTC 2018: Updating status
+Tue May 15 13:33:34 UTC 2018: Working
+Tue May 15 13:33:37 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.users.UserControllerTest
+Tue May 15 13:33:37 UTC 2018: Setting lastTestMethodIndex: 34040
+Tue May 15 13:33:37 UTC 2018: Starting linking
+Tue May 15 13:33:37 UTC 2018: Code found rs.acs.uns.sw.sct.users.User-deleted with rs.acs.uns.sw.sct.users.UserControllerTest-getUsersByStatusDeletedAsAdmin
+Tue May 15 13:33:37 UTC 2018: Code found rs.acs.uns.sw.sct.users.User-deleted with rs.acs.uns.sw.sct.users.UserControllerTest-getUsersByStatusDeletedTrueAsAdvertiser
+Tue May 15 13:33:37 UTC 2018: Code found rs.acs.uns.sw.sct.users.User-deleted with rs.acs.uns.sw.sct.users.UserControllerTest-searchDeletedUser
+Tue May 15 13:33:37 UTC 2018: Code found rs.acs.uns.sw.sct.users.User-deleted with rs.acs.uns.sw.sct.users.UserControllerTest-getUsersByStatusDeletedAsGuest
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-isUsernameAvailableFalse
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-isUsernameAvailableTrue
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-tryAuthenticateWhenEmailVerificationIsNotConfirmed
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-getUsersByStatusDeletedFalseAsAdvertiser
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-checkValueIsRequired
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-getExistingUserAsAdvertiser
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-searchUsersByCompanyNameWhenCompanyStatusIsNotAccepted
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-authUserSuccess
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-tryToSetVerificationToTrueWhenRegister
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-registerUserWithExistingUsername
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-getExistingUserAsGuest
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-searchUsersByPhoneNumberAndCompanyName
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-searchUsersWithoutAuthority
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-getMyProfileAsAdvertiser
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-getUsersByCompanyId
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-searchUsersWithoutAnyAttribute
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-registerUser
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-isEmailAvailableTrue
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-getNonExistingUser
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-registerUserWithExistingEmail
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-searchUsersByUsernameAndEmailAndNameAndSurname
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-authUserFailed
+Tue May 15 13:33:37 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserControllerTest-isEmailAvailableFalse
+Tue May 15 13:33:37 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.users.UserControllerTest
+Tue May 15 13:33:38 UTC 2018: Found element on the queue
+Tue May 15 13:33:38 UTC 2018: Updating status
+Tue May 15 13:33:38 UTC 2018: Working
+Tue May 15 13:33:41 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.users.UserServiceTest
+Tue May 15 13:33:41 UTC 2018: Setting lastTestMethodIndex: 34042
+Tue May 15 13:33:41 UTC 2018: Starting linking
+Tue May 15 13:33:41 UTC 2018: Code found rs.acs.uns.sw.sct.users.UserService-findAllByCompanyMembershipStatus with rs.acs.uns.sw.sct.users.UserServiceTest-testFindAllByCompanyMembershipStatusPending
+Tue May 15 13:33:41 UTC 2018: Code found rs.acs.uns.sw.sct.users.UserService-findAllByStatus with rs.acs.uns.sw.sct.users.UserServiceTest-testFindAllByStatusDeletedTrue
+Tue May 15 13:33:41 UTC 2018: Code found rs.acs.uns.sw.sct.users.UserService-findAllByCompanyMembershipStatus with rs.acs.uns.sw.sct.users.UserServiceTest-testFindAllByCompanyMembershipStatusAccepted
+Tue May 15 13:33:41 UTC 2018: Code found rs.acs.uns.sw.sct.users.UserService-findAllByStatus with rs.acs.uns.sw.sct.users.UserServiceTest-testFindAllByStatusDeletedFalse
+Tue May 15 13:33:42 UTC 2018: Code found rs.acs.uns.sw.sct.users.UserService-findOne with rs.acs.uns.sw.sct.users.UserServiceTest-testFindOne
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-searchUsersWithoutAnyAttribute
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-searchDeletedUsers
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testAddNonUniqueUsername
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testAddNonUniqueEmail
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testAddNullLastName
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testAdd
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testAddNullFirstName
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testAddNullPassword
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testFindUserByEmail
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testUpdate
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testFindAll
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-searchUsersByUsernameAndEmailAndNameAndSurname
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testAddNullType
+Tue May 15 13:33:42 UTC 2018: No link for: rs.acs.uns.sw.sct.users.UserServiceTest-testFindAllUsersByCompany
+Tue May 15 13:33:42 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.users.UserServiceTest
+Tue May 15 13:33:43 UTC 2018: Found element on the queue
+Tue May 15 13:33:43 UTC 2018: Updating status
+Tue May 15 13:33:43 UTC 2018: Working
+Tue May 15 13:33:46 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.marks.MarkControllerTest
+Tue May 15 13:33:46 UTC 2018: Setting lastTestMethodIndex: 34044
+Tue May 15 13:33:46 UTC 2018: Starting linking
+Tue May 15 13:33:46 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-getNonExistingMark
+Tue May 15 13:33:46 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-createMarkAsGuest
+Tue May 15 13:33:46 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-getAllMarksAsAdvertiser
+Tue May 15 13:33:46 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-createMarkAsAdvertiser
+Tue May 15 13:33:46 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-checkValueIsRequired
+Tue May 15 13:33:46 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-deleteMarkAsGuest
+Tue May 15 13:33:47 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-getAllMarksAsAdmin
+Tue May 15 13:33:47 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-getMarkAsGuest
+Tue May 15 13:33:47 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-getAllMarksAsGuest
+Tue May 15 13:33:47 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-getMarkAsAdvertiser
+Tue May 15 13:33:47 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-deleteMarkAsVerifier
+Tue May 15 13:33:47 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-getAllMarksForAnnouncementAsAdvertiser
+Tue May 15 13:33:47 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkControllerTest-updateMark
+Tue May 15 13:33:47 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.marks.MarkControllerTest
+Tue May 15 13:33:48 UTC 2018: Found element on the queue
+Tue May 15 13:33:48 UTC 2018: Updating status
+Tue May 15 13:33:48 UTC 2018: Working
+Tue May 15 13:33:51 UTC 2018: Start cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.marks.MarkServiceTest
+Tue May 15 13:33:51 UTC 2018: Setting lastTestMethodIndex: 34046
+Tue May 15 13:33:51 UTC 2018: Starting linking
+Tue May 15 13:33:51 UTC 2018: Code found rs.acs.uns.sw.sct.marks.MarkService-findOne with rs.acs.uns.sw.sct.marks.MarkServiceTest-testFindOne
+Tue May 15 13:33:51 UTC 2018: Code found rs.acs.uns.sw.sct.marks.MarkService-findAllByAnnouncement with rs.acs.uns.sw.sct.marks.MarkServiceTest-testFindAllByAnnouncementId
+Tue May 15 13:33:51 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkServiceTest-testRemove
+Tue May 15 13:33:51 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkServiceTest-testFindAllPageable
+Tue May 15 13:33:51 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkServiceTest-testAdd
+Tue May 15 13:33:51 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkServiceTest-testFindAll
+Tue May 15 13:33:51 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkServiceTest-testAddNullValue
+Tue May 15 13:33:51 UTC 2018: No link for: rs.acs.uns.sw.sct.marks.MarkServiceTest-testUpdate
+Tue May 15 13:33:51 UTC 2018: Linking done for cod3rs-ns__4-sct-pillow-service test class rs.acs.uns.sw.sct.marks.MarkServiceTest

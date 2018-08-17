@@ -1,0 +1,54 @@
+Tue May 15 13:39:26 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:39:27 UTC 2018: Starting
+Tue May 15 13:39:28 UTC 2018: Found element on the queue
+Tue May 15 13:39:28 UTC 2018: Updating status
+Tue May 15 13:39:28 UTC 2018: Working
+Tue May 15 13:39:28 UTC 2018: Create project parser
+Tue May 15 13:39:40 UTC 2018: Create slicer
+Tue May 15 13:39:40 UTC 2018: Wala does not support this class: com.ibm.wala.shrikeCT.InvalidClassFileException: Class file invalid at 10: bad magic number: 1010792557
+Tue May 15 13:39:44 UTC 2018: Create call graph
+Tue May 15 13:39:52 UTC 2018: Create point analysis
+Tue May 15 13:39:52 UTC 2018: Create call graph done
+Tue May 15 13:39:52 UTC 2018: Start Consonance__consonance test class io.consonance.arch.test.TestWorkerWithMocking
+Tue May 15 13:39:52 UTC 2018: Setting lastTestMethodIndex: 34175
+Tue May 15 13:39:52 UTC 2018: Starting linking
+Tue May 15 13:39:52 UTC 2018: Code found io.consonance.arch.worker.WorkerRunnable-run with io.consonance.arch.test.TestWorkerWithMocking-testRunWorker
+Tue May 15 13:39:52 UTC 2018: Linking done for Consonance__consonance test class io.consonance.arch.test.TestWorkerWithMocking
+Tue May 15 13:39:53 UTC 2018: Found element on the queue
+Tue May 15 13:39:53 UTC 2018: Updating status
+Tue May 15 13:39:53 UTC 2018: Working
+Tue May 15 13:39:57 UTC 2018: Start Consonance__consonance test class io.consonance.arch.test.TestCoordinator
+Tue May 15 13:39:57 UTC 2018: Setting lastTestMethodIndex: 34177
+Tue May 15 13:39:57 UTC 2018: Starting linking
+Tue May 15 13:39:57 UTC 2018: No link for: io.consonance.arch.test.TestCoordinator-testCoordinator_invalidDB
+Tue May 15 13:39:57 UTC 2018: No link for: io.consonance.arch.test.TestCoordinator-testCoordinator_badDBConfig
+Tue May 15 13:39:57 UTC 2018: Linking done for Consonance__consonance test class io.consonance.arch.test.TestCoordinator
+Tue May 15 13:39:58 UTC 2018: Found element on the queue
+Tue May 15 13:39:58 UTC 2018: Updating status
+Tue May 15 13:39:58 UTC 2018: Working
+Tue May 15 13:40:01 UTC 2018: Start Consonance__consonance test class io.consonance.arch.worker.TestCollectingLogOutputStream
+Tue May 15 13:40:01 UTC 2018: Setting lastTestMethodIndex: 34179
+Tue May 15 13:40:01 UTC 2018: Starting linking
+Tue May 15 13:40:01 UTC 2018: Code found io.consonance.arch.worker.CollectingLogOutputStream-processLine with io.consonance.arch.worker.TestCollectingLogOutputStream-testProcessLine
+Tue May 15 13:40:01 UTC 2018: Code found io.consonance.arch.worker.CollectingLogOutputStream-getAllLinesAsString with io.consonance.arch.worker.TestCollectingLogOutputStream-testGetAllLinesAsString
+Tue May 15 13:40:01 UTC 2018: Code found io.consonance.arch.worker.CollectingLogOutputStream-getLastNLines with io.consonance.arch.worker.TestCollectingLogOutputStream-testGetLastNLines
+Tue May 15 13:40:01 UTC 2018: Linking done for Consonance__consonance test class io.consonance.arch.worker.TestCollectingLogOutputStream
+Tue May 15 13:40:02 UTC 2018: Found element on the queue
+Tue May 15 13:40:02 UTC 2018: Updating status
+Tue May 15 13:40:02 UTC 2018: Working
+Tue May 15 13:40:02 UTC 2018: Create project parser
+Tue May 15 13:40:08 UTC 2018: Start Consonance__consonance test class core.JobTest
+Tue May 15 13:40:08 UTC 2018: Setting lastTestMethodIndex: 34181
+Tue May 15 13:40:08 UTC 2018: Starting linking
+Tue May 15 13:40:08 UTC 2018: No link for: core.JobTest-serializesToJSON
+Tue May 15 13:40:08 UTC 2018: No link for: core.JobTest-deserializesFromJSON
+Tue May 15 13:40:08 UTC 2018: Linking done for Consonance__consonance test class core.JobTest
+Tue May 15 13:40:09 UTC 2018: Found element on the queue
+Tue May 15 13:40:09 UTC 2018: Updating status
+Tue May 15 13:40:09 UTC 2018: Working
+Tue May 15 13:40:13 UTC 2018: Start Consonance__consonance test class core.UserTest
+Tue May 15 13:40:13 UTC 2018: Setting lastTestMethodIndex: 34184
+Tue May 15 13:40:13 UTC 2018: Starting linking
+Tue May 15 13:40:13 UTC 2018: No link for: core.UserTest-deserializesFromJSON
+Tue May 15 13:40:13 UTC 2018: No link for: core.UserTest-serializesToJSON
+Tue May 15 13:40:13 UTC 2018: Linking done for Consonance__consonance test class core.UserTest

@@ -1,0 +1,322 @@
+Wed May 16 06:40:49 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Wed May 16 06:40:49 UTC 2018: Starting
+Wed May 16 06:40:50 UTC 2018: Found element on the queue
+Wed May 16 06:40:50 UTC 2018: Updating status
+Wed May 16 06:40:50 UTC 2018: Working
+Wed May 16 06:40:50 UTC 2018: Create project parser
+Wed May 16 06:40:57 UTC 2018: Create slicer
+Wed May 16 06:41:00 UTC 2018: Create call graph
+Wed May 16 06:41:03 UTC 2018: Create point analysis
+Wed May 16 06:41:03 UTC 2018: Create call graph done
+Wed May 16 06:41:03 UTC 2018: Start MrCiao__xScala test class org.neo4j.management.impl.IndexSamplingManagerBeanTest
+Wed May 16 06:41:03 UTC 2018: Setting lastTestMethodIndex: 65437
+Wed May 16 06:41:03 UTC 2018: Starting linking
+Wed May 16 06:41:04 UTC 2018: No link for: org.neo4j.management.impl.IndexSamplingManagerBeanTest-exceptionThrownWhenMissingLabel
+Wed May 16 06:41:04 UTC 2018: No link for: org.neo4j.management.impl.IndexSamplingManagerBeanTest-exceptionThrownWhenMissingProperty
+Wed May 16 06:41:05 UTC 2018: No link for: org.neo4j.management.impl.IndexSamplingManagerBeanTest-forceSamplingTriggeredWhenIdsArePresent
+Wed May 16 06:41:05 UTC 2018: No link for: org.neo4j.management.impl.IndexSamplingManagerBeanTest-exceptionThrownWhenNotRegistered
+Wed May 16 06:41:06 UTC 2018: No link for: org.neo4j.management.impl.IndexSamplingManagerBeanTest-samplingTriggeredWhenIdsArePresent
+Wed May 16 06:41:06 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.management.impl.IndexSamplingManagerBeanTest
+Wed May 16 06:41:07 UTC 2018: Found element on the queue
+Wed May 16 06:41:07 UTC 2018: Updating status
+Wed May 16 06:41:07 UTC 2018: Working
+Wed May 16 06:41:10 UTC 2018: Start MrCiao__xScala test class org.neo4j.management.impl.CodeDuplicationValidationTest
+Wed May 16 06:41:10 UTC 2018: Setting lastTestMethodIndex: 65440
+Wed May 16 06:41:10 UTC 2018: Starting linking
+Wed May 16 06:41:10 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.management.impl.CodeDuplicationValidationTest
+Wed May 16 06:41:11 UTC 2018: Found element on the queue
+Wed May 16 06:41:11 UTC 2018: Updating status
+Wed May 16 06:41:11 UTC 2018: Working
+Wed May 16 06:41:11 UTC 2018: Create project parser
+Wed May 16 06:41:16 UTC 2018: Start MrCiao__xScala test class org.neo4j.csv.reader.ReadablesTest
+Wed May 16 06:41:16 UTC 2018: Setting lastTestMethodIndex: 65443
+Wed May 16 06:41:16 UTC 2018: Starting linking
+Wed May 16 06:41:16 UTC 2018: Code found org.neo4j.csv.reader.Readables-file with org.neo4j.csv.reader.ReadablesTest-shouldReadPlainTextFile
+Wed May 16 06:41:16 UTC 2018: Code found org.neo4j.csv.reader.Readables-file with org.neo4j.csv.reader.ReadablesTest-shouldReadTextCompressedInZipArchiveWithSingleFileIn
+Wed May 16 06:41:17 UTC 2018: Code found org.neo4j.csv.reader.Readables-file with org.neo4j.csv.reader.ReadablesTest-shouldReadTheOnlyRealFileInThere
+Wed May 16 06:41:17 UTC 2018: Code found org.neo4j.csv.reader.Readables-file with org.neo4j.csv.reader.ReadablesTest-shouldFailWhenThereAreMoreThanOneSuitableFileInThere
+Wed May 16 06:41:18 UTC 2018: Code found org.neo4j.csv.reader.Readables-file with org.neo4j.csv.reader.ReadablesTest-shouldReadTextCompressedInGZipFile
+Wed May 16 06:41:18 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.csv.reader.ReadablesTest
+Wed May 16 06:41:19 UTC 2018: Found element on the queue
+Wed May 16 06:41:19 UTC 2018: Updating status
+Wed May 16 06:41:19 UTC 2018: Working
+Wed May 16 06:41:22 UTC 2018: Start MrCiao__xScala test class org.neo4j.csv.reader.ThreadAheadReadableTest
+Wed May 16 06:41:22 UTC 2018: Setting lastTestMethodIndex: 65445
+Wed May 16 06:41:22 UTC 2018: Starting linking
+Wed May 16 06:41:22 UTC 2018: Code found org.neo4j.csv.reader.ThreadAheadReadable-read with org.neo4j.csv.reader.ThreadAheadReadableTest-shouldHandleReadAheadEmptyData
+Wed May 16 06:41:22 UTC 2018: Code found org.neo4j.csv.reader.ThreadAheadReadable-read with org.neo4j.csv.reader.ThreadAheadReadableTest-shouldReadAhead
+Wed May 16 06:41:23 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.csv.reader.ThreadAheadReadableTest
+Wed May 16 06:41:23 UTC 2018: Found element on the queue
+Wed May 16 06:41:23 UTC 2018: Updating status
+Wed May 16 06:41:23 UTC 2018: Working
+Wed May 16 06:41:26 UTC 2018: Start MrCiao__xScala test class org.neo4j.csv.reader.BufferedCharSeekerTest
+Wed May 16 06:41:26 UTC 2018: Setting lastTestMethodIndex: 65448
+Wed May 16 06:41:26 UTC 2018: Starting linking
+Wed May 16 06:41:26 UTC 2018: Code found org.neo4j.csv.reader.Extractors$StringExtractor-value with org.neo4j.csv.reader.BufferedCharSeekerTest-shouldReadQuotedValuesWithNewLinesInside
+Wed May 16 06:41:26 UTC 2018: Code found org.neo4j.csv.reader.Extractors$StringExtractor-value with org.neo4j.csv.reader.BufferedCharSeekerTest-shouldReadQuotedValuesWithDelimiterInside
+Wed May 16 06:41:27 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldReadMultipleLines
+Wed May 16 06:41:27 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldRecognizeStrayQuoteCharacters
+Wed May 16 06:41:28 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldReadQuotes
+Wed May 16 06:41:28 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldHandleSlashEncodedQuotes
+Wed May 16 06:41:29 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldExtractEmptyStringForEmptyQuotedString
+Wed May 16 06:41:29 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldHandleReallyWeirdChars
+Wed May 16 06:41:29 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldSkipEmptyLastValue
+Wed May 16 06:41:30 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldFindCertainCharacter
+Wed May 16 06:41:30 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldHandleWindowsEndOfLineCharacters
+Wed May 16 06:41:31 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldSeekThroughAdditionalBufferRead
+Wed May 16 06:41:32 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldHandleDoubleCharValues
+Wed May 16 06:41:33 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldHandleEmptyValues
+Wed May 16 06:41:33 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldContinueThroughCompletelyEmptyLines
+Wed May 16 06:41:34 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldSeeEofEvenIfBufferAlignsWithEnd
+Wed May 16 06:41:34 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldNotLetEolCharSkippingMessUpPositionsInMark
+Wed May 16 06:41:35 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldExtractNullForEmptyFieldWhenWeSkipEOLChars
+Wed May 16 06:41:35 UTC 2018: No link for: org.neo4j.csv.reader.BufferedCharSeekerTest-shouldHandleDoubleQuotes
+Wed May 16 06:41:35 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.csv.reader.BufferedCharSeekerTest
+Wed May 16 06:41:36 UTC 2018: Found element on the queue
+Wed May 16 06:41:36 UTC 2018: Updating status
+Wed May 16 06:41:36 UTC 2018: Working
+Wed May 16 06:41:39 UTC 2018: Start MrCiao__xScala test class org.neo4j.csv.reader.MultiReadableTest
+Wed May 16 06:41:39 UTC 2018: Setting lastTestMethodIndex: 65452
+Wed May 16 06:41:39 UTC 2018: Starting linking
+Wed May 16 06:41:39 UTC 2018: No link for: org.neo4j.csv.reader.MultiReadableTest-shouldHandleSourcesEndingWithNewLine
+Wed May 16 06:41:39 UTC 2018: No link for: org.neo4j.csv.reader.MultiReadableTest-shouldReadFromMultipleReaders
+Wed May 16 06:41:39 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.csv.reader.MultiReadableTest
+Wed May 16 06:41:40 UTC 2018: Found element on the queue
+Wed May 16 06:41:40 UTC 2018: Updating status
+Wed May 16 06:41:40 UTC 2018: Working
+Wed May 16 06:41:42 UTC 2018: Start MrCiao__xScala test class org.neo4j.csv.reader.ExtractorsTest
+Wed May 16 06:41:42 UTC 2018: Setting lastTestMethodIndex: 65453
+Wed May 16 06:41:42 UTC 2018: Starting linking
+Wed May 16 06:41:42 UTC 2018: Code found org.neo4j.csv.reader.Extractors$ArrayExtractor-extract with org.neo4j.csv.reader.ExtractorsTest-shouldExtractBooleanArray
+Wed May 16 06:41:43 UTC 2018: Code found org.neo4j.csv.reader.Extractors$ArrayExtractor-extract with org.neo4j.csv.reader.ExtractorsTest-shouldExtractEmptyLongArrayForEmptyArrayString
+Wed May 16 06:41:43 UTC 2018: Code found org.neo4j.csv.reader.Extractors$ArrayExtractor-extract with org.neo4j.csv.reader.ExtractorsTest-shouldExtractEmptyStringForEmptyArrayString
+Wed May 16 06:41:44 UTC 2018: Code found org.neo4j.csv.reader.Extractors$ArrayExtractor-extract with org.neo4j.csv.reader.ExtractorsTest-shouldExtractDoubleArray
+Wed May 16 06:41:44 UTC 2018: Code found org.neo4j.csv.reader.Extractors$ArrayExtractor-extract with org.neo4j.csv.reader.ExtractorsTest-shouldExtractTwoEmptyStringsForSingleDelimiterInArrayString
+Wed May 16 06:41:45 UTC 2018: Code found org.neo4j.csv.reader.Extractors$ArrayExtractor-extract with org.neo4j.csv.reader.ExtractorsTest-shouldFailExtractingLongArrayWhereAnyValueIsEmpty
+Wed May 16 06:41:45 UTC 2018: No link for: org.neo4j.csv.reader.ExtractorsTest-shouldExtractNegativeInt
+Wed May 16 06:41:45 UTC 2018: No link for: org.neo4j.csv.reader.ExtractorsTest-shouldFailExtractingLongArrayWhereAnyValueIsntReallyANumber
+Wed May 16 06:41:46 UTC 2018: No link for: org.neo4j.csv.reader.ExtractorsTest-shouldExtractLongArray
+Wed May 16 06:41:46 UTC 2018: No link for: org.neo4j.csv.reader.ExtractorsTest-shouldExtractStringArray
+Wed May 16 06:41:47 UTC 2018: No link for: org.neo4j.csv.reader.ExtractorsTest-shouldExtractEmptyStringForEmptyQuotedString
+Wed May 16 06:41:47 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.csv.reader.ExtractorsTest
+Wed May 16 06:41:48 UTC 2018: Found element on the queue
+Wed May 16 06:41:48 UTC 2018: Updating status
+Wed May 16 06:41:48 UTC 2018: Working
+Wed May 16 06:41:48 UTC 2018: Create project parser
+Wed May 16 06:41:57 UTC 2018: Start MrCiao__xScala test class org.neo4j.test.ByteArrayMatcherTest
+Wed May 16 06:41:57 UTC 2018: Setting lastTestMethodIndex: 65458
+Wed May 16 06:41:57 UTC 2018: Starting linking
+Wed May 16 06:41:57 UTC 2018: Code found org.neo4j.test.ByteArrayMatcher-byteArray with org.neo4j.test.ByteArrayMatcherTest-metaTestForByteArrayMatcher
+Wed May 16 06:41:57 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.test.ByteArrayMatcherTest
+Wed May 16 06:41:58 UTC 2018: Found element on the queue
+Wed May 16 06:41:58 UTC 2018: Updating status
+Wed May 16 06:41:58 UTC 2018: Working
+Wed May 16 06:41:58 UTC 2018: Create project parser
+Wed May 16 06:42:05 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.PrimitiveIntStackTest
+Wed May 16 06:42:05 UTC 2018: Setting lastTestMethodIndex: 65461
+Wed May 16 06:42:05 UTC 2018: Starting linking
+Wed May 16 06:42:05 UTC 2018: Code found org.neo4j.collection.primitive.PrimitiveIntStack-poll with org.neo4j.collection.primitive.PrimitiveIntStackTest-shouldPushAndPollSomeEntities
+Wed May 16 06:42:05 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntStackTest-shouldGrowArray
+Wed May 16 06:42:06 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.PrimitiveIntStackTest
+Wed May 16 06:42:06 UTC 2018: Found element on the queue
+Wed May 16 06:42:06 UTC 2018: Updating status
+Wed May 16 06:42:06 UTC 2018: Working
+Wed May 16 06:42:09 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.PrimitiveIntCollectionsTest
+Wed May 16 06:42:09 UTC 2018: Setting lastTestMethodIndex: 65464
+Wed May 16 06:42:09 UTC 2018: Starting linking
+Wed May 16 06:42:09 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-indexOf
+Wed May 16 06:42:09 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-arrayOfReversedItemsAsIterator
+Wed May 16 06:42:10 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-iteratorAsSetAllowDuplicates
+Wed May 16 06:42:10 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-dedup
+Wed May 16 06:42:11 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-reversed
+Wed May 16 06:42:11 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-singleMustAutoCloseIterator
+Wed May 16 06:42:12 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-itemAtWithDefault
+Wed May 16 06:42:12 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-filter
+Wed May 16 06:42:13 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-single
+Wed May 16 06:42:13 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-asArray
+Wed May 16 06:42:14 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-iteratorAsSet
+Wed May 16 06:42:14 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-last
+Wed May 16 06:42:14 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-singleWithDefaultMustAutoCloseIterator
+Wed May 16 06:42:15 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-limit
+Wed May 16 06:42:15 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-appendItem
+Wed May 16 06:42:16 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-concatenateTwoIterators
+Wed May 16 06:42:16 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-singleton
+Wed May 16 06:42:17 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-first
+Wed May 16 06:42:17 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-lastWithDefault
+Wed May 16 06:42:17 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-prependItem
+Wed May 16 06:42:18 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-singleWithDefault
+Wed May 16 06:42:18 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-range
+Wed May 16 06:42:19 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-count
+Wed May 16 06:42:19 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-itemAt
+Wed May 16 06:42:19 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-skip
+Wed May 16 06:42:20 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-singleMustAutoCloseEmptyIterator
+Wed May 16 06:42:20 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-arrayOfItemsAsIterator
+Wed May 16 06:42:21 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-iteratorsEqual
+Wed May 16 06:42:21 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-singleWithDefaultMustAutoCloseEmptyIterator
+Wed May 16 06:42:21 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveIntCollectionsTest-firstWithDefault
+Wed May 16 06:42:22 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.PrimitiveIntCollectionsTest
+Wed May 16 06:42:22 UTC 2018: Found element on the queue
+Wed May 16 06:42:22 UTC 2018: Updating status
+Wed May 16 06:42:22 UTC 2018: Working
+Wed May 16 06:42:25 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.PrimitiveLongCollectionsTest
+Wed May 16 06:42:25 UTC 2018: Setting lastTestMethodIndex: 65468
+Wed May 16 06:42:25 UTC 2018: Starting linking
+Wed May 16 06:42:25 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-limit
+Wed May 16 06:42:26 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-singleWithDefaultMustAutoCloseIterator
+Wed May 16 06:42:26 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-appendItem
+Wed May 16 06:42:27 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-concatenateTwoIterators
+Wed May 16 06:42:27 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-singleton
+Wed May 16 06:42:27 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-lastWithDefault
+Wed May 16 06:42:28 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-prependItem
+Wed May 16 06:42:28 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-singleWithDefault
+Wed May 16 06:42:29 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-count
+Wed May 16 06:42:30 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-range
+Wed May 16 06:42:30 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-itemAt
+Wed May 16 06:42:31 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-skip
+Wed May 16 06:42:31 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-singleMustAutoCloseEmptyIterator
+Wed May 16 06:42:32 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-iteratorsEqual
+Wed May 16 06:42:32 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-singleWithDefaultMustAutoCloseEmptyIterator
+Wed May 16 06:42:32 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-firstWithDefault
+Wed May 16 06:42:34 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-indexOf
+Wed May 16 06:42:34 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-arrayOfReversedItemsAsIterator
+Wed May 16 06:42:35 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-arrayOfItemsAsIterator
+Wed May 16 06:42:35 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-iteratorAsSetAllowDuplicates
+Wed May 16 06:42:35 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-itemAtWithDefault
+Wed May 16 06:42:36 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-dedup
+Wed May 16 06:42:36 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-reversed
+Wed May 16 06:42:37 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-first
+Wed May 16 06:42:37 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-singleMustAutoCloseIterator
+Wed May 16 06:42:38 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-filter
+Wed May 16 06:42:38 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-single
+Wed May 16 06:42:39 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-last
+Wed May 16 06:42:39 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-asArray
+Wed May 16 06:42:40 UTC 2018: No link for: org.neo4j.collection.primitive.PrimitiveLongCollectionsTest-iteratorAsSet
+Wed May 16 06:42:40 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.PrimitiveLongCollectionsTest
+Wed May 16 06:42:41 UTC 2018: Found element on the queue
+Wed May 16 06:42:41 UTC 2018: Updating status
+Wed May 16 06:42:41 UTC 2018: Working
+Wed May 16 06:42:44 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.PrimitiveCollectionEqualityTest
+Wed May 16 06:42:44 UTC 2018: Setting lastTestMethodIndex: 65474
+Wed May 16 06:42:44 UTC 2018: Starting linking
+Wed May 16 06:42:44 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.PrimitiveCollectionEqualityTest
+Wed May 16 06:42:44 UTC 2018: Found element on the queue
+Wed May 16 06:42:44 UTC 2018: Updating status
+Wed May 16 06:42:44 UTC 2018: Working
+Wed May 16 06:42:47 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.HopScotchHashingAlgorithmTest
+Wed May 16 06:42:47 UTC 2018: Setting lastTestMethodIndex: 65476
+Wed May 16 06:42:47 UTC 2018: Starting linking
+Wed May 16 06:42:47 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.HopScotchHashingAlgorithmTest-shouldSupportIteratingThroughResize
+Wed May 16 06:42:48 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.HopScotchHashingAlgorithmTest
+Wed May 16 06:42:48 UTC 2018: Found element on the queue
+Wed May 16 06:42:48 UTC 2018: Updating status
+Wed May 16 06:42:48 UTC 2018: Working
+Wed May 16 06:42:51 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.JumpingSequencePutTest
+Wed May 16 06:42:51 UTC 2018: Setting lastTestMethodIndex: 65478
+Wed May 16 06:42:51 UTC 2018: Starting linking
+Wed May 16 06:42:51 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.JumpingSequencePutTest-shouldHandlePathologicalSequenceCase
+Wed May 16 06:42:51 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.JumpingSequencePutTest
+Wed May 16 06:42:52 UTC 2018: Found element on the queue
+Wed May 16 06:42:52 UTC 2018: Updating status
+Wed May 16 06:42:52 UTC 2018: Working
+Wed May 16 06:42:55 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.ClosingTablesTest
+Wed May 16 06:42:55 UTC 2018: Setting lastTestMethodIndex: 65480
+Wed May 16 06:42:55 UTC 2018: Starting linking
+Wed May 16 06:42:55 UTC 2018: Code found org.neo4j.collection.primitive.hopscotch.AbstractHopScotchCollection-close with org.neo4j.collection.primitive.hopscotch.ClosingTablesTest-intCollectionsMustDelegateCloseToTable
+Wed May 16 06:42:55 UTC 2018: Code found org.neo4j.collection.primitive.hopscotch.AbstractHopScotchCollection-close with org.neo4j.collection.primitive.hopscotch.ClosingTablesTest-longCollectionsMustDelegateCloseToTable
+Wed May 16 06:42:56 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.ClosingTablesTest
+Wed May 16 06:42:56 UTC 2018: Found element on the queue
+Wed May 16 06:42:56 UTC 2018: Updating status
+Wed May 16 06:42:56 UTC 2018: Working
+Wed May 16 06:42:59 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest
+Wed May 16 06:42:59 UTC 2018: Setting lastTestMethodIndex: 65481
+Wed May 16 06:42:59 UTC 2018: Starting linking
+Wed May 16 06:42:59 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldContainAddedValues_2
+Wed May 16 06:43:00 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldContainAddedValues_3
+Wed May 16 06:43:00 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longLongEntryVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:01 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldOnlyContainAddedValues
+Wed May 16 06:43:01 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-intObjectKeyVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:02 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldReturnCorrectPreviousValue
+Wed May 16 06:43:02 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldOnlyContainAddedValues_2
+Wed May 16 06:43:03 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldOnlyContainAddedValues_3
+Wed May 16 06:43:03 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-intObjectKeyVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:04 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longObjectKeyVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:05 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longLongEntryVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:05 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longIntKeyVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:06 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldContainAddedValues
+Wed May 16 06:43:06 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longIntEntryVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:06 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longIntKeyVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:07 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longLongKeyVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:07 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-intObjectEntryVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:08 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-intLongEntryVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:08 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longObjectEntryVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:08 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longLongKeyVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:09 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longObjectKeyVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:09 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-intObjectEntryVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:10 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldHaveCorrectSize
+Wed May 16 06:43:10 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longIntEntryVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:10 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-intLongEntryVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:11 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-shouldMoveValuesWhenMovingEntriesAround
+Wed May 16 06:43:11 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest-longObjectEntryVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:12 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.PrimitiveLongMapTest
+Wed May 16 06:43:12 UTC 2018: Found element on the queue
+Wed May 16 06:43:12 UTC 2018: Updating status
+Wed May 16 06:43:12 UTC 2018: Working
+Wed May 16 06:43:15 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.BasicTableTest
+Wed May 16 06:43:15 UTC 2018: Setting lastTestMethodIndex: 65486
+Wed May 16 06:43:15 UTC 2018: Starting linking
+Wed May 16 06:43:15 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.BasicTableTest-shouldRemoveBigKey
+Wed May 16 06:43:15 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.BasicTableTest-shouldSetHopBits
+Wed May 16 06:43:16 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.BasicTableTest-shouldSetAndGetSmallKey
+Wed May 16 06:43:16 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.BasicTableTest-shouldSetAndGetBigKey
+Wed May 16 06:43:16 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.BasicTableTest-shouldMoveHopBit
+Wed May 16 06:43:17 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.BasicTableTest
+Wed May 16 06:43:17 UTC 2018: Found element on the queue
+Wed May 16 06:43:17 UTC 2018: Updating status
+Wed May 16 06:43:17 UTC 2018: Working
+Wed May 16 06:43:20 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest
+Wed May 16 06:43:20 UTC 2018: Setting lastTestMethodIndex: 65487
+Wed May 16 06:43:20 UTC 2018: Starting linking
+Wed May 16 06:43:20 UTC 2018: Code found org.neo4j.collection.primitive.hopscotch.PrimitiveLongHashSet-add with org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-shouldContainAddedValues_generated_6
+Wed May 16 06:43:20 UTC 2018: Code found org.neo4j.collection.primitive.hopscotch.PrimitiveLongHashSet-add with org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-shouldOnlyContainAddedValues_generated_8
+Wed May 16 06:43:21 UTC 2018: Code found org.neo4j.collection.primitive.hopscotch.PrimitiveLongHashSet-add with org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-shouldOnlyContainAddedValues
+Wed May 16 06:43:21 UTC 2018: Code found org.neo4j.collection.primitive.hopscotch.PrimitiveLongHashSet-add with org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-shouldContainAddedValues_generated_1
+Wed May 16 06:43:21 UTC 2018: Code found org.neo4j.collection.primitive.hopscotch.PrimitiveLongHashSet-add with org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-shouldContainAddedValues_generated_4
+Wed May 16 06:43:22 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-shouldContainReallyBigLongValue
+Wed May 16 06:43:22 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-intVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:23 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-longVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:23 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-shouldHandleEmptySet
+Wed May 16 06:43:24 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-intVisitorShouldNotSeeEntriesAfterRequestingBreakOut
+Wed May 16 06:43:24 UTC 2018: No link for: org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest-longVisitorShouldSeeAllEntriesIfItDoesNotBreakOut
+Wed May 16 06:43:25 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.primitive.hopscotch.PrimitiveLongSetTest
+Wed May 16 06:43:27 UTC 2018: Found element on the queue
+Wed May 16 06:43:27 UTC 2018: Updating status
+Wed May 16 06:43:27 UTC 2018: Working
+Wed May 16 06:43:29 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.pool.LinkedQueuePoolTest
+Wed May 16 06:43:29 UTC 2018: Setting lastTestMethodIndex: 65492
+Wed May 16 06:43:29 UTC 2018: Starting linking
+Wed May 16 06:43:29 UTC 2018: Code found org.neo4j.collection.pool.LinkedQueuePoolTest$FlyweightHolder-release with org.neo4j.collection.pool.LinkedQueuePoolTest-shouldSlowlyReduceTheNumberOfFlyweightsInThePoolWhenFlyweightsAreReleased
+Wed May 16 06:43:30 UTC 2018: Code found org.neo4j.collection.pool.LinkedQueuePoolTest$FlyweightHolder-release with org.neo4j.collection.pool.LinkedQueuePoolTest-shouldKeepSmallPeakAndNeverDisposeIfAcquireAndReleaseContinuously
+Wed May 16 06:43:30 UTC 2018: No link for: org.neo4j.collection.pool.LinkedQueuePoolTest-shouldMaintainPoolAtHighWatermarkWhenConcurrentUsagePassesMinSize
+Wed May 16 06:43:31 UTC 2018: No link for: org.neo4j.collection.pool.LinkedQueuePoolTest-shouldReclaimAndRecreateWhenLullBetweenSpikesOccurs
+Wed May 16 06:43:31 UTC 2018: No link for: org.neo4j.collection.pool.LinkedQueuePoolTest-shouldTimeoutGracefully
+Wed May 16 06:43:31 UTC 2018: No link for: org.neo4j.collection.pool.LinkedQueuePoolTest-shouldBuildUpGracefullyUntilReachedMinPoolSize
+Wed May 16 06:43:32 UTC 2018: No link for: org.neo4j.collection.pool.LinkedQueuePoolTest-shouldBuildUpGracefullyWhilePassingMinPoolSizeBeforeTimerRings
+Wed May 16 06:43:32 UTC 2018: No link for: org.neo4j.collection.pool.LinkedQueuePoolTest-shouldUpdateTargetSizeWhenSpikesOccur
+Wed May 16 06:43:33 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.pool.LinkedQueuePoolTest
+Wed May 16 06:43:33 UTC 2018: Found element on the queue
+Wed May 16 06:43:33 UTC 2018: Updating status
+Wed May 16 06:43:33 UTC 2018: Working
+Wed May 16 06:43:36 UTC 2018: Start MrCiao__xScala test class org.neo4j.collection.pool.MarshlandPoolTest
+Wed May 16 06:43:36 UTC 2018: Setting lastTestMethodIndex: 65494
+Wed May 16 06:43:36 UTC 2018: Starting linking
+Wed May 16 06:43:36 UTC 2018: Code found org.neo4j.collection.pool.MarshlandPool-release with org.neo4j.collection.pool.MarshlandPoolTest-shouldReleaseAllSlotsOnClose
+Wed May 16 06:43:36 UTC 2018: No link for: org.neo4j.collection.pool.MarshlandPoolTest-shouldReturnToDelegatePoolIfLocalPoolIsFull
+Wed May 16 06:43:37 UTC 2018: No link for: org.neo4j.collection.pool.MarshlandPoolTest-shouldNotLooseObjectsWhenThreadsDie
+Wed May 16 06:43:37 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.collection.pool.MarshlandPoolTest
+Wed May 16 06:43:38 UTC 2018: Found element on the queue
+Wed May 16 06:43:38 UTC 2018: Updating status
+Wed May 16 06:43:38 UTC 2018: Working
+Wed May 16 06:43:40 UTC 2018: Start MrCiao__xScala test class org.neo4j.jsr166e.StampedLockTest
+Wed May 16 06:43:40 UTC 2018: Setting lastTestMethodIndex: 65495
+Wed May 16 06:43:40 UTC 2018: Starting linking
+Wed May 16 06:43:40 UTC 2018: Linking done for MrCiao__xScala test class org.neo4j.jsr166e.StampedLockTest

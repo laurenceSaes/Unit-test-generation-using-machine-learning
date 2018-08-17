@@ -1,0 +1,281 @@
+Tue May 15 13:36:32 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 13:36:33 UTC 2018: Starting
+Tue May 15 13:36:34 UTC 2018: Found element on the queue
+Tue May 15 13:36:34 UTC 2018: Updating status
+Tue May 15 13:36:34 UTC 2018: Working
+Tue May 15 13:36:34 UTC 2018: Create project parser
+Tue May 15 13:36:55 UTC 2018: Create slicer
+Tue May 15 13:37:00 UTC 2018: Create call graph
+Tue May 15 13:37:13 UTC 2018: Create point analysis
+Tue May 15 13:37:13 UTC 2018: Create call graph done
+Tue May 15 13:37:13 UTC 2018: Start conanlm426__jline2 test class jline.internal.InfoCmpTest
+Tue May 15 13:37:13 UTC 2018: Setting lastTestMethodIndex: 34107
+Tue May 15 13:37:13 UTC 2018: Starting linking
+Tue May 15 13:37:13 UTC 2018: No link for: jline.internal.InfoCmpTest-testInfoCmp
+Tue May 15 13:37:13 UTC 2018: Linking done for conanlm426__jline2 test class jline.internal.InfoCmpTest
+Tue May 15 13:37:14 UTC 2018: Found element on the queue
+Tue May 15 13:37:14 UTC 2018: Updating status
+Tue May 15 13:37:14 UTC 2018: Working
+Tue May 15 13:37:19 UTC 2018: Start conanlm426__jline2 test class jline.internal.TerminalLineSettingsTest
+Tue May 15 13:37:19 UTC 2018: Setting lastTestMethodIndex: 34110
+Tue May 15 13:37:19 UTC 2018: Starting linking
+Tue May 15 13:37:19 UTC 2018: Code found jline.internal.TerminalLineSettings-getConfig with jline.internal.TerminalLineSettingsTest-testGetConfig
+Tue May 15 13:37:19 UTC 2018: No link for: jline.internal.TerminalLineSettingsTest-testMacOsSttyParsing
+Tue May 15 13:37:19 UTC 2018: No link for: jline.internal.TerminalLineSettingsTest-testAixSttyParsing
+Tue May 15 13:37:19 UTC 2018: No link for: jline.internal.TerminalLineSettingsTest-testLinuxSttyParsing
+Tue May 15 13:37:19 UTC 2018: No link for: jline.internal.TerminalLineSettingsTest-testSolarisSttyParsing
+Tue May 15 13:37:19 UTC 2018: No link for: jline.internal.TerminalLineSettingsTest-testHpuxSttyParsing
+Tue May 15 13:37:19 UTC 2018: No link for: jline.internal.TerminalLineSettingsTest-testNetBsdSttyParsing
+Tue May 15 13:37:19 UTC 2018: No link for: jline.internal.TerminalLineSettingsTest-testFreeBsdSttyParsing
+Tue May 15 13:37:19 UTC 2018: Linking done for conanlm426__jline2 test class jline.internal.TerminalLineSettingsTest
+Tue May 15 13:37:21 UTC 2018: Found element on the queue
+Tue May 15 13:37:21 UTC 2018: Updating status
+Tue May 15 13:37:21 UTC 2018: Working
+Tue May 15 13:37:25 UTC 2018: Start conanlm426__jline2 test class jline.internal.ConfigurationTest
+Tue May 15 13:37:25 UTC 2018: Setting lastTestMethodIndex: 34113
+Tue May 15 13:37:25 UTC 2018: Starting linking
+Tue May 15 13:37:25 UTC 2018: Code found jline.internal.Configuration-reset with jline.internal.ConfigurationTest-resetReconfigures
+Tue May 15 13:37:25 UTC 2018: Code found jline.internal.Configuration-getInteger with jline.internal.ConfigurationTest-getIntegerFromSystemProperty
+Tue May 15 13:37:25 UTC 2018: Code found jline.internal.Configuration-getBoolean with jline.internal.ConfigurationTest-getBooleanFromSystemProperty
+Tue May 15 13:37:25 UTC 2018: Code found jline.internal.Configuration-getInteger with jline.internal.ConfigurationTest-getIntegerUsingDefault
+Tue May 15 13:37:25 UTC 2018: No link for: jline.internal.ConfigurationTest-parseCtypeNoEncoding
+Tue May 15 13:37:25 UTC 2018: No link for: jline.internal.ConfigurationTest-parseCtypeWithEncoding
+Tue May 15 13:37:25 UTC 2018: No link for: jline.internal.ConfigurationTest-parseCtypeBlank
+Tue May 15 13:37:25 UTC 2018: No link for: jline.internal.ConfigurationTest-initFromSystemProperty
+Tue May 15 13:37:25 UTC 2018: No link for: jline.internal.ConfigurationTest-parseCtypeWithEncodingAndModifier
+Tue May 15 13:37:25 UTC 2018: No link for: jline.internal.ConfigurationTest-parseCtypeNull
+Tue May 15 13:37:25 UTC 2018: No link for: jline.internal.ConfigurationTest-parseCtypeNoEncodingWithModifier
+Tue May 15 13:37:25 UTC 2018: Linking done for conanlm426__jline2 test class jline.internal.ConfigurationTest
+Tue May 15 13:37:27 UTC 2018: Found element on the queue
+Tue May 15 13:37:27 UTC 2018: Updating status
+Tue May 15 13:37:27 UTC 2018: Working
+Tue May 15 13:37:31 UTC 2018: Start conanlm426__jline2 test class jline.internal.LogTest
+Tue May 15 13:37:31 UTC 2018: Setting lastTestMethodIndex: 34116
+Tue May 15 13:37:31 UTC 2018: Starting linking
+Tue May 15 13:37:31 UTC 2018: Code found jline.internal.Log-log with jline.internal.LogTest-logWithThrowable
+Tue May 15 13:37:31 UTC 2018: Code found jline.internal.Log-render with jline.internal.LogTest-renderThrowable
+Tue May 15 13:37:31 UTC 2018: Code found jline.internal.Log-render with jline.internal.LogTest-renderArrayWithThrowable
+Tue May 15 13:37:31 UTC 2018: Code found jline.internal.Log-render with jline.internal.LogTest-renderArray
+Tue May 15 13:37:32 UTC 2018: Code found jline.internal.Log-log with jline.internal.LogTest-logSimple
+Tue May 15 13:37:32 UTC 2018: Linking done for conanlm426__jline2 test class jline.internal.LogTest
+Tue May 15 13:37:33 UTC 2018: Found element on the queue
+Tue May 15 13:37:33 UTC 2018: Updating status
+Tue May 15 13:37:33 UTC 2018: Working
+Tue May 15 13:37:38 UTC 2018: Start conanlm426__jline2 test class jline.internal.CursesTest
+Tue May 15 13:37:38 UTC 2018: Setting lastTestMethodIndex: 34119
+Tue May 15 13:37:38 UTC 2018: Starting linking
+Tue May 15 13:37:38 UTC 2018: No link for: jline.internal.CursesTest-testTputs
+Tue May 15 13:37:38 UTC 2018: Linking done for conanlm426__jline2 test class jline.internal.CursesTest
+Tue May 15 13:37:39 UTC 2018: Found element on the queue
+Tue May 15 13:37:39 UTC 2018: Updating status
+Tue May 15 13:37:39 UTC 2018: Working
+Tue May 15 13:37:43 UTC 2018: Start conanlm426__jline2 test class jline.readline.KeyMapTest
+Tue May 15 13:37:43 UTC 2018: Setting lastTestMethodIndex: 34122
+Tue May 15 13:37:43 UTC 2018: Starting linking
+Tue May 15 13:37:43 UTC 2018: No link for: jline.readline.KeyMapTest-testBound
+Tue May 15 13:37:43 UTC 2018: Linking done for conanlm426__jline2 test class jline.readline.KeyMapTest
+Tue May 15 13:37:45 UTC 2018: Found element on the queue
+Tue May 15 13:37:45 UTC 2018: Updating status
+Tue May 15 13:37:45 UTC 2018: Working
+Tue May 15 13:37:48 UTC 2018: Start conanlm426__jline2 test class jline.TerminalFactoryTest
+Tue May 15 13:37:48 UTC 2018: Setting lastTestMethodIndex: 34124
+Tue May 15 13:37:48 UTC 2018: Starting linking
+Tue May 15 13:37:48 UTC 2018: Code found jline.TerminalFactory-configure with jline.TerminalFactoryTest-testConfigureNone
+Tue May 15 13:37:48 UTC 2018: Code found jline.TerminalFactory-configure with jline.TerminalFactoryTest-testConfigureUnsupportedTerminal
+Tue May 15 13:37:49 UTC 2018: No link for: jline.TerminalFactoryTest-testConfigureDumbTerminalEmacs
+Tue May 15 13:37:49 UTC 2018: No link for: jline.TerminalFactoryTest-testConfigureDumbTerminalNoEmacs
+Tue May 15 13:37:49 UTC 2018: Linking done for conanlm426__jline2 test class jline.TerminalFactoryTest
+Tue May 15 13:37:50 UTC 2018: Found element on the queue
+Tue May 15 13:37:50 UTC 2018: Updating status
+Tue May 15 13:37:50 UTC 2018: Working
+Tue May 15 13:37:54 UTC 2018: Start conanlm426__jline2 test class jline.console.ViMoveModeTest
+Tue May 15 13:37:54 UTC 2018: Setting lastTestMethodIndex: 34127
+Tue May 15 13:37:54 UTC 2018: Starting linking
+Tue May 15 13:37:54 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-ctrl with jline.console.ViMoveModeTest-testCtrlP_CtrlN
+Tue May 15 13:37:54 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-ctrl with jline.console.ViMoveModeTest-testCtrlK
+Tue May 15 13:37:54 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-left with jline.console.ViMoveModeTest-testWordLeft
+Tue May 15 13:37:54 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-ctrl with jline.console.ViMoveModeTest-testCtrlL
+Tue May 15 13:37:54 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-ctrl with jline.console.ViMoveModeTest-testCtrlW
+Tue May 15 13:37:54 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-ctrl with jline.console.ViMoveModeTest-testCtrlU
+Tue May 15 13:37:54 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-ctrl with jline.console.ViMoveModeTest-testCtrlT
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testEndOfLine
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testCharSearch_f
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testEndWord
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testWordRight
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testMoveLeft
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testDelete
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-test_dd
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testInsertComment
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testChangeCase
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-firstPrintable
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testInsertBeginningOfLine
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testS
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testCharSearch_T
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testCharSearch_F
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testD
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testCtrlJ
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testC
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-test_yy
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-test_cc
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testCtrlD
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testSearch
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testRubout
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testCtrlM
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testMatch
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testChangeChar
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testMoveRight
+Tue May 15 13:37:55 UTC 2018: No link for: jline.console.ViMoveModeTest-testCharSearch_t
+Tue May 15 13:37:55 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.ViMoveModeTest
+Tue May 15 13:37:56 UTC 2018: Found element on the queue
+Tue May 15 13:37:56 UTC 2018: Updating status
+Tue May 15 13:37:56 UTC 2018: Working
+Tue May 15 13:38:00 UTC 2018: Start conanlm426__jline2 test class jline.console.history.FileHistoryTest
+Tue May 15 13:38:00 UTC 2018: Setting lastTestMethodIndex: 34129
+Tue May 15 13:38:00 UTC 2018: Starting linking
+Tue May 15 13:38:00 UTC 2018: No link for: jline.console.history.FileHistoryTest-testFileHistory
+Tue May 15 13:38:00 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.history.FileHistoryTest
+Tue May 15 13:38:01 UTC 2018: Found element on the queue
+Tue May 15 13:38:01 UTC 2018: Updating status
+Tue May 15 13:38:01 UTC 2018: Working
+Tue May 15 13:38:04 UTC 2018: Start conanlm426__jline2 test class jline.console.history.MemoryHistoryTest
+Tue May 15 13:38:04 UTC 2018: Setting lastTestMethodIndex: 34132
+Tue May 15 13:38:04 UTC 2018: Starting linking
+Tue May 15 13:38:05 UTC 2018: Code found jline.console.history.MemoryHistory-replace with jline.console.history.MemoryHistoryTest-testReplace
+Tue May 15 13:38:05 UTC 2018: Code found jline.console.history.MemoryHistory-removeLast with jline.console.history.MemoryHistoryTest-testRemoveLast
+Tue May 15 13:38:05 UTC 2018: Code found jline.console.history.MemoryHistory-set with jline.console.history.MemoryHistoryTest-testSet
+Tue May 15 13:38:05 UTC 2018: Code found jline.console.history.MemoryHistory-remove with jline.console.history.MemoryHistoryTest-testRemove
+Tue May 15 13:38:05 UTC 2018: Code found jline.console.history.MemoryHistory-removeFirst with jline.console.history.MemoryHistoryTest-testRemoveFirst
+Tue May 15 13:38:05 UTC 2018: Code found jline.console.history.MemoryHistory-add with jline.console.history.MemoryHistoryTest-testAdd
+Tue May 15 13:38:05 UTC 2018: No link for: jline.console.history.MemoryHistoryTest-testOffset
+Tue May 15 13:38:05 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.history.MemoryHistoryTest
+Tue May 15 13:38:06 UTC 2018: Found element on the queue
+Tue May 15 13:38:06 UTC 2018: Updating status
+Tue May 15 13:38:06 UTC 2018: Working
+Tue May 15 13:38:12 UTC 2018: Start conanlm426__jline2 test class jline.console.history.HistoryTest
+Tue May 15 13:38:12 UTC 2018: Setting lastTestMethodIndex: 34136
+Tue May 15 13:38:12 UTC 2018: Starting linking
+Tue May 15 13:38:12 UTC 2018: No link for: jline.console.history.HistoryTest-testSingleHistory
+Tue May 15 13:38:12 UTC 2018: No link for: jline.console.history.HistoryTest-testHistorySearchBackwardAndForward
+Tue May 15 13:38:12 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.history.HistoryTest
+Tue May 15 13:38:13 UTC 2018: Found element on the queue
+Tue May 15 13:38:13 UTC 2018: Updating status
+Tue May 15 13:38:13 UTC 2018: Working
+Tue May 15 13:38:18 UTC 2018: Start conanlm426__jline2 test class jline.console.KillRingTest
+Tue May 15 13:38:18 UTC 2018: Setting lastTestMethodIndex: 34139
+Tue May 15 13:38:18 UTC 2018: Starting linking
+Tue May 15 13:38:18 UTC 2018: Code found jline.console.KillRing-yankPop with jline.console.KillRingTest-testYankPop
+Tue May 15 13:38:18 UTC 2018: Code found jline.console.KillRing-yank with jline.console.KillRingTest-testYankTwice
+Tue May 15 13:38:18 UTC 2018: Code found jline.console.KillRing-yankPop with jline.console.KillRingTest-testYankPopNoPreviousYank
+Tue May 15 13:38:18 UTC 2018: Code found jline.console.KillRing-yankPop with jline.console.KillRingTest-testYankPopWithOneSlot
+Tue May 15 13:38:18 UTC 2018: No link for: jline.console.KillRingTest-testBufferYankPop
+Tue May 15 13:38:18 UTC 2018: No link for: jline.console.KillRingTest-testEmptyKillRing
+Tue May 15 13:38:18 UTC 2018: No link for: jline.console.KillRingTest-testBufferWordRuboutTwice
+Tue May 15 13:38:18 UTC 2018: No link for: jline.console.KillRingTest-testBufferMixedKillsAndYank
+Tue May 15 13:38:18 UTC 2018: No link for: jline.console.KillRingTest-testBufferEmptyRing
+Tue May 15 13:38:18 UTC 2018: No link for: jline.console.KillRingTest-testBufferWordRuboutOnce
+Tue May 15 13:38:18 UTC 2018: No link for: jline.console.KillRingTest-testOneElementKillRing
+Tue May 15 13:38:18 UTC 2018: No link for: jline.console.KillRingTest-testKillKill
+Tue May 15 13:38:18 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.KillRingTest
+Tue May 15 13:38:20 UTC 2018: Found element on the queue
+Tue May 15 13:38:20 UTC 2018: Updating status
+Tue May 15 13:38:20 UTC 2018: Working
+Tue May 15 13:38:24 UTC 2018: Start conanlm426__jline2 test class jline.console.ConsoleReaderTest
+Tue May 15 13:38:24 UTC 2018: Setting lastTestMethodIndex: 34142
+Tue May 15 13:38:24 UTC 2018: Starting linking
+Tue May 15 13:38:24 UTC 2018: Code found jline.console.ConsoleReader-readBinding with jline.console.ConsoleReaderTest-testReadBinding
+Tue May 15 13:38:24 UTC 2018: Code found jline.console.ConsoleReader-readLine with jline.console.ConsoleReaderTest-testReadlineWithUnicode
+Tue May 15 13:38:24 UTC 2018: Code found jline.console.ConsoleReader-readLine with jline.console.ConsoleReaderTest-testReadline
+Tue May 15 13:38:24 UTC 2018: Code found jline.console.ConsoleReader-readLine with jline.console.ConsoleReaderTest-testIllegalExpansionDoesntCrashReadLine
+Tue May 15 13:38:24 UTC 2018: Code found jline.console.ConsoleReader-readLine with jline.console.ConsoleReaderTest-testReadlineWithMask
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testArgsExpansion
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testMacro
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testHomeKeyOnWindowsTerminal
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testStoringHistoryWithExpandEventsOff
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testInput
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testInput2
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testInsertOnWindowsTerminal
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testPageDownOnWindowsTerminal
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testNumericExpansions
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testExpansionAndHistoryWithEscapes
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testNumpadDeleteOnWindowsTerminal
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testDefaultBuffer
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testExpansion
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testEscapeOnWindowsTerminal
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testDeleteOnWindowsTerminal
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testEndKeyOnWindowsTerminal
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testComplete
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testPageUpOnWindowsTerminal
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testInputBadConfig
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testCallbacks
+Tue May 15 13:38:24 UTC 2018: No link for: jline.console.ConsoleReaderTest-testStoringHistory
+Tue May 15 13:38:25 UTC 2018: No link for: jline.console.ConsoleReaderTest-testBell
+Tue May 15 13:38:25 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.ConsoleReaderTest
+Tue May 15 13:38:26 UTC 2018: Found element on the queue
+Tue May 15 13:38:26 UTC 2018: Updating status
+Tue May 15 13:38:26 UTC 2018: Working
+Tue May 15 13:38:29 UTC 2018: Start conanlm426__jline2 test class jline.console.HistorySearchTest
+Tue May 15 13:38:29 UTC 2018: Setting lastTestMethodIndex: 34144
+Tue May 15 13:38:29 UTC 2018: Starting linking
+Tue May 15 13:38:29 UTC 2018: No link for: jline.console.HistorySearchTest-testSearchHistoryWithNoMatches
+Tue May 15 13:38:29 UTC 2018: No link for: jline.console.HistorySearchTest-testAbortingAfterSearchingPreviousLinesGivesBlank
+Tue May 15 13:38:29 UTC 2018: No link for: jline.console.HistorySearchTest-testReverseHistorySearch
+Tue May 15 13:38:29 UTC 2018: No link for: jline.console.HistorySearchTest-testForwardHistorySearch
+Tue May 15 13:38:29 UTC 2018: No link for: jline.console.HistorySearchTest-testSearchHistoryAfterHittingEnd
+Tue May 15 13:38:29 UTC 2018: No link for: jline.console.HistorySearchTest-testAbortingSearchRetainsCurrentBufferAndPrintsDetails
+Tue May 15 13:38:29 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.HistorySearchTest
+Tue May 15 13:38:30 UTC 2018: Found element on the queue
+Tue May 15 13:38:30 UTC 2018: Updating status
+Tue May 15 13:38:30 UTC 2018: Working
+Tue May 15 13:38:34 UTC 2018: Start conanlm426__jline2 test class jline.console.completer.WhitespaceDelimiterTest
+Tue May 15 13:38:34 UTC 2018: Setting lastTestMethodIndex: 34146
+Tue May 15 13:38:34 UTC 2018: Starting linking
+Tue May 15 13:38:34 UTC 2018: No code found jline.console.completer.ArgumentCompleter$WhitespaceArgumentDelimiter-delimit with jline.console.completer.WhitespaceDelimiterTest-testQuotedDelimit
+Tue May 15 13:38:34 UTC 2018: No code found jline.console.completer.ArgumentCompleter$WhitespaceArgumentDelimiter-delimit with jline.console.completer.WhitespaceDelimiterTest-testDelimit
+Tue May 15 13:38:34 UTC 2018: No link for: jline.console.completer.WhitespaceDelimiterTest-testEscapedQuotes
+Tue May 15 13:38:34 UTC 2018: No link for: jline.console.completer.WhitespaceDelimiterTest-testMixedQuotes
+Tue May 15 13:38:34 UTC 2018: No link for: jline.console.completer.WhitespaceDelimiterTest-testEscapedSpace
+Tue May 15 13:38:34 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.completer.WhitespaceDelimiterTest
+Tue May 15 13:38:35 UTC 2018: Found element on the queue
+Tue May 15 13:38:35 UTC 2018: Updating status
+Tue May 15 13:38:35 UTC 2018: Working
+Tue May 15 13:38:39 UTC 2018: Start conanlm426__jline2 test class jline.console.completer.ArgumentCompleterTest
+Tue May 15 13:38:39 UTC 2018: Setting lastTestMethodIndex: 34148
+Tue May 15 13:38:39 UTC 2018: Starting linking
+Tue May 15 13:38:39 UTC 2018: No link for: jline.console.completer.ArgumentCompleterTest-test1
+Tue May 15 13:38:39 UTC 2018: No link for: jline.console.completer.ArgumentCompleterTest-test2
+Tue May 15 13:38:39 UTC 2018: No link for: jline.console.completer.ArgumentCompleterTest-testMultiple
+Tue May 15 13:38:39 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.completer.ArgumentCompleterTest
+Tue May 15 13:38:41 UTC 2018: Found element on the queue
+Tue May 15 13:38:41 UTC 2018: Updating status
+Tue May 15 13:38:41 UTC 2018: Working
+Tue May 15 13:38:45 UTC 2018: Start conanlm426__jline2 test class jline.console.completer.NullCompleterTest
+Tue May 15 13:38:45 UTC 2018: Setting lastTestMethodIndex: 34151
+Tue May 15 13:38:45 UTC 2018: Starting linking
+Tue May 15 13:38:45 UTC 2018: No link for: jline.console.completer.NullCompleterTest-test1
+Tue May 15 13:38:45 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.completer.NullCompleterTest
+Tue May 15 13:38:47 UTC 2018: Found element on the queue
+Tue May 15 13:38:47 UTC 2018: Updating status
+Tue May 15 13:38:47 UTC 2018: Working
+Tue May 15 13:38:52 UTC 2018: Start conanlm426__jline2 test class jline.console.completer.StringsCompleterTest
+Tue May 15 13:38:52 UTC 2018: Setting lastTestMethodIndex: 34154
+Tue May 15 13:38:52 UTC 2018: Starting linking
+Tue May 15 13:38:52 UTC 2018: No link for: jline.console.completer.StringsCompleterTest-test1
+Tue May 15 13:38:52 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.completer.StringsCompleterTest
+Tue May 15 13:38:53 UTC 2018: Found element on the queue
+Tue May 15 13:38:53 UTC 2018: Updating status
+Tue May 15 13:38:53 UTC 2018: Working
+Tue May 15 13:38:58 UTC 2018: Start conanlm426__jline2 test class jline.console.EditLineTest
+Tue May 15 13:38:58 UTC 2018: Setting lastTestMethodIndex: 34157
+Tue May 15 13:38:58 UTC 2018: Starting linking
+Tue May 15 13:38:58 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-back with jline.console.EditLineTest-testBackspace
+Tue May 15 13:38:58 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-left with jline.console.EditLineTest-testLeft
+Tue May 15 13:38:58 UTC 2018: Code found jline.console.ConsoleReaderTestSupport$Buffer-right with jline.console.EditLineTest-testRight
+Tue May 15 13:38:58 UTC 2018: No link for: jline.console.EditLineTest-testDeletePreviousWord
+Tue May 15 13:38:58 UTC 2018: No link for: jline.console.EditLineTest-testBuffer
+Tue May 15 13:38:58 UTC 2018: No link for: jline.console.EditLineTest-testDeleteNextWord
+Tue May 15 13:38:58 UTC 2018: No link for: jline.console.EditLineTest-testPreviousWord
+Tue May 15 13:38:58 UTC 2018: No link for: jline.console.EditLineTest-testLineStart
+Tue May 15 13:38:58 UTC 2018: No link for: jline.console.EditLineTest-testAbortPartialBuffer
+Tue May 15 13:38:58 UTC 2018: No link for: jline.console.EditLineTest-testMoveToEnd
+Tue May 15 13:38:58 UTC 2018: No link for: jline.console.EditLineTest-testClearLine
+Tue May 15 13:38:58 UTC 2018: Linking done for conanlm426__jline2 test class jline.console.EditLineTest

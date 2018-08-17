@@ -1,0 +1,787 @@
+Tue May 15 23:51:01 UTC 2018: Database:jdbc:mysql://localhost:3306/unittests
+Tue May 15 23:51:01 UTC 2018: Starting
+Tue May 15 23:51:02 UTC 2018: Found element on the queue
+Tue May 15 23:51:02 UTC 2018: Updating status
+Tue May 15 23:51:02 UTC 2018: Working
+Tue May 15 23:51:02 UTC 2018: Create project parser
+Tue May 15 23:51:09 UTC 2018: Create slicer
+Tue May 15 23:51:11 UTC 2018: Create call graph
+Tue May 15 23:51:15 UTC 2018: Create point analysis
+Tue May 15 23:51:15 UTC 2018: Create call graph done
+Tue May 15 23:51:15 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.ConfigurationParserTest
+Tue May 15 23:51:15 UTC 2018: Setting lastTestMethodIndex: 51862
+Tue May 15 23:51:15 UTC 2018: Starting linking
+Tue May 15 23:51:15 UTC 2018: No link for: com.googlecode.jmxtrans.ConfigurationParserTest-failParsingOnErrorIfRequested
+Tue May 15 23:51:16 UTC 2018: No link for: com.googlecode.jmxtrans.ConfigurationParserTest-mergeAlreadyExistingServerDoesNotModifyList
+Tue May 15 23:51:16 UTC 2018: No link for: com.googlecode.jmxtrans.ConfigurationParserTest-testMerge
+Tue May 15 23:51:17 UTC 2018: No link for: com.googlecode.jmxtrans.ConfigurationParserTest-continueParsingOnErrorIfRequested
+Tue May 15 23:51:17 UTC 2018: No link for: com.googlecode.jmxtrans.ConfigurationParserTest-sameServerWithTwoDifferentQueriesMergesQueries
+Tue May 15 23:51:17 UTC 2018: No link for: com.googlecode.jmxtrans.ConfigurationParserTest-mixJsonAndYamlFormats
+Tue May 15 23:51:18 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.ConfigurationParserTest
+Tue May 15 23:51:18 UTC 2018: Found element on the queue
+Tue May 15 23:51:18 UTC 2018: Updating status
+Tue May 15 23:51:18 UTC 2018: Working
+Tue May 15 23:51:20 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.connections.DatagramSocketFactoryTest
+Tue May 15 23:51:20 UTC 2018: Setting lastTestMethodIndex: 51866
+Tue May 15 23:51:20 UTC 2018: Starting linking
+Tue May 15 23:51:20 UTC 2018: Code found com.googlecode.jmxtrans.connections.DatagramSocketFactory-makeObject with com.googlecode.jmxtrans.connections.DatagramSocketFactoryTest-testDatagramSocketFactoryMakeObject
+Tue May 15 23:51:21 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.connections.DatagramSocketFactoryTest
+Tue May 15 23:51:21 UTC 2018: Found element on the queue
+Tue May 15 23:51:21 UTC 2018: Updating status
+Tue May 15 23:51:21 UTC 2018: Working
+Tue May 15 23:51:24 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.connections.SocketFactoryTests
+Tue May 15 23:51:24 UTC 2018: Setting lastTestMethodIndex: 51868
+Tue May 15 23:51:24 UTC 2018: Starting linking
+Tue May 15 23:51:24 UTC 2018: No link for: com.googlecode.jmxtrans.connections.SocketFactoryTests-closedSocketIsInvalid
+Tue May 15 23:51:24 UTC 2018: No link for: com.googlecode.jmxtrans.connections.SocketFactoryTests-createdSocketIsValid
+Tue May 15 23:51:24 UTC 2018: No link for: com.googlecode.jmxtrans.connections.SocketFactoryTests-nullSocketIsInvalid
+Tue May 15 23:51:25 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.connections.SocketFactoryTests
+Tue May 15 23:51:25 UTC 2018: Found element on the queue
+Tue May 15 23:51:25 UTC 2018: Updating status
+Tue May 15 23:51:25 UTC 2018: Working
+Tue May 15 23:51:28 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.connections.MBeanServerConnectionFactoryTest
+Tue May 15 23:51:28 UTC 2018: Setting lastTestMethodIndex: 51871
+Tue May 15 23:51:28 UTC 2018: Starting linking
+Tue May 15 23:51:28 UTC 2018: Code found com.googlecode.jmxtrans.connections.JMXConnection-close with com.googlecode.jmxtrans.connections.MBeanServerConnectionFactoryTest-connectionIsClosedOnDestroy
+Tue May 15 23:51:28 UTC 2018: No link for: com.googlecode.jmxtrans.connections.MBeanServerConnectionFactoryTest-connectionIsCreatedForLocalServer
+Tue May 15 23:51:28 UTC 2018: No link for: com.googlecode.jmxtrans.connections.MBeanServerConnectionFactoryTest-connectionIsCreatedForRemoteServer
+Tue May 15 23:51:29 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.connections.MBeanServerConnectionFactoryTest
+Tue May 15 23:51:29 UTC 2018: Found element on the queue
+Tue May 15 23:51:29 UTC 2018: Updating status
+Tue May 15 23:51:29 UTC 2018: Working
+Tue May 15 23:51:31 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.JmxTransformerTest
+Tue May 15 23:51:31 UTC 2018: Setting lastTestMethodIndex: 51875
+Tue May 15 23:51:31 UTC 2018: Starting linking
+Tue May 15 23:51:31 UTC 2018: No link for: com.googlecode.jmxtrans.JmxTransformerTest-startDateIsSpreadAccordingToRunPeriod
+Tue May 15 23:51:32 UTC 2018: No link for: com.googlecode.jmxtrans.JmxTransformerTest-findProcessConfigFiles
+Tue May 15 23:51:32 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.JmxTransformerTest
+Tue May 15 23:51:33 UTC 2018: Found element on the queue
+Tue May 15 23:51:33 UTC 2018: Updating status
+Tue May 15 23:51:33 UTC 2018: Working
+Tue May 15 23:51:35 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.ServerListBuilderTest
+Tue May 15 23:51:35 UTC 2018: Setting lastTestMethodIndex: 51878
+Tue May 15 23:51:35 UTC 2018: Starting linking
+Tue May 15 23:51:35 UTC 2018: No link for: com.googlecode.jmxtrans.ServerListBuilderTest-outputWritersAreReusedOnServersAndQueries
+Tue May 15 23:51:35 UTC 2018: No link for: com.googlecode.jmxtrans.ServerListBuilderTest-outputWritersAreReusedOnQueries
+Tue May 15 23:51:36 UTC 2018: No link for: com.googlecode.jmxtrans.ServerListBuilderTest-outputWritersAreReusedOnServers
+Tue May 15 23:51:36 UTC 2018: No link for: com.googlecode.jmxtrans.ServerListBuilderTest-serversAreMerged
+Tue May 15 23:51:37 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.ServerListBuilderTest
+Tue May 15 23:51:37 UTC 2018: Found element on the queue
+Tue May 15 23:51:37 UTC 2018: Updating status
+Tue May 15 23:51:37 UTC 2018: Working
+Tue May 15 23:51:40 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.SingletonOutputWriterFactoryTest
+Tue May 15 23:51:40 UTC 2018: Setting lastTestMethodIndex: 51882
+Tue May 15 23:51:40 UTC 2018: Starting linking
+Tue May 15 23:51:40 UTC 2018: No link for: com.googlecode.jmxtrans.model.SingletonOutputWriterFactoryTest-twoSingletonFactoriesAreEqualIfTheyWrapTheSameFactory
+Tue May 15 23:51:41 UTC 2018: No link for: com.googlecode.jmxtrans.model.SingletonOutputWriterFactoryTest-sameInstanceIsAlwaysReturned
+Tue May 15 23:51:41 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.SingletonOutputWriterFactoryTest
+Tue May 15 23:51:41 UTC 2018: Found element on the queue
+Tue May 15 23:51:41 UTC 2018: Updating status
+Tue May 15 23:51:41 UTC 2018: Working
+Tue May 15 23:51:45 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.JMXConnectionTest
+Tue May 15 23:51:45 UTC 2018: Setting lastTestMethodIndex: 51885
+Tue May 15 23:51:45 UTC 2018: Starting linking
+Tue May 15 23:51:45 UTC 2018: Code found com.googlecode.jmxtrans.connections.JMXConnection-close with com.googlecode.jmxtrans.model.JMXConnectionTest-nullConnectorIsNotClosed
+Tue May 15 23:51:45 UTC 2018: Code found com.googlecode.jmxtrans.connections.JMXConnection-close with com.googlecode.jmxtrans.model.JMXConnectionTest-connectorIsClosed
+Tue May 15 23:51:46 UTC 2018: No link for: com.googlecode.jmxtrans.model.JMXConnectionTest-serverConnectionIsExposed
+Tue May 15 23:51:46 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.JMXConnectionTest
+Tue May 15 23:51:47 UTC 2018: Found element on the queue
+Tue May 15 23:51:47 UTC 2018: Updating status
+Tue May 15 23:51:47 UTC 2018: Working
+Tue May 15 23:51:50 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.QueryTests
+Tue May 15 23:51:50 UTC 2018: Setting lastTestMethodIndex: 51889
+Tue May 15 23:51:50 UTC 2018: Starting linking
+Tue May 15 23:51:50 UTC 2018: Code found com.googlecode.jmxtrans.model.Query$Builder-build with com.googlecode.jmxtrans.model.QueryTests-testBuilderTypeNamesSetBarFoo
+Tue May 15 23:51:50 UTC 2018: Code found com.googlecode.jmxtrans.model.Query$Builder-build with com.googlecode.jmxtrans.model.QueryTests-testBuilderTypeNamesListFooBar
+Tue May 15 23:51:51 UTC 2018: Code found com.googlecode.jmxtrans.model.Query$Builder-build with com.googlecode.jmxtrans.model.QueryTests-testBuilderTypeNamesListBarFoo
+Tue May 15 23:51:51 UTC 2018: Code found com.googlecode.jmxtrans.model.Query$Builder-build with com.googlecode.jmxtrans.model.QueryTests-testBuilderTypeNamesSetFooBar
+Tue May 15 23:51:51 UTC 2018: Code found com.googlecode.jmxtrans.model.Query$Builder-build with com.googlecode.jmxtrans.model.QueryTests-testBuilderTypeNameValueStringBarFoo
+Tue May 15 23:51:51 UTC 2018: Code found com.googlecode.jmxtrans.model.Query$Builder-build with com.googlecode.jmxtrans.model.QueryTests-testBuilderTypeNameValueStringFooBar
+Tue May 15 23:51:52 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.QueryTests
+Tue May 15 23:51:52 UTC 2018: Found element on the queue
+Tue May 15 23:51:52 UTC 2018: Updating status
+Tue May 15 23:51:52 UTC 2018: Working
+Tue May 15 23:51:55 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests
+Tue May 15 23:51:55 UTC 2018: Setting lastTestMethodIndex: 51892
+Tue May 15 23:51:55 UTC 2018: Starting linking
+Tue May 15 23:51:55 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-nullIsReturnedUnmodified
+Tue May 15 23:51:55 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-nanDoubleIsReturnedNull
+Tue May 15 23:51:56 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-positiveInfinityDoubleIsReturnedNull
+Tue May 15 23:51:56 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-positiveInfinityFloatIsReturnedNull
+Tue May 15 23:51:57 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-negativeValueAbovePrecisionIsNotTransformed
+Tue May 15 23:51:57 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-nonNumberIsReturnedUnmodified
+Tue May 15 23:51:57 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-negativeInfinityFloatIsReturnedNull
+Tue May 15 23:51:58 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-valueBelowPrecisionIsTransformedToZero
+Tue May 15 23:51:58 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-valueAbovePrecisionIsNotTransformed
+Tue May 15 23:51:58 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-nanFloatIsReturnedNull
+Tue May 15 23:51:59 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests-negativeInfinityDoubleIsReturnedNull
+Tue May 15 23:51:59 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.results.CPrecisionValueTransformerTests
+Tue May 15 23:51:59 UTC 2018: Found element on the queue
+Tue May 15 23:51:59 UTC 2018: Updating status
+Tue May 15 23:51:59 UTC 2018: Working
+Tue May 15 23:52:02 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.results.BooleanAsNumberValueTransformerTests
+Tue May 15 23:52:02 UTC 2018: Setting lastTestMethodIndex: 51896
+Tue May 15 23:52:02 UTC 2018: Starting linking
+Tue May 15 23:52:02 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.BooleanAsNumberValueTransformerTests-falseIsConvertedToNumber
+Tue May 15 23:52:02 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.BooleanAsNumberValueTransformerTests-integerIsNotModified
+Tue May 15 23:52:02 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.BooleanAsNumberValueTransformerTests-trueIsConvertedToNumber
+Tue May 15 23:52:03 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.BooleanAsNumberValueTransformerTests-stringIsNotModified
+Tue May 15 23:52:03 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.results.BooleanAsNumberValueTransformerTests
+Tue May 15 23:52:04 UTC 2018: Found element on the queue
+Tue May 15 23:52:04 UTC 2018: Updating status
+Tue May 15 23:52:04 UTC 2018: Working
+Tue May 15 23:52:07 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.results.IdentityValueTransformerTests
+Tue May 15 23:52:07 UTC 2018: Setting lastTestMethodIndex: 51899
+Tue May 15 23:52:07 UTC 2018: Starting linking
+Tue May 15 23:52:07 UTC 2018: No link for: com.googlecode.jmxtrans.model.results.IdentityValueTransformerTests-identityTransformerDoesNothing
+Tue May 15 23:52:07 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.results.IdentityValueTransformerTests
+Tue May 15 23:52:07 UTC 2018: Found element on the queue
+Tue May 15 23:52:07 UTC 2018: Updating status
+Tue May 15 23:52:07 UTC 2018: Working
+Tue May 15 23:52:10 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.StringUtilsTest
+Tue May 15 23:52:10 UTC 2018: Setting lastTestMethodIndex: 51903
+Tue May 15 23:52:10 UTC 2018: Starting linking
+Tue May 15 23:52:10 UTC 2018: Code found com.googlecode.jmxtrans.model.naming.StringUtils-cleanupStr with com.googlecode.jmxtrans.model.naming.StringUtilsTest-testCleanupStrDottedKeysKept
+Tue May 15 23:52:10 UTC 2018: Code found com.googlecode.jmxtrans.model.naming.StringUtils-cleanupStr with com.googlecode.jmxtrans.model.naming.StringUtilsTest-testCleanupStr
+Tue May 15 23:52:10 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.StringUtilsTest
+Tue May 15 23:52:11 UTC 2018: Found element on the queue
+Tue May 15 23:52:11 UTC 2018: Updating status
+Tue May 15 23:52:11 UTC 2018: Working
+Tue May 15 23:52:13 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.typename.PrependingTypeNameValuesStringBuilderTest
+Tue May 15 23:52:13 UTC 2018: Setting lastTestMethodIndex: 51906
+Tue May 15 23:52:13 UTC 2018: Starting linking
+Tue May 15 23:52:13 UTC 2018: Code found com.googlecode.jmxtrans.model.naming.typename.PrependingTypeNameValuesStringBuilder-build with com.googlecode.jmxtrans.model.naming.typename.PrependingTypeNameValuesStringBuilderTest-testBuilds
+Tue May 15 23:52:13 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.typename.PrependingTypeNameValuesStringBuilderTest
+Tue May 15 23:52:14 UTC 2018: Found element on the queue
+Tue May 15 23:52:14 UTC 2018: Updating status
+Tue May 15 23:52:15 UTC 2018: Working
+Tue May 15 23:52:17 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.typename.TypeNameValueTest
+Tue May 15 23:52:17 UTC 2018: Setting lastTestMethodIndex: 51908
+Tue May 15 23:52:17 UTC 2018: Starting linking
+Tue May 15 23:52:17 UTC 2018: Code found com.googlecode.jmxtrans.model.naming.typename.TypeNameValue-extractMap with com.googlecode.jmxtrans.model.naming.typename.TypeNameValueTest-testExtractMap
+Tue May 15 23:52:17 UTC 2018: No link for: com.googlecode.jmxtrans.model.naming.typename.TypeNameValueTest-testExtractsSingle
+Tue May 15 23:52:18 UTC 2018: No link for: com.googlecode.jmxtrans.model.naming.typename.TypeNameValueTest-testExtractsMixedCases
+Tue May 15 23:52:18 UTC 2018: No link for: com.googlecode.jmxtrans.model.naming.typename.TypeNameValueTest-testExtractsEmpty
+Tue May 15 23:52:18 UTC 2018: No link for: com.googlecode.jmxtrans.model.naming.typename.TypeNameValueTest-testExtractsWithoutValue
+Tue May 15 23:52:19 UTC 2018: No link for: com.googlecode.jmxtrans.model.naming.typename.TypeNameValueTest-testExtractsMultiple
+Tue May 15 23:52:19 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.typename.TypeNameValueTest
+Tue May 15 23:52:19 UTC 2018: Found element on the queue
+Tue May 15 23:52:19 UTC 2018: Updating status
+Tue May 15 23:52:20 UTC 2018: Working
+Tue May 15 23:52:22 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.typename.UseAllTypeNameValuesStringBuilderTest
+Tue May 15 23:52:22 UTC 2018: Setting lastTestMethodIndex: 51913
+Tue May 15 23:52:22 UTC 2018: Starting linking
+Tue May 15 23:52:22 UTC 2018: Code found com.googlecode.jmxtrans.model.naming.typename.UseAllTypeNameValuesStringBuilder-build with com.googlecode.jmxtrans.model.naming.typename.UseAllTypeNameValuesStringBuilderTest-testBuilds
+Tue May 15 23:52:22 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.typename.UseAllTypeNameValuesStringBuilderTest
+Tue May 15 23:52:23 UTC 2018: Found element on the queue
+Tue May 15 23:52:23 UTC 2018: Updating status
+Tue May 15 23:52:23 UTC 2018: Working
+Tue May 15 23:52:25 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.typename.TypeNameValuesStringBuilderTest
+Tue May 15 23:52:25 UTC 2018: Setting lastTestMethodIndex: 51916
+Tue May 15 23:52:25 UTC 2018: Starting linking
+Tue May 15 23:52:25 UTC 2018: Code found com.googlecode.jmxtrans.model.naming.typename.TypeNameValuesStringBuilder-build with com.googlecode.jmxtrans.model.naming.typename.TypeNameValuesStringBuilderTest-testBuilds
+Tue May 15 23:52:26 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.naming.typename.TypeNameValuesStringBuilderTest
+Tue May 15 23:52:26 UTC 2018: Found element on the queue
+Tue May 15 23:52:26 UTC 2018: Updating status
+Tue May 15 23:52:26 UTC 2018: Working
+Tue May 15 23:52:29 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.StdOutWriterTest
+Tue May 15 23:52:29 UTC 2018: Setting lastTestMethodIndex: 51919
+Tue May 15 23:52:29 UTC 2018: Starting linking
+Tue May 15 23:52:29 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StdOutWriterTest-skipResult
+Tue May 15 23:52:29 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StdOutWriterTest-defaultConfig
+Tue May 15 23:52:29 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.StdOutWriterTest
+Tue May 15 23:52:30 UTC 2018: Found element on the queue
+Tue May 15 23:52:30 UTC 2018: Updating status
+Tue May 15 23:52:30 UTC 2018: Working
+Tue May 15 23:52:32 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.BaseOutputWriterTests
+Tue May 15 23:52:32 UTC 2018: Setting lastTestMethodIndex: 51922
+Tue May 15 23:52:32 UTC 2018: Starting linking
+Tue May 15 23:52:32 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.BaseOutputWriterTests-booleanValuesAreTransformedToNumber
+Tue May 15 23:52:33 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.BaseOutputWriterTests-booleanValuesAreNotTransformedToNumber
+Tue May 15 23:52:33 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.BaseOutputWriterTests
+Tue May 15 23:52:33 UTC 2018: Found element on the queue
+Tue May 15 23:52:33 UTC 2018: Updating status
+Tue May 15 23:52:33 UTC 2018: Working
+Tue May 15 23:52:36 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.ToStringResultSerializerTest
+Tue May 15 23:52:36 UTC 2018: Setting lastTestMethodIndex: 51925
+Tue May 15 23:52:36 UTC 2018: Starting linking
+Tue May 15 23:52:36 UTC 2018: Code found com.googlecode.jmxtrans.model.output.ToStringResultSerializer-serialize with com.googlecode.jmxtrans.model.output.ToStringResultSerializerTest-serialize
+Tue May 15 23:52:36 UTC 2018: Code found com.googlecode.jmxtrans.model.output.ToStringResultSerializer-serialize with com.googlecode.jmxtrans.model.output.ToStringResultSerializerTest-serializeVerbose
+Tue May 15 23:52:37 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.ToStringResultSerializerTest
+Tue May 15 23:52:37 UTC 2018: Found element on the queue
+Tue May 15 23:52:37 UTC 2018: Updating status
+Tue May 15 23:52:37 UTC 2018: Working
+Tue May 15 23:52:40 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.SettingsTests
+Tue May 15 23:52:40 UTC 2018: Setting lastTestMethodIndex: 51929
+Tue May 15 23:52:40 UTC 2018: Starting linking
+Tue May 15 23:52:40 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-incorrectBooleanSettings
+Tue May 15 23:52:41 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-parsedFromInvalidStringIntSettings
+Tue May 15 23:52:41 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-parsedFromStringIntSettings
+Tue May 15 23:52:41 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-wrongTypeBooleanSettings
+Tue May 15 23:52:42 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-parsedFromStringIntegerSettings
+Tue May 15 23:52:42 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-typeConvertedIntSettings
+Tue May 15 23:52:42 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-unsetBooleanSettings
+Tue May 15 23:52:43 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-correctBooleanSettings
+Tue May 15 23:52:43 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-standardStringSettings
+Tue May 15 23:52:44 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-typeConvertedIntegerSettings
+Tue May 15 23:52:45 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-correctIntSettings
+Tue May 15 23:52:45 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-correctIntegerSettings
+Tue May 15 23:52:45 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-unsetIntegerSettings
+Tue May 15 23:52:46 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-unsetIntSettings
+Tue May 15 23:52:46 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-parsedFromInvalidStringIntegerSettings
+Tue May 15 23:52:46 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-unsetStringSettings
+Tue May 15 23:52:47 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-correctBooleanSettingsWithDefault
+Tue May 15 23:52:47 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SettingsTests-numberParsedAsStringSettings
+Tue May 15 23:52:47 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.SettingsTests
+Tue May 15 23:52:48 UTC 2018: Found element on the queue
+Tue May 15 23:52:48 UTC 2018: Updating status
+Tue May 15 23:52:48 UTC 2018: Working
+Tue May 15 23:52:50 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.KeyValueResultSerializerTest
+Tue May 15 23:52:50 UTC 2018: Setting lastTestMethodIndex: 51936
+Tue May 15 23:52:50 UTC 2018: Starting linking
+Tue May 15 23:52:50 UTC 2018: Code found com.googlecode.jmxtrans.model.output.KeyValueResultSerializer-serialize with com.googlecode.jmxtrans.model.output.KeyValueResultSerializerTest-serialize
+Tue May 15 23:52:51 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.KeyValueResultSerializerTest
+Tue May 15 23:52:51 UTC 2018: Found element on the queue
+Tue May 15 23:52:51 UTC 2018: Updating status
+Tue May 15 23:52:51 UTC 2018: Working
+Tue May 15 23:52:53 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.ServerTests
+Tue May 15 23:52:53 UTC 2018: Setting lastTestMethodIndex: 51939
+Tue May 15 23:52:53 UTC 2018: Starting linking
+Tue May 15 23:52:53 UTC 2018: No code found com.googlecode.jmxtrans.model.Server-toString with com.googlecode.jmxtrans.model.ServerTests-testToString
+Tue May 15 23:52:54 UTC 2018: No code found com.googlecode.jmxtrans.model.Server-equals with com.googlecode.jmxtrans.model.ServerTests-testEquals
+Tue May 15 23:52:54 UTC 2018: Code found com.googlecode.jmxtrans.model.Server-getLabel with com.googlecode.jmxtrans.model.ServerTests-testGetLabel
+Tue May 15 23:52:55 UTC 2018: Code found com.googlecode.jmxtrans.model.Server-getHost with com.googlecode.jmxtrans.model.ServerTests-testGetHostAndPortFromUrl
+Tue May 15 23:52:55 UTC 2018: Code found com.googlecode.jmxtrans.model.Server-getUrl with com.googlecode.jmxtrans.model.ServerTests-testGetUrl
+Tue May 15 23:52:55 UTC 2018: No code found com.googlecode.jmxtrans.model.Server-hashCode with com.googlecode.jmxtrans.model.ServerTests-testHashCode
+Tue May 15 23:52:56 UTC 2018: No link for: com.googlecode.jmxtrans.model.ServerTests-testEquals_forPid
+Tue May 15 23:52:57 UTC 2018: No link for: com.googlecode.jmxtrans.model.ServerTests-testConnectionRepoolingOk
+Tue May 15 23:52:57 UTC 2018: No link for: com.googlecode.jmxtrans.model.ServerTests-testIntegrity
+Tue May 15 23:52:57 UTC 2018: No link for: com.googlecode.jmxtrans.model.ServerTests-testConnectionRepoolingSkippedOnError_andErrorClosingConnectionIsIgnored
+Tue May 15 23:52:58 UTC 2018: No link for: com.googlecode.jmxtrans.model.ServerTests-testConnectionRepoolingSkippedOnError_andConnectionIsClosed
+Tue May 15 23:52:58 UTC 2018: No link for: com.googlecode.jmxtrans.model.ServerTests-testConnectionWithPid
+Tue May 15 23:52:58 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.ServerTests
+Tue May 15 23:52:59 UTC 2018: Found element on the queue
+Tue May 15 23:52:59 UTC 2018: Updating status
+Tue May 15 23:52:59 UTC 2018: Working
+Tue May 15 23:53:01 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.EqualsTests
+Tue May 15 23:53:01 UTC 2018: Setting lastTestMethodIndex: 51944
+Tue May 15 23:53:01 UTC 2018: Starting linking
+Tue May 15 23:53:01 UTC 2018: No link for: com.googlecode.jmxtrans.model.EqualsTests-testQuery
+Tue May 15 23:53:02 UTC 2018: No link for: com.googlecode.jmxtrans.model.EqualsTests-testQuery2
+Tue May 15 23:53:02 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.EqualsTests
+Tue May 15 23:53:02 UTC 2018: Found element on the queue
+Tue May 15 23:53:02 UTC 2018: Updating status
+Tue May 15 23:53:02 UTC 2018: Working
+Tue May 15 23:53:05 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.ResultAttributeTests
+Tue May 15 23:53:05 UTC 2018: Setting lastTestMethodIndex: 51947
+Tue May 15 23:53:05 UTC 2018: Starting linking
+Tue May 15 23:53:05 UTC 2018: No link for: com.googlecode.jmxtrans.model.ResultAttributeTests-attributeNamesFromResultAreWrittenToMap
+Tue May 15 23:53:06 UTC 2018: No link for: com.googlecode.jmxtrans.model.ResultAttributeTests-typeNamePropertyResultAttribute
+Tue May 15 23:53:06 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.ResultAttributeTests
+Tue May 15 23:53:07 UTC 2018: Found element on the queue
+Tue May 15 23:53:07 UTC 2018: Updating status
+Tue May 15 23:53:07 UTC 2018: Working
+Tue May 15 23:53:09 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.ProcessConfigUtilsTest
+Tue May 15 23:53:09 UTC 2018: Setting lastTestMethodIndex: 51949
+Tue May 15 23:53:09 UTC 2018: Starting linking
+Tue May 15 23:53:09 UTC 2018: No link for: com.googlecode.jmxtrans.util.ProcessConfigUtilsTest-loadingFromSimpleYamlFile
+Tue May 15 23:53:09 UTC 2018: No link for: com.googlecode.jmxtrans.util.ProcessConfigUtilsTest-loadingFromJsonFileWithVariables
+Tue May 15 23:53:10 UTC 2018: No link for: com.googlecode.jmxtrans.util.ProcessConfigUtilsTest-loadingFromYamlFileWithVariables
+Tue May 15 23:53:10 UTC 2018: No link for: com.googlecode.jmxtrans.util.ProcessConfigUtilsTest-loadingFromSimpleJsonFile
+Tue May 15 23:53:10 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.ProcessConfigUtilsTest
+Tue May 15 23:53:11 UTC 2018: Found element on the queue
+Tue May 15 23:53:11 UTC 2018: Updating status
+Tue May 15 23:53:11 UTC 2018: Working
+Tue May 15 23:53:13 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.PropertyResolverTest
+Tue May 15 23:53:13 UTC 2018: Setting lastTestMethodIndex: 51951
+Tue May 15 23:53:13 UTC 2018: Starting linking
+Tue May 15 23:53:13 UTC 2018: No link for: com.googlecode.jmxtrans.util.PropertyResolverTest-testProps
+Tue May 15 23:53:14 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.PropertyResolverTest
+Tue May 15 23:53:14 UTC 2018: Found element on the queue
+Tue May 15 23:53:14 UTC 2018: Updating status
+Tue May 15 23:53:14 UTC 2018: Working
+Tue May 15 23:53:14 UTC 2018: Create project parser
+Tue May 15 23:53:17 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.example.JsonPrinterTest
+Tue May 15 23:53:18 UTC 2018: Setting lastTestMethodIndex: 51953
+Tue May 15 23:53:18 UTC 2018: Starting linking
+Tue May 15 23:53:18 UTC 2018: Code found com.googlecode.jmxtrans.example.JsonPrinter-print with com.googlecode.jmxtrans.example.JsonPrinterTest-standardJsonPrinting
+Tue May 15 23:53:18 UTC 2018: No link for: com.googlecode.jmxtrans.example.JsonPrinterTest-prettyJsonPrinting
+Tue May 15 23:53:18 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.example.JsonPrinterTest
+Tue May 15 23:53:19 UTC 2018: Found element on the queue
+Tue May 15 23:53:19 UTC 2018: Updating status
+Tue May 15 23:53:19 UTC 2018: Working
+Tue May 15 23:53:19 UTC 2018: Create project parser
+Tue May 15 23:53:22 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.CloudWatchWriterTests
+Tue May 15 23:53:22 UTC 2018: Setting lastTestMethodIndex: 51957
+Tue May 15 23:53:22 UTC 2018: Starting linking
+Tue May 15 23:53:22 UTC 2018: Code found com.googlecode.jmxtrans.model.output.CloudWatchWriter$Writer-close with com.googlecode.jmxtrans.model.output.CloudWatchWriterTests-cloudwatchClientIsClosed
+Tue May 15 23:53:22 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.CloudWatchWriterTests-testValidationWithoutSettings
+Tue May 15 23:53:22 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.CloudWatchWriterTests
+Tue May 15 23:53:23 UTC 2018: Found element on the queue
+Tue May 15 23:53:23 UTC 2018: Updating status
+Tue May 15 23:53:23 UTC 2018: Working
+Tue May 15 23:53:23 UTC 2018: Create project parser
+Tue May 15 23:53:26 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.LibratoWriterTest
+Tue May 15 23:53:26 UTC 2018: Setting lastTestMethodIndex: 51960
+Tue May 15 23:53:26 UTC 2018: Starting linking
+Tue May 15 23:53:26 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.LibratoWriterTest-httpUserAgentContainsAppropriateInformation
+Tue May 15 23:53:26 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.LibratoWriterTest
+Tue May 15 23:53:27 UTC 2018: Found element on the queue
+Tue May 15 23:53:27 UTC 2018: Updating status
+Tue May 15 23:53:27 UTC 2018: Working
+Tue May 15 23:53:29 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.GraphiteWriter2Test
+Tue May 15 23:53:29 UTC 2018: Setting lastTestMethodIndex: 51962
+Tue May 15 23:53:29 UTC 2018: Starting linking
+Tue May 15 23:53:29 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriter2Test-invalidNumbersFiltered
+Tue May 15 23:53:30 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriter2Test-invalidNumericStringFiltered
+Tue May 15 23:53:30 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriter2Test-stringNumericValue
+Tue May 15 23:53:30 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriter2Test-correctFormatIsSentToGraphite
+Tue May 15 23:53:31 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.GraphiteWriter2Test
+Tue May 15 23:53:31 UTC 2018: Found element on the queue
+Tue May 15 23:53:31 UTC 2018: Updating status
+Tue May 15 23:53:31 UTC 2018: Working
+Tue May 15 23:53:34 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.ZabbixWriterTest
+Tue May 15 23:53:34 UTC 2018: Setting lastTestMethodIndex: 51966
+Tue May 15 23:53:34 UTC 2018: Starting linking
+Tue May 15 23:53:34 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.ZabbixWriterTest-metricsAreFormattedCorrectly
+Tue May 15 23:53:34 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.ZabbixWriterTest
+Tue May 15 23:53:35 UTC 2018: Found element on the queue
+Tue May 15 23:53:35 UTC 2018: Updating status
+Tue May 15 23:53:35 UTC 2018: Working
+Tue May 15 23:53:37 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.GraphiteWriterTests
+Tue May 15 23:53:37 UTC 2018: Setting lastTestMethodIndex: 51968
+Tue May 15 23:53:37 UTC 2018: Starting linking
+Tue May 15 23:53:37 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-writeSingleResult
+Tue May 15 23:53:38 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-socketInvalidatedWhenError
+Tue May 15 23:53:39 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-hostIsRequired
+Tue May 15 23:53:39 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-invalidNumbersFiltered
+Tue May 15 23:53:39 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-stringNumericValue
+Tue May 15 23:53:39 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-portIsRequired
+Tue May 15 23:53:40 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-allowDottedWorks
+Tue May 15 23:53:40 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-checkEmptyTypeNamesAreIgnored
+Tue May 15 23:53:40 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-useAllTypeNamesWorks
+Tue May 15 23:53:41 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-useObjDomainWorks
+Tue May 15 23:53:41 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GraphiteWriterTests-booleanAsNumberWorks
+Tue May 15 23:53:41 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.GraphiteWriterTests
+Tue May 15 23:53:42 UTC 2018: Found element on the queue
+Tue May 15 23:53:42 UTC 2018: Updating status
+Tue May 15 23:53:42 UTC 2018: Working
+Tue May 15 23:53:44 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurerTest
+Tue May 15 23:53:44 UTC 2018: Setting lastTestMethodIndex: 51971
+Tue May 15 23:53:44 UTC 2018: Starting linking
+Tue May 15 23:53:44 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurer-configure with com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurerTest-contentTypeIsNotSetWhenUnConfigured
+Tue May 15 23:53:45 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurer-configure with com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurerTest-contentTypeIsSetWhenConfigured
+Tue May 15 23:53:45 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurer-configure with com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurerTest-authorizationIsNotSetWhenUnConfigured
+Tue May 15 23:53:45 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurer-configure with com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurerTest-authorizationIsSetWhenConfigured
+Tue May 15 23:53:46 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurerTest-exceptionIsThrownOnInvalidHttpMethod
+Tue May 15 23:53:46 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurerTest-userAgentIsSet
+Tue May 15 23:53:46 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.HttpUrlConnectionConfigurerTest
+Tue May 15 23:53:47 UTC 2018: Found element on the queue
+Tue May 15 23:53:47 UTC 2018: Updating status
+Tue May 15 23:53:47 UTC 2018: Working
+Tue May 15 23:53:49 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.WriterPoolOutputWriterTest
+Tue May 15 23:53:49 UTC 2018: Setting lastTestMethodIndex: 51974
+Tue May 15 23:53:49 UTC 2018: Starting linking
+Tue May 15 23:53:49 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.WriterPoolOutputWriterTest-poolableIsReleasedOnIOException
+Tue May 15 23:53:50 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.WriterPoolOutputWriterTest-claimTimeout
+Tue May 15 23:53:50 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.WriterPoolOutputWriterTest-writerIsPassedToTargetOutputWriter
+Tue May 15 23:53:50 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.WriterPoolOutputWriterTest
+Tue May 15 23:53:51 UTC 2018: Found element on the queue
+Tue May 15 23:53:51 UTC 2018: Updating status
+Tue May 15 23:53:51 UTC 2018: Working
+Tue May 15 23:53:53 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.TimeBasedFlushTest
+Tue May 15 23:53:53 UTC 2018: Setting lastTestMethodIndex: 51977
+Tue May 15 23:53:53 UTC 2018: Starting linking
+Tue May 15 23:53:53 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.TimeBasedFlush-flush with com.googlecode.jmxtrans.model.output.support.pool.TimeBasedFlushTest-argumentIsNotFlushedBeforeDelay
+Tue May 15 23:53:53 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.TimeBasedFlush-flush with com.googlecode.jmxtrans.model.output.support.pool.TimeBasedFlushTest-argumentIsFlushedAfterDelay
+Tue May 15 23:53:54 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.TimeBasedFlushTest
+Tue May 15 23:53:54 UTC 2018: Found element on the queue
+Tue May 15 23:53:54 UTC 2018: Updating status
+Tue May 15 23:53:54 UTC 2018: Working
+Tue May 15 23:53:57 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocatorTest
+Tue May 15 23:53:57 UTC 2018: Setting lastTestMethodIndex: 51979
+Tue May 15 23:53:57 UTC 2018: Starting linking
+Tue May 15 23:53:57 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocator-allocate with com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocatorTest-testAllocate_FailThenSucceed
+Tue May 15 23:53:58 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocator-deallocate with com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocatorTest-testDeallocate
+Tue May 15 23:53:58 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocator-allocate with com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocatorTest-testAllocate_Fail
+Tue May 15 23:53:58 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocator-allocate with com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocatorTest-testAllocate
+Tue May 15 23:53:59 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.RetryingAllocatorTest
+Tue May 15 23:53:59 UTC 2018: Found element on the queue
+Tue May 15 23:53:59 UTC 2018: Updating status
+Tue May 15 23:53:59 UTC 2018: Working
+Tue May 15 23:54:01 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.SocketAllocatorTest
+Tue May 15 23:54:01 UTC 2018: Setting lastTestMethodIndex: 51983
+Tue May 15 23:54:01 UTC 2018: Starting linking
+Tue May 15 23:54:01 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.SocketAllocatorTest-socketAndWritersAreClosed
+Tue May 15 23:54:02 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.SocketAllocatorTest-socketAndWritersAreClosedEvenWhenExceptions
+Tue May 15 23:54:02 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.SocketAllocatorTest-addressResolutionIsAlwaysDone
+Tue May 15 23:54:02 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.SocketAllocatorTest
+Tue May 15 23:54:03 UTC 2018: Found element on the queue
+Tue May 15 23:54:03 UTC 2018: Updating status
+Tue May 15 23:54:03 UTC 2018: Working
+Tue May 15 23:54:06 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.WriterPoolableTest
+Tue May 15 23:54:06 UTC 2018: Setting lastTestMethodIndex: 51986
+Tue May 15 23:54:06 UTC 2018: Starting linking
+Tue May 15 23:54:06 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.WriterPoolable-release with com.googlecode.jmxtrans.model.output.support.pool.WriterPoolableTest-ensureSlotIsReleasedOnException
+Tue May 15 23:54:06 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.WriterPoolableTest-writerIsFlushedIfStrategyRequiresIt
+Tue May 15 23:54:07 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.WriterPoolableTest
+Tue May 15 23:54:07 UTC 2018: Found element on the queue
+Tue May 15 23:54:07 UTC 2018: Updating status
+Tue May 15 23:54:07 UTC 2018: Working
+Tue May 15 23:54:09 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.ChannelWriterTest
+Tue May 15 23:54:09 UTC 2018: Setting lastTestMethodIndex: 51988
+Tue May 15 23:54:09 UTC 2018: Starting linking
+Tue May 15 23:54:09 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.ChannelWriter-close with com.googlecode.jmxtrans.model.output.support.pool.ChannelWriterTest-bufferIsFlushedOnClose
+Tue May 15 23:54:10 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.ChannelWriter-write with com.googlecode.jmxtrans.model.output.support.pool.ChannelWriterTest-writerFlushesWhenBufferIsFull
+Tue May 15 23:54:10 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.ChannelWriterTest-messageIspassedToChannel
+Tue May 15 23:54:11 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.ChannelWriterTest-multipleMessagesAreSent
+Tue May 15 23:54:11 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.ChannelWriterTest
+Tue May 15 23:54:11 UTC 2018: Found element on the queue
+Tue May 15 23:54:11 UTC 2018: Updating status
+Tue May 15 23:54:11 UTC 2018: Working
+Tue May 15 23:54:14 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.AlwaysFlushTest
+Tue May 15 23:54:14 UTC 2018: Setting lastTestMethodIndex: 51991
+Tue May 15 23:54:14 UTC 2018: Starting linking
+Tue May 15 23:54:14 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.AlwaysFlush-flush with com.googlecode.jmxtrans.model.output.support.pool.AlwaysFlushTest-argumentIsAlwaysFlushed
+Tue May 15 23:54:14 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.AlwaysFlushTest
+Tue May 15 23:54:14 UTC 2018: Found element on the queue
+Tue May 15 23:54:14 UTC 2018: Updating status
+Tue May 15 23:54:14 UTC 2018: Working
+Tue May 15 23:54:17 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.FlushStrategyUtilsTest
+Tue May 15 23:54:17 UTC 2018: Setting lastTestMethodIndex: 51994
+Tue May 15 23:54:17 UTC 2018: Starting linking
+Tue May 15 23:54:17 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.FlushStrategyUtilsTest-createAlwaysFlush
+Tue May 15 23:54:17 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.FlushStrategyUtilsTest-defaultStrategyIsNeverFlush
+Tue May 15 23:54:17 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.FlushStrategyUtilsTest-unkownStrategyThrowsException
+Tue May 15 23:54:18 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.FlushStrategyUtilsTest-createNeverFlush
+Tue May 15 23:54:18 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.FlushStrategyUtilsTest-flushDelayIsRequiredForTimeBasedFlush
+Tue May 15 23:54:18 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.pool.FlushStrategyUtilsTest-createTimeBasedFlush
+Tue May 15 23:54:18 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.FlushStrategyUtilsTest
+Tue May 15 23:54:19 UTC 2018: Found element on the queue
+Tue May 15 23:54:19 UTC 2018: Updating status
+Tue May 15 23:54:19 UTC 2018: Working
+Tue May 15 23:54:21 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.NeverFlushTest
+Tue May 15 23:54:21 UTC 2018: Setting lastTestMethodIndex: 51996
+Tue May 15 23:54:21 UTC 2018: Starting linking
+Tue May 15 23:54:21 UTC 2018: Code found com.googlecode.jmxtrans.model.output.support.pool.NeverFlush-flush with com.googlecode.jmxtrans.model.output.support.pool.NeverFlushTest-argumentIsNeverFlushed
+Tue May 15 23:54:22 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.pool.NeverFlushTest
+Tue May 15 23:54:22 UTC 2018: Found element on the queue
+Tue May 15 23:54:22 UTC 2018: Updating status
+Tue May 15 23:54:22 UTC 2018: Working
+Tue May 15 23:54:25 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.GraphiteWriterFactoryTest
+Tue May 15 23:54:25 UTC 2018: Setting lastTestMethodIndex: 51999
+Tue May 15 23:54:25 UTC 2018: Starting linking
+Tue May 15 23:54:25 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.GraphiteWriterFactoryTest-socketExpirationIsUsedByDefault
+Tue May 15 23:54:25 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.GraphiteWriterFactoryTest-canParseConfigurationFileWithCustomParameters
+Tue May 15 23:54:25 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.GraphiteWriterFactoryTest-timedSocketExpirationIsUsedWhenConfigured
+Tue May 15 23:54:25 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.GraphiteWriterFactoryTest-use_tcp_protocol_by_default
+Tue May 15 23:54:26 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.GraphiteWriterFactoryTest-writer_using_udp_protocol
+Tue May 15 23:54:26 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.GraphiteWriterFactoryTest
+Tue May 15 23:54:26 UTC 2018: Found element on the queue
+Tue May 15 23:54:26 UTC 2018: Updating status
+Tue May 15 23:54:26 UTC 2018: Working
+Tue May 15 23:54:29 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.ResultTransformerOutputWriterTest
+Tue May 15 23:54:29 UTC 2018: Setting lastTestMethodIndex: 52001
+Tue May 15 23:54:29 UTC 2018: Starting linking
+Tue May 15 23:54:29 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.ResultTransformerOutputWriterTest-booleanValuesAreTransformed
+Tue May 15 23:54:29 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.support.ResultTransformerOutputWriterTest-identityTransformerDoesNotTransformValues
+Tue May 15 23:54:29 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.support.ResultTransformerOutputWriterTest
+Tue May 15 23:54:30 UTC 2018: Found element on the queue
+Tue May 15 23:54:30 UTC 2018: Updating status
+Tue May 15 23:54:30 UTC 2018: Working
+Tue May 15 23:54:32 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.StatsDWriter2Test
+Tue May 15 23:54:32 UTC 2018: Setting lastTestMethodIndex: 52004
+Tue May 15 23:54:32 UTC 2018: Starting linking
+Tue May 15 23:54:32 UTC 2018: Code found com.googlecode.jmxtrans.model.output.StatsDWriter2-write with com.googlecode.jmxtrans.model.output.StatsDWriter2Test-writeNumericResult
+Tue May 15 23:54:33 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDWriter2Test-nonNumericValuesAsKey
+Tue May 15 23:54:33 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDWriter2Test-ignoreNonNumericValues
+Tue May 15 23:54:33 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDWriter2Test-badKeyNameNoInvalidCharProvided
+Tue May 15 23:54:34 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDWriter2Test-valuesTruncatedToCPrecision
+Tue May 15 23:54:34 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDWriter2Test-handleNaNValues
+Tue May 15 23:54:34 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDWriter2Test-multipleValuesAreSeparatedByNewLine
+Tue May 15 23:54:34 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.StatsDWriter2Test
+Tue May 15 23:54:35 UTC 2018: Found element on the queue
+Tue May 15 23:54:35 UTC 2018: Updating status
+Tue May 15 23:54:35 UTC 2018: Working
+Tue May 15 23:54:38 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.TCollectorUDPWriterTests
+Tue May 15 23:54:38 UTC 2018: Setting lastTestMethodIndex: 52007
+Tue May 15 23:54:38 UTC 2018: Starting linking
+Tue May 15 23:54:38 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.TCollectorUDPWriterTests-testSocketException
+Tue May 15 23:54:38 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.TCollectorUDPWriterTests-exceptionIsThrownWhenHostIsNotDefined
+Tue May 15 23:54:39 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.TCollectorUDPWriterTests-successfullySendMessageToTCollector
+Tue May 15 23:54:39 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.TCollectorUDPWriterTests-exceptionIsThrownWhenPortIsNotDefined
+Tue May 15 23:54:39 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.TCollectorUDPWriterTests
+Tue May 15 23:54:40 UTC 2018: Found element on the queue
+Tue May 15 23:54:40 UTC 2018: Updating status
+Tue May 15 23:54:40 UTC 2018: Working
+Tue May 15 23:54:42 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.StatsDTelegrafWriterTest
+Tue May 15 23:54:42 UTC 2018: Setting lastTestMethodIndex: 52009
+Tue May 15 23:54:42 UTC 2018: Starting linking
+Tue May 15 23:54:42 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDTelegrafWriterTest-gaugeAttribute
+Tue May 15 23:54:42 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDTelegrafWriterTest-countAttribute_negativeValueIsIgnored
+Tue May 15 23:54:43 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDTelegrafWriterTest-hashResultAttribues
+Tue May 15 23:54:43 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDTelegrafWriterTest-multipleBucketTypes
+Tue May 15 23:54:43 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDTelegrafWriterTest-countAttribute
+Tue May 15 23:54:43 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.StatsDTelegrafWriterTest-nonNumericValue
+Tue May 15 23:54:44 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.StatsDTelegrafWriterTest
+Tue May 15 23:54:45 UTC 2018: Found element on the queue
+Tue May 15 23:54:45 UTC 2018: Updating status
+Tue May 15 23:54:45 UTC 2018: Working
+Tue May 15 23:54:48 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.OpenTSDBWriterTests
+Tue May 15 23:54:48 UTC 2018: Setting lastTestMethodIndex: 52013
+Tue May 15 23:54:48 UTC 2018: Starting linking
+Tue May 15 23:54:48 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.OpenTSDBWriterTests-socketInvalidatedWhenError
+Tue May 15 23:54:48 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.OpenTSDBWriterTests-writeSingleResult
+Tue May 15 23:54:48 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.OpenTSDBWriterTests-exceptionThrownIfPortIsNotDefined
+Tue May 15 23:54:48 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.OpenTSDBWriterTests-exceptionThrownIfHostIsNotDefined
+Tue May 15 23:54:49 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.OpenTSDBWriterTests
+Tue May 15 23:54:49 UTC 2018: Found element on the queue
+Tue May 15 23:54:49 UTC 2018: Updating status
+Tue May 15 23:54:49 UTC 2018: Working
+Tue May 15 23:54:52 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.SensuWriter2Test
+Tue May 15 23:54:52 UTC 2018: Setting lastTestMethodIndex: 52015
+Tue May 15 23:54:52 UTC 2018: Starting linking
+Tue May 15 23:54:52 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.SensuWriter2Test-metricsAreFormattedCorrectly
+Tue May 15 23:54:52 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.SensuWriter2Test
+Tue May 15 23:54:53 UTC 2018: Found element on the queue
+Tue May 15 23:54:53 UTC 2018: Updating status
+Tue May 15 23:54:53 UTC 2018: Working
+Tue May 15 23:54:55 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.LibratoWriter2Test
+Tue May 15 23:54:55 UTC 2018: Setting lastTestMethodIndex: 52018
+Tue May 15 23:54:55 UTC 2018: Starting linking
+Tue May 15 23:54:55 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.LibratoWriter2Test-metricsAreFormattedCorrectly
+Tue May 15 23:54:56 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.LibratoWriter2Test
+Tue May 15 23:54:57 UTC 2018: Found element on the queue
+Tue May 15 23:54:57 UTC 2018: Updating status
+Tue May 15 23:54:57 UTC 2018: Working
+Tue May 15 23:54:59 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.TCollectorUDPWriter2Test
+Tue May 15 23:54:59 UTC 2018: Setting lastTestMethodIndex: 52021
+Tue May 15 23:54:59 UTC 2018: Starting linking
+Tue May 15 23:54:59 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.TCollectorUDPWriter2Test-testMultipleSend
+Tue May 15 23:55:00 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.TCollectorUDPWriter2Test
+Tue May 15 23:55:00 UTC 2018: Found element on the queue
+Tue May 15 23:55:00 UTC 2018: Updating status
+Tue May 15 23:55:00 UTC 2018: Working
+Tue May 15 23:55:02 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.Slf4JOutputWriterTest
+Tue May 15 23:55:02 UTC 2018: Setting lastTestMethodIndex: 52024
+Tue May 15 23:55:02 UTC 2018: Starting linking
+Tue May 15 23:55:02 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.Slf4JOutputWriterTest-resultSerializerFiltersLogs
+Tue May 15 23:55:03 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.Slf4JOutputWriterTest-numericMetricsAreEmptyByDefault
+Tue May 15 23:55:03 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.Slf4JOutputWriterTest-nonNumericMetricsAreNotLoggedByDefault
+Tue May 15 23:55:04 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.Slf4JOutputWriterTest-metricsAreSentToLoggerViaMDC
+Tue May 15 23:55:04 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.Slf4JOutputWriterTest-mdcIsCleanedAfterCall
+Tue May 15 23:55:04 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.Slf4JOutputWriterTest
+Tue May 15 23:55:05 UTC 2018: Found element on the queue
+Tue May 15 23:55:05 UTC 2018: Updating status
+Tue May 15 23:55:05 UTC 2018: Working
+Tue May 15 23:55:07 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.OpenTSDBWriter2Test
+Tue May 15 23:55:07 UTC 2018: Setting lastTestMethodIndex: 52027
+Tue May 15 23:55:07 UTC 2018: Starting linking
+Tue May 15 23:55:07 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.OpenTSDBWriter2Test-testMultipleSend
+Tue May 15 23:55:08 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.OpenTSDBWriter2Test
+Tue May 15 23:55:08 UTC 2018: Found element on the queue
+Tue May 15 23:55:08 UTC 2018: Updating status
+Tue May 15 23:55:08 UTC 2018: Working
+Tue May 15 23:55:08 UTC 2018: Create project parser
+Tue May 15 23:55:11 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests
+Tue May 15 23:55:11 UTC 2018: Setting lastTestMethodIndex: 52029
+Tue May 15 23:55:11 UTC 2018: Starting linking
+Tue May 15 23:55:11 UTC 2018: Code found com.googlecode.jmxtrans.model.output.elastic.ElasticWriter-validateSetup with com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-testValidateSetup
+Tue May 15 23:55:11 UTC 2018: Code found com.googlecode.jmxtrans.model.output.elastic.ElasticWriter-toString with com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-checkToString
+Tue May 15 23:55:11 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-sendMessageToElasticWriteThrowsException
+Tue May 15 23:55:12 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-mappingCreateFailure
+Tue May 15 23:55:12 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-indexCreateFailure
+Tue May 15 23:55:12 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-sendNonNumericMessageToElastic
+Tue May 15 23:55:12 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-sendMessageToElasticAndVerify
+Tue May 15 23:55:13 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-sendMessageToElasticWriteResultNotSucceeded
+Tue May 15 23:55:13 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests-sendMessageToElastic
+Tue May 15 23:55:13 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.elastic.ElasticWriterTests
+Tue May 15 23:55:14 UTC 2018: Found element on the queue
+Tue May 15 23:55:14 UTC 2018: Updating status
+Tue May 15 23:55:14 UTC 2018: Working
+Tue May 15 23:55:14 UTC 2018: Create project parser
+Tue May 15 23:55:17 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.GangliaWriterTests
+Tue May 15 23:55:17 UTC 2018: Setting lastTestMethodIndex: 52033
+Tue May 15 23:55:17 UTC 2018: Starting linking
+Tue May 15 23:55:17 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GangliaWriterTests-testValidationMinimalSettings
+Tue May 15 23:55:17 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GangliaWriterTests-testValidationAllSettings
+Tue May 15 23:55:17 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.GangliaWriterTests-testValidationWithoutSettings
+Tue May 15 23:55:17 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.GangliaWriterTests
+Tue May 15 23:55:18 UTC 2018: Found element on the queue
+Tue May 15 23:55:18 UTC 2018: Updating status
+Tue May 15 23:55:18 UTC 2018: Working
+Tue May 15 23:55:18 UTC 2018: Create project parser
+Tue May 15 23:55:20 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.gelf.GelfWriterTests
+Tue May 15 23:55:20 UTC 2018: Setting lastTestMethodIndex: 52036
+Tue May 15 23:55:20 UTC 2018: Starting linking
+Tue May 15 23:55:20 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.gelf.GelfWriterTests-testSendGelfMessage
+Tue May 15 23:55:21 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.gelf.GelfWriterTests
+Tue May 15 23:55:21 UTC 2018: Found element on the queue
+Tue May 15 23:55:21 UTC 2018: Updating status
+Tue May 15 23:55:21 UTC 2018: Working
+Tue May 15 23:55:24 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.gelf.GelfWriterFactoryTests
+Tue May 15 23:55:24 UTC 2018: Setting lastTestMethodIndex: 52039
+Tue May 15 23:55:24 UTC 2018: Starting linking
+Tue May 15 23:55:24 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.gelf.GelfWriterFactoryTests-testNonDefaultsFalseWriterFactory
+Tue May 15 23:55:24 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.gelf.GelfWriterFactoryTests-testIgnoreWrongTransport
+Tue May 15 23:55:24 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.gelf.GelfWriterFactoryTests-testUdpDefaultsWriterFactory
+Tue May 15 23:55:24 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.gelf.GelfWriterFactoryTests-testNonDefaultsWriterFactory
+Tue May 15 23:55:25 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.gelf.GelfWriterFactoryTests-testHostNotSpecified
+Tue May 15 23:55:25 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.gelf.GelfWriterFactoryTests-testTcpDefaultsWriterFactory
+Tue May 15 23:55:25 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.gelf.GelfWriterFactoryTests
+Tue May 15 23:55:26 UTC 2018: Found element on the queue
+Tue May 15 23:55:26 UTC 2018: Updating status
+Tue May 15 23:55:26 UTC 2018: Working
+Tue May 15 23:55:26 UTC 2018: Create project parser
+Tue May 15 23:55:28 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.InfluxDbWriterTests
+Tue May 15 23:55:28 UTC 2018: Setting lastTestMethodIndex: 52041
+Tue May 15 23:55:28 UTC 2018: Starting linking
+Tue May 15 23:55:28 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-loadingFromFile
+Tue May 15 23:55:29 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-customTagsAreWrittenToDb
+Tue May 15 23:55:29 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-jmxPortIsReportedAsFieldByDefault
+Tue May 15 23:55:29 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-databaseIsCreated
+Tue May 15 23:55:30 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-writeConsistencyLevelsAreAppliedToBatchPointsBeingWritten
+Tue May 15 23:55:30 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-databaseIsNotCreated
+Tue May 15 23:55:30 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-pointsAreWrittenToInfluxDb
+Tue May 15 23:55:30 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-jmxPortIsReportedAsTag
+Tue May 15 23:55:31 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-attributeNameIncludesTypeNames
+Tue May 15 23:55:31 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.InfluxDbWriterTests-onlyRequestedResultPropertiesAreAppliedAsTags
+Tue May 15 23:55:31 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.InfluxDbWriterTests
+Tue May 15 23:55:32 UTC 2018: Found element on the queue
+Tue May 15 23:55:32 UTC 2018: Updating status
+Tue May 15 23:55:32 UTC 2018: Working
+Tue May 15 23:55:32 UTC 2018: Create project parser
+Tue May 15 23:55:34 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest
+Tue May 15 23:55:34 UTC 2018: Setting lastTestMethodIndex: 52045
+Tue May 15 23:55:34 UTC 2018: Starting linking
+Tue May 15 23:55:34 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest-testConstructorWithNullProducerConfig
+Tue May 15 23:55:35 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest-testConstructorWithNullTopic
+Tue May 15 23:55:35 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest-testReadConfigDefault
+Tue May 15 23:55:35 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest-testDefaultSerializers
+Tue May 15 23:55:35 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest-testReadConfigDefaultCustomized
+Tue May 15 23:55:36 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest-testConstructorWithNullResultSerializer
+Tue May 15 23:55:36 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest-testReadConfigDetailed
+Tue May 15 23:55:36 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.KafkaWriterFactoryTest
+Tue May 15 23:55:37 UTC 2018: Found element on the queue
+Tue May 15 23:55:37 UTC 2018: Updating status
+Tue May 15 23:55:37 UTC 2018: Working
+Tue May 15 23:55:40 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.KafkaWriterTests
+Tue May 15 23:55:40 UTC 2018: Setting lastTestMethodIndex: 52048
+Tue May 15 23:55:40 UTC 2018: Starting linking
+Tue May 15 23:55:40 UTC 2018: Code found com.googlecode.jmxtrans.model.output.kafka.KafkaWriter-close with com.googlecode.jmxtrans.model.output.kafka.KafkaWriterTests-producerClosed
+Tue May 15 23:55:40 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterTests-messagesAreSentToKafka
+Tue May 15 23:55:40 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterTests-filteringResultSerializer
+Tue May 15 23:55:41 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriterTests-createKafkaProducer
+Tue May 15 23:55:41 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.KafkaWriterTests
+Tue May 15 23:55:41 UTC 2018: Found element on the queue
+Tue May 15 23:55:41 UTC 2018: Updating status
+Tue May 15 23:55:41 UTC 2018: Working
+Tue May 15 23:55:45 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.DetailedResultSerializerTest
+Tue May 15 23:55:45 UTC 2018: Setting lastTestMethodIndex: 52050
+Tue May 15 23:55:45 UTC 2018: Starting linking
+Tue May 15 23:55:45 UTC 2018: Code found com.googlecode.jmxtrans.model.output.kafka.DetailedResultSerializer-serialize with com.googlecode.jmxtrans.model.output.kafka.DetailedResultSerializerTest-serializeNumericResultWithPath
+Tue May 15 23:55:45 UTC 2018: Code found com.googlecode.jmxtrans.model.output.kafka.DetailedResultSerializer-serialize with com.googlecode.jmxtrans.model.output.kafka.DetailedResultSerializerTest-serializeNumericResult
+Tue May 15 23:55:45 UTC 2018: No code found com.googlecode.jmxtrans.model.output.kafka.DetailedResultSerializer-hashCode with com.googlecode.jmxtrans.model.output.kafka.DetailedResultSerializerTest-equalsHashCodeWhenSame
+Tue May 15 23:55:46 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.DetailedResultSerializerTest
+Tue May 15 23:55:46 UTC 2018: Found element on the queue
+Tue May 15 23:55:46 UTC 2018: Updating status
+Tue May 15 23:55:46 UTC 2018: Working
+Tue May 15 23:55:49 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.KafkaWriter2Test
+Tue May 15 23:55:49 UTC 2018: Setting lastTestMethodIndex: 52054
+Tue May 15 23:55:49 UTC 2018: Starting linking
+Tue May 15 23:55:49 UTC 2018: Code found com.googlecode.jmxtrans.model.output.kafka.KafkaWriter2-close with com.googlecode.jmxtrans.model.output.kafka.KafkaWriter2Test-producerClosed
+Tue May 15 23:55:49 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriter2Test-testFilterResultSerializer
+Tue May 15 23:55:49 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.KafkaWriter2Test-testWrite
+Tue May 15 23:55:49 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.KafkaWriter2Test
+Tue May 15 23:55:50 UTC 2018: Found element on the queue
+Tue May 15 23:55:50 UTC 2018: Updating status
+Tue May 15 23:55:50 UTC 2018: Working
+Tue May 15 23:55:52 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.DefaultResultSerializerTest
+Tue May 15 23:55:52 UTC 2018: Setting lastTestMethodIndex: 52057
+Tue May 15 23:55:52 UTC 2018: Starting linking
+Tue May 15 23:55:52 UTC 2018: No code found com.googlecode.jmxtrans.model.output.kafka.DefaultResultSerializer-hashCode with com.googlecode.jmxtrans.model.output.kafka.DefaultResultSerializerTest-equalsHashCodeWhenSame
+Tue May 15 23:55:53 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.DefaultResultSerializerTest-convertSingleNonNumericToString
+Tue May 15 23:55:53 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.DefaultResultSerializerTest-convertSingleNumericToString
+Tue May 15 23:55:53 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.DefaultResultSerializerTest-equalsWhenDifferent
+Tue May 15 23:55:54 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.kafka.DefaultResultSerializerTest-initDefaults
+Tue May 15 23:55:54 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.kafka.DefaultResultSerializerTest
+Tue May 15 23:55:54 UTC 2018: Found element on the queue
+Tue May 15 23:55:54 UTC 2018: Updating status
+Tue May 15 23:55:54 UTC 2018: Working
+Tue May 15 23:55:54 UTC 2018: Create project parser
+Tue May 15 23:55:57 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.NagiosWriterTest
+Tue May 15 23:55:57 UTC 2018: Setting lastTestMethodIndex: 52059
+Tue May 15 23:55:57 UTC 2018: Starting linking
+Tue May 15 23:55:57 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.NagiosWriterTest-testWrite
+Tue May 15 23:55:58 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.NagiosWriterTest
+Tue May 15 23:55:58 UTC 2018: Found element on the queue
+Tue May 15 23:55:58 UTC 2018: Updating status
+Tue May 15 23:55:58 UTC 2018: Working
+Tue May 15 23:56:01 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.DailyKeyOutWriterTest
+Tue May 15 23:56:01 UTC 2018: Setting lastTestMethodIndex: 52060
+Tue May 15 23:56:01 UTC 2018: Starting linking
+Tue May 15 23:56:01 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.DailyKeyOutWriterTest-testWrite
+Tue May 15 23:56:01 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.DailyKeyOutWriterTest
+Tue May 15 23:56:01 UTC 2018: Found element on the queue
+Tue May 15 23:56:01 UTC 2018: Updating status
+Tue May 15 23:56:01 UTC 2018: Working
+Tue May 15 23:56:04 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.KeyOutWriterTest
+Tue May 15 23:56:04 UTC 2018: Setting lastTestMethodIndex: 52062
+Tue May 15 23:56:04 UTC 2018: Starting linking
+Tue May 15 23:56:04 UTC 2018: No code found com.googlecode.jmxtrans.model.output.KeyOutWriter-close with com.googlecode.jmxtrans.model.output.KeyOutWriterTest-testClose
+Tue May 15 23:56:05 UTC 2018: No link for: com.googlecode.jmxtrans.model.output.KeyOutWriterTest-testWrite
+Tue May 15 23:56:05 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.model.output.KeyOutWriterTest
+Tue May 15 23:56:06 UTC 2018: Found element on the queue
+Tue May 15 23:56:06 UTC 2018: Updating status
+Tue May 15 23:56:06 UTC 2018: Working
+Tue May 15 23:56:06 UTC 2018: Create project parser
+Tue May 15 23:56:09 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.WatchDirTest
+Tue May 15 23:56:09 UTC 2018: Setting lastTestMethodIndex: 52064
+Tue May 15 23:56:09 UTC 2018: Starting linking
+Tue May 15 23:56:09 UTC 2018: No link for: com.googlecode.jmxtrans.util.WatchDirTest-watchingFileIsNotPossible
+Tue May 15 23:56:09 UTC 2018: No link for: com.googlecode.jmxtrans.util.WatchDirTest-deletedFileIsDetected
+Tue May 15 23:56:10 UTC 2018: No link for: com.googlecode.jmxtrans.util.WatchDirTest-createdFileIsDetected
+Tue May 15 23:56:10 UTC 2018: No link for: com.googlecode.jmxtrans.util.WatchDirTest-modifiedFileIsDetected
+Tue May 15 23:56:10 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.WatchDirTest
+Tue May 15 23:56:11 UTC 2018: Found element on the queue
+Tue May 15 23:56:11 UTC 2018: Updating status
+Tue May 15 23:56:11 UTC 2018: Working
+Tue May 15 23:56:13 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.NumberUtilsTest
+Tue May 15 23:56:13 UTC 2018: Setting lastTestMethodIndex: 52067
+Tue May 15 23:56:13 UTC 2018: Starting linking
+Tue May 15 23:56:13 UTC 2018: Code found com.googlecode.jmxtrans.util.NumberUtils-isValidNumber with com.googlecode.jmxtrans.util.NumberUtilsTest-testIsValidNumber
+Tue May 15 23:56:13 UTC 2018: Code found com.googlecode.jmxtrans.util.NumberUtils-isNumeric with com.googlecode.jmxtrans.util.NumberUtilsTest-testIsNumeric
+Tue May 15 23:56:13 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.NumberUtilsTest
+Tue May 15 23:56:14 UTC 2018: Found element on the queue
+Tue May 15 23:56:14 UTC 2018: Updating status
+Tue May 15 23:56:14 UTC 2018: Working
+Tue May 15 23:56:16 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.ObjectToDoubleTest
+Tue May 15 23:56:16 UTC 2018: Setting lastTestMethodIndex: 52068
+Tue May 15 23:56:16 UTC 2018: Starting linking
+Tue May 15 23:56:16 UTC 2018: No link for: com.googlecode.jmxtrans.util.ObjectToDoubleTest-stringIsNotConverted
+Tue May 15 23:56:17 UTC 2018: No link for: com.googlecode.jmxtrans.util.ObjectToDoubleTest-doubleReturnedAsItself
+Tue May 15 23:56:17 UTC 2018: No link for: com.googlecode.jmxtrans.util.ObjectToDoubleTest-integerIsConvertedToDouble
+Tue May 15 23:56:17 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.ObjectToDoubleTest
+Tue May 15 23:56:18 UTC 2018: Found element on the queue
+Tue May 15 23:56:18 UTC 2018: Updating status
+Tue May 15 23:56:18 UTC 2018: Working
+Tue May 15 23:56:20 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.OnlyOnceLoggerTest
+Tue May 15 23:56:20 UTC 2018: Setting lastTestMethodIndex: 52071
+Tue May 15 23:56:20 UTC 2018: Starting linking
+Tue May 15 23:56:20 UTC 2018: No link for: com.googlecode.jmxtrans.util.OnlyOnceLoggerTest-sameMessageShouldOnlyBeLoggedOnce
+Tue May 15 23:56:21 UTC 2018: No link for: com.googlecode.jmxtrans.util.OnlyOnceLoggerTest-differentMessagesShouldAllBeLogged
+Tue May 15 23:56:21 UTC 2018: No link for: com.googlecode.jmxtrans.util.OnlyOnceLoggerTest-dontLogIfLoggingIsDisabled
+Tue May 15 23:56:21 UTC 2018: No link for: com.googlecode.jmxtrans.util.OnlyOnceLoggerTest-nothingIsLoggedWhenMaxHistorySizeIsReached
+Tue May 15 23:56:21 UTC 2018: No link for: com.googlecode.jmxtrans.util.OnlyOnceLoggerTest-differentArgumentsShouldAllBeLogged
+Tue May 15 23:56:22 UTC 2018: No link for: com.googlecode.jmxtrans.util.OnlyOnceLoggerTest-firstMessageShouldBeLogged
+Tue May 15 23:56:22 UTC 2018: No link for: com.googlecode.jmxtrans.util.OnlyOnceLoggerTest-interleavedMessagesShouldBeLoggedOnlyOnce
+Tue May 15 23:56:22 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.OnlyOnceLoggerTest
+Tue May 15 23:56:23 UTC 2018: Found element on the queue
+Tue May 15 23:56:23 UTC 2018: Updating status
+Tue May 15 23:56:23 UTC 2018: Working
+Tue May 15 23:56:25 UTC 2018: Start jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.ManualClockTest
+Tue May 15 23:56:25 UTC 2018: Setting lastTestMethodIndex: 52076
+Tue May 15 23:56:25 UTC 2018: Starting linking
+Tue May 15 23:56:25 UTC 2018: Code found com.googlecode.jmxtrans.util.ManualClock-waitFor with com.googlecode.jmxtrans.util.ManualClockTest-canWaitForDuration
+Tue May 15 23:56:25 UTC 2018: No link for: com.googlecode.jmxtrans.util.ManualClockTest-clockCanBeInitialized
+Tue May 15 23:56:25 UTC 2018: Linking done for jmxtrans__jmxtrans test class com.googlecode.jmxtrans.util.ManualClockTest

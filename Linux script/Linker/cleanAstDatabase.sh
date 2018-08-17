@@ -1,0 +1,1 @@
+echo "DELETE FROM queue; INSERT INTO queue (SELECT * FROM unittests.queue); UPDATE queue SET complete = 0, bussy = 0; DELETE FROM registration; DELETE FROM test_method;" | mysql -u root -pinfosupport unittests_ast
